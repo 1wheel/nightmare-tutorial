@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jul 2002,To: 11 Jul 2002,Belarus,FY 2002,15,Baptist,10,158
+From: 11 Jul 2002,To: 11 Jul 2002,Belarus,FY 2002,15,Pentecostalist,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Bosnia and Herzegovina,FY 2002,12,Moslem,12,158
+From: 11 Jul 2002,To: 11 Jul 2002,Colombia,FY 2002,1,Catholic,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Cuba,FY 2002,6,No Religion,6,158
+From: 11 Jul 2002,To: 11 Jul 2002,Iran,FY 2002,4,Atheist,3,158
+From: 11 Jul 2002,To: 11 Jul 2002,Iran,FY 2002,4,Protestant,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Iraq,FY 2002,16,Moslem,14,158
+From: 11 Jul 2002,To: 11 Jul 2002,Iraq,FY 2002,16,Moslem Suni,2,158
+From: 11 Jul 2002,To: 11 Jul 2002,Moldova,FY 2002,14,Pentecostalist,14,158
+From: 11 Jul 2002,To: 11 Jul 2002,Somalia,FY 2002,5,Moslem,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Sudan,FY 2002,4,Catholic,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Sudan,FY 2002,4,Moslem,3,158
+From: 11 Jul 2002,To: 11 Jul 2002,Ukraine,FY 2002,36,Baptist,18,158
+From: 11 Jul 2002,To: 11 Jul 2002,Ukraine,FY 2002,36,Jewish,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Ukraine,FY 2002,36,Pentecostalist,7,158
+From: 11 Jul 2002,To: 11 Jul 2002,Ukraine,FY 2002,36,Seventh Day Adventist,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Ukraine,FY 2002,36,Uniate,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Vietnam,FY 2002,45,Protestant,25,158
+From: 11 Jul 2002,To: 11 Jul 2002,Vietnam,FY 2002,45,Unknown,20,158
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jul 2002,To: 11 Jul 2002,Atheist,FY 2002,3,Iran,3,158
+From: 11 Jul 2002,To: 11 Jul 2002,Baptist,FY 2002,28,Belarus,10,158
+From: 11 Jul 2002,To: 11 Jul 2002,Baptist,FY 2002,28,Ukraine,18,158
+From: 11 Jul 2002,To: 11 Jul 2002,Catholic,FY 2002,2,Colombia,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Catholic,FY 2002,2,Sudan,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Jewish,FY 2002,5,Ukraine,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Moslem,FY 2002,34,Bosnia and Herzegovina,12,158
+From: 11 Jul 2002,To: 11 Jul 2002,Moslem,FY 2002,34,Iraq,14,158
+From: 11 Jul 2002,To: 11 Jul 2002,Moslem,FY 2002,34,Somalia,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Moslem,FY 2002,34,Sudan,3,158
+From: 11 Jul 2002,To: 11 Jul 2002,Moslem Suni,FY 2002,2,Iraq,2,158
+From: 11 Jul 2002,To: 11 Jul 2002,No Religion,FY 2002,6,Cuba,6,158
+From: 11 Jul 2002,To: 11 Jul 2002,Pentecostalist,FY 2002,26,Belarus,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Pentecostalist,FY 2002,26,Moldova,14,158
+From: 11 Jul 2002,To: 11 Jul 2002,Pentecostalist,FY 2002,26,Ukraine,7,158
+From: 11 Jul 2002,To: 11 Jul 2002,Protestant,FY 2002,26,Iran,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Protestant,FY 2002,26,Vietnam,25,158
+From: 11 Jul 2002,To: 11 Jul 2002,Seventh Day Adventist,FY 2002,5,Ukraine,5,158
+From: 11 Jul 2002,To: 11 Jul 2002,Uniate,FY 2002,1,Ukraine,1,158
+From: 11 Jul 2002,To: 11 Jul 2002,Unknown,FY 2002,20,Vietnam,20,158
+

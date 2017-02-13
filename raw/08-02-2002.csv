@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Aug 2002,To: 02 Aug 2002,Croatia,FY 2002,2,Catholic,2,86
+From: 02 Aug 2002,To: 02 Aug 2002,Liberia,FY 2002,5,Moslem,5,86
+From: 02 Aug 2002,To: 02 Aug 2002,Moldova,FY 2002,13,Baptist,3,86
+From: 02 Aug 2002,To: 02 Aug 2002,Moldova,FY 2002,13,Pentecostalist,10,86
+From: 02 Aug 2002,To: 02 Aug 2002,Serbia,FY 2002,32,Orthodox,32,86
+From: 02 Aug 2002,To: 02 Aug 2002,Ukraine,FY 2002,4,Unknown,4,86
+From: 02 Aug 2002,To: 02 Aug 2002,Vietnam,FY 2002,30,Unknown,30,86
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Aug 2002,To: 02 Aug 2002,Baptist,FY 2002,3,Moldova,3,86
+From: 02 Aug 2002,To: 02 Aug 2002,Catholic,FY 2002,2,Croatia,2,86
+From: 02 Aug 2002,To: 02 Aug 2002,Moslem,FY 2002,5,Liberia,5,86
+From: 02 Aug 2002,To: 02 Aug 2002,Orthodox,FY 2002,32,Serbia,32,86
+From: 02 Aug 2002,To: 02 Aug 2002,Pentecostalist,FY 2002,10,Moldova,10,86
+From: 02 Aug 2002,To: 02 Aug 2002,Unknown,FY 2002,34,Ukraine,4,86
+From: 02 Aug 2002,To: 02 Aug 2002,Unknown,FY 2002,34,Vietnam,30,86
+

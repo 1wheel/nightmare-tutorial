@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jun 2002,To: 12 Jun 2002,Afghanistan,FY 2002,28,Moslem Shiite,13,212
+From: 12 Jun 2002,To: 12 Jun 2002,Afghanistan,FY 2002,28,Moslem Suni,15,212
+From: 12 Jun 2002,To: 12 Jun 2002,Bosnia and Herzegovina,FY 2002,64,Catholic,3,212
+From: 12 Jun 2002,To: 12 Jun 2002,Bosnia and Herzegovina,FY 2002,64,Moslem,61,212
+From: 12 Jun 2002,To: 12 Jun 2002,Cuba,FY 2002,14,Catholic,2,212
+From: 12 Jun 2002,To: 12 Jun 2002,Cuba,FY 2002,14,No Religion,12,212
+From: 12 Jun 2002,To: 12 Jun 2002,Eritrea,FY 2002,1,Jehovah Witness,1,212
+From: 12 Jun 2002,To: 12 Jun 2002,Ethiopia,FY 2002,2,Orthodox,2,212
+From: 12 Jun 2002,To: 12 Jun 2002,Iraq,FY 2002,27,Christian,12,212
+From: 12 Jun 2002,To: 12 Jun 2002,Iraq,FY 2002,27,Moslem,15,212
+From: 12 Jun 2002,To: 12 Jun 2002,Liberia,FY 2002,18,Christian,5,212
+From: 12 Jun 2002,To: 12 Jun 2002,Liberia,FY 2002,18,Lutheran,3,212
+From: 12 Jun 2002,To: 12 Jun 2002,Liberia,FY 2002,18,Methodist,10,212
+From: 12 Jun 2002,To: 12 Jun 2002,Somalia,FY 2002,7,Moslem,7,212
+From: 12 Jun 2002,To: 12 Jun 2002,Sudan,FY 2002,34,Catholic,8,212
+From: 12 Jun 2002,To: 12 Jun 2002,Sudan,FY 2002,34,Christian,13,212
+From: 12 Jun 2002,To: 12 Jun 2002,Sudan,FY 2002,34,Moslem,6,212
+From: 12 Jun 2002,To: 12 Jun 2002,Sudan,FY 2002,34,Orthodox,1,212
+From: 12 Jun 2002,To: 12 Jun 2002,Sudan,FY 2002,34,Protestant,6,212
+From: 12 Jun 2002,To: 12 Jun 2002,Uzbekistan,FY 2002,16,Jewish,16,212
+From: 12 Jun 2002,To: 12 Jun 2002,Vietnam,FY 2002,1,Unknown,1,212
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jun 2002,To: 12 Jun 2002,Catholic,FY 2002,13,Bosnia and Herzegovina,3,212
+From: 12 Jun 2002,To: 12 Jun 2002,Catholic,FY 2002,13,Cuba,2,212
+From: 12 Jun 2002,To: 12 Jun 2002,Catholic,FY 2002,13,Sudan,8,212
+From: 12 Jun 2002,To: 12 Jun 2002,Christian,FY 2002,30,Iraq,12,212
+From: 12 Jun 2002,To: 12 Jun 2002,Christian,FY 2002,30,Liberia,5,212
+From: 12 Jun 2002,To: 12 Jun 2002,Christian,FY 2002,30,Sudan,13,212
+From: 12 Jun 2002,To: 12 Jun 2002,Jehovah Witness,FY 2002,1,Eritrea,1,212
+From: 12 Jun 2002,To: 12 Jun 2002,Jewish,FY 2002,16,Uzbekistan,16,212
+From: 12 Jun 2002,To: 12 Jun 2002,Lutheran,FY 2002,3,Liberia,3,212
+From: 12 Jun 2002,To: 12 Jun 2002,Methodist,FY 2002,10,Liberia,10,212
+From: 12 Jun 2002,To: 12 Jun 2002,Moslem,FY 2002,89,Bosnia and Herzegovina,61,212
+From: 12 Jun 2002,To: 12 Jun 2002,Moslem,FY 2002,89,Iraq,15,212
+From: 12 Jun 2002,To: 12 Jun 2002,Moslem,FY 2002,89,Somalia,7,212
+From: 12 Jun 2002,To: 12 Jun 2002,Moslem,FY 2002,89,Sudan,6,212
+From: 12 Jun 2002,To: 12 Jun 2002,Moslem Shiite,FY 2002,13,Afghanistan,13,212
+From: 12 Jun 2002,To: 12 Jun 2002,Moslem Suni,FY 2002,15,Afghanistan,15,212
+From: 12 Jun 2002,To: 12 Jun 2002,No Religion,FY 2002,12,Cuba,12,212
+From: 12 Jun 2002,To: 12 Jun 2002,Orthodox,FY 2002,3,Ethiopia,2,212
+From: 12 Jun 2002,To: 12 Jun 2002,Orthodox,FY 2002,3,Sudan,1,212
+From: 12 Jun 2002,To: 12 Jun 2002,Protestant,FY 2002,6,Sudan,6,212
+From: 12 Jun 2002,To: 12 Jun 2002,Unknown,FY 2002,1,Vietnam,1,212
+

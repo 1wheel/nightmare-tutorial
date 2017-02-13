@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 May 2002,To: 06 May 2002,Afghanistan,FY 2002,22,Moslem,22,84
+From: 06 May 2002,To: 06 May 2002,Belarus,FY 2002,34,Baptist,3,84
+From: 06 May 2002,To: 06 May 2002,Belarus,FY 2002,34,No Religion,4,84
+From: 06 May 2002,To: 06 May 2002,Belarus,FY 2002,34,Pentecostalist,27,84
+From: 06 May 2002,To: 06 May 2002,Russia,FY 2002,12,Jewish,8,84
+From: 06 May 2002,To: 06 May 2002,Russia,FY 2002,12,Unknown,4,84
+From: 06 May 2002,To: 06 May 2002,Uzbekistan,FY 2002,16,Jewish,14,84
+From: 06 May 2002,To: 06 May 2002,Uzbekistan,FY 2002,16,Pentecostalist,2,84
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 May 2002,To: 06 May 2002,Baptist,FY 2002,3,Belarus,3,84
+From: 06 May 2002,To: 06 May 2002,Jewish,FY 2002,22,Russia,8,84
+From: 06 May 2002,To: 06 May 2002,Jewish,FY 2002,22,Uzbekistan,14,84
+From: 06 May 2002,To: 06 May 2002,Moslem,FY 2002,22,Afghanistan,22,84
+From: 06 May 2002,To: 06 May 2002,No Religion,FY 2002,4,Belarus,4,84
+From: 06 May 2002,To: 06 May 2002,Pentecostalist,FY 2002,29,Belarus,27,84
+From: 06 May 2002,To: 06 May 2002,Pentecostalist,FY 2002,29,Uzbekistan,2,84
+From: 06 May 2002,To: 06 May 2002,Unknown,FY 2002,4,Russia,4,84
+

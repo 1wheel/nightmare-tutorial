@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jul 2002,To: 05 Jul 2002,Bosnia and Herzegovina,FY 2002,5,No Religion,5,134
+From: 05 Jul 2002,To: 05 Jul 2002,Estonia,FY 2002,2,Baptist,2,134
+From: 05 Jul 2002,To: 05 Jul 2002,Kazakhstan,FY 2002,5,Pentecostalist,5,134
+From: 05 Jul 2002,To: 05 Jul 2002,Latvia,FY 2002,13,Baptist,9,134
+From: 05 Jul 2002,To: 05 Jul 2002,Latvia,FY 2002,13,Jewish,4,134
+From: 05 Jul 2002,To: 05 Jul 2002,Liberia,FY 2002,10,Christian,10,134
+From: 05 Jul 2002,To: 05 Jul 2002,Serbia,FY 2002,30,No Religion,8,134
+From: 05 Jul 2002,To: 05 Jul 2002,Serbia,FY 2002,30,Orthodox,22,134
+From: 05 Jul 2002,To: 05 Jul 2002,Sierra Leone,FY 2002,2,Christian,1,134
+From: 05 Jul 2002,To: 05 Jul 2002,Sierra Leone,FY 2002,2,Moslem,1,134
+From: 05 Jul 2002,To: 05 Jul 2002,Ukraine,FY 2002,67,Baptist,15,134
+From: 05 Jul 2002,To: 05 Jul 2002,Ukraine,FY 2002,67,Jewish,5,134
+From: 05 Jul 2002,To: 05 Jul 2002,Ukraine,FY 2002,67,No Religion,1,134
+From: 05 Jul 2002,To: 05 Jul 2002,Ukraine,FY 2002,67,Pentecostalist,44,134
+From: 05 Jul 2002,To: 05 Jul 2002,Ukraine,FY 2002,67,Unknown,2,134
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jul 2002,To: 05 Jul 2002,Baptist,FY 2002,26,Estonia,2,134
+From: 05 Jul 2002,To: 05 Jul 2002,Baptist,FY 2002,26,Latvia,9,134
+From: 05 Jul 2002,To: 05 Jul 2002,Baptist,FY 2002,26,Ukraine,15,134
+From: 05 Jul 2002,To: 05 Jul 2002,Christian,FY 2002,11,Liberia,10,134
+From: 05 Jul 2002,To: 05 Jul 2002,Christian,FY 2002,11,Sierra Leone,1,134
+From: 05 Jul 2002,To: 05 Jul 2002,Jewish,FY 2002,9,Latvia,4,134
+From: 05 Jul 2002,To: 05 Jul 2002,Jewish,FY 2002,9,Ukraine,5,134
+From: 05 Jul 2002,To: 05 Jul 2002,Moslem,FY 2002,1,Sierra Leone,1,134
+From: 05 Jul 2002,To: 05 Jul 2002,No Religion,FY 2002,14,Bosnia and Herzegovina,5,134
+From: 05 Jul 2002,To: 05 Jul 2002,No Religion,FY 2002,14,Serbia,8,134
+From: 05 Jul 2002,To: 05 Jul 2002,No Religion,FY 2002,14,Ukraine,1,134
+From: 05 Jul 2002,To: 05 Jul 2002,Orthodox,FY 2002,22,Serbia,22,134
+From: 05 Jul 2002,To: 05 Jul 2002,Pentecostalist,FY 2002,49,Kazakhstan,5,134
+From: 05 Jul 2002,To: 05 Jul 2002,Pentecostalist,FY 2002,49,Ukraine,44,134
+From: 05 Jul 2002,To: 05 Jul 2002,Unknown,FY 2002,2,Ukraine,2,134
+

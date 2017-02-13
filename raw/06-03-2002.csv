@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jun 2002,To: 03 Jun 2002,Afghanistan,FY 2002,23,Moslem,23,120
+From: 03 Jun 2002,To: 03 Jun 2002,Bosnia and Herzegovina,FY 2002,58,Catholic,1,120
+From: 03 Jun 2002,To: 03 Jun 2002,Bosnia and Herzegovina,FY 2002,58,Moslem,54,120
+From: 03 Jun 2002,To: 03 Jun 2002,Bosnia and Herzegovina,FY 2002,58,Orthodox,3,120
+From: 03 Jun 2002,To: 03 Jun 2002,Russia,FY 2002,4,Jewish,4,120
+From: 03 Jun 2002,To: 03 Jun 2002,Uzbekistan,FY 2002,35,Baptist,13,120
+From: 03 Jun 2002,To: 03 Jun 2002,Uzbekistan,FY 2002,35,Evangelical Christian,4,120
+From: 03 Jun 2002,To: 03 Jun 2002,Uzbekistan,FY 2002,35,Jewish,15,120
+From: 03 Jun 2002,To: 03 Jun 2002,Uzbekistan,FY 2002,35,No Religion,1,120
+From: 03 Jun 2002,To: 03 Jun 2002,Uzbekistan,FY 2002,35,Unknown,2,120
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jun 2002,To: 03 Jun 2002,Baptist,FY 2002,13,Uzbekistan,13,120
+From: 03 Jun 2002,To: 03 Jun 2002,Catholic,FY 2002,1,Bosnia and Herzegovina,1,120
+From: 03 Jun 2002,To: 03 Jun 2002,Evangelical Christian,FY 2002,4,Uzbekistan,4,120
+From: 03 Jun 2002,To: 03 Jun 2002,Jewish,FY 2002,19,Russia,4,120
+From: 03 Jun 2002,To: 03 Jun 2002,Jewish,FY 2002,19,Uzbekistan,15,120
+From: 03 Jun 2002,To: 03 Jun 2002,Moslem,FY 2002,77,Afghanistan,23,120
+From: 03 Jun 2002,To: 03 Jun 2002,Moslem,FY 2002,77,Bosnia and Herzegovina,54,120
+From: 03 Jun 2002,To: 03 Jun 2002,No Religion,FY 2002,1,Uzbekistan,1,120
+From: 03 Jun 2002,To: 03 Jun 2002,Orthodox,FY 2002,3,Bosnia and Herzegovina,3,120
+From: 03 Jun 2002,To: 03 Jun 2002,Unknown,FY 2002,2,Uzbekistan,2,120
+

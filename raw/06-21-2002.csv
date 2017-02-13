@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jun 2002,To: 21 Jun 2002,Bosnia and Herzegovina,FY 2002,14,Moslem,14,224
+From: 21 Jun 2002,To: 21 Jun 2002,Cuba,FY 2002,20,Jehovah Witness,13,224
+From: 21 Jun 2002,To: 21 Jun 2002,Cuba,FY 2002,20,No Religion,7,224
+From: 21 Jun 2002,To: 21 Jun 2002,Kazakhstan,FY 2002,2,Baptist,2,224
+From: 21 Jun 2002,To: 21 Jun 2002,Liberia,FY 2002,20,Christian,19,224
+From: 21 Jun 2002,To: 21 Jun 2002,Liberia,FY 2002,20,Unknown,1,224
+From: 21 Jun 2002,To: 21 Jun 2002,Moldova,FY 2002,21,Baptist,5,224
+From: 21 Jun 2002,To: 21 Jun 2002,Moldova,FY 2002,21,Pentecostalist,16,224
+From: 21 Jun 2002,To: 21 Jun 2002,Russia,FY 2002,27,Baptist,8,224
+From: 21 Jun 2002,To: 21 Jun 2002,Russia,FY 2002,27,Jewish,4,224
+From: 21 Jun 2002,To: 21 Jun 2002,Russia,FY 2002,27,No Religion,6,224
+From: 21 Jun 2002,To: 21 Jun 2002,Russia,FY 2002,27,Pentecostalist,9,224
+From: 21 Jun 2002,To: 21 Jun 2002,Sierra Leone,FY 2002,2,Christian,2,224
+From: 21 Jun 2002,To: 21 Jun 2002,Ukraine,FY 2002,53,Baptist,18,224
+From: 21 Jun 2002,To: 21 Jun 2002,Ukraine,FY 2002,53,Evangelical Christian,7,224
+From: 21 Jun 2002,To: 21 Jun 2002,Ukraine,FY 2002,53,Jewish,4,224
+From: 21 Jun 2002,To: 21 Jun 2002,Ukraine,FY 2002,53,Pentecostalist,24,224
+From: 21 Jun 2002,To: 21 Jun 2002,Uzbekistan,FY 2002,15,Jewish,11,224
+From: 21 Jun 2002,To: 21 Jun 2002,Uzbekistan,FY 2002,15,No Religion,4,224
+From: 21 Jun 2002,To: 21 Jun 2002,Vietnam,FY 2002,50,Catholic,3,224
+From: 21 Jun 2002,To: 21 Jun 2002,Vietnam,FY 2002,50,Protestant,47,224
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jun 2002,To: 21 Jun 2002,Baptist,FY 2002,33,Kazakhstan,2,224
+From: 21 Jun 2002,To: 21 Jun 2002,Baptist,FY 2002,33,Moldova,5,224
+From: 21 Jun 2002,To: 21 Jun 2002,Baptist,FY 2002,33,Russia,8,224
+From: 21 Jun 2002,To: 21 Jun 2002,Baptist,FY 2002,33,Ukraine,18,224
+From: 21 Jun 2002,To: 21 Jun 2002,Catholic,FY 2002,3,Vietnam,3,224
+From: 21 Jun 2002,To: 21 Jun 2002,Christian,FY 2002,21,Liberia,19,224
+From: 21 Jun 2002,To: 21 Jun 2002,Christian,FY 2002,21,Sierra Leone,2,224
+From: 21 Jun 2002,To: 21 Jun 2002,Evangelical Christian,FY 2002,7,Ukraine,7,224
+From: 21 Jun 2002,To: 21 Jun 2002,Jehovah Witness,FY 2002,13,Cuba,13,224
+From: 21 Jun 2002,To: 21 Jun 2002,Jewish,FY 2002,19,Russia,4,224
+From: 21 Jun 2002,To: 21 Jun 2002,Jewish,FY 2002,19,Ukraine,4,224
+From: 21 Jun 2002,To: 21 Jun 2002,Jewish,FY 2002,19,Uzbekistan,11,224
+From: 21 Jun 2002,To: 21 Jun 2002,Moslem,FY 2002,14,Bosnia and Herzegovina,14,224
+From: 21 Jun 2002,To: 21 Jun 2002,No Religion,FY 2002,17,Cuba,7,224
+From: 21 Jun 2002,To: 21 Jun 2002,No Religion,FY 2002,17,Russia,6,224
+From: 21 Jun 2002,To: 21 Jun 2002,No Religion,FY 2002,17,Uzbekistan,4,224
+From: 21 Jun 2002,To: 21 Jun 2002,Pentecostalist,FY 2002,49,Moldova,16,224
+From: 21 Jun 2002,To: 21 Jun 2002,Pentecostalist,FY 2002,49,Russia,9,224
+From: 21 Jun 2002,To: 21 Jun 2002,Pentecostalist,FY 2002,49,Ukraine,24,224
+From: 21 Jun 2002,To: 21 Jun 2002,Protestant,FY 2002,47,Vietnam,47,224
+From: 21 Jun 2002,To: 21 Jun 2002,Unknown,FY 2002,1,Liberia,1,224
+

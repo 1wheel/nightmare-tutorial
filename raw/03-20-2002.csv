@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Mar 2002,To: 20 Mar 2002,Afghanistan,FY 2002,28,Christian,8,189
+From: 20 Mar 2002,To: 20 Mar 2002,Afghanistan,FY 2002,28,Moslem,8,189
+From: 20 Mar 2002,To: 20 Mar 2002,Afghanistan,FY 2002,28,Moslem Suni,12,189
+From: 20 Mar 2002,To: 20 Mar 2002,Belarus,FY 2002,1,Evangelical Christian,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Bosnia and Herzegovina,FY 2002,29,Moslem,25,189
+From: 20 Mar 2002,To: 20 Mar 2002,Bosnia and Herzegovina,FY 2002,29,Orthodox,4,189
+From: 20 Mar 2002,To: 20 Mar 2002,Cuba,FY 2002,27,Catholic,11,189
+From: 20 Mar 2002,To: 20 Mar 2002,Cuba,FY 2002,27,Jehovah Witness,3,189
+From: 20 Mar 2002,To: 20 Mar 2002,Cuba,FY 2002,27,No Religion,13,189
+From: 20 Mar 2002,To: 20 Mar 2002,Dem. Rep. Congo,FY 2002,1,Christian,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Russia,FY 2002,24,Baptist,10,189
+From: 20 Mar 2002,To: 20 Mar 2002,Russia,FY 2002,24,Jewish,11,189
+From: 20 Mar 2002,To: 20 Mar 2002,Russia,FY 2002,24,No Religion,3,189
+From: 20 Mar 2002,To: 20 Mar 2002,Uganda,FY 2002,2,Protestant,2,189
+From: 20 Mar 2002,To: 20 Mar 2002,Ukraine,FY 2002,30,Baptist,15,189
+From: 20 Mar 2002,To: 20 Mar 2002,Ukraine,FY 2002,30,Evangelical Christian,6,189
+From: 20 Mar 2002,To: 20 Mar 2002,Ukraine,FY 2002,30,No Religion,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Ukraine,FY 2002,30,Pentecostalist,7,189
+From: 20 Mar 2002,To: 20 Mar 2002,Ukraine,FY 2002,30,Unknown,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Vietnam,FY 2002,47,Unknown,47,189
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Mar 2002,To: 20 Mar 2002,Baptist,FY 2002,25,Russia,10,189
+From: 20 Mar 2002,To: 20 Mar 2002,Baptist,FY 2002,25,Ukraine,15,189
+From: 20 Mar 2002,To: 20 Mar 2002,Catholic,FY 2002,11,Cuba,11,189
+From: 20 Mar 2002,To: 20 Mar 2002,Christian,FY 2002,9,Afghanistan,8,189
+From: 20 Mar 2002,To: 20 Mar 2002,Christian,FY 2002,9,Dem. Rep. Congo,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Evangelical Christian,FY 2002,7,Belarus,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Evangelical Christian,FY 2002,7,Ukraine,6,189
+From: 20 Mar 2002,To: 20 Mar 2002,Jehovah Witness,FY 2002,3,Cuba,3,189
+From: 20 Mar 2002,To: 20 Mar 2002,Jewish,FY 2002,11,Russia,11,189
+From: 20 Mar 2002,To: 20 Mar 2002,Moslem,FY 2002,33,Afghanistan,8,189
+From: 20 Mar 2002,To: 20 Mar 2002,Moslem,FY 2002,33,Bosnia and Herzegovina,25,189
+From: 20 Mar 2002,To: 20 Mar 2002,Moslem Suni,FY 2002,12,Afghanistan,12,189
+From: 20 Mar 2002,To: 20 Mar 2002,No Religion,FY 2002,17,Cuba,13,189
+From: 20 Mar 2002,To: 20 Mar 2002,No Religion,FY 2002,17,Russia,3,189
+From: 20 Mar 2002,To: 20 Mar 2002,No Religion,FY 2002,17,Ukraine,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Orthodox,FY 2002,4,Bosnia and Herzegovina,4,189
+From: 20 Mar 2002,To: 20 Mar 2002,Pentecostalist,FY 2002,7,Ukraine,7,189
+From: 20 Mar 2002,To: 20 Mar 2002,Protestant,FY 2002,2,Uganda,2,189
+From: 20 Mar 2002,To: 20 Mar 2002,Unknown,FY 2002,48,Ukraine,1,189
+From: 20 Mar 2002,To: 20 Mar 2002,Unknown,FY 2002,48,Vietnam,47,189
+

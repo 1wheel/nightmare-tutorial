@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Nov 2002,To: 12 Nov 2002,Azerbaijan,FY 2003,3,Christian,3,141
+From: 12 Nov 2002,To: 12 Nov 2002,Belarus,FY 2003,4,Pentecostalist,4,141
+From: 12 Nov 2002,To: 12 Nov 2002,Bosnia and Herzegovina,FY 2003,19,Moslem,19,141
+From: 12 Nov 2002,To: 12 Nov 2002,Iran,FY 2003,26,Bahai,2,141
+From: 12 Nov 2002,To: 12 Nov 2002,Iran,FY 2003,26,Christian,5,141
+From: 12 Nov 2002,To: 12 Nov 2002,Iran,FY 2003,26,Jewish,19,141
+From: 12 Nov 2002,To: 12 Nov 2002,Russia,FY 2003,8,Baptist,8,141
+From: 12 Nov 2002,To: 12 Nov 2002,Somalia,FY 2003,3,Moslem,3,141
+From: 12 Nov 2002,To: 12 Nov 2002,Sudan,FY 2003,43,Catholic,21,141
+From: 12 Nov 2002,To: 12 Nov 2002,Sudan,FY 2003,43,Moslem,12,141
+From: 12 Nov 2002,To: 12 Nov 2002,Sudan,FY 2003,43,Protestant,10,141
+From: 12 Nov 2002,To: 12 Nov 2002,Ukraine,FY 2003,35,Baptist,14,141
+From: 12 Nov 2002,To: 12 Nov 2002,Ukraine,FY 2003,35,Pentecostalist,20,141
+From: 12 Nov 2002,To: 12 Nov 2002,Ukraine,FY 2003,35,Unknown,1,141
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Nov 2002,To: 12 Nov 2002,Bahai,FY 2003,2,Iran,2,141
+From: 12 Nov 2002,To: 12 Nov 2002,Baptist,FY 2003,22,Russia,8,141
+From: 12 Nov 2002,To: 12 Nov 2002,Baptist,FY 2003,22,Ukraine,14,141
+From: 12 Nov 2002,To: 12 Nov 2002,Catholic,FY 2003,21,Sudan,21,141
+From: 12 Nov 2002,To: 12 Nov 2002,Christian,FY 2003,8,Azerbaijan,3,141
+From: 12 Nov 2002,To: 12 Nov 2002,Christian,FY 2003,8,Iran,5,141
+From: 12 Nov 2002,To: 12 Nov 2002,Jewish,FY 2003,19,Iran,19,141
+From: 12 Nov 2002,To: 12 Nov 2002,Moslem,FY 2003,34,Bosnia and Herzegovina,19,141
+From: 12 Nov 2002,To: 12 Nov 2002,Moslem,FY 2003,34,Somalia,3,141
+From: 12 Nov 2002,To: 12 Nov 2002,Moslem,FY 2003,34,Sudan,12,141
+From: 12 Nov 2002,To: 12 Nov 2002,Pentecostalist,FY 2003,24,Belarus,4,141
+From: 12 Nov 2002,To: 12 Nov 2002,Pentecostalist,FY 2003,24,Ukraine,20,141
+From: 12 Nov 2002,To: 12 Nov 2002,Protestant,FY 2003,10,Sudan,10,141
+From: 12 Nov 2002,To: 12 Nov 2002,Unknown,FY 2003,1,Ukraine,1,141
+

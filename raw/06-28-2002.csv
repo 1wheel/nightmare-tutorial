@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2002,To: 28 Jun 2002,Cuba,FY 2002,15,Catholic,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Cuba,FY 2002,15,Christian,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Cuba,FY 2002,15,Jehovah Witness,2,101
+From: 28 Jun 2002,To: 28 Jun 2002,Cuba,FY 2002,15,No Religion,6,101
+From: 28 Jun 2002,To: 28 Jun 2002,Cuba,FY 2002,15,Seventh Day Adventist,1,101
+From: 28 Jun 2002,To: 28 Jun 2002,Liberia,FY 2002,15,Bahai,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Liberia,FY 2002,15,Christian,12,101
+From: 28 Jun 2002,To: 28 Jun 2002,Moldova,FY 2002,21,Baptist,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Moldova,FY 2002,21,Pentecostalist,18,101
+From: 28 Jun 2002,To: 28 Jun 2002,Vietnam,FY 2002,50,Protestant,50,101
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2002,To: 28 Jun 2002,Bahai,FY 2002,3,Liberia,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Baptist,FY 2002,3,Moldova,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Catholic,FY 2002,3,Cuba,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Christian,FY 2002,15,Cuba,3,101
+From: 28 Jun 2002,To: 28 Jun 2002,Christian,FY 2002,15,Liberia,12,101
+From: 28 Jun 2002,To: 28 Jun 2002,Jehovah Witness,FY 2002,2,Cuba,2,101
+From: 28 Jun 2002,To: 28 Jun 2002,No Religion,FY 2002,6,Cuba,6,101
+From: 28 Jun 2002,To: 28 Jun 2002,Pentecostalist,FY 2002,18,Moldova,18,101
+From: 28 Jun 2002,To: 28 Jun 2002,Protestant,FY 2002,50,Vietnam,50,101
+From: 28 Jun 2002,To: 28 Jun 2002,Seventh Day Adventist,FY 2002,1,Cuba,1,101
+

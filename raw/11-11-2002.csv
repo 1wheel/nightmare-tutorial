@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Nov 2002,To: 11 Nov 2002,Bosnia and Herzegovina,FY 2003,12,Moslem,12,44
+From: 11 Nov 2002,To: 11 Nov 2002,Iraq,FY 2003,1,Moslem,1,44
+From: 11 Nov 2002,To: 11 Nov 2002,Moldova,FY 2003,10,Baptist,5,44
+From: 11 Nov 2002,To: 11 Nov 2002,Moldova,FY 2003,10,Pentecostalist,5,44
+From: 11 Nov 2002,To: 11 Nov 2002,Russia,FY 2003,4,Unknown,4,44
+From: 11 Nov 2002,To: 11 Nov 2002,Sierra Leone,FY 2003,5,Christian,2,44
+From: 11 Nov 2002,To: 11 Nov 2002,Sierra Leone,FY 2003,5,Moslem,3,44
+From: 11 Nov 2002,To: 11 Nov 2002,Syria,FY 2003,1,Moslem,1,44
+From: 11 Nov 2002,To: 11 Nov 2002,Uzbekistan,FY 2003,11,Jewish,10,44
+From: 11 Nov 2002,To: 11 Nov 2002,Uzbekistan,FY 2003,11,Orthodox,1,44
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Nov 2002,To: 11 Nov 2002,Baptist,FY 2003,5,Moldova,5,44
+From: 11 Nov 2002,To: 11 Nov 2002,Christian,FY 2003,2,Sierra Leone,2,44
+From: 11 Nov 2002,To: 11 Nov 2002,Jewish,FY 2003,10,Uzbekistan,10,44
+From: 11 Nov 2002,To: 11 Nov 2002,Moslem,FY 2003,17,Bosnia and Herzegovina,12,44
+From: 11 Nov 2002,To: 11 Nov 2002,Moslem,FY 2003,17,Iraq,1,44
+From: 11 Nov 2002,To: 11 Nov 2002,Moslem,FY 2003,17,Sierra Leone,3,44
+From: 11 Nov 2002,To: 11 Nov 2002,Moslem,FY 2003,17,Syria,1,44
+From: 11 Nov 2002,To: 11 Nov 2002,Orthodox,FY 2003,1,Uzbekistan,1,44
+From: 11 Nov 2002,To: 11 Nov 2002,Pentecostalist,FY 2003,5,Moldova,5,44
+From: 11 Nov 2002,To: 11 Nov 2002,Unknown,FY 2003,4,Russia,4,44
+

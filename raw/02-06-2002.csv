@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Feb 2002,To: 06 Feb 2002,Afghanistan,FY 2002,30,Moslem,30,187
+From: 06 Feb 2002,To: 06 Feb 2002,Armenia,FY 2002,4,Pentecostalist,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Azerbaijan,FY 2002,4,Jewish,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Belarus,FY 2002,3,Baptist,2,187
+From: 06 Feb 2002,To: 06 Feb 2002,Belarus,FY 2002,3,No Religion,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Bosnia and Herzegovina,FY 2002,29,Moslem,24,187
+From: 06 Feb 2002,To: 06 Feb 2002,Bosnia and Herzegovina,FY 2002,29,Orthodox,5,187
+From: 06 Feb 2002,To: 06 Feb 2002,Cuba,FY 2002,16,Baptist,2,187
+From: 06 Feb 2002,To: 06 Feb 2002,Cuba,FY 2002,16,Catholic,6,187
+From: 06 Feb 2002,To: 06 Feb 2002,Cuba,FY 2002,16,Jehovah Witness,3,187
+From: 06 Feb 2002,To: 06 Feb 2002,Cuba,FY 2002,16,No Religion,5,187
+From: 06 Feb 2002,To: 06 Feb 2002,Moldova,FY 2002,2,Atheist,2,187
+From: 06 Feb 2002,To: 06 Feb 2002,Russia,FY 2002,23,Baptist,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Russia,FY 2002,23,Evangelical Christian,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Russia,FY 2002,23,Jewish,12,187
+From: 06 Feb 2002,To: 06 Feb 2002,Russia,FY 2002,23,No Religion,6,187
+From: 06 Feb 2002,To: 06 Feb 2002,Serbia,FY 2002,1,Moslem,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Ukraine,FY 2002,12,Baptist,7,187
+From: 06 Feb 2002,To: 06 Feb 2002,Ukraine,FY 2002,12,Jewish,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Ukraine,FY 2002,12,Pentecostalist,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Uzbekistan,FY 2002,12,Jewish,11,187
+From: 06 Feb 2002,To: 06 Feb 2002,Uzbekistan,FY 2002,12,Unknown,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Vietnam,FY 2002,51,Unknown,51,187
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Feb 2002,To: 06 Feb 2002,Atheist,FY 2002,2,Moldova,2,187
+From: 06 Feb 2002,To: 06 Feb 2002,Baptist,FY 2002,15,Belarus,2,187
+From: 06 Feb 2002,To: 06 Feb 2002,Baptist,FY 2002,15,Cuba,2,187
+From: 06 Feb 2002,To: 06 Feb 2002,Baptist,FY 2002,15,Russia,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Baptist,FY 2002,15,Ukraine,7,187
+From: 06 Feb 2002,To: 06 Feb 2002,Catholic,FY 2002,6,Cuba,6,187
+From: 06 Feb 2002,To: 06 Feb 2002,Evangelical Christian,FY 2002,1,Russia,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Jehovah Witness,FY 2002,3,Cuba,3,187
+From: 06 Feb 2002,To: 06 Feb 2002,Jewish,FY 2002,28,Azerbaijan,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Jewish,FY 2002,28,Russia,12,187
+From: 06 Feb 2002,To: 06 Feb 2002,Jewish,FY 2002,28,Ukraine,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Jewish,FY 2002,28,Uzbekistan,11,187
+From: 06 Feb 2002,To: 06 Feb 2002,Moslem,FY 2002,55,Afghanistan,30,187
+From: 06 Feb 2002,To: 06 Feb 2002,Moslem,FY 2002,55,Bosnia and Herzegovina,24,187
+From: 06 Feb 2002,To: 06 Feb 2002,Moslem,FY 2002,55,Serbia,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,No Religion,FY 2002,12,Belarus,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,No Religion,FY 2002,12,Cuba,5,187
+From: 06 Feb 2002,To: 06 Feb 2002,No Religion,FY 2002,12,Russia,6,187
+From: 06 Feb 2002,To: 06 Feb 2002,Orthodox,FY 2002,5,Bosnia and Herzegovina,5,187
+From: 06 Feb 2002,To: 06 Feb 2002,Pentecostalist,FY 2002,8,Armenia,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Pentecostalist,FY 2002,8,Ukraine,4,187
+From: 06 Feb 2002,To: 06 Feb 2002,Unknown,FY 2002,52,Uzbekistan,1,187
+From: 06 Feb 2002,To: 06 Feb 2002,Unknown,FY 2002,52,Vietnam,51,187
+

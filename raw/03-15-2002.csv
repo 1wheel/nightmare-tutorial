@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Mar 2002,To: 15 Mar 2002,Belarus,FY 2002,6,Jewish,6,77
+From: 15 Mar 2002,To: 15 Mar 2002,Moldova,FY 2002,20,Baptist,4,77
+From: 15 Mar 2002,To: 15 Mar 2002,Moldova,FY 2002,20,Jehovah Witness,16,77
+From: 15 Mar 2002,To: 15 Mar 2002,Russia,FY 2002,23,Atheist,1,77
+From: 15 Mar 2002,To: 15 Mar 2002,Russia,FY 2002,23,Baptist,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Russia,FY 2002,23,Jewish,16,77
+From: 15 Mar 2002,To: 15 Mar 2002,Russia,FY 2002,23,No Religion,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Russia,FY 2002,23,Pentecostalist,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Ukraine,FY 2002,28,Baptist,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Ukraine,FY 2002,28,Jewish,7,77
+From: 15 Mar 2002,To: 15 Mar 2002,Ukraine,FY 2002,28,No Religion,4,77
+From: 15 Mar 2002,To: 15 Mar 2002,Ukraine,FY 2002,28,Pentecostalist,14,77
+From: 15 Mar 2002,To: 15 Mar 2002,Ukraine,FY 2002,28,Unknown,1,77
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Mar 2002,To: 15 Mar 2002,Atheist,FY 2002,1,Russia,1,77
+From: 15 Mar 2002,To: 15 Mar 2002,Baptist,FY 2002,8,Moldova,4,77
+From: 15 Mar 2002,To: 15 Mar 2002,Baptist,FY 2002,8,Russia,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Baptist,FY 2002,8,Ukraine,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Jehovah Witness,FY 2002,16,Moldova,16,77
+From: 15 Mar 2002,To: 15 Mar 2002,Jewish,FY 2002,29,Belarus,6,77
+From: 15 Mar 2002,To: 15 Mar 2002,Jewish,FY 2002,29,Russia,16,77
+From: 15 Mar 2002,To: 15 Mar 2002,Jewish,FY 2002,29,Ukraine,7,77
+From: 15 Mar 2002,To: 15 Mar 2002,No Religion,FY 2002,6,Russia,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,No Religion,FY 2002,6,Ukraine,4,77
+From: 15 Mar 2002,To: 15 Mar 2002,Pentecostalist,FY 2002,16,Russia,2,77
+From: 15 Mar 2002,To: 15 Mar 2002,Pentecostalist,FY 2002,16,Ukraine,14,77
+From: 15 Mar 2002,To: 15 Mar 2002,Unknown,FY 2002,1,Ukraine,1,77
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 May 2002,To: 14 May 2002,Bosnia and Herzegovina,FY 2002,43,Moslem,43,157
+From: 14 May 2002,To: 14 May 2002,Iran,FY 2002,3,Bahai,2,157
+From: 14 May 2002,To: 14 May 2002,Iran,FY 2002,3,Unknown,1,157
+From: 14 May 2002,To: 14 May 2002,Iraq,FY 2002,8,Moslem,8,157
+From: 14 May 2002,To: 14 May 2002,Liberia,FY 2002,8,Christian,8,157
+From: 14 May 2002,To: 14 May 2002,Moldova,FY 2002,5,Baptist,5,157
+From: 14 May 2002,To: 14 May 2002,Nigeria,FY 2002,1,Christian,1,157
+From: 14 May 2002,To: 14 May 2002,Russia,FY 2002,34,Baptist,6,157
+From: 14 May 2002,To: 14 May 2002,Russia,FY 2002,34,Jewish,17,157
+From: 14 May 2002,To: 14 May 2002,Russia,FY 2002,34,No Religion,1,157
+From: 14 May 2002,To: 14 May 2002,Russia,FY 2002,34,Pentecostalist,4,157
+From: 14 May 2002,To: 14 May 2002,Russia,FY 2002,34,Unknown,6,157
+From: 14 May 2002,To: 14 May 2002,Ukraine,FY 2002,55,Baptist,18,157
+From: 14 May 2002,To: 14 May 2002,Ukraine,FY 2002,55,Jewish,7,157
+From: 14 May 2002,To: 14 May 2002,Ukraine,FY 2002,55,Pentecostalist,30,157
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 May 2002,To: 14 May 2002,Bahai,FY 2002,2,Iran,2,157
+From: 14 May 2002,To: 14 May 2002,Baptist,FY 2002,29,Moldova,5,157
+From: 14 May 2002,To: 14 May 2002,Baptist,FY 2002,29,Russia,6,157
+From: 14 May 2002,To: 14 May 2002,Baptist,FY 2002,29,Ukraine,18,157
+From: 14 May 2002,To: 14 May 2002,Christian,FY 2002,9,Liberia,8,157
+From: 14 May 2002,To: 14 May 2002,Christian,FY 2002,9,Nigeria,1,157
+From: 14 May 2002,To: 14 May 2002,Jewish,FY 2002,24,Russia,17,157
+From: 14 May 2002,To: 14 May 2002,Jewish,FY 2002,24,Ukraine,7,157
+From: 14 May 2002,To: 14 May 2002,Moslem,FY 2002,51,Bosnia and Herzegovina,43,157
+From: 14 May 2002,To: 14 May 2002,Moslem,FY 2002,51,Iraq,8,157
+From: 14 May 2002,To: 14 May 2002,No Religion,FY 2002,1,Russia,1,157
+From: 14 May 2002,To: 14 May 2002,Pentecostalist,FY 2002,34,Russia,4,157
+From: 14 May 2002,To: 14 May 2002,Pentecostalist,FY 2002,34,Ukraine,30,157
+From: 14 May 2002,To: 14 May 2002,Unknown,FY 2002,7,Iran,1,157
+From: 14 May 2002,To: 14 May 2002,Unknown,FY 2002,7,Russia,6,157
+

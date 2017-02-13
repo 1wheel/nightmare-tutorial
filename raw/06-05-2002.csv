@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jun 2002,To: 05 Jun 2002,Afghanistan,FY 2002,46,Moslem,20,277
+From: 05 Jun 2002,To: 05 Jun 2002,Afghanistan,FY 2002,46,Moslem Shiite,8,277
+From: 05 Jun 2002,To: 05 Jun 2002,Afghanistan,FY 2002,46,Moslem Suni,18,277
+From: 05 Jun 2002,To: 05 Jun 2002,Belarus,FY 2002,7,Pentecostalist,7,277
+From: 05 Jun 2002,To: 05 Jun 2002,Bosnia and Herzegovina,FY 2002,68,Catholic,6,277
+From: 05 Jun 2002,To: 05 Jun 2002,Bosnia and Herzegovina,FY 2002,68,Moslem,62,277
+From: 05 Jun 2002,To: 05 Jun 2002,Cuba,FY 2002,24,Catholic,17,277
+From: 05 Jun 2002,To: 05 Jun 2002,Cuba,FY 2002,24,Christian,2,277
+From: 05 Jun 2002,To: 05 Jun 2002,Cuba,FY 2002,24,No Religion,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Indonesia,FY 2002,15,Moslem,15,277
+From: 05 Jun 2002,To: 05 Jun 2002,Iran,FY 2002,33,Bahai,6,277
+From: 05 Jun 2002,To: 05 Jun 2002,Iran,FY 2002,33,Christian,22,277
+From: 05 Jun 2002,To: 05 Jun 2002,Iran,FY 2002,33,Jewish,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Kazakhstan,FY 2002,4,Seventh Day Adventist,4,277
+From: 05 Jun 2002,To: 05 Jun 2002,Russia,FY 2002,15,Baptist,2,277
+From: 05 Jun 2002,To: 05 Jun 2002,Russia,FY 2002,15,Evangelical Christian,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Russia,FY 2002,15,Jewish,3,277
+From: 05 Jun 2002,To: 05 Jun 2002,Russia,FY 2002,15,Pentecostalist,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Uzbekistan,FY 2002,14,Jewish,14,277
+From: 05 Jun 2002,To: 05 Jun 2002,Vietnam,FY 2002,51,Cao Dai,1,277
+From: 05 Jun 2002,To: 05 Jun 2002,Vietnam,FY 2002,51,Protestant,50,277
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jun 2002,To: 05 Jun 2002,Bahai,FY 2002,6,Iran,6,277
+From: 05 Jun 2002,To: 05 Jun 2002,Baptist,FY 2002,2,Russia,2,277
+From: 05 Jun 2002,To: 05 Jun 2002,Cao Dai,FY 2002,1,Vietnam,1,277
+From: 05 Jun 2002,To: 05 Jun 2002,Catholic,FY 2002,23,Bosnia and Herzegovina,6,277
+From: 05 Jun 2002,To: 05 Jun 2002,Catholic,FY 2002,23,Cuba,17,277
+From: 05 Jun 2002,To: 05 Jun 2002,Christian,FY 2002,24,Cuba,2,277
+From: 05 Jun 2002,To: 05 Jun 2002,Christian,FY 2002,24,Iran,22,277
+From: 05 Jun 2002,To: 05 Jun 2002,Evangelical Christian,FY 2002,5,Russia,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Jewish,FY 2002,22,Iran,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Jewish,FY 2002,22,Russia,3,277
+From: 05 Jun 2002,To: 05 Jun 2002,Jewish,FY 2002,22,Uzbekistan,14,277
+From: 05 Jun 2002,To: 05 Jun 2002,Moslem,FY 2002,97,Afghanistan,20,277
+From: 05 Jun 2002,To: 05 Jun 2002,Moslem,FY 2002,97,Bosnia and Herzegovina,62,277
+From: 05 Jun 2002,To: 05 Jun 2002,Moslem,FY 2002,97,Indonesia,15,277
+From: 05 Jun 2002,To: 05 Jun 2002,Moslem Shiite,FY 2002,8,Afghanistan,8,277
+From: 05 Jun 2002,To: 05 Jun 2002,Moslem Suni,FY 2002,18,Afghanistan,18,277
+From: 05 Jun 2002,To: 05 Jun 2002,No Religion,FY 2002,5,Cuba,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Pentecostalist,FY 2002,12,Belarus,7,277
+From: 05 Jun 2002,To: 05 Jun 2002,Pentecostalist,FY 2002,12,Russia,5,277
+From: 05 Jun 2002,To: 05 Jun 2002,Protestant,FY 2002,50,Vietnam,50,277
+From: 05 Jun 2002,To: 05 Jun 2002,Seventh Day Adventist,FY 2002,4,Kazakhstan,4,277
+

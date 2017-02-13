@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jan 2002,To: 14 Jan 2002,Belarus,FY 2002,6,Pentecostalist,6,40
+From: 14 Jan 2002,To: 14 Jan 2002,Ethiopia,FY 2002,2,Moslem,2,40
+From: 14 Jan 2002,To: 14 Jan 2002,Iraq,FY 2002,8,Moslem,8,40
+From: 14 Jan 2002,To: 14 Jan 2002,Kazakhstan,FY 2002,4,Baptist,3,40
+From: 14 Jan 2002,To: 14 Jan 2002,Kazakhstan,FY 2002,4,Jewish,1,40
+From: 14 Jan 2002,To: 14 Jan 2002,Moldova,FY 2002,8,Baptist,8,40
+From: 14 Jan 2002,To: 14 Jan 2002,Russia,FY 2002,12,Baptist,4,40
+From: 14 Jan 2002,To: 14 Jan 2002,Russia,FY 2002,12,Jewish,5,40
+From: 14 Jan 2002,To: 14 Jan 2002,Russia,FY 2002,12,Pentecostalist,2,40
+From: 14 Jan 2002,To: 14 Jan 2002,Russia,FY 2002,12,Unknown,1,40
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jan 2002,To: 14 Jan 2002,Baptist,FY 2002,15,Kazakhstan,3,40
+From: 14 Jan 2002,To: 14 Jan 2002,Baptist,FY 2002,15,Moldova,8,40
+From: 14 Jan 2002,To: 14 Jan 2002,Baptist,FY 2002,15,Russia,4,40
+From: 14 Jan 2002,To: 14 Jan 2002,Jewish,FY 2002,6,Kazakhstan,1,40
+From: 14 Jan 2002,To: 14 Jan 2002,Jewish,FY 2002,6,Russia,5,40
+From: 14 Jan 2002,To: 14 Jan 2002,Moslem,FY 2002,10,Ethiopia,2,40
+From: 14 Jan 2002,To: 14 Jan 2002,Moslem,FY 2002,10,Iraq,8,40
+From: 14 Jan 2002,To: 14 Jan 2002,Pentecostalist,FY 2002,8,Belarus,6,40
+From: 14 Jan 2002,To: 14 Jan 2002,Pentecostalist,FY 2002,8,Russia,2,40
+From: 14 Jan 2002,To: 14 Jan 2002,Unknown,FY 2002,1,Russia,1,40
+

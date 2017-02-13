@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Nov 2002,To: 14 Nov 2002,Afghanistan,FY 2003,14,Moslem,6,196
+From: 14 Nov 2002,To: 14 Nov 2002,Afghanistan,FY 2003,14,Moslem Shiite,8,196
+From: 14 Nov 2002,To: 14 Nov 2002,Bosnia and Herzegovina,FY 2003,26,Moslem,26,196
+From: 14 Nov 2002,To: 14 Nov 2002,Croatia,FY 2003,4,No Religion,4,196
+From: 14 Nov 2002,To: 14 Nov 2002,Georgia,FY 2003,9,Baptist,9,196
+From: 14 Nov 2002,To: 14 Nov 2002,Russia,FY 2003,6,Baptist,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Russia,FY 2003,6,Jewish,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Serbia,FY 2003,58,Moslem,13,196
+From: 14 Nov 2002,To: 14 Nov 2002,Serbia,FY 2003,58,No Religion,5,196
+From: 14 Nov 2002,To: 14 Nov 2002,Serbia,FY 2003,58,Orthodox,40,196
+From: 14 Nov 2002,To: 14 Nov 2002,Ukraine,FY 2003,48,Baptist,8,196
+From: 14 Nov 2002,To: 14 Nov 2002,Ukraine,FY 2003,48,Pentecostalist,34,196
+From: 14 Nov 2002,To: 14 Nov 2002,Ukraine,FY 2003,48,Seventh Day Adventist,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Ukraine,FY 2003,48,Uniate,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Vietnam,FY 2003,31,Unknown,31,196
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Nov 2002,To: 14 Nov 2002,Baptist,FY 2003,20,Georgia,9,196
+From: 14 Nov 2002,To: 14 Nov 2002,Baptist,FY 2003,20,Russia,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Baptist,FY 2003,20,Ukraine,8,196
+From: 14 Nov 2002,To: 14 Nov 2002,Jewish,FY 2003,3,Russia,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Moslem,FY 2003,45,Afghanistan,6,196
+From: 14 Nov 2002,To: 14 Nov 2002,Moslem,FY 2003,45,Bosnia and Herzegovina,26,196
+From: 14 Nov 2002,To: 14 Nov 2002,Moslem,FY 2003,45,Serbia,13,196
+From: 14 Nov 2002,To: 14 Nov 2002,Moslem Shiite,FY 2003,8,Afghanistan,8,196
+From: 14 Nov 2002,To: 14 Nov 2002,No Religion,FY 2003,9,Croatia,4,196
+From: 14 Nov 2002,To: 14 Nov 2002,No Religion,FY 2003,9,Serbia,5,196
+From: 14 Nov 2002,To: 14 Nov 2002,Orthodox,FY 2003,40,Serbia,40,196
+From: 14 Nov 2002,To: 14 Nov 2002,Pentecostalist,FY 2003,34,Ukraine,34,196
+From: 14 Nov 2002,To: 14 Nov 2002,Seventh Day Adventist,FY 2003,3,Ukraine,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Uniate,FY 2003,3,Ukraine,3,196
+From: 14 Nov 2002,To: 14 Nov 2002,Unknown,FY 2003,31,Vietnam,31,196
+

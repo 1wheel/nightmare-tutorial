@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jul 2002,To: 17 Jul 2002,Afghanistan,FY 2002,33,Moslem Shiite,10,216
+From: 17 Jul 2002,To: 17 Jul 2002,Afghanistan,FY 2002,33,Moslem Suni,23,216
+From: 17 Jul 2002,To: 17 Jul 2002,Azerbaijan,FY 2002,7,Jewish,7,216
+From: 17 Jul 2002,To: 17 Jul 2002,Belarus,FY 2002,10,Jewish,6,216
+From: 17 Jul 2002,To: 17 Jul 2002,Belarus,FY 2002,10,No Religion,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Belarus,FY 2002,10,Orthodox,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Bosnia and Herzegovina,FY 2002,20,Moslem,20,216
+From: 17 Jul 2002,To: 17 Jul 2002,Croatia,FY 2002,1,Catholic,1,216
+From: 17 Jul 2002,To: 17 Jul 2002,Cuba,FY 2002,16,Catholic,9,216
+From: 17 Jul 2002,To: 17 Jul 2002,Cuba,FY 2002,16,No Religion,7,216
+From: 17 Jul 2002,To: 17 Jul 2002,Iran,FY 2002,13,Bahai,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Iran,FY 2002,13,Christian,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Iran,FY 2002,13,Jewish,4,216
+From: 17 Jul 2002,To: 17 Jul 2002,Iran,FY 2002,13,Zoroastrian,5,216
+From: 17 Jul 2002,To: 17 Jul 2002,Iraq,FY 2002,9,Moslem,9,216
+From: 17 Jul 2002,To: 17 Jul 2002,Kazakhstan,FY 2002,2,Baptist,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Moldova,FY 2002,2,Baptist,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Russia,FY 2002,14,Jewish,14,216
+From: 17 Jul 2002,To: 17 Jul 2002,Sudan,FY 2002,33,Catholic,6,216
+From: 17 Jul 2002,To: 17 Jul 2002,Sudan,FY 2002,33,Christian,7,216
+From: 17 Jul 2002,To: 17 Jul 2002,Sudan,FY 2002,33,Moslem,6,216
+From: 17 Jul 2002,To: 17 Jul 2002,Sudan,FY 2002,33,Protestant,9,216
+From: 17 Jul 2002,To: 17 Jul 2002,Sudan,FY 2002,33,Seventh Day Adventist,5,216
+From: 17 Jul 2002,To: 17 Jul 2002,Ukraine,FY 2002,26,Baptist,10,216
+From: 17 Jul 2002,To: 17 Jul 2002,Ukraine,FY 2002,26,Pentecostalist,16,216
+From: 17 Jul 2002,To: 17 Jul 2002,Vietnam,FY 2002,30,Unknown,30,216
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jul 2002,To: 17 Jul 2002,Bahai,FY 2002,2,Iran,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Baptist,FY 2002,14,Kazakhstan,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Baptist,FY 2002,14,Moldova,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Baptist,FY 2002,14,Ukraine,10,216
+From: 17 Jul 2002,To: 17 Jul 2002,Catholic,FY 2002,16,Croatia,1,216
+From: 17 Jul 2002,To: 17 Jul 2002,Catholic,FY 2002,16,Cuba,9,216
+From: 17 Jul 2002,To: 17 Jul 2002,Catholic,FY 2002,16,Sudan,6,216
+From: 17 Jul 2002,To: 17 Jul 2002,Christian,FY 2002,9,Iran,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Christian,FY 2002,9,Sudan,7,216
+From: 17 Jul 2002,To: 17 Jul 2002,Jewish,FY 2002,31,Azerbaijan,7,216
+From: 17 Jul 2002,To: 17 Jul 2002,Jewish,FY 2002,31,Belarus,6,216
+From: 17 Jul 2002,To: 17 Jul 2002,Jewish,FY 2002,31,Iran,4,216
+From: 17 Jul 2002,To: 17 Jul 2002,Jewish,FY 2002,31,Russia,14,216
+From: 17 Jul 2002,To: 17 Jul 2002,Moslem,FY 2002,35,Bosnia and Herzegovina,20,216
+From: 17 Jul 2002,To: 17 Jul 2002,Moslem,FY 2002,35,Iraq,9,216
+From: 17 Jul 2002,To: 17 Jul 2002,Moslem,FY 2002,35,Sudan,6,216
+From: 17 Jul 2002,To: 17 Jul 2002,Moslem Shiite,FY 2002,10,Afghanistan,10,216
+From: 17 Jul 2002,To: 17 Jul 2002,Moslem Suni,FY 2002,23,Afghanistan,23,216
+From: 17 Jul 2002,To: 17 Jul 2002,No Religion,FY 2002,9,Belarus,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,No Religion,FY 2002,9,Cuba,7,216
+From: 17 Jul 2002,To: 17 Jul 2002,Orthodox,FY 2002,2,Belarus,2,216
+From: 17 Jul 2002,To: 17 Jul 2002,Pentecostalist,FY 2002,16,Ukraine,16,216
+From: 17 Jul 2002,To: 17 Jul 2002,Protestant,FY 2002,9,Sudan,9,216
+From: 17 Jul 2002,To: 17 Jul 2002,Seventh Day Adventist,FY 2002,5,Sudan,5,216
+From: 17 Jul 2002,To: 17 Jul 2002,Unknown,FY 2002,30,Vietnam,30,216
+From: 17 Jul 2002,To: 17 Jul 2002,Zoroastrian,FY 2002,5,Iran,5,216
+

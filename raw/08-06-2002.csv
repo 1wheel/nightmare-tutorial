@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Aug 2002,To: 06 Aug 2002,Belarus,FY 2002,1,Pentecostalist,1,86
+From: 06 Aug 2002,To: 06 Aug 2002,Dem. Rep. Congo,FY 2002,3,Christian,3,86
+From: 06 Aug 2002,To: 06 Aug 2002,Iran,FY 2002,17,Bahai,2,86
+From: 06 Aug 2002,To: 06 Aug 2002,Iran,FY 2002,17,Jewish,6,86
+From: 06 Aug 2002,To: 06 Aug 2002,Iran,FY 2002,17,Moslem,1,86
+From: 06 Aug 2002,To: 06 Aug 2002,Iran,FY 2002,17,Other Religion,4,86
+From: 06 Aug 2002,To: 06 Aug 2002,Iran,FY 2002,17,Protestant,4,86
+From: 06 Aug 2002,To: 06 Aug 2002,Sudan,FY 2002,15,Catholic,1,86
+From: 06 Aug 2002,To: 06 Aug 2002,Sudan,FY 2002,15,Evangelical Christian,8,86
+From: 06 Aug 2002,To: 06 Aug 2002,Sudan,FY 2002,15,Protestant,6,86
+From: 06 Aug 2002,To: 06 Aug 2002,Ukraine,FY 2002,28,Baptist,12,86
+From: 06 Aug 2002,To: 06 Aug 2002,Ukraine,FY 2002,28,Evangelical Christian,3,86
+From: 06 Aug 2002,To: 06 Aug 2002,Ukraine,FY 2002,28,Pentecostalist,13,86
+From: 06 Aug 2002,To: 06 Aug 2002,Vietnam,FY 2002,22,Unknown,22,86
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Aug 2002,To: 06 Aug 2002,Bahai,FY 2002,2,Iran,2,86
+From: 06 Aug 2002,To: 06 Aug 2002,Baptist,FY 2002,12,Ukraine,12,86
+From: 06 Aug 2002,To: 06 Aug 2002,Catholic,FY 2002,1,Sudan,1,86
+From: 06 Aug 2002,To: 06 Aug 2002,Christian,FY 2002,3,Dem. Rep. Congo,3,86
+From: 06 Aug 2002,To: 06 Aug 2002,Evangelical Christian,FY 2002,11,Sudan,8,86
+From: 06 Aug 2002,To: 06 Aug 2002,Evangelical Christian,FY 2002,11,Ukraine,3,86
+From: 06 Aug 2002,To: 06 Aug 2002,Jewish,FY 2002,6,Iran,6,86
+From: 06 Aug 2002,To: 06 Aug 2002,Moslem,FY 2002,1,Iran,1,86
+From: 06 Aug 2002,To: 06 Aug 2002,Other Religion,FY 2002,4,Iran,4,86
+From: 06 Aug 2002,To: 06 Aug 2002,Pentecostalist,FY 2002,14,Belarus,1,86
+From: 06 Aug 2002,To: 06 Aug 2002,Pentecostalist,FY 2002,14,Ukraine,13,86
+From: 06 Aug 2002,To: 06 Aug 2002,Protestant,FY 2002,10,Iran,4,86
+From: 06 Aug 2002,To: 06 Aug 2002,Protestant,FY 2002,10,Sudan,6,86
+From: 06 Aug 2002,To: 06 Aug 2002,Unknown,FY 2002,22,Vietnam,22,86
+

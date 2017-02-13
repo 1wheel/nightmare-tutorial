@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Aug 2002,To: 12 Aug 2002,Burundi,FY 2002,3,Unknown,3,152
+From: 12 Aug 2002,To: 12 Aug 2002,Croatia,FY 2002,9,No Religion,9,152
+From: 12 Aug 2002,To: 12 Aug 2002,Iran,FY 2002,3,Protestant,3,152
+From: 12 Aug 2002,To: 12 Aug 2002,Iraq,FY 2002,27,Christian,5,152
+From: 12 Aug 2002,To: 12 Aug 2002,Iraq,FY 2002,27,Moslem,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Iraq,FY 2002,27,Moslem Shiite,21,152
+From: 12 Aug 2002,To: 12 Aug 2002,Liberia,FY 2002,13,Christian,13,152
+From: 12 Aug 2002,To: 12 Aug 2002,Serbia,FY 2002,23,No Religion,8,152
+From: 12 Aug 2002,To: 12 Aug 2002,Serbia,FY 2002,23,Orthodox,15,152
+From: 12 Aug 2002,To: 12 Aug 2002,Sierra Leone,FY 2002,13,Christian,13,152
+From: 12 Aug 2002,To: 12 Aug 2002,Somalia,FY 2002,2,Moslem,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Somalia,FY 2002,2,Unknown,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Sudan,FY 2002,34,Catholic,15,152
+From: 12 Aug 2002,To: 12 Aug 2002,Sudan,FY 2002,34,Evangelical Christian,4,152
+From: 12 Aug 2002,To: 12 Aug 2002,Sudan,FY 2002,34,Moslem,3,152
+From: 12 Aug 2002,To: 12 Aug 2002,Sudan,FY 2002,34,Protestant,12,152
+From: 12 Aug 2002,To: 12 Aug 2002,Tanzania,FY 2002,1,Unknown,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Vietnam,FY 2002,24,Unknown,24,152
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Aug 2002,To: 12 Aug 2002,Catholic,FY 2002,15,Sudan,15,152
+From: 12 Aug 2002,To: 12 Aug 2002,Christian,FY 2002,31,Iraq,5,152
+From: 12 Aug 2002,To: 12 Aug 2002,Christian,FY 2002,31,Liberia,13,152
+From: 12 Aug 2002,To: 12 Aug 2002,Christian,FY 2002,31,Sierra Leone,13,152
+From: 12 Aug 2002,To: 12 Aug 2002,Evangelical Christian,FY 2002,4,Sudan,4,152
+From: 12 Aug 2002,To: 12 Aug 2002,Moslem,FY 2002,5,Iraq,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Moslem,FY 2002,5,Somalia,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Moslem,FY 2002,5,Sudan,3,152
+From: 12 Aug 2002,To: 12 Aug 2002,Moslem Shiite,FY 2002,21,Iraq,21,152
+From: 12 Aug 2002,To: 12 Aug 2002,No Religion,FY 2002,17,Croatia,9,152
+From: 12 Aug 2002,To: 12 Aug 2002,No Religion,FY 2002,17,Serbia,8,152
+From: 12 Aug 2002,To: 12 Aug 2002,Orthodox,FY 2002,15,Serbia,15,152
+From: 12 Aug 2002,To: 12 Aug 2002,Protestant,FY 2002,15,Iran,3,152
+From: 12 Aug 2002,To: 12 Aug 2002,Protestant,FY 2002,15,Sudan,12,152
+From: 12 Aug 2002,To: 12 Aug 2002,Unknown,FY 2002,29,Burundi,3,152
+From: 12 Aug 2002,To: 12 Aug 2002,Unknown,FY 2002,29,Somalia,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Unknown,FY 2002,29,Tanzania,1,152
+From: 12 Aug 2002,To: 12 Aug 2002,Unknown,FY 2002,29,Vietnam,24,152
+

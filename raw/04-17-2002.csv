@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Apr 2002,To: 17 Apr 2002,Afghanistan,FY 2002,48,Moslem,10,181
+From: 17 Apr 2002,To: 17 Apr 2002,Afghanistan,FY 2002,48,Moslem Shiite,12,181
+From: 17 Apr 2002,To: 17 Apr 2002,Afghanistan,FY 2002,48,Moslem Suni,26,181
+From: 17 Apr 2002,To: 17 Apr 2002,Bosnia and Herzegovina,FY 2002,42,Catholic,1,181
+From: 17 Apr 2002,To: 17 Apr 2002,Bosnia and Herzegovina,FY 2002,42,Moslem,40,181
+From: 17 Apr 2002,To: 17 Apr 2002,Bosnia and Herzegovina,FY 2002,42,Orthodox,1,181
+From: 17 Apr 2002,To: 17 Apr 2002,Cuba,FY 2002,28,Catholic,22,181
+From: 17 Apr 2002,To: 17 Apr 2002,Cuba,FY 2002,28,Jehovah Witness,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Cuba,FY 2002,28,No Religion,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Dem. Rep. Congo,FY 2002,3,Catholic,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Ethiopia,FY 2002,9,Christian,8,181
+From: 17 Apr 2002,To: 17 Apr 2002,Ethiopia,FY 2002,9,Orthodox,1,181
+From: 17 Apr 2002,To: 17 Apr 2002,Iran,FY 2002,4,Christian,4,181
+From: 17 Apr 2002,To: 17 Apr 2002,Somalia,FY 2002,8,Moslem,8,181
+From: 17 Apr 2002,To: 17 Apr 2002,Sudan,FY 2002,3,Christian,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Ukraine,FY 2002,15,Baptist,2,181
+From: 17 Apr 2002,To: 17 Apr 2002,Ukraine,FY 2002,15,Pentecostalist,11,181
+From: 17 Apr 2002,To: 17 Apr 2002,Ukraine,FY 2002,15,Seventh Day Adventist,2,181
+From: 17 Apr 2002,To: 17 Apr 2002,Vietnam,FY 2002,21,Unknown,21,181
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Apr 2002,To: 17 Apr 2002,Baptist,FY 2002,2,Ukraine,2,181
+From: 17 Apr 2002,To: 17 Apr 2002,Catholic,FY 2002,26,Bosnia and Herzegovina,1,181
+From: 17 Apr 2002,To: 17 Apr 2002,Catholic,FY 2002,26,Cuba,22,181
+From: 17 Apr 2002,To: 17 Apr 2002,Catholic,FY 2002,26,Dem. Rep. Congo,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Christian,FY 2002,15,Ethiopia,8,181
+From: 17 Apr 2002,To: 17 Apr 2002,Christian,FY 2002,15,Iran,4,181
+From: 17 Apr 2002,To: 17 Apr 2002,Christian,FY 2002,15,Sudan,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Jehovah Witness,FY 2002,3,Cuba,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Moslem,FY 2002,58,Afghanistan,10,181
+From: 17 Apr 2002,To: 17 Apr 2002,Moslem,FY 2002,58,Bosnia and Herzegovina,40,181
+From: 17 Apr 2002,To: 17 Apr 2002,Moslem,FY 2002,58,Somalia,8,181
+From: 17 Apr 2002,To: 17 Apr 2002,Moslem Shiite,FY 2002,12,Afghanistan,12,181
+From: 17 Apr 2002,To: 17 Apr 2002,Moslem Suni,FY 2002,26,Afghanistan,26,181
+From: 17 Apr 2002,To: 17 Apr 2002,No Religion,FY 2002,3,Cuba,3,181
+From: 17 Apr 2002,To: 17 Apr 2002,Orthodox,FY 2002,2,Bosnia and Herzegovina,1,181
+From: 17 Apr 2002,To: 17 Apr 2002,Orthodox,FY 2002,2,Ethiopia,1,181
+From: 17 Apr 2002,To: 17 Apr 2002,Pentecostalist,FY 2002,11,Ukraine,11,181
+From: 17 Apr 2002,To: 17 Apr 2002,Seventh Day Adventist,FY 2002,2,Ukraine,2,181
+From: 17 Apr 2002,To: 17 Apr 2002,Unknown,FY 2002,21,Vietnam,21,181
+

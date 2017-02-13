@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Aug 2002,To: 08 Aug 2002,Belarus,FY 2002,8,Jewish,1,98
+From: 08 Aug 2002,To: 08 Aug 2002,Belarus,FY 2002,8,Pentecostalist,7,98
+From: 08 Aug 2002,To: 08 Aug 2002,Iran,FY 2002,30,Christian,15,98
+From: 08 Aug 2002,To: 08 Aug 2002,Iran,FY 2002,30,Jewish,9,98
+From: 08 Aug 2002,To: 08 Aug 2002,Iran,FY 2002,30,Moslem,4,98
+From: 08 Aug 2002,To: 08 Aug 2002,Iran,FY 2002,30,No Religion,2,98
+From: 08 Aug 2002,To: 08 Aug 2002,Kazakhstan,FY 2002,6,Baptist,6,98
+From: 08 Aug 2002,To: 08 Aug 2002,Lithuania,FY 2002,1,Jewish,1,98
+From: 08 Aug 2002,To: 08 Aug 2002,Russia,FY 2002,9,Baptist,7,98
+From: 08 Aug 2002,To: 08 Aug 2002,Russia,FY 2002,9,Jewish,2,98
+From: 08 Aug 2002,To: 08 Aug 2002,Ukraine,FY 2002,31,Jewish,2,98
+From: 08 Aug 2002,To: 08 Aug 2002,Ukraine,FY 2002,31,Pentecostalist,29,98
+From: 08 Aug 2002,To: 08 Aug 2002,Uzbekistan,FY 2002,13,Jewish,7,98
+From: 08 Aug 2002,To: 08 Aug 2002,Uzbekistan,FY 2002,13,Moslem,6,98
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Aug 2002,To: 08 Aug 2002,Baptist,FY 2002,13,Kazakhstan,6,98
+From: 08 Aug 2002,To: 08 Aug 2002,Baptist,FY 2002,13,Russia,7,98
+From: 08 Aug 2002,To: 08 Aug 2002,Christian,FY 2002,15,Iran,15,98
+From: 08 Aug 2002,To: 08 Aug 2002,Jewish,FY 2002,22,Belarus,1,98
+From: 08 Aug 2002,To: 08 Aug 2002,Jewish,FY 2002,22,Iran,9,98
+From: 08 Aug 2002,To: 08 Aug 2002,Jewish,FY 2002,22,Lithuania,1,98
+From: 08 Aug 2002,To: 08 Aug 2002,Jewish,FY 2002,22,Russia,2,98
+From: 08 Aug 2002,To: 08 Aug 2002,Jewish,FY 2002,22,Ukraine,2,98
+From: 08 Aug 2002,To: 08 Aug 2002,Jewish,FY 2002,22,Uzbekistan,7,98
+From: 08 Aug 2002,To: 08 Aug 2002,Moslem,FY 2002,10,Iran,4,98
+From: 08 Aug 2002,To: 08 Aug 2002,Moslem,FY 2002,10,Uzbekistan,6,98
+From: 08 Aug 2002,To: 08 Aug 2002,No Religion,FY 2002,2,Iran,2,98
+From: 08 Aug 2002,To: 08 Aug 2002,Pentecostalist,FY 2002,36,Belarus,7,98
+From: 08 Aug 2002,To: 08 Aug 2002,Pentecostalist,FY 2002,36,Ukraine,29,98
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Aug 2002,To: 01 Aug 2002,Afghanistan,FY 2002,10,Moslem,10,114
+From: 01 Aug 2002,To: 01 Aug 2002,Azerbaijan,FY 2002,3,Jewish,3,114
+From: 01 Aug 2002,To: 01 Aug 2002,Ethiopia,FY 2002,8,Christian,1,114
+From: 01 Aug 2002,To: 01 Aug 2002,Ethiopia,FY 2002,8,Moslem,7,114
+From: 01 Aug 2002,To: 01 Aug 2002,Iran,FY 2002,6,Moslem,6,114
+From: 01 Aug 2002,To: 01 Aug 2002,Iraq,FY 2002,1,Moslem,1,114
+From: 01 Aug 2002,To: 01 Aug 2002,Moldova,FY 2002,5,Baptist,5,114
+From: 01 Aug 2002,To: 01 Aug 2002,Somalia,FY 2002,23,Moslem,23,114
+From: 01 Aug 2002,To: 01 Aug 2002,Sudan,FY 2002,1,Christian,1,114
+From: 01 Aug 2002,To: 01 Aug 2002,Ukraine,FY 2002,43,Baptist,18,114
+From: 01 Aug 2002,To: 01 Aug 2002,Ukraine,FY 2002,43,Jewish,9,114
+From: 01 Aug 2002,To: 01 Aug 2002,Ukraine,FY 2002,43,Uniate,10,114
+From: 01 Aug 2002,To: 01 Aug 2002,Ukraine,FY 2002,43,Unknown,6,114
+From: 01 Aug 2002,To: 01 Aug 2002,Vietnam,FY 2002,14,Buddhist,2,114
+From: 01 Aug 2002,To: 01 Aug 2002,Vietnam,FY 2002,14,Protestant,12,114
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Aug 2002,To: 01 Aug 2002,Baptist,FY 2002,23,Moldova,5,114
+From: 01 Aug 2002,To: 01 Aug 2002,Baptist,FY 2002,23,Ukraine,18,114
+From: 01 Aug 2002,To: 01 Aug 2002,Buddhist,FY 2002,2,Vietnam,2,114
+From: 01 Aug 2002,To: 01 Aug 2002,Christian,FY 2002,2,Ethiopia,1,114
+From: 01 Aug 2002,To: 01 Aug 2002,Christian,FY 2002,2,Sudan,1,114
+From: 01 Aug 2002,To: 01 Aug 2002,Jewish,FY 2002,12,Azerbaijan,3,114
+From: 01 Aug 2002,To: 01 Aug 2002,Jewish,FY 2002,12,Ukraine,9,114
+From: 01 Aug 2002,To: 01 Aug 2002,Moslem,FY 2002,47,Afghanistan,10,114
+From: 01 Aug 2002,To: 01 Aug 2002,Moslem,FY 2002,47,Ethiopia,7,114
+From: 01 Aug 2002,To: 01 Aug 2002,Moslem,FY 2002,47,Iran,6,114
+From: 01 Aug 2002,To: 01 Aug 2002,Moslem,FY 2002,47,Iraq,1,114
+From: 01 Aug 2002,To: 01 Aug 2002,Moslem,FY 2002,47,Somalia,23,114
+From: 01 Aug 2002,To: 01 Aug 2002,Protestant,FY 2002,12,Vietnam,12,114
+From: 01 Aug 2002,To: 01 Aug 2002,Uniate,FY 2002,10,Ukraine,10,114
+From: 01 Aug 2002,To: 01 Aug 2002,Unknown,FY 2002,6,Ukraine,6,114
+

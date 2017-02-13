@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jan 2002,To: 25 Jan 2002,Afghanistan,FY 2002,1,Moslem,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Azerbaijan,FY 2002,3,Jewish,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Belarus,FY 2002,3,Jewish,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Cuba,FY 2002,30,Catholic,12,131
+From: 25 Jan 2002,To: 25 Jan 2002,Cuba,FY 2002,30,Christian,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Cuba,FY 2002,30,Evangelical Christian,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Cuba,FY 2002,30,Jehovah Witness,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Cuba,FY 2002,30,No Religion,11,131
+From: 25 Jan 2002,To: 25 Jan 2002,Kyrgyzstan,FY 2002,7,Pentecostalist,7,131
+From: 25 Jan 2002,To: 25 Jan 2002,Liberia,FY 2002,8,Christian,8,131
+From: 25 Jan 2002,To: 25 Jan 2002,Moldova,FY 2002,1,Pentecostalist,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Russia,FY 2002,17,Jewish,9,131
+From: 25 Jan 2002,To: 25 Jan 2002,Russia,FY 2002,17,Unknown,8,131
+From: 25 Jan 2002,To: 25 Jan 2002,Somalia,FY 2002,3,Moslem,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Sudan,FY 2002,3,Christian,2,131
+From: 25 Jan 2002,To: 25 Jan 2002,Sudan,FY 2002,3,Moslem,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,Baptist,6,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,Catholic,2,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,Evangelical Christian,12,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,Jewish,11,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,No Religion,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,Pentecostalist,20,131
+From: 25 Jan 2002,To: 25 Jan 2002,Ukraine,FY 2002,55,Unknown,3,131
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jan 2002,To: 25 Jan 2002,Baptist,FY 2002,6,Ukraine,6,131
+From: 25 Jan 2002,To: 25 Jan 2002,Catholic,FY 2002,14,Cuba,12,131
+From: 25 Jan 2002,To: 25 Jan 2002,Catholic,FY 2002,14,Ukraine,2,131
+From: 25 Jan 2002,To: 25 Jan 2002,Christian,FY 2002,13,Cuba,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Christian,FY 2002,13,Liberia,8,131
+From: 25 Jan 2002,To: 25 Jan 2002,Christian,FY 2002,13,Sudan,2,131
+From: 25 Jan 2002,To: 25 Jan 2002,Evangelical Christian,FY 2002,13,Cuba,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Evangelical Christian,FY 2002,13,Ukraine,12,131
+From: 25 Jan 2002,To: 25 Jan 2002,Jehovah Witness,FY 2002,3,Cuba,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Jewish,FY 2002,26,Azerbaijan,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Jewish,FY 2002,26,Belarus,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Jewish,FY 2002,26,Russia,9,131
+From: 25 Jan 2002,To: 25 Jan 2002,Jewish,FY 2002,26,Ukraine,11,131
+From: 25 Jan 2002,To: 25 Jan 2002,Moslem,FY 2002,5,Afghanistan,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Moslem,FY 2002,5,Somalia,3,131
+From: 25 Jan 2002,To: 25 Jan 2002,Moslem,FY 2002,5,Sudan,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,No Religion,FY 2002,12,Cuba,11,131
+From: 25 Jan 2002,To: 25 Jan 2002,No Religion,FY 2002,12,Ukraine,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Pentecostalist,FY 2002,28,Kyrgyzstan,7,131
+From: 25 Jan 2002,To: 25 Jan 2002,Pentecostalist,FY 2002,28,Moldova,1,131
+From: 25 Jan 2002,To: 25 Jan 2002,Pentecostalist,FY 2002,28,Ukraine,20,131
+From: 25 Jan 2002,To: 25 Jan 2002,Unknown,FY 2002,11,Russia,8,131
+From: 25 Jan 2002,To: 25 Jan 2002,Unknown,FY 2002,11,Ukraine,3,131
+

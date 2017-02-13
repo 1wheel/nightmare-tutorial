@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jul 2002,To: 01 Jul 2002,Iraq,FY 2002,25,Methodist,2,40
+From: 01 Jul 2002,To: 01 Jul 2002,Iraq,FY 2002,25,Moslem,6,40
+From: 01 Jul 2002,To: 01 Jul 2002,Iraq,FY 2002,25,Moslem Shiite,4,40
+From: 01 Jul 2002,To: 01 Jul 2002,Iraq,FY 2002,25,Other Religion,8,40
+From: 01 Jul 2002,To: 01 Jul 2002,Iraq,FY 2002,25,Yazidi,5,40
+From: 01 Jul 2002,To: 01 Jul 2002,Russia,FY 2002,14,Baptist,14,40
+From: 01 Jul 2002,To: 01 Jul 2002,Sudan,FY 2002,1,Christian,1,40
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jul 2002,To: 01 Jul 2002,Baptist,FY 2002,14,Russia,14,40
+From: 01 Jul 2002,To: 01 Jul 2002,Christian,FY 2002,1,Sudan,1,40
+From: 01 Jul 2002,To: 01 Jul 2002,Methodist,FY 2002,2,Iraq,2,40
+From: 01 Jul 2002,To: 01 Jul 2002,Moslem,FY 2002,6,Iraq,6,40
+From: 01 Jul 2002,To: 01 Jul 2002,Moslem Shiite,FY 2002,4,Iraq,4,40
+From: 01 Jul 2002,To: 01 Jul 2002,Other Religion,FY 2002,8,Iraq,8,40
+From: 01 Jul 2002,To: 01 Jul 2002,Yazidi,FY 2002,5,Iraq,5,40
+

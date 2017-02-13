@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Sep 2002,To: 12 Sep 2002,Azerbaijan,FY 2002,3,Jewish,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Cuba,FY 2002,25,Baptist,1,150
+From: 12 Sep 2002,To: 12 Sep 2002,Cuba,FY 2002,25,Catholic,10,150
+From: 12 Sep 2002,To: 12 Sep 2002,Cuba,FY 2002,25,No Religion,14,150
+From: 12 Sep 2002,To: 12 Sep 2002,Ethiopia,FY 2002,3,Moslem,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Iran,FY 2002,49,Bahai,19,150
+From: 12 Sep 2002,To: 12 Sep 2002,Iran,FY 2002,49,Christian,12,150
+From: 12 Sep 2002,To: 12 Sep 2002,Iran,FY 2002,49,Jewish,11,150
+From: 12 Sep 2002,To: 12 Sep 2002,Iran,FY 2002,49,Zoroastrian,7,150
+From: 12 Sep 2002,To: 12 Sep 2002,Moldova,FY 2002,9,Pentecostalist,9,150
+From: 12 Sep 2002,To: 12 Sep 2002,Russia,FY 2002,14,Jewish,4,150
+From: 12 Sep 2002,To: 12 Sep 2002,Russia,FY 2002,14,Pentecostalist,7,150
+From: 12 Sep 2002,To: 12 Sep 2002,Russia,FY 2002,14,Unknown,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Ukraine,FY 2002,10,Baptist,1,150
+From: 12 Sep 2002,To: 12 Sep 2002,Ukraine,FY 2002,10,Jewish,6,150
+From: 12 Sep 2002,To: 12 Sep 2002,Ukraine,FY 2002,10,No Religion,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Uzbekistan,FY 2002,2,Unknown,2,150
+From: 12 Sep 2002,To: 12 Sep 2002,Vietnam,FY 2002,35,Unknown,35,150
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Sep 2002,To: 12 Sep 2002,Bahai,FY 2002,19,Iran,19,150
+From: 12 Sep 2002,To: 12 Sep 2002,Baptist,FY 2002,2,Cuba,1,150
+From: 12 Sep 2002,To: 12 Sep 2002,Baptist,FY 2002,2,Ukraine,1,150
+From: 12 Sep 2002,To: 12 Sep 2002,Catholic,FY 2002,10,Cuba,10,150
+From: 12 Sep 2002,To: 12 Sep 2002,Christian,FY 2002,12,Iran,12,150
+From: 12 Sep 2002,To: 12 Sep 2002,Jewish,FY 2002,24,Azerbaijan,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Jewish,FY 2002,24,Iran,11,150
+From: 12 Sep 2002,To: 12 Sep 2002,Jewish,FY 2002,24,Russia,4,150
+From: 12 Sep 2002,To: 12 Sep 2002,Jewish,FY 2002,24,Ukraine,6,150
+From: 12 Sep 2002,To: 12 Sep 2002,Moslem,FY 2002,3,Ethiopia,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,No Religion,FY 2002,17,Cuba,14,150
+From: 12 Sep 2002,To: 12 Sep 2002,No Religion,FY 2002,17,Ukraine,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Pentecostalist,FY 2002,16,Moldova,9,150
+From: 12 Sep 2002,To: 12 Sep 2002,Pentecostalist,FY 2002,16,Russia,7,150
+From: 12 Sep 2002,To: 12 Sep 2002,Unknown,FY 2002,40,Russia,3,150
+From: 12 Sep 2002,To: 12 Sep 2002,Unknown,FY 2002,40,Uzbekistan,2,150
+From: 12 Sep 2002,To: 12 Sep 2002,Unknown,FY 2002,40,Vietnam,35,150
+From: 12 Sep 2002,To: 12 Sep 2002,Zoroastrian,FY 2002,7,Iran,7,150
+

@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Sep 2002,To: 24 Sep 2002,Afghanistan,FY 2002,3,Moslem,3,225
+From: 24 Sep 2002,To: 24 Sep 2002,Bosnia and Herzegovina,FY 2002,62,Moslem,62,225
+From: 24 Sep 2002,To: 24 Sep 2002,China,FY 2002,1,Unknown,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ethiopia,FY 2002,24,Christian,9,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ethiopia,FY 2002,24,Moslem,3,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ethiopia,FY 2002,24,Orthodox,5,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ethiopia,FY 2002,24,Pentecostalist,7,225
+From: 24 Sep 2002,To: 24 Sep 2002,Iran,FY 2002,59,Bahai,8,225
+From: 24 Sep 2002,To: 24 Sep 2002,Iran,FY 2002,59,Baptist,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Iran,FY 2002,59,Christian,34,225
+From: 24 Sep 2002,To: 24 Sep 2002,Iran,FY 2002,59,Jewish,14,225
+From: 24 Sep 2002,To: 24 Sep 2002,Iran,FY 2002,59,Zoroastrian,2,225
+From: 24 Sep 2002,To: 24 Sep 2002,Rwanda,FY 2002,1,Catholic,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Somalia,FY 2002,19,Moslem,19,225
+From: 24 Sep 2002,To: 24 Sep 2002,Sudan,FY 2002,8,Christian,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Sudan,FY 2002,8,Moslem,7,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ukraine,FY 2002,16,Baptist,11,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ukraine,FY 2002,16,Pentecostalist,4,225
+From: 24 Sep 2002,To: 24 Sep 2002,Ukraine,FY 2002,16,Unknown,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Vietnam,FY 2002,32,Unknown,32,225
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Sep 2002,To: 24 Sep 2002,Bahai,FY 2002,8,Iran,8,225
+From: 24 Sep 2002,To: 24 Sep 2002,Baptist,FY 2002,12,Iran,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Baptist,FY 2002,12,Ukraine,11,225
+From: 24 Sep 2002,To: 24 Sep 2002,Catholic,FY 2002,1,Rwanda,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Christian,FY 2002,44,Ethiopia,9,225
+From: 24 Sep 2002,To: 24 Sep 2002,Christian,FY 2002,44,Iran,34,225
+From: 24 Sep 2002,To: 24 Sep 2002,Christian,FY 2002,44,Sudan,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Jewish,FY 2002,14,Iran,14,225
+From: 24 Sep 2002,To: 24 Sep 2002,Moslem,FY 2002,94,Afghanistan,3,225
+From: 24 Sep 2002,To: 24 Sep 2002,Moslem,FY 2002,94,Bosnia and Herzegovina,62,225
+From: 24 Sep 2002,To: 24 Sep 2002,Moslem,FY 2002,94,Ethiopia,3,225
+From: 24 Sep 2002,To: 24 Sep 2002,Moslem,FY 2002,94,Somalia,19,225
+From: 24 Sep 2002,To: 24 Sep 2002,Moslem,FY 2002,94,Sudan,7,225
+From: 24 Sep 2002,To: 24 Sep 2002,Orthodox,FY 2002,5,Ethiopia,5,225
+From: 24 Sep 2002,To: 24 Sep 2002,Pentecostalist,FY 2002,11,Ethiopia,7,225
+From: 24 Sep 2002,To: 24 Sep 2002,Pentecostalist,FY 2002,11,Ukraine,4,225
+From: 24 Sep 2002,To: 24 Sep 2002,Unknown,FY 2002,34,China,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Unknown,FY 2002,34,Ukraine,1,225
+From: 24 Sep 2002,To: 24 Sep 2002,Unknown,FY 2002,34,Vietnam,32,225
+From: 24 Sep 2002,To: 24 Sep 2002,Zoroastrian,FY 2002,2,Iran,2,225
+

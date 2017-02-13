@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jul 2002,To: 26 Jul 2002,Lebanon,FY 2002,1,Christian,1,88
+From: 26 Jul 2002,To: 26 Jul 2002,Liberia,FY 2002,9,Christian,9,88
+From: 26 Jul 2002,To: 26 Jul 2002,Moldova,FY 2002,21,Baptist,7,88
+From: 26 Jul 2002,To: 26 Jul 2002,Moldova,FY 2002,21,Pentecostalist,14,88
+From: 26 Jul 2002,To: 26 Jul 2002,Ukraine,FY 2002,22,Baptist,9,88
+From: 26 Jul 2002,To: 26 Jul 2002,Ukraine,FY 2002,22,Jewish,6,88
+From: 26 Jul 2002,To: 26 Jul 2002,Ukraine,FY 2002,22,Pentecostalist,4,88
+From: 26 Jul 2002,To: 26 Jul 2002,Ukraine,FY 2002,22,Ukr Orthodox,3,88
+From: 26 Jul 2002,To: 26 Jul 2002,Vietnam,FY 2002,35,Unknown,35,88
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jul 2002,To: 26 Jul 2002,Baptist,FY 2002,16,Moldova,7,88
+From: 26 Jul 2002,To: 26 Jul 2002,Baptist,FY 2002,16,Ukraine,9,88
+From: 26 Jul 2002,To: 26 Jul 2002,Christian,FY 2002,10,Lebanon,1,88
+From: 26 Jul 2002,To: 26 Jul 2002,Christian,FY 2002,10,Liberia,9,88
+From: 26 Jul 2002,To: 26 Jul 2002,Jewish,FY 2002,6,Ukraine,6,88
+From: 26 Jul 2002,To: 26 Jul 2002,Pentecostalist,FY 2002,18,Moldova,14,88
+From: 26 Jul 2002,To: 26 Jul 2002,Pentecostalist,FY 2002,18,Ukraine,4,88
+From: 26 Jul 2002,To: 26 Jul 2002,Ukr Orthodox,FY 2002,3,Ukraine,3,88
+From: 26 Jul 2002,To: 26 Jul 2002,Unknown,FY 2002,35,Vietnam,35,88
+

@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 May 2002,To: 22 May 2002,Afghanistan,FY 2002,65,Moslem,35,162
+From: 22 May 2002,To: 22 May 2002,Afghanistan,FY 2002,65,Moslem Shiite,14,162
+From: 22 May 2002,To: 22 May 2002,Afghanistan,FY 2002,65,Moslem Suni,16,162
+From: 22 May 2002,To: 22 May 2002,Bosnia and Herzegovina,FY 2002,47,Moslem,47,162
+From: 22 May 2002,To: 22 May 2002,Cuba,FY 2002,11,Catholic,4,162
+From: 22 May 2002,To: 22 May 2002,Cuba,FY 2002,11,No Religion,7,162
+From: 22 May 2002,To: 22 May 2002,Ethiopia,FY 2002,8,Christian,8,162
+From: 22 May 2002,To: 22 May 2002,Somalia,FY 2002,1,Moslem,1,162
+From: 22 May 2002,To: 22 May 2002,Sudan,FY 2002,19,Catholic,3,162
+From: 22 May 2002,To: 22 May 2002,Sudan,FY 2002,19,Christian,16,162
+From: 22 May 2002,To: 22 May 2002,Vietnam,FY 2002,11,Unknown,11,162
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 May 2002,To: 22 May 2002,Catholic,FY 2002,7,Cuba,4,162
+From: 22 May 2002,To: 22 May 2002,Catholic,FY 2002,7,Sudan,3,162
+From: 22 May 2002,To: 22 May 2002,Christian,FY 2002,24,Ethiopia,8,162
+From: 22 May 2002,To: 22 May 2002,Christian,FY 2002,24,Sudan,16,162
+From: 22 May 2002,To: 22 May 2002,Moslem,FY 2002,83,Afghanistan,35,162
+From: 22 May 2002,To: 22 May 2002,Moslem,FY 2002,83,Bosnia and Herzegovina,47,162
+From: 22 May 2002,To: 22 May 2002,Moslem,FY 2002,83,Somalia,1,162
+From: 22 May 2002,To: 22 May 2002,Moslem Shiite,FY 2002,14,Afghanistan,14,162
+From: 22 May 2002,To: 22 May 2002,Moslem Suni,FY 2002,16,Afghanistan,16,162
+From: 22 May 2002,To: 22 May 2002,No Religion,FY 2002,7,Cuba,7,162
+From: 22 May 2002,To: 22 May 2002,Unknown,FY 2002,11,Vietnam,11,162
+

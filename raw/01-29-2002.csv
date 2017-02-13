@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jan 2002,To: 29 Jan 2002,Belarus,FY 2002,18,Evangelical Christian,7,139
+From: 29 Jan 2002,To: 29 Jan 2002,Belarus,FY 2002,18,Jewish,6,139
+From: 29 Jan 2002,To: 29 Jan 2002,Belarus,FY 2002,18,Pentecostalist,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Bosnia and Herzegovina,FY 2002,36,Moslem,33,139
+From: 29 Jan 2002,To: 29 Jan 2002,Bosnia and Herzegovina,FY 2002,36,Orthodox,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Cuba,FY 2002,30,Catholic,19,139
+From: 29 Jan 2002,To: 29 Jan 2002,Cuba,FY 2002,30,Christian,4,139
+From: 29 Jan 2002,To: 29 Jan 2002,Cuba,FY 2002,30,Jehovah Witness,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Cuba,FY 2002,30,No Religion,4,139
+From: 29 Jan 2002,To: 29 Jan 2002,Moldova,FY 2002,29,Baptist,16,139
+From: 29 Jan 2002,To: 29 Jan 2002,Moldova,FY 2002,29,Pentecostalist,8,139
+From: 29 Jan 2002,To: 29 Jan 2002,Moldova,FY 2002,29,Seventh Day Adventist,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Nigeria,FY 2002,5,Unknown,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Russia,FY 2002,16,Baptist,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Russia,FY 2002,16,Jewish,6,139
+From: 29 Jan 2002,To: 29 Jan 2002,Russia,FY 2002,16,No Religion,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Russia,FY 2002,16,Unknown,2,139
+From: 29 Jan 2002,To: 29 Jan 2002,Ukraine,FY 2002,5,Baptist,2,139
+From: 29 Jan 2002,To: 29 Jan 2002,Ukraine,FY 2002,5,Pentecostalist,3,139
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jan 2002,To: 29 Jan 2002,Baptist,FY 2002,23,Moldova,16,139
+From: 29 Jan 2002,To: 29 Jan 2002,Baptist,FY 2002,23,Russia,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Baptist,FY 2002,23,Ukraine,2,139
+From: 29 Jan 2002,To: 29 Jan 2002,Catholic,FY 2002,19,Cuba,19,139
+From: 29 Jan 2002,To: 29 Jan 2002,Christian,FY 2002,4,Cuba,4,139
+From: 29 Jan 2002,To: 29 Jan 2002,Evangelical Christian,FY 2002,7,Belarus,7,139
+From: 29 Jan 2002,To: 29 Jan 2002,Jehovah Witness,FY 2002,3,Cuba,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Jewish,FY 2002,12,Belarus,6,139
+From: 29 Jan 2002,To: 29 Jan 2002,Jewish,FY 2002,12,Russia,6,139
+From: 29 Jan 2002,To: 29 Jan 2002,Moslem,FY 2002,33,Bosnia and Herzegovina,33,139
+From: 29 Jan 2002,To: 29 Jan 2002,No Religion,FY 2002,7,Cuba,4,139
+From: 29 Jan 2002,To: 29 Jan 2002,No Religion,FY 2002,7,Russia,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Orthodox,FY 2002,3,Bosnia and Herzegovina,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Pentecostalist,FY 2002,16,Belarus,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Pentecostalist,FY 2002,16,Moldova,8,139
+From: 29 Jan 2002,To: 29 Jan 2002,Pentecostalist,FY 2002,16,Ukraine,3,139
+From: 29 Jan 2002,To: 29 Jan 2002,Seventh Day Adventist,FY 2002,5,Moldova,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Unknown,FY 2002,7,Nigeria,5,139
+From: 29 Jan 2002,To: 29 Jan 2002,Unknown,FY 2002,7,Russia,2,139
+

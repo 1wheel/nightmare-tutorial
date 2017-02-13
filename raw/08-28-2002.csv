@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Aug 2002,To: 28 Aug 2002,Afghanistan,FY 2002,36,Moslem,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Afghanistan,FY 2002,36,Moslem Shiite,5,158
+From: 28 Aug 2002,To: 28 Aug 2002,Afghanistan,FY 2002,36,Moslem Suni,30,158
+From: 28 Aug 2002,To: 28 Aug 2002,Azerbaijan,FY 2002,2,Jewish,2,158
+From: 28 Aug 2002,To: 28 Aug 2002,Bosnia and Herzegovina,FY 2002,3,Moslem,3,158
+From: 28 Aug 2002,To: 28 Aug 2002,Iraq,FY 2002,5,Moslem,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Iraq,FY 2002,5,Moslem Shiite,4,158
+From: 28 Aug 2002,To: 28 Aug 2002,Liberia,FY 2002,25,Christian,25,158
+From: 28 Aug 2002,To: 28 Aug 2002,Russia,FY 2002,6,Baptist,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Russia,FY 2002,6,Jewish,2,158
+From: 28 Aug 2002,To: 28 Aug 2002,Russia,FY 2002,6,No Religion,3,158
+From: 28 Aug 2002,To: 28 Aug 2002,Serbia,FY 2002,45,Orthodox,45,158
+From: 28 Aug 2002,To: 28 Aug 2002,Somalia,FY 2002,1,Moslem,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Vietnam,FY 2002,35,Unknown,35,158
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Aug 2002,To: 28 Aug 2002,Baptist,FY 2002,1,Russia,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Christian,FY 2002,25,Liberia,25,158
+From: 28 Aug 2002,To: 28 Aug 2002,Jewish,FY 2002,4,Azerbaijan,2,158
+From: 28 Aug 2002,To: 28 Aug 2002,Jewish,FY 2002,4,Russia,2,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem,FY 2002,6,Afghanistan,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem,FY 2002,6,Bosnia and Herzegovina,3,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem,FY 2002,6,Iraq,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem,FY 2002,6,Somalia,1,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem Shiite,FY 2002,9,Afghanistan,5,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem Shiite,FY 2002,9,Iraq,4,158
+From: 28 Aug 2002,To: 28 Aug 2002,Moslem Suni,FY 2002,30,Afghanistan,30,158
+From: 28 Aug 2002,To: 28 Aug 2002,No Religion,FY 2002,3,Russia,3,158
+From: 28 Aug 2002,To: 28 Aug 2002,Orthodox,FY 2002,45,Serbia,45,158
+From: 28 Aug 2002,To: 28 Aug 2002,Unknown,FY 2002,35,Vietnam,35,158
+

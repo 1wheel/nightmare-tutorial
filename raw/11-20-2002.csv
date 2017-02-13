@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Nov 2002,To: 20 Nov 2002,Afghanistan,FY 2003,25,Moslem,4,170
+From: 20 Nov 2002,To: 20 Nov 2002,Afghanistan,FY 2003,25,Moslem Shiite,14,170
+From: 20 Nov 2002,To: 20 Nov 2002,Afghanistan,FY 2003,25,Moslem Suni,6,170
+From: 20 Nov 2002,To: 20 Nov 2002,Afghanistan,FY 2003,25,Unknown,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Bosnia and Herzegovina,FY 2003,25,Moslem,24,170
+From: 20 Nov 2002,To: 20 Nov 2002,Bosnia and Herzegovina,FY 2003,25,Unknown,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Cambodia,FY 2003,7,Protestant,7,170
+From: 20 Nov 2002,To: 20 Nov 2002,Iran,FY 2003,23,Bahai,3,170
+From: 20 Nov 2002,To: 20 Nov 2002,Iran,FY 2003,23,Baptist,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Iran,FY 2003,23,Christian,7,170
+From: 20 Nov 2002,To: 20 Nov 2002,Iran,FY 2003,23,Jewish,10,170
+From: 20 Nov 2002,To: 20 Nov 2002,Iran,FY 2003,23,Zoroastrian,2,170
+From: 20 Nov 2002,To: 20 Nov 2002,Kazakhstan,FY 2003,2,Jewish,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Kazakhstan,FY 2003,2,Unknown,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Liberia,FY 2003,46,Baptist,9,170
+From: 20 Nov 2002,To: 20 Nov 2002,Liberia,FY 2003,46,Christian,36,170
+From: 20 Nov 2002,To: 20 Nov 2002,Liberia,FY 2003,46,Unknown,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Moldova,FY 2003,7,Baptist,7,170
+From: 20 Nov 2002,To: 20 Nov 2002,Vietnam,FY 2003,35,Unknown,35,170
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Nov 2002,To: 20 Nov 2002,Bahai,FY 2003,3,Iran,3,170
+From: 20 Nov 2002,To: 20 Nov 2002,Baptist,FY 2003,17,Iran,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Baptist,FY 2003,17,Liberia,9,170
+From: 20 Nov 2002,To: 20 Nov 2002,Baptist,FY 2003,17,Moldova,7,170
+From: 20 Nov 2002,To: 20 Nov 2002,Christian,FY 2003,43,Iran,7,170
+From: 20 Nov 2002,To: 20 Nov 2002,Christian,FY 2003,43,Liberia,36,170
+From: 20 Nov 2002,To: 20 Nov 2002,Jewish,FY 2003,11,Iran,10,170
+From: 20 Nov 2002,To: 20 Nov 2002,Jewish,FY 2003,11,Kazakhstan,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Moslem,FY 2003,28,Afghanistan,4,170
+From: 20 Nov 2002,To: 20 Nov 2002,Moslem,FY 2003,28,Bosnia and Herzegovina,24,170
+From: 20 Nov 2002,To: 20 Nov 2002,Moslem Shiite,FY 2003,14,Afghanistan,14,170
+From: 20 Nov 2002,To: 20 Nov 2002,Moslem Suni,FY 2003,6,Afghanistan,6,170
+From: 20 Nov 2002,To: 20 Nov 2002,Protestant,FY 2003,7,Cambodia,7,170
+From: 20 Nov 2002,To: 20 Nov 2002,Unknown,FY 2003,39,Afghanistan,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Unknown,FY 2003,39,Bosnia and Herzegovina,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Unknown,FY 2003,39,Kazakhstan,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Unknown,FY 2003,39,Liberia,1,170
+From: 20 Nov 2002,To: 20 Nov 2002,Unknown,FY 2003,39,Vietnam,35,170
+From: 20 Nov 2002,To: 20 Nov 2002,Zoroastrian,FY 2003,2,Iran,2,170
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Apr 2002,To: 09 Apr 2002,Belarus,FY 2002,14,No Religion,6,181
+From: 09 Apr 2002,To: 09 Apr 2002,Belarus,FY 2002,14,Pentecostalist,7,181
+From: 09 Apr 2002,To: 09 Apr 2002,Belarus,FY 2002,14,Unknown,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Bosnia and Herzegovina,FY 2002,8,No Religion,8,181
+From: 09 Apr 2002,To: 09 Apr 2002,Cuba,FY 2002,23,Catholic,15,181
+From: 09 Apr 2002,To: 09 Apr 2002,Cuba,FY 2002,23,Christian,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Cuba,FY 2002,23,No Religion,7,181
+From: 09 Apr 2002,To: 09 Apr 2002,Estonia,FY 2002,1,Baptist,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ethiopia,FY 2002,18,Christian,8,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ethiopia,FY 2002,18,Orthodox,6,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ethiopia,FY 2002,18,Other Religion,4,181
+From: 09 Apr 2002,To: 09 Apr 2002,Kyrgyzstan,FY 2002,9,Baptist,9,181
+From: 09 Apr 2002,To: 09 Apr 2002,Macedonia,FY 2002,2,Moslem,2,181
+From: 09 Apr 2002,To: 09 Apr 2002,Russia,FY 2002,12,Jewish,12,181
+From: 09 Apr 2002,To: 09 Apr 2002,Serbia,FY 2002,33,Moslem,6,181
+From: 09 Apr 2002,To: 09 Apr 2002,Serbia,FY 2002,33,No Religion,15,181
+From: 09 Apr 2002,To: 09 Apr 2002,Serbia,FY 2002,33,Orthodox,12,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ukraine,FY 2002,59,Baptist,20,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ukraine,FY 2002,59,Christian,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ukraine,FY 2002,59,Evangelical Christian,8,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ukraine,FY 2002,59,Jewish,2,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ukraine,FY 2002,59,Pentecostalist,25,181
+From: 09 Apr 2002,To: 09 Apr 2002,Ukraine,FY 2002,59,Uniate,3,181
+From: 09 Apr 2002,To: 09 Apr 2002,Uzbekistan,FY 2002,2,Jewish,2,181
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Apr 2002,To: 09 Apr 2002,Baptist,FY 2002,30,Estonia,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Baptist,FY 2002,30,Kyrgyzstan,9,181
+From: 09 Apr 2002,To: 09 Apr 2002,Baptist,FY 2002,30,Ukraine,20,181
+From: 09 Apr 2002,To: 09 Apr 2002,Catholic,FY 2002,15,Cuba,15,181
+From: 09 Apr 2002,To: 09 Apr 2002,Christian,FY 2002,10,Cuba,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Christian,FY 2002,10,Ethiopia,8,181
+From: 09 Apr 2002,To: 09 Apr 2002,Christian,FY 2002,10,Ukraine,1,181
+From: 09 Apr 2002,To: 09 Apr 2002,Evangelical Christian,FY 2002,8,Ukraine,8,181
+From: 09 Apr 2002,To: 09 Apr 2002,Jewish,FY 2002,16,Russia,12,181
+From: 09 Apr 2002,To: 09 Apr 2002,Jewish,FY 2002,16,Ukraine,2,181
+From: 09 Apr 2002,To: 09 Apr 2002,Jewish,FY 2002,16,Uzbekistan,2,181
+From: 09 Apr 2002,To: 09 Apr 2002,Moslem,FY 2002,8,Macedonia,2,181
+From: 09 Apr 2002,To: 09 Apr 2002,Moslem,FY 2002,8,Serbia,6,181
+From: 09 Apr 2002,To: 09 Apr 2002,No Religion,FY 2002,36,Belarus,6,181
+From: 09 Apr 2002,To: 09 Apr 2002,No Religion,FY 2002,36,Bosnia and Herzegovina,8,181
+From: 09 Apr 2002,To: 09 Apr 2002,No Religion,FY 2002,36,Cuba,7,181
+From: 09 Apr 2002,To: 09 Apr 2002,No Religion,FY 2002,36,Serbia,15,181
+From: 09 Apr 2002,To: 09 Apr 2002,Orthodox,FY 2002,18,Ethiopia,6,181
+From: 09 Apr 2002,To: 09 Apr 2002,Orthodox,FY 2002,18,Serbia,12,181
+From: 09 Apr 2002,To: 09 Apr 2002,Other Religion,FY 2002,4,Ethiopia,4,181
+From: 09 Apr 2002,To: 09 Apr 2002,Pentecostalist,FY 2002,32,Belarus,7,181
+From: 09 Apr 2002,To: 09 Apr 2002,Pentecostalist,FY 2002,32,Ukraine,25,181
+From: 09 Apr 2002,To: 09 Apr 2002,Uniate,FY 2002,3,Ukraine,3,181
+From: 09 Apr 2002,To: 09 Apr 2002,Unknown,FY 2002,1,Belarus,1,181
+

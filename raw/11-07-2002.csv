@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Nov 2002,To: 07 Nov 2002,Armenia,FY 2003,6,Pentecostalist,6,182
+From: 07 Nov 2002,To: 07 Nov 2002,Bosnia and Herzegovina,FY 2003,11,Moslem,4,182
+From: 07 Nov 2002,To: 07 Nov 2002,Bosnia and Herzegovina,FY 2003,11,No Religion,3,182
+From: 07 Nov 2002,To: 07 Nov 2002,Bosnia and Herzegovina,FY 2003,11,Orthodox,4,182
+From: 07 Nov 2002,To: 07 Nov 2002,Croatia,FY 2003,6,Catholic,4,182
+From: 07 Nov 2002,To: 07 Nov 2002,Croatia,FY 2003,6,No Religion,2,182
+From: 07 Nov 2002,To: 07 Nov 2002,Ethiopia,FY 2003,9,Christian,3,182
+From: 07 Nov 2002,To: 07 Nov 2002,Ethiopia,FY 2003,9,Moslem,5,182
+From: 07 Nov 2002,To: 07 Nov 2002,Ethiopia,FY 2003,9,Orthodox,1,182
+From: 07 Nov 2002,To: 07 Nov 2002,Liberia,FY 2003,43,Baptist,20,182
+From: 07 Nov 2002,To: 07 Nov 2002,Liberia,FY 2003,43,Christian,5,182
+From: 07 Nov 2002,To: 07 Nov 2002,Liberia,FY 2003,43,Lutheran,12,182
+From: 07 Nov 2002,To: 07 Nov 2002,Liberia,FY 2003,43,Moslem,6,182
+From: 07 Nov 2002,To: 07 Nov 2002,Serbia,FY 2003,69,Moslem,32,182
+From: 07 Nov 2002,To: 07 Nov 2002,Serbia,FY 2003,69,Orthodox,37,182
+From: 07 Nov 2002,To: 07 Nov 2002,Somalia,FY 2003,3,Moslem,3,182
+From: 07 Nov 2002,To: 07 Nov 2002,Ukraine,FY 2003,35,Baptist,8,182
+From: 07 Nov 2002,To: 07 Nov 2002,Ukraine,FY 2003,35,Jewish,2,182
+From: 07 Nov 2002,To: 07 Nov 2002,Ukraine,FY 2003,35,Pentecostalist,25,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Nov 2002,To: 07 Nov 2002,Baptist,FY 2003,28,Liberia,20,182
+From: 07 Nov 2002,To: 07 Nov 2002,Baptist,FY 2003,28,Ukraine,8,182
+From: 07 Nov 2002,To: 07 Nov 2002,Catholic,FY 2003,4,Croatia,4,182
+From: 07 Nov 2002,To: 07 Nov 2002,Christian,FY 2003,8,Ethiopia,3,182
+From: 07 Nov 2002,To: 07 Nov 2002,Christian,FY 2003,8,Liberia,5,182
+From: 07 Nov 2002,To: 07 Nov 2002,Jewish,FY 2003,2,Ukraine,2,182
+From: 07 Nov 2002,To: 07 Nov 2002,Lutheran,FY 2003,12,Liberia,12,182
+From: 07 Nov 2002,To: 07 Nov 2002,Moslem,FY 2003,50,Bosnia and Herzegovina,4,182
+From: 07 Nov 2002,To: 07 Nov 2002,Moslem,FY 2003,50,Ethiopia,5,182
+From: 07 Nov 2002,To: 07 Nov 2002,Moslem,FY 2003,50,Liberia,6,182
+From: 07 Nov 2002,To: 07 Nov 2002,Moslem,FY 2003,50,Serbia,32,182
+From: 07 Nov 2002,To: 07 Nov 2002,Moslem,FY 2003,50,Somalia,3,182
+From: 07 Nov 2002,To: 07 Nov 2002,No Religion,FY 2003,5,Bosnia and Herzegovina,3,182
+From: 07 Nov 2002,To: 07 Nov 2002,No Religion,FY 2003,5,Croatia,2,182
+From: 07 Nov 2002,To: 07 Nov 2002,Orthodox,FY 2003,42,Bosnia and Herzegovina,4,182
+From: 07 Nov 2002,To: 07 Nov 2002,Orthodox,FY 2003,42,Ethiopia,1,182
+From: 07 Nov 2002,To: 07 Nov 2002,Orthodox,FY 2003,42,Serbia,37,182
+From: 07 Nov 2002,To: 07 Nov 2002,Pentecostalist,FY 2003,31,Armenia,6,182
+From: 07 Nov 2002,To: 07 Nov 2002,Pentecostalist,FY 2003,31,Ukraine,25,182
+

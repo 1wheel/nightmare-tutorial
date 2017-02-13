@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Sep 2002,To: 26 Sep 2002,Afghanistan,FY 2002,9,Moslem Shiite,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Afghanistan,FY 2002,9,Moslem Suni,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Belarus,FY 2002,4,Pentecostalist,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Bosnia and Herzegovina,FY 2002,151,Catholic,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Bosnia and Herzegovina,FY 2002,151,Moslem,147,384
+From: 26 Sep 2002,To: 26 Sep 2002,Croatia,FY 2002,5,Catholic,1,384
+From: 26 Sep 2002,To: 26 Sep 2002,Croatia,FY 2002,5,No Religion,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Cuba,FY 2002,21,Baptist,6,384
+From: 26 Sep 2002,To: 26 Sep 2002,Cuba,FY 2002,21,Catholic,8,384
+From: 26 Sep 2002,To: 26 Sep 2002,Cuba,FY 2002,21,Christian,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Cuba,FY 2002,21,Jehovah Witness,1,384
+From: 26 Sep 2002,To: 26 Sep 2002,Cuba,FY 2002,21,Seventh Day Adventist,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Ethiopia,FY 2002,4,Moslem,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Liberia,FY 2002,30,Christian,30,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moldova,FY 2002,3,Baptist,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Nigeria,FY 2002,3,Christian,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Russia,FY 2002,13,Baptist,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Russia,FY 2002,13,Evangelical Christian,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Russia,FY 2002,13,Jewish,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Russia,FY 2002,13,Seventh Day Adventist,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Serbia,FY 2002,25,No Religion,7,384
+From: 26 Sep 2002,To: 26 Sep 2002,Serbia,FY 2002,25,Orthodox,18,384
+From: 26 Sep 2002,To: 26 Sep 2002,Sierra Leone,FY 2002,3,Christian,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Sierra Leone,FY 2002,3,Moslem,1,384
+From: 26 Sep 2002,To: 26 Sep 2002,Somalia,FY 2002,8,Moslem,8,384
+From: 26 Sep 2002,To: 26 Sep 2002,Sudan,FY 2002,23,Catholic,11,384
+From: 26 Sep 2002,To: 26 Sep 2002,Sudan,FY 2002,23,Evangelical Christian,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Sudan,FY 2002,23,Moslem,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Sudan,FY 2002,23,Protestant,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Ukraine,FY 2002,53,Baptist,27,384
+From: 26 Sep 2002,To: 26 Sep 2002,Ukraine,FY 2002,53,Evangelical Christian,6,384
+From: 26 Sep 2002,To: 26 Sep 2002,Ukraine,FY 2002,53,Jewish,6,384
+From: 26 Sep 2002,To: 26 Sep 2002,Ukraine,FY 2002,53,Pentecostalist,12,384
+From: 26 Sep 2002,To: 26 Sep 2002,Ukraine,FY 2002,53,Uniate,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Vietnam,FY 2002,29,Unknown,29,384
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Sep 2002,To: 26 Sep 2002,Baptist,FY 2002,38,Cuba,6,384
+From: 26 Sep 2002,To: 26 Sep 2002,Baptist,FY 2002,38,Moldova,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Baptist,FY 2002,38,Russia,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Baptist,FY 2002,38,Ukraine,27,384
+From: 26 Sep 2002,To: 26 Sep 2002,Catholic,FY 2002,24,Bosnia and Herzegovina,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Catholic,FY 2002,24,Croatia,1,384
+From: 26 Sep 2002,To: 26 Sep 2002,Catholic,FY 2002,24,Cuba,8,384
+From: 26 Sep 2002,To: 26 Sep 2002,Catholic,FY 2002,24,Sudan,11,384
+From: 26 Sep 2002,To: 26 Sep 2002,Christian,FY 2002,37,Cuba,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Christian,FY 2002,37,Liberia,30,384
+From: 26 Sep 2002,To: 26 Sep 2002,Christian,FY 2002,37,Nigeria,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Christian,FY 2002,37,Sierra Leone,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Evangelical Christian,FY 2002,11,Russia,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Evangelical Christian,FY 2002,11,Sudan,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Evangelical Christian,FY 2002,11,Ukraine,6,384
+From: 26 Sep 2002,To: 26 Sep 2002,Jehovah Witness,FY 2002,1,Cuba,1,384
+From: 26 Sep 2002,To: 26 Sep 2002,Jewish,FY 2002,11,Russia,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Jewish,FY 2002,11,Ukraine,6,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem,FY 2002,165,Bosnia and Herzegovina,147,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem,FY 2002,165,Ethiopia,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem,FY 2002,165,Sierra Leone,1,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem,FY 2002,165,Somalia,8,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem,FY 2002,165,Sudan,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem Shiite,FY 2002,5,Afghanistan,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Moslem Suni,FY 2002,4,Afghanistan,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,No Religion,FY 2002,11,Croatia,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,No Religion,FY 2002,11,Serbia,7,384
+From: 26 Sep 2002,To: 26 Sep 2002,Orthodox,FY 2002,18,Serbia,18,384
+From: 26 Sep 2002,To: 26 Sep 2002,Pentecostalist,FY 2002,16,Belarus,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Pentecostalist,FY 2002,16,Ukraine,12,384
+From: 26 Sep 2002,To: 26 Sep 2002,Protestant,FY 2002,5,Sudan,5,384
+From: 26 Sep 2002,To: 26 Sep 2002,Seventh Day Adventist,FY 2002,7,Cuba,4,384
+From: 26 Sep 2002,To: 26 Sep 2002,Seventh Day Adventist,FY 2002,7,Russia,3,384
+From: 26 Sep 2002,To: 26 Sep 2002,Uniate,FY 2002,2,Ukraine,2,384
+From: 26 Sep 2002,To: 26 Sep 2002,Unknown,FY 2002,29,Vietnam,29,384
+

@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jan 2002,To: 24 Jan 2002,Belarus,FY 2002,8,Baptist,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Belarus,FY 2002,8,Jewish,2,199
+From: 24 Jan 2002,To: 24 Jan 2002,Belarus,FY 2002,8,Pentecostalist,5,199
+From: 24 Jan 2002,To: 24 Jan 2002,Bosnia and Herzegovina,FY 2002,22,Catholic,3,199
+From: 24 Jan 2002,To: 24 Jan 2002,Bosnia and Herzegovina,FY 2002,22,Moslem,15,199
+From: 24 Jan 2002,To: 24 Jan 2002,Bosnia and Herzegovina,FY 2002,22,Orthodox,4,199
+From: 24 Jan 2002,To: 24 Jan 2002,Burma,FY 2002,9,Buddhist,9,199
+From: 24 Jan 2002,To: 24 Jan 2002,Cuba,FY 2002,29,Catholic,5,199
+From: 24 Jan 2002,To: 24 Jan 2002,Cuba,FY 2002,29,Evangelical Christian,7,199
+From: 24 Jan 2002,To: 24 Jan 2002,Cuba,FY 2002,29,Jehovah Witness,2,199
+From: 24 Jan 2002,To: 24 Jan 2002,Cuba,FY 2002,29,No Religion,15,199
+From: 24 Jan 2002,To: 24 Jan 2002,Dem. Rep. Congo,FY 2002,1,Unknown,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Kazakhstan,FY 2002,1,No Religion,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Moldova,FY 2002,7,Baptist,4,199
+From: 24 Jan 2002,To: 24 Jan 2002,Moldova,FY 2002,7,Pentecostalist,3,199
+From: 24 Jan 2002,To: 24 Jan 2002,Russia,FY 2002,20,Baptist,12,199
+From: 24 Jan 2002,To: 24 Jan 2002,Russia,FY 2002,20,Jewish,6,199
+From: 24 Jan 2002,To: 24 Jan 2002,Russia,FY 2002,20,Pentecostalist,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Russia,FY 2002,20,Unknown,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Ukraine,FY 2002,83,Baptist,26,199
+From: 24 Jan 2002,To: 24 Jan 2002,Ukraine,FY 2002,83,Evangelical Christian,2,199
+From: 24 Jan 2002,To: 24 Jan 2002,Ukraine,FY 2002,83,Jewish,16,199
+From: 24 Jan 2002,To: 24 Jan 2002,Ukraine,FY 2002,83,No Religion,3,199
+From: 24 Jan 2002,To: 24 Jan 2002,Ukraine,FY 2002,83,Pentecostalist,29,199
+From: 24 Jan 2002,To: 24 Jan 2002,Ukraine,FY 2002,83,Unknown,7,199
+From: 24 Jan 2002,To: 24 Jan 2002,Vietnam,FY 2002,19,Unknown,19,199
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jan 2002,To: 24 Jan 2002,Baptist,FY 2002,43,Belarus,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Baptist,FY 2002,43,Moldova,4,199
+From: 24 Jan 2002,To: 24 Jan 2002,Baptist,FY 2002,43,Russia,12,199
+From: 24 Jan 2002,To: 24 Jan 2002,Baptist,FY 2002,43,Ukraine,26,199
+From: 24 Jan 2002,To: 24 Jan 2002,Buddhist,FY 2002,9,Burma,9,199
+From: 24 Jan 2002,To: 24 Jan 2002,Catholic,FY 2002,8,Bosnia and Herzegovina,3,199
+From: 24 Jan 2002,To: 24 Jan 2002,Catholic,FY 2002,8,Cuba,5,199
+From: 24 Jan 2002,To: 24 Jan 2002,Evangelical Christian,FY 2002,9,Cuba,7,199
+From: 24 Jan 2002,To: 24 Jan 2002,Evangelical Christian,FY 2002,9,Ukraine,2,199
+From: 24 Jan 2002,To: 24 Jan 2002,Jehovah Witness,FY 2002,2,Cuba,2,199
+From: 24 Jan 2002,To: 24 Jan 2002,Jewish,FY 2002,24,Belarus,2,199
+From: 24 Jan 2002,To: 24 Jan 2002,Jewish,FY 2002,24,Russia,6,199
+From: 24 Jan 2002,To: 24 Jan 2002,Jewish,FY 2002,24,Ukraine,16,199
+From: 24 Jan 2002,To: 24 Jan 2002,Moslem,FY 2002,15,Bosnia and Herzegovina,15,199
+From: 24 Jan 2002,To: 24 Jan 2002,No Religion,FY 2002,19,Cuba,15,199
+From: 24 Jan 2002,To: 24 Jan 2002,No Religion,FY 2002,19,Kazakhstan,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,No Religion,FY 2002,19,Ukraine,3,199
+From: 24 Jan 2002,To: 24 Jan 2002,Orthodox,FY 2002,4,Bosnia and Herzegovina,4,199
+From: 24 Jan 2002,To: 24 Jan 2002,Pentecostalist,FY 2002,38,Belarus,5,199
+From: 24 Jan 2002,To: 24 Jan 2002,Pentecostalist,FY 2002,38,Moldova,3,199
+From: 24 Jan 2002,To: 24 Jan 2002,Pentecostalist,FY 2002,38,Russia,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Pentecostalist,FY 2002,38,Ukraine,29,199
+From: 24 Jan 2002,To: 24 Jan 2002,Unknown,FY 2002,28,Dem. Rep. Congo,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Unknown,FY 2002,28,Russia,1,199
+From: 24 Jan 2002,To: 24 Jan 2002,Unknown,FY 2002,28,Ukraine,7,199
+From: 24 Jan 2002,To: 24 Jan 2002,Unknown,FY 2002,28,Vietnam,19,199
+

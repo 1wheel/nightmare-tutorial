@@ -1,0 +1,13 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 May 2002,To: 01 May 2002,Afghanistan,FY 2002,21,Moslem,5,21
+From: 01 May 2002,To: 01 May 2002,Afghanistan,FY 2002,21,Moslem Shiite,4,21
+From: 01 May 2002,To: 01 May 2002,Afghanistan,FY 2002,21,Moslem Suni,12,21
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 May 2002,To: 01 May 2002,Moslem,FY 2002,5,Afghanistan,5,21
+From: 01 May 2002,To: 01 May 2002,Moslem Shiite,FY 2002,4,Afghanistan,4,21
+From: 01 May 2002,To: 01 May 2002,Moslem Suni,FY 2002,12,Afghanistan,12,21
+

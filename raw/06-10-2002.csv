@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jun 2002,To: 10 Jun 2002,Afghanistan,FY 2002,8,Moslem,8,150
+From: 10 Jun 2002,To: 10 Jun 2002,Bosnia and Herzegovina,FY 2002,57,Moslem,54,150
+From: 10 Jun 2002,To: 10 Jun 2002,Bosnia and Herzegovina,FY 2002,57,No Religion,3,150
+From: 10 Jun 2002,To: 10 Jun 2002,Iraq,FY 2002,14,Catholic,4,150
+From: 10 Jun 2002,To: 10 Jun 2002,Iraq,FY 2002,14,Christian,7,150
+From: 10 Jun 2002,To: 10 Jun 2002,Iraq,FY 2002,14,Moslem,2,150
+From: 10 Jun 2002,To: 10 Jun 2002,Iraq,FY 2002,14,Moslem Shiite,1,150
+From: 10 Jun 2002,To: 10 Jun 2002,Liberia,FY 2002,4,Christian,3,150
+From: 10 Jun 2002,To: 10 Jun 2002,Liberia,FY 2002,4,Unknown,1,150
+From: 10 Jun 2002,To: 10 Jun 2002,Serbia,FY 2002,25,No Religion,4,150
+From: 10 Jun 2002,To: 10 Jun 2002,Serbia,FY 2002,25,Orthodox,21,150
+From: 10 Jun 2002,To: 10 Jun 2002,Somalia,FY 2002,7,Moslem,7,150
+From: 10 Jun 2002,To: 10 Jun 2002,Sudan,FY 2002,24,Catholic,11,150
+From: 10 Jun 2002,To: 10 Jun 2002,Sudan,FY 2002,24,Christian,5,150
+From: 10 Jun 2002,To: 10 Jun 2002,Sudan,FY 2002,24,Moslem,8,150
+From: 10 Jun 2002,To: 10 Jun 2002,Uzbekistan,FY 2002,11,Baptist,2,150
+From: 10 Jun 2002,To: 10 Jun 2002,Uzbekistan,FY 2002,11,Jewish,9,150
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jun 2002,To: 10 Jun 2002,Baptist,FY 2002,2,Uzbekistan,2,150
+From: 10 Jun 2002,To: 10 Jun 2002,Catholic,FY 2002,15,Iraq,4,150
+From: 10 Jun 2002,To: 10 Jun 2002,Catholic,FY 2002,15,Sudan,11,150
+From: 10 Jun 2002,To: 10 Jun 2002,Christian,FY 2002,15,Iraq,7,150
+From: 10 Jun 2002,To: 10 Jun 2002,Christian,FY 2002,15,Liberia,3,150
+From: 10 Jun 2002,To: 10 Jun 2002,Christian,FY 2002,15,Sudan,5,150
+From: 10 Jun 2002,To: 10 Jun 2002,Jewish,FY 2002,9,Uzbekistan,9,150
+From: 10 Jun 2002,To: 10 Jun 2002,Moslem,FY 2002,79,Afghanistan,8,150
+From: 10 Jun 2002,To: 10 Jun 2002,Moslem,FY 2002,79,Bosnia and Herzegovina,54,150
+From: 10 Jun 2002,To: 10 Jun 2002,Moslem,FY 2002,79,Iraq,2,150
+From: 10 Jun 2002,To: 10 Jun 2002,Moslem,FY 2002,79,Somalia,7,150
+From: 10 Jun 2002,To: 10 Jun 2002,Moslem,FY 2002,79,Sudan,8,150
+From: 10 Jun 2002,To: 10 Jun 2002,Moslem Shiite,FY 2002,1,Iraq,1,150
+From: 10 Jun 2002,To: 10 Jun 2002,No Religion,FY 2002,7,Bosnia and Herzegovina,3,150
+From: 10 Jun 2002,To: 10 Jun 2002,No Religion,FY 2002,7,Serbia,4,150
+From: 10 Jun 2002,To: 10 Jun 2002,Orthodox,FY 2002,21,Serbia,21,150
+From: 10 Jun 2002,To: 10 Jun 2002,Unknown,FY 2002,1,Liberia,1,150
+

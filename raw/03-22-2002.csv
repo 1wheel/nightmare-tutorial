@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Mar 2002,To: 22 Mar 2002,Moldova,FY 2002,20,Baptist,3,75
+From: 22 Mar 2002,To: 22 Mar 2002,Moldova,FY 2002,20,Christian,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Moldova,FY 2002,20,Pentecostalist,16,75
+From: 22 Mar 2002,To: 22 Mar 2002,Russia,FY 2002,21,Baptist,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Russia,FY 2002,21,Jewish,13,75
+From: 22 Mar 2002,To: 22 Mar 2002,Russia,FY 2002,21,No Religion,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Russia,FY 2002,21,Pentecostalist,5,75
+From: 22 Mar 2002,To: 22 Mar 2002,Russia,FY 2002,21,Unknown,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Somalia,FY 2002,2,Moslem,2,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,Baptist,9,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,Evangelical Christian,3,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,Jewish,9,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,No Religion,2,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,Pentecostalist,6,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,Uniate,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Ukraine,FY 2002,31,Unknown,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Uzbekistan,FY 2002,1,Baptist,1,75
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Mar 2002,To: 22 Mar 2002,Baptist,FY 2002,14,Moldova,3,75
+From: 22 Mar 2002,To: 22 Mar 2002,Baptist,FY 2002,14,Russia,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Baptist,FY 2002,14,Ukraine,9,75
+From: 22 Mar 2002,To: 22 Mar 2002,Baptist,FY 2002,14,Uzbekistan,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Christian,FY 2002,1,Moldova,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Evangelical Christian,FY 2002,3,Ukraine,3,75
+From: 22 Mar 2002,To: 22 Mar 2002,Jewish,FY 2002,22,Russia,13,75
+From: 22 Mar 2002,To: 22 Mar 2002,Jewish,FY 2002,22,Ukraine,9,75
+From: 22 Mar 2002,To: 22 Mar 2002,Moslem,FY 2002,2,Somalia,2,75
+From: 22 Mar 2002,To: 22 Mar 2002,No Religion,FY 2002,3,Russia,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,No Religion,FY 2002,3,Ukraine,2,75
+From: 22 Mar 2002,To: 22 Mar 2002,Pentecostalist,FY 2002,27,Moldova,16,75
+From: 22 Mar 2002,To: 22 Mar 2002,Pentecostalist,FY 2002,27,Russia,5,75
+From: 22 Mar 2002,To: 22 Mar 2002,Pentecostalist,FY 2002,27,Ukraine,6,75
+From: 22 Mar 2002,To: 22 Mar 2002,Uniate,FY 2002,1,Ukraine,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Unknown,FY 2002,2,Russia,1,75
+From: 22 Mar 2002,To: 22 Mar 2002,Unknown,FY 2002,2,Ukraine,1,75
+

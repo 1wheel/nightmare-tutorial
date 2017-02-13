@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Mar 2002,To: 13 Mar 2002,Afghanistan,FY 2002,30,Moslem,12,215
+From: 13 Mar 2002,To: 13 Mar 2002,Afghanistan,FY 2002,30,Moslem Shiite,9,215
+From: 13 Mar 2002,To: 13 Mar 2002,Afghanistan,FY 2002,30,Moslem Suni,9,215
+From: 13 Mar 2002,To: 13 Mar 2002,Bosnia and Herzegovina,FY 2002,11,Moslem,11,215
+From: 13 Mar 2002,To: 13 Mar 2002,Cuba,FY 2002,26,Catholic,21,215
+From: 13 Mar 2002,To: 13 Mar 2002,Cuba,FY 2002,26,No Religion,5,215
+From: 13 Mar 2002,To: 13 Mar 2002,Latvia,FY 2002,1,Jewish,1,215
+From: 13 Mar 2002,To: 13 Mar 2002,Liberia,FY 2002,9,Christian,9,215
+From: 13 Mar 2002,To: 13 Mar 2002,Russia,FY 2002,55,Baptist,21,215
+From: 13 Mar 2002,To: 13 Mar 2002,Russia,FY 2002,55,Evangelical Christian,6,215
+From: 13 Mar 2002,To: 13 Mar 2002,Russia,FY 2002,55,Jewish,6,215
+From: 13 Mar 2002,To: 13 Mar 2002,Russia,FY 2002,55,No Religion,4,215
+From: 13 Mar 2002,To: 13 Mar 2002,Russia,FY 2002,55,Pentecostalist,16,215
+From: 13 Mar 2002,To: 13 Mar 2002,Russia,FY 2002,55,Seventh Day Adventist,2,215
+From: 13 Mar 2002,To: 13 Mar 2002,Ukraine,FY 2002,30,Baptist,7,215
+From: 13 Mar 2002,To: 13 Mar 2002,Ukraine,FY 2002,30,Evangelical Christian,1,215
+From: 13 Mar 2002,To: 13 Mar 2002,Ukraine,FY 2002,30,Pentecostalist,22,215
+From: 13 Mar 2002,To: 13 Mar 2002,Uzbekistan,FY 2002,3,Jewish,3,215
+From: 13 Mar 2002,To: 13 Mar 2002,Vietnam,FY 2002,50,Unknown,50,215
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Mar 2002,To: 13 Mar 2002,Baptist,FY 2002,28,Russia,21,215
+From: 13 Mar 2002,To: 13 Mar 2002,Baptist,FY 2002,28,Ukraine,7,215
+From: 13 Mar 2002,To: 13 Mar 2002,Catholic,FY 2002,21,Cuba,21,215
+From: 13 Mar 2002,To: 13 Mar 2002,Christian,FY 2002,9,Liberia,9,215
+From: 13 Mar 2002,To: 13 Mar 2002,Evangelical Christian,FY 2002,7,Russia,6,215
+From: 13 Mar 2002,To: 13 Mar 2002,Evangelical Christian,FY 2002,7,Ukraine,1,215
+From: 13 Mar 2002,To: 13 Mar 2002,Jewish,FY 2002,10,Latvia,1,215
+From: 13 Mar 2002,To: 13 Mar 2002,Jewish,FY 2002,10,Russia,6,215
+From: 13 Mar 2002,To: 13 Mar 2002,Jewish,FY 2002,10,Uzbekistan,3,215
+From: 13 Mar 2002,To: 13 Mar 2002,Moslem,FY 2002,23,Afghanistan,12,215
+From: 13 Mar 2002,To: 13 Mar 2002,Moslem,FY 2002,23,Bosnia and Herzegovina,11,215
+From: 13 Mar 2002,To: 13 Mar 2002,Moslem Shiite,FY 2002,9,Afghanistan,9,215
+From: 13 Mar 2002,To: 13 Mar 2002,Moslem Suni,FY 2002,9,Afghanistan,9,215
+From: 13 Mar 2002,To: 13 Mar 2002,No Religion,FY 2002,9,Cuba,5,215
+From: 13 Mar 2002,To: 13 Mar 2002,No Religion,FY 2002,9,Russia,4,215
+From: 13 Mar 2002,To: 13 Mar 2002,Pentecostalist,FY 2002,38,Russia,16,215
+From: 13 Mar 2002,To: 13 Mar 2002,Pentecostalist,FY 2002,38,Ukraine,22,215
+From: 13 Mar 2002,To: 13 Mar 2002,Seventh Day Adventist,FY 2002,2,Russia,2,215
+From: 13 Mar 2002,To: 13 Mar 2002,Unknown,FY 2002,50,Vietnam,50,215
+

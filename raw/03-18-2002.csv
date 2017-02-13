@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Mar 2002,To: 18 Mar 2002,Belarus,FY 2002,5,Pentecostalist,5,76
+From: 18 Mar 2002,To: 18 Mar 2002,Latvia,FY 2002,4,Pentecostalist,4,76
+From: 18 Mar 2002,To: 18 Mar 2002,Russia,FY 2002,19,Baptist,10,76
+From: 18 Mar 2002,To: 18 Mar 2002,Russia,FY 2002,19,Jewish,9,76
+From: 18 Mar 2002,To: 18 Mar 2002,Somalia,FY 2002,3,Moslem,3,76
+From: 18 Mar 2002,To: 18 Mar 2002,Sudan,FY 2002,13,Catholic,1,76
+From: 18 Mar 2002,To: 18 Mar 2002,Sudan,FY 2002,13,Christian,4,76
+From: 18 Mar 2002,To: 18 Mar 2002,Sudan,FY 2002,13,Moslem,2,76
+From: 18 Mar 2002,To: 18 Mar 2002,Sudan,FY 2002,13,Seventh Day Adventist,6,76
+From: 18 Mar 2002,To: 18 Mar 2002,Tajikistan,FY 2002,2,No Religion,2,76
+From: 18 Mar 2002,To: 18 Mar 2002,Ukraine,FY 2002,30,Baptist,15,76
+From: 18 Mar 2002,To: 18 Mar 2002,Ukraine,FY 2002,30,Pentecostalist,15,76
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Mar 2002,To: 18 Mar 2002,Baptist,FY 2002,25,Russia,10,76
+From: 18 Mar 2002,To: 18 Mar 2002,Baptist,FY 2002,25,Ukraine,15,76
+From: 18 Mar 2002,To: 18 Mar 2002,Catholic,FY 2002,1,Sudan,1,76
+From: 18 Mar 2002,To: 18 Mar 2002,Christian,FY 2002,4,Sudan,4,76
+From: 18 Mar 2002,To: 18 Mar 2002,Jewish,FY 2002,9,Russia,9,76
+From: 18 Mar 2002,To: 18 Mar 2002,Moslem,FY 2002,5,Somalia,3,76
+From: 18 Mar 2002,To: 18 Mar 2002,Moslem,FY 2002,5,Sudan,2,76
+From: 18 Mar 2002,To: 18 Mar 2002,No Religion,FY 2002,2,Tajikistan,2,76
+From: 18 Mar 2002,To: 18 Mar 2002,Pentecostalist,FY 2002,24,Belarus,5,76
+From: 18 Mar 2002,To: 18 Mar 2002,Pentecostalist,FY 2002,24,Latvia,4,76
+From: 18 Mar 2002,To: 18 Mar 2002,Pentecostalist,FY 2002,24,Ukraine,15,76
+From: 18 Mar 2002,To: 18 Mar 2002,Seventh Day Adventist,FY 2002,6,Sudan,6,76
+

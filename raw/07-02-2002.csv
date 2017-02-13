@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jul 2002,To: 02 Jul 2002,Azerbaijan,FY 2002,4,Jewish,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Cuba,FY 2002,20,Baptist,3,90
+From: 02 Jul 2002,To: 02 Jul 2002,Cuba,FY 2002,20,Catholic,8,90
+From: 02 Jul 2002,To: 02 Jul 2002,Cuba,FY 2002,20,Methodist,3,90
+From: 02 Jul 2002,To: 02 Jul 2002,Cuba,FY 2002,20,No Religion,6,90
+From: 02 Jul 2002,To: 02 Jul 2002,Iran,FY 2002,1,Catholic,1,90
+From: 02 Jul 2002,To: 02 Jul 2002,Kyrgyzstan,FY 2002,7,Baptist,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Kyrgyzstan,FY 2002,7,Jewish,3,90
+From: 02 Jul 2002,To: 02 Jul 2002,Moldova,FY 2002,4,Baptist,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Russia,FY 2002,13,Baptist,2,90
+From: 02 Jul 2002,To: 02 Jul 2002,Russia,FY 2002,13,Jewish,6,90
+From: 02 Jul 2002,To: 02 Jul 2002,Russia,FY 2002,13,Pentecostalist,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Russia,FY 2002,13,Unknown,1,90
+From: 02 Jul 2002,To: 02 Jul 2002,Ukraine,FY 2002,41,Baptist,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Ukraine,FY 2002,41,Jewish,1,90
+From: 02 Jul 2002,To: 02 Jul 2002,Ukraine,FY 2002,41,Pentecostalist,36,90
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jul 2002,To: 02 Jul 2002,Baptist,FY 2002,17,Cuba,3,90
+From: 02 Jul 2002,To: 02 Jul 2002,Baptist,FY 2002,17,Kyrgyzstan,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Baptist,FY 2002,17,Moldova,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Baptist,FY 2002,17,Russia,2,90
+From: 02 Jul 2002,To: 02 Jul 2002,Baptist,FY 2002,17,Ukraine,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Catholic,FY 2002,9,Cuba,8,90
+From: 02 Jul 2002,To: 02 Jul 2002,Catholic,FY 2002,9,Iran,1,90
+From: 02 Jul 2002,To: 02 Jul 2002,Jewish,FY 2002,14,Azerbaijan,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Jewish,FY 2002,14,Kyrgyzstan,3,90
+From: 02 Jul 2002,To: 02 Jul 2002,Jewish,FY 2002,14,Russia,6,90
+From: 02 Jul 2002,To: 02 Jul 2002,Jewish,FY 2002,14,Ukraine,1,90
+From: 02 Jul 2002,To: 02 Jul 2002,Methodist,FY 2002,3,Cuba,3,90
+From: 02 Jul 2002,To: 02 Jul 2002,No Religion,FY 2002,6,Cuba,6,90
+From: 02 Jul 2002,To: 02 Jul 2002,Pentecostalist,FY 2002,40,Russia,4,90
+From: 02 Jul 2002,To: 02 Jul 2002,Pentecostalist,FY 2002,40,Ukraine,36,90
+From: 02 Jul 2002,To: 02 Jul 2002,Unknown,FY 2002,1,Russia,1,90
+

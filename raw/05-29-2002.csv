@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 May 2002,To: 29 May 2002,Afghanistan,FY 2002,27,Moslem Shiite,21,175
+From: 29 May 2002,To: 29 May 2002,Afghanistan,FY 2002,27,Moslem Suni,6,175
+From: 29 May 2002,To: 29 May 2002,Azerbaijan,FY 2002,8,Jewish,8,175
+From: 29 May 2002,To: 29 May 2002,Belarus,FY 2002,2,Baptist,2,175
+From: 29 May 2002,To: 29 May 2002,Bosnia and Herzegovina,FY 2002,34,Moslem,33,175
+From: 29 May 2002,To: 29 May 2002,Bosnia and Herzegovina,FY 2002,34,Orthodox,1,175
+From: 29 May 2002,To: 29 May 2002,Congo,FY 2002,1,Catholic,1,175
+From: 29 May 2002,To: 29 May 2002,Cuba,FY 2002,25,Catholic,12,175
+From: 29 May 2002,To: 29 May 2002,Cuba,FY 2002,25,Christian,1,175
+From: 29 May 2002,To: 29 May 2002,Cuba,FY 2002,25,Jehovah Witness,11,175
+From: 29 May 2002,To: 29 May 2002,Cuba,FY 2002,25,No Religion,1,175
+From: 29 May 2002,To: 29 May 2002,Dem. Rep. Congo,FY 2002,6,Catholic,6,175
+From: 29 May 2002,To: 29 May 2002,Ethiopia,FY 2002,6,Moslem,5,175
+From: 29 May 2002,To: 29 May 2002,Ethiopia,FY 2002,6,Unknown,1,175
+From: 29 May 2002,To: 29 May 2002,Iran,FY 2002,3,Jewish,3,175
+From: 29 May 2002,To: 29 May 2002,Lebanon,FY 2002,2,Christian,2,175
+From: 29 May 2002,To: 29 May 2002,Russia,FY 2002,18,Baptist,4,175
+From: 29 May 2002,To: 29 May 2002,Russia,FY 2002,18,Jewish,10,175
+From: 29 May 2002,To: 29 May 2002,Russia,FY 2002,18,No Religion,4,175
+From: 29 May 2002,To: 29 May 2002,Rwanda,FY 2002,4,Catholic,4,175
+From: 29 May 2002,To: 29 May 2002,Somalia,FY 2002,2,Moslem,2,175
+From: 29 May 2002,To: 29 May 2002,Sudan,FY 2002,30,Catholic,22,175
+From: 29 May 2002,To: 29 May 2002,Sudan,FY 2002,30,Protestant,8,175
+From: 29 May 2002,To: 29 May 2002,Uzbekistan,FY 2002,1,Jewish,1,175
+From: 29 May 2002,To: 29 May 2002,Vietnam,FY 2002,6,Unknown,6,175
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 May 2002,To: 29 May 2002,Baptist,FY 2002,6,Belarus,2,175
+From: 29 May 2002,To: 29 May 2002,Baptist,FY 2002,6,Russia,4,175
+From: 29 May 2002,To: 29 May 2002,Catholic,FY 2002,45,Congo,1,175
+From: 29 May 2002,To: 29 May 2002,Catholic,FY 2002,45,Cuba,12,175
+From: 29 May 2002,To: 29 May 2002,Catholic,FY 2002,45,Dem. Rep. Congo,6,175
+From: 29 May 2002,To: 29 May 2002,Catholic,FY 2002,45,Rwanda,4,175
+From: 29 May 2002,To: 29 May 2002,Catholic,FY 2002,45,Sudan,22,175
+From: 29 May 2002,To: 29 May 2002,Christian,FY 2002,3,Cuba,1,175
+From: 29 May 2002,To: 29 May 2002,Christian,FY 2002,3,Lebanon,2,175
+From: 29 May 2002,To: 29 May 2002,Jehovah Witness,FY 2002,11,Cuba,11,175
+From: 29 May 2002,To: 29 May 2002,Jewish,FY 2002,22,Azerbaijan,8,175
+From: 29 May 2002,To: 29 May 2002,Jewish,FY 2002,22,Iran,3,175
+From: 29 May 2002,To: 29 May 2002,Jewish,FY 2002,22,Russia,10,175
+From: 29 May 2002,To: 29 May 2002,Jewish,FY 2002,22,Uzbekistan,1,175
+From: 29 May 2002,To: 29 May 2002,Moslem,FY 2002,40,Bosnia and Herzegovina,33,175
+From: 29 May 2002,To: 29 May 2002,Moslem,FY 2002,40,Ethiopia,5,175
+From: 29 May 2002,To: 29 May 2002,Moslem,FY 2002,40,Somalia,2,175
+From: 29 May 2002,To: 29 May 2002,Moslem Shiite,FY 2002,21,Afghanistan,21,175
+From: 29 May 2002,To: 29 May 2002,Moslem Suni,FY 2002,6,Afghanistan,6,175
+From: 29 May 2002,To: 29 May 2002,No Religion,FY 2002,5,Cuba,1,175
+From: 29 May 2002,To: 29 May 2002,No Religion,FY 2002,5,Russia,4,175
+From: 29 May 2002,To: 29 May 2002,Orthodox,FY 2002,1,Bosnia and Herzegovina,1,175
+From: 29 May 2002,To: 29 May 2002,Protestant,FY 2002,8,Sudan,8,175
+From: 29 May 2002,To: 29 May 2002,Unknown,FY 2002,7,Ethiopia,1,175
+From: 29 May 2002,To: 29 May 2002,Unknown,FY 2002,7,Vietnam,6,175
+

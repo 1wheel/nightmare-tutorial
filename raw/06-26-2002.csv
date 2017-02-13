@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jun 2002,To: 26 Jun 2002,Afghanistan,FY 2002,29,Moslem Shiite,14,200
+From: 26 Jun 2002,To: 26 Jun 2002,Afghanistan,FY 2002,29,Moslem Suni,15,200
+From: 26 Jun 2002,To: 26 Jun 2002,Belarus,FY 2002,4,Pentecostalist,4,200
+From: 26 Jun 2002,To: 26 Jun 2002,Cuba,FY 2002,27,Catholic,15,200
+From: 26 Jun 2002,To: 26 Jun 2002,Cuba,FY 2002,27,Jehovah Witness,6,200
+From: 26 Jun 2002,To: 26 Jun 2002,Cuba,FY 2002,27,No Religion,6,200
+From: 26 Jun 2002,To: 26 Jun 2002,Iran,FY 2002,9,Christian,9,200
+From: 26 Jun 2002,To: 26 Jun 2002,Iraq,FY 2002,9,Christian,3,200
+From: 26 Jun 2002,To: 26 Jun 2002,Iraq,FY 2002,9,Orthodox,6,200
+From: 26 Jun 2002,To: 26 Jun 2002,Latvia,FY 2002,2,Jewish,2,200
+From: 26 Jun 2002,To: 26 Jun 2002,Russia,FY 2002,21,Baptist,9,200
+From: 26 Jun 2002,To: 26 Jun 2002,Russia,FY 2002,21,Jewish,12,200
+From: 26 Jun 2002,To: 26 Jun 2002,Somalia,FY 2002,8,Moslem,8,200
+From: 26 Jun 2002,To: 26 Jun 2002,Sudan,FY 2002,15,Catholic,7,200
+From: 26 Jun 2002,To: 26 Jun 2002,Sudan,FY 2002,15,Protestant,8,200
+From: 26 Jun 2002,To: 26 Jun 2002,Ukraine,FY 2002,1,Unknown,1,200
+From: 26 Jun 2002,To: 26 Jun 2002,Uzbekistan,FY 2002,3,Jewish,3,200
+From: 26 Jun 2002,To: 26 Jun 2002,Vietnam,FY 2002,72,Protestant,50,200
+From: 26 Jun 2002,To: 26 Jun 2002,Vietnam,FY 2002,72,Unknown,22,200
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jun 2002,To: 26 Jun 2002,Baptist,FY 2002,9,Russia,9,200
+From: 26 Jun 2002,To: 26 Jun 2002,Catholic,FY 2002,22,Cuba,15,200
+From: 26 Jun 2002,To: 26 Jun 2002,Catholic,FY 2002,22,Sudan,7,200
+From: 26 Jun 2002,To: 26 Jun 2002,Christian,FY 2002,12,Iran,9,200
+From: 26 Jun 2002,To: 26 Jun 2002,Christian,FY 2002,12,Iraq,3,200
+From: 26 Jun 2002,To: 26 Jun 2002,Jehovah Witness,FY 2002,6,Cuba,6,200
+From: 26 Jun 2002,To: 26 Jun 2002,Jewish,FY 2002,17,Latvia,2,200
+From: 26 Jun 2002,To: 26 Jun 2002,Jewish,FY 2002,17,Russia,12,200
+From: 26 Jun 2002,To: 26 Jun 2002,Jewish,FY 2002,17,Uzbekistan,3,200
+From: 26 Jun 2002,To: 26 Jun 2002,Moslem,FY 2002,8,Somalia,8,200
+From: 26 Jun 2002,To: 26 Jun 2002,Moslem Shiite,FY 2002,14,Afghanistan,14,200
+From: 26 Jun 2002,To: 26 Jun 2002,Moslem Suni,FY 2002,15,Afghanistan,15,200
+From: 26 Jun 2002,To: 26 Jun 2002,No Religion,FY 2002,6,Cuba,6,200
+From: 26 Jun 2002,To: 26 Jun 2002,Orthodox,FY 2002,6,Iraq,6,200
+From: 26 Jun 2002,To: 26 Jun 2002,Pentecostalist,FY 2002,4,Belarus,4,200
+From: 26 Jun 2002,To: 26 Jun 2002,Protestant,FY 2002,58,Sudan,8,200
+From: 26 Jun 2002,To: 26 Jun 2002,Protestant,FY 2002,58,Vietnam,50,200
+From: 26 Jun 2002,To: 26 Jun 2002,Unknown,FY 2002,23,Ukraine,1,200
+From: 26 Jun 2002,To: 26 Jun 2002,Unknown,FY 2002,23,Vietnam,22,200
+

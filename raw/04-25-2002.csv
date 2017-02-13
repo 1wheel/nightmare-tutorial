@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Apr 2002,To: 25 Apr 2002,Afghanistan,FY 2002,51,Moslem Shiite,12,174
+From: 25 Apr 2002,To: 25 Apr 2002,Afghanistan,FY 2002,51,Moslem Suni,39,174
+From: 25 Apr 2002,To: 25 Apr 2002,Bosnia and Herzegovina,FY 2002,40,Moslem,40,174
+From: 25 Apr 2002,To: 25 Apr 2002,Burma,FY 2002,3,Buddhist,2,174
+From: 25 Apr 2002,To: 25 Apr 2002,Burma,FY 2002,3,Christian,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Cuba,FY 2002,25,Catholic,15,174
+From: 25 Apr 2002,To: 25 Apr 2002,Cuba,FY 2002,25,No Religion,10,174
+From: 25 Apr 2002,To: 25 Apr 2002,Iran,FY 2002,14,Christian,5,174
+From: 25 Apr 2002,To: 25 Apr 2002,Iran,FY 2002,14,Jewish,8,174
+From: 25 Apr 2002,To: 25 Apr 2002,Iran,FY 2002,14,Orthodox,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Moldova,FY 2002,8,Baptist,8,174
+From: 25 Apr 2002,To: 25 Apr 2002,Serbia,FY 2002,1,Christian,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Somalia,FY 2002,1,Moslem,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Sri Lanka (Ceylon),FY 2002,4,Other Religion,4,174
+From: 25 Apr 2002,To: 25 Apr 2002,Ukraine,FY 2002,27,Baptist,5,174
+From: 25 Apr 2002,To: 25 Apr 2002,Ukraine,FY 2002,27,Jewish,7,174
+From: 25 Apr 2002,To: 25 Apr 2002,Ukraine,FY 2002,27,No Religion,4,174
+From: 25 Apr 2002,To: 25 Apr 2002,Ukraine,FY 2002,27,Pentecostalist,10,174
+From: 25 Apr 2002,To: 25 Apr 2002,Ukraine,FY 2002,27,Unknown,1,174
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Apr 2002,To: 25 Apr 2002,Baptist,FY 2002,13,Moldova,8,174
+From: 25 Apr 2002,To: 25 Apr 2002,Baptist,FY 2002,13,Ukraine,5,174
+From: 25 Apr 2002,To: 25 Apr 2002,Buddhist,FY 2002,2,Burma,2,174
+From: 25 Apr 2002,To: 25 Apr 2002,Catholic,FY 2002,15,Cuba,15,174
+From: 25 Apr 2002,To: 25 Apr 2002,Christian,FY 2002,7,Burma,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Christian,FY 2002,7,Iran,5,174
+From: 25 Apr 2002,To: 25 Apr 2002,Christian,FY 2002,7,Serbia,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Jewish,FY 2002,15,Iran,8,174
+From: 25 Apr 2002,To: 25 Apr 2002,Jewish,FY 2002,15,Ukraine,7,174
+From: 25 Apr 2002,To: 25 Apr 2002,Moslem,FY 2002,41,Bosnia and Herzegovina,40,174
+From: 25 Apr 2002,To: 25 Apr 2002,Moslem,FY 2002,41,Somalia,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Moslem Shiite,FY 2002,12,Afghanistan,12,174
+From: 25 Apr 2002,To: 25 Apr 2002,Moslem Suni,FY 2002,39,Afghanistan,39,174
+From: 25 Apr 2002,To: 25 Apr 2002,No Religion,FY 2002,14,Cuba,10,174
+From: 25 Apr 2002,To: 25 Apr 2002,No Religion,FY 2002,14,Ukraine,4,174
+From: 25 Apr 2002,To: 25 Apr 2002,Orthodox,FY 2002,1,Iran,1,174
+From: 25 Apr 2002,To: 25 Apr 2002,Other Religion,FY 2002,4,Sri Lanka (Ceylon),4,174
+From: 25 Apr 2002,To: 25 Apr 2002,Pentecostalist,FY 2002,10,Ukraine,10,174
+From: 25 Apr 2002,To: 25 Apr 2002,Unknown,FY 2002,1,Ukraine,1,174
+

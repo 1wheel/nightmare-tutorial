@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Aug 2002,To: 26 Aug 2002,Afghanistan,FY 2002,5,Moslem,5,133
+From: 26 Aug 2002,To: 26 Aug 2002,Bosnia and Herzegovina,FY 2002,7,No Religion,7,133
+From: 26 Aug 2002,To: 26 Aug 2002,Croatia,FY 2002,4,No Religion,4,133
+From: 26 Aug 2002,To: 26 Aug 2002,Iran,FY 2002,3,Moslem,2,133
+From: 26 Aug 2002,To: 26 Aug 2002,Iran,FY 2002,3,No Religion,1,133
+From: 26 Aug 2002,To: 26 Aug 2002,Serbia,FY 2002,93,No Religion,7,133
+From: 26 Aug 2002,To: 26 Aug 2002,Serbia,FY 2002,93,Orthodox,86,133
+From: 26 Aug 2002,To: 26 Aug 2002,Somalia,FY 2002,1,Moslem,1,133
+From: 26 Aug 2002,To: 26 Aug 2002,Vietnam,FY 2002,20,Unknown,20,133
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Aug 2002,To: 26 Aug 2002,Moslem,FY 2002,8,Afghanistan,5,133
+From: 26 Aug 2002,To: 26 Aug 2002,Moslem,FY 2002,8,Iran,2,133
+From: 26 Aug 2002,To: 26 Aug 2002,Moslem,FY 2002,8,Somalia,1,133
+From: 26 Aug 2002,To: 26 Aug 2002,No Religion,FY 2002,19,Bosnia and Herzegovina,7,133
+From: 26 Aug 2002,To: 26 Aug 2002,No Religion,FY 2002,19,Croatia,4,133
+From: 26 Aug 2002,To: 26 Aug 2002,No Religion,FY 2002,19,Iran,1,133
+From: 26 Aug 2002,To: 26 Aug 2002,No Religion,FY 2002,19,Serbia,7,133
+From: 26 Aug 2002,To: 26 Aug 2002,Orthodox,FY 2002,86,Serbia,86,133
+From: 26 Aug 2002,To: 26 Aug 2002,Unknown,FY 2002,20,Vietnam,20,133
+

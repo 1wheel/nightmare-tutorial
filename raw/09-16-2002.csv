@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Sep 2002,To: 16 Sep 2002,Bosnia and Herzegovina,FY 2002,18,Moslem,18,91
+From: 16 Sep 2002,To: 16 Sep 2002,Colombia,FY 2002,5,Catholic,5,91
+From: 16 Sep 2002,To: 16 Sep 2002,Iran,FY 2002,18,Bahai,1,91
+From: 16 Sep 2002,To: 16 Sep 2002,Iran,FY 2002,18,Christian,16,91
+From: 16 Sep 2002,To: 16 Sep 2002,Iran,FY 2002,18,Zoroastrian,1,91
+From: 16 Sep 2002,To: 16 Sep 2002,Kazakhstan,FY 2002,11,Pentecostalist,11,91
+From: 16 Sep 2002,To: 16 Sep 2002,Moldova,FY 2002,19,Baptist,11,91
+From: 16 Sep 2002,To: 16 Sep 2002,Moldova,FY 2002,19,Pentecostalist,8,91
+From: 16 Sep 2002,To: 16 Sep 2002,Vietnam,FY 2002,20,Unknown,20,91
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Sep 2002,To: 16 Sep 2002,Bahai,FY 2002,1,Iran,1,91
+From: 16 Sep 2002,To: 16 Sep 2002,Baptist,FY 2002,11,Moldova,11,91
+From: 16 Sep 2002,To: 16 Sep 2002,Catholic,FY 2002,5,Colombia,5,91
+From: 16 Sep 2002,To: 16 Sep 2002,Christian,FY 2002,16,Iran,16,91
+From: 16 Sep 2002,To: 16 Sep 2002,Moslem,FY 2002,18,Bosnia and Herzegovina,18,91
+From: 16 Sep 2002,To: 16 Sep 2002,Pentecostalist,FY 2002,19,Kazakhstan,11,91
+From: 16 Sep 2002,To: 16 Sep 2002,Pentecostalist,FY 2002,19,Moldova,8,91
+From: 16 Sep 2002,To: 16 Sep 2002,Unknown,FY 2002,20,Vietnam,20,91
+From: 16 Sep 2002,To: 16 Sep 2002,Zoroastrian,FY 2002,1,Iran,1,91
+

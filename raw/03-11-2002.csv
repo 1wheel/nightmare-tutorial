@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Mar 2002,To: 11 Mar 2002,Azerbaijan,FY 2002,3,Jewish,3,64
+From: 11 Mar 2002,To: 11 Mar 2002,Belarus,FY 2002,3,Jewish,3,64
+From: 11 Mar 2002,To: 11 Mar 2002,Bosnia and Herzegovina,FY 2002,4,Moslem,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Dem. Rep. Congo,FY 2002,1,Unknown,1,64
+From: 11 Mar 2002,To: 11 Mar 2002,Iran,FY 2002,2,Christian,2,64
+From: 11 Mar 2002,To: 11 Mar 2002,Moldova,FY 2002,4,Baptist,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Russia,FY 2002,13,Baptist,7,64
+From: 11 Mar 2002,To: 11 Mar 2002,Russia,FY 2002,13,Jewish,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Russia,FY 2002,13,Unknown,2,64
+From: 11 Mar 2002,To: 11 Mar 2002,Ukraine,FY 2002,30,Baptist,14,64
+From: 11 Mar 2002,To: 11 Mar 2002,Ukraine,FY 2002,30,Orthodox,1,64
+From: 11 Mar 2002,To: 11 Mar 2002,Ukraine,FY 2002,30,Pentecostalist,14,64
+From: 11 Mar 2002,To: 11 Mar 2002,Ukraine,FY 2002,30,Seventh Day Adventist,1,64
+From: 11 Mar 2002,To: 11 Mar 2002,Uzbekistan,FY 2002,4,Jewish,4,64
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Mar 2002,To: 11 Mar 2002,Baptist,FY 2002,25,Moldova,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Baptist,FY 2002,25,Russia,7,64
+From: 11 Mar 2002,To: 11 Mar 2002,Baptist,FY 2002,25,Ukraine,14,64
+From: 11 Mar 2002,To: 11 Mar 2002,Christian,FY 2002,2,Iran,2,64
+From: 11 Mar 2002,To: 11 Mar 2002,Jewish,FY 2002,14,Azerbaijan,3,64
+From: 11 Mar 2002,To: 11 Mar 2002,Jewish,FY 2002,14,Belarus,3,64
+From: 11 Mar 2002,To: 11 Mar 2002,Jewish,FY 2002,14,Russia,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Jewish,FY 2002,14,Uzbekistan,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Moslem,FY 2002,4,Bosnia and Herzegovina,4,64
+From: 11 Mar 2002,To: 11 Mar 2002,Orthodox,FY 2002,1,Ukraine,1,64
+From: 11 Mar 2002,To: 11 Mar 2002,Pentecostalist,FY 2002,14,Ukraine,14,64
+From: 11 Mar 2002,To: 11 Mar 2002,Seventh Day Adventist,FY 2002,1,Ukraine,1,64
+From: 11 Mar 2002,To: 11 Mar 2002,Unknown,FY 2002,3,Dem. Rep. Congo,1,64
+From: 11 Mar 2002,To: 11 Mar 2002,Unknown,FY 2002,3,Russia,2,64
+

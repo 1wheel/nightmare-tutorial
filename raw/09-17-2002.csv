@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Sep 2002,To: 17 Sep 2002,Afghanistan,FY 2002,6,Moslem,6,136
+From: 17 Sep 2002,To: 17 Sep 2002,Bosnia and Herzegovina,FY 2002,8,Moslem,8,136
+From: 17 Sep 2002,To: 17 Sep 2002,Cuba,FY 2002,25,Catholic,9,136
+From: 17 Sep 2002,To: 17 Sep 2002,Cuba,FY 2002,25,No Religion,13,136
+From: 17 Sep 2002,To: 17 Sep 2002,Cuba,FY 2002,25,Orthodox,3,136
+From: 17 Sep 2002,To: 17 Sep 2002,Dem. Rep. Congo,FY 2002,1,Unknown,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Eritrea,FY 2002,1,Christian,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Ethiopia,FY 2002,6,Christian,4,136
+From: 17 Sep 2002,To: 17 Sep 2002,Ethiopia,FY 2002,6,Moslem,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,Iran,FY 2002,28,Bahai,5,136
+From: 17 Sep 2002,To: 17 Sep 2002,Iran,FY 2002,28,Christian,13,136
+From: 17 Sep 2002,To: 17 Sep 2002,Iran,FY 2002,28,Jewish,5,136
+From: 17 Sep 2002,To: 17 Sep 2002,Iran,FY 2002,28,Moslem,3,136
+From: 17 Sep 2002,To: 17 Sep 2002,Iran,FY 2002,28,Zoroastrian,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,Nigeria,FY 2002,7,Unknown,7,136
+From: 17 Sep 2002,To: 17 Sep 2002,Somalia,FY 2002,2,Moslem,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,Sudan,FY 2002,2,Christian,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Sudan,FY 2002,2,Protestant,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Togo,FY 2002,2,Unknown,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,Ukraine,FY 2002,22,Baptist,7,136
+From: 17 Sep 2002,To: 17 Sep 2002,Ukraine,FY 2002,22,Pentecostalist,15,136
+From: 17 Sep 2002,To: 17 Sep 2002,Vietnam,FY 2002,26,Unknown,26,136
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Sep 2002,To: 17 Sep 2002,Bahai,FY 2002,5,Iran,5,136
+From: 17 Sep 2002,To: 17 Sep 2002,Baptist,FY 2002,7,Ukraine,7,136
+From: 17 Sep 2002,To: 17 Sep 2002,Catholic,FY 2002,9,Cuba,9,136
+From: 17 Sep 2002,To: 17 Sep 2002,Christian,FY 2002,19,Eritrea,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Christian,FY 2002,19,Ethiopia,4,136
+From: 17 Sep 2002,To: 17 Sep 2002,Christian,FY 2002,19,Iran,13,136
+From: 17 Sep 2002,To: 17 Sep 2002,Christian,FY 2002,19,Sudan,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Jewish,FY 2002,5,Iran,5,136
+From: 17 Sep 2002,To: 17 Sep 2002,Moslem,FY 2002,21,Afghanistan,6,136
+From: 17 Sep 2002,To: 17 Sep 2002,Moslem,FY 2002,21,Bosnia and Herzegovina,8,136
+From: 17 Sep 2002,To: 17 Sep 2002,Moslem,FY 2002,21,Ethiopia,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,Moslem,FY 2002,21,Iran,3,136
+From: 17 Sep 2002,To: 17 Sep 2002,Moslem,FY 2002,21,Somalia,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,No Religion,FY 2002,13,Cuba,13,136
+From: 17 Sep 2002,To: 17 Sep 2002,Orthodox,FY 2002,3,Cuba,3,136
+From: 17 Sep 2002,To: 17 Sep 2002,Pentecostalist,FY 2002,15,Ukraine,15,136
+From: 17 Sep 2002,To: 17 Sep 2002,Protestant,FY 2002,1,Sudan,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Unknown,FY 2002,36,Dem. Rep. Congo,1,136
+From: 17 Sep 2002,To: 17 Sep 2002,Unknown,FY 2002,36,Nigeria,7,136
+From: 17 Sep 2002,To: 17 Sep 2002,Unknown,FY 2002,36,Togo,2,136
+From: 17 Sep 2002,To: 17 Sep 2002,Unknown,FY 2002,36,Vietnam,26,136
+From: 17 Sep 2002,To: 17 Sep 2002,Zoroastrian,FY 2002,2,Iran,2,136
+

@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Nov 2002,To: 05 Nov 2002,Bosnia and Herzegovina,FY 2003,10,Moslem,10,101
+From: 05 Nov 2002,To: 05 Nov 2002,Iran,FY 2003,38,Bahai,6,101
+From: 05 Nov 2002,To: 05 Nov 2002,Iran,FY 2003,38,Baptist,3,101
+From: 05 Nov 2002,To: 05 Nov 2002,Iran,FY 2003,38,Christian,21,101
+From: 05 Nov 2002,To: 05 Nov 2002,Iran,FY 2003,38,Jewish,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Iran,FY 2003,38,Moslem,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Iran,FY 2003,38,Zoroastrian,6,101
+From: 05 Nov 2002,To: 05 Nov 2002,Russia,FY 2003,11,Baptist,7,101
+From: 05 Nov 2002,To: 05 Nov 2002,Russia,FY 2003,11,Evangelical Christian,3,101
+From: 05 Nov 2002,To: 05 Nov 2002,Russia,FY 2003,11,Jewish,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Rwanda,FY 2003,2,Catholic,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Rwanda,FY 2003,2,Christian,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Ukraine,FY 2003,38,Baptist,18,101
+From: 05 Nov 2002,To: 05 Nov 2002,Ukraine,FY 2003,38,Jewish,3,101
+From: 05 Nov 2002,To: 05 Nov 2002,Ukraine,FY 2003,38,No Religion,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Ukraine,FY 2003,38,Pentecostalist,15,101
+From: 05 Nov 2002,To: 05 Nov 2002,Ukraine,FY 2003,38,Unknown,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Uzbekistan,FY 2003,2,Unknown,2,101
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Nov 2002,To: 05 Nov 2002,Bahai,FY 2003,6,Iran,6,101
+From: 05 Nov 2002,To: 05 Nov 2002,Baptist,FY 2003,28,Iran,3,101
+From: 05 Nov 2002,To: 05 Nov 2002,Baptist,FY 2003,28,Russia,7,101
+From: 05 Nov 2002,To: 05 Nov 2002,Baptist,FY 2003,28,Ukraine,18,101
+From: 05 Nov 2002,To: 05 Nov 2002,Catholic,FY 2003,1,Rwanda,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Christian,FY 2003,22,Iran,21,101
+From: 05 Nov 2002,To: 05 Nov 2002,Christian,FY 2003,22,Rwanda,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Evangelical Christian,FY 2003,3,Russia,3,101
+From: 05 Nov 2002,To: 05 Nov 2002,Jewish,FY 2003,5,Iran,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Jewish,FY 2003,5,Russia,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Jewish,FY 2003,5,Ukraine,3,101
+From: 05 Nov 2002,To: 05 Nov 2002,Moslem,FY 2003,11,Bosnia and Herzegovina,10,101
+From: 05 Nov 2002,To: 05 Nov 2002,Moslem,FY 2003,11,Iran,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,No Religion,FY 2003,1,Ukraine,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Pentecostalist,FY 2003,15,Ukraine,15,101
+From: 05 Nov 2002,To: 05 Nov 2002,Unknown,FY 2003,3,Ukraine,1,101
+From: 05 Nov 2002,To: 05 Nov 2002,Unknown,FY 2003,3,Uzbekistan,2,101
+From: 05 Nov 2002,To: 05 Nov 2002,Zoroastrian,FY 2003,6,Iran,6,101
+

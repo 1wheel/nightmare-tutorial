@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Sep 2002,To: 23 Sep 2002,Afghanistan,FY 2002,2,Moslem,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Bosnia and Herzegovina,FY 2002,41,Catholic,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Bosnia and Herzegovina,FY 2002,41,Moslem,40,251
+From: 23 Sep 2002,To: 23 Sep 2002,Congo,FY 2002,1,Catholic,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Cuba,FY 2002,29,Catholic,6,251
+From: 23 Sep 2002,To: 23 Sep 2002,Cuba,FY 2002,29,Jehovah Witness,13,251
+From: 23 Sep 2002,To: 23 Sep 2002,Cuba,FY 2002,29,No Religion,8,251
+From: 23 Sep 2002,To: 23 Sep 2002,Cuba,FY 2002,29,Protestant,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Ethiopia,FY 2002,5,Christian,5,251
+From: 23 Sep 2002,To: 23 Sep 2002,Iran,FY 2002,10,Bahai,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Iran,FY 2002,10,Jewish,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Iran,FY 2002,10,Sabeans-Mandean,3,251
+From: 23 Sep 2002,To: 23 Sep 2002,Iran,FY 2002,10,Zoroastrian,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Liberia,FY 2002,16,Baptist,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Liberia,FY 2002,16,Christian,12,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moldova,FY 2002,10,Baptist,6,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moldova,FY 2002,10,Jewish,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Russia,FY 2002,3,Jewish,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Russia,FY 2002,3,Unknown,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sierra Leone,FY 2002,34,Christian,6,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sierra Leone,FY 2002,34,Jehovah Witness,7,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sierra Leone,FY 2002,34,Moslem,21,251
+From: 23 Sep 2002,To: 23 Sep 2002,Somalia,FY 2002,3,Moslem,3,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sudan,FY 2002,67,Catholic,37,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sudan,FY 2002,67,Christian,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sudan,FY 2002,67,Evangelical Christian,3,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sudan,FY 2002,67,Moslem,21,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sudan,FY 2002,67,Protestant,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Vietnam,FY 2002,30,Unknown,30,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Sep 2002,To: 23 Sep 2002,Bahai,FY 2002,2,Iran,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Baptist,FY 2002,10,Liberia,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Baptist,FY 2002,10,Moldova,6,251
+From: 23 Sep 2002,To: 23 Sep 2002,Catholic,FY 2002,45,Bosnia and Herzegovina,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Catholic,FY 2002,45,Congo,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Catholic,FY 2002,45,Cuba,6,251
+From: 23 Sep 2002,To: 23 Sep 2002,Catholic,FY 2002,45,Sudan,37,251
+From: 23 Sep 2002,To: 23 Sep 2002,Christian,FY 2002,27,Ethiopia,5,251
+From: 23 Sep 2002,To: 23 Sep 2002,Christian,FY 2002,27,Liberia,12,251
+From: 23 Sep 2002,To: 23 Sep 2002,Christian,FY 2002,27,Sierra Leone,6,251
+From: 23 Sep 2002,To: 23 Sep 2002,Christian,FY 2002,27,Sudan,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Evangelical Christian,FY 2002,3,Sudan,3,251
+From: 23 Sep 2002,To: 23 Sep 2002,Jehovah Witness,FY 2002,20,Cuba,13,251
+From: 23 Sep 2002,To: 23 Sep 2002,Jehovah Witness,FY 2002,20,Sierra Leone,7,251
+From: 23 Sep 2002,To: 23 Sep 2002,Jewish,FY 2002,10,Iran,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Jewish,FY 2002,10,Moldova,4,251
+From: 23 Sep 2002,To: 23 Sep 2002,Jewish,FY 2002,10,Russia,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moslem,FY 2002,87,Afghanistan,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moslem,FY 2002,87,Bosnia and Herzegovina,40,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moslem,FY 2002,87,Sierra Leone,21,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moslem,FY 2002,87,Somalia,3,251
+From: 23 Sep 2002,To: 23 Sep 2002,Moslem,FY 2002,87,Sudan,21,251
+From: 23 Sep 2002,To: 23 Sep 2002,No Religion,FY 2002,8,Cuba,8,251
+From: 23 Sep 2002,To: 23 Sep 2002,Protestant,FY 2002,4,Cuba,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Protestant,FY 2002,4,Sudan,2,251
+From: 23 Sep 2002,To: 23 Sep 2002,Sabeans-Mandean,FY 2002,3,Iran,3,251
+From: 23 Sep 2002,To: 23 Sep 2002,Unknown,FY 2002,31,Russia,1,251
+From: 23 Sep 2002,To: 23 Sep 2002,Unknown,FY 2002,31,Vietnam,30,251
+From: 23 Sep 2002,To: 23 Sep 2002,Zoroastrian,FY 2002,1,Iran,1,251
+

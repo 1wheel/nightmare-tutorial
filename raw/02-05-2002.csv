@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Feb 2002,To: 05 Feb 2002,Belarus,FY 2002,6,Baptist,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Belarus,FY 2002,6,Pentecostalist,5,143
+From: 05 Feb 2002,To: 05 Feb 2002,Bosnia and Herzegovina,FY 2002,30,Moslem,27,143
+From: 05 Feb 2002,To: 05 Feb 2002,Bosnia and Herzegovina,FY 2002,30,Orthodox,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Cuba,FY 2002,28,Catholic,11,143
+From: 05 Feb 2002,To: 05 Feb 2002,Cuba,FY 2002,28,Christian,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Cuba,FY 2002,28,Jehovah Witness,7,143
+From: 05 Feb 2002,To: 05 Feb 2002,Cuba,FY 2002,28,No Religion,5,143
+From: 05 Feb 2002,To: 05 Feb 2002,Cuba,FY 2002,28,Seventh Day Adventist,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Ethiopia,FY 2002,1,Orthodox,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Russia,FY 2002,15,Atheist,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Russia,FY 2002,15,Baptist,8,143
+From: 05 Feb 2002,To: 05 Feb 2002,Russia,FY 2002,15,Jewish,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Russia,FY 2002,15,Pentecostalist,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Rwanda,FY 2002,7,Catholic,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Rwanda,FY 2002,7,Christian,4,143
+From: 05 Feb 2002,To: 05 Feb 2002,Rwanda,FY 2002,7,Moslem,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Somalia,FY 2002,5,Moslem,5,143
+From: 05 Feb 2002,To: 05 Feb 2002,Sudan,FY 2002,4,Christian,4,143
+From: 05 Feb 2002,To: 05 Feb 2002,Ukraine,FY 2002,30,Baptist,9,143
+From: 05 Feb 2002,To: 05 Feb 2002,Ukraine,FY 2002,30,Evangelical Christian,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Ukraine,FY 2002,30,Jewish,9,143
+From: 05 Feb 2002,To: 05 Feb 2002,Ukraine,FY 2002,30,Pentecostalist,8,143
+From: 05 Feb 2002,To: 05 Feb 2002,Ukraine,FY 2002,30,Unknown,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Uzbekistan,FY 2002,8,Baptist,8,143
+From: 05 Feb 2002,To: 05 Feb 2002,Vietnam,FY 2002,9,Unknown,9,143
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Feb 2002,To: 05 Feb 2002,Atheist,FY 2002,1,Russia,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Baptist,FY 2002,26,Belarus,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Baptist,FY 2002,26,Russia,8,143
+From: 05 Feb 2002,To: 05 Feb 2002,Baptist,FY 2002,26,Ukraine,9,143
+From: 05 Feb 2002,To: 05 Feb 2002,Baptist,FY 2002,26,Uzbekistan,8,143
+From: 05 Feb 2002,To: 05 Feb 2002,Catholic,FY 2002,13,Cuba,11,143
+From: 05 Feb 2002,To: 05 Feb 2002,Catholic,FY 2002,13,Rwanda,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Christian,FY 2002,11,Cuba,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Christian,FY 2002,11,Rwanda,4,143
+From: 05 Feb 2002,To: 05 Feb 2002,Christian,FY 2002,11,Sudan,4,143
+From: 05 Feb 2002,To: 05 Feb 2002,Evangelical Christian,FY 2002,2,Ukraine,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Jehovah Witness,FY 2002,7,Cuba,7,143
+From: 05 Feb 2002,To: 05 Feb 2002,Jewish,FY 2002,12,Russia,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Jewish,FY 2002,12,Ukraine,9,143
+From: 05 Feb 2002,To: 05 Feb 2002,Moslem,FY 2002,33,Bosnia and Herzegovina,27,143
+From: 05 Feb 2002,To: 05 Feb 2002,Moslem,FY 2002,33,Rwanda,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Moslem,FY 2002,33,Somalia,5,143
+From: 05 Feb 2002,To: 05 Feb 2002,No Religion,FY 2002,5,Cuba,5,143
+From: 05 Feb 2002,To: 05 Feb 2002,Orthodox,FY 2002,4,Bosnia and Herzegovina,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Orthodox,FY 2002,4,Ethiopia,1,143
+From: 05 Feb 2002,To: 05 Feb 2002,Pentecostalist,FY 2002,16,Belarus,5,143
+From: 05 Feb 2002,To: 05 Feb 2002,Pentecostalist,FY 2002,16,Russia,3,143
+From: 05 Feb 2002,To: 05 Feb 2002,Pentecostalist,FY 2002,16,Ukraine,8,143
+From: 05 Feb 2002,To: 05 Feb 2002,Seventh Day Adventist,FY 2002,2,Cuba,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Unknown,FY 2002,11,Ukraine,2,143
+From: 05 Feb 2002,To: 05 Feb 2002,Unknown,FY 2002,11,Vietnam,9,143
+

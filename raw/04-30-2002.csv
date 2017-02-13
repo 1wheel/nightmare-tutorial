@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Apr 2002,To: 30 Apr 2002,Iran,FY 2002,9,Christian,6,95
+From: 30 Apr 2002,To: 30 Apr 2002,Iran,FY 2002,9,Jewish,3,95
+From: 30 Apr 2002,To: 30 Apr 2002,Kazakhstan,FY 2002,23,Pentecostalist,23,95
+From: 30 Apr 2002,To: 30 Apr 2002,Liberia,FY 2002,11,Christian,11,95
+From: 30 Apr 2002,To: 30 Apr 2002,Moldova,FY 2002,2,Baptist,2,95
+From: 30 Apr 2002,To: 30 Apr 2002,Russia,FY 2002,7,Baptist,4,95
+From: 30 Apr 2002,To: 30 Apr 2002,Russia,FY 2002,7,Jewish,1,95
+From: 30 Apr 2002,To: 30 Apr 2002,Russia,FY 2002,7,No Religion,2,95
+From: 30 Apr 2002,To: 30 Apr 2002,Ukraine,FY 2002,43,Baptist,14,95
+From: 30 Apr 2002,To: 30 Apr 2002,Ukraine,FY 2002,43,Jewish,4,95
+From: 30 Apr 2002,To: 30 Apr 2002,Ukraine,FY 2002,43,Pentecostalist,23,95
+From: 30 Apr 2002,To: 30 Apr 2002,Ukraine,FY 2002,43,Unknown,2,95
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Apr 2002,To: 30 Apr 2002,Baptist,FY 2002,20,Moldova,2,95
+From: 30 Apr 2002,To: 30 Apr 2002,Baptist,FY 2002,20,Russia,4,95
+From: 30 Apr 2002,To: 30 Apr 2002,Baptist,FY 2002,20,Ukraine,14,95
+From: 30 Apr 2002,To: 30 Apr 2002,Christian,FY 2002,17,Iran,6,95
+From: 30 Apr 2002,To: 30 Apr 2002,Christian,FY 2002,17,Liberia,11,95
+From: 30 Apr 2002,To: 30 Apr 2002,Jewish,FY 2002,8,Iran,3,95
+From: 30 Apr 2002,To: 30 Apr 2002,Jewish,FY 2002,8,Russia,1,95
+From: 30 Apr 2002,To: 30 Apr 2002,Jewish,FY 2002,8,Ukraine,4,95
+From: 30 Apr 2002,To: 30 Apr 2002,No Religion,FY 2002,2,Russia,2,95
+From: 30 Apr 2002,To: 30 Apr 2002,Pentecostalist,FY 2002,46,Kazakhstan,23,95
+From: 30 Apr 2002,To: 30 Apr 2002,Pentecostalist,FY 2002,46,Ukraine,23,95
+From: 30 Apr 2002,To: 30 Apr 2002,Unknown,FY 2002,2,Ukraine,2,95
+

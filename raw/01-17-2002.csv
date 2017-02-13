@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jan 2002,To: 17 Jan 2002,Azerbaijan,FY 2002,6,Jewish,6,169
+From: 17 Jan 2002,To: 17 Jan 2002,Bosnia and Herzegovina,FY 2002,27,Moslem,16,169
+From: 17 Jan 2002,To: 17 Jan 2002,Bosnia and Herzegovina,FY 2002,27,Orthodox,11,169
+From: 17 Jan 2002,To: 17 Jan 2002,Cuba,FY 2002,7,Catholic,1,169
+From: 17 Jan 2002,To: 17 Jan 2002,Cuba,FY 2002,7,Christian,2,169
+From: 17 Jan 2002,To: 17 Jan 2002,Cuba,FY 2002,7,No Religion,4,169
+From: 17 Jan 2002,To: 17 Jan 2002,Iran,FY 2002,20,Bahai,3,169
+From: 17 Jan 2002,To: 17 Jan 2002,Iran,FY 2002,20,Christian,12,169
+From: 17 Jan 2002,To: 17 Jan 2002,Iran,FY 2002,20,Jewish,5,169
+From: 17 Jan 2002,To: 17 Jan 2002,Kazakhstan,FY 2002,4,Jewish,4,169
+From: 17 Jan 2002,To: 17 Jan 2002,Moldova,FY 2002,23,Baptist,10,169
+From: 17 Jan 2002,To: 17 Jan 2002,Moldova,FY 2002,23,Pentecostalist,13,169
+From: 17 Jan 2002,To: 17 Jan 2002,Russia,FY 2002,12,Jewish,11,169
+From: 17 Jan 2002,To: 17 Jan 2002,Russia,FY 2002,12,Unknown,1,169
+From: 17 Jan 2002,To: 17 Jan 2002,Sierra Leone,FY 2002,2,Christian,2,169
+From: 17 Jan 2002,To: 17 Jan 2002,Ukraine,FY 2002,34,Baptist,8,169
+From: 17 Jan 2002,To: 17 Jan 2002,Ukraine,FY 2002,34,Evangelical Christian,3,169
+From: 17 Jan 2002,To: 17 Jan 2002,Ukraine,FY 2002,34,Jewish,14,169
+From: 17 Jan 2002,To: 17 Jan 2002,Ukraine,FY 2002,34,No Religion,5,169
+From: 17 Jan 2002,To: 17 Jan 2002,Ukraine,FY 2002,34,Pentecostalist,4,169
+From: 17 Jan 2002,To: 17 Jan 2002,Uzbekistan,FY 2002,7,Evangelical Christian,5,169
+From: 17 Jan 2002,To: 17 Jan 2002,Uzbekistan,FY 2002,7,Jewish,2,169
+From: 17 Jan 2002,To: 17 Jan 2002,Vietnam,FY 2002,27,Unknown,27,169
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jan 2002,To: 17 Jan 2002,Bahai,FY 2002,3,Iran,3,169
+From: 17 Jan 2002,To: 17 Jan 2002,Baptist,FY 2002,18,Moldova,10,169
+From: 17 Jan 2002,To: 17 Jan 2002,Baptist,FY 2002,18,Ukraine,8,169
+From: 17 Jan 2002,To: 17 Jan 2002,Catholic,FY 2002,1,Cuba,1,169
+From: 17 Jan 2002,To: 17 Jan 2002,Christian,FY 2002,16,Cuba,2,169
+From: 17 Jan 2002,To: 17 Jan 2002,Christian,FY 2002,16,Iran,12,169
+From: 17 Jan 2002,To: 17 Jan 2002,Christian,FY 2002,16,Sierra Leone,2,169
+From: 17 Jan 2002,To: 17 Jan 2002,Evangelical Christian,FY 2002,8,Ukraine,3,169
+From: 17 Jan 2002,To: 17 Jan 2002,Evangelical Christian,FY 2002,8,Uzbekistan,5,169
+From: 17 Jan 2002,To: 17 Jan 2002,Jewish,FY 2002,42,Azerbaijan,6,169
+From: 17 Jan 2002,To: 17 Jan 2002,Jewish,FY 2002,42,Iran,5,169
+From: 17 Jan 2002,To: 17 Jan 2002,Jewish,FY 2002,42,Kazakhstan,4,169
+From: 17 Jan 2002,To: 17 Jan 2002,Jewish,FY 2002,42,Russia,11,169
+From: 17 Jan 2002,To: 17 Jan 2002,Jewish,FY 2002,42,Ukraine,14,169
+From: 17 Jan 2002,To: 17 Jan 2002,Jewish,FY 2002,42,Uzbekistan,2,169
+From: 17 Jan 2002,To: 17 Jan 2002,Moslem,FY 2002,16,Bosnia and Herzegovina,16,169
+From: 17 Jan 2002,To: 17 Jan 2002,No Religion,FY 2002,9,Cuba,4,169
+From: 17 Jan 2002,To: 17 Jan 2002,No Religion,FY 2002,9,Ukraine,5,169
+From: 17 Jan 2002,To: 17 Jan 2002,Orthodox,FY 2002,11,Bosnia and Herzegovina,11,169
+From: 17 Jan 2002,To: 17 Jan 2002,Pentecostalist,FY 2002,17,Moldova,13,169
+From: 17 Jan 2002,To: 17 Jan 2002,Pentecostalist,FY 2002,17,Ukraine,4,169
+From: 17 Jan 2002,To: 17 Jan 2002,Unknown,FY 2002,28,Russia,1,169
+From: 17 Jan 2002,To: 17 Jan 2002,Unknown,FY 2002,28,Vietnam,27,169
+

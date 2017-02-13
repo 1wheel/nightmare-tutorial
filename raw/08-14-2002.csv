@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Aug 2002,To: 14 Aug 2002,Bosnia and Herzegovina,FY 2002,1,Moslem,1,104
+From: 14 Aug 2002,To: 14 Aug 2002,Ethiopia,FY 2002,4,Orthodox,4,104
+From: 14 Aug 2002,To: 14 Aug 2002,Iran,FY 2002,25,Christian,11,104
+From: 14 Aug 2002,To: 14 Aug 2002,Iran,FY 2002,25,Jewish,11,104
+From: 14 Aug 2002,To: 14 Aug 2002,Iran,FY 2002,25,Zoroastrian,3,104
+From: 14 Aug 2002,To: 14 Aug 2002,Serbia,FY 2002,20,Orthodox,20,104
+From: 14 Aug 2002,To: 14 Aug 2002,Sudan,FY 2002,23,Catholic,19,104
+From: 14 Aug 2002,To: 14 Aug 2002,Sudan,FY 2002,23,Protestant,4,104
+From: 14 Aug 2002,To: 14 Aug 2002,Vietnam,FY 2002,31,Unknown,31,104
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Aug 2002,To: 14 Aug 2002,Catholic,FY 2002,19,Sudan,19,104
+From: 14 Aug 2002,To: 14 Aug 2002,Christian,FY 2002,11,Iran,11,104
+From: 14 Aug 2002,To: 14 Aug 2002,Jewish,FY 2002,11,Iran,11,104
+From: 14 Aug 2002,To: 14 Aug 2002,Moslem,FY 2002,1,Bosnia and Herzegovina,1,104
+From: 14 Aug 2002,To: 14 Aug 2002,Orthodox,FY 2002,24,Ethiopia,4,104
+From: 14 Aug 2002,To: 14 Aug 2002,Orthodox,FY 2002,24,Serbia,20,104
+From: 14 Aug 2002,To: 14 Aug 2002,Protestant,FY 2002,4,Sudan,4,104
+From: 14 Aug 2002,To: 14 Aug 2002,Unknown,FY 2002,31,Vietnam,31,104
+From: 14 Aug 2002,To: 14 Aug 2002,Zoroastrian,FY 2002,3,Iran,3,104
+

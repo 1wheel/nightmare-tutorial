@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jul 2002,To: 16 Jul 2002,Iran,FY 2002,7,Bahai,6,122
+From: 16 Jul 2002,To: 16 Jul 2002,Iran,FY 2002,7,Christian,1,122
+From: 16 Jul 2002,To: 16 Jul 2002,Russia,FY 2002,26,Baptist,8,122
+From: 16 Jul 2002,To: 16 Jul 2002,Russia,FY 2002,26,Jewish,10,122
+From: 16 Jul 2002,To: 16 Jul 2002,Russia,FY 2002,26,Unknown,8,122
+From: 16 Jul 2002,To: 16 Jul 2002,Serbia,FY 2002,31,No Religion,21,122
+From: 16 Jul 2002,To: 16 Jul 2002,Serbia,FY 2002,31,Orthodox,10,122
+From: 16 Jul 2002,To: 16 Jul 2002,Ukraine,FY 2002,58,Baptist,6,122
+From: 16 Jul 2002,To: 16 Jul 2002,Ukraine,FY 2002,58,Evangelical Christian,2,122
+From: 16 Jul 2002,To: 16 Jul 2002,Ukraine,FY 2002,58,Jewish,2,122
+From: 16 Jul 2002,To: 16 Jul 2002,Ukraine,FY 2002,58,No Religion,5,122
+From: 16 Jul 2002,To: 16 Jul 2002,Ukraine,FY 2002,58,Pentecostalist,37,122
+From: 16 Jul 2002,To: 16 Jul 2002,Ukraine,FY 2002,58,Uniate,6,122
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jul 2002,To: 16 Jul 2002,Bahai,FY 2002,6,Iran,6,122
+From: 16 Jul 2002,To: 16 Jul 2002,Baptist,FY 2002,14,Russia,8,122
+From: 16 Jul 2002,To: 16 Jul 2002,Baptist,FY 2002,14,Ukraine,6,122
+From: 16 Jul 2002,To: 16 Jul 2002,Christian,FY 2002,1,Iran,1,122
+From: 16 Jul 2002,To: 16 Jul 2002,Evangelical Christian,FY 2002,2,Ukraine,2,122
+From: 16 Jul 2002,To: 16 Jul 2002,Jewish,FY 2002,12,Russia,10,122
+From: 16 Jul 2002,To: 16 Jul 2002,Jewish,FY 2002,12,Ukraine,2,122
+From: 16 Jul 2002,To: 16 Jul 2002,No Religion,FY 2002,26,Serbia,21,122
+From: 16 Jul 2002,To: 16 Jul 2002,No Religion,FY 2002,26,Ukraine,5,122
+From: 16 Jul 2002,To: 16 Jul 2002,Orthodox,FY 2002,10,Serbia,10,122
+From: 16 Jul 2002,To: 16 Jul 2002,Pentecostalist,FY 2002,37,Ukraine,37,122
+From: 16 Jul 2002,To: 16 Jul 2002,Uniate,FY 2002,6,Ukraine,6,122
+From: 16 Jul 2002,To: 16 Jul 2002,Unknown,FY 2002,8,Russia,8,122
+

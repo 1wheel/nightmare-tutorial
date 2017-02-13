@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jun 2002,To: 14 Jun 2002,Afghanistan,FY 2002,1,Moslem,1,200
+From: 14 Jun 2002,To: 14 Jun 2002,Bosnia and Herzegovina,FY 2002,24,Moslem,24,200
+From: 14 Jun 2002,To: 14 Jun 2002,Cuba,FY 2002,31,Catholic,15,200
+From: 14 Jun 2002,To: 14 Jun 2002,Cuba,FY 2002,31,Christian,2,200
+From: 14 Jun 2002,To: 14 Jun 2002,Cuba,FY 2002,31,Jehovah Witness,10,200
+From: 14 Jun 2002,To: 14 Jun 2002,Cuba,FY 2002,31,Seventh Day Adventist,4,200
+From: 14 Jun 2002,To: 14 Jun 2002,Kazakhstan,FY 2002,9,Pentecostalist,9,200
+From: 14 Jun 2002,To: 14 Jun 2002,Moldova,FY 2002,27,Baptist,2,200
+From: 14 Jun 2002,To: 14 Jun 2002,Moldova,FY 2002,27,Pentecostalist,25,200
+From: 14 Jun 2002,To: 14 Jun 2002,Russia,FY 2002,22,Jewish,10,200
+From: 14 Jun 2002,To: 14 Jun 2002,Russia,FY 2002,22,No Religion,11,200
+From: 14 Jun 2002,To: 14 Jun 2002,Russia,FY 2002,22,Unknown,1,200
+From: 14 Jun 2002,To: 14 Jun 2002,Somalia,FY 2002,3,Moslem,3,200
+From: 14 Jun 2002,To: 14 Jun 2002,Sudan,FY 2002,27,Catholic,13,200
+From: 14 Jun 2002,To: 14 Jun 2002,Sudan,FY 2002,27,Moslem,4,200
+From: 14 Jun 2002,To: 14 Jun 2002,Sudan,FY 2002,27,Protestant,10,200
+From: 14 Jun 2002,To: 14 Jun 2002,Ukraine,FY 2002,53,Baptist,25,200
+From: 14 Jun 2002,To: 14 Jun 2002,Ukraine,FY 2002,53,Jewish,8,200
+From: 14 Jun 2002,To: 14 Jun 2002,Ukraine,FY 2002,53,Pentecostalist,20,200
+From: 14 Jun 2002,To: 14 Jun 2002,Uzbekistan,FY 2002,3,Jewish,3,200
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jun 2002,To: 14 Jun 2002,Baptist,FY 2002,27,Moldova,2,200
+From: 14 Jun 2002,To: 14 Jun 2002,Baptist,FY 2002,27,Ukraine,25,200
+From: 14 Jun 2002,To: 14 Jun 2002,Catholic,FY 2002,28,Cuba,15,200
+From: 14 Jun 2002,To: 14 Jun 2002,Catholic,FY 2002,28,Sudan,13,200
+From: 14 Jun 2002,To: 14 Jun 2002,Christian,FY 2002,2,Cuba,2,200
+From: 14 Jun 2002,To: 14 Jun 2002,Jehovah Witness,FY 2002,10,Cuba,10,200
+From: 14 Jun 2002,To: 14 Jun 2002,Jewish,FY 2002,21,Russia,10,200
+From: 14 Jun 2002,To: 14 Jun 2002,Jewish,FY 2002,21,Ukraine,8,200
+From: 14 Jun 2002,To: 14 Jun 2002,Jewish,FY 2002,21,Uzbekistan,3,200
+From: 14 Jun 2002,To: 14 Jun 2002,Moslem,FY 2002,32,Afghanistan,1,200
+From: 14 Jun 2002,To: 14 Jun 2002,Moslem,FY 2002,32,Bosnia and Herzegovina,24,200
+From: 14 Jun 2002,To: 14 Jun 2002,Moslem,FY 2002,32,Somalia,3,200
+From: 14 Jun 2002,To: 14 Jun 2002,Moslem,FY 2002,32,Sudan,4,200
+From: 14 Jun 2002,To: 14 Jun 2002,No Religion,FY 2002,11,Russia,11,200
+From: 14 Jun 2002,To: 14 Jun 2002,Pentecostalist,FY 2002,54,Kazakhstan,9,200
+From: 14 Jun 2002,To: 14 Jun 2002,Pentecostalist,FY 2002,54,Moldova,25,200
+From: 14 Jun 2002,To: 14 Jun 2002,Pentecostalist,FY 2002,54,Ukraine,20,200
+From: 14 Jun 2002,To: 14 Jun 2002,Protestant,FY 2002,10,Sudan,10,200
+From: 14 Jun 2002,To: 14 Jun 2002,Seventh Day Adventist,FY 2002,4,Cuba,4,200
+From: 14 Jun 2002,To: 14 Jun 2002,Unknown,FY 2002,1,Russia,1,200
+

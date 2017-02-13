@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jun 2002,To: 18 Jun 2002,Bosnia and Herzegovina,FY 2002,54,Moslem,46,262
+From: 18 Jun 2002,To: 18 Jun 2002,Bosnia and Herzegovina,FY 2002,54,No Religion,8,262
+From: 18 Jun 2002,To: 18 Jun 2002,Cambodia,FY 2002,4,Protestant,4,262
+From: 18 Jun 2002,To: 18 Jun 2002,China,FY 2002,2,No Religion,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Dem. Rep. Congo,FY 2002,2,Unknown,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Eritrea,FY 2002,2,Moslem,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Eritrea,FY 2002,2,Orthodox,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ethiopia,FY 2002,11,Christian,3,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ethiopia,FY 2002,11,Moslem,8,262
+From: 18 Jun 2002,To: 18 Jun 2002,Iran,FY 2002,4,Zoroastrian,4,262
+From: 18 Jun 2002,To: 18 Jun 2002,Liberia,FY 2002,33,Christian,33,262
+From: 18 Jun 2002,To: 18 Jun 2002,Nigeria,FY 2002,1,Unknown,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Serbia,FY 2002,29,No Religion,5,262
+From: 18 Jun 2002,To: 18 Jun 2002,Serbia,FY 2002,29,Orthodox,24,262
+From: 18 Jun 2002,To: 18 Jun 2002,Somalia,FY 2002,15,Christian,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Somalia,FY 2002,15,Moslem,14,262
+From: 18 Jun 2002,To: 18 Jun 2002,Sudan,FY 2002,31,Catholic,7,262
+From: 18 Jun 2002,To: 18 Jun 2002,Sudan,FY 2002,31,Christian,14,262
+From: 18 Jun 2002,To: 18 Jun 2002,Sudan,FY 2002,31,Moslem,10,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ukraine,FY 2002,33,Baptist,4,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ukraine,FY 2002,33,Jewish,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ukraine,FY 2002,33,No Religion,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ukraine,FY 2002,33,Pentecostalist,24,262
+From: 18 Jun 2002,To: 18 Jun 2002,Ukraine,FY 2002,33,Seventh Day Adventist,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Vietnam,FY 2002,41,Protestant,41,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jun 2002,To: 18 Jun 2002,Baptist,FY 2002,4,Ukraine,4,262
+From: 18 Jun 2002,To: 18 Jun 2002,Catholic,FY 2002,7,Sudan,7,262
+From: 18 Jun 2002,To: 18 Jun 2002,Christian,FY 2002,51,Ethiopia,3,262
+From: 18 Jun 2002,To: 18 Jun 2002,Christian,FY 2002,51,Liberia,33,262
+From: 18 Jun 2002,To: 18 Jun 2002,Christian,FY 2002,51,Somalia,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Christian,FY 2002,51,Sudan,14,262
+From: 18 Jun 2002,To: 18 Jun 2002,Jewish,FY 2002,2,Ukraine,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Moslem,FY 2002,79,Bosnia and Herzegovina,46,262
+From: 18 Jun 2002,To: 18 Jun 2002,Moslem,FY 2002,79,Eritrea,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Moslem,FY 2002,79,Ethiopia,8,262
+From: 18 Jun 2002,To: 18 Jun 2002,Moslem,FY 2002,79,Somalia,14,262
+From: 18 Jun 2002,To: 18 Jun 2002,Moslem,FY 2002,79,Sudan,10,262
+From: 18 Jun 2002,To: 18 Jun 2002,No Religion,FY 2002,17,Bosnia and Herzegovina,8,262
+From: 18 Jun 2002,To: 18 Jun 2002,No Religion,FY 2002,17,China,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,No Religion,FY 2002,17,Serbia,5,262
+From: 18 Jun 2002,To: 18 Jun 2002,No Religion,FY 2002,17,Ukraine,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Orthodox,FY 2002,25,Eritrea,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Orthodox,FY 2002,25,Serbia,24,262
+From: 18 Jun 2002,To: 18 Jun 2002,Pentecostalist,FY 2002,24,Ukraine,24,262
+From: 18 Jun 2002,To: 18 Jun 2002,Protestant,FY 2002,45,Cambodia,4,262
+From: 18 Jun 2002,To: 18 Jun 2002,Protestant,FY 2002,45,Vietnam,41,262
+From: 18 Jun 2002,To: 18 Jun 2002,Seventh Day Adventist,FY 2002,1,Ukraine,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Unknown,FY 2002,3,Dem. Rep. Congo,2,262
+From: 18 Jun 2002,To: 18 Jun 2002,Unknown,FY 2002,3,Nigeria,1,262
+From: 18 Jun 2002,To: 18 Jun 2002,Zoroastrian,FY 2002,4,Iran,4,262
+

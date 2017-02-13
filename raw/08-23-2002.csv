@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Aug 2002,To: 23 Aug 2002,Belarus,FY 2002,19,Jewish,5,234
+From: 23 Aug 2002,To: 23 Aug 2002,Belarus,FY 2002,19,No Religion,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Belarus,FY 2002,19,Pentecostalist,13,234
+From: 23 Aug 2002,To: 23 Aug 2002,Bosnia and Herzegovina,FY 2002,15,Catholic,4,234
+From: 23 Aug 2002,To: 23 Aug 2002,Bosnia and Herzegovina,FY 2002,15,Moslem,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Bosnia and Herzegovina,FY 2002,15,No Religion,10,234
+From: 23 Aug 2002,To: 23 Aug 2002,Burundi,FY 2002,1,Christian,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Croatia,FY 2002,11,No Religion,11,234
+From: 23 Aug 2002,To: 23 Aug 2002,Estonia,FY 2002,5,Pentecostalist,5,234
+From: 23 Aug 2002,To: 23 Aug 2002,Ethiopia,FY 2002,1,Christian,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Iran,FY 2002,1,Christian,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Latvia,FY 2002,1,Pentecostalist,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Liberia,FY 2002,12,Christian,12,234
+From: 23 Aug 2002,To: 23 Aug 2002,Moldova,FY 2002,7,Baptist,7,234
+From: 23 Aug 2002,To: 23 Aug 2002,Russia,FY 2002,19,Baptist,12,234
+From: 23 Aug 2002,To: 23 Aug 2002,Russia,FY 2002,19,Jewish,4,234
+From: 23 Aug 2002,To: 23 Aug 2002,Russia,FY 2002,19,No Religion,2,234
+From: 23 Aug 2002,To: 23 Aug 2002,Russia,FY 2002,19,Unknown,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Serbia,FY 2002,75,No Religion,26,234
+From: 23 Aug 2002,To: 23 Aug 2002,Serbia,FY 2002,75,Orthodox,49,234
+From: 23 Aug 2002,To: 23 Aug 2002,Ukraine,FY 2002,32,Baptist,12,234
+From: 23 Aug 2002,To: 23 Aug 2002,Ukraine,FY 2002,32,Pentecostalist,20,234
+From: 23 Aug 2002,To: 23 Aug 2002,Vietnam,FY 2002,35,Unknown,35,234
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Aug 2002,To: 23 Aug 2002,Baptist,FY 2002,31,Moldova,7,234
+From: 23 Aug 2002,To: 23 Aug 2002,Baptist,FY 2002,31,Russia,12,234
+From: 23 Aug 2002,To: 23 Aug 2002,Baptist,FY 2002,31,Ukraine,12,234
+From: 23 Aug 2002,To: 23 Aug 2002,Catholic,FY 2002,4,Bosnia and Herzegovina,4,234
+From: 23 Aug 2002,To: 23 Aug 2002,Christian,FY 2002,15,Burundi,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Christian,FY 2002,15,Ethiopia,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Christian,FY 2002,15,Iran,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Christian,FY 2002,15,Liberia,12,234
+From: 23 Aug 2002,To: 23 Aug 2002,Jewish,FY 2002,9,Belarus,5,234
+From: 23 Aug 2002,To: 23 Aug 2002,Jewish,FY 2002,9,Russia,4,234
+From: 23 Aug 2002,To: 23 Aug 2002,Moslem,FY 2002,1,Bosnia and Herzegovina,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,No Religion,FY 2002,50,Belarus,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,No Religion,FY 2002,50,Bosnia and Herzegovina,10,234
+From: 23 Aug 2002,To: 23 Aug 2002,No Religion,FY 2002,50,Croatia,11,234
+From: 23 Aug 2002,To: 23 Aug 2002,No Religion,FY 2002,50,Russia,2,234
+From: 23 Aug 2002,To: 23 Aug 2002,No Religion,FY 2002,50,Serbia,26,234
+From: 23 Aug 2002,To: 23 Aug 2002,Orthodox,FY 2002,49,Serbia,49,234
+From: 23 Aug 2002,To: 23 Aug 2002,Pentecostalist,FY 2002,39,Belarus,13,234
+From: 23 Aug 2002,To: 23 Aug 2002,Pentecostalist,FY 2002,39,Estonia,5,234
+From: 23 Aug 2002,To: 23 Aug 2002,Pentecostalist,FY 2002,39,Latvia,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Pentecostalist,FY 2002,39,Ukraine,20,234
+From: 23 Aug 2002,To: 23 Aug 2002,Unknown,FY 2002,36,Russia,1,234
+From: 23 Aug 2002,To: 23 Aug 2002,Unknown,FY 2002,36,Vietnam,35,234
+

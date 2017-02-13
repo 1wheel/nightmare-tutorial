@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Aug 2002,To: 30 Aug 2002,Liberia,FY 2002,29,Christian,29,147
+From: 30 Aug 2002,To: 30 Aug 2002,Rwanda,FY 2002,1,Christian,1,147
+From: 30 Aug 2002,To: 30 Aug 2002,Serbia,FY 2002,66,No Religion,4,147
+From: 30 Aug 2002,To: 30 Aug 2002,Serbia,FY 2002,66,Orthodox,62,147
+From: 30 Aug 2002,To: 30 Aug 2002,Sudan,FY 2002,5,Christian,3,147
+From: 30 Aug 2002,To: 30 Aug 2002,Sudan,FY 2002,5,Moslem,2,147
+From: 30 Aug 2002,To: 30 Aug 2002,Ukraine,FY 2002,11,Atheist,1,147
+From: 30 Aug 2002,To: 30 Aug 2002,Ukraine,FY 2002,11,Baptist,9,147
+From: 30 Aug 2002,To: 30 Aug 2002,Ukraine,FY 2002,11,Jewish,1,147
+From: 30 Aug 2002,To: 30 Aug 2002,Vietnam,FY 2002,35,Unknown,35,147
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Aug 2002,To: 30 Aug 2002,Atheist,FY 2002,1,Ukraine,1,147
+From: 30 Aug 2002,To: 30 Aug 2002,Baptist,FY 2002,9,Ukraine,9,147
+From: 30 Aug 2002,To: 30 Aug 2002,Christian,FY 2002,33,Liberia,29,147
+From: 30 Aug 2002,To: 30 Aug 2002,Christian,FY 2002,33,Rwanda,1,147
+From: 30 Aug 2002,To: 30 Aug 2002,Christian,FY 2002,33,Sudan,3,147
+From: 30 Aug 2002,To: 30 Aug 2002,Jewish,FY 2002,1,Ukraine,1,147
+From: 30 Aug 2002,To: 30 Aug 2002,Moslem,FY 2002,2,Sudan,2,147
+From: 30 Aug 2002,To: 30 Aug 2002,No Religion,FY 2002,4,Serbia,4,147
+From: 30 Aug 2002,To: 30 Aug 2002,Orthodox,FY 2002,62,Serbia,62,147
+From: 30 Aug 2002,To: 30 Aug 2002,Unknown,FY 2002,35,Vietnam,35,147
+

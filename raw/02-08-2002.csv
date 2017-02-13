@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Feb 2002,To: 08 Feb 2002,Afghanistan,FY 2002,3,Moslem,3,74
+From: 08 Feb 2002,To: 08 Feb 2002,Burma,FY 2002,8,Christian,8,74
+From: 08 Feb 2002,To: 08 Feb 2002,Ethiopia,FY 2002,2,Moslem,2,74
+From: 08 Feb 2002,To: 08 Feb 2002,Moldova,FY 2002,15,Baptist,7,74
+From: 08 Feb 2002,To: 08 Feb 2002,Moldova,FY 2002,15,Jewish,4,74
+From: 08 Feb 2002,To: 08 Feb 2002,Moldova,FY 2002,15,Pentecostalist,4,74
+From: 08 Feb 2002,To: 08 Feb 2002,Sudan,FY 2002,1,Christian,1,74
+From: 08 Feb 2002,To: 08 Feb 2002,Turkmenistan,FY 2002,1,Moslem,1,74
+From: 08 Feb 2002,To: 08 Feb 2002,Ukraine,FY 2002,44,Baptist,9,74
+From: 08 Feb 2002,To: 08 Feb 2002,Ukraine,FY 2002,44,Jewish,6,74
+From: 08 Feb 2002,To: 08 Feb 2002,Ukraine,FY 2002,44,No Religion,2,74
+From: 08 Feb 2002,To: 08 Feb 2002,Ukraine,FY 2002,44,Pentecostalist,24,74
+From: 08 Feb 2002,To: 08 Feb 2002,Ukraine,FY 2002,44,Russian Orthodox,3,74
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Feb 2002,To: 08 Feb 2002,Baptist,FY 2002,16,Moldova,7,74
+From: 08 Feb 2002,To: 08 Feb 2002,Baptist,FY 2002,16,Ukraine,9,74
+From: 08 Feb 2002,To: 08 Feb 2002,Christian,FY 2002,9,Burma,8,74
+From: 08 Feb 2002,To: 08 Feb 2002,Christian,FY 2002,9,Sudan,1,74
+From: 08 Feb 2002,To: 08 Feb 2002,Jewish,FY 2002,10,Moldova,4,74
+From: 08 Feb 2002,To: 08 Feb 2002,Jewish,FY 2002,10,Ukraine,6,74
+From: 08 Feb 2002,To: 08 Feb 2002,Moslem,FY 2002,6,Afghanistan,3,74
+From: 08 Feb 2002,To: 08 Feb 2002,Moslem,FY 2002,6,Ethiopia,2,74
+From: 08 Feb 2002,To: 08 Feb 2002,Moslem,FY 2002,6,Turkmenistan,1,74
+From: 08 Feb 2002,To: 08 Feb 2002,No Religion,FY 2002,2,Ukraine,2,74
+From: 08 Feb 2002,To: 08 Feb 2002,Pentecostalist,FY 2002,28,Moldova,4,74
+From: 08 Feb 2002,To: 08 Feb 2002,Pentecostalist,FY 2002,28,Ukraine,24,74
+From: 08 Feb 2002,To: 08 Feb 2002,Russian Orthodox,FY 2002,3,Ukraine,3,74
+

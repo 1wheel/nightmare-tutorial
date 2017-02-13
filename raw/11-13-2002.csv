@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Nov 2002,To: 13 Nov 2002,Afghanistan,FY 2003,15,Moslem Shiite,10,127
+From: 13 Nov 2002,To: 13 Nov 2002,Afghanistan,FY 2003,15,Moslem Suni,5,127
+From: 13 Nov 2002,To: 13 Nov 2002,Bosnia and Herzegovina,FY 2003,22,Moslem,22,127
+From: 13 Nov 2002,To: 13 Nov 2002,Burma,FY 2003,6,Baptist,2,127
+From: 13 Nov 2002,To: 13 Nov 2002,Burma,FY 2003,6,Christian,4,127
+From: 13 Nov 2002,To: 13 Nov 2002,Liberia,FY 2003,1,Moslem,1,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moldova,FY 2003,15,Baptist,5,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moldova,FY 2003,15,Pentecostalist,10,127
+From: 13 Nov 2002,To: 13 Nov 2002,Sudan,FY 2003,33,Catholic,24,127
+From: 13 Nov 2002,To: 13 Nov 2002,Sudan,FY 2003,33,Evangelical Christian,1,127
+From: 13 Nov 2002,To: 13 Nov 2002,Sudan,FY 2003,33,Moslem,4,127
+From: 13 Nov 2002,To: 13 Nov 2002,Sudan,FY 2003,33,Moslem Suni,1,127
+From: 13 Nov 2002,To: 13 Nov 2002,Sudan,FY 2003,33,Protestant,3,127
+From: 13 Nov 2002,To: 13 Nov 2002,Vietnam,FY 2003,35,Unknown,35,127
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Nov 2002,To: 13 Nov 2002,Baptist,FY 2003,7,Burma,2,127
+From: 13 Nov 2002,To: 13 Nov 2002,Baptist,FY 2003,7,Moldova,5,127
+From: 13 Nov 2002,To: 13 Nov 2002,Catholic,FY 2003,24,Sudan,24,127
+From: 13 Nov 2002,To: 13 Nov 2002,Christian,FY 2003,4,Burma,4,127
+From: 13 Nov 2002,To: 13 Nov 2002,Evangelical Christian,FY 2003,1,Sudan,1,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moslem,FY 2003,27,Bosnia and Herzegovina,22,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moslem,FY 2003,27,Liberia,1,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moslem,FY 2003,27,Sudan,4,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moslem Shiite,FY 2003,10,Afghanistan,10,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moslem Suni,FY 2003,6,Afghanistan,5,127
+From: 13 Nov 2002,To: 13 Nov 2002,Moslem Suni,FY 2003,6,Sudan,1,127
+From: 13 Nov 2002,To: 13 Nov 2002,Pentecostalist,FY 2003,10,Moldova,10,127
+From: 13 Nov 2002,To: 13 Nov 2002,Protestant,FY 2003,3,Sudan,3,127
+From: 13 Nov 2002,To: 13 Nov 2002,Unknown,FY 2003,35,Vietnam,35,127
+

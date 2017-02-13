@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 May 2002,To: 15 May 2002,Afghanistan,FY 2002,35,Moslem,12,191
+From: 15 May 2002,To: 15 May 2002,Afghanistan,FY 2002,35,Moslem Shiite,8,191
+From: 15 May 2002,To: 15 May 2002,Afghanistan,FY 2002,35,Moslem Suni,15,191
+From: 15 May 2002,To: 15 May 2002,Belarus,FY 2002,6,Pentecostalist,6,191
+From: 15 May 2002,To: 15 May 2002,Bosnia and Herzegovina,FY 2002,41,Moslem,41,191
+From: 15 May 2002,To: 15 May 2002,Cuba,FY 2002,35,Baptist,8,191
+From: 15 May 2002,To: 15 May 2002,Cuba,FY 2002,35,Catholic,12,191
+From: 15 May 2002,To: 15 May 2002,Cuba,FY 2002,35,Jehovah Witness,10,191
+From: 15 May 2002,To: 15 May 2002,Cuba,FY 2002,35,No Religion,5,191
+From: 15 May 2002,To: 15 May 2002,Iran,FY 2002,16,Christian,7,191
+From: 15 May 2002,To: 15 May 2002,Iran,FY 2002,16,Jewish,9,191
+From: 15 May 2002,To: 15 May 2002,Latvia,FY 2002,9,Baptist,4,191
+From: 15 May 2002,To: 15 May 2002,Latvia,FY 2002,9,Pentecostalist,5,191
+From: 15 May 2002,To: 15 May 2002,Russia,FY 2002,25,Baptist,12,191
+From: 15 May 2002,To: 15 May 2002,Russia,FY 2002,25,Jewish,13,191
+From: 15 May 2002,To: 15 May 2002,Sudan,FY 2002,18,Catholic,11,191
+From: 15 May 2002,To: 15 May 2002,Sudan,FY 2002,18,Moslem,1,191
+From: 15 May 2002,To: 15 May 2002,Sudan,FY 2002,18,Other Religion,1,191
+From: 15 May 2002,To: 15 May 2002,Sudan,FY 2002,18,Protestant,5,191
+From: 15 May 2002,To: 15 May 2002,Uzbekistan,FY 2002,6,Christian,2,191
+From: 15 May 2002,To: 15 May 2002,Uzbekistan,FY 2002,6,Jewish,4,191
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 May 2002,To: 15 May 2002,Baptist,FY 2002,24,Cuba,8,191
+From: 15 May 2002,To: 15 May 2002,Baptist,FY 2002,24,Latvia,4,191
+From: 15 May 2002,To: 15 May 2002,Baptist,FY 2002,24,Russia,12,191
+From: 15 May 2002,To: 15 May 2002,Catholic,FY 2002,23,Cuba,12,191
+From: 15 May 2002,To: 15 May 2002,Catholic,FY 2002,23,Sudan,11,191
+From: 15 May 2002,To: 15 May 2002,Christian,FY 2002,9,Iran,7,191
+From: 15 May 2002,To: 15 May 2002,Christian,FY 2002,9,Uzbekistan,2,191
+From: 15 May 2002,To: 15 May 2002,Jehovah Witness,FY 2002,10,Cuba,10,191
+From: 15 May 2002,To: 15 May 2002,Jewish,FY 2002,26,Iran,9,191
+From: 15 May 2002,To: 15 May 2002,Jewish,FY 2002,26,Russia,13,191
+From: 15 May 2002,To: 15 May 2002,Jewish,FY 2002,26,Uzbekistan,4,191
+From: 15 May 2002,To: 15 May 2002,Moslem,FY 2002,54,Afghanistan,12,191
+From: 15 May 2002,To: 15 May 2002,Moslem,FY 2002,54,Bosnia and Herzegovina,41,191
+From: 15 May 2002,To: 15 May 2002,Moslem,FY 2002,54,Sudan,1,191
+From: 15 May 2002,To: 15 May 2002,Moslem Shiite,FY 2002,8,Afghanistan,8,191
+From: 15 May 2002,To: 15 May 2002,Moslem Suni,FY 2002,15,Afghanistan,15,191
+From: 15 May 2002,To: 15 May 2002,No Religion,FY 2002,5,Cuba,5,191
+From: 15 May 2002,To: 15 May 2002,Other Religion,FY 2002,1,Sudan,1,191
+From: 15 May 2002,To: 15 May 2002,Pentecostalist,FY 2002,11,Belarus,6,191
+From: 15 May 2002,To: 15 May 2002,Pentecostalist,FY 2002,11,Latvia,5,191
+From: 15 May 2002,To: 15 May 2002,Protestant,FY 2002,5,Sudan,5,191
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Nov 2002,To: 18 Nov 2002,Afghanistan,FY 2003,15,Moslem,6,93
+From: 18 Nov 2002,To: 18 Nov 2002,Afghanistan,FY 2003,15,Moslem Shiite,6,93
+From: 18 Nov 2002,To: 18 Nov 2002,Afghanistan,FY 2003,15,Moslem Suni,3,93
+From: 18 Nov 2002,To: 18 Nov 2002,Bosnia and Herzegovina,FY 2003,17,Moslem,17,93
+From: 18 Nov 2002,To: 18 Nov 2002,Iraq,FY 2003,10,Moslem,10,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moldova,FY 2003,9,Baptist,9,93
+From: 18 Nov 2002,To: 18 Nov 2002,Russia,FY 2003,1,Baptist,1,93
+From: 18 Nov 2002,To: 18 Nov 2002,Serbia,FY 2003,34,No Religion,1,93
+From: 18 Nov 2002,To: 18 Nov 2002,Serbia,FY 2003,34,Orthodox,33,93
+From: 18 Nov 2002,To: 18 Nov 2002,Sierra Leone,FY 2003,2,Moslem,2,93
+From: 18 Nov 2002,To: 18 Nov 2002,Somalia,FY 2003,4,Moslem,4,93
+From: 18 Nov 2002,To: 18 Nov 2002,Sudan,FY 2003,1,Protestant,1,93
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Nov 2002,To: 18 Nov 2002,Baptist,FY 2003,10,Moldova,9,93
+From: 18 Nov 2002,To: 18 Nov 2002,Baptist,FY 2003,10,Russia,1,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem,FY 2003,39,Afghanistan,6,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem,FY 2003,39,Bosnia and Herzegovina,17,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem,FY 2003,39,Iraq,10,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem,FY 2003,39,Sierra Leone,2,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem,FY 2003,39,Somalia,4,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem Shiite,FY 2003,6,Afghanistan,6,93
+From: 18 Nov 2002,To: 18 Nov 2002,Moslem Suni,FY 2003,3,Afghanistan,3,93
+From: 18 Nov 2002,To: 18 Nov 2002,No Religion,FY 2003,1,Serbia,1,93
+From: 18 Nov 2002,To: 18 Nov 2002,Orthodox,FY 2003,33,Serbia,33,93
+From: 18 Nov 2002,To: 18 Nov 2002,Protestant,FY 2003,1,Sudan,1,93
+

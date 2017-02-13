@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Mar 2002,To: 28 Mar 2002,Afghanistan,FY 2002,29,Moslem,18,197
+From: 28 Mar 2002,To: 28 Mar 2002,Afghanistan,FY 2002,29,Moslem Shiite,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Afghanistan,FY 2002,29,Moslem Suni,8,197
+From: 28 Mar 2002,To: 28 Mar 2002,Bosnia and Herzegovina,FY 2002,21,Catholic,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Bosnia and Herzegovina,FY 2002,21,Moslem,18,197
+From: 28 Mar 2002,To: 28 Mar 2002,Cameroon,FY 2002,3,Unknown,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ethiopia,FY 2002,7,Moslem,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ethiopia,FY 2002,7,Orthodox,4,197
+From: 28 Mar 2002,To: 28 Mar 2002,Guinea,FY 2002,5,Moslem,5,197
+From: 28 Mar 2002,To: 28 Mar 2002,Kazakhstan,FY 2002,8,Baptist,6,197
+From: 28 Mar 2002,To: 28 Mar 2002,Kazakhstan,FY 2002,8,Unknown,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Russia,FY 2002,25,Baptist,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Russia,FY 2002,25,Jewish,14,197
+From: 28 Mar 2002,To: 28 Mar 2002,Russia,FY 2002,25,No Religion,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Russia,FY 2002,25,Pentecostalist,5,197
+From: 28 Mar 2002,To: 28 Mar 2002,Sierra Leone,FY 2002,4,Christian,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Sierra Leone,FY 2002,4,Moslem,1,197
+From: 28 Mar 2002,To: 28 Mar 2002,Sudan,FY 2002,3,Christian,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Sudan,FY 2002,3,Moslem,1,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ukraine,FY 2002,63,Baptist,10,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ukraine,FY 2002,63,Evangelical Christian,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ukraine,FY 2002,63,Jewish,7,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ukraine,FY 2002,63,No Religion,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Ukraine,FY 2002,63,Pentecostalist,42,197
+From: 28 Mar 2002,To: 28 Mar 2002,Uzbekistan,FY 2002,1,Jewish,1,197
+From: 28 Mar 2002,To: 28 Mar 2002,Vietnam,FY 2002,28,Unknown,28,197
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Mar 2002,To: 28 Mar 2002,Baptist,FY 2002,19,Kazakhstan,6,197
+From: 28 Mar 2002,To: 28 Mar 2002,Baptist,FY 2002,19,Russia,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Baptist,FY 2002,19,Ukraine,10,197
+From: 28 Mar 2002,To: 28 Mar 2002,Catholic,FY 2002,3,Bosnia and Herzegovina,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Christian,FY 2002,5,Sierra Leone,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Christian,FY 2002,5,Sudan,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Evangelical Christian,FY 2002,2,Ukraine,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Jewish,FY 2002,22,Russia,14,197
+From: 28 Mar 2002,To: 28 Mar 2002,Jewish,FY 2002,22,Ukraine,7,197
+From: 28 Mar 2002,To: 28 Mar 2002,Jewish,FY 2002,22,Uzbekistan,1,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem,FY 2002,46,Afghanistan,18,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem,FY 2002,46,Bosnia and Herzegovina,18,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem,FY 2002,46,Ethiopia,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem,FY 2002,46,Guinea,5,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem,FY 2002,46,Sierra Leone,1,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem,FY 2002,46,Sudan,1,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem Shiite,FY 2002,3,Afghanistan,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Moslem Suni,FY 2002,8,Afghanistan,8,197
+From: 28 Mar 2002,To: 28 Mar 2002,No Religion,FY 2002,5,Russia,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,No Religion,FY 2002,5,Ukraine,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Orthodox,FY 2002,4,Ethiopia,4,197
+From: 28 Mar 2002,To: 28 Mar 2002,Pentecostalist,FY 2002,47,Russia,5,197
+From: 28 Mar 2002,To: 28 Mar 2002,Pentecostalist,FY 2002,47,Ukraine,42,197
+From: 28 Mar 2002,To: 28 Mar 2002,Unknown,FY 2002,33,Cameroon,3,197
+From: 28 Mar 2002,To: 28 Mar 2002,Unknown,FY 2002,33,Kazakhstan,2,197
+From: 28 Mar 2002,To: 28 Mar 2002,Unknown,FY 2002,33,Vietnam,28,197
+

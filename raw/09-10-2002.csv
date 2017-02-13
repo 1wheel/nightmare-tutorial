@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Sep 2002,To: 10 Sep 2002,Cuba,FY 2002,1,Catholic,1,139
+From: 10 Sep 2002,To: 10 Sep 2002,Iran,FY 2002,32,Bahai,14,139
+From: 10 Sep 2002,To: 10 Sep 2002,Iran,FY 2002,32,Christian,11,139
+From: 10 Sep 2002,To: 10 Sep 2002,Iran,FY 2002,32,Jewish,1,139
+From: 10 Sep 2002,To: 10 Sep 2002,Iran,FY 2002,32,Zoroastrian,6,139
+From: 10 Sep 2002,To: 10 Sep 2002,Liberia,FY 2002,3,Unknown,3,139
+From: 10 Sep 2002,To: 10 Sep 2002,Moldova,FY 2002,1,Unknown,1,139
+From: 10 Sep 2002,To: 10 Sep 2002,Serbia,FY 2002,14,Moslem,14,139
+From: 10 Sep 2002,To: 10 Sep 2002,Somalia,FY 2002,5,Moslem,5,139
+From: 10 Sep 2002,To: 10 Sep 2002,Ukraine,FY 2002,23,Pentecostalist,19,139
+From: 10 Sep 2002,To: 10 Sep 2002,Ukraine,FY 2002,23,Unknown,4,139
+From: 10 Sep 2002,To: 10 Sep 2002,Vietnam,FY 2002,60,Unknown,60,139
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Sep 2002,To: 10 Sep 2002,Bahai,FY 2002,14,Iran,14,139
+From: 10 Sep 2002,To: 10 Sep 2002,Catholic,FY 2002,1,Cuba,1,139
+From: 10 Sep 2002,To: 10 Sep 2002,Christian,FY 2002,11,Iran,11,139
+From: 10 Sep 2002,To: 10 Sep 2002,Jewish,FY 2002,1,Iran,1,139
+From: 10 Sep 2002,To: 10 Sep 2002,Moslem,FY 2002,19,Serbia,14,139
+From: 10 Sep 2002,To: 10 Sep 2002,Moslem,FY 2002,19,Somalia,5,139
+From: 10 Sep 2002,To: 10 Sep 2002,Pentecostalist,FY 2002,19,Ukraine,19,139
+From: 10 Sep 2002,To: 10 Sep 2002,Unknown,FY 2002,68,Liberia,3,139
+From: 10 Sep 2002,To: 10 Sep 2002,Unknown,FY 2002,68,Moldova,1,139
+From: 10 Sep 2002,To: 10 Sep 2002,Unknown,FY 2002,68,Ukraine,4,139
+From: 10 Sep 2002,To: 10 Sep 2002,Unknown,FY 2002,68,Vietnam,60,139
+From: 10 Sep 2002,To: 10 Sep 2002,Zoroastrian,FY 2002,6,Iran,6,139
+

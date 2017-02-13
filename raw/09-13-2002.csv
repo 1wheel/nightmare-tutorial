@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Sep 2002,To: 13 Sep 2002,Belarus,FY 2002,10,Jewish,4,105
+From: 13 Sep 2002,To: 13 Sep 2002,Belarus,FY 2002,10,No Religion,6,105
+From: 13 Sep 2002,To: 13 Sep 2002,Cuba,FY 2002,25,Catholic,6,105
+From: 13 Sep 2002,To: 13 Sep 2002,Cuba,FY 2002,25,Evangelical Christian,1,105
+From: 13 Sep 2002,To: 13 Sep 2002,Cuba,FY 2002,25,Jehovah Witness,12,105
+From: 13 Sep 2002,To: 13 Sep 2002,Cuba,FY 2002,25,No Religion,5,105
+From: 13 Sep 2002,To: 13 Sep 2002,Cuba,FY 2002,25,Pentecostalist,1,105
+From: 13 Sep 2002,To: 13 Sep 2002,Liberia,FY 2002,19,Christian,19,105
+From: 13 Sep 2002,To: 13 Sep 2002,Ukraine,FY 2002,6,Baptist,4,105
+From: 13 Sep 2002,To: 13 Sep 2002,Ukraine,FY 2002,6,Pentecostalist,2,105
+From: 13 Sep 2002,To: 13 Sep 2002,Vietnam,FY 2002,45,Unknown,45,105
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Sep 2002,To: 13 Sep 2002,Baptist,FY 2002,4,Ukraine,4,105
+From: 13 Sep 2002,To: 13 Sep 2002,Catholic,FY 2002,6,Cuba,6,105
+From: 13 Sep 2002,To: 13 Sep 2002,Christian,FY 2002,19,Liberia,19,105
+From: 13 Sep 2002,To: 13 Sep 2002,Evangelical Christian,FY 2002,1,Cuba,1,105
+From: 13 Sep 2002,To: 13 Sep 2002,Jehovah Witness,FY 2002,12,Cuba,12,105
+From: 13 Sep 2002,To: 13 Sep 2002,Jewish,FY 2002,4,Belarus,4,105
+From: 13 Sep 2002,To: 13 Sep 2002,No Religion,FY 2002,11,Belarus,6,105
+From: 13 Sep 2002,To: 13 Sep 2002,No Religion,FY 2002,11,Cuba,5,105
+From: 13 Sep 2002,To: 13 Sep 2002,Pentecostalist,FY 2002,3,Cuba,1,105
+From: 13 Sep 2002,To: 13 Sep 2002,Pentecostalist,FY 2002,3,Ukraine,2,105
+From: 13 Sep 2002,To: 13 Sep 2002,Unknown,FY 2002,45,Vietnam,45,105
+

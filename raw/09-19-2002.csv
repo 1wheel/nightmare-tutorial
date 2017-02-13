@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Sep 2002,To: 19 Sep 2002,Afghanistan,FY 2002,57,Moslem,5,310
+From: 19 Sep 2002,To: 19 Sep 2002,Afghanistan,FY 2002,57,Moslem Shiite,25,310
+From: 19 Sep 2002,To: 19 Sep 2002,Afghanistan,FY 2002,57,Moslem Suni,27,310
+From: 19 Sep 2002,To: 19 Sep 2002,Belarus,FY 2002,7,Pentecostalist,7,310
+From: 19 Sep 2002,To: 19 Sep 2002,Bosnia and Herzegovina,FY 2002,53,Moslem,53,310
+From: 19 Sep 2002,To: 19 Sep 2002,Cuba,FY 2002,24,Catholic,20,310
+From: 19 Sep 2002,To: 19 Sep 2002,Cuba,FY 2002,24,No Religion,3,310
+From: 19 Sep 2002,To: 19 Sep 2002,Cuba,FY 2002,24,Protestant,1,310
+From: 19 Sep 2002,To: 19 Sep 2002,Ethiopia,FY 2002,2,Catholic,1,310
+From: 19 Sep 2002,To: 19 Sep 2002,Ethiopia,FY 2002,2,Protestant,1,310
+From: 19 Sep 2002,To: 19 Sep 2002,Iran,FY 2002,40,Bahai,5,310
+From: 19 Sep 2002,To: 19 Sep 2002,Iran,FY 2002,40,Christian,17,310
+From: 19 Sep 2002,To: 19 Sep 2002,Iran,FY 2002,40,Jewish,16,310
+From: 19 Sep 2002,To: 19 Sep 2002,Iran,FY 2002,40,Zoroastrian,2,310
+From: 19 Sep 2002,To: 19 Sep 2002,Liberia,FY 2002,19,Christian,19,310
+From: 19 Sep 2002,To: 19 Sep 2002,Russia,FY 2002,16,Jewish,4,310
+From: 19 Sep 2002,To: 19 Sep 2002,Russia,FY 2002,16,Pentecostalist,12,310
+From: 19 Sep 2002,To: 19 Sep 2002,Somalia,FY 2002,4,Moslem,4,310
+From: 19 Sep 2002,To: 19 Sep 2002,Sudan,FY 2002,22,Catholic,14,310
+From: 19 Sep 2002,To: 19 Sep 2002,Sudan,FY 2002,22,Christian,2,310
+From: 19 Sep 2002,To: 19 Sep 2002,Sudan,FY 2002,22,Moslem,3,310
+From: 19 Sep 2002,To: 19 Sep 2002,Sudan,FY 2002,22,Protestant,3,310
+From: 19 Sep 2002,To: 19 Sep 2002,Ukraine,FY 2002,31,Baptist,13,310
+From: 19 Sep 2002,To: 19 Sep 2002,Ukraine,FY 2002,31,Jewish,7,310
+From: 19 Sep 2002,To: 19 Sep 2002,Ukraine,FY 2002,31,Pentecostalist,11,310
+From: 19 Sep 2002,To: 19 Sep 2002,Vietnam,FY 2002,35,Unknown,35,310
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Sep 2002,To: 19 Sep 2002,Bahai,FY 2002,5,Iran,5,310
+From: 19 Sep 2002,To: 19 Sep 2002,Baptist,FY 2002,13,Ukraine,13,310
+From: 19 Sep 2002,To: 19 Sep 2002,Catholic,FY 2002,35,Cuba,20,310
+From: 19 Sep 2002,To: 19 Sep 2002,Catholic,FY 2002,35,Ethiopia,1,310
+From: 19 Sep 2002,To: 19 Sep 2002,Catholic,FY 2002,35,Sudan,14,310
+From: 19 Sep 2002,To: 19 Sep 2002,Christian,FY 2002,38,Iran,17,310
+From: 19 Sep 2002,To: 19 Sep 2002,Christian,FY 2002,38,Liberia,19,310
+From: 19 Sep 2002,To: 19 Sep 2002,Christian,FY 2002,38,Sudan,2,310
+From: 19 Sep 2002,To: 19 Sep 2002,Jewish,FY 2002,27,Iran,16,310
+From: 19 Sep 2002,To: 19 Sep 2002,Jewish,FY 2002,27,Russia,4,310
+From: 19 Sep 2002,To: 19 Sep 2002,Jewish,FY 2002,27,Ukraine,7,310
+From: 19 Sep 2002,To: 19 Sep 2002,Moslem,FY 2002,65,Afghanistan,5,310
+From: 19 Sep 2002,To: 19 Sep 2002,Moslem,FY 2002,65,Bosnia and Herzegovina,53,310
+From: 19 Sep 2002,To: 19 Sep 2002,Moslem,FY 2002,65,Somalia,4,310
+From: 19 Sep 2002,To: 19 Sep 2002,Moslem,FY 2002,65,Sudan,3,310
+From: 19 Sep 2002,To: 19 Sep 2002,Moslem Shiite,FY 2002,25,Afghanistan,25,310
+From: 19 Sep 2002,To: 19 Sep 2002,Moslem Suni,FY 2002,27,Afghanistan,27,310
+From: 19 Sep 2002,To: 19 Sep 2002,No Religion,FY 2002,3,Cuba,3,310
+From: 19 Sep 2002,To: 19 Sep 2002,Pentecostalist,FY 2002,30,Belarus,7,310
+From: 19 Sep 2002,To: 19 Sep 2002,Pentecostalist,FY 2002,30,Russia,12,310
+From: 19 Sep 2002,To: 19 Sep 2002,Pentecostalist,FY 2002,30,Ukraine,11,310
+From: 19 Sep 2002,To: 19 Sep 2002,Protestant,FY 2002,5,Cuba,1,310
+From: 19 Sep 2002,To: 19 Sep 2002,Protestant,FY 2002,5,Ethiopia,1,310
+From: 19 Sep 2002,To: 19 Sep 2002,Protestant,FY 2002,5,Sudan,3,310
+From: 19 Sep 2002,To: 19 Sep 2002,Unknown,FY 2002,35,Vietnam,35,310
+From: 19 Sep 2002,To: 19 Sep 2002,Zoroastrian,FY 2002,2,Iran,2,310
+

@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Feb 2002,To: 25 Feb 2002,Belarus,FY 2002,9,Baptist,7,35
+From: 25 Feb 2002,To: 25 Feb 2002,Belarus,FY 2002,9,No Religion,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Iran,FY 2002,2,Jewish,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Iraq,FY 2002,1,Moslem,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Russia,FY 2002,13,Atheist,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Russia,FY 2002,13,Baptist,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Russia,FY 2002,13,Jewish,6,35
+From: 25 Feb 2002,To: 25 Feb 2002,Russia,FY 2002,13,No Religion,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Russia,FY 2002,13,Pentecostalist,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Russia,FY 2002,13,Unknown,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Somalia,FY 2002,1,Moslem,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Syria,FY 2002,1,Moslem,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Uzbekistan,FY 2002,8,Jewish,8,35
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Feb 2002,To: 25 Feb 2002,Atheist,FY 2002,2,Russia,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Baptist,FY 2002,9,Belarus,7,35
+From: 25 Feb 2002,To: 25 Feb 2002,Baptist,FY 2002,9,Russia,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Jewish,FY 2002,16,Iran,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,Jewish,FY 2002,16,Russia,6,35
+From: 25 Feb 2002,To: 25 Feb 2002,Jewish,FY 2002,16,Uzbekistan,8,35
+From: 25 Feb 2002,To: 25 Feb 2002,Moslem,FY 2002,3,Iraq,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Moslem,FY 2002,3,Somalia,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Moslem,FY 2002,3,Syria,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,No Religion,FY 2002,3,Belarus,2,35
+From: 25 Feb 2002,To: 25 Feb 2002,No Religion,FY 2002,3,Russia,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Pentecostalist,FY 2002,1,Russia,1,35
+From: 25 Feb 2002,To: 25 Feb 2002,Unknown,FY 2002,1,Russia,1,35
+

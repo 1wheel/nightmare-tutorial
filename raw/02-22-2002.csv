@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Feb 2002,To: 22 Feb 2002,Belarus,FY 2002,33,Baptist,5,137
+From: 22 Feb 2002,To: 22 Feb 2002,Belarus,FY 2002,33,Jewish,8,137
+From: 22 Feb 2002,To: 22 Feb 2002,Belarus,FY 2002,33,No Religion,5,137
+From: 22 Feb 2002,To: 22 Feb 2002,Belarus,FY 2002,33,Pentecostalist,13,137
+From: 22 Feb 2002,To: 22 Feb 2002,Belarus,FY 2002,33,Unknown,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Bosnia and Herzegovina,FY 2002,3,Moslem,3,137
+From: 22 Feb 2002,To: 22 Feb 2002,Burma,FY 2002,5,Buddhist,3,137
+From: 22 Feb 2002,To: 22 Feb 2002,Burma,FY 2002,5,Christian,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Burundi,FY 2002,1,Catholic,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Cameroon,FY 2002,1,Christian,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Ethiopia,FY 2002,6,Christian,6,137
+From: 22 Feb 2002,To: 22 Feb 2002,Iran,FY 2002,2,Christian,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Liberia,FY 2002,1,Christian,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Moldova,FY 2002,21,Baptist,21,137
+From: 22 Feb 2002,To: 22 Feb 2002,Russia,FY 2002,14,Baptist,11,137
+From: 22 Feb 2002,To: 22 Feb 2002,Russia,FY 2002,14,Jewish,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Russia,FY 2002,14,Unknown,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Sierra Leone,FY 2002,2,Christian,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Sierra Leone,FY 2002,2,Moslem,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Sudan,FY 2002,1,Christian,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Togo,FY 2002,2,Unknown,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Ukraine,FY 2002,30,Baptist,6,137
+From: 22 Feb 2002,To: 22 Feb 2002,Ukraine,FY 2002,30,Jewish,4,137
+From: 22 Feb 2002,To: 22 Feb 2002,Ukraine,FY 2002,30,Pentecostalist,19,137
+From: 22 Feb 2002,To: 22 Feb 2002,Ukraine,FY 2002,30,Unknown,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Vietnam,FY 2002,15,Unknown,15,137
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Feb 2002,To: 22 Feb 2002,Baptist,FY 2002,43,Belarus,5,137
+From: 22 Feb 2002,To: 22 Feb 2002,Baptist,FY 2002,43,Moldova,21,137
+From: 22 Feb 2002,To: 22 Feb 2002,Baptist,FY 2002,43,Russia,11,137
+From: 22 Feb 2002,To: 22 Feb 2002,Baptist,FY 2002,43,Ukraine,6,137
+From: 22 Feb 2002,To: 22 Feb 2002,Buddhist,FY 2002,3,Burma,3,137
+From: 22 Feb 2002,To: 22 Feb 2002,Catholic,FY 2002,1,Burundi,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Burma,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Cameroon,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Ethiopia,6,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Iran,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Liberia,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Sierra Leone,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Christian,FY 2002,14,Sudan,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Jewish,FY 2002,13,Belarus,8,137
+From: 22 Feb 2002,To: 22 Feb 2002,Jewish,FY 2002,13,Russia,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Jewish,FY 2002,13,Ukraine,4,137
+From: 22 Feb 2002,To: 22 Feb 2002,Moslem,FY 2002,4,Bosnia and Herzegovina,3,137
+From: 22 Feb 2002,To: 22 Feb 2002,Moslem,FY 2002,4,Sierra Leone,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,No Religion,FY 2002,5,Belarus,5,137
+From: 22 Feb 2002,To: 22 Feb 2002,Pentecostalist,FY 2002,32,Belarus,13,137
+From: 22 Feb 2002,To: 22 Feb 2002,Pentecostalist,FY 2002,32,Ukraine,19,137
+From: 22 Feb 2002,To: 22 Feb 2002,Unknown,FY 2002,22,Belarus,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Unknown,FY 2002,22,Russia,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Unknown,FY 2002,22,Togo,2,137
+From: 22 Feb 2002,To: 22 Feb 2002,Unknown,FY 2002,22,Ukraine,1,137
+From: 22 Feb 2002,To: 22 Feb 2002,Unknown,FY 2002,22,Vietnam,15,137
+

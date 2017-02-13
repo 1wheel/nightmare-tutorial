@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Mar 2002,To: 06 Mar 2002,Afghanistan,FY 2002,28,Moslem,8,251
+From: 06 Mar 2002,To: 06 Mar 2002,Afghanistan,FY 2002,28,Moslem Shiite,15,251
+From: 06 Mar 2002,To: 06 Mar 2002,Afghanistan,FY 2002,28,Moslem Suni,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Bosnia and Herzegovina,FY 2002,23,Catholic,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Bosnia and Herzegovina,FY 2002,23,Moslem,18,251
+From: 06 Mar 2002,To: 06 Mar 2002,Burundi,FY 2002,13,Protestant,13,251
+From: 06 Mar 2002,To: 06 Mar 2002,Cuba,FY 2002,30,Catholic,8,251
+From: 06 Mar 2002,To: 06 Mar 2002,Cuba,FY 2002,30,Christian,4,251
+From: 06 Mar 2002,To: 06 Mar 2002,Cuba,FY 2002,30,Methodist,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Cuba,FY 2002,30,No Religion,11,251
+From: 06 Mar 2002,To: 06 Mar 2002,Cuba,FY 2002,30,Pentecostalist,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Dem. Rep. Congo,FY 2002,7,Christian,6,251
+From: 06 Mar 2002,To: 06 Mar 2002,Dem. Rep. Congo,FY 2002,7,Protestant,1,251
+From: 06 Mar 2002,To: 06 Mar 2002,Kyrgyzstan,FY 2002,5,Baptist,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Moldova,FY 2002,2,Pentecostalist,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Russia,FY 2002,42,Baptist,24,251
+From: 06 Mar 2002,To: 06 Mar 2002,Russia,FY 2002,42,Jewish,10,251
+From: 06 Mar 2002,To: 06 Mar 2002,Russia,FY 2002,42,Pentecostalist,6,251
+From: 06 Mar 2002,To: 06 Mar 2002,Russia,FY 2002,42,Unknown,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Rwanda,FY 2002,7,Christian,7,251
+From: 06 Mar 2002,To: 06 Mar 2002,Somalia,FY 2002,1,Moslem,1,251
+From: 06 Mar 2002,To: 06 Mar 2002,Togo,FY 2002,7,Christian,7,251
+From: 06 Mar 2002,To: 06 Mar 2002,Ukraine,FY 2002,27,Baptist,3,251
+From: 06 Mar 2002,To: 06 Mar 2002,Ukraine,FY 2002,27,Jewish,1,251
+From: 06 Mar 2002,To: 06 Mar 2002,Ukraine,FY 2002,27,No Religion,3,251
+From: 06 Mar 2002,To: 06 Mar 2002,Ukraine,FY 2002,27,Pentecostalist,18,251
+From: 06 Mar 2002,To: 06 Mar 2002,Ukraine,FY 2002,27,Unknown,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Uzbekistan,FY 2002,10,Jewish,10,251
+From: 06 Mar 2002,To: 06 Mar 2002,Vietnam,FY 2002,49,Unknown,49,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Mar 2002,To: 06 Mar 2002,Baptist,FY 2002,32,Kyrgyzstan,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Baptist,FY 2002,32,Russia,24,251
+From: 06 Mar 2002,To: 06 Mar 2002,Baptist,FY 2002,32,Ukraine,3,251
+From: 06 Mar 2002,To: 06 Mar 2002,Catholic,FY 2002,13,Bosnia and Herzegovina,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Catholic,FY 2002,13,Cuba,8,251
+From: 06 Mar 2002,To: 06 Mar 2002,Christian,FY 2002,24,Cuba,4,251
+From: 06 Mar 2002,To: 06 Mar 2002,Christian,FY 2002,24,Dem. Rep. Congo,6,251
+From: 06 Mar 2002,To: 06 Mar 2002,Christian,FY 2002,24,Rwanda,7,251
+From: 06 Mar 2002,To: 06 Mar 2002,Christian,FY 2002,24,Togo,7,251
+From: 06 Mar 2002,To: 06 Mar 2002,Jewish,FY 2002,21,Russia,10,251
+From: 06 Mar 2002,To: 06 Mar 2002,Jewish,FY 2002,21,Ukraine,1,251
+From: 06 Mar 2002,To: 06 Mar 2002,Jewish,FY 2002,21,Uzbekistan,10,251
+From: 06 Mar 2002,To: 06 Mar 2002,Methodist,FY 2002,5,Cuba,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,Moslem,FY 2002,27,Afghanistan,8,251
+From: 06 Mar 2002,To: 06 Mar 2002,Moslem,FY 2002,27,Bosnia and Herzegovina,18,251
+From: 06 Mar 2002,To: 06 Mar 2002,Moslem,FY 2002,27,Somalia,1,251
+From: 06 Mar 2002,To: 06 Mar 2002,Moslem Shiite,FY 2002,15,Afghanistan,15,251
+From: 06 Mar 2002,To: 06 Mar 2002,Moslem Suni,FY 2002,5,Afghanistan,5,251
+From: 06 Mar 2002,To: 06 Mar 2002,No Religion,FY 2002,14,Cuba,11,251
+From: 06 Mar 2002,To: 06 Mar 2002,No Religion,FY 2002,14,Ukraine,3,251
+From: 06 Mar 2002,To: 06 Mar 2002,Pentecostalist,FY 2002,28,Cuba,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Pentecostalist,FY 2002,28,Moldova,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Pentecostalist,FY 2002,28,Russia,6,251
+From: 06 Mar 2002,To: 06 Mar 2002,Pentecostalist,FY 2002,28,Ukraine,18,251
+From: 06 Mar 2002,To: 06 Mar 2002,Protestant,FY 2002,14,Burundi,13,251
+From: 06 Mar 2002,To: 06 Mar 2002,Protestant,FY 2002,14,Dem. Rep. Congo,1,251
+From: 06 Mar 2002,To: 06 Mar 2002,Unknown,FY 2002,53,Russia,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Unknown,FY 2002,53,Ukraine,2,251
+From: 06 Mar 2002,To: 06 Mar 2002,Unknown,FY 2002,53,Vietnam,49,251
+

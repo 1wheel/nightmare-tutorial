@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,FY 2002,16,Moslem,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,FY 2002,16,Moslem Shiite,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Afghanistan,FY 2002,16,Moslem Suni,10,122
+From: 26 Apr 2002,To: 26 Apr 2002,Azerbaijan,FY 2002,2,Jewish,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Belarus,FY 2002,10,Baptist,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Belarus,FY 2002,10,Pentecostalist,6,122
+From: 26 Apr 2002,To: 26 Apr 2002,Dem. Rep. Congo,FY 2002,1,Christian,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Estonia,FY 2002,7,Baptist,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Estonia,FY 2002,7,Jewish,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moldova,FY 2002,16,Baptist,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moldova,FY 2002,16,Pentecostalist,12,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,FY 2002,18,Baptist,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,FY 2002,18,Jewish,13,122
+From: 26 Apr 2002,To: 26 Apr 2002,Russia,FY 2002,18,No Religion,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Serbia,FY 2002,1,Moslem,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,FY 2002,48,Baptist,12,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,FY 2002,48,Jewish,12,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,FY 2002,48,No Religion,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Ukraine,FY 2002,48,Pentecostalist,23,122
+From: 26 Apr 2002,To: 26 Apr 2002,Uzbekistan,FY 2002,3,Jewish,3,122
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Apr 2002,To: 26 Apr 2002,Baptist,FY 2002,27,Belarus,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Baptist,FY 2002,27,Estonia,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Baptist,FY 2002,27,Moldova,4,122
+From: 26 Apr 2002,To: 26 Apr 2002,Baptist,FY 2002,27,Russia,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Baptist,FY 2002,27,Ukraine,12,122
+From: 26 Apr 2002,To: 26 Apr 2002,Christian,FY 2002,1,Dem. Rep. Congo,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Jewish,FY 2002,32,Azerbaijan,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Jewish,FY 2002,32,Estonia,2,122
+From: 26 Apr 2002,To: 26 Apr 2002,Jewish,FY 2002,32,Russia,13,122
+From: 26 Apr 2002,To: 26 Apr 2002,Jewish,FY 2002,32,Ukraine,12,122
+From: 26 Apr 2002,To: 26 Apr 2002,Jewish,FY 2002,32,Uzbekistan,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moslem,FY 2002,2,Afghanistan,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moslem,FY 2002,2,Serbia,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moslem Shiite,FY 2002,5,Afghanistan,5,122
+From: 26 Apr 2002,To: 26 Apr 2002,Moslem Suni,FY 2002,10,Afghanistan,10,122
+From: 26 Apr 2002,To: 26 Apr 2002,No Religion,FY 2002,4,Russia,3,122
+From: 26 Apr 2002,To: 26 Apr 2002,No Religion,FY 2002,4,Ukraine,1,122
+From: 26 Apr 2002,To: 26 Apr 2002,Pentecostalist,FY 2002,41,Belarus,6,122
+From: 26 Apr 2002,To: 26 Apr 2002,Pentecostalist,FY 2002,41,Moldova,12,122
+From: 26 Apr 2002,To: 26 Apr 2002,Pentecostalist,FY 2002,41,Ukraine,23,122
+

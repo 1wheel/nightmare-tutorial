@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jul 2002,To: 08 Jul 2002,Azerbaijan,FY 2002,7,Jewish,7,223
+From: 08 Jul 2002,To: 08 Jul 2002,Belarus,FY 2002,10,Jewish,2,223
+From: 08 Jul 2002,To: 08 Jul 2002,Belarus,FY 2002,10,Pentecostalist,8,223
+From: 08 Jul 2002,To: 08 Jul 2002,Bosnia and Herzegovina,FY 2002,23,Moslem,16,223
+From: 08 Jul 2002,To: 08 Jul 2002,Bosnia and Herzegovina,FY 2002,23,No Religion,7,223
+From: 08 Jul 2002,To: 08 Jul 2002,Iraq,FY 2002,24,Christian,2,223
+From: 08 Jul 2002,To: 08 Jul 2002,Iraq,FY 2002,24,Moslem,15,223
+From: 08 Jul 2002,To: 08 Jul 2002,Iraq,FY 2002,24,Moslem Shiite,7,223
+From: 08 Jul 2002,To: 08 Jul 2002,Kazakhstan,FY 2002,20,Baptist,20,223
+From: 08 Jul 2002,To: 08 Jul 2002,Moldova,FY 2002,19,Jewish,1,223
+From: 08 Jul 2002,To: 08 Jul 2002,Moldova,FY 2002,19,Pentecostalist,18,223
+From: 08 Jul 2002,To: 08 Jul 2002,Russia,FY 2002,31,Baptist,14,223
+From: 08 Jul 2002,To: 08 Jul 2002,Russia,FY 2002,31,Jewish,11,223
+From: 08 Jul 2002,To: 08 Jul 2002,Russia,FY 2002,31,No Religion,6,223
+From: 08 Jul 2002,To: 08 Jul 2002,Serbia,FY 2002,60,No Religion,13,223
+From: 08 Jul 2002,To: 08 Jul 2002,Serbia,FY 2002,60,Orthodox,47,223
+From: 08 Jul 2002,To: 08 Jul 2002,Sudan,FY 2002,4,Protestant,4,223
+From: 08 Jul 2002,To: 08 Jul 2002,Ukraine,FY 2002,4,Baptist,3,223
+From: 08 Jul 2002,To: 08 Jul 2002,Ukraine,FY 2002,4,Jewish,1,223
+From: 08 Jul 2002,To: 08 Jul 2002,Vietnam,FY 2002,21,Protestant,21,223
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jul 2002,To: 08 Jul 2002,Baptist,FY 2002,37,Kazakhstan,20,223
+From: 08 Jul 2002,To: 08 Jul 2002,Baptist,FY 2002,37,Russia,14,223
+From: 08 Jul 2002,To: 08 Jul 2002,Baptist,FY 2002,37,Ukraine,3,223
+From: 08 Jul 2002,To: 08 Jul 2002,Christian,FY 2002,2,Iraq,2,223
+From: 08 Jul 2002,To: 08 Jul 2002,Jewish,FY 2002,22,Azerbaijan,7,223
+From: 08 Jul 2002,To: 08 Jul 2002,Jewish,FY 2002,22,Belarus,2,223
+From: 08 Jul 2002,To: 08 Jul 2002,Jewish,FY 2002,22,Moldova,1,223
+From: 08 Jul 2002,To: 08 Jul 2002,Jewish,FY 2002,22,Russia,11,223
+From: 08 Jul 2002,To: 08 Jul 2002,Jewish,FY 2002,22,Ukraine,1,223
+From: 08 Jul 2002,To: 08 Jul 2002,Moslem,FY 2002,31,Bosnia and Herzegovina,16,223
+From: 08 Jul 2002,To: 08 Jul 2002,Moslem,FY 2002,31,Iraq,15,223
+From: 08 Jul 2002,To: 08 Jul 2002,Moslem Shiite,FY 2002,7,Iraq,7,223
+From: 08 Jul 2002,To: 08 Jul 2002,No Religion,FY 2002,26,Bosnia and Herzegovina,7,223
+From: 08 Jul 2002,To: 08 Jul 2002,No Religion,FY 2002,26,Russia,6,223
+From: 08 Jul 2002,To: 08 Jul 2002,No Religion,FY 2002,26,Serbia,13,223
+From: 08 Jul 2002,To: 08 Jul 2002,Orthodox,FY 2002,47,Serbia,47,223
+From: 08 Jul 2002,To: 08 Jul 2002,Pentecostalist,FY 2002,26,Belarus,8,223
+From: 08 Jul 2002,To: 08 Jul 2002,Pentecostalist,FY 2002,26,Moldova,18,223
+From: 08 Jul 2002,To: 08 Jul 2002,Protestant,FY 2002,25,Sudan,4,223
+From: 08 Jul 2002,To: 08 Jul 2002,Protestant,FY 2002,25,Vietnam,21,223
+

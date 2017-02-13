@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Apr 2002,To: 11 Apr 2002,Afghanistan,FY 2002,33,Moslem,16,240
+From: 11 Apr 2002,To: 11 Apr 2002,Afghanistan,FY 2002,33,Moslem Shiite,6,240
+From: 11 Apr 2002,To: 11 Apr 2002,Afghanistan,FY 2002,33,Moslem Suni,11,240
+From: 11 Apr 2002,To: 11 Apr 2002,Bosnia and Herzegovina,FY 2002,44,Catholic,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Bosnia and Herzegovina,FY 2002,44,Moslem,30,240
+From: 11 Apr 2002,To: 11 Apr 2002,Bosnia and Herzegovina,FY 2002,44,No Religion,10,240
+From: 11 Apr 2002,To: 11 Apr 2002,Cuba,FY 2002,12,Catholic,11,240
+From: 11 Apr 2002,To: 11 Apr 2002,Cuba,FY 2002,12,No Religion,1,240
+From: 11 Apr 2002,To: 11 Apr 2002,Moldova,FY 2002,4,Baptist,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Serbia,FY 2002,31,Moslem,6,240
+From: 11 Apr 2002,To: 11 Apr 2002,Serbia,FY 2002,31,No Religion,8,240
+From: 11 Apr 2002,To: 11 Apr 2002,Serbia,FY 2002,31,Orthodox,17,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Baptist,26,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Catholic,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Evangelical Christian,1,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Jewish,8,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Pentecostalist,41,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Seventh Day Adventist,6,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Uniate,2,240
+From: 11 Apr 2002,To: 11 Apr 2002,Ukraine,FY 2002,92,Unknown,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Vietnam,FY 2002,24,Unknown,24,240
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Apr 2002,To: 11 Apr 2002,Baptist,FY 2002,30,Moldova,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Baptist,FY 2002,30,Ukraine,26,240
+From: 11 Apr 2002,To: 11 Apr 2002,Catholic,FY 2002,19,Bosnia and Herzegovina,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Catholic,FY 2002,19,Cuba,11,240
+From: 11 Apr 2002,To: 11 Apr 2002,Catholic,FY 2002,19,Ukraine,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Evangelical Christian,FY 2002,1,Ukraine,1,240
+From: 11 Apr 2002,To: 11 Apr 2002,Jewish,FY 2002,8,Ukraine,8,240
+From: 11 Apr 2002,To: 11 Apr 2002,Moslem,FY 2002,52,Afghanistan,16,240
+From: 11 Apr 2002,To: 11 Apr 2002,Moslem,FY 2002,52,Bosnia and Herzegovina,30,240
+From: 11 Apr 2002,To: 11 Apr 2002,Moslem,FY 2002,52,Serbia,6,240
+From: 11 Apr 2002,To: 11 Apr 2002,Moslem Shiite,FY 2002,6,Afghanistan,6,240
+From: 11 Apr 2002,To: 11 Apr 2002,Moslem Suni,FY 2002,11,Afghanistan,11,240
+From: 11 Apr 2002,To: 11 Apr 2002,No Religion,FY 2002,19,Bosnia and Herzegovina,10,240
+From: 11 Apr 2002,To: 11 Apr 2002,No Religion,FY 2002,19,Cuba,1,240
+From: 11 Apr 2002,To: 11 Apr 2002,No Religion,FY 2002,19,Serbia,8,240
+From: 11 Apr 2002,To: 11 Apr 2002,Orthodox,FY 2002,17,Serbia,17,240
+From: 11 Apr 2002,To: 11 Apr 2002,Pentecostalist,FY 2002,41,Ukraine,41,240
+From: 11 Apr 2002,To: 11 Apr 2002,Seventh Day Adventist,FY 2002,6,Ukraine,6,240
+From: 11 Apr 2002,To: 11 Apr 2002,Uniate,FY 2002,2,Ukraine,2,240
+From: 11 Apr 2002,To: 11 Apr 2002,Unknown,FY 2002,28,Ukraine,4,240
+From: 11 Apr 2002,To: 11 Apr 2002,Unknown,FY 2002,28,Vietnam,24,240
+

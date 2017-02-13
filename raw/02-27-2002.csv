@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Feb 2002,To: 27 Feb 2002,Afghanistan,FY 2002,34,Moslem,20,237
+From: 27 Feb 2002,To: 27 Feb 2002,Afghanistan,FY 2002,34,Moslem Shiite,14,237
+From: 27 Feb 2002,To: 27 Feb 2002,Belarus,FY 2002,13,Baptist,6,237
+From: 27 Feb 2002,To: 27 Feb 2002,Belarus,FY 2002,13,Jewish,7,237
+From: 27 Feb 2002,To: 27 Feb 2002,Bosnia and Herzegovina,FY 2002,30,Moslem,30,237
+From: 27 Feb 2002,To: 27 Feb 2002,Burundi,FY 2002,1,Catholic,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Cuba,FY 2002,30,Catholic,13,237
+From: 27 Feb 2002,To: 27 Feb 2002,Cuba,FY 2002,30,Christian,7,237
+From: 27 Feb 2002,To: 27 Feb 2002,Cuba,FY 2002,30,Jehovah Witness,4,237
+From: 27 Feb 2002,To: 27 Feb 2002,Cuba,FY 2002,30,No Religion,6,237
+From: 27 Feb 2002,To: 27 Feb 2002,Ethiopia,FY 2002,3,Orthodox,3,237
+From: 27 Feb 2002,To: 27 Feb 2002,Georgia,FY 2002,4,Baptist,4,237
+From: 27 Feb 2002,To: 27 Feb 2002,Iran,FY 2002,1,Jewish,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Latvia,FY 2002,8,Pentecostalist,8,237
+From: 27 Feb 2002,To: 27 Feb 2002,Liberia,FY 2002,16,Catholic,2,237
+From: 27 Feb 2002,To: 27 Feb 2002,Liberia,FY 2002,16,Christian,14,237
+From: 27 Feb 2002,To: 27 Feb 2002,Russia,FY 2002,30,Baptist,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Russia,FY 2002,30,Jewish,10,237
+From: 27 Feb 2002,To: 27 Feb 2002,Russia,FY 2002,30,Pentecostalist,13,237
+From: 27 Feb 2002,To: 27 Feb 2002,Russia,FY 2002,30,Unknown,6,237
+From: 27 Feb 2002,To: 27 Feb 2002,Sierra Leone,FY 2002,18,Bahai,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Sierra Leone,FY 2002,18,Christian,16,237
+From: 27 Feb 2002,To: 27 Feb 2002,Sierra Leone,FY 2002,18,Moslem,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Somalia,FY 2002,1,Moslem,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Vietnam,FY 2002,48,Unknown,48,237
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Feb 2002,To: 27 Feb 2002,Bahai,FY 2002,1,Sierra Leone,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Baptist,FY 2002,11,Belarus,6,237
+From: 27 Feb 2002,To: 27 Feb 2002,Baptist,FY 2002,11,Georgia,4,237
+From: 27 Feb 2002,To: 27 Feb 2002,Baptist,FY 2002,11,Russia,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Catholic,FY 2002,16,Burundi,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Catholic,FY 2002,16,Cuba,13,237
+From: 27 Feb 2002,To: 27 Feb 2002,Catholic,FY 2002,16,Liberia,2,237
+From: 27 Feb 2002,To: 27 Feb 2002,Christian,FY 2002,37,Cuba,7,237
+From: 27 Feb 2002,To: 27 Feb 2002,Christian,FY 2002,37,Liberia,14,237
+From: 27 Feb 2002,To: 27 Feb 2002,Christian,FY 2002,37,Sierra Leone,16,237
+From: 27 Feb 2002,To: 27 Feb 2002,Jehovah Witness,FY 2002,4,Cuba,4,237
+From: 27 Feb 2002,To: 27 Feb 2002,Jewish,FY 2002,18,Belarus,7,237
+From: 27 Feb 2002,To: 27 Feb 2002,Jewish,FY 2002,18,Iran,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Jewish,FY 2002,18,Russia,10,237
+From: 27 Feb 2002,To: 27 Feb 2002,Moslem,FY 2002,52,Afghanistan,20,237
+From: 27 Feb 2002,To: 27 Feb 2002,Moslem,FY 2002,52,Bosnia and Herzegovina,30,237
+From: 27 Feb 2002,To: 27 Feb 2002,Moslem,FY 2002,52,Sierra Leone,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Moslem,FY 2002,52,Somalia,1,237
+From: 27 Feb 2002,To: 27 Feb 2002,Moslem Shiite,FY 2002,14,Afghanistan,14,237
+From: 27 Feb 2002,To: 27 Feb 2002,No Religion,FY 2002,6,Cuba,6,237
+From: 27 Feb 2002,To: 27 Feb 2002,Orthodox,FY 2002,3,Ethiopia,3,237
+From: 27 Feb 2002,To: 27 Feb 2002,Pentecostalist,FY 2002,21,Latvia,8,237
+From: 27 Feb 2002,To: 27 Feb 2002,Pentecostalist,FY 2002,21,Russia,13,237
+From: 27 Feb 2002,To: 27 Feb 2002,Unknown,FY 2002,54,Russia,6,237
+From: 27 Feb 2002,To: 27 Feb 2002,Unknown,FY 2002,54,Vietnam,48,237
+

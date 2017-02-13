@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jan 2002,To: 16 Jan 2002,Belarus,FY 2002,15,Jewish,2,104
+From: 16 Jan 2002,To: 16 Jan 2002,Belarus,FY 2002,15,Orthodox,4,104
+From: 16 Jan 2002,To: 16 Jan 2002,Belarus,FY 2002,15,Pentecostalist,7,104
+From: 16 Jan 2002,To: 16 Jan 2002,Belarus,FY 2002,15,Unknown,2,104
+From: 16 Jan 2002,To: 16 Jan 2002,Bosnia and Herzegovina,FY 2002,30,Moslem,30,104
+From: 16 Jan 2002,To: 16 Jan 2002,Iran,FY 2002,13,Christian,6,104
+From: 16 Jan 2002,To: 16 Jan 2002,Iran,FY 2002,13,Jewish,7,104
+From: 16 Jan 2002,To: 16 Jan 2002,Russia,FY 2002,15,Baptist,3,104
+From: 16 Jan 2002,To: 16 Jan 2002,Russia,FY 2002,15,Jewish,6,104
+From: 16 Jan 2002,To: 16 Jan 2002,Russia,FY 2002,15,Pentecostalist,5,104
+From: 16 Jan 2002,To: 16 Jan 2002,Russia,FY 2002,15,Unknown,1,104
+From: 16 Jan 2002,To: 16 Jan 2002,Sudan,FY 2002,2,Moslem,2,104
+From: 16 Jan 2002,To: 16 Jan 2002,Vietnam,FY 2002,29,Unknown,29,104
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jan 2002,To: 16 Jan 2002,Baptist,FY 2002,3,Russia,3,104
+From: 16 Jan 2002,To: 16 Jan 2002,Christian,FY 2002,6,Iran,6,104
+From: 16 Jan 2002,To: 16 Jan 2002,Jewish,FY 2002,15,Belarus,2,104
+From: 16 Jan 2002,To: 16 Jan 2002,Jewish,FY 2002,15,Iran,7,104
+From: 16 Jan 2002,To: 16 Jan 2002,Jewish,FY 2002,15,Russia,6,104
+From: 16 Jan 2002,To: 16 Jan 2002,Moslem,FY 2002,32,Bosnia and Herzegovina,30,104
+From: 16 Jan 2002,To: 16 Jan 2002,Moslem,FY 2002,32,Sudan,2,104
+From: 16 Jan 2002,To: 16 Jan 2002,Orthodox,FY 2002,4,Belarus,4,104
+From: 16 Jan 2002,To: 16 Jan 2002,Pentecostalist,FY 2002,12,Belarus,7,104
+From: 16 Jan 2002,To: 16 Jan 2002,Pentecostalist,FY 2002,12,Russia,5,104
+From: 16 Jan 2002,To: 16 Jan 2002,Unknown,FY 2002,32,Belarus,2,104
+From: 16 Jan 2002,To: 16 Jan 2002,Unknown,FY 2002,32,Russia,1,104
+From: 16 Jan 2002,To: 16 Jan 2002,Unknown,FY 2002,32,Vietnam,29,104
+

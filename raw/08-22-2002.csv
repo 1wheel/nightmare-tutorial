@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Aug 2002,To: 22 Aug 2002,Afghanistan,FY 2002,17,Moslem,15,139
+From: 22 Aug 2002,To: 22 Aug 2002,Afghanistan,FY 2002,17,Moslem Shiite,2,139
+From: 22 Aug 2002,To: 22 Aug 2002,Bosnia and Herzegovina,FY 2002,14,Moslem,14,139
+From: 22 Aug 2002,To: 22 Aug 2002,Croatia,FY 2002,10,No Religion,10,139
+From: 22 Aug 2002,To: 22 Aug 2002,Iran,FY 2002,23,Bahai,6,139
+From: 22 Aug 2002,To: 22 Aug 2002,Iran,FY 2002,23,Christian,4,139
+From: 22 Aug 2002,To: 22 Aug 2002,Iran,FY 2002,23,Jewish,6,139
+From: 22 Aug 2002,To: 22 Aug 2002,Iran,FY 2002,23,Moslem,2,139
+From: 22 Aug 2002,To: 22 Aug 2002,Iran,FY 2002,23,Sabeans-Mandean,2,139
+From: 22 Aug 2002,To: 22 Aug 2002,Iran,FY 2002,23,Zoroastrian,3,139
+From: 22 Aug 2002,To: 22 Aug 2002,Russia,FY 2002,9,Baptist,1,139
+From: 22 Aug 2002,To: 22 Aug 2002,Russia,FY 2002,9,Jewish,7,139
+From: 22 Aug 2002,To: 22 Aug 2002,Russia,FY 2002,9,No Religion,1,139
+From: 22 Aug 2002,To: 22 Aug 2002,Serbia,FY 2002,25,Orthodox,25,139
+From: 22 Aug 2002,To: 22 Aug 2002,Somalia,FY 2002,1,Moslem,1,139
+From: 22 Aug 2002,To: 22 Aug 2002,Ukraine,FY 2002,40,Baptist,13,139
+From: 22 Aug 2002,To: 22 Aug 2002,Ukraine,FY 2002,40,Jewish,8,139
+From: 22 Aug 2002,To: 22 Aug 2002,Ukraine,FY 2002,40,Pentecostalist,16,139
+From: 22 Aug 2002,To: 22 Aug 2002,Ukraine,FY 2002,40,Seventh Day Adventist,3,139
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Aug 2002,To: 22 Aug 2002,Bahai,FY 2002,6,Iran,6,139
+From: 22 Aug 2002,To: 22 Aug 2002,Baptist,FY 2002,14,Russia,1,139
+From: 22 Aug 2002,To: 22 Aug 2002,Baptist,FY 2002,14,Ukraine,13,139
+From: 22 Aug 2002,To: 22 Aug 2002,Christian,FY 2002,4,Iran,4,139
+From: 22 Aug 2002,To: 22 Aug 2002,Jewish,FY 2002,21,Iran,6,139
+From: 22 Aug 2002,To: 22 Aug 2002,Jewish,FY 2002,21,Russia,7,139
+From: 22 Aug 2002,To: 22 Aug 2002,Jewish,FY 2002,21,Ukraine,8,139
+From: 22 Aug 2002,To: 22 Aug 2002,Moslem,FY 2002,32,Afghanistan,15,139
+From: 22 Aug 2002,To: 22 Aug 2002,Moslem,FY 2002,32,Bosnia and Herzegovina,14,139
+From: 22 Aug 2002,To: 22 Aug 2002,Moslem,FY 2002,32,Iran,2,139
+From: 22 Aug 2002,To: 22 Aug 2002,Moslem,FY 2002,32,Somalia,1,139
+From: 22 Aug 2002,To: 22 Aug 2002,Moslem Shiite,FY 2002,2,Afghanistan,2,139
+From: 22 Aug 2002,To: 22 Aug 2002,No Religion,FY 2002,11,Croatia,10,139
+From: 22 Aug 2002,To: 22 Aug 2002,No Religion,FY 2002,11,Russia,1,139
+From: 22 Aug 2002,To: 22 Aug 2002,Orthodox,FY 2002,25,Serbia,25,139
+From: 22 Aug 2002,To: 22 Aug 2002,Pentecostalist,FY 2002,16,Ukraine,16,139
+From: 22 Aug 2002,To: 22 Aug 2002,Sabeans-Mandean,FY 2002,2,Iran,2,139
+From: 22 Aug 2002,To: 22 Aug 2002,Seventh Day Adventist,FY 2002,3,Ukraine,3,139
+From: 22 Aug 2002,To: 22 Aug 2002,Zoroastrian,FY 2002,3,Iran,3,139
+

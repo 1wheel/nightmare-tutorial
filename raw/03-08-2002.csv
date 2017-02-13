@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Mar 2002,To: 08 Mar 2002,Bosnia and Herzegovina,FY 2002,14,Catholic,4,68
+From: 08 Mar 2002,To: 08 Mar 2002,Bosnia and Herzegovina,FY 2002,14,Moslem,10,68
+From: 08 Mar 2002,To: 08 Mar 2002,Burundi,FY 2002,1,Protestant,1,68
+From: 08 Mar 2002,To: 08 Mar 2002,Moldova,FY 2002,17,Jehovah Witness,4,68
+From: 08 Mar 2002,To: 08 Mar 2002,Moldova,FY 2002,17,Jewish,3,68
+From: 08 Mar 2002,To: 08 Mar 2002,Moldova,FY 2002,17,Pentecostalist,10,68
+From: 08 Mar 2002,To: 08 Mar 2002,Sudan,FY 2002,4,Catholic,4,68
+From: 08 Mar 2002,To: 08 Mar 2002,Ukraine,FY 2002,3,Pentecostalist,3,68
+From: 08 Mar 2002,To: 08 Mar 2002,Vietnam,FY 2002,29,Unknown,29,68
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Mar 2002,To: 08 Mar 2002,Catholic,FY 2002,8,Bosnia and Herzegovina,4,68
+From: 08 Mar 2002,To: 08 Mar 2002,Catholic,FY 2002,8,Sudan,4,68
+From: 08 Mar 2002,To: 08 Mar 2002,Jehovah Witness,FY 2002,4,Moldova,4,68
+From: 08 Mar 2002,To: 08 Mar 2002,Jewish,FY 2002,3,Moldova,3,68
+From: 08 Mar 2002,To: 08 Mar 2002,Moslem,FY 2002,10,Bosnia and Herzegovina,10,68
+From: 08 Mar 2002,To: 08 Mar 2002,Pentecostalist,FY 2002,13,Moldova,10,68
+From: 08 Mar 2002,To: 08 Mar 2002,Pentecostalist,FY 2002,13,Ukraine,3,68
+From: 08 Mar 2002,To: 08 Mar 2002,Protestant,FY 2002,1,Burundi,1,68
+From: 08 Mar 2002,To: 08 Mar 2002,Unknown,FY 2002,29,Vietnam,29,68
+

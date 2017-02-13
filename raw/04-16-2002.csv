@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Apr 2002,To: 16 Apr 2002,Bosnia and Herzegovina,FY 2002,30,Moslem,30,103
+From: 16 Apr 2002,To: 16 Apr 2002,Dem. Rep. Congo,FY 2002,2,Unknown,2,103
+From: 16 Apr 2002,To: 16 Apr 2002,Ethiopia,FY 2002,2,Christian,2,103
+From: 16 Apr 2002,To: 16 Apr 2002,Moldova,FY 2002,8,Baptist,8,103
+From: 16 Apr 2002,To: 16 Apr 2002,Sierra Leone,FY 2002,5,Christian,1,103
+From: 16 Apr 2002,To: 16 Apr 2002,Sierra Leone,FY 2002,5,Moslem,4,103
+From: 16 Apr 2002,To: 16 Apr 2002,Ukraine,FY 2002,56,Baptist,12,103
+From: 16 Apr 2002,To: 16 Apr 2002,Ukraine,FY 2002,56,Pentecostalist,44,103
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Apr 2002,To: 16 Apr 2002,Baptist,FY 2002,20,Moldova,8,103
+From: 16 Apr 2002,To: 16 Apr 2002,Baptist,FY 2002,20,Ukraine,12,103
+From: 16 Apr 2002,To: 16 Apr 2002,Christian,FY 2002,3,Ethiopia,2,103
+From: 16 Apr 2002,To: 16 Apr 2002,Christian,FY 2002,3,Sierra Leone,1,103
+From: 16 Apr 2002,To: 16 Apr 2002,Moslem,FY 2002,34,Bosnia and Herzegovina,30,103
+From: 16 Apr 2002,To: 16 Apr 2002,Moslem,FY 2002,34,Sierra Leone,4,103
+From: 16 Apr 2002,To: 16 Apr 2002,Pentecostalist,FY 2002,44,Ukraine,44,103
+From: 16 Apr 2002,To: 16 Apr 2002,Unknown,FY 2002,2,Dem. Rep. Congo,2,103
+

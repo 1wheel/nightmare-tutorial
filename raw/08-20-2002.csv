@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Aug 2002,To: 20 Aug 2002,Belarus,FY 2002,3,Jewish,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Iraq,FY 2002,1,Moslem,1,82
+From: 20 Aug 2002,To: 20 Aug 2002,Kazakhstan,FY 2002,4,Jewish,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Kazakhstan,FY 2002,4,No Religion,1,82
+From: 20 Aug 2002,To: 20 Aug 2002,Moldova,FY 2002,1,Baptist,1,82
+From: 20 Aug 2002,To: 20 Aug 2002,Russia,FY 2002,27,Evangelical Christian,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Russia,FY 2002,27,Jewish,14,82
+From: 20 Aug 2002,To: 20 Aug 2002,Russia,FY 2002,27,Pentecostalist,10,82
+From: 20 Aug 2002,To: 20 Aug 2002,Ukraine,FY 2002,21,Baptist,9,82
+From: 20 Aug 2002,To: 20 Aug 2002,Ukraine,FY 2002,21,Pentecostalist,9,82
+From: 20 Aug 2002,To: 20 Aug 2002,Ukraine,FY 2002,21,Uniate,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Vietnam,FY 2002,25,Unknown,25,82
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Aug 2002,To: 20 Aug 2002,Baptist,FY 2002,10,Moldova,1,82
+From: 20 Aug 2002,To: 20 Aug 2002,Baptist,FY 2002,10,Ukraine,9,82
+From: 20 Aug 2002,To: 20 Aug 2002,Evangelical Christian,FY 2002,3,Russia,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Jewish,FY 2002,20,Belarus,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Jewish,FY 2002,20,Kazakhstan,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Jewish,FY 2002,20,Russia,14,82
+From: 20 Aug 2002,To: 20 Aug 2002,Moslem,FY 2002,1,Iraq,1,82
+From: 20 Aug 2002,To: 20 Aug 2002,No Religion,FY 2002,1,Kazakhstan,1,82
+From: 20 Aug 2002,To: 20 Aug 2002,Pentecostalist,FY 2002,19,Russia,10,82
+From: 20 Aug 2002,To: 20 Aug 2002,Pentecostalist,FY 2002,19,Ukraine,9,82
+From: 20 Aug 2002,To: 20 Aug 2002,Uniate,FY 2002,3,Ukraine,3,82
+From: 20 Aug 2002,To: 20 Aug 2002,Unknown,FY 2002,25,Vietnam,25,82
+

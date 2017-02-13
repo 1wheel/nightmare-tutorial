@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,FY 2002,12,Baptist,6,57
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,FY 2002,12,Jewish,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,FY 2002,12,No Religion,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Belarus,FY 2002,12,Pentecostalist,2,57
+From: 29 Jul 2002,To: 29 Jul 2002,Iran,FY 2002,3,Moslem,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Iraq,FY 2002,9,Catholic,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Iraq,FY 2002,9,Moslem,4,57
+From: 29 Jul 2002,To: 29 Jul 2002,Iraq,FY 2002,9,Moslem Shiite,2,57
+From: 29 Jul 2002,To: 29 Jul 2002,Kazakhstan,FY 2002,1,Pentecostalist,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,FY 2002,25,Baptist,9,57
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,FY 2002,25,Jewish,6,57
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,FY 2002,25,No Religion,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Russia,FY 2002,25,Pentecostalist,7,57
+From: 29 Jul 2002,To: 29 Jul 2002,Sierra Leone,FY 2002,3,Moslem,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Sudan,FY 2002,4,Catholic,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Sudan,FY 2002,4,Evangelical Christian,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Sudan,FY 2002,4,Protestant,2,57
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jul 2002,To: 29 Jul 2002,Baptist,FY 2002,15,Belarus,6,57
+From: 29 Jul 2002,To: 29 Jul 2002,Baptist,FY 2002,15,Russia,9,57
+From: 29 Jul 2002,To: 29 Jul 2002,Catholic,FY 2002,4,Iraq,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Catholic,FY 2002,4,Sudan,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Evangelical Christian,FY 2002,1,Sudan,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Jewish,FY 2002,7,Belarus,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Jewish,FY 2002,7,Russia,6,57
+From: 29 Jul 2002,To: 29 Jul 2002,Moslem,FY 2002,10,Iran,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Moslem,FY 2002,10,Iraq,4,57
+From: 29 Jul 2002,To: 29 Jul 2002,Moslem,FY 2002,10,Sierra Leone,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Moslem Shiite,FY 2002,2,Iraq,2,57
+From: 29 Jul 2002,To: 29 Jul 2002,No Religion,FY 2002,6,Belarus,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,No Religion,FY 2002,6,Russia,3,57
+From: 29 Jul 2002,To: 29 Jul 2002,Pentecostalist,FY 2002,10,Belarus,2,57
+From: 29 Jul 2002,To: 29 Jul 2002,Pentecostalist,FY 2002,10,Kazakhstan,1,57
+From: 29 Jul 2002,To: 29 Jul 2002,Pentecostalist,FY 2002,10,Russia,7,57
+From: 29 Jul 2002,To: 29 Jul 2002,Protestant,FY 2002,2,Sudan,2,57
+

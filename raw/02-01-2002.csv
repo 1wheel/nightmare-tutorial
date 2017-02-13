@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Feb 2002,To: 01 Feb 2002,Burma,FY 2002,5,Moslem,5,96
+From: 01 Feb 2002,To: 01 Feb 2002,Iran,FY 2002,1,Jewish,1,96
+From: 01 Feb 2002,To: 01 Feb 2002,Moldova,FY 2002,9,Baptist,9,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,Baptist,23,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,Evangelical Christian,5,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,Jewish,11,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,No Religion,2,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,Orthodox,1,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,Pentecostalist,38,96
+From: 01 Feb 2002,To: 01 Feb 2002,Ukraine,FY 2002,81,Unknown,1,96
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Feb 2002,To: 01 Feb 2002,Baptist,FY 2002,32,Moldova,9,96
+From: 01 Feb 2002,To: 01 Feb 2002,Baptist,FY 2002,32,Ukraine,23,96
+From: 01 Feb 2002,To: 01 Feb 2002,Evangelical Christian,FY 2002,5,Ukraine,5,96
+From: 01 Feb 2002,To: 01 Feb 2002,Jewish,FY 2002,12,Iran,1,96
+From: 01 Feb 2002,To: 01 Feb 2002,Jewish,FY 2002,12,Ukraine,11,96
+From: 01 Feb 2002,To: 01 Feb 2002,Moslem,FY 2002,5,Burma,5,96
+From: 01 Feb 2002,To: 01 Feb 2002,No Religion,FY 2002,2,Ukraine,2,96
+From: 01 Feb 2002,To: 01 Feb 2002,Orthodox,FY 2002,1,Ukraine,1,96
+From: 01 Feb 2002,To: 01 Feb 2002,Pentecostalist,FY 2002,38,Ukraine,38,96
+From: 01 Feb 2002,To: 01 Feb 2002,Unknown,FY 2002,1,Ukraine,1,96
+

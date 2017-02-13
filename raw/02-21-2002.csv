@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Feb 2002,To: 21 Feb 2002,Bosnia and Herzegovina,FY 2002,30,Moslem,30,189
+From: 21 Feb 2002,To: 21 Feb 2002,Cuba,FY 2002,30,Catholic,20,189
+From: 21 Feb 2002,To: 21 Feb 2002,Cuba,FY 2002,30,Christian,1,189
+From: 21 Feb 2002,To: 21 Feb 2002,Cuba,FY 2002,30,No Religion,9,189
+From: 21 Feb 2002,To: 21 Feb 2002,Iran,FY 2002,12,Bahai,3,189
+From: 21 Feb 2002,To: 21 Feb 2002,Iran,FY 2002,12,Jewish,9,189
+From: 21 Feb 2002,To: 21 Feb 2002,Mauritania,FY 2002,1,Moslem,1,189
+From: 21 Feb 2002,To: 21 Feb 2002,Serbia,FY 2002,29,No Religion,4,189
+From: 21 Feb 2002,To: 21 Feb 2002,Serbia,FY 2002,29,Orthodox,25,189
+From: 21 Feb 2002,To: 21 Feb 2002,Ukraine,FY 2002,60,Baptist,14,189
+From: 21 Feb 2002,To: 21 Feb 2002,Ukraine,FY 2002,60,Evangelical Christian,3,189
+From: 21 Feb 2002,To: 21 Feb 2002,Ukraine,FY 2002,60,Jewish,21,189
+From: 21 Feb 2002,To: 21 Feb 2002,Ukraine,FY 2002,60,No Religion,2,189
+From: 21 Feb 2002,To: 21 Feb 2002,Ukraine,FY 2002,60,Pentecostalist,17,189
+From: 21 Feb 2002,To: 21 Feb 2002,Ukraine,FY 2002,60,Uniate,3,189
+From: 21 Feb 2002,To: 21 Feb 2002,Vietnam,FY 2002,27,Unknown,27,189
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Feb 2002,To: 21 Feb 2002,Bahai,FY 2002,3,Iran,3,189
+From: 21 Feb 2002,To: 21 Feb 2002,Baptist,FY 2002,14,Ukraine,14,189
+From: 21 Feb 2002,To: 21 Feb 2002,Catholic,FY 2002,20,Cuba,20,189
+From: 21 Feb 2002,To: 21 Feb 2002,Christian,FY 2002,1,Cuba,1,189
+From: 21 Feb 2002,To: 21 Feb 2002,Evangelical Christian,FY 2002,3,Ukraine,3,189
+From: 21 Feb 2002,To: 21 Feb 2002,Jewish,FY 2002,30,Iran,9,189
+From: 21 Feb 2002,To: 21 Feb 2002,Jewish,FY 2002,30,Ukraine,21,189
+From: 21 Feb 2002,To: 21 Feb 2002,Moslem,FY 2002,31,Bosnia and Herzegovina,30,189
+From: 21 Feb 2002,To: 21 Feb 2002,Moslem,FY 2002,31,Mauritania,1,189
+From: 21 Feb 2002,To: 21 Feb 2002,No Religion,FY 2002,15,Cuba,9,189
+From: 21 Feb 2002,To: 21 Feb 2002,No Religion,FY 2002,15,Serbia,4,189
+From: 21 Feb 2002,To: 21 Feb 2002,No Religion,FY 2002,15,Ukraine,2,189
+From: 21 Feb 2002,To: 21 Feb 2002,Orthodox,FY 2002,25,Serbia,25,189
+From: 21 Feb 2002,To: 21 Feb 2002,Pentecostalist,FY 2002,17,Ukraine,17,189
+From: 21 Feb 2002,To: 21 Feb 2002,Uniate,FY 2002,3,Ukraine,3,189
+From: 21 Feb 2002,To: 21 Feb 2002,Unknown,FY 2002,27,Vietnam,27,189
+

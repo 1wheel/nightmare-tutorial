@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Sep 2002,To: 27 Sep 2002,Afghanistan,FY 2002,31,Moslem,10,259
+From: 27 Sep 2002,To: 27 Sep 2002,Afghanistan,FY 2002,31,Moslem Shiite,4,259
+From: 27 Sep 2002,To: 27 Sep 2002,Afghanistan,FY 2002,31,Moslem Suni,17,259
+From: 27 Sep 2002,To: 27 Sep 2002,Bosnia and Herzegovina,FY 2002,71,Jewish,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Bosnia and Herzegovina,FY 2002,71,Moslem,70,259
+From: 27 Sep 2002,To: 27 Sep 2002,Ghana,FY 2002,2,Christian,2,259
+From: 27 Sep 2002,To: 27 Sep 2002,Iran,FY 2002,3,Christian,2,259
+From: 27 Sep 2002,To: 27 Sep 2002,Iran,FY 2002,3,Zoroastrian,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Iraq,FY 2002,5,Moslem,5,259
+From: 27 Sep 2002,To: 27 Sep 2002,Liberia,FY 2002,33,Christian,31,259
+From: 27 Sep 2002,To: 27 Sep 2002,Liberia,FY 2002,33,Pentecostalist,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Liberia,FY 2002,33,Protestant,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Serbia,FY 2002,39,Moslem,8,259
+From: 27 Sep 2002,To: 27 Sep 2002,Serbia,FY 2002,39,Orthodox,31,259
+From: 27 Sep 2002,To: 27 Sep 2002,Sudan,FY 2002,1,Christian,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Ukraine,FY 2002,13,Pentecostalist,13,259
+From: 27 Sep 2002,To: 27 Sep 2002,Vietnam,FY 2002,61,Unknown,61,259
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Sep 2002,To: 27 Sep 2002,Christian,FY 2002,36,Ghana,2,259
+From: 27 Sep 2002,To: 27 Sep 2002,Christian,FY 2002,36,Iran,2,259
+From: 27 Sep 2002,To: 27 Sep 2002,Christian,FY 2002,36,Liberia,31,259
+From: 27 Sep 2002,To: 27 Sep 2002,Christian,FY 2002,36,Sudan,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Jewish,FY 2002,1,Bosnia and Herzegovina,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Moslem,FY 2002,93,Afghanistan,10,259
+From: 27 Sep 2002,To: 27 Sep 2002,Moslem,FY 2002,93,Bosnia and Herzegovina,70,259
+From: 27 Sep 2002,To: 27 Sep 2002,Moslem,FY 2002,93,Iraq,5,259
+From: 27 Sep 2002,To: 27 Sep 2002,Moslem,FY 2002,93,Serbia,8,259
+From: 27 Sep 2002,To: 27 Sep 2002,Moslem Shiite,FY 2002,4,Afghanistan,4,259
+From: 27 Sep 2002,To: 27 Sep 2002,Moslem Suni,FY 2002,17,Afghanistan,17,259
+From: 27 Sep 2002,To: 27 Sep 2002,Orthodox,FY 2002,31,Serbia,31,259
+From: 27 Sep 2002,To: 27 Sep 2002,Pentecostalist,FY 2002,14,Liberia,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Pentecostalist,FY 2002,14,Ukraine,13,259
+From: 27 Sep 2002,To: 27 Sep 2002,Protestant,FY 2002,1,Liberia,1,259
+From: 27 Sep 2002,To: 27 Sep 2002,Unknown,FY 2002,61,Vietnam,61,259
+From: 27 Sep 2002,To: 27 Sep 2002,Zoroastrian,FY 2002,1,Iran,1,259
+

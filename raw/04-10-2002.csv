@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Apr 2002,To: 10 Apr 2002,Afghanistan,FY 2002,64,Moslem,41,271
+From: 10 Apr 2002,To: 10 Apr 2002,Afghanistan,FY 2002,64,Moslem Shiite,6,271
+From: 10 Apr 2002,To: 10 Apr 2002,Afghanistan,FY 2002,64,Moslem Suni,17,271
+From: 10 Apr 2002,To: 10 Apr 2002,Bosnia and Herzegovina,FY 2002,53,Moslem,49,271
+From: 10 Apr 2002,To: 10 Apr 2002,Bosnia and Herzegovina,FY 2002,53,Orthodox,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Cuba,FY 2002,31,Catholic,19,271
+From: 10 Apr 2002,To: 10 Apr 2002,Cuba,FY 2002,31,Jehovah Witness,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Cuba,FY 2002,31,No Religion,8,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ethiopia,FY 2002,17,Christian,12,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ethiopia,FY 2002,17,Moslem,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Iran,FY 2002,1,Moslem,1,271
+From: 10 Apr 2002,To: 10 Apr 2002,Kyrgyzstan,FY 2002,4,Pentecostalist,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Liberia,FY 2002,1,Christian,1,271
+From: 10 Apr 2002,To: 10 Apr 2002,Russia,FY 2002,16,Baptist,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Russia,FY 2002,16,Jewish,6,271
+From: 10 Apr 2002,To: 10 Apr 2002,Russia,FY 2002,16,Pentecostalist,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Serbia,FY 2002,2,Moslem,2,271
+From: 10 Apr 2002,To: 10 Apr 2002,Somalia,FY 2002,10,Moslem,10,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ukraine,FY 2002,67,Baptist,7,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ukraine,FY 2002,67,Evangelical Christian,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ukraine,FY 2002,67,Pentecostalist,51,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ukraine,FY 2002,67,Uniate,1,271
+From: 10 Apr 2002,To: 10 Apr 2002,Ukraine,FY 2002,67,Unknown,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Uzbekistan,FY 2002,5,Jewish,5,271
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Apr 2002,To: 10 Apr 2002,Baptist,FY 2002,12,Russia,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Baptist,FY 2002,12,Ukraine,7,271
+From: 10 Apr 2002,To: 10 Apr 2002,Catholic,FY 2002,19,Cuba,19,271
+From: 10 Apr 2002,To: 10 Apr 2002,Christian,FY 2002,13,Ethiopia,12,271
+From: 10 Apr 2002,To: 10 Apr 2002,Christian,FY 2002,13,Liberia,1,271
+From: 10 Apr 2002,To: 10 Apr 2002,Evangelical Christian,FY 2002,4,Ukraine,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Jehovah Witness,FY 2002,4,Cuba,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Jewish,FY 2002,11,Russia,6,271
+From: 10 Apr 2002,To: 10 Apr 2002,Jewish,FY 2002,11,Uzbekistan,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem,FY 2002,108,Afghanistan,41,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem,FY 2002,108,Bosnia and Herzegovina,49,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem,FY 2002,108,Ethiopia,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem,FY 2002,108,Iran,1,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem,FY 2002,108,Serbia,2,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem,FY 2002,108,Somalia,10,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem Shiite,FY 2002,6,Afghanistan,6,271
+From: 10 Apr 2002,To: 10 Apr 2002,Moslem Suni,FY 2002,17,Afghanistan,17,271
+From: 10 Apr 2002,To: 10 Apr 2002,No Religion,FY 2002,8,Cuba,8,271
+From: 10 Apr 2002,To: 10 Apr 2002,Orthodox,FY 2002,4,Bosnia and Herzegovina,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Pentecostalist,FY 2002,60,Kyrgyzstan,4,271
+From: 10 Apr 2002,To: 10 Apr 2002,Pentecostalist,FY 2002,60,Russia,5,271
+From: 10 Apr 2002,To: 10 Apr 2002,Pentecostalist,FY 2002,60,Ukraine,51,271
+From: 10 Apr 2002,To: 10 Apr 2002,Uniate,FY 2002,1,Ukraine,1,271
+From: 10 Apr 2002,To: 10 Apr 2002,Unknown,FY 2002,4,Ukraine,4,271
+

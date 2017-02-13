@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Sep 2002,To: 18 Sep 2002,Afghanistan,FY 2002,33,Moslem Shiite,14,176
+From: 18 Sep 2002,To: 18 Sep 2002,Afghanistan,FY 2002,33,Moslem Suni,19,176
+From: 18 Sep 2002,To: 18 Sep 2002,Bosnia and Herzegovina,FY 2002,33,Moslem,33,176
+From: 18 Sep 2002,To: 18 Sep 2002,Cuba,FY 2002,26,Catholic,15,176
+From: 18 Sep 2002,To: 18 Sep 2002,Cuba,FY 2002,26,No Religion,11,176
+From: 18 Sep 2002,To: 18 Sep 2002,Dem. Rep. Congo,FY 2002,4,Christian,4,176
+From: 18 Sep 2002,To: 18 Sep 2002,Iran,FY 2002,27,Christian,7,176
+From: 18 Sep 2002,To: 18 Sep 2002,Iran,FY 2002,27,Jewish,17,176
+From: 18 Sep 2002,To: 18 Sep 2002,Iran,FY 2002,27,Zoroastrian,3,176
+From: 18 Sep 2002,To: 18 Sep 2002,Iraq,FY 2002,2,Christian,2,176
+From: 18 Sep 2002,To: 18 Sep 2002,Lebanon,FY 2002,1,Moslem,1,176
+From: 18 Sep 2002,To: 18 Sep 2002,Liberia,FY 2002,7,Christian,1,176
+From: 18 Sep 2002,To: 18 Sep 2002,Liberia,FY 2002,7,Moslem,6,176
+From: 18 Sep 2002,To: 18 Sep 2002,Russia,FY 2002,6,Jewish,4,176
+From: 18 Sep 2002,To: 18 Sep 2002,Russia,FY 2002,6,Unknown,2,176
+From: 18 Sep 2002,To: 18 Sep 2002,Sierra Leone,FY 2002,7,Christian,1,176
+From: 18 Sep 2002,To: 18 Sep 2002,Sierra Leone,FY 2002,7,Moslem,6,176
+From: 18 Sep 2002,To: 18 Sep 2002,Vietnam,FY 2002,30,Unknown,30,176
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Sep 2002,To: 18 Sep 2002,Catholic,FY 2002,15,Cuba,15,176
+From: 18 Sep 2002,To: 18 Sep 2002,Christian,FY 2002,15,Dem. Rep. Congo,4,176
+From: 18 Sep 2002,To: 18 Sep 2002,Christian,FY 2002,15,Iran,7,176
+From: 18 Sep 2002,To: 18 Sep 2002,Christian,FY 2002,15,Iraq,2,176
+From: 18 Sep 2002,To: 18 Sep 2002,Christian,FY 2002,15,Liberia,1,176
+From: 18 Sep 2002,To: 18 Sep 2002,Christian,FY 2002,15,Sierra Leone,1,176
+From: 18 Sep 2002,To: 18 Sep 2002,Jewish,FY 2002,21,Iran,17,176
+From: 18 Sep 2002,To: 18 Sep 2002,Jewish,FY 2002,21,Russia,4,176
+From: 18 Sep 2002,To: 18 Sep 2002,Moslem,FY 2002,46,Bosnia and Herzegovina,33,176
+From: 18 Sep 2002,To: 18 Sep 2002,Moslem,FY 2002,46,Lebanon,1,176
+From: 18 Sep 2002,To: 18 Sep 2002,Moslem,FY 2002,46,Liberia,6,176
+From: 18 Sep 2002,To: 18 Sep 2002,Moslem,FY 2002,46,Sierra Leone,6,176
+From: 18 Sep 2002,To: 18 Sep 2002,Moslem Shiite,FY 2002,14,Afghanistan,14,176
+From: 18 Sep 2002,To: 18 Sep 2002,Moslem Suni,FY 2002,19,Afghanistan,19,176
+From: 18 Sep 2002,To: 18 Sep 2002,No Religion,FY 2002,11,Cuba,11,176
+From: 18 Sep 2002,To: 18 Sep 2002,Unknown,FY 2002,32,Russia,2,176
+From: 18 Sep 2002,To: 18 Sep 2002,Unknown,FY 2002,32,Vietnam,30,176
+From: 18 Sep 2002,To: 18 Sep 2002,Zoroastrian,FY 2002,3,Iran,3,176
+

@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Feb 2002,To: 07 Feb 2002,Bosnia and Herzegovina,FY 2002,34,Catholic,5,175
+From: 07 Feb 2002,To: 07 Feb 2002,Bosnia and Herzegovina,FY 2002,34,Moslem,25,175
+From: 07 Feb 2002,To: 07 Feb 2002,Bosnia and Herzegovina,FY 2002,34,No Religion,4,175
+From: 07 Feb 2002,To: 07 Feb 2002,Cuba,FY 2002,15,Catholic,6,175
+From: 07 Feb 2002,To: 07 Feb 2002,Cuba,FY 2002,15,Jehovah Witness,5,175
+From: 07 Feb 2002,To: 07 Feb 2002,Cuba,FY 2002,15,No Religion,3,175
+From: 07 Feb 2002,To: 07 Feb 2002,Cuba,FY 2002,15,Seventh Day Adventist,1,175
+From: 07 Feb 2002,To: 07 Feb 2002,Ethiopia,FY 2002,12,Moslem,12,175
+From: 07 Feb 2002,To: 07 Feb 2002,Moldova,FY 2002,29,Baptist,20,175
+From: 07 Feb 2002,To: 07 Feb 2002,Moldova,FY 2002,29,Jehovah Witness,4,175
+From: 07 Feb 2002,To: 07 Feb 2002,Moldova,FY 2002,29,Jewish,4,175
+From: 07 Feb 2002,To: 07 Feb 2002,Moldova,FY 2002,29,Pentecostalist,1,175
+From: 07 Feb 2002,To: 07 Feb 2002,Serbia,FY 2002,26,No Religion,13,175
+From: 07 Feb 2002,To: 07 Feb 2002,Serbia,FY 2002,26,Orthodox,13,175
+From: 07 Feb 2002,To: 07 Feb 2002,Ukraine,FY 2002,31,Baptist,6,175
+From: 07 Feb 2002,To: 07 Feb 2002,Ukraine,FY 2002,31,Pentecostalist,25,175
+From: 07 Feb 2002,To: 07 Feb 2002,Vietnam,FY 2002,28,Unknown,28,175
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Feb 2002,To: 07 Feb 2002,Baptist,FY 2002,26,Moldova,20,175
+From: 07 Feb 2002,To: 07 Feb 2002,Baptist,FY 2002,26,Ukraine,6,175
+From: 07 Feb 2002,To: 07 Feb 2002,Catholic,FY 2002,11,Bosnia and Herzegovina,5,175
+From: 07 Feb 2002,To: 07 Feb 2002,Catholic,FY 2002,11,Cuba,6,175
+From: 07 Feb 2002,To: 07 Feb 2002,Jehovah Witness,FY 2002,9,Cuba,5,175
+From: 07 Feb 2002,To: 07 Feb 2002,Jehovah Witness,FY 2002,9,Moldova,4,175
+From: 07 Feb 2002,To: 07 Feb 2002,Jewish,FY 2002,4,Moldova,4,175
+From: 07 Feb 2002,To: 07 Feb 2002,Moslem,FY 2002,37,Bosnia and Herzegovina,25,175
+From: 07 Feb 2002,To: 07 Feb 2002,Moslem,FY 2002,37,Ethiopia,12,175
+From: 07 Feb 2002,To: 07 Feb 2002,No Religion,FY 2002,20,Bosnia and Herzegovina,4,175
+From: 07 Feb 2002,To: 07 Feb 2002,No Religion,FY 2002,20,Cuba,3,175
+From: 07 Feb 2002,To: 07 Feb 2002,No Religion,FY 2002,20,Serbia,13,175
+From: 07 Feb 2002,To: 07 Feb 2002,Orthodox,FY 2002,13,Serbia,13,175
+From: 07 Feb 2002,To: 07 Feb 2002,Pentecostalist,FY 2002,26,Moldova,1,175
+From: 07 Feb 2002,To: 07 Feb 2002,Pentecostalist,FY 2002,26,Ukraine,25,175
+From: 07 Feb 2002,To: 07 Feb 2002,Seventh Day Adventist,FY 2002,1,Cuba,1,175
+From: 07 Feb 2002,To: 07 Feb 2002,Unknown,FY 2002,28,Vietnam,28,175
+

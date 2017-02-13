@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jul 2002,To: 10 Jul 2002,Afghanistan,FY 2002,5,Moslem,5,126
+From: 10 Jul 2002,To: 10 Jul 2002,Bosnia and Herzegovina,FY 2002,16,Moslem,16,126
+From: 10 Jul 2002,To: 10 Jul 2002,Burma,FY 2002,3,Buddhist,3,126
+From: 10 Jul 2002,To: 10 Jul 2002,Cuba,FY 2002,16,Catholic,4,126
+From: 10 Jul 2002,To: 10 Jul 2002,Cuba,FY 2002,16,Jehovah Witness,3,126
+From: 10 Jul 2002,To: 10 Jul 2002,Cuba,FY 2002,16,No Religion,6,126
+From: 10 Jul 2002,To: 10 Jul 2002,Cuba,FY 2002,16,Seventh Day Adventist,3,126
+From: 10 Jul 2002,To: 10 Jul 2002,Ethiopia,FY 2002,2,Orthodox,2,126
+From: 10 Jul 2002,To: 10 Jul 2002,Russia,FY 2002,13,Baptist,8,126
+From: 10 Jul 2002,To: 10 Jul 2002,Russia,FY 2002,13,Jewish,4,126
+From: 10 Jul 2002,To: 10 Jul 2002,Russia,FY 2002,13,Unknown,1,126
+From: 10 Jul 2002,To: 10 Jul 2002,Rwanda,FY 2002,1,Catholic,1,126
+From: 10 Jul 2002,To: 10 Jul 2002,Somalia,FY 2002,1,Moslem,1,126
+From: 10 Jul 2002,To: 10 Jul 2002,Vietnam,FY 2002,69,Protestant,46,126
+From: 10 Jul 2002,To: 10 Jul 2002,Vietnam,FY 2002,69,Unknown,23,126
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jul 2002,To: 10 Jul 2002,Baptist,FY 2002,8,Russia,8,126
+From: 10 Jul 2002,To: 10 Jul 2002,Buddhist,FY 2002,3,Burma,3,126
+From: 10 Jul 2002,To: 10 Jul 2002,Catholic,FY 2002,5,Cuba,4,126
+From: 10 Jul 2002,To: 10 Jul 2002,Catholic,FY 2002,5,Rwanda,1,126
+From: 10 Jul 2002,To: 10 Jul 2002,Jehovah Witness,FY 2002,3,Cuba,3,126
+From: 10 Jul 2002,To: 10 Jul 2002,Jewish,FY 2002,4,Russia,4,126
+From: 10 Jul 2002,To: 10 Jul 2002,Moslem,FY 2002,22,Afghanistan,5,126
+From: 10 Jul 2002,To: 10 Jul 2002,Moslem,FY 2002,22,Bosnia and Herzegovina,16,126
+From: 10 Jul 2002,To: 10 Jul 2002,Moslem,FY 2002,22,Somalia,1,126
+From: 10 Jul 2002,To: 10 Jul 2002,No Religion,FY 2002,6,Cuba,6,126
+From: 10 Jul 2002,To: 10 Jul 2002,Orthodox,FY 2002,2,Ethiopia,2,126
+From: 10 Jul 2002,To: 10 Jul 2002,Protestant,FY 2002,46,Vietnam,46,126
+From: 10 Jul 2002,To: 10 Jul 2002,Seventh Day Adventist,FY 2002,3,Cuba,3,126
+From: 10 Jul 2002,To: 10 Jul 2002,Unknown,FY 2002,24,Russia,1,126
+From: 10 Jul 2002,To: 10 Jul 2002,Unknown,FY 2002,24,Vietnam,23,126
+

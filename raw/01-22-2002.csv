@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jan 2002,To: 22 Jan 2002,Belarus,FY 2002,3,Jewish,1,135
+From: 22 Jan 2002,To: 22 Jan 2002,Belarus,FY 2002,3,Orthodox,2,135
+From: 22 Jan 2002,To: 22 Jan 2002,Bosnia and Herzegovina,FY 2002,26,Moslem,26,135
+From: 22 Jan 2002,To: 22 Jan 2002,Burundi,FY 2002,17,Catholic,9,135
+From: 22 Jan 2002,To: 22 Jan 2002,Burundi,FY 2002,17,Christian,8,135
+From: 22 Jan 2002,To: 22 Jan 2002,Dem. Rep. Congo,FY 2002,1,Christian,1,135
+From: 22 Jan 2002,To: 22 Jan 2002,Moldova,FY 2002,31,Baptist,17,135
+From: 22 Jan 2002,To: 22 Jan 2002,Moldova,FY 2002,31,Pentecostalist,14,135
+From: 22 Jan 2002,To: 22 Jan 2002,Russia,FY 2002,23,Baptist,2,135
+From: 22 Jan 2002,To: 22 Jan 2002,Russia,FY 2002,23,Jewish,2,135
+From: 22 Jan 2002,To: 22 Jan 2002,Russia,FY 2002,23,Pentecostalist,15,135
+From: 22 Jan 2002,To: 22 Jan 2002,Russia,FY 2002,23,Unknown,4,135
+From: 22 Jan 2002,To: 22 Jan 2002,Rwanda,FY 2002,6,Catholic,6,135
+From: 22 Jan 2002,To: 22 Jan 2002,Ukraine,FY 2002,28,Baptist,3,135
+From: 22 Jan 2002,To: 22 Jan 2002,Ukraine,FY 2002,28,Evangelical Christian,11,135
+From: 22 Jan 2002,To: 22 Jan 2002,Ukraine,FY 2002,28,Jewish,6,135
+From: 22 Jan 2002,To: 22 Jan 2002,Ukraine,FY 2002,28,Pentecostalist,8,135
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jan 2002,To: 22 Jan 2002,Baptist,FY 2002,22,Moldova,17,135
+From: 22 Jan 2002,To: 22 Jan 2002,Baptist,FY 2002,22,Russia,2,135
+From: 22 Jan 2002,To: 22 Jan 2002,Baptist,FY 2002,22,Ukraine,3,135
+From: 22 Jan 2002,To: 22 Jan 2002,Catholic,FY 2002,15,Burundi,9,135
+From: 22 Jan 2002,To: 22 Jan 2002,Catholic,FY 2002,15,Rwanda,6,135
+From: 22 Jan 2002,To: 22 Jan 2002,Christian,FY 2002,9,Burundi,8,135
+From: 22 Jan 2002,To: 22 Jan 2002,Christian,FY 2002,9,Dem. Rep. Congo,1,135
+From: 22 Jan 2002,To: 22 Jan 2002,Evangelical Christian,FY 2002,11,Ukraine,11,135
+From: 22 Jan 2002,To: 22 Jan 2002,Jewish,FY 2002,9,Belarus,1,135
+From: 22 Jan 2002,To: 22 Jan 2002,Jewish,FY 2002,9,Russia,2,135
+From: 22 Jan 2002,To: 22 Jan 2002,Jewish,FY 2002,9,Ukraine,6,135
+From: 22 Jan 2002,To: 22 Jan 2002,Moslem,FY 2002,26,Bosnia and Herzegovina,26,135
+From: 22 Jan 2002,To: 22 Jan 2002,Orthodox,FY 2002,2,Belarus,2,135
+From: 22 Jan 2002,To: 22 Jan 2002,Pentecostalist,FY 2002,37,Moldova,14,135
+From: 22 Jan 2002,To: 22 Jan 2002,Pentecostalist,FY 2002,37,Russia,15,135
+From: 22 Jan 2002,To: 22 Jan 2002,Pentecostalist,FY 2002,37,Ukraine,8,135
+From: 22 Jan 2002,To: 22 Jan 2002,Unknown,FY 2002,4,Russia,4,135
+

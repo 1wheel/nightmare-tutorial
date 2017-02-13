@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Sep 2002,To: 30 Sep 2002,Afghanistan,FY 2002,15,Moslem Shiite,5,248
+From: 30 Sep 2002,To: 30 Sep 2002,Afghanistan,FY 2002,15,Moslem Suni,10,248
+From: 30 Sep 2002,To: 30 Sep 2002,Belarus,FY 2002,2,Jewish,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Bosnia and Herzegovina,FY 2002,72,Moslem,70,248
+From: 30 Sep 2002,To: 30 Sep 2002,Bosnia and Herzegovina,FY 2002,72,No Religion,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Ethiopia,FY 2002,2,Protestant,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Iran,FY 2002,21,Bahai,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Iran,FY 2002,21,Christian,13,248
+From: 30 Sep 2002,To: 30 Sep 2002,Iran,FY 2002,21,Zoroastrian,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Iraq,FY 2002,3,Moslem,3,248
+From: 30 Sep 2002,To: 30 Sep 2002,Kazakhstan,FY 2002,1,Baptist,1,248
+From: 30 Sep 2002,To: 30 Sep 2002,Russia,FY 2002,18,Baptist,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Russia,FY 2002,18,Jewish,9,248
+From: 30 Sep 2002,To: 30 Sep 2002,Russia,FY 2002,18,No Religion,1,248
+From: 30 Sep 2002,To: 30 Sep 2002,Russia,FY 2002,18,Unknown,6,248
+From: 30 Sep 2002,To: 30 Sep 2002,Serbia,FY 2002,32,No Religion,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Serbia,FY 2002,32,Orthodox,28,248
+From: 30 Sep 2002,To: 30 Sep 2002,Sierra Leone,FY 2002,4,Christian,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Sudan,FY 2002,49,Catholic,3,248
+From: 30 Sep 2002,To: 30 Sep 2002,Sudan,FY 2002,49,Moslem,22,248
+From: 30 Sep 2002,To: 30 Sep 2002,Sudan,FY 2002,49,Orthodox,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Sudan,FY 2002,49,Pentecostalist,6,248
+From: 30 Sep 2002,To: 30 Sep 2002,Sudan,FY 2002,49,Protestant,16,248
+From: 30 Sep 2002,To: 30 Sep 2002,Uzbekistan,FY 2002,2,Moslem,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Vietnam,FY 2002,27,Unknown,27,248
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Sep 2002,To: 30 Sep 2002,Bahai,FY 2002,4,Iran,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Baptist,FY 2002,3,Kazakhstan,1,248
+From: 30 Sep 2002,To: 30 Sep 2002,Baptist,FY 2002,3,Russia,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Catholic,FY 2002,3,Sudan,3,248
+From: 30 Sep 2002,To: 30 Sep 2002,Christian,FY 2002,17,Iran,13,248
+From: 30 Sep 2002,To: 30 Sep 2002,Christian,FY 2002,17,Sierra Leone,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Jewish,FY 2002,11,Belarus,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Jewish,FY 2002,11,Russia,9,248
+From: 30 Sep 2002,To: 30 Sep 2002,Moslem,FY 2002,97,Bosnia and Herzegovina,70,248
+From: 30 Sep 2002,To: 30 Sep 2002,Moslem,FY 2002,97,Iraq,3,248
+From: 30 Sep 2002,To: 30 Sep 2002,Moslem,FY 2002,97,Sudan,22,248
+From: 30 Sep 2002,To: 30 Sep 2002,Moslem,FY 2002,97,Uzbekistan,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Moslem Shiite,FY 2002,5,Afghanistan,5,248
+From: 30 Sep 2002,To: 30 Sep 2002,Moslem Suni,FY 2002,10,Afghanistan,10,248
+From: 30 Sep 2002,To: 30 Sep 2002,No Religion,FY 2002,7,Bosnia and Herzegovina,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,No Religion,FY 2002,7,Russia,1,248
+From: 30 Sep 2002,To: 30 Sep 2002,No Religion,FY 2002,7,Serbia,4,248
+From: 30 Sep 2002,To: 30 Sep 2002,Orthodox,FY 2002,30,Serbia,28,248
+From: 30 Sep 2002,To: 30 Sep 2002,Orthodox,FY 2002,30,Sudan,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Pentecostalist,FY 2002,6,Sudan,6,248
+From: 30 Sep 2002,To: 30 Sep 2002,Protestant,FY 2002,18,Ethiopia,2,248
+From: 30 Sep 2002,To: 30 Sep 2002,Protestant,FY 2002,18,Sudan,16,248
+From: 30 Sep 2002,To: 30 Sep 2002,Unknown,FY 2002,33,Russia,6,248
+From: 30 Sep 2002,To: 30 Sep 2002,Unknown,FY 2002,33,Vietnam,27,248
+From: 30 Sep 2002,To: 30 Sep 2002,Zoroastrian,FY 2002,4,Iran,4,248
+

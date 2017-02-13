@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Jun 2002,To: 20 Jun 2002,Belarus,FY 2002,15,No Religion,4,176
+From: 20 Jun 2002,To: 20 Jun 2002,Belarus,FY 2002,15,Pentecostalist,11,176
+From: 20 Jun 2002,To: 20 Jun 2002,Bosnia and Herzegovina,FY 2002,7,No Religion,7,176
+From: 20 Jun 2002,To: 20 Jun 2002,Cuba,FY 2002,11,Catholic,6,176
+From: 20 Jun 2002,To: 20 Jun 2002,Cuba,FY 2002,11,Jehovah Witness,5,176
+From: 20 Jun 2002,To: 20 Jun 2002,Moldova,FY 2002,2,Seventh Day Adventist,2,176
+From: 20 Jun 2002,To: 20 Jun 2002,Serbia,FY 2002,24,No Religion,8,176
+From: 20 Jun 2002,To: 20 Jun 2002,Serbia,FY 2002,24,Orthodox,16,176
+From: 20 Jun 2002,To: 20 Jun 2002,Somalia,FY 2002,1,Moslem,1,176
+From: 20 Jun 2002,To: 20 Jun 2002,Sudan,FY 2002,25,Catholic,8,176
+From: 20 Jun 2002,To: 20 Jun 2002,Sudan,FY 2002,25,Moslem,3,176
+From: 20 Jun 2002,To: 20 Jun 2002,Sudan,FY 2002,25,Protestant,14,176
+From: 20 Jun 2002,To: 20 Jun 2002,Ukraine,FY 2002,47,Evangelical Christian,2,176
+From: 20 Jun 2002,To: 20 Jun 2002,Ukraine,FY 2002,47,Jewish,9,176
+From: 20 Jun 2002,To: 20 Jun 2002,Ukraine,FY 2002,47,Pentecostalist,36,176
+From: 20 Jun 2002,To: 20 Jun 2002,Vietnam,FY 2002,44,Protestant,20,176
+From: 20 Jun 2002,To: 20 Jun 2002,Vietnam,FY 2002,44,Unknown,24,176
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Jun 2002,To: 20 Jun 2002,Catholic,FY 2002,14,Cuba,6,176
+From: 20 Jun 2002,To: 20 Jun 2002,Catholic,FY 2002,14,Sudan,8,176
+From: 20 Jun 2002,To: 20 Jun 2002,Evangelical Christian,FY 2002,2,Ukraine,2,176
+From: 20 Jun 2002,To: 20 Jun 2002,Jehovah Witness,FY 2002,5,Cuba,5,176
+From: 20 Jun 2002,To: 20 Jun 2002,Jewish,FY 2002,9,Ukraine,9,176
+From: 20 Jun 2002,To: 20 Jun 2002,Moslem,FY 2002,4,Somalia,1,176
+From: 20 Jun 2002,To: 20 Jun 2002,Moslem,FY 2002,4,Sudan,3,176
+From: 20 Jun 2002,To: 20 Jun 2002,No Religion,FY 2002,19,Belarus,4,176
+From: 20 Jun 2002,To: 20 Jun 2002,No Religion,FY 2002,19,Bosnia and Herzegovina,7,176
+From: 20 Jun 2002,To: 20 Jun 2002,No Religion,FY 2002,19,Serbia,8,176
+From: 20 Jun 2002,To: 20 Jun 2002,Orthodox,FY 2002,16,Serbia,16,176
+From: 20 Jun 2002,To: 20 Jun 2002,Pentecostalist,FY 2002,47,Belarus,11,176
+From: 20 Jun 2002,To: 20 Jun 2002,Pentecostalist,FY 2002,47,Ukraine,36,176
+From: 20 Jun 2002,To: 20 Jun 2002,Protestant,FY 2002,34,Sudan,14,176
+From: 20 Jun 2002,To: 20 Jun 2002,Protestant,FY 2002,34,Vietnam,20,176
+From: 20 Jun 2002,To: 20 Jun 2002,Seventh Day Adventist,FY 2002,2,Moldova,2,176
+From: 20 Jun 2002,To: 20 Jun 2002,Unknown,FY 2002,24,Vietnam,24,176
+

@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jan 2002,To: 10 Jan 2002,Belarus,FY 2002,13,Baptist,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Belarus,FY 2002,13,Pentecostalist,11,128
+From: 10 Jan 2002,To: 10 Jan 2002,Cuba,FY 2002,28,Catholic,19,128
+From: 10 Jan 2002,To: 10 Jan 2002,Cuba,FY 2002,28,Christian,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Cuba,FY 2002,28,No Religion,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Cuba,FY 2002,28,Pentecostalist,5,128
+From: 10 Jan 2002,To: 10 Jan 2002,Iran,FY 2002,19,Bahai,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Iran,FY 2002,19,Christian,11,128
+From: 10 Jan 2002,To: 10 Jan 2002,Iran,FY 2002,19,Jewish,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Moldova,FY 2002,2,Baptist,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Nigeria,FY 2002,2,Unknown,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Russia,FY 2002,8,Baptist,3,128
+From: 10 Jan 2002,To: 10 Jan 2002,Russia,FY 2002,8,Jewish,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Russia,FY 2002,8,Unknown,1,128
+From: 10 Jan 2002,To: 10 Jan 2002,Ukraine,FY 2002,29,Baptist,3,128
+From: 10 Jan 2002,To: 10 Jan 2002,Ukraine,FY 2002,29,Jewish,14,128
+From: 10 Jan 2002,To: 10 Jan 2002,Ukraine,FY 2002,29,No Religion,7,128
+From: 10 Jan 2002,To: 10 Jan 2002,Ukraine,FY 2002,29,Uniate,5,128
+From: 10 Jan 2002,To: 10 Jan 2002,Uzbekistan,FY 2002,7,Baptist,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Uzbekistan,FY 2002,7,Christian,3,128
+From: 10 Jan 2002,To: 10 Jan 2002,Vietnam,FY 2002,20,Unknown,20,128
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jan 2002,To: 10 Jan 2002,Bahai,FY 2002,4,Iran,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Baptist,FY 2002,14,Belarus,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Baptist,FY 2002,14,Moldova,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Baptist,FY 2002,14,Russia,3,128
+From: 10 Jan 2002,To: 10 Jan 2002,Baptist,FY 2002,14,Ukraine,3,128
+From: 10 Jan 2002,To: 10 Jan 2002,Baptist,FY 2002,14,Uzbekistan,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Catholic,FY 2002,19,Cuba,19,128
+From: 10 Jan 2002,To: 10 Jan 2002,Christian,FY 2002,16,Cuba,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Christian,FY 2002,16,Iran,11,128
+From: 10 Jan 2002,To: 10 Jan 2002,Christian,FY 2002,16,Uzbekistan,3,128
+From: 10 Jan 2002,To: 10 Jan 2002,Jewish,FY 2002,22,Iran,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Jewish,FY 2002,22,Russia,4,128
+From: 10 Jan 2002,To: 10 Jan 2002,Jewish,FY 2002,22,Ukraine,14,128
+From: 10 Jan 2002,To: 10 Jan 2002,No Religion,FY 2002,9,Cuba,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,No Religion,FY 2002,9,Ukraine,7,128
+From: 10 Jan 2002,To: 10 Jan 2002,Pentecostalist,FY 2002,16,Belarus,11,128
+From: 10 Jan 2002,To: 10 Jan 2002,Pentecostalist,FY 2002,16,Cuba,5,128
+From: 10 Jan 2002,To: 10 Jan 2002,Uniate,FY 2002,5,Ukraine,5,128
+From: 10 Jan 2002,To: 10 Jan 2002,Unknown,FY 2002,23,Nigeria,2,128
+From: 10 Jan 2002,To: 10 Jan 2002,Unknown,FY 2002,23,Russia,1,128
+From: 10 Jan 2002,To: 10 Jan 2002,Unknown,FY 2002,23,Vietnam,20,128
+

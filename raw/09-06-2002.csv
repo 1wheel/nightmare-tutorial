@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Sep 2002,To: 06 Sep 2002,Afghanistan,FY 2002,9,Moslem,2,97
+From: 06 Sep 2002,To: 06 Sep 2002,Afghanistan,FY 2002,9,Moslem Suni,7,97
+From: 06 Sep 2002,To: 06 Sep 2002,Ethiopia,FY 2002,5,Christian,2,97
+From: 06 Sep 2002,To: 06 Sep 2002,Ethiopia,FY 2002,5,Moslem,2,97
+From: 06 Sep 2002,To: 06 Sep 2002,Ethiopia,FY 2002,5,Orthodox,1,97
+From: 06 Sep 2002,To: 06 Sep 2002,Haiti,FY 2002,3,Christian,3,97
+From: 06 Sep 2002,To: 06 Sep 2002,Iran,FY 2002,3,Moslem,3,97
+From: 06 Sep 2002,To: 06 Sep 2002,Serbia,FY 2002,11,Moslem,11,97
+From: 06 Sep 2002,To: 06 Sep 2002,Somalia,FY 2002,5,Moslem,5,97
+From: 06 Sep 2002,To: 06 Sep 2002,Ukraine,FY 2002,25,Baptist,13,97
+From: 06 Sep 2002,To: 06 Sep 2002,Ukraine,FY 2002,25,Pentecostalist,12,97
+From: 06 Sep 2002,To: 06 Sep 2002,Vietnam,FY 2002,36,Unknown,36,97
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Sep 2002,To: 06 Sep 2002,Baptist,FY 2002,13,Ukraine,13,97
+From: 06 Sep 2002,To: 06 Sep 2002,Christian,FY 2002,5,Ethiopia,2,97
+From: 06 Sep 2002,To: 06 Sep 2002,Christian,FY 2002,5,Haiti,3,97
+From: 06 Sep 2002,To: 06 Sep 2002,Moslem,FY 2002,23,Afghanistan,2,97
+From: 06 Sep 2002,To: 06 Sep 2002,Moslem,FY 2002,23,Ethiopia,2,97
+From: 06 Sep 2002,To: 06 Sep 2002,Moslem,FY 2002,23,Iran,3,97
+From: 06 Sep 2002,To: 06 Sep 2002,Moslem,FY 2002,23,Serbia,11,97
+From: 06 Sep 2002,To: 06 Sep 2002,Moslem,FY 2002,23,Somalia,5,97
+From: 06 Sep 2002,To: 06 Sep 2002,Moslem Suni,FY 2002,7,Afghanistan,7,97
+From: 06 Sep 2002,To: 06 Sep 2002,Orthodox,FY 2002,1,Ethiopia,1,97
+From: 06 Sep 2002,To: 06 Sep 2002,Pentecostalist,FY 2002,12,Ukraine,12,97
+From: 06 Sep 2002,To: 06 Sep 2002,Unknown,FY 2002,36,Vietnam,36,97
+

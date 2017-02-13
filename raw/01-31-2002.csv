@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jan 2002,To: 31 Jan 2002,Azerbaijan,FY 2002,4,No Religion,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,Belarus,FY 2002,10,Jewish,5,183
+From: 31 Jan 2002,To: 31 Jan 2002,Belarus,FY 2002,10,No Religion,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,Belarus,FY 2002,10,Pentecostalist,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Bosnia and Herzegovina,FY 2002,30,Catholic,8,183
+From: 31 Jan 2002,To: 31 Jan 2002,Bosnia and Herzegovina,FY 2002,30,Moslem,13,183
+From: 31 Jan 2002,To: 31 Jan 2002,Bosnia and Herzegovina,FY 2002,30,Orthodox,9,183
+From: 31 Jan 2002,To: 31 Jan 2002,Burma,FY 2002,24,Buddhist,24,183
+From: 31 Jan 2002,To: 31 Jan 2002,Cuba,FY 2002,28,Catholic,12,183
+From: 31 Jan 2002,To: 31 Jan 2002,Cuba,FY 2002,28,Christian,2,183
+From: 31 Jan 2002,To: 31 Jan 2002,Cuba,FY 2002,28,Evangelical Christian,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Cuba,FY 2002,28,No Religion,13,183
+From: 31 Jan 2002,To: 31 Jan 2002,Iran,FY 2002,1,Jewish,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Iraq,FY 2002,1,Moslem,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Kazakhstan,FY 2002,3,Jewish,3,183
+From: 31 Jan 2002,To: 31 Jan 2002,Russia,FY 2002,13,Baptist,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,Russia,FY 2002,13,Jewish,9,183
+From: 31 Jan 2002,To: 31 Jan 2002,Syria,FY 2002,1,Moslem,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Thailand,FY 2002,2,Buddhist,2,183
+From: 31 Jan 2002,To: 31 Jan 2002,Ukraine,FY 2002,61,Baptist,19,183
+From: 31 Jan 2002,To: 31 Jan 2002,Ukraine,FY 2002,61,Jewish,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,Ukraine,FY 2002,61,Pentecostalist,35,183
+From: 31 Jan 2002,To: 31 Jan 2002,Ukraine,FY 2002,61,Uniate,3,183
+From: 31 Jan 2002,To: 31 Jan 2002,Vietnam,FY 2002,5,Catholic,5,183
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jan 2002,To: 31 Jan 2002,Baptist,FY 2002,23,Russia,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,Baptist,FY 2002,23,Ukraine,19,183
+From: 31 Jan 2002,To: 31 Jan 2002,Buddhist,FY 2002,26,Burma,24,183
+From: 31 Jan 2002,To: 31 Jan 2002,Buddhist,FY 2002,26,Thailand,2,183
+From: 31 Jan 2002,To: 31 Jan 2002,Catholic,FY 2002,25,Bosnia and Herzegovina,8,183
+From: 31 Jan 2002,To: 31 Jan 2002,Catholic,FY 2002,25,Cuba,12,183
+From: 31 Jan 2002,To: 31 Jan 2002,Catholic,FY 2002,25,Vietnam,5,183
+From: 31 Jan 2002,To: 31 Jan 2002,Christian,FY 2002,2,Cuba,2,183
+From: 31 Jan 2002,To: 31 Jan 2002,Evangelical Christian,FY 2002,1,Cuba,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Jewish,FY 2002,22,Belarus,5,183
+From: 31 Jan 2002,To: 31 Jan 2002,Jewish,FY 2002,22,Iran,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Jewish,FY 2002,22,Kazakhstan,3,183
+From: 31 Jan 2002,To: 31 Jan 2002,Jewish,FY 2002,22,Russia,9,183
+From: 31 Jan 2002,To: 31 Jan 2002,Jewish,FY 2002,22,Ukraine,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,Moslem,FY 2002,15,Bosnia and Herzegovina,13,183
+From: 31 Jan 2002,To: 31 Jan 2002,Moslem,FY 2002,15,Iraq,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Moslem,FY 2002,15,Syria,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,No Religion,FY 2002,21,Azerbaijan,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,No Religion,FY 2002,21,Belarus,4,183
+From: 31 Jan 2002,To: 31 Jan 2002,No Religion,FY 2002,21,Cuba,13,183
+From: 31 Jan 2002,To: 31 Jan 2002,Orthodox,FY 2002,9,Bosnia and Herzegovina,9,183
+From: 31 Jan 2002,To: 31 Jan 2002,Pentecostalist,FY 2002,36,Belarus,1,183
+From: 31 Jan 2002,To: 31 Jan 2002,Pentecostalist,FY 2002,36,Ukraine,35,183
+From: 31 Jan 2002,To: 31 Jan 2002,Uniate,FY 2002,3,Ukraine,3,183
+
