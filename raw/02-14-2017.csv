@@ -2,30 +2,74 @@ textbox9,textbox11,Textbox34
 Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
 
 Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
-From: 14 Feb 2017,To: 14 Feb 2017,Afghanistan,FY 2017,8,Moslem Shiite,6,87
-From: 14 Feb 2017,To: 14 Feb 2017,Afghanistan,FY 2017,8,Moslem Suni,2,87
-From: 14 Feb 2017,To: 14 Feb 2017,Eritrea,FY 2017,2,Moslem,2,87
-From: 14 Feb 2017,To: 14 Feb 2017,Iraq,FY 2017,6,Christian,6,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Baptist,5,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Pentecostalist,4,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Seventh Day Adventist,1,87
-From: 14 Feb 2017,To: 14 Feb 2017,Syria,FY 2017,15,Moslem Suni,15,87
-From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Baptist,6,87
-From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Pentecostalist,32,87
-From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Seventh Day Adventist,2,87
-From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Uniate,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Afghanistan,FY 2017,9,Moslem Shiite,7,385
+From: 14 Feb 2017,To: 14 Feb 2017,Afghanistan,FY 2017,9,Moslem Suni,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Burma,FY 2017,28,Christian,27,385
+From: 14 Feb 2017,To: 14 Feb 2017,Burma,FY 2017,28,Moslem,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Cuba,FY 2017,17,Catholic,9,385
+From: 14 Feb 2017,To: 14 Feb 2017,Cuba,FY 2017,17,Jehovah Witness,5,385
+From: 14 Feb 2017,To: 14 Feb 2017,Cuba,FY 2017,17,No Religion,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Cuba,FY 2017,17,Other Religion,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Dem. Rep. Congo,FY 2017,4,Catholic,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Dem. Rep. Congo,FY 2017,4,Christian,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Dem. Rep. Congo,FY 2017,4,Protestant,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Eritrea,FY 2017,6,Moslem,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Eritrea,FY 2017,6,Orthodox,4,385
+From: 14 Feb 2017,To: 14 Feb 2017,Ethiopia,FY 2017,2,Moslem,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Iraq,FY 2017,50,Christian,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Iraq,FY 2017,50,Moslem Shiite,10,385
+From: 14 Feb 2017,To: 14 Feb 2017,Iraq,FY 2017,50,Moslem Suni,26,385
+From: 14 Feb 2017,To: 14 Feb 2017,Iraq,FY 2017,50,Sabeans-Mandean,8,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Baptist,5,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Pentecostalist,4,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Seventh Day Adventist,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Pakistan,FY 2017,4,Ahmadiyya,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Pakistan,FY 2017,4,Christian,3,385
+From: 14 Feb 2017,To: 14 Feb 2017,Russia,FY 2017,22,Baptist,14,385
+From: 14 Feb 2017,To: 14 Feb 2017,Russia,FY 2017,22,Jewish,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Russia,FY 2017,22,Pentecostalist,7,385
+From: 14 Feb 2017,To: 14 Feb 2017,Somalia,FY 2017,106,Moslem,100,385
+From: 14 Feb 2017,To: 14 Feb 2017,Somalia,FY 2017,106,Moslem Suni,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Sudan,FY 2017,6,Moslem,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Syria,FY 2017,75,Moslem Suni,75,385
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Baptist,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Pentecostalist,32,385
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Seventh Day Adventist,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Uniate,6,385
 
 Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
-From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,11,Moldova,5,87
-From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,11,Ukraine,6,87
-From: 14 Feb 2017,To: 14 Feb 2017,Christian,FY 2017,6,Iraq,6,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,2,Eritrea,2,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moslem Shiite,FY 2017,6,Afghanistan,6,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,17,Afghanistan,2,87
-From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,17,Syria,15,87
-From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,36,Moldova,4,87
-From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,36,Ukraine,32,87
-From: 14 Feb 2017,To: 14 Feb 2017,Seventh Day Adventist,FY 2017,3,Moldova,1,87
-From: 14 Feb 2017,To: 14 Feb 2017,Seventh Day Adventist,FY 2017,3,Ukraine,2,87
-From: 14 Feb 2017,To: 14 Feb 2017,Uniate,FY 2017,6,Ukraine,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Ahmadiyya,FY 2017,1,Pakistan,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,25,Moldova,5,385
+From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,25,Russia,14,385
+From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,25,Ukraine,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Catholic,FY 2017,10,Cuba,9,385
+From: 14 Feb 2017,To: 14 Feb 2017,Catholic,FY 2017,10,Dem. Rep. Congo,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Christian,FY 2017,37,Burma,27,385
+From: 14 Feb 2017,To: 14 Feb 2017,Christian,FY 2017,37,Dem. Rep. Congo,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Christian,FY 2017,37,Iraq,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Christian,FY 2017,37,Pakistan,3,385
+From: 14 Feb 2017,To: 14 Feb 2017,Jehovah Witness,FY 2017,5,Cuba,5,385
+From: 14 Feb 2017,To: 14 Feb 2017,Jewish,FY 2017,1,Russia,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,111,Burma,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,111,Eritrea,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,111,Ethiopia,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,111,Somalia,100,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,111,Sudan,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Shiite,FY 2017,17,Afghanistan,7,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Shiite,FY 2017,17,Iraq,10,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,109,Afghanistan,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,109,Iraq,26,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,109,Somalia,6,385
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,109,Syria,75,385
+From: 14 Feb 2017,To: 14 Feb 2017,No Religion,FY 2017,2,Cuba,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Orthodox,FY 2017,4,Eritrea,4,385
+From: 14 Feb 2017,To: 14 Feb 2017,Other Religion,FY 2017,1,Cuba,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,43,Moldova,4,385
+From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,43,Russia,7,385
+From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,43,Ukraine,32,385
+From: 14 Feb 2017,To: 14 Feb 2017,Protestant,FY 2017,2,Dem. Rep. Congo,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Sabeans-Mandean,FY 2017,8,Iraq,8,385
+From: 14 Feb 2017,To: 14 Feb 2017,Seventh Day Adventist,FY 2017,3,Moldova,1,385
+From: 14 Feb 2017,To: 14 Feb 2017,Seventh Day Adventist,FY 2017,3,Ukraine,2,385
+From: 14 Feb 2017,To: 14 Feb 2017,Uniate,FY 2017,6,Ukraine,6,385
 

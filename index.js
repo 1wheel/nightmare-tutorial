@@ -2,11 +2,20 @@ const { csvFormat } = require('d3-dsv');
 const d3 = require('d3');
 const Nightmare = require('nightmare');
 const {readFileSync, writeFileSync } = require('fs');
+const fs = require('fs')
 const glob = require('glob')
 
 
+//delete recent dates
+d3.timeDay.range(new Date(2017, 1, 1), new Date(), 1)
+  .map(d3.timeFormat('%m/%d/%Y'))
+  .forEach(function(d){
+    // fs.unlinkSync(__dirname + '/raw/' + d.replace(/\//g, '-') + '.csv')
+})
+
 var prevDownloaded = glob.sync(__dirname + '/raw/*.csv')
   .map(d => d.split('raw/')[1].replace('.csv', '').replace(/-/g, '/'))
+  // .forEach(zzzz)
 
 const dates = d3.timeDay.range(new Date(2002, 0, 1), new Date(), 1)
   .map(d3.timeFormat('%m/%d/%Y'))
