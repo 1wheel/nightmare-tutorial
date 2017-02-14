@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2005,To: 02 Nov 2005,Bosnia and Herzegovina,FY 2006,2,Unknown,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Cuba,FY 2006,35,Catholic,15,222
+From: 02 Nov 2005,To: 02 Nov 2005,Cuba,FY 2006,35,Jehovah Witness,5,222
+From: 02 Nov 2005,To: 02 Nov 2005,Cuba,FY 2006,35,No Religion,11,222
+From: 02 Nov 2005,To: 02 Nov 2005,Cuba,FY 2006,35,Pentecostalist,4,222
+From: 02 Nov 2005,To: 02 Nov 2005,Iran,FY 2006,41,Bahai,4,222
+From: 02 Nov 2005,To: 02 Nov 2005,Iran,FY 2006,41,Christian,11,222
+From: 02 Nov 2005,To: 02 Nov 2005,Iran,FY 2006,41,Jewish,3,222
+From: 02 Nov 2005,To: 02 Nov 2005,Iran,FY 2006,41,Protestant,5,222
+From: 02 Nov 2005,To: 02 Nov 2005,Iran,FY 2006,41,Sabeans-Mandean,16,222
+From: 02 Nov 2005,To: 02 Nov 2005,Iran,FY 2006,41,Zoroastrian,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Kazakhstan,FY 2006,14,Baptist,9,222
+From: 02 Nov 2005,To: 02 Nov 2005,Kazakhstan,FY 2006,14,Jewish,1,222
+From: 02 Nov 2005,To: 02 Nov 2005,Kazakhstan,FY 2006,14,Moslem,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Kazakhstan,FY 2006,14,Pentecostalist,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Laos,FY 2006,27,Ancestral Worship,27,222
+From: 02 Nov 2005,To: 02 Nov 2005,Moldova,FY 2006,30,Baptist,19,222
+From: 02 Nov 2005,To: 02 Nov 2005,Moldova,FY 2006,30,Pentecostalist,11,222
+From: 02 Nov 2005,To: 02 Nov 2005,Russia,FY 2006,35,Moslem,35,222
+From: 02 Nov 2005,To: 02 Nov 2005,Serbia,FY 2006,3,Unknown,3,222
+From: 02 Nov 2005,To: 02 Nov 2005,Vietnam,FY 2006,35,Buddhist,1,222
+From: 02 Nov 2005,To: 02 Nov 2005,Vietnam,FY 2006,35,Catholic,10,222
+From: 02 Nov 2005,To: 02 Nov 2005,Vietnam,FY 2006,35,Hindu,4,222
+From: 02 Nov 2005,To: 02 Nov 2005,Vietnam,FY 2006,35,No Religion,15,222
+From: 02 Nov 2005,To: 02 Nov 2005,Vietnam,FY 2006,35,Other Religion,5,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2005,To: 02 Nov 2005,Ancestral Worship,FY 2006,27,Laos,27,222
+From: 02 Nov 2005,To: 02 Nov 2005,Bahai,FY 2006,4,Iran,4,222
+From: 02 Nov 2005,To: 02 Nov 2005,Baptist,FY 2006,28,Kazakhstan,9,222
+From: 02 Nov 2005,To: 02 Nov 2005,Baptist,FY 2006,28,Moldova,19,222
+From: 02 Nov 2005,To: 02 Nov 2005,Buddhist,FY 2006,1,Vietnam,1,222
+From: 02 Nov 2005,To: 02 Nov 2005,Catholic,FY 2006,25,Cuba,15,222
+From: 02 Nov 2005,To: 02 Nov 2005,Catholic,FY 2006,25,Vietnam,10,222
+From: 02 Nov 2005,To: 02 Nov 2005,Christian,FY 2006,11,Iran,11,222
+From: 02 Nov 2005,To: 02 Nov 2005,Hindu,FY 2006,4,Vietnam,4,222
+From: 02 Nov 2005,To: 02 Nov 2005,Jehovah Witness,FY 2006,5,Cuba,5,222
+From: 02 Nov 2005,To: 02 Nov 2005,Jewish,FY 2006,4,Iran,3,222
+From: 02 Nov 2005,To: 02 Nov 2005,Jewish,FY 2006,4,Kazakhstan,1,222
+From: 02 Nov 2005,To: 02 Nov 2005,Moslem,FY 2006,37,Kazakhstan,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Moslem,FY 2006,37,Russia,35,222
+From: 02 Nov 2005,To: 02 Nov 2005,No Religion,FY 2006,26,Cuba,11,222
+From: 02 Nov 2005,To: 02 Nov 2005,No Religion,FY 2006,26,Vietnam,15,222
+From: 02 Nov 2005,To: 02 Nov 2005,Other Religion,FY 2006,5,Vietnam,5,222
+From: 02 Nov 2005,To: 02 Nov 2005,Pentecostalist,FY 2006,17,Cuba,4,222
+From: 02 Nov 2005,To: 02 Nov 2005,Pentecostalist,FY 2006,17,Kazakhstan,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Pentecostalist,FY 2006,17,Moldova,11,222
+From: 02 Nov 2005,To: 02 Nov 2005,Protestant,FY 2006,5,Iran,5,222
+From: 02 Nov 2005,To: 02 Nov 2005,Sabeans-Mandean,FY 2006,16,Iran,16,222
+From: 02 Nov 2005,To: 02 Nov 2005,Unknown,FY 2006,5,Bosnia and Herzegovina,2,222
+From: 02 Nov 2005,To: 02 Nov 2005,Unknown,FY 2006,5,Serbia,3,222
+From: 02 Nov 2005,To: 02 Nov 2005,Zoroastrian,FY 2006,2,Iran,2,222
+

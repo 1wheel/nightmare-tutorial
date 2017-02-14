@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jan 2011,To: 06 Jan 2011,Bhutan,FY 2011,106,Buddhist,25,222
+From: 06 Jan 2011,To: 06 Jan 2011,Bhutan,FY 2011,106,Christian,10,222
+From: 06 Jan 2011,To: 06 Jan 2011,Bhutan,FY 2011,106,Hindu,59,222
+From: 06 Jan 2011,To: 06 Jan 2011,Bhutan,FY 2011,106,Kirat,12,222
+From: 06 Jan 2011,To: 06 Jan 2011,Cuba,FY 2011,68,Baptist,2,222
+From: 06 Jan 2011,To: 06 Jan 2011,Cuba,FY 2011,68,Catholic,29,222
+From: 06 Jan 2011,To: 06 Jan 2011,Cuba,FY 2011,68,Evangelical Christian,4,222
+From: 06 Jan 2011,To: 06 Jan 2011,Cuba,FY 2011,68,Jehovah Witness,5,222
+From: 06 Jan 2011,To: 06 Jan 2011,Cuba,FY 2011,68,No Religion,28,222
+From: 06 Jan 2011,To: 06 Jan 2011,Eritrea,FY 2011,2,Orthodox,2,222
+From: 06 Jan 2011,To: 06 Jan 2011,Ethiopia,FY 2011,1,Orthodox,1,222
+From: 06 Jan 2011,To: 06 Jan 2011,Iraq,FY 2011,34,Catholic,12,222
+From: 06 Jan 2011,To: 06 Jan 2011,Iraq,FY 2011,34,Christian,4,222
+From: 06 Jan 2011,To: 06 Jan 2011,Iraq,FY 2011,34,Moslem Shiite,8,222
+From: 06 Jan 2011,To: 06 Jan 2011,Iraq,FY 2011,34,Moslem Suni,9,222
+From: 06 Jan 2011,To: 06 Jan 2011,Iraq,FY 2011,34,Orthodox,1,222
+From: 06 Jan 2011,To: 06 Jan 2011,Sudan,FY 2011,11,Moslem,11,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jan 2011,To: 06 Jan 2011,Baptist,FY 2011,2,Cuba,2,222
+From: 06 Jan 2011,To: 06 Jan 2011,Buddhist,FY 2011,25,Bhutan,25,222
+From: 06 Jan 2011,To: 06 Jan 2011,Catholic,FY 2011,41,Cuba,29,222
+From: 06 Jan 2011,To: 06 Jan 2011,Catholic,FY 2011,41,Iraq,12,222
+From: 06 Jan 2011,To: 06 Jan 2011,Christian,FY 2011,14,Bhutan,10,222
+From: 06 Jan 2011,To: 06 Jan 2011,Christian,FY 2011,14,Iraq,4,222
+From: 06 Jan 2011,To: 06 Jan 2011,Evangelical Christian,FY 2011,4,Cuba,4,222
+From: 06 Jan 2011,To: 06 Jan 2011,Hindu,FY 2011,59,Bhutan,59,222
+From: 06 Jan 2011,To: 06 Jan 2011,Jehovah Witness,FY 2011,5,Cuba,5,222
+From: 06 Jan 2011,To: 06 Jan 2011,Kirat,FY 2011,12,Bhutan,12,222
+From: 06 Jan 2011,To: 06 Jan 2011,Moslem,FY 2011,11,Sudan,11,222
+From: 06 Jan 2011,To: 06 Jan 2011,Moslem Shiite,FY 2011,8,Iraq,8,222
+From: 06 Jan 2011,To: 06 Jan 2011,Moslem Suni,FY 2011,9,Iraq,9,222
+From: 06 Jan 2011,To: 06 Jan 2011,No Religion,FY 2011,28,Cuba,28,222
+From: 06 Jan 2011,To: 06 Jan 2011,Orthodox,FY 2011,4,Eritrea,2,222
+From: 06 Jan 2011,To: 06 Jan 2011,Orthodox,FY 2011,4,Ethiopia,1,222
+From: 06 Jan 2011,To: 06 Jan 2011,Orthodox,FY 2011,4,Iraq,1,222
+

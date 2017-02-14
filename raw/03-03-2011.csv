@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Mar 2011,To: 03 Mar 2011,Bhutan,FY 2011,88,Buddhist,18,156
+From: 03 Mar 2011,To: 03 Mar 2011,Bhutan,FY 2011,88,Christian,8,156
+From: 03 Mar 2011,To: 03 Mar 2011,Bhutan,FY 2011,88,Hindu,57,156
+From: 03 Mar 2011,To: 03 Mar 2011,Bhutan,FY 2011,88,Kirat,5,156
+From: 03 Mar 2011,To: 03 Mar 2011,Burma,FY 2011,37,Buddhist,23,156
+From: 03 Mar 2011,To: 03 Mar 2011,Burma,FY 2011,37,Catholic,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Burma,FY 2011,37,Christian,13,156
+From: 03 Mar 2011,To: 03 Mar 2011,Colombia,FY 2011,1,Catholic,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Eritrea,FY 2011,1,Moslem,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Ethiopia,FY 2011,2,Christian,2,156
+From: 03 Mar 2011,To: 03 Mar 2011,Iraq,FY 2011,10,Moslem Shiite,8,156
+From: 03 Mar 2011,To: 03 Mar 2011,Iraq,FY 2011,10,Moslem Suni,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Iraq,FY 2011,10,Zoroastrian,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Liberia,FY 2011,3,Christian,3,156
+From: 03 Mar 2011,To: 03 Mar 2011,Sierra Leone,FY 2011,3,Christian,3,156
+From: 03 Mar 2011,To: 03 Mar 2011,Ukraine,FY 2011,11,Baptist,4,156
+From: 03 Mar 2011,To: 03 Mar 2011,Ukraine,FY 2011,11,Jewish,4,156
+From: 03 Mar 2011,To: 03 Mar 2011,Ukraine,FY 2011,11,Pentecostalist,3,156
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Mar 2011,To: 03 Mar 2011,Baptist,FY 2011,4,Ukraine,4,156
+From: 03 Mar 2011,To: 03 Mar 2011,Buddhist,FY 2011,41,Bhutan,18,156
+From: 03 Mar 2011,To: 03 Mar 2011,Buddhist,FY 2011,41,Burma,23,156
+From: 03 Mar 2011,To: 03 Mar 2011,Catholic,FY 2011,2,Burma,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Catholic,FY 2011,2,Colombia,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Christian,FY 2011,29,Bhutan,8,156
+From: 03 Mar 2011,To: 03 Mar 2011,Christian,FY 2011,29,Burma,13,156
+From: 03 Mar 2011,To: 03 Mar 2011,Christian,FY 2011,29,Ethiopia,2,156
+From: 03 Mar 2011,To: 03 Mar 2011,Christian,FY 2011,29,Liberia,3,156
+From: 03 Mar 2011,To: 03 Mar 2011,Christian,FY 2011,29,Sierra Leone,3,156
+From: 03 Mar 2011,To: 03 Mar 2011,Hindu,FY 2011,57,Bhutan,57,156
+From: 03 Mar 2011,To: 03 Mar 2011,Jewish,FY 2011,4,Ukraine,4,156
+From: 03 Mar 2011,To: 03 Mar 2011,Kirat,FY 2011,5,Bhutan,5,156
+From: 03 Mar 2011,To: 03 Mar 2011,Moslem,FY 2011,1,Eritrea,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Moslem Shiite,FY 2011,8,Iraq,8,156
+From: 03 Mar 2011,To: 03 Mar 2011,Moslem Suni,FY 2011,1,Iraq,1,156
+From: 03 Mar 2011,To: 03 Mar 2011,Pentecostalist,FY 2011,3,Ukraine,3,156
+From: 03 Mar 2011,To: 03 Mar 2011,Zoroastrian,FY 2011,1,Iraq,1,156
+

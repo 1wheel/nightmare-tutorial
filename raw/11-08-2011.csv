@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Nov 2011,To: 08 Nov 2011,Bhutan,FY 2012,70,Buddhist,15,199
+From: 08 Nov 2011,To: 08 Nov 2011,Bhutan,FY 2012,70,Christian,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Bhutan,FY 2012,70,Hindu,45,199
+From: 08 Nov 2011,To: 08 Nov 2011,Bhutan,FY 2012,70,Kirat,9,199
+From: 08 Nov 2011,To: 08 Nov 2011,Burma,FY 2012,59,Animist,5,199
+From: 08 Nov 2011,To: 08 Nov 2011,Burma,FY 2012,59,Buddhist,4,199
+From: 08 Nov 2011,To: 08 Nov 2011,Burma,FY 2012,59,Catholic,12,199
+From: 08 Nov 2011,To: 08 Nov 2011,Burma,FY 2012,59,Christian,38,199
+From: 08 Nov 2011,To: 08 Nov 2011,Cuba,FY 2012,15,Catholic,5,199
+From: 08 Nov 2011,To: 08 Nov 2011,Cuba,FY 2012,15,Evangelical Christian,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Cuba,FY 2012,15,Jehovah Witness,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Cuba,FY 2012,15,No Religion,4,199
+From: 08 Nov 2011,To: 08 Nov 2011,Cuba,FY 2012,15,Pentecostalist,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Eritrea,FY 2012,19,Catholic,9,199
+From: 08 Nov 2011,To: 08 Nov 2011,Eritrea,FY 2012,19,Orthodox,10,199
+From: 08 Nov 2011,To: 08 Nov 2011,Ethiopia,FY 2012,7,Christian,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Ethiopia,FY 2012,7,Moslem,5,199
+From: 08 Nov 2011,To: 08 Nov 2011,Ethiopia,FY 2012,7,Orthodox,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Iraq,FY 2012,3,Christian,3,199
+From: 08 Nov 2011,To: 08 Nov 2011,Pakistan,FY 2012,1,Ahmadiyya,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Russia,FY 2012,3,Jewish,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Russia,FY 2012,3,Pentecostalist,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Somalia,FY 2012,20,Moslem,20,199
+From: 08 Nov 2011,To: 08 Nov 2011,Tanzania,FY 2012,2,Moslem,2,199
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Nov 2011,To: 08 Nov 2011,Ahmadiyya,FY 2012,1,Pakistan,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Animist,FY 2012,5,Burma,5,199
+From: 08 Nov 2011,To: 08 Nov 2011,Buddhist,FY 2012,19,Bhutan,15,199
+From: 08 Nov 2011,To: 08 Nov 2011,Buddhist,FY 2012,19,Burma,4,199
+From: 08 Nov 2011,To: 08 Nov 2011,Catholic,FY 2012,26,Burma,12,199
+From: 08 Nov 2011,To: 08 Nov 2011,Catholic,FY 2012,26,Cuba,5,199
+From: 08 Nov 2011,To: 08 Nov 2011,Catholic,FY 2012,26,Eritrea,9,199
+From: 08 Nov 2011,To: 08 Nov 2011,Christian,FY 2012,43,Bhutan,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Christian,FY 2012,43,Burma,38,199
+From: 08 Nov 2011,To: 08 Nov 2011,Christian,FY 2012,43,Ethiopia,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Christian,FY 2012,43,Iraq,3,199
+From: 08 Nov 2011,To: 08 Nov 2011,Evangelical Christian,FY 2012,2,Cuba,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Hindu,FY 2012,45,Bhutan,45,199
+From: 08 Nov 2011,To: 08 Nov 2011,Jehovah Witness,FY 2012,2,Cuba,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Jewish,FY 2012,2,Russia,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Kirat,FY 2012,9,Bhutan,9,199
+From: 08 Nov 2011,To: 08 Nov 2011,Moslem,FY 2012,27,Ethiopia,5,199
+From: 08 Nov 2011,To: 08 Nov 2011,Moslem,FY 2012,27,Somalia,20,199
+From: 08 Nov 2011,To: 08 Nov 2011,Moslem,FY 2012,27,Tanzania,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,No Religion,FY 2012,4,Cuba,4,199
+From: 08 Nov 2011,To: 08 Nov 2011,Orthodox,FY 2012,11,Eritrea,10,199
+From: 08 Nov 2011,To: 08 Nov 2011,Orthodox,FY 2012,11,Ethiopia,1,199
+From: 08 Nov 2011,To: 08 Nov 2011,Pentecostalist,FY 2012,3,Cuba,2,199
+From: 08 Nov 2011,To: 08 Nov 2011,Pentecostalist,FY 2012,3,Russia,1,199
+

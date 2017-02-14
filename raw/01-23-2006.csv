@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jan 2006,To: 23 Jan 2006,Afghanistan,FY 2006,4,Moslem Suni,4,213
+From: 23 Jan 2006,To: 23 Jan 2006,Belarus,FY 2006,19,Baptist,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Belarus,FY 2006,19,Jewish,2,213
+From: 23 Jan 2006,To: 23 Jan 2006,Belarus,FY 2006,19,Pentecostalist,12,213
+From: 23 Jan 2006,To: 23 Jan 2006,Cameroon,FY 2006,9,Christian,9,213
+From: 23 Jan 2006,To: 23 Jan 2006,Dem. Rep. Congo,FY 2006,5,Christian,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Liberia,FY 2006,50,Christian,41,213
+From: 23 Jan 2006,To: 23 Jan 2006,Liberia,FY 2006,50,Moslem,2,213
+From: 23 Jan 2006,To: 23 Jan 2006,Liberia,FY 2006,50,Pentecostalist,1,213
+From: 23 Jan 2006,To: 23 Jan 2006,Liberia,FY 2006,50,Protestant,6,213
+From: 23 Jan 2006,To: 23 Jan 2006,Russia,FY 2006,35,Moslem,35,213
+From: 23 Jan 2006,To: 23 Jan 2006,Somalia,FY 2006,7,Moslem,7,213
+From: 23 Jan 2006,To: 23 Jan 2006,Sudan,FY 2006,28,Catholic,12,213
+From: 23 Jan 2006,To: 23 Jan 2006,Sudan,FY 2006,28,Moslem,16,213
+From: 23 Jan 2006,To: 23 Jan 2006,Togo,FY 2006,5,Christian,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Ukraine,FY 2006,29,Baptist,7,213
+From: 23 Jan 2006,To: 23 Jan 2006,Ukraine,FY 2006,29,Jewish,6,213
+From: 23 Jan 2006,To: 23 Jan 2006,Ukraine,FY 2006,29,Pentecostalist,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Ukraine,FY 2006,29,Uniate,11,213
+From: 23 Jan 2006,To: 23 Jan 2006,Uzbekistan,FY 2006,22,Baptist,4,213
+From: 23 Jan 2006,To: 23 Jan 2006,Uzbekistan,FY 2006,22,Evangelical Christian,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Uzbekistan,FY 2006,22,Jewish,13,213
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jan 2006,To: 23 Jan 2006,Baptist,FY 2006,16,Belarus,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Baptist,FY 2006,16,Ukraine,7,213
+From: 23 Jan 2006,To: 23 Jan 2006,Baptist,FY 2006,16,Uzbekistan,4,213
+From: 23 Jan 2006,To: 23 Jan 2006,Catholic,FY 2006,12,Sudan,12,213
+From: 23 Jan 2006,To: 23 Jan 2006,Christian,FY 2006,60,Cameroon,9,213
+From: 23 Jan 2006,To: 23 Jan 2006,Christian,FY 2006,60,Dem. Rep. Congo,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Christian,FY 2006,60,Liberia,41,213
+From: 23 Jan 2006,To: 23 Jan 2006,Christian,FY 2006,60,Togo,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Evangelical Christian,FY 2006,5,Uzbekistan,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Jewish,FY 2006,21,Belarus,2,213
+From: 23 Jan 2006,To: 23 Jan 2006,Jewish,FY 2006,21,Ukraine,6,213
+From: 23 Jan 2006,To: 23 Jan 2006,Jewish,FY 2006,21,Uzbekistan,13,213
+From: 23 Jan 2006,To: 23 Jan 2006,Moslem,FY 2006,60,Liberia,2,213
+From: 23 Jan 2006,To: 23 Jan 2006,Moslem,FY 2006,60,Russia,35,213
+From: 23 Jan 2006,To: 23 Jan 2006,Moslem,FY 2006,60,Somalia,7,213
+From: 23 Jan 2006,To: 23 Jan 2006,Moslem,FY 2006,60,Sudan,16,213
+From: 23 Jan 2006,To: 23 Jan 2006,Moslem Suni,FY 2006,4,Afghanistan,4,213
+From: 23 Jan 2006,To: 23 Jan 2006,Pentecostalist,FY 2006,18,Belarus,12,213
+From: 23 Jan 2006,To: 23 Jan 2006,Pentecostalist,FY 2006,18,Liberia,1,213
+From: 23 Jan 2006,To: 23 Jan 2006,Pentecostalist,FY 2006,18,Ukraine,5,213
+From: 23 Jan 2006,To: 23 Jan 2006,Protestant,FY 2006,6,Liberia,6,213
+From: 23 Jan 2006,To: 23 Jan 2006,Uniate,FY 2006,11,Ukraine,11,213
+

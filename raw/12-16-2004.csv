@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Dec 2004,To: 16 Dec 2004,Afghanistan,FY 2005,2,Moslem,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Armenia,FY 2005,4,Pentecostalist,4,346
+From: 16 Dec 2004,To: 16 Dec 2004,Azerbaijan,FY 2005,7,Jewish,7,346
+From: 16 Dec 2004,To: 16 Dec 2004,Burma,FY 2005,35,Buddhist,11,346
+From: 16 Dec 2004,To: 16 Dec 2004,Burma,FY 2005,35,Protestant,24,346
+From: 16 Dec 2004,To: 16 Dec 2004,Cuba,FY 2005,70,Catholic,17,346
+From: 16 Dec 2004,To: 16 Dec 2004,Cuba,FY 2005,70,Evangelical Christian,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Cuba,FY 2005,70,Jehovah Witness,11,346
+From: 16 Dec 2004,To: 16 Dec 2004,Cuba,FY 2005,70,No Religion,35,346
+From: 16 Dec 2004,To: 16 Dec 2004,Cuba,FY 2005,70,Seventh Day Adventist,5,346
+From: 16 Dec 2004,To: 16 Dec 2004,Iran,FY 2005,22,Bahai,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Iran,FY 2005,22,Christian,7,346
+From: 16 Dec 2004,To: 16 Dec 2004,Iran,FY 2005,22,Jewish,12,346
+From: 16 Dec 2004,To: 16 Dec 2004,Iran,FY 2005,22,Sabeans-Mandean,1,346
+From: 16 Dec 2004,To: 16 Dec 2004,Iraq,FY 2005,3,Moslem,3,346
+From: 16 Dec 2004,To: 16 Dec 2004,Laos,FY 2005,70,Ancestral Worship,62,346
+From: 16 Dec 2004,To: 16 Dec 2004,Laos,FY 2005,70,Christian,8,346
+From: 16 Dec 2004,To: 16 Dec 2004,Liberia,FY 2005,11,Christian,9,346
+From: 16 Dec 2004,To: 16 Dec 2004,Liberia,FY 2005,11,Moslem,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Russia,FY 2005,52,Baptist,4,346
+From: 16 Dec 2004,To: 16 Dec 2004,Russia,FY 2005,52,Jewish,12,346
+From: 16 Dec 2004,To: 16 Dec 2004,Russia,FY 2005,52,Moslem,32,346
+From: 16 Dec 2004,To: 16 Dec 2004,Russia,FY 2005,52,Russian Orthodox,1,346
+From: 16 Dec 2004,To: 16 Dec 2004,Russia,FY 2005,52,Seventh Day Adventist,3,346
+From: 16 Dec 2004,To: 16 Dec 2004,Sierra Leone,FY 2005,6,Christian,5,346
+From: 16 Dec 2004,To: 16 Dec 2004,Sierra Leone,FY 2005,6,Moslem,1,346
+From: 16 Dec 2004,To: 16 Dec 2004,Somalia,FY 2005,34,Moslem,34,346
+From: 16 Dec 2004,To: 16 Dec 2004,Ukraine,FY 2005,30,Jewish,6,346
+From: 16 Dec 2004,To: 16 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,23,346
+From: 16 Dec 2004,To: 16 Dec 2004,Ukraine,FY 2005,30,Seventh Day Adventist,1,346
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Dec 2004,To: 16 Dec 2004,Ancestral Worship,FY 2005,62,Laos,62,346
+From: 16 Dec 2004,To: 16 Dec 2004,Bahai,FY 2005,2,Iran,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Baptist,FY 2005,4,Russia,4,346
+From: 16 Dec 2004,To: 16 Dec 2004,Buddhist,FY 2005,11,Burma,11,346
+From: 16 Dec 2004,To: 16 Dec 2004,Catholic,FY 2005,17,Cuba,17,346
+From: 16 Dec 2004,To: 16 Dec 2004,Christian,FY 2005,29,Iran,7,346
+From: 16 Dec 2004,To: 16 Dec 2004,Christian,FY 2005,29,Laos,8,346
+From: 16 Dec 2004,To: 16 Dec 2004,Christian,FY 2005,29,Liberia,9,346
+From: 16 Dec 2004,To: 16 Dec 2004,Christian,FY 2005,29,Sierra Leone,5,346
+From: 16 Dec 2004,To: 16 Dec 2004,Evangelical Christian,FY 2005,2,Cuba,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Jehovah Witness,FY 2005,11,Cuba,11,346
+From: 16 Dec 2004,To: 16 Dec 2004,Jewish,FY 2005,37,Azerbaijan,7,346
+From: 16 Dec 2004,To: 16 Dec 2004,Jewish,FY 2005,37,Iran,12,346
+From: 16 Dec 2004,To: 16 Dec 2004,Jewish,FY 2005,37,Russia,12,346
+From: 16 Dec 2004,To: 16 Dec 2004,Jewish,FY 2005,37,Ukraine,6,346
+From: 16 Dec 2004,To: 16 Dec 2004,Moslem,FY 2005,74,Afghanistan,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Moslem,FY 2005,74,Iraq,3,346
+From: 16 Dec 2004,To: 16 Dec 2004,Moslem,FY 2005,74,Liberia,2,346
+From: 16 Dec 2004,To: 16 Dec 2004,Moslem,FY 2005,74,Russia,32,346
+From: 16 Dec 2004,To: 16 Dec 2004,Moslem,FY 2005,74,Sierra Leone,1,346
+From: 16 Dec 2004,To: 16 Dec 2004,Moslem,FY 2005,74,Somalia,34,346
+From: 16 Dec 2004,To: 16 Dec 2004,No Religion,FY 2005,35,Cuba,35,346
+From: 16 Dec 2004,To: 16 Dec 2004,Pentecostalist,FY 2005,27,Armenia,4,346
+From: 16 Dec 2004,To: 16 Dec 2004,Pentecostalist,FY 2005,27,Ukraine,23,346
+From: 16 Dec 2004,To: 16 Dec 2004,Protestant,FY 2005,24,Burma,24,346
+From: 16 Dec 2004,To: 16 Dec 2004,Russian Orthodox,FY 2005,1,Russia,1,346
+From: 16 Dec 2004,To: 16 Dec 2004,Sabeans-Mandean,FY 2005,1,Iran,1,346
+From: 16 Dec 2004,To: 16 Dec 2004,Seventh Day Adventist,FY 2005,9,Cuba,5,346
+From: 16 Dec 2004,To: 16 Dec 2004,Seventh Day Adventist,FY 2005,9,Russia,3,346
+From: 16 Dec 2004,To: 16 Dec 2004,Seventh Day Adventist,FY 2005,9,Ukraine,1,346
+

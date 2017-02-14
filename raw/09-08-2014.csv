@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Sep 2014,To: 08 Sep 2014,Burma,FY 2014,5,Buddhist,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Burma,FY 2014,5,Christian,4,250
+From: 08 Sep 2014,To: 08 Sep 2014,Chad,FY 2014,21,Moslem,21,250
+From: 08 Sep 2014,To: 08 Sep 2014,Dem. Rep. Congo,FY 2014,1,Protestant,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Eritrea,FY 2014,1,Christian,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,India,FY 2014,1,Hindu,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Iraq,FY 2014,137,Catholic,12,250
+From: 08 Sep 2014,To: 08 Sep 2014,Iraq,FY 2014,137,Moslem,11,250
+From: 08 Sep 2014,To: 08 Sep 2014,Iraq,FY 2014,137,Moslem Shiite,67,250
+From: 08 Sep 2014,To: 08 Sep 2014,Iraq,FY 2014,137,Moslem Suni,33,250
+From: 08 Sep 2014,To: 08 Sep 2014,Iraq,FY 2014,137,Orthodox,14,250
+From: 08 Sep 2014,To: 08 Sep 2014,Somalia,FY 2014,44,Moslem,40,250
+From: 08 Sep 2014,To: 08 Sep 2014,Somalia,FY 2014,44,Moslem Suni,4,250
+From: 08 Sep 2014,To: 08 Sep 2014,Sudan,FY 2014,10,Christian,8,250
+From: 08 Sep 2014,To: 08 Sep 2014,Sudan,FY 2014,10,Moslem,2,250
+From: 08 Sep 2014,To: 08 Sep 2014,Syria,FY 2014,12,Moslem Suni,12,250
+From: 08 Sep 2014,To: 08 Sep 2014,Ukraine,FY 2014,18,Baptist,6,250
+From: 08 Sep 2014,To: 08 Sep 2014,Ukraine,FY 2014,18,Jewish,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Ukraine,FY 2014,18,Pentecostalist,11,250
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Sep 2014,To: 08 Sep 2014,Baptist,FY 2014,6,Ukraine,6,250
+From: 08 Sep 2014,To: 08 Sep 2014,Buddhist,FY 2014,1,Burma,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Catholic,FY 2014,12,Iraq,12,250
+From: 08 Sep 2014,To: 08 Sep 2014,Christian,FY 2014,13,Burma,4,250
+From: 08 Sep 2014,To: 08 Sep 2014,Christian,FY 2014,13,Eritrea,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Christian,FY 2014,13,Sudan,8,250
+From: 08 Sep 2014,To: 08 Sep 2014,Hindu,FY 2014,1,India,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Jewish,FY 2014,1,Ukraine,1,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem,FY 2014,74,Chad,21,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem,FY 2014,74,Iraq,11,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem,FY 2014,74,Somalia,40,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem,FY 2014,74,Sudan,2,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem Shiite,FY 2014,67,Iraq,67,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem Suni,FY 2014,49,Iraq,33,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem Suni,FY 2014,49,Somalia,4,250
+From: 08 Sep 2014,To: 08 Sep 2014,Moslem Suni,FY 2014,49,Syria,12,250
+From: 08 Sep 2014,To: 08 Sep 2014,Orthodox,FY 2014,14,Iraq,14,250
+From: 08 Sep 2014,To: 08 Sep 2014,Pentecostalist,FY 2014,11,Ukraine,11,250
+From: 08 Sep 2014,To: 08 Sep 2014,Protestant,FY 2014,1,Dem. Rep. Congo,1,250
+

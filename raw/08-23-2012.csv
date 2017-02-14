@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Aug 2012,To: 23 Aug 2012,Afghanistan,FY 2012,3,Moslem,3,477
+From: 23 Aug 2012,To: 23 Aug 2012,Bhutan,FY 2012,138,Buddhist,36,477
+From: 23 Aug 2012,To: 23 Aug 2012,Bhutan,FY 2012,138,Christian,18,477
+From: 23 Aug 2012,To: 23 Aug 2012,Bhutan,FY 2012,138,Hindu,66,477
+From: 23 Aug 2012,To: 23 Aug 2012,Bhutan,FY 2012,138,Kirat,18,477
+From: 23 Aug 2012,To: 23 Aug 2012,Burma,FY 2012,100,Baptist,16,477
+From: 23 Aug 2012,To: 23 Aug 2012,Burma,FY 2012,100,Buddhist,9,477
+From: 23 Aug 2012,To: 23 Aug 2012,Burma,FY 2012,100,Catholic,4,477
+From: 23 Aug 2012,To: 23 Aug 2012,Burma,FY 2012,100,Christian,57,477
+From: 23 Aug 2012,To: 23 Aug 2012,Burma,FY 2012,100,Moslem,13,477
+From: 23 Aug 2012,To: 23 Aug 2012,Burma,FY 2012,100,Seventh Day Adventist,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Cuba,FY 2012,44,Baptist,3,477
+From: 23 Aug 2012,To: 23 Aug 2012,Cuba,FY 2012,44,Catholic,13,477
+From: 23 Aug 2012,To: 23 Aug 2012,Cuba,FY 2012,44,Jehovah Witness,13,477
+From: 23 Aug 2012,To: 23 Aug 2012,Cuba,FY 2012,44,No Religion,6,477
+From: 23 Aug 2012,To: 23 Aug 2012,Cuba,FY 2012,44,Other Religion,2,477
+From: 23 Aug 2012,To: 23 Aug 2012,Cuba,FY 2012,44,Pentecostalist,7,477
+From: 23 Aug 2012,To: 23 Aug 2012,Ethiopia,FY 2012,4,Christian,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Ethiopia,FY 2012,4,Moslem,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Ethiopia,FY 2012,4,Orthodox,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Ethiopia,FY 2012,4,Pentecostalist,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iran,FY 2012,15,Bahai,6,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iran,FY 2012,15,Jewish,5,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iran,FY 2012,15,Moslem Suni,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iran,FY 2012,15,Sabeans-Mandean,2,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iran,FY 2012,15,Zoroastrian,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iraq,FY 2012,125,Catholic,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iraq,FY 2012,125,Christian,37,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iraq,FY 2012,125,Moslem,2,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iraq,FY 2012,125,Moslem Shiite,44,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iraq,FY 2012,125,Moslem Suni,34,477
+From: 23 Aug 2012,To: 23 Aug 2012,Iraq,FY 2012,125,Sabeans-Mandean,7,477
+From: 23 Aug 2012,To: 23 Aug 2012,Pakistan,FY 2012,1,Ahmadiyya,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Palestine,FY 2012,1,Moslem Suni,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Somalia,FY 2012,28,Moslem,19,477
+From: 23 Aug 2012,To: 23 Aug 2012,Somalia,FY 2012,28,Moslem Suni,9,477
+From: 23 Aug 2012,To: 23 Aug 2012,Sri Lanka (Ceylon),FY 2012,3,Hindu,3,477
+From: 23 Aug 2012,To: 23 Aug 2012,Sudan,FY 2012,15,Moslem,10,477
+From: 23 Aug 2012,To: 23 Aug 2012,Sudan,FY 2012,15,Moslem Suni,5,477
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Aug 2012,To: 23 Aug 2012,Ahmadiyya,FY 2012,1,Pakistan,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Bahai,FY 2012,6,Iran,6,477
+From: 23 Aug 2012,To: 23 Aug 2012,Baptist,FY 2012,19,Burma,16,477
+From: 23 Aug 2012,To: 23 Aug 2012,Baptist,FY 2012,19,Cuba,3,477
+From: 23 Aug 2012,To: 23 Aug 2012,Buddhist,FY 2012,45,Bhutan,36,477
+From: 23 Aug 2012,To: 23 Aug 2012,Buddhist,FY 2012,45,Burma,9,477
+From: 23 Aug 2012,To: 23 Aug 2012,Catholic,FY 2012,18,Burma,4,477
+From: 23 Aug 2012,To: 23 Aug 2012,Catholic,FY 2012,18,Cuba,13,477
+From: 23 Aug 2012,To: 23 Aug 2012,Catholic,FY 2012,18,Iraq,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Christian,FY 2012,113,Bhutan,18,477
+From: 23 Aug 2012,To: 23 Aug 2012,Christian,FY 2012,113,Burma,57,477
+From: 23 Aug 2012,To: 23 Aug 2012,Christian,FY 2012,113,Ethiopia,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Christian,FY 2012,113,Iraq,37,477
+From: 23 Aug 2012,To: 23 Aug 2012,Hindu,FY 2012,69,Bhutan,66,477
+From: 23 Aug 2012,To: 23 Aug 2012,Hindu,FY 2012,69,Sri Lanka (Ceylon),3,477
+From: 23 Aug 2012,To: 23 Aug 2012,Jehovah Witness,FY 2012,13,Cuba,13,477
+From: 23 Aug 2012,To: 23 Aug 2012,Jewish,FY 2012,5,Iran,5,477
+From: 23 Aug 2012,To: 23 Aug 2012,Kirat,FY 2012,18,Bhutan,18,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem,FY 2012,48,Afghanistan,3,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem,FY 2012,48,Burma,13,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem,FY 2012,48,Ethiopia,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem,FY 2012,48,Iraq,2,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem,FY 2012,48,Somalia,19,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem,FY 2012,48,Sudan,10,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem Shiite,FY 2012,44,Iraq,44,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem Suni,FY 2012,50,Iran,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem Suni,FY 2012,50,Iraq,34,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem Suni,FY 2012,50,Palestine,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem Suni,FY 2012,50,Somalia,9,477
+From: 23 Aug 2012,To: 23 Aug 2012,Moslem Suni,FY 2012,50,Sudan,5,477
+From: 23 Aug 2012,To: 23 Aug 2012,No Religion,FY 2012,6,Cuba,6,477
+From: 23 Aug 2012,To: 23 Aug 2012,Orthodox,FY 2012,1,Ethiopia,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Other Religion,FY 2012,2,Cuba,2,477
+From: 23 Aug 2012,To: 23 Aug 2012,Pentecostalist,FY 2012,8,Cuba,7,477
+From: 23 Aug 2012,To: 23 Aug 2012,Pentecostalist,FY 2012,8,Ethiopia,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Sabeans-Mandean,FY 2012,9,Iran,2,477
+From: 23 Aug 2012,To: 23 Aug 2012,Sabeans-Mandean,FY 2012,9,Iraq,7,477
+From: 23 Aug 2012,To: 23 Aug 2012,Seventh Day Adventist,FY 2012,1,Burma,1,477
+From: 23 Aug 2012,To: 23 Aug 2012,Zoroastrian,FY 2012,1,Iran,1,477
+

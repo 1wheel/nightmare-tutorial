@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Sep 2012,To: 04 Sep 2012,Bhutan,FY 2012,152,Buddhist,38,492
+From: 04 Sep 2012,To: 04 Sep 2012,Bhutan,FY 2012,152,Christian,32,492
+From: 04 Sep 2012,To: 04 Sep 2012,Bhutan,FY 2012,152,Hindu,63,492
+From: 04 Sep 2012,To: 04 Sep 2012,Bhutan,FY 2012,152,Kirat,19,492
+From: 04 Sep 2012,To: 04 Sep 2012,Burma,FY 2012,145,Baptist,19,492
+From: 04 Sep 2012,To: 04 Sep 2012,Burma,FY 2012,145,Buddhist,15,492
+From: 04 Sep 2012,To: 04 Sep 2012,Burma,FY 2012,145,Catholic,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Burma,FY 2012,145,Christian,108,492
+From: 04 Sep 2012,To: 04 Sep 2012,Burma,FY 2012,145,Moslem,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Burundi,FY 2012,1,Seventh Day Adventist,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Dem. Rep. Congo,FY 2012,3,Catholic,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Dem. Rep. Congo,FY 2012,3,Christian,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Dem. Rep. Congo,FY 2012,3,Protestant,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Ethiopia,FY 2012,10,Moslem,6,492
+From: 04 Sep 2012,To: 04 Sep 2012,Ethiopia,FY 2012,10,Orthodox,3,492
+From: 04 Sep 2012,To: 04 Sep 2012,Ethiopia,FY 2012,10,Protestant,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Iran,FY 2012,2,Bahai,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Iraq,FY 2012,123,Catholic,31,492
+From: 04 Sep 2012,To: 04 Sep 2012,Iraq,FY 2012,123,Christian,35,492
+From: 04 Sep 2012,To: 04 Sep 2012,Iraq,FY 2012,123,Moslem Shiite,37,492
+From: 04 Sep 2012,To: 04 Sep 2012,Iraq,FY 2012,123,Moslem Suni,18,492
+From: 04 Sep 2012,To: 04 Sep 2012,Iraq,FY 2012,123,Orthodox,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Kenya,FY 2012,10,Christian,10,492
+From: 04 Sep 2012,To: 04 Sep 2012,Rwanda,FY 2012,5,Seventh Day Adventist,5,492
+From: 04 Sep 2012,To: 04 Sep 2012,Somalia,FY 2012,22,Moslem,20,492
+From: 04 Sep 2012,To: 04 Sep 2012,Somalia,FY 2012,22,Moslem Suni,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Sudan,FY 2012,10,Christian,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Sudan,FY 2012,10,Moslem,7,492
+From: 04 Sep 2012,To: 04 Sep 2012,Sudan,FY 2012,10,Moslem Suni,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Uzbekistan,FY 2012,9,Moslem,8,492
+From: 04 Sep 2012,To: 04 Sep 2012,Uzbekistan,FY 2012,9,Moslem Suni,1,492
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Sep 2012,To: 04 Sep 2012,Bahai,FY 2012,2,Iran,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Baptist,FY 2012,19,Burma,19,492
+From: 04 Sep 2012,To: 04 Sep 2012,Buddhist,FY 2012,53,Bhutan,38,492
+From: 04 Sep 2012,To: 04 Sep 2012,Buddhist,FY 2012,53,Burma,15,492
+From: 04 Sep 2012,To: 04 Sep 2012,Catholic,FY 2012,33,Burma,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Catholic,FY 2012,33,Dem. Rep. Congo,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Catholic,FY 2012,33,Iraq,31,492
+From: 04 Sep 2012,To: 04 Sep 2012,Christian,FY 2012,187,Bhutan,32,492
+From: 04 Sep 2012,To: 04 Sep 2012,Christian,FY 2012,187,Burma,108,492
+From: 04 Sep 2012,To: 04 Sep 2012,Christian,FY 2012,187,Dem. Rep. Congo,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Christian,FY 2012,187,Iraq,35,492
+From: 04 Sep 2012,To: 04 Sep 2012,Christian,FY 2012,187,Kenya,10,492
+From: 04 Sep 2012,To: 04 Sep 2012,Christian,FY 2012,187,Sudan,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Hindu,FY 2012,63,Bhutan,63,492
+From: 04 Sep 2012,To: 04 Sep 2012,Kirat,FY 2012,19,Bhutan,19,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem,FY 2012,43,Burma,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem,FY 2012,43,Ethiopia,6,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem,FY 2012,43,Somalia,20,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem,FY 2012,43,Sudan,7,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem,FY 2012,43,Uzbekistan,8,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem Shiite,FY 2012,37,Iraq,37,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem Suni,FY 2012,23,Iraq,18,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem Suni,FY 2012,23,Somalia,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem Suni,FY 2012,23,Sudan,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Moslem Suni,FY 2012,23,Uzbekistan,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Orthodox,FY 2012,5,Ethiopia,3,492
+From: 04 Sep 2012,To: 04 Sep 2012,Orthodox,FY 2012,5,Iraq,2,492
+From: 04 Sep 2012,To: 04 Sep 2012,Protestant,FY 2012,2,Dem. Rep. Congo,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Protestant,FY 2012,2,Ethiopia,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Seventh Day Adventist,FY 2012,6,Burundi,1,492
+From: 04 Sep 2012,To: 04 Sep 2012,Seventh Day Adventist,FY 2012,6,Rwanda,5,492
+

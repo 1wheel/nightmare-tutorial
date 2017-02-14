@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jun 2003,To: 05 Jun 2003,Afghanistan,FY 2003,1,Moslem,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Azerbaijan,FY 2003,29,Christian,11,94
+From: 05 Jun 2003,To: 05 Jun 2003,Azerbaijan,FY 2003,29,Pentecostalist,3,94
+From: 05 Jun 2003,To: 05 Jun 2003,Azerbaijan,FY 2003,29,Unknown,15,94
+From: 05 Jun 2003,To: 05 Jun 2003,Ethiopia,FY 2003,15,Moslem,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Ethiopia,FY 2003,15,Orthodox,14,94
+From: 05 Jun 2003,To: 05 Jun 2003,Kazakhstan,FY 2003,4,Baptist,4,94
+From: 05 Jun 2003,To: 05 Jun 2003,Rwanda,FY 2003,1,Protestant,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Somalia,FY 2003,17,Moslem,17,94
+From: 05 Jun 2003,To: 05 Jun 2003,Turkmenistan,FY 2003,1,Unknown,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Ukraine,FY 2003,26,Baptist,13,94
+From: 05 Jun 2003,To: 05 Jun 2003,Ukraine,FY 2003,26,Jewish,2,94
+From: 05 Jun 2003,To: 05 Jun 2003,Ukraine,FY 2003,26,Seventh Day Adventist,5,94
+From: 05 Jun 2003,To: 05 Jun 2003,Ukraine,FY 2003,26,Uniate,6,94
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jun 2003,To: 05 Jun 2003,Baptist,FY 2003,17,Kazakhstan,4,94
+From: 05 Jun 2003,To: 05 Jun 2003,Baptist,FY 2003,17,Ukraine,13,94
+From: 05 Jun 2003,To: 05 Jun 2003,Christian,FY 2003,11,Azerbaijan,11,94
+From: 05 Jun 2003,To: 05 Jun 2003,Jewish,FY 2003,2,Ukraine,2,94
+From: 05 Jun 2003,To: 05 Jun 2003,Moslem,FY 2003,19,Afghanistan,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Moslem,FY 2003,19,Ethiopia,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Moslem,FY 2003,19,Somalia,17,94
+From: 05 Jun 2003,To: 05 Jun 2003,Orthodox,FY 2003,14,Ethiopia,14,94
+From: 05 Jun 2003,To: 05 Jun 2003,Pentecostalist,FY 2003,3,Azerbaijan,3,94
+From: 05 Jun 2003,To: 05 Jun 2003,Protestant,FY 2003,1,Rwanda,1,94
+From: 05 Jun 2003,To: 05 Jun 2003,Seventh Day Adventist,FY 2003,5,Ukraine,5,94
+From: 05 Jun 2003,To: 05 Jun 2003,Uniate,FY 2003,6,Ukraine,6,94
+From: 05 Jun 2003,To: 05 Jun 2003,Unknown,FY 2003,16,Azerbaijan,15,94
+From: 05 Jun 2003,To: 05 Jun 2003,Unknown,FY 2003,16,Turkmenistan,1,94
+

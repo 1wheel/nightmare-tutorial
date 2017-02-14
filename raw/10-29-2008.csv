@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Oct 2008,To: 29 Oct 2008,Afghanistan,FY 2009,9,Moslem Suni,9,334
+From: 29 Oct 2008,To: 29 Oct 2008,Bhutan,FY 2009,68,Buddhist,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Bhutan,FY 2009,68,Christian,4,334
+From: 29 Oct 2008,To: 29 Oct 2008,Bhutan,FY 2009,68,Hindu,57,334
+From: 29 Oct 2008,To: 29 Oct 2008,Bhutan,FY 2009,68,Kirat,2,334
+From: 29 Oct 2008,To: 29 Oct 2008,Burma,FY 2009,60,Buddhist,22,334
+From: 29 Oct 2008,To: 29 Oct 2008,Burma,FY 2009,60,Christian,26,334
+From: 29 Oct 2008,To: 29 Oct 2008,Burma,FY 2009,60,Moslem,12,334
+From: 29 Oct 2008,To: 29 Oct 2008,Congo,FY 2009,7,Protestant,7,334
+From: 29 Oct 2008,To: 29 Oct 2008,Cuba,FY 2009,30,Baptist,4,334
+From: 29 Oct 2008,To: 29 Oct 2008,Cuba,FY 2009,30,Catholic,2,334
+From: 29 Oct 2008,To: 29 Oct 2008,Cuba,FY 2009,30,Jehovah Witness,12,334
+From: 29 Oct 2008,To: 29 Oct 2008,Cuba,FY 2009,30,No Religion,12,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iran,FY 2009,5,Bahai,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Catholic,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Christian,39,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Moslem,1,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Moslem Shiite,15,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Moslem Suni,28,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Orthodox,10,334
+From: 29 Oct 2008,To: 29 Oct 2008,Iraq,FY 2009,107,Sabeans-Mandean,9,334
+From: 29 Oct 2008,To: 29 Oct 2008,Russia,FY 2009,6,Baptist,1,334
+From: 29 Oct 2008,To: 29 Oct 2008,Russia,FY 2009,6,No Religion,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Rwanda,FY 2009,7,Protestant,7,334
+From: 29 Oct 2008,To: 29 Oct 2008,Somalia,FY 2009,8,Moslem,8,334
+From: 29 Oct 2008,To: 29 Oct 2008,Vietnam,FY 2009,27,Ancestral Worship,4,334
+From: 29 Oct 2008,To: 29 Oct 2008,Vietnam,FY 2009,27,Buddhist,3,334
+From: 29 Oct 2008,To: 29 Oct 2008,Vietnam,FY 2009,27,Cao Dai,2,334
+From: 29 Oct 2008,To: 29 Oct 2008,Vietnam,FY 2009,27,No Religion,10,334
+From: 29 Oct 2008,To: 29 Oct 2008,Vietnam,FY 2009,27,Protestant,8,334
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Oct 2008,To: 29 Oct 2008,Ancestral Worship,FY 2009,4,Vietnam,4,334
+From: 29 Oct 2008,To: 29 Oct 2008,Bahai,FY 2009,5,Iran,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Baptist,FY 2009,5,Cuba,4,334
+From: 29 Oct 2008,To: 29 Oct 2008,Baptist,FY 2009,5,Russia,1,334
+From: 29 Oct 2008,To: 29 Oct 2008,Buddhist,FY 2009,30,Bhutan,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Buddhist,FY 2009,30,Burma,22,334
+From: 29 Oct 2008,To: 29 Oct 2008,Buddhist,FY 2009,30,Vietnam,3,334
+From: 29 Oct 2008,To: 29 Oct 2008,Cao Dai,FY 2009,2,Vietnam,2,334
+From: 29 Oct 2008,To: 29 Oct 2008,Catholic,FY 2009,7,Cuba,2,334
+From: 29 Oct 2008,To: 29 Oct 2008,Catholic,FY 2009,7,Iraq,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,Christian,FY 2009,69,Bhutan,4,334
+From: 29 Oct 2008,To: 29 Oct 2008,Christian,FY 2009,69,Burma,26,334
+From: 29 Oct 2008,To: 29 Oct 2008,Christian,FY 2009,69,Iraq,39,334
+From: 29 Oct 2008,To: 29 Oct 2008,Hindu,FY 2009,57,Bhutan,57,334
+From: 29 Oct 2008,To: 29 Oct 2008,Jehovah Witness,FY 2009,12,Cuba,12,334
+From: 29 Oct 2008,To: 29 Oct 2008,Kirat,FY 2009,2,Bhutan,2,334
+From: 29 Oct 2008,To: 29 Oct 2008,Moslem,FY 2009,21,Burma,12,334
+From: 29 Oct 2008,To: 29 Oct 2008,Moslem,FY 2009,21,Iraq,1,334
+From: 29 Oct 2008,To: 29 Oct 2008,Moslem,FY 2009,21,Somalia,8,334
+From: 29 Oct 2008,To: 29 Oct 2008,Moslem Shiite,FY 2009,15,Iraq,15,334
+From: 29 Oct 2008,To: 29 Oct 2008,Moslem Suni,FY 2009,37,Afghanistan,9,334
+From: 29 Oct 2008,To: 29 Oct 2008,Moslem Suni,FY 2009,37,Iraq,28,334
+From: 29 Oct 2008,To: 29 Oct 2008,No Religion,FY 2009,27,Cuba,12,334
+From: 29 Oct 2008,To: 29 Oct 2008,No Religion,FY 2009,27,Russia,5,334
+From: 29 Oct 2008,To: 29 Oct 2008,No Religion,FY 2009,27,Vietnam,10,334
+From: 29 Oct 2008,To: 29 Oct 2008,Orthodox,FY 2009,10,Iraq,10,334
+From: 29 Oct 2008,To: 29 Oct 2008,Protestant,FY 2009,22,Congo,7,334
+From: 29 Oct 2008,To: 29 Oct 2008,Protestant,FY 2009,22,Rwanda,7,334
+From: 29 Oct 2008,To: 29 Oct 2008,Protestant,FY 2009,22,Vietnam,8,334
+From: 29 Oct 2008,To: 29 Oct 2008,Sabeans-Mandean,FY 2009,9,Iraq,9,334
+

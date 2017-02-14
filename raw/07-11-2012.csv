@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jul 2012,To: 11 Jul 2012,Afghanistan,FY 2012,18,Moslem Shiite,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Afghanistan,FY 2012,18,Moslem Suni,17,567
+From: 11 Jul 2012,To: 11 Jul 2012,Bhutan,FY 2012,123,Buddhist,66,567
+From: 11 Jul 2012,To: 11 Jul 2012,Bhutan,FY 2012,123,Christian,7,567
+From: 11 Jul 2012,To: 11 Jul 2012,Bhutan,FY 2012,123,Hindu,37,567
+From: 11 Jul 2012,To: 11 Jul 2012,Bhutan,FY 2012,123,Kirat,13,567
+From: 11 Jul 2012,To: 11 Jul 2012,Burma,FY 2012,186,Animist,8,567
+From: 11 Jul 2012,To: 11 Jul 2012,Burma,FY 2012,186,Baptist,4,567
+From: 11 Jul 2012,To: 11 Jul 2012,Burma,FY 2012,186,Buddhist,34,567
+From: 11 Jul 2012,To: 11 Jul 2012,Burma,FY 2012,186,Christian,139,567
+From: 11 Jul 2012,To: 11 Jul 2012,Burma,FY 2012,186,Unknown,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Dem. Rep. Congo,FY 2012,9,Baptist,4,567
+From: 11 Jul 2012,To: 11 Jul 2012,Dem. Rep. Congo,FY 2012,9,Christian,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Dem. Rep. Congo,FY 2012,9,Pentecostalist,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Dem. Rep. Congo,FY 2012,9,Protestant,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Eritrea,FY 2012,40,Catholic,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Eritrea,FY 2012,40,Moslem,5,567
+From: 11 Jul 2012,To: 11 Jul 2012,Eritrea,FY 2012,40,Orthodox,26,567
+From: 11 Jul 2012,To: 11 Jul 2012,Eritrea,FY 2012,40,Pentecostalist,3,567
+From: 11 Jul 2012,To: 11 Jul 2012,Eritrea,FY 2012,40,Protestant,4,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iran,FY 2012,8,Bahai,5,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iran,FY 2012,8,No Religion,3,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iraq,FY 2012,102,Catholic,3,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iraq,FY 2012,102,Christian,12,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iraq,FY 2012,102,Moslem,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iraq,FY 2012,102,Moslem Shiite,42,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iraq,FY 2012,102,Moslem Suni,39,567
+From: 11 Jul 2012,To: 11 Jul 2012,Iraq,FY 2012,102,Yazidi,5,567
+From: 11 Jul 2012,To: 11 Jul 2012,Morocco,FY 2012,1,Moslem Suni,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Russia,FY 2012,4,Baptist,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Russia,FY 2012,4,Jewish,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Russia,FY 2012,4,No Religion,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Somalia,FY 2012,69,Moslem,67,567
+From: 11 Jul 2012,To: 11 Jul 2012,Somalia,FY 2012,69,Moslem Suni,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Sri Lanka (Ceylon),FY 2012,2,Hindu,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Sri Lanka (Ceylon),FY 2012,2,Moslem,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Sudan,FY 2012,5,Catholic,5,567
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jul 2012,To: 11 Jul 2012,Animist,FY 2012,8,Burma,8,567
+From: 11 Jul 2012,To: 11 Jul 2012,Bahai,FY 2012,5,Iran,5,567
+From: 11 Jul 2012,To: 11 Jul 2012,Baptist,FY 2012,9,Burma,4,567
+From: 11 Jul 2012,To: 11 Jul 2012,Baptist,FY 2012,9,Dem. Rep. Congo,4,567
+From: 11 Jul 2012,To: 11 Jul 2012,Baptist,FY 2012,9,Russia,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Buddhist,FY 2012,100,Bhutan,66,567
+From: 11 Jul 2012,To: 11 Jul 2012,Buddhist,FY 2012,100,Burma,34,567
+From: 11 Jul 2012,To: 11 Jul 2012,Catholic,FY 2012,10,Eritrea,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Catholic,FY 2012,10,Iraq,3,567
+From: 11 Jul 2012,To: 11 Jul 2012,Catholic,FY 2012,10,Sudan,5,567
+From: 11 Jul 2012,To: 11 Jul 2012,Christian,FY 2012,159,Bhutan,7,567
+From: 11 Jul 2012,To: 11 Jul 2012,Christian,FY 2012,159,Burma,139,567
+From: 11 Jul 2012,To: 11 Jul 2012,Christian,FY 2012,159,Dem. Rep. Congo,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Christian,FY 2012,159,Iraq,12,567
+From: 11 Jul 2012,To: 11 Jul 2012,Hindu,FY 2012,38,Bhutan,37,567
+From: 11 Jul 2012,To: 11 Jul 2012,Hindu,FY 2012,38,Sri Lanka (Ceylon),1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Jewish,FY 2012,2,Russia,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Kirat,FY 2012,13,Bhutan,13,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem,FY 2012,74,Eritrea,5,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem,FY 2012,74,Iraq,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem,FY 2012,74,Somalia,67,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem,FY 2012,74,Sri Lanka (Ceylon),1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem Shiite,FY 2012,43,Afghanistan,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem Shiite,FY 2012,43,Iraq,42,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem Suni,FY 2012,59,Afghanistan,17,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem Suni,FY 2012,59,Iraq,39,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem Suni,FY 2012,59,Morocco,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Moslem Suni,FY 2012,59,Somalia,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,No Religion,FY 2012,4,Iran,3,567
+From: 11 Jul 2012,To: 11 Jul 2012,No Religion,FY 2012,4,Russia,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Orthodox,FY 2012,26,Eritrea,26,567
+From: 11 Jul 2012,To: 11 Jul 2012,Pentecostalist,FY 2012,5,Dem. Rep. Congo,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Pentecostalist,FY 2012,5,Eritrea,3,567
+From: 11 Jul 2012,To: 11 Jul 2012,Protestant,FY 2012,6,Dem. Rep. Congo,2,567
+From: 11 Jul 2012,To: 11 Jul 2012,Protestant,FY 2012,6,Eritrea,4,567
+From: 11 Jul 2012,To: 11 Jul 2012,Unknown,FY 2012,1,Burma,1,567
+From: 11 Jul 2012,To: 11 Jul 2012,Yazidi,FY 2012,5,Iraq,5,567
+

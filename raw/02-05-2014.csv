@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Feb 2014,To: 05 Feb 2014,Afghanistan,FY 2014,13,Moslem Shiite,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Bhutan,FY 2014,35,Buddhist,8,392
+From: 05 Feb 2014,To: 05 Feb 2014,Bhutan,FY 2014,35,Christian,5,392
+From: 05 Feb 2014,To: 05 Feb 2014,Bhutan,FY 2014,35,Hindu,19,392
+From: 05 Feb 2014,To: 05 Feb 2014,Bhutan,FY 2014,35,Kirat,3,392
+From: 05 Feb 2014,To: 05 Feb 2014,Burma,FY 2014,99,Animist,3,392
+From: 05 Feb 2014,To: 05 Feb 2014,Burma,FY 2014,99,Baptist,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Burma,FY 2014,99,Buddhist,9,392
+From: 05 Feb 2014,To: 05 Feb 2014,Burma,FY 2014,99,Christian,74,392
+From: 05 Feb 2014,To: 05 Feb 2014,Eritrea,FY 2014,11,Catholic,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Eritrea,FY 2014,11,Moslem Suni,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Eritrea,FY 2014,11,Orthodox,9,392
+From: 05 Feb 2014,To: 05 Feb 2014,Ethiopia,FY 2014,2,Orthodox,2,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iran,FY 2014,42,Bahai,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iran,FY 2014,42,Christian,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iran,FY 2014,42,Jewish,5,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iran,FY 2014,42,No Religion,3,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iran,FY 2014,42,Protestant,7,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iran,FY 2014,42,Zoroastrian,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Atheist,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Catholic,8,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Christian,11,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Moslem Shiite,32,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Moslem Suni,45,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Orthodox,5,392
+From: 05 Feb 2014,To: 05 Feb 2014,Iraq,FY 2014,106,Sabeans-Mandean,4,392
+From: 05 Feb 2014,To: 05 Feb 2014,Palestine,FY 2014,6,Moslem Suni,6,392
+From: 05 Feb 2014,To: 05 Feb 2014,Somalia,FY 2014,57,Moslem,44,392
+From: 05 Feb 2014,To: 05 Feb 2014,Somalia,FY 2014,57,Moslem Suni,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Sudan,FY 2014,20,Moslem,20,392
+From: 05 Feb 2014,To: 05 Feb 2014,Ukraine,FY 2014,1,Ukr Orthodox,1,392
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Feb 2014,To: 05 Feb 2014,Animist,FY 2014,3,Burma,3,392
+From: 05 Feb 2014,To: 05 Feb 2014,Atheist,FY 2014,1,Iraq,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Bahai,FY 2014,13,Iran,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Baptist,FY 2014,13,Burma,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Buddhist,FY 2014,17,Bhutan,8,392
+From: 05 Feb 2014,To: 05 Feb 2014,Buddhist,FY 2014,17,Burma,9,392
+From: 05 Feb 2014,To: 05 Feb 2014,Catholic,FY 2014,9,Eritrea,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Catholic,FY 2014,9,Iraq,8,392
+From: 05 Feb 2014,To: 05 Feb 2014,Christian,FY 2014,103,Bhutan,5,392
+From: 05 Feb 2014,To: 05 Feb 2014,Christian,FY 2014,103,Burma,74,392
+From: 05 Feb 2014,To: 05 Feb 2014,Christian,FY 2014,103,Iran,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Christian,FY 2014,103,Iraq,11,392
+From: 05 Feb 2014,To: 05 Feb 2014,Hindu,FY 2014,19,Bhutan,19,392
+From: 05 Feb 2014,To: 05 Feb 2014,Jewish,FY 2014,5,Iran,5,392
+From: 05 Feb 2014,To: 05 Feb 2014,Kirat,FY 2014,3,Bhutan,3,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem,FY 2014,64,Somalia,44,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem,FY 2014,64,Sudan,20,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem Shiite,FY 2014,45,Afghanistan,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem Shiite,FY 2014,45,Iraq,32,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem Suni,FY 2014,65,Eritrea,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem Suni,FY 2014,65,Iraq,45,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem Suni,FY 2014,65,Palestine,6,392
+From: 05 Feb 2014,To: 05 Feb 2014,Moslem Suni,FY 2014,65,Somalia,13,392
+From: 05 Feb 2014,To: 05 Feb 2014,No Religion,FY 2014,3,Iran,3,392
+From: 05 Feb 2014,To: 05 Feb 2014,Orthodox,FY 2014,16,Eritrea,9,392
+From: 05 Feb 2014,To: 05 Feb 2014,Orthodox,FY 2014,16,Ethiopia,2,392
+From: 05 Feb 2014,To: 05 Feb 2014,Orthodox,FY 2014,16,Iraq,5,392
+From: 05 Feb 2014,To: 05 Feb 2014,Protestant,FY 2014,7,Iran,7,392
+From: 05 Feb 2014,To: 05 Feb 2014,Sabeans-Mandean,FY 2014,4,Iraq,4,392
+From: 05 Feb 2014,To: 05 Feb 2014,Ukr Orthodox,FY 2014,1,Ukraine,1,392
+From: 05 Feb 2014,To: 05 Feb 2014,Zoroastrian,FY 2014,1,Iran,1,392
+

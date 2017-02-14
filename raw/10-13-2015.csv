@@ -1,0 +1,91 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Oct 2015,To: 13 Oct 2015,Afghanistan,FY 2016,26,Moslem,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Afghanistan,FY 2016,26,Moslem Shiite,11,509
+From: 13 Oct 2015,To: 13 Oct 2015,Afghanistan,FY 2016,26,Moslem Suni,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Afghanistan,FY 2016,26,Protestant,2,509
+From: 13 Oct 2015,To: 13 Oct 2015,Bhutan,FY 2016,42,Buddhist,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Bhutan,FY 2016,42,Christian,16,509
+From: 13 Oct 2015,To: 13 Oct 2015,Bhutan,FY 2016,42,Hindu,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Bhutan,FY 2016,42,Kirat,2,509
+From: 13 Oct 2015,To: 13 Oct 2015,Burma,FY 2016,111,Baptist,14,509
+From: 13 Oct 2015,To: 13 Oct 2015,Burma,FY 2016,111,Buddhist,26,509
+From: 13 Oct 2015,To: 13 Oct 2015,Burma,FY 2016,111,Christian,63,509
+From: 13 Oct 2015,To: 13 Oct 2015,Burma,FY 2016,111,Moslem,8,509
+From: 13 Oct 2015,To: 13 Oct 2015,Croatia,FY 2016,1,Moslem Suni,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Catholic,13,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Christian,15,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Jehovah Witness,23,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Methodist,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Moslem,13,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Pentecostalist,46,509
+From: 13 Oct 2015,To: 13 Oct 2015,Dem. Rep. Congo,FY 2016,156,Protestant,34,509
+From: 13 Oct 2015,To: 13 Oct 2015,Eritrea,FY 2016,23,Catholic,5,509
+From: 13 Oct 2015,To: 13 Oct 2015,Eritrea,FY 2016,23,Christian,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Eritrea,FY 2016,23,Jehovah Witness,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Eritrea,FY 2016,23,Orthodox,13,509
+From: 13 Oct 2015,To: 13 Oct 2015,Eritrea,FY 2016,23,Other Religion,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iran,FY 2016,8,Bahai,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iran,FY 2016,8,Moslem,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iran,FY 2016,8,Moslem Shiite,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iran,FY 2016,8,Protestant,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iraq,FY 2016,11,Moslem,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iraq,FY 2016,11,Moslem Shiite,6,509
+From: 13 Oct 2015,To: 13 Oct 2015,Iraq,FY 2016,11,Moslem Suni,4,509
+From: 13 Oct 2015,To: 13 Oct 2015,Mali,FY 2016,1,Moslem,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Pakistan,FY 2016,7,Moslem,5,509
+From: 13 Oct 2015,To: 13 Oct 2015,Pakistan,FY 2016,7,Moslem Shiite,2,509
+From: 13 Oct 2015,To: 13 Oct 2015,Somalia,FY 2016,80,Moslem,80,509
+From: 13 Oct 2015,To: 13 Oct 2015,Sudan,FY 2016,8,Moslem,8,509
+From: 13 Oct 2015,To: 13 Oct 2015,Ukraine,FY 2016,35,Baptist,8,509
+From: 13 Oct 2015,To: 13 Oct 2015,Ukraine,FY 2016,35,Jewish,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Ukraine,FY 2016,35,Pentecostalist,21,509
+From: 13 Oct 2015,To: 13 Oct 2015,Ukraine,FY 2016,35,Seventh Day Adventist,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Ukraine,FY 2016,35,Uniate,2,509
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Oct 2015,To: 13 Oct 2015,Bahai,FY 2016,3,Iran,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Baptist,FY 2016,22,Burma,14,509
+From: 13 Oct 2015,To: 13 Oct 2015,Baptist,FY 2016,22,Ukraine,8,509
+From: 13 Oct 2015,To: 13 Oct 2015,Buddhist,FY 2016,38,Bhutan,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Buddhist,FY 2016,38,Burma,26,509
+From: 13 Oct 2015,To: 13 Oct 2015,Catholic,FY 2016,18,Dem. Rep. Congo,13,509
+From: 13 Oct 2015,To: 13 Oct 2015,Catholic,FY 2016,18,Eritrea,5,509
+From: 13 Oct 2015,To: 13 Oct 2015,Christian,FY 2016,95,Bhutan,16,509
+From: 13 Oct 2015,To: 13 Oct 2015,Christian,FY 2016,95,Burma,63,509
+From: 13 Oct 2015,To: 13 Oct 2015,Christian,FY 2016,95,Dem. Rep. Congo,15,509
+From: 13 Oct 2015,To: 13 Oct 2015,Christian,FY 2016,95,Eritrea,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Hindu,FY 2016,12,Bhutan,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Jehovah Witness,FY 2016,24,Dem. Rep. Congo,23,509
+From: 13 Oct 2015,To: 13 Oct 2015,Jehovah Witness,FY 2016,24,Eritrea,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Jewish,FY 2016,1,Ukraine,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Kirat,FY 2016,2,Bhutan,2,509
+From: 13 Oct 2015,To: 13 Oct 2015,Methodist,FY 2016,12,Dem. Rep. Congo,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Afghanistan,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Burma,8,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Dem. Rep. Congo,13,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Iran,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Iraq,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Mali,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Pakistan,5,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Somalia,80,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem,FY 2016,118,Sudan,8,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Shiite,FY 2016,20,Afghanistan,11,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Shiite,FY 2016,20,Iran,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Shiite,FY 2016,20,Iraq,6,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Shiite,FY 2016,20,Pakistan,2,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Suni,FY 2016,17,Afghanistan,12,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Suni,FY 2016,17,Croatia,1,509
+From: 13 Oct 2015,To: 13 Oct 2015,Moslem Suni,FY 2016,17,Iraq,4,509
+From: 13 Oct 2015,To: 13 Oct 2015,Orthodox,FY 2016,13,Eritrea,13,509
+From: 13 Oct 2015,To: 13 Oct 2015,Other Religion,FY 2016,3,Eritrea,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Pentecostalist,FY 2016,67,Dem. Rep. Congo,46,509
+From: 13 Oct 2015,To: 13 Oct 2015,Pentecostalist,FY 2016,67,Ukraine,21,509
+From: 13 Oct 2015,To: 13 Oct 2015,Protestant,FY 2016,39,Afghanistan,2,509
+From: 13 Oct 2015,To: 13 Oct 2015,Protestant,FY 2016,39,Dem. Rep. Congo,34,509
+From: 13 Oct 2015,To: 13 Oct 2015,Protestant,FY 2016,39,Iran,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Seventh Day Adventist,FY 2016,3,Ukraine,3,509
+From: 13 Oct 2015,To: 13 Oct 2015,Uniate,FY 2016,2,Ukraine,2,509
+

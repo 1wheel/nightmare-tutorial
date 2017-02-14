@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 May 2004,To: 13 May 2004,Azerbaijan,FY 2004,16,Christian,4,229
+From: 13 May 2004,To: 13 May 2004,Azerbaijan,FY 2004,16,Unknown,12,229
+From: 13 May 2004,To: 13 May 2004,Ethiopia,FY 2004,6,Moslem,6,229
+From: 13 May 2004,To: 13 May 2004,Liberia,FY 2004,60,Baptist,1,229
+From: 13 May 2004,To: 13 May 2004,Liberia,FY 2004,60,Catholic,3,229
+From: 13 May 2004,To: 13 May 2004,Liberia,FY 2004,60,Christian,48,229
+From: 13 May 2004,To: 13 May 2004,Liberia,FY 2004,60,Methodist,5,229
+From: 13 May 2004,To: 13 May 2004,Liberia,FY 2004,60,Pentecostalist,3,229
+From: 13 May 2004,To: 13 May 2004,Sierra Leone,FY 2004,1,Moslem,1,229
+From: 13 May 2004,To: 13 May 2004,Somalia,FY 2004,94,Moslem,93,229
+From: 13 May 2004,To: 13 May 2004,Somalia,FY 2004,94,Moslem Suni,1,229
+From: 13 May 2004,To: 13 May 2004,Sudan,FY 2004,35,Catholic,2,229
+From: 13 May 2004,To: 13 May 2004,Sudan,FY 2004,35,Christian,11,229
+From: 13 May 2004,To: 13 May 2004,Sudan,FY 2004,35,Moslem,13,229
+From: 13 May 2004,To: 13 May 2004,Sudan,FY 2004,35,Protestant,9,229
+From: 13 May 2004,To: 13 May 2004,Ukraine,FY 2004,17,Baptist,4,229
+From: 13 May 2004,To: 13 May 2004,Ukraine,FY 2004,17,Jewish,1,229
+From: 13 May 2004,To: 13 May 2004,Ukraine,FY 2004,17,Pentecostalist,11,229
+From: 13 May 2004,To: 13 May 2004,Ukraine,FY 2004,17,Unknown,1,229
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 May 2004,To: 13 May 2004,Baptist,FY 2004,5,Liberia,1,229
+From: 13 May 2004,To: 13 May 2004,Baptist,FY 2004,5,Ukraine,4,229
+From: 13 May 2004,To: 13 May 2004,Catholic,FY 2004,5,Liberia,3,229
+From: 13 May 2004,To: 13 May 2004,Catholic,FY 2004,5,Sudan,2,229
+From: 13 May 2004,To: 13 May 2004,Christian,FY 2004,63,Azerbaijan,4,229
+From: 13 May 2004,To: 13 May 2004,Christian,FY 2004,63,Liberia,48,229
+From: 13 May 2004,To: 13 May 2004,Christian,FY 2004,63,Sudan,11,229
+From: 13 May 2004,To: 13 May 2004,Jewish,FY 2004,1,Ukraine,1,229
+From: 13 May 2004,To: 13 May 2004,Methodist,FY 2004,5,Liberia,5,229
+From: 13 May 2004,To: 13 May 2004,Moslem,FY 2004,113,Ethiopia,6,229
+From: 13 May 2004,To: 13 May 2004,Moslem,FY 2004,113,Sierra Leone,1,229
+From: 13 May 2004,To: 13 May 2004,Moslem,FY 2004,113,Somalia,93,229
+From: 13 May 2004,To: 13 May 2004,Moslem,FY 2004,113,Sudan,13,229
+From: 13 May 2004,To: 13 May 2004,Moslem Suni,FY 2004,1,Somalia,1,229
+From: 13 May 2004,To: 13 May 2004,Pentecostalist,FY 2004,14,Liberia,3,229
+From: 13 May 2004,To: 13 May 2004,Pentecostalist,FY 2004,14,Ukraine,11,229
+From: 13 May 2004,To: 13 May 2004,Protestant,FY 2004,9,Sudan,9,229
+From: 13 May 2004,To: 13 May 2004,Unknown,FY 2004,13,Azerbaijan,12,229
+From: 13 May 2004,To: 13 May 2004,Unknown,FY 2004,13,Ukraine,1,229
+

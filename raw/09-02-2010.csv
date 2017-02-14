@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Sep 2010,To: 02 Sep 2010,Bhutan,FY 2010,29,Buddhist,4,317
+From: 02 Sep 2010,To: 02 Sep 2010,Bhutan,FY 2010,29,Hindu,20,317
+From: 02 Sep 2010,To: 02 Sep 2010,Bhutan,FY 2010,29,Kirat,5,317
+From: 02 Sep 2010,To: 02 Sep 2010,Burma,FY 2010,84,Animist,3,317
+From: 02 Sep 2010,To: 02 Sep 2010,Burma,FY 2010,84,Baptist,12,317
+From: 02 Sep 2010,To: 02 Sep 2010,Burma,FY 2010,84,Buddhist,22,317
+From: 02 Sep 2010,To: 02 Sep 2010,Burma,FY 2010,84,Catholic,2,317
+From: 02 Sep 2010,To: 02 Sep 2010,Burma,FY 2010,84,Christian,44,317
+From: 02 Sep 2010,To: 02 Sep 2010,Burma,FY 2010,84,Moslem,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Dem. Rep. Congo,FY 2010,10,Pentecostalist,10,317
+From: 02 Sep 2010,To: 02 Sep 2010,Eritrea,FY 2010,10,Christian,8,317
+From: 02 Sep 2010,To: 02 Sep 2010,Eritrea,FY 2010,10,Moslem,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Eritrea,FY 2010,10,Orthodox,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Ethiopia,FY 2010,35,Christian,3,317
+From: 02 Sep 2010,To: 02 Sep 2010,Ethiopia,FY 2010,35,Moslem,11,317
+From: 02 Sep 2010,To: 02 Sep 2010,Ethiopia,FY 2010,35,Orthodox,20,317
+From: 02 Sep 2010,To: 02 Sep 2010,Ethiopia,FY 2010,35,Protestant,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iran,FY 2010,1,Sabeans-Mandean,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iraq,FY 2010,71,Catholic,8,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iraq,FY 2010,71,Moslem,8,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iraq,FY 2010,71,Moslem Shiite,13,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iraq,FY 2010,71,Moslem Suni,31,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iraq,FY 2010,71,Other Religion,5,317
+From: 02 Sep 2010,To: 02 Sep 2010,Iraq,FY 2010,71,Sabeans-Mandean,6,317
+From: 02 Sep 2010,To: 02 Sep 2010,Jordan,FY 2010,2,Moslem Suni,2,317
+From: 02 Sep 2010,To: 02 Sep 2010,Laos,FY 2010,1,Animist,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Liberia,FY 2010,6,Christian,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Liberia,FY 2010,6,Lutheran,5,317
+From: 02 Sep 2010,To: 02 Sep 2010,Palestine,FY 2010,29,Moslem Suni,29,317
+From: 02 Sep 2010,To: 02 Sep 2010,Rwanda,FY 2010,7,Catholic,7,317
+From: 02 Sep 2010,To: 02 Sep 2010,Sierra Leone,FY 2010,1,Moslem,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Somalia,FY 2010,14,Moslem,10,317
+From: 02 Sep 2010,To: 02 Sep 2010,Somalia,FY 2010,14,Moslem Suni,4,317
+From: 02 Sep 2010,To: 02 Sep 2010,Sudan,FY 2010,10,Moslem,6,317
+From: 02 Sep 2010,To: 02 Sep 2010,Sudan,FY 2010,10,Moslem Suni,4,317
+From: 02 Sep 2010,To: 02 Sep 2010,Ukraine,FY 2010,7,Evangelical Christian,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Ukraine,FY 2010,7,Pentecostalist,6,317
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Sep 2010,To: 02 Sep 2010,Animist,FY 2010,4,Burma,3,317
+From: 02 Sep 2010,To: 02 Sep 2010,Animist,FY 2010,4,Laos,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Baptist,FY 2010,12,Burma,12,317
+From: 02 Sep 2010,To: 02 Sep 2010,Buddhist,FY 2010,26,Bhutan,4,317
+From: 02 Sep 2010,To: 02 Sep 2010,Buddhist,FY 2010,26,Burma,22,317
+From: 02 Sep 2010,To: 02 Sep 2010,Catholic,FY 2010,17,Burma,2,317
+From: 02 Sep 2010,To: 02 Sep 2010,Catholic,FY 2010,17,Iraq,8,317
+From: 02 Sep 2010,To: 02 Sep 2010,Catholic,FY 2010,17,Rwanda,7,317
+From: 02 Sep 2010,To: 02 Sep 2010,Christian,FY 2010,56,Burma,44,317
+From: 02 Sep 2010,To: 02 Sep 2010,Christian,FY 2010,56,Eritrea,8,317
+From: 02 Sep 2010,To: 02 Sep 2010,Christian,FY 2010,56,Ethiopia,3,317
+From: 02 Sep 2010,To: 02 Sep 2010,Christian,FY 2010,56,Liberia,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Evangelical Christian,FY 2010,1,Ukraine,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Hindu,FY 2010,20,Bhutan,20,317
+From: 02 Sep 2010,To: 02 Sep 2010,Kirat,FY 2010,5,Bhutan,5,317
+From: 02 Sep 2010,To: 02 Sep 2010,Lutheran,FY 2010,5,Liberia,5,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Burma,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Eritrea,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Ethiopia,11,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Iraq,8,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Sierra Leone,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Somalia,10,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem,FY 2010,38,Sudan,6,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem Shiite,FY 2010,13,Iraq,13,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem Suni,FY 2010,70,Iraq,31,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem Suni,FY 2010,70,Jordan,2,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem Suni,FY 2010,70,Palestine,29,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem Suni,FY 2010,70,Somalia,4,317
+From: 02 Sep 2010,To: 02 Sep 2010,Moslem Suni,FY 2010,70,Sudan,4,317
+From: 02 Sep 2010,To: 02 Sep 2010,Orthodox,FY 2010,21,Eritrea,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Orthodox,FY 2010,21,Ethiopia,20,317
+From: 02 Sep 2010,To: 02 Sep 2010,Other Religion,FY 2010,5,Iraq,5,317
+From: 02 Sep 2010,To: 02 Sep 2010,Pentecostalist,FY 2010,16,Dem. Rep. Congo,10,317
+From: 02 Sep 2010,To: 02 Sep 2010,Pentecostalist,FY 2010,16,Ukraine,6,317
+From: 02 Sep 2010,To: 02 Sep 2010,Protestant,FY 2010,1,Ethiopia,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Sabeans-Mandean,FY 2010,7,Iran,1,317
+From: 02 Sep 2010,To: 02 Sep 2010,Sabeans-Mandean,FY 2010,7,Iraq,6,317
+

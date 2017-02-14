@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Oct 2004,To: 27 Oct 2004,Afghanistan,FY 2005,9,Christian,6,349
+From: 27 Oct 2004,To: 27 Oct 2004,Afghanistan,FY 2005,9,Moslem,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Afghanistan,FY 2005,9,Moslem Shiite,2,349
+From: 27 Oct 2004,To: 27 Oct 2004,Azerbaijan,FY 2005,12,Jewish,12,349
+From: 27 Oct 2004,To: 27 Oct 2004,Burma,FY 2005,22,Buddhist,14,349
+From: 27 Oct 2004,To: 27 Oct 2004,Burma,FY 2005,22,Protestant,8,349
+From: 27 Oct 2004,To: 27 Oct 2004,Ethiopia,FY 2005,1,Orthodox,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Iran,FY 2005,27,Bahai,27,349
+From: 27 Oct 2004,To: 27 Oct 2004,Iraq,FY 2005,5,Moslem,5,349
+From: 27 Oct 2004,To: 27 Oct 2004,Laos,FY 2005,50,Ancestral Worship,50,349
+From: 27 Oct 2004,To: 27 Oct 2004,Liberia,FY 2005,56,Baptist,7,349
+From: 27 Oct 2004,To: 27 Oct 2004,Liberia,FY 2005,56,Christian,20,349
+From: 27 Oct 2004,To: 27 Oct 2004,Liberia,FY 2005,56,Moslem,25,349
+From: 27 Oct 2004,To: 27 Oct 2004,Liberia,FY 2005,56,Pentecostalist,4,349
+From: 27 Oct 2004,To: 27 Oct 2004,Sierra Leone,FY 2005,2,Christian,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Sierra Leone,FY 2005,2,Moslem,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Somalia,FY 2005,106,Christian,4,349
+From: 27 Oct 2004,To: 27 Oct 2004,Somalia,FY 2005,106,Moslem,102,349
+From: 27 Oct 2004,To: 27 Oct 2004,Sudan,FY 2005,29,Catholic,3,349
+From: 27 Oct 2004,To: 27 Oct 2004,Sudan,FY 2005,29,Christian,10,349
+From: 27 Oct 2004,To: 27 Oct 2004,Sudan,FY 2005,29,Moslem,12,349
+From: 27 Oct 2004,To: 27 Oct 2004,Sudan,FY 2005,29,Protestant,4,349
+From: 27 Oct 2004,To: 27 Oct 2004,Ukraine,FY 2005,30,Baptist,7,349
+From: 27 Oct 2004,To: 27 Oct 2004,Ukraine,FY 2005,30,Pentecostalist,23,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Oct 2004,To: 27 Oct 2004,Ancestral Worship,FY 2005,50,Laos,50,349
+From: 27 Oct 2004,To: 27 Oct 2004,Bahai,FY 2005,27,Iran,27,349
+From: 27 Oct 2004,To: 27 Oct 2004,Baptist,FY 2005,14,Liberia,7,349
+From: 27 Oct 2004,To: 27 Oct 2004,Baptist,FY 2005,14,Ukraine,7,349
+From: 27 Oct 2004,To: 27 Oct 2004,Buddhist,FY 2005,14,Burma,14,349
+From: 27 Oct 2004,To: 27 Oct 2004,Catholic,FY 2005,3,Sudan,3,349
+From: 27 Oct 2004,To: 27 Oct 2004,Christian,FY 2005,41,Afghanistan,6,349
+From: 27 Oct 2004,To: 27 Oct 2004,Christian,FY 2005,41,Liberia,20,349
+From: 27 Oct 2004,To: 27 Oct 2004,Christian,FY 2005,41,Sierra Leone,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Christian,FY 2005,41,Somalia,4,349
+From: 27 Oct 2004,To: 27 Oct 2004,Christian,FY 2005,41,Sudan,10,349
+From: 27 Oct 2004,To: 27 Oct 2004,Jewish,FY 2005,12,Azerbaijan,12,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem,FY 2005,146,Afghanistan,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem,FY 2005,146,Iraq,5,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem,FY 2005,146,Liberia,25,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem,FY 2005,146,Sierra Leone,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem,FY 2005,146,Somalia,102,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem,FY 2005,146,Sudan,12,349
+From: 27 Oct 2004,To: 27 Oct 2004,Moslem Shiite,FY 2005,2,Afghanistan,2,349
+From: 27 Oct 2004,To: 27 Oct 2004,Orthodox,FY 2005,1,Ethiopia,1,349
+From: 27 Oct 2004,To: 27 Oct 2004,Pentecostalist,FY 2005,27,Liberia,4,349
+From: 27 Oct 2004,To: 27 Oct 2004,Pentecostalist,FY 2005,27,Ukraine,23,349
+From: 27 Oct 2004,To: 27 Oct 2004,Protestant,FY 2005,12,Burma,8,349
+From: 27 Oct 2004,To: 27 Oct 2004,Protestant,FY 2005,12,Sudan,4,349
+

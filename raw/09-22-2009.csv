@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Sep 2009,To: 22 Sep 2009,Bhutan,FY 2009,59,Buddhist,15,387
+From: 22 Sep 2009,To: 22 Sep 2009,Bhutan,FY 2009,59,Hindu,44,387
+From: 22 Sep 2009,To: 22 Sep 2009,Burma,FY 2009,97,Animist,11,387
+From: 22 Sep 2009,To: 22 Sep 2009,Burma,FY 2009,97,Buddhist,25,387
+From: 22 Sep 2009,To: 22 Sep 2009,Burma,FY 2009,97,Christian,47,387
+From: 22 Sep 2009,To: 22 Sep 2009,Burma,FY 2009,97,Moslem,14,387
+From: 22 Sep 2009,To: 22 Sep 2009,Burundi,FY 2009,37,Catholic,6,387
+From: 22 Sep 2009,To: 22 Sep 2009,Burundi,FY 2009,37,Pentecostalist,31,387
+From: 22 Sep 2009,To: 22 Sep 2009,China,FY 2009,2,Other Religion,2,387
+From: 22 Sep 2009,To: 22 Sep 2009,Congo,FY 2009,28,Catholic,12,387
+From: 22 Sep 2009,To: 22 Sep 2009,Congo,FY 2009,28,Other Religion,5,387
+From: 22 Sep 2009,To: 22 Sep 2009,Congo,FY 2009,28,Protestant,11,387
+From: 22 Sep 2009,To: 22 Sep 2009,Dem. Rep. Congo,FY 2009,30,Christian,6,387
+From: 22 Sep 2009,To: 22 Sep 2009,Dem. Rep. Congo,FY 2009,30,Jehovah Witness,5,387
+From: 22 Sep 2009,To: 22 Sep 2009,Dem. Rep. Congo,FY 2009,30,Methodist,6,387
+From: 22 Sep 2009,To: 22 Sep 2009,Dem. Rep. Congo,FY 2009,30,Pentecostalist,12,387
+From: 22 Sep 2009,To: 22 Sep 2009,Dem. Rep. Congo,FY 2009,30,Protestant,1,387
+From: 22 Sep 2009,To: 22 Sep 2009,Eritrea,FY 2009,30,Catholic,13,387
+From: 22 Sep 2009,To: 22 Sep 2009,Eritrea,FY 2009,30,Orthodox,15,387
+From: 22 Sep 2009,To: 22 Sep 2009,Eritrea,FY 2009,30,Seventh Day Adventist,2,387
+From: 22 Sep 2009,To: 22 Sep 2009,Ethiopia,FY 2009,1,Orthodox,1,387
+From: 22 Sep 2009,To: 22 Sep 2009,Iran,FY 2009,51,Bahai,4,387
+From: 22 Sep 2009,To: 22 Sep 2009,Iran,FY 2009,51,Christian,35,387
+From: 22 Sep 2009,To: 22 Sep 2009,Iran,FY 2009,51,Sabeans-Mandean,8,387
+From: 22 Sep 2009,To: 22 Sep 2009,Iran,FY 2009,51,Zoroastrian,4,387
+From: 22 Sep 2009,To: 22 Sep 2009,Rwanda,FY 2009,5,Catholic,5,387
+From: 22 Sep 2009,To: 22 Sep 2009,Somalia,FY 2009,47,Moslem,47,387
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Sep 2009,To: 22 Sep 2009,Animist,FY 2009,11,Burma,11,387
+From: 22 Sep 2009,To: 22 Sep 2009,Bahai,FY 2009,4,Iran,4,387
+From: 22 Sep 2009,To: 22 Sep 2009,Buddhist,FY 2009,40,Bhutan,15,387
+From: 22 Sep 2009,To: 22 Sep 2009,Buddhist,FY 2009,40,Burma,25,387
+From: 22 Sep 2009,To: 22 Sep 2009,Catholic,FY 2009,36,Burundi,6,387
+From: 22 Sep 2009,To: 22 Sep 2009,Catholic,FY 2009,36,Congo,12,387
+From: 22 Sep 2009,To: 22 Sep 2009,Catholic,FY 2009,36,Eritrea,13,387
+From: 22 Sep 2009,To: 22 Sep 2009,Catholic,FY 2009,36,Rwanda,5,387
+From: 22 Sep 2009,To: 22 Sep 2009,Christian,FY 2009,88,Burma,47,387
+From: 22 Sep 2009,To: 22 Sep 2009,Christian,FY 2009,88,Dem. Rep. Congo,6,387
+From: 22 Sep 2009,To: 22 Sep 2009,Christian,FY 2009,88,Iran,35,387
+From: 22 Sep 2009,To: 22 Sep 2009,Hindu,FY 2009,44,Bhutan,44,387
+From: 22 Sep 2009,To: 22 Sep 2009,Jehovah Witness,FY 2009,5,Dem. Rep. Congo,5,387
+From: 22 Sep 2009,To: 22 Sep 2009,Methodist,FY 2009,6,Dem. Rep. Congo,6,387
+From: 22 Sep 2009,To: 22 Sep 2009,Moslem,FY 2009,61,Burma,14,387
+From: 22 Sep 2009,To: 22 Sep 2009,Moslem,FY 2009,61,Somalia,47,387
+From: 22 Sep 2009,To: 22 Sep 2009,Orthodox,FY 2009,16,Eritrea,15,387
+From: 22 Sep 2009,To: 22 Sep 2009,Orthodox,FY 2009,16,Ethiopia,1,387
+From: 22 Sep 2009,To: 22 Sep 2009,Other Religion,FY 2009,7,China,2,387
+From: 22 Sep 2009,To: 22 Sep 2009,Other Religion,FY 2009,7,Congo,5,387
+From: 22 Sep 2009,To: 22 Sep 2009,Pentecostalist,FY 2009,43,Burundi,31,387
+From: 22 Sep 2009,To: 22 Sep 2009,Pentecostalist,FY 2009,43,Dem. Rep. Congo,12,387
+From: 22 Sep 2009,To: 22 Sep 2009,Protestant,FY 2009,12,Congo,11,387
+From: 22 Sep 2009,To: 22 Sep 2009,Protestant,FY 2009,12,Dem. Rep. Congo,1,387
+From: 22 Sep 2009,To: 22 Sep 2009,Sabeans-Mandean,FY 2009,8,Iran,8,387
+From: 22 Sep 2009,To: 22 Sep 2009,Seventh Day Adventist,FY 2009,2,Eritrea,2,387
+From: 22 Sep 2009,To: 22 Sep 2009,Zoroastrian,FY 2009,4,Iran,4,387
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Oct 2008,To: 27 Oct 2008,Burma,FY 2009,86,Buddhist,16,273
+From: 27 Oct 2008,To: 27 Oct 2008,Burma,FY 2009,86,Christian,60,273
+From: 27 Oct 2008,To: 27 Oct 2008,Burma,FY 2009,86,Moslem,10,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iran,FY 2009,6,Bahai,4,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iran,FY 2009,6,Christian,2,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Catholic,8,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Chaldean,2,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Christian,48,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Moslem,5,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Moslem Shiite,44,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Moslem Suni,55,273
+From: 27 Oct 2008,To: 27 Oct 2008,Iraq,FY 2009,171,Sabeans-Mandean,9,273
+From: 27 Oct 2008,To: 27 Oct 2008,Somalia,FY 2009,9,Moslem,3,273
+From: 27 Oct 2008,To: 27 Oct 2008,Somalia,FY 2009,9,Moslem Suni,6,273
+From: 27 Oct 2008,To: 27 Oct 2008,Sudan,FY 2009,1,Moslem,1,273
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Oct 2008,To: 27 Oct 2008,Bahai,FY 2009,4,Iran,4,273
+From: 27 Oct 2008,To: 27 Oct 2008,Buddhist,FY 2009,16,Burma,16,273
+From: 27 Oct 2008,To: 27 Oct 2008,Catholic,FY 2009,8,Iraq,8,273
+From: 27 Oct 2008,To: 27 Oct 2008,Chaldean,FY 2009,2,Iraq,2,273
+From: 27 Oct 2008,To: 27 Oct 2008,Christian,FY 2009,110,Burma,60,273
+From: 27 Oct 2008,To: 27 Oct 2008,Christian,FY 2009,110,Iran,2,273
+From: 27 Oct 2008,To: 27 Oct 2008,Christian,FY 2009,110,Iraq,48,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem,FY 2009,19,Burma,10,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem,FY 2009,19,Iraq,5,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem,FY 2009,19,Somalia,3,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem,FY 2009,19,Sudan,1,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem Shiite,FY 2009,44,Iraq,44,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem Suni,FY 2009,61,Iraq,55,273
+From: 27 Oct 2008,To: 27 Oct 2008,Moslem Suni,FY 2009,61,Somalia,6,273
+From: 27 Oct 2008,To: 27 Oct 2008,Sabeans-Mandean,FY 2009,9,Iraq,9,273
+

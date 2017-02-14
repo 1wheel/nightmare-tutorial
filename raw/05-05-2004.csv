@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 May 2004,To: 05 May 2004,Burundi,FY 2004,71,Catholic,6,251
+From: 05 May 2004,To: 05 May 2004,Burundi,FY 2004,71,Christian,45,251
+From: 05 May 2004,To: 05 May 2004,Burundi,FY 2004,71,Jehovah Witness,1,251
+From: 05 May 2004,To: 05 May 2004,Burundi,FY 2004,71,Moslem,8,251
+From: 05 May 2004,To: 05 May 2004,Burundi,FY 2004,71,Pentecostalist,9,251
+From: 05 May 2004,To: 05 May 2004,Burundi,FY 2004,71,Protestant,2,251
+From: 05 May 2004,To: 05 May 2004,Cuba,FY 2004,19,Catholic,6,251
+From: 05 May 2004,To: 05 May 2004,Cuba,FY 2004,19,Christian,2,251
+From: 05 May 2004,To: 05 May 2004,Cuba,FY 2004,19,Jehovah Witness,8,251
+From: 05 May 2004,To: 05 May 2004,Cuba,FY 2004,19,No Religion,3,251
+From: 05 May 2004,To: 05 May 2004,Dem. Rep. Congo,FY 2004,19,Catholic,1,251
+From: 05 May 2004,To: 05 May 2004,Dem. Rep. Congo,FY 2004,19,Christian,12,251
+From: 05 May 2004,To: 05 May 2004,Dem. Rep. Congo,FY 2004,19,Pentecostalist,4,251
+From: 05 May 2004,To: 05 May 2004,Dem. Rep. Congo,FY 2004,19,Seventh Day Adventist,2,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Baptist,19,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Catholic,3,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Christian,60,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Lutheran,3,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Methodist,2,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Moslem,12,251
+From: 05 May 2004,To: 05 May 2004,Liberia,FY 2004,100,Pentecostalist,1,251
+From: 05 May 2004,To: 05 May 2004,Rwanda,FY 2004,2,Seventh Day Adventist,2,251
+From: 05 May 2004,To: 05 May 2004,Somalia,FY 2004,35,Moslem,35,251
+From: 05 May 2004,To: 05 May 2004,Sudan,FY 2004,5,Christian,5,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 May 2004,To: 05 May 2004,Baptist,FY 2004,19,Liberia,19,251
+From: 05 May 2004,To: 05 May 2004,Catholic,FY 2004,16,Burundi,6,251
+From: 05 May 2004,To: 05 May 2004,Catholic,FY 2004,16,Cuba,6,251
+From: 05 May 2004,To: 05 May 2004,Catholic,FY 2004,16,Dem. Rep. Congo,1,251
+From: 05 May 2004,To: 05 May 2004,Catholic,FY 2004,16,Liberia,3,251
+From: 05 May 2004,To: 05 May 2004,Christian,FY 2004,124,Burundi,45,251
+From: 05 May 2004,To: 05 May 2004,Christian,FY 2004,124,Cuba,2,251
+From: 05 May 2004,To: 05 May 2004,Christian,FY 2004,124,Dem. Rep. Congo,12,251
+From: 05 May 2004,To: 05 May 2004,Christian,FY 2004,124,Liberia,60,251
+From: 05 May 2004,To: 05 May 2004,Christian,FY 2004,124,Sudan,5,251
+From: 05 May 2004,To: 05 May 2004,Jehovah Witness,FY 2004,9,Burundi,1,251
+From: 05 May 2004,To: 05 May 2004,Jehovah Witness,FY 2004,9,Cuba,8,251
+From: 05 May 2004,To: 05 May 2004,Lutheran,FY 2004,3,Liberia,3,251
+From: 05 May 2004,To: 05 May 2004,Methodist,FY 2004,2,Liberia,2,251
+From: 05 May 2004,To: 05 May 2004,Moslem,FY 2004,55,Burundi,8,251
+From: 05 May 2004,To: 05 May 2004,Moslem,FY 2004,55,Liberia,12,251
+From: 05 May 2004,To: 05 May 2004,Moslem,FY 2004,55,Somalia,35,251
+From: 05 May 2004,To: 05 May 2004,No Religion,FY 2004,3,Cuba,3,251
+From: 05 May 2004,To: 05 May 2004,Pentecostalist,FY 2004,14,Burundi,9,251
+From: 05 May 2004,To: 05 May 2004,Pentecostalist,FY 2004,14,Dem. Rep. Congo,4,251
+From: 05 May 2004,To: 05 May 2004,Pentecostalist,FY 2004,14,Liberia,1,251
+From: 05 May 2004,To: 05 May 2004,Protestant,FY 2004,2,Burundi,2,251
+From: 05 May 2004,To: 05 May 2004,Seventh Day Adventist,FY 2004,4,Dem. Rep. Congo,2,251
+From: 05 May 2004,To: 05 May 2004,Seventh Day Adventist,FY 2004,4,Rwanda,2,251
+

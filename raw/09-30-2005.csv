@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Sep 2005,To: 30 Sep 2005,Afghanistan,FY 2005,17,Moslem Suni,16,361
+From: 30 Sep 2005,To: 30 Sep 2005,Afghanistan,FY 2005,17,Unknown,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Azerbaijan,FY 2005,4,Jewish,4,361
+From: 30 Sep 2005,To: 30 Sep 2005,Burma,FY 2005,2,Protestant,2,361
+From: 30 Sep 2005,To: 30 Sep 2005,Cuba,FY 2005,24,Baptist,2,361
+From: 30 Sep 2005,To: 30 Sep 2005,Cuba,FY 2005,24,Catholic,6,361
+From: 30 Sep 2005,To: 30 Sep 2005,Cuba,FY 2005,24,Jehovah Witness,8,361
+From: 30 Sep 2005,To: 30 Sep 2005,Cuba,FY 2005,24,No Religion,8,361
+From: 30 Sep 2005,To: 30 Sep 2005,Dem. Rep. Congo,FY 2005,1,Unknown,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Ethiopia,FY 2005,4,Moslem,4,361
+From: 30 Sep 2005,To: 30 Sep 2005,Liberia,FY 2005,63,Baptist,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Liberia,FY 2005,63,Christian,39,361
+From: 30 Sep 2005,To: 30 Sep 2005,Liberia,FY 2005,63,Lutheran,2,361
+From: 30 Sep 2005,To: 30 Sep 2005,Liberia,FY 2005,63,Moslem,21,361
+From: 30 Sep 2005,To: 30 Sep 2005,Nigeria,FY 2005,3,Unknown,3,361
+From: 30 Sep 2005,To: 30 Sep 2005,Russia,FY 2005,105,Moslem,105,361
+From: 30 Sep 2005,To: 30 Sep 2005,Somalia,FY 2005,36,Moslem,36,361
+From: 30 Sep 2005,To: 30 Sep 2005,Ukraine,FY 2005,31,Jewish,6,361
+From: 30 Sep 2005,To: 30 Sep 2005,Ukraine,FY 2005,31,Pentecostalist,25,361
+From: 30 Sep 2005,To: 30 Sep 2005,Vietnam,FY 2005,71,Ancestral Worship,10,361
+From: 30 Sep 2005,To: 30 Sep 2005,Vietnam,FY 2005,71,Buddhist,18,361
+From: 30 Sep 2005,To: 30 Sep 2005,Vietnam,FY 2005,71,Cao Dai,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Vietnam,FY 2005,71,Catholic,14,361
+From: 30 Sep 2005,To: 30 Sep 2005,Vietnam,FY 2005,71,No Religion,24,361
+From: 30 Sep 2005,To: 30 Sep 2005,Vietnam,FY 2005,71,Protestant,4,361
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Sep 2005,To: 30 Sep 2005,Ancestral Worship,FY 2005,10,Vietnam,10,361
+From: 30 Sep 2005,To: 30 Sep 2005,Baptist,FY 2005,3,Cuba,2,361
+From: 30 Sep 2005,To: 30 Sep 2005,Baptist,FY 2005,3,Liberia,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Buddhist,FY 2005,18,Vietnam,18,361
+From: 30 Sep 2005,To: 30 Sep 2005,Cao Dai,FY 2005,1,Vietnam,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Catholic,FY 2005,20,Cuba,6,361
+From: 30 Sep 2005,To: 30 Sep 2005,Catholic,FY 2005,20,Vietnam,14,361
+From: 30 Sep 2005,To: 30 Sep 2005,Christian,FY 2005,39,Liberia,39,361
+From: 30 Sep 2005,To: 30 Sep 2005,Jehovah Witness,FY 2005,8,Cuba,8,361
+From: 30 Sep 2005,To: 30 Sep 2005,Jewish,FY 2005,10,Azerbaijan,4,361
+From: 30 Sep 2005,To: 30 Sep 2005,Jewish,FY 2005,10,Ukraine,6,361
+From: 30 Sep 2005,To: 30 Sep 2005,Lutheran,FY 2005,2,Liberia,2,361
+From: 30 Sep 2005,To: 30 Sep 2005,Moslem,FY 2005,166,Ethiopia,4,361
+From: 30 Sep 2005,To: 30 Sep 2005,Moslem,FY 2005,166,Liberia,21,361
+From: 30 Sep 2005,To: 30 Sep 2005,Moslem,FY 2005,166,Russia,105,361
+From: 30 Sep 2005,To: 30 Sep 2005,Moslem,FY 2005,166,Somalia,36,361
+From: 30 Sep 2005,To: 30 Sep 2005,Moslem Suni,FY 2005,16,Afghanistan,16,361
+From: 30 Sep 2005,To: 30 Sep 2005,No Religion,FY 2005,32,Cuba,8,361
+From: 30 Sep 2005,To: 30 Sep 2005,No Religion,FY 2005,32,Vietnam,24,361
+From: 30 Sep 2005,To: 30 Sep 2005,Pentecostalist,FY 2005,25,Ukraine,25,361
+From: 30 Sep 2005,To: 30 Sep 2005,Protestant,FY 2005,6,Burma,2,361
+From: 30 Sep 2005,To: 30 Sep 2005,Protestant,FY 2005,6,Vietnam,4,361
+From: 30 Sep 2005,To: 30 Sep 2005,Unknown,FY 2005,5,Afghanistan,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Unknown,FY 2005,5,Dem. Rep. Congo,1,361
+From: 30 Sep 2005,To: 30 Sep 2005,Unknown,FY 2005,5,Nigeria,3,361
+

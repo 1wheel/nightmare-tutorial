@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Nov 2012,To: 05 Nov 2012,Bhutan,FY 2013,35,Buddhist,10,197
+From: 05 Nov 2012,To: 05 Nov 2012,Bhutan,FY 2013,35,Hindu,19,197
+From: 05 Nov 2012,To: 05 Nov 2012,Bhutan,FY 2013,35,Kirat,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Burma,FY 2013,33,Animist,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Burma,FY 2013,33,Buddhist,11,197
+From: 05 Nov 2012,To: 05 Nov 2012,Burma,FY 2013,33,Catholic,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Burma,FY 2013,33,Christian,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Burma,FY 2013,33,Moslem,4,197
+From: 05 Nov 2012,To: 05 Nov 2012,Cuba,FY 2013,2,Catholic,2,197
+From: 05 Nov 2012,To: 05 Nov 2012,Eritrea,FY 2013,2,Orthodox,2,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Catholic,32,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Christian,3,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Moslem,1,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Moslem Shiite,26,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Moslem Suni,25,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Orthodox,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Iraq,FY 2013,99,Protestant,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Somalia,FY 2013,3,Moslem,3,197
+From: 05 Nov 2012,To: 05 Nov 2012,Sudan,FY 2013,22,Moslem,22,197
+From: 05 Nov 2012,To: 05 Nov 2012,Vietnam,FY 2013,1,Catholic,1,197
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Nov 2012,To: 05 Nov 2012,Animist,FY 2013,6,Burma,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Buddhist,FY 2013,21,Bhutan,10,197
+From: 05 Nov 2012,To: 05 Nov 2012,Buddhist,FY 2013,21,Burma,11,197
+From: 05 Nov 2012,To: 05 Nov 2012,Catholic,FY 2013,41,Burma,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Catholic,FY 2013,41,Cuba,2,197
+From: 05 Nov 2012,To: 05 Nov 2012,Catholic,FY 2013,41,Iraq,32,197
+From: 05 Nov 2012,To: 05 Nov 2012,Catholic,FY 2013,41,Vietnam,1,197
+From: 05 Nov 2012,To: 05 Nov 2012,Christian,FY 2013,9,Burma,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Christian,FY 2013,9,Iraq,3,197
+From: 05 Nov 2012,To: 05 Nov 2012,Hindu,FY 2013,19,Bhutan,19,197
+From: 05 Nov 2012,To: 05 Nov 2012,Kirat,FY 2013,6,Bhutan,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Moslem,FY 2013,30,Burma,4,197
+From: 05 Nov 2012,To: 05 Nov 2012,Moslem,FY 2013,30,Iraq,1,197
+From: 05 Nov 2012,To: 05 Nov 2012,Moslem,FY 2013,30,Somalia,3,197
+From: 05 Nov 2012,To: 05 Nov 2012,Moslem,FY 2013,30,Sudan,22,197
+From: 05 Nov 2012,To: 05 Nov 2012,Moslem Shiite,FY 2013,26,Iraq,26,197
+From: 05 Nov 2012,To: 05 Nov 2012,Moslem Suni,FY 2013,25,Iraq,25,197
+From: 05 Nov 2012,To: 05 Nov 2012,Orthodox,FY 2013,8,Eritrea,2,197
+From: 05 Nov 2012,To: 05 Nov 2012,Orthodox,FY 2013,8,Iraq,6,197
+From: 05 Nov 2012,To: 05 Nov 2012,Protestant,FY 2013,6,Iraq,6,197
+

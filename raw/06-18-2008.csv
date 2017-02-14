@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jun 2008,To: 18 Jun 2008,Afghanistan,FY 2008,6,Moslem Shiite,6,556
+From: 18 Jun 2008,To: 18 Jun 2008,Bhutan,FY 2008,34,Buddhist,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Bhutan,FY 2008,34,Christian,6,556
+From: 18 Jun 2008,To: 18 Jun 2008,Bhutan,FY 2008,34,Hindu,27,556
+From: 18 Jun 2008,To: 18 Jun 2008,Burma,FY 2008,169,Buddhist,61,556
+From: 18 Jun 2008,To: 18 Jun 2008,Burma,FY 2008,169,Christian,98,556
+From: 18 Jun 2008,To: 18 Jun 2008,Burma,FY 2008,169,Moslem,10,556
+From: 18 Jun 2008,To: 18 Jun 2008,Burundi,FY 2008,34,Catholic,11,556
+From: 18 Jun 2008,To: 18 Jun 2008,Burundi,FY 2008,34,Pentecostalist,16,556
+From: 18 Jun 2008,To: 18 Jun 2008,Burundi,FY 2008,34,Protestant,7,556
+From: 18 Jun 2008,To: 18 Jun 2008,Cuba,FY 2008,4,No Religion,4,556
+From: 18 Jun 2008,To: 18 Jun 2008,Georgia,FY 2008,1,Orthodox,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iran,FY 2008,30,Christian,19,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iran,FY 2008,30,Jewish,4,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iran,FY 2008,30,Sabeans-Mandean,5,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iran,FY 2008,30,Zoroastrian,2,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Catholic,27,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Christian,44,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Moslem,8,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Moslem Shiite,15,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Moslem Suni,64,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Orthodox,3,556
+From: 18 Jun 2008,To: 18 Jun 2008,Iraq,FY 2008,167,Sabeans-Mandean,6,556
+From: 18 Jun 2008,To: 18 Jun 2008,Liberia,FY 2008,1,Christian,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moldova,FY 2008,22,Baptist,14,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moldova,FY 2008,22,Pentecostalist,8,556
+From: 18 Jun 2008,To: 18 Jun 2008,Nepal,FY 2008,1,Hindu,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Pakistan,FY 2008,4,Moslem,4,556
+From: 18 Jun 2008,To: 18 Jun 2008,Russia,FY 2008,17,Baptist,9,556
+From: 18 Jun 2008,To: 18 Jun 2008,Russia,FY 2008,17,Jewish,5,556
+From: 18 Jun 2008,To: 18 Jun 2008,Russia,FY 2008,17,Moslem,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Russia,FY 2008,17,Seventh Day Adventist,2,556
+From: 18 Jun 2008,To: 18 Jun 2008,Somalia,FY 2008,35,Moslem,35,556
+From: 18 Jun 2008,To: 18 Jun 2008,Sudan,FY 2008,3,Moslem,3,556
+From: 18 Jun 2008,To: 18 Jun 2008,Vietnam,FY 2008,28,Buddhist,8,556
+From: 18 Jun 2008,To: 18 Jun 2008,Vietnam,FY 2008,28,Catholic,5,556
+From: 18 Jun 2008,To: 18 Jun 2008,Vietnam,FY 2008,28,No Religion,15,556
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jun 2008,To: 18 Jun 2008,Baptist,FY 2008,23,Moldova,14,556
+From: 18 Jun 2008,To: 18 Jun 2008,Baptist,FY 2008,23,Russia,9,556
+From: 18 Jun 2008,To: 18 Jun 2008,Buddhist,FY 2008,70,Bhutan,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Buddhist,FY 2008,70,Burma,61,556
+From: 18 Jun 2008,To: 18 Jun 2008,Buddhist,FY 2008,70,Vietnam,8,556
+From: 18 Jun 2008,To: 18 Jun 2008,Catholic,FY 2008,43,Burundi,11,556
+From: 18 Jun 2008,To: 18 Jun 2008,Catholic,FY 2008,43,Iraq,27,556
+From: 18 Jun 2008,To: 18 Jun 2008,Catholic,FY 2008,43,Vietnam,5,556
+From: 18 Jun 2008,To: 18 Jun 2008,Christian,FY 2008,168,Bhutan,6,556
+From: 18 Jun 2008,To: 18 Jun 2008,Christian,FY 2008,168,Burma,98,556
+From: 18 Jun 2008,To: 18 Jun 2008,Christian,FY 2008,168,Iran,19,556
+From: 18 Jun 2008,To: 18 Jun 2008,Christian,FY 2008,168,Iraq,44,556
+From: 18 Jun 2008,To: 18 Jun 2008,Christian,FY 2008,168,Liberia,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Hindu,FY 2008,28,Bhutan,27,556
+From: 18 Jun 2008,To: 18 Jun 2008,Hindu,FY 2008,28,Nepal,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Jewish,FY 2008,9,Iran,4,556
+From: 18 Jun 2008,To: 18 Jun 2008,Jewish,FY 2008,9,Russia,5,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem,FY 2008,61,Burma,10,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem,FY 2008,61,Iraq,8,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem,FY 2008,61,Pakistan,4,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem,FY 2008,61,Russia,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem,FY 2008,61,Somalia,35,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem,FY 2008,61,Sudan,3,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem Shiite,FY 2008,21,Afghanistan,6,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem Shiite,FY 2008,21,Iraq,15,556
+From: 18 Jun 2008,To: 18 Jun 2008,Moslem Suni,FY 2008,64,Iraq,64,556
+From: 18 Jun 2008,To: 18 Jun 2008,No Religion,FY 2008,19,Cuba,4,556
+From: 18 Jun 2008,To: 18 Jun 2008,No Religion,FY 2008,19,Vietnam,15,556
+From: 18 Jun 2008,To: 18 Jun 2008,Orthodox,FY 2008,4,Georgia,1,556
+From: 18 Jun 2008,To: 18 Jun 2008,Orthodox,FY 2008,4,Iraq,3,556
+From: 18 Jun 2008,To: 18 Jun 2008,Pentecostalist,FY 2008,24,Burundi,16,556
+From: 18 Jun 2008,To: 18 Jun 2008,Pentecostalist,FY 2008,24,Moldova,8,556
+From: 18 Jun 2008,To: 18 Jun 2008,Protestant,FY 2008,7,Burundi,7,556
+From: 18 Jun 2008,To: 18 Jun 2008,Sabeans-Mandean,FY 2008,11,Iran,5,556
+From: 18 Jun 2008,To: 18 Jun 2008,Sabeans-Mandean,FY 2008,11,Iraq,6,556
+From: 18 Jun 2008,To: 18 Jun 2008,Seventh Day Adventist,FY 2008,2,Russia,2,556
+From: 18 Jun 2008,To: 18 Jun 2008,Zoroastrian,FY 2008,2,Iran,2,556
+

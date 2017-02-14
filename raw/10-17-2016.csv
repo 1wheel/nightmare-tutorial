@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Oct 2016,To: 17 Oct 2016,Bhutan,FY 2017,22,Buddhist,2,299
+From: 17 Oct 2016,To: 17 Oct 2016,Bhutan,FY 2017,22,Christian,5,299
+From: 17 Oct 2016,To: 17 Oct 2016,Bhutan,FY 2017,22,Hindu,7,299
+From: 17 Oct 2016,To: 17 Oct 2016,Bhutan,FY 2017,22,Kirat,8,299
+From: 17 Oct 2016,To: 17 Oct 2016,Dem. Rep. Congo,FY 2017,38,Catholic,2,299
+From: 17 Oct 2016,To: 17 Oct 2016,Dem. Rep. Congo,FY 2017,38,Jehovah Witness,9,299
+From: 17 Oct 2016,To: 17 Oct 2016,Dem. Rep. Congo,FY 2017,38,Pentecostalist,6,299
+From: 17 Oct 2016,To: 17 Oct 2016,Dem. Rep. Congo,FY 2017,38,Protestant,8,299
+From: 17 Oct 2016,To: 17 Oct 2016,Dem. Rep. Congo,FY 2017,38,Seventh Day Adventist,13,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iran,FY 2017,12,Bahai,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iran,FY 2017,12,Christian,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iran,FY 2017,12,No Religion,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iran,FY 2017,12,Protestant,6,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Catholic,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Christian,6,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Moslem,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Moslem Shiite,35,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Moslem Suni,36,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Orthodox,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Sabeans-Mandean,3,299
+From: 17 Oct 2016,To: 17 Oct 2016,Iraq,FY 2017,117,Yazidi,28,299
+From: 17 Oct 2016,To: 17 Oct 2016,Ivory Coast,FY 2017,1,Moslem,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Sierra Leone,FY 2017,1,Protestant,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Somalia,FY 2017,24,Moslem,24,299
+From: 17 Oct 2016,To: 17 Oct 2016,Syria,FY 2017,64,Moslem Suni,61,299
+From: 17 Oct 2016,To: 17 Oct 2016,Syria,FY 2017,64,Orthodox,3,299
+From: 17 Oct 2016,To: 17 Oct 2016,Ukraine,FY 2017,20,Baptist,2,299
+From: 17 Oct 2016,To: 17 Oct 2016,Ukraine,FY 2017,20,Pentecostalist,14,299
+From: 17 Oct 2016,To: 17 Oct 2016,Ukraine,FY 2017,20,Uniate,4,299
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Oct 2016,To: 17 Oct 2016,Bahai,FY 2017,1,Iran,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Baptist,FY 2017,2,Ukraine,2,299
+From: 17 Oct 2016,To: 17 Oct 2016,Buddhist,FY 2017,2,Bhutan,2,299
+From: 17 Oct 2016,To: 17 Oct 2016,Catholic,FY 2017,3,Dem. Rep. Congo,2,299
+From: 17 Oct 2016,To: 17 Oct 2016,Catholic,FY 2017,3,Iraq,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Christian,FY 2017,15,Bhutan,5,299
+From: 17 Oct 2016,To: 17 Oct 2016,Christian,FY 2017,15,Iran,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Christian,FY 2017,15,Iraq,6,299
+From: 17 Oct 2016,To: 17 Oct 2016,Hindu,FY 2017,7,Bhutan,7,299
+From: 17 Oct 2016,To: 17 Oct 2016,Jehovah Witness,FY 2017,9,Dem. Rep. Congo,9,299
+From: 17 Oct 2016,To: 17 Oct 2016,Kirat,FY 2017,8,Bhutan,8,299
+From: 17 Oct 2016,To: 17 Oct 2016,Moslem,FY 2017,29,Iraq,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Moslem,FY 2017,29,Ivory Coast,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Moslem,FY 2017,29,Somalia,24,299
+From: 17 Oct 2016,To: 17 Oct 2016,Moslem Shiite,FY 2017,35,Iraq,35,299
+From: 17 Oct 2016,To: 17 Oct 2016,Moslem Suni,FY 2017,97,Iraq,36,299
+From: 17 Oct 2016,To: 17 Oct 2016,Moslem Suni,FY 2017,97,Syria,61,299
+From: 17 Oct 2016,To: 17 Oct 2016,No Religion,FY 2017,1,Iran,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Orthodox,FY 2017,7,Iraq,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Orthodox,FY 2017,7,Syria,3,299
+From: 17 Oct 2016,To: 17 Oct 2016,Pentecostalist,FY 2017,20,Dem. Rep. Congo,6,299
+From: 17 Oct 2016,To: 17 Oct 2016,Pentecostalist,FY 2017,20,Ukraine,14,299
+From: 17 Oct 2016,To: 17 Oct 2016,Protestant,FY 2017,15,Dem. Rep. Congo,8,299
+From: 17 Oct 2016,To: 17 Oct 2016,Protestant,FY 2017,15,Iran,6,299
+From: 17 Oct 2016,To: 17 Oct 2016,Protestant,FY 2017,15,Sierra Leone,1,299
+From: 17 Oct 2016,To: 17 Oct 2016,Sabeans-Mandean,FY 2017,3,Iraq,3,299
+From: 17 Oct 2016,To: 17 Oct 2016,Seventh Day Adventist,FY 2017,13,Dem. Rep. Congo,13,299
+From: 17 Oct 2016,To: 17 Oct 2016,Uniate,FY 2017,4,Ukraine,4,299
+From: 17 Oct 2016,To: 17 Oct 2016,Yazidi,FY 2017,28,Iraq,28,299
+

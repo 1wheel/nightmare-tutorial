@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Mar 2003,To: 20 Mar 2003,Ethiopia,FY 2003,28,Christian,22,154
+From: 20 Mar 2003,To: 20 Mar 2003,Ethiopia,FY 2003,28,Orthodox,6,154
+From: 20 Mar 2003,To: 20 Mar 2003,Iran,FY 2003,6,Bahai,1,154
+From: 20 Mar 2003,To: 20 Mar 2003,Iran,FY 2003,6,Christian,3,154
+From: 20 Mar 2003,To: 20 Mar 2003,Iran,FY 2003,6,Jewish,1,154
+From: 20 Mar 2003,To: 20 Mar 2003,Iran,FY 2003,6,Zoroastrian,1,154
+From: 20 Mar 2003,To: 20 Mar 2003,Iraq,FY 2003,2,Moslem,2,154
+From: 20 Mar 2003,To: 20 Mar 2003,Serbia,FY 2003,35,Orthodox,35,154
+From: 20 Mar 2003,To: 20 Mar 2003,Sierra Leone,FY 2003,2,Methodist,2,154
+From: 20 Mar 2003,To: 20 Mar 2003,Somalia,FY 2003,18,Moslem,18,154
+From: 20 Mar 2003,To: 20 Mar 2003,Sudan,FY 2003,4,Moslem,4,154
+From: 20 Mar 2003,To: 20 Mar 2003,Ukraine,FY 2003,35,Baptist,16,154
+From: 20 Mar 2003,To: 20 Mar 2003,Ukraine,FY 2003,35,Pentecostalist,19,154
+From: 20 Mar 2003,To: 20 Mar 2003,Vietnam,FY 2003,24,Unknown,24,154
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Mar 2003,To: 20 Mar 2003,Bahai,FY 2003,1,Iran,1,154
+From: 20 Mar 2003,To: 20 Mar 2003,Baptist,FY 2003,16,Ukraine,16,154
+From: 20 Mar 2003,To: 20 Mar 2003,Christian,FY 2003,25,Ethiopia,22,154
+From: 20 Mar 2003,To: 20 Mar 2003,Christian,FY 2003,25,Iran,3,154
+From: 20 Mar 2003,To: 20 Mar 2003,Jewish,FY 2003,1,Iran,1,154
+From: 20 Mar 2003,To: 20 Mar 2003,Methodist,FY 2003,2,Sierra Leone,2,154
+From: 20 Mar 2003,To: 20 Mar 2003,Moslem,FY 2003,24,Iraq,2,154
+From: 20 Mar 2003,To: 20 Mar 2003,Moslem,FY 2003,24,Somalia,18,154
+From: 20 Mar 2003,To: 20 Mar 2003,Moslem,FY 2003,24,Sudan,4,154
+From: 20 Mar 2003,To: 20 Mar 2003,Orthodox,FY 2003,41,Ethiopia,6,154
+From: 20 Mar 2003,To: 20 Mar 2003,Orthodox,FY 2003,41,Serbia,35,154
+From: 20 Mar 2003,To: 20 Mar 2003,Pentecostalist,FY 2003,19,Ukraine,19,154
+From: 20 Mar 2003,To: 20 Mar 2003,Unknown,FY 2003,24,Vietnam,24,154
+From: 20 Mar 2003,To: 20 Mar 2003,Zoroastrian,FY 2003,1,Iran,1,154
+

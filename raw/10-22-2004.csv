@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Oct 2004,To: 22 Oct 2004,Colombia,FY 2005,28,Catholic,25,98
+From: 22 Oct 2004,To: 22 Oct 2004,Colombia,FY 2005,28,Christian,1,98
+From: 22 Oct 2004,To: 22 Oct 2004,Colombia,FY 2005,28,Evangelical Christian,2,98
+From: 22 Oct 2004,To: 22 Oct 2004,Moldova,FY 2005,34,Baptist,19,98
+From: 22 Oct 2004,To: 22 Oct 2004,Moldova,FY 2005,34,Jehovah Witness,6,98
+From: 22 Oct 2004,To: 22 Oct 2004,Moldova,FY 2005,34,Pentecostalist,9,98
+From: 22 Oct 2004,To: 22 Oct 2004,Somalia,FY 2005,35,Moslem,35,98
+From: 22 Oct 2004,To: 22 Oct 2004,Ukraine,FY 2005,1,Baptist,1,98
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Oct 2004,To: 22 Oct 2004,Baptist,FY 2005,20,Moldova,19,98
+From: 22 Oct 2004,To: 22 Oct 2004,Baptist,FY 2005,20,Ukraine,1,98
+From: 22 Oct 2004,To: 22 Oct 2004,Catholic,FY 2005,25,Colombia,25,98
+From: 22 Oct 2004,To: 22 Oct 2004,Christian,FY 2005,1,Colombia,1,98
+From: 22 Oct 2004,To: 22 Oct 2004,Evangelical Christian,FY 2005,2,Colombia,2,98
+From: 22 Oct 2004,To: 22 Oct 2004,Jehovah Witness,FY 2005,6,Moldova,6,98
+From: 22 Oct 2004,To: 22 Oct 2004,Moslem,FY 2005,35,Somalia,35,98
+From: 22 Oct 2004,To: 22 Oct 2004,Pentecostalist,FY 2005,9,Moldova,9,98
+

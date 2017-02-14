@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Apr 2007,To: 03 Apr 2007,Belarus,FY 2007,2,Baptist,1,135
+From: 03 Apr 2007,To: 03 Apr 2007,Belarus,FY 2007,2,Jewish,1,135
+From: 03 Apr 2007,To: 03 Apr 2007,Burma,FY 2007,26,Christian,26,135
+From: 03 Apr 2007,To: 03 Apr 2007,Dem. Rep. Congo,FY 2007,4,Christian,4,135
+From: 03 Apr 2007,To: 03 Apr 2007,Ethiopia,FY 2007,10,Christian,1,135
+From: 03 Apr 2007,To: 03 Apr 2007,Ethiopia,FY 2007,10,Moslem,9,135
+From: 03 Apr 2007,To: 03 Apr 2007,Iran,FY 2007,3,Christian,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Liberia,FY 2007,13,Christian,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Liberia,FY 2007,13,Pentecostalist,10,135
+From: 03 Apr 2007,To: 03 Apr 2007,Rwanda,FY 2007,7,Catholic,7,135
+From: 03 Apr 2007,To: 03 Apr 2007,Somalia,FY 2007,49,Moslem,49,135
+From: 03 Apr 2007,To: 03 Apr 2007,Sudan,FY 2007,3,Christian,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Togo,FY 2007,5,Catholic,5,135
+From: 03 Apr 2007,To: 03 Apr 2007,Ukraine,FY 2007,10,Baptist,6,135
+From: 03 Apr 2007,To: 03 Apr 2007,Ukraine,FY 2007,10,Pentecostalist,4,135
+From: 03 Apr 2007,To: 03 Apr 2007,Vietnam,FY 2007,3,Buddhist,3,135
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Apr 2007,To: 03 Apr 2007,Baptist,FY 2007,7,Belarus,1,135
+From: 03 Apr 2007,To: 03 Apr 2007,Baptist,FY 2007,7,Ukraine,6,135
+From: 03 Apr 2007,To: 03 Apr 2007,Buddhist,FY 2007,3,Vietnam,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Catholic,FY 2007,12,Rwanda,7,135
+From: 03 Apr 2007,To: 03 Apr 2007,Catholic,FY 2007,12,Togo,5,135
+From: 03 Apr 2007,To: 03 Apr 2007,Christian,FY 2007,40,Burma,26,135
+From: 03 Apr 2007,To: 03 Apr 2007,Christian,FY 2007,40,Dem. Rep. Congo,4,135
+From: 03 Apr 2007,To: 03 Apr 2007,Christian,FY 2007,40,Ethiopia,1,135
+From: 03 Apr 2007,To: 03 Apr 2007,Christian,FY 2007,40,Iran,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Christian,FY 2007,40,Liberia,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Christian,FY 2007,40,Sudan,3,135
+From: 03 Apr 2007,To: 03 Apr 2007,Jewish,FY 2007,1,Belarus,1,135
+From: 03 Apr 2007,To: 03 Apr 2007,Moslem,FY 2007,58,Ethiopia,9,135
+From: 03 Apr 2007,To: 03 Apr 2007,Moslem,FY 2007,58,Somalia,49,135
+From: 03 Apr 2007,To: 03 Apr 2007,Pentecostalist,FY 2007,14,Liberia,10,135
+From: 03 Apr 2007,To: 03 Apr 2007,Pentecostalist,FY 2007,14,Ukraine,4,135
+

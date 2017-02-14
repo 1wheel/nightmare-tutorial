@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 May 2010,To: 24 May 2010,Burma,FY 2010,33,Buddhist,2,129
+From: 24 May 2010,To: 24 May 2010,Burma,FY 2010,33,Christian,31,129
+From: 24 May 2010,To: 24 May 2010,Iran,FY 2010,1,Bahai,1,129
+From: 24 May 2010,To: 24 May 2010,Iraq,FY 2010,60,Catholic,15,129
+From: 24 May 2010,To: 24 May 2010,Iraq,FY 2010,60,Christian,32,129
+From: 24 May 2010,To: 24 May 2010,Iraq,FY 2010,60,Moslem,1,129
+From: 24 May 2010,To: 24 May 2010,Iraq,FY 2010,60,Moslem Shiite,7,129
+From: 24 May 2010,To: 24 May 2010,Iraq,FY 2010,60,Moslem Suni,5,129
+From: 24 May 2010,To: 24 May 2010,Palestine,FY 2010,35,Moslem,6,129
+From: 24 May 2010,To: 24 May 2010,Palestine,FY 2010,35,Moslem Suni,29,129
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 May 2010,To: 24 May 2010,Bahai,FY 2010,1,Iran,1,129
+From: 24 May 2010,To: 24 May 2010,Buddhist,FY 2010,2,Burma,2,129
+From: 24 May 2010,To: 24 May 2010,Catholic,FY 2010,15,Iraq,15,129
+From: 24 May 2010,To: 24 May 2010,Christian,FY 2010,63,Burma,31,129
+From: 24 May 2010,To: 24 May 2010,Christian,FY 2010,63,Iraq,32,129
+From: 24 May 2010,To: 24 May 2010,Moslem,FY 2010,7,Iraq,1,129
+From: 24 May 2010,To: 24 May 2010,Moslem,FY 2010,7,Palestine,6,129
+From: 24 May 2010,To: 24 May 2010,Moslem Shiite,FY 2010,7,Iraq,7,129
+From: 24 May 2010,To: 24 May 2010,Moslem Suni,FY 2010,34,Iraq,5,129
+From: 24 May 2010,To: 24 May 2010,Moslem Suni,FY 2010,34,Palestine,29,129
+

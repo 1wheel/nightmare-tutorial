@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Nov 2009,To: 09 Nov 2009,Bhutan,FY 2010,134,Buddhist,18,239
+From: 09 Nov 2009,To: 09 Nov 2009,Bhutan,FY 2010,134,Christian,3,239
+From: 09 Nov 2009,To: 09 Nov 2009,Bhutan,FY 2010,134,Hindu,106,239
+From: 09 Nov 2009,To: 09 Nov 2009,Bhutan,FY 2010,134,Kirat,7,239
+From: 09 Nov 2009,To: 09 Nov 2009,Iraq,FY 2010,97,Catholic,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Iraq,FY 2010,97,Christian,35,239
+From: 09 Nov 2009,To: 09 Nov 2009,Iraq,FY 2010,97,Moslem,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Iraq,FY 2010,97,Moslem Shiite,20,239
+From: 09 Nov 2009,To: 09 Nov 2009,Iraq,FY 2010,97,Moslem Suni,38,239
+From: 09 Nov 2009,To: 09 Nov 2009,Iraq,FY 2010,97,Sabeans-Mandean,2,239
+From: 09 Nov 2009,To: 09 Nov 2009,Liberia,FY 2010,1,Christian,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Palestine,FY 2010,4,Moslem Suni,4,239
+From: 09 Nov 2009,To: 09 Nov 2009,Sierra Leone,FY 2010,1,Moslem,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Somalia,FY 2010,2,Moslem Suni,2,239
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Nov 2009,To: 09 Nov 2009,Buddhist,FY 2010,18,Bhutan,18,239
+From: 09 Nov 2009,To: 09 Nov 2009,Catholic,FY 2010,1,Iraq,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Christian,FY 2010,39,Bhutan,3,239
+From: 09 Nov 2009,To: 09 Nov 2009,Christian,FY 2010,39,Iraq,35,239
+From: 09 Nov 2009,To: 09 Nov 2009,Christian,FY 2010,39,Liberia,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Hindu,FY 2010,106,Bhutan,106,239
+From: 09 Nov 2009,To: 09 Nov 2009,Kirat,FY 2010,7,Bhutan,7,239
+From: 09 Nov 2009,To: 09 Nov 2009,Moslem,FY 2010,2,Iraq,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Moslem,FY 2010,2,Sierra Leone,1,239
+From: 09 Nov 2009,To: 09 Nov 2009,Moslem Shiite,FY 2010,20,Iraq,20,239
+From: 09 Nov 2009,To: 09 Nov 2009,Moslem Suni,FY 2010,44,Iraq,38,239
+From: 09 Nov 2009,To: 09 Nov 2009,Moslem Suni,FY 2010,44,Palestine,4,239
+From: 09 Nov 2009,To: 09 Nov 2009,Moslem Suni,FY 2010,44,Somalia,2,239
+From: 09 Nov 2009,To: 09 Nov 2009,Sabeans-Mandean,FY 2010,2,Iraq,2,239
+

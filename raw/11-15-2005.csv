@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Nov 2005,To: 15 Nov 2005,Cuba,FY 2006,60,Catholic,13,323
+From: 15 Nov 2005,To: 15 Nov 2005,Cuba,FY 2006,60,Evangelical Christian,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Cuba,FY 2006,60,Jehovah Witness,23,323
+From: 15 Nov 2005,To: 15 Nov 2005,Cuba,FY 2006,60,No Religion,18,323
+From: 15 Nov 2005,To: 15 Nov 2005,Cuba,FY 2006,60,Pentecostalist,2,323
+From: 15 Nov 2005,To: 15 Nov 2005,Eritrea,FY 2006,35,Ancestral Worship,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Eritrea,FY 2006,35,Catholic,5,323
+From: 15 Nov 2005,To: 15 Nov 2005,Eritrea,FY 2006,35,Moslem,2,323
+From: 15 Nov 2005,To: 15 Nov 2005,Eritrea,FY 2006,35,Orthodox,21,323
+From: 15 Nov 2005,To: 15 Nov 2005,Eritrea,FY 2006,35,Protestant,6,323
+From: 15 Nov 2005,To: 15 Nov 2005,Ethiopia,FY 2006,1,Pentecostalist,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Iran,FY 2006,12,Jewish,12,323
+From: 15 Nov 2005,To: 15 Nov 2005,Liberia,FY 2006,44,Baptist,17,323
+From: 15 Nov 2005,To: 15 Nov 2005,Liberia,FY 2006,44,Christian,9,323
+From: 15 Nov 2005,To: 15 Nov 2005,Liberia,FY 2006,44,Lutheran,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Liberia,FY 2006,44,Moslem,17,323
+From: 15 Nov 2005,To: 15 Nov 2005,Nigeria,FY 2006,1,Christian,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Russia,FY 2006,48,Jewish,12,323
+From: 15 Nov 2005,To: 15 Nov 2005,Russia,FY 2006,48,Moslem,35,323
+From: 15 Nov 2005,To: 15 Nov 2005,Russia,FY 2006,48,No Religion,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Rwanda,FY 2006,9,Catholic,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Rwanda,FY 2006,9,Pentecostalist,5,323
+From: 15 Nov 2005,To: 15 Nov 2005,Sierra Leone,FY 2006,8,Christian,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Sierra Leone,FY 2006,8,Moslem,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Somalia,FY 2006,68,Moslem,68,323
+From: 15 Nov 2005,To: 15 Nov 2005,Sudan,FY 2006,2,Moslem,2,323
+From: 15 Nov 2005,To: 15 Nov 2005,Vietnam,FY 2006,35,Buddhist,22,323
+From: 15 Nov 2005,To: 15 Nov 2005,Vietnam,FY 2006,35,Cao Dai,3,323
+From: 15 Nov 2005,To: 15 Nov 2005,Vietnam,FY 2006,35,Catholic,10,323
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Nov 2005,To: 15 Nov 2005,Ancestral Worship,FY 2006,1,Eritrea,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Baptist,FY 2006,17,Liberia,17,323
+From: 15 Nov 2005,To: 15 Nov 2005,Buddhist,FY 2006,22,Vietnam,22,323
+From: 15 Nov 2005,To: 15 Nov 2005,Cao Dai,FY 2006,3,Vietnam,3,323
+From: 15 Nov 2005,To: 15 Nov 2005,Catholic,FY 2006,32,Cuba,13,323
+From: 15 Nov 2005,To: 15 Nov 2005,Catholic,FY 2006,32,Eritrea,5,323
+From: 15 Nov 2005,To: 15 Nov 2005,Catholic,FY 2006,32,Rwanda,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Catholic,FY 2006,32,Vietnam,10,323
+From: 15 Nov 2005,To: 15 Nov 2005,Christian,FY 2006,14,Liberia,9,323
+From: 15 Nov 2005,To: 15 Nov 2005,Christian,FY 2006,14,Nigeria,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Christian,FY 2006,14,Sierra Leone,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Evangelical Christian,FY 2006,4,Cuba,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Jehovah Witness,FY 2006,23,Cuba,23,323
+From: 15 Nov 2005,To: 15 Nov 2005,Jewish,FY 2006,24,Iran,12,323
+From: 15 Nov 2005,To: 15 Nov 2005,Jewish,FY 2006,24,Russia,12,323
+From: 15 Nov 2005,To: 15 Nov 2005,Lutheran,FY 2006,1,Liberia,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Moslem,FY 2006,128,Eritrea,2,323
+From: 15 Nov 2005,To: 15 Nov 2005,Moslem,FY 2006,128,Liberia,17,323
+From: 15 Nov 2005,To: 15 Nov 2005,Moslem,FY 2006,128,Russia,35,323
+From: 15 Nov 2005,To: 15 Nov 2005,Moslem,FY 2006,128,Sierra Leone,4,323
+From: 15 Nov 2005,To: 15 Nov 2005,Moslem,FY 2006,128,Somalia,68,323
+From: 15 Nov 2005,To: 15 Nov 2005,Moslem,FY 2006,128,Sudan,2,323
+From: 15 Nov 2005,To: 15 Nov 2005,No Religion,FY 2006,19,Cuba,18,323
+From: 15 Nov 2005,To: 15 Nov 2005,No Religion,FY 2006,19,Russia,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Orthodox,FY 2006,21,Eritrea,21,323
+From: 15 Nov 2005,To: 15 Nov 2005,Pentecostalist,FY 2006,8,Cuba,2,323
+From: 15 Nov 2005,To: 15 Nov 2005,Pentecostalist,FY 2006,8,Ethiopia,1,323
+From: 15 Nov 2005,To: 15 Nov 2005,Pentecostalist,FY 2006,8,Rwanda,5,323
+From: 15 Nov 2005,To: 15 Nov 2005,Protestant,FY 2006,6,Eritrea,6,323
+

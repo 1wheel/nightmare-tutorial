@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Mar 2010,To: 29 Mar 2010,Afghanistan,FY 2010,8,Moslem Shiite,8,164
+From: 29 Mar 2010,To: 29 Mar 2010,Bhutan,FY 2010,31,Buddhist,3,164
+From: 29 Mar 2010,To: 29 Mar 2010,Bhutan,FY 2010,31,Christian,4,164
+From: 29 Mar 2010,To: 29 Mar 2010,Bhutan,FY 2010,31,Hindu,24,164
+From: 29 Mar 2010,To: 29 Mar 2010,Burma,FY 2010,45,Animist,12,164
+From: 29 Mar 2010,To: 29 Mar 2010,Burma,FY 2010,45,Catholic,6,164
+From: 29 Mar 2010,To: 29 Mar 2010,Burma,FY 2010,45,Christian,27,164
+From: 29 Mar 2010,To: 29 Mar 2010,Ethiopia,FY 2010,2,Moslem,2,164
+From: 29 Mar 2010,To: 29 Mar 2010,Iraq,FY 2010,49,Catholic,17,164
+From: 29 Mar 2010,To: 29 Mar 2010,Iraq,FY 2010,49,Christian,12,164
+From: 29 Mar 2010,To: 29 Mar 2010,Iraq,FY 2010,49,Moslem,2,164
+From: 29 Mar 2010,To: 29 Mar 2010,Iraq,FY 2010,49,Moslem Suni,17,164
+From: 29 Mar 2010,To: 29 Mar 2010,Iraq,FY 2010,49,Orthodox,1,164
+From: 29 Mar 2010,To: 29 Mar 2010,Kuwait,FY 2010,10,Moslem Suni,10,164
+From: 29 Mar 2010,To: 29 Mar 2010,Liberia,FY 2010,6,Christian,6,164
+From: 29 Mar 2010,To: 29 Mar 2010,Sierra Leone,FY 2010,1,Christian,1,164
+From: 29 Mar 2010,To: 29 Mar 2010,Somalia,FY 2010,12,Moslem,12,164
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Mar 2010,To: 29 Mar 2010,Animist,FY 2010,12,Burma,12,164
+From: 29 Mar 2010,To: 29 Mar 2010,Buddhist,FY 2010,3,Bhutan,3,164
+From: 29 Mar 2010,To: 29 Mar 2010,Catholic,FY 2010,23,Burma,6,164
+From: 29 Mar 2010,To: 29 Mar 2010,Catholic,FY 2010,23,Iraq,17,164
+From: 29 Mar 2010,To: 29 Mar 2010,Christian,FY 2010,50,Bhutan,4,164
+From: 29 Mar 2010,To: 29 Mar 2010,Christian,FY 2010,50,Burma,27,164
+From: 29 Mar 2010,To: 29 Mar 2010,Christian,FY 2010,50,Iraq,12,164
+From: 29 Mar 2010,To: 29 Mar 2010,Christian,FY 2010,50,Liberia,6,164
+From: 29 Mar 2010,To: 29 Mar 2010,Christian,FY 2010,50,Sierra Leone,1,164
+From: 29 Mar 2010,To: 29 Mar 2010,Hindu,FY 2010,24,Bhutan,24,164
+From: 29 Mar 2010,To: 29 Mar 2010,Moslem,FY 2010,16,Ethiopia,2,164
+From: 29 Mar 2010,To: 29 Mar 2010,Moslem,FY 2010,16,Iraq,2,164
+From: 29 Mar 2010,To: 29 Mar 2010,Moslem,FY 2010,16,Somalia,12,164
+From: 29 Mar 2010,To: 29 Mar 2010,Moslem Shiite,FY 2010,8,Afghanistan,8,164
+From: 29 Mar 2010,To: 29 Mar 2010,Moslem Suni,FY 2010,27,Iraq,17,164
+From: 29 Mar 2010,To: 29 Mar 2010,Moslem Suni,FY 2010,27,Kuwait,10,164
+From: 29 Mar 2010,To: 29 Mar 2010,Orthodox,FY 2010,1,Iraq,1,164
+

@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jul 2003,To: 01 Jul 2003,Afghanistan,FY 2003,16,Moslem,6,143
+From: 01 Jul 2003,To: 01 Jul 2003,Afghanistan,FY 2003,16,Moslem Suni,8,143
+From: 01 Jul 2003,To: 01 Jul 2003,Afghanistan,FY 2003,16,Other Religion,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Angola,FY 2003,4,Catholic,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Angola,FY 2003,4,Protestant,3,143
+From: 01 Jul 2003,To: 01 Jul 2003,Azerbaijan,FY 2003,19,Unknown,19,143
+From: 01 Jul 2003,To: 01 Jul 2003,Cameroon,FY 2003,1,Christian,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Dem. Rep. Congo,FY 2003,1,Catholic,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ethiopia,FY 2003,23,Christian,12,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ethiopia,FY 2003,23,Moslem,6,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ethiopia,FY 2003,23,Orthodox,5,143
+From: 01 Jul 2003,To: 01 Jul 2003,Iran,FY 2003,20,Bahai,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Iran,FY 2003,20,Moslem,16,143
+From: 01 Jul 2003,To: 01 Jul 2003,Iran,FY 2003,20,No Religion,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Russia,FY 2003,13,Jewish,4,143
+From: 01 Jul 2003,To: 01 Jul 2003,Russia,FY 2003,13,Pentecostalist,9,143
+From: 01 Jul 2003,To: 01 Jul 2003,Rwanda,FY 2003,3,Catholic,3,143
+From: 01 Jul 2003,To: 01 Jul 2003,Somalia,FY 2003,8,Moslem,8,143
+From: 01 Jul 2003,To: 01 Jul 2003,Sudan,FY 2003,1,Christian,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ukraine,FY 2003,34,Baptist,22,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ukraine,FY 2003,34,Jewish,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ukraine,FY 2003,34,No Religion,6,143
+From: 01 Jul 2003,To: 01 Jul 2003,Ukraine,FY 2003,34,Pentecostalist,4,143
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jul 2003,To: 01 Jul 2003,Bahai,FY 2003,2,Iran,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Baptist,FY 2003,22,Ukraine,22,143
+From: 01 Jul 2003,To: 01 Jul 2003,Catholic,FY 2003,5,Angola,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Catholic,FY 2003,5,Dem. Rep. Congo,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Catholic,FY 2003,5,Rwanda,3,143
+From: 01 Jul 2003,To: 01 Jul 2003,Christian,FY 2003,14,Cameroon,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Christian,FY 2003,14,Ethiopia,12,143
+From: 01 Jul 2003,To: 01 Jul 2003,Christian,FY 2003,14,Sudan,1,143
+From: 01 Jul 2003,To: 01 Jul 2003,Jewish,FY 2003,6,Russia,4,143
+From: 01 Jul 2003,To: 01 Jul 2003,Jewish,FY 2003,6,Ukraine,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Moslem,FY 2003,36,Afghanistan,6,143
+From: 01 Jul 2003,To: 01 Jul 2003,Moslem,FY 2003,36,Ethiopia,6,143
+From: 01 Jul 2003,To: 01 Jul 2003,Moslem,FY 2003,36,Iran,16,143
+From: 01 Jul 2003,To: 01 Jul 2003,Moslem,FY 2003,36,Somalia,8,143
+From: 01 Jul 2003,To: 01 Jul 2003,Moslem Suni,FY 2003,8,Afghanistan,8,143
+From: 01 Jul 2003,To: 01 Jul 2003,No Religion,FY 2003,8,Iran,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,No Religion,FY 2003,8,Ukraine,6,143
+From: 01 Jul 2003,To: 01 Jul 2003,Orthodox,FY 2003,5,Ethiopia,5,143
+From: 01 Jul 2003,To: 01 Jul 2003,Other Religion,FY 2003,2,Afghanistan,2,143
+From: 01 Jul 2003,To: 01 Jul 2003,Pentecostalist,FY 2003,13,Russia,9,143
+From: 01 Jul 2003,To: 01 Jul 2003,Pentecostalist,FY 2003,13,Ukraine,4,143
+From: 01 Jul 2003,To: 01 Jul 2003,Protestant,FY 2003,3,Angola,3,143
+From: 01 Jul 2003,To: 01 Jul 2003,Unknown,FY 2003,19,Azerbaijan,19,143
+

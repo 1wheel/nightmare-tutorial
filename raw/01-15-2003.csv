@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jan 2003,To: 15 Jan 2003,Bosnia and Herzegovina,FY 2003,10,Moslem,10,87
+From: 15 Jan 2003,To: 15 Jan 2003,Ghana,FY 2003,1,Moslem,1,87
+From: 15 Jan 2003,To: 15 Jan 2003,Iran,FY 2003,33,Bahai,9,87
+From: 15 Jan 2003,To: 15 Jan 2003,Iran,FY 2003,33,Christian,7,87
+From: 15 Jan 2003,To: 15 Jan 2003,Iran,FY 2003,33,Jewish,9,87
+From: 15 Jan 2003,To: 15 Jan 2003,Iran,FY 2003,33,Zoroastrian,8,87
+From: 15 Jan 2003,To: 15 Jan 2003,Liberia,FY 2003,17,Christian,17,87
+From: 15 Jan 2003,To: 15 Jan 2003,Sierra Leone,FY 2003,4,Christian,4,87
+From: 15 Jan 2003,To: 15 Jan 2003,Vietnam,FY 2003,22,Unknown,22,87
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jan 2003,To: 15 Jan 2003,Bahai,FY 2003,9,Iran,9,87
+From: 15 Jan 2003,To: 15 Jan 2003,Christian,FY 2003,28,Iran,7,87
+From: 15 Jan 2003,To: 15 Jan 2003,Christian,FY 2003,28,Liberia,17,87
+From: 15 Jan 2003,To: 15 Jan 2003,Christian,FY 2003,28,Sierra Leone,4,87
+From: 15 Jan 2003,To: 15 Jan 2003,Jewish,FY 2003,9,Iran,9,87
+From: 15 Jan 2003,To: 15 Jan 2003,Moslem,FY 2003,11,Bosnia and Herzegovina,10,87
+From: 15 Jan 2003,To: 15 Jan 2003,Moslem,FY 2003,11,Ghana,1,87
+From: 15 Jan 2003,To: 15 Jan 2003,Unknown,FY 2003,22,Vietnam,22,87
+From: 15 Jan 2003,To: 15 Jan 2003,Zoroastrian,FY 2003,8,Iran,8,87
+

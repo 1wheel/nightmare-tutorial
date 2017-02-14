@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Mar 2010,To: 16 Mar 2010,Bhutan,FY 2010,118,Buddhist,23,454
+From: 16 Mar 2010,To: 16 Mar 2010,Bhutan,FY 2010,118,Christian,6,454
+From: 16 Mar 2010,To: 16 Mar 2010,Bhutan,FY 2010,118,Hindu,89,454
+From: 16 Mar 2010,To: 16 Mar 2010,Burma,FY 2010,54,Animist,17,454
+From: 16 Mar 2010,To: 16 Mar 2010,Burma,FY 2010,54,Baptist,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Burma,FY 2010,54,Buddhist,7,454
+From: 16 Mar 2010,To: 16 Mar 2010,Burma,FY 2010,54,Catholic,13,454
+From: 16 Mar 2010,To: 16 Mar 2010,Burma,FY 2010,54,Christian,16,454
+From: 16 Mar 2010,To: 16 Mar 2010,Cuba,FY 2010,70,Catholic,15,454
+From: 16 Mar 2010,To: 16 Mar 2010,Cuba,FY 2010,70,Evangelical Christian,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Cuba,FY 2010,70,Jehovah Witness,39,454
+From: 16 Mar 2010,To: 16 Mar 2010,Cuba,FY 2010,70,No Religion,15,454
+From: 16 Mar 2010,To: 16 Mar 2010,Eritrea,FY 2010,23,Catholic,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Eritrea,FY 2010,23,Orthodox,19,454
+From: 16 Mar 2010,To: 16 Mar 2010,Eritrea,FY 2010,23,Pentecostalist,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Eritrea,FY 2010,23,Protestant,2,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iran,FY 2010,69,Bahai,6,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iran,FY 2010,69,Christian,41,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iran,FY 2010,69,Jewish,10,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iran,FY 2010,69,Zoroastrian,12,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iraq,FY 2010,84,Christian,44,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iraq,FY 2010,84,Moslem,5,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iraq,FY 2010,84,Moslem Shiite,20,454
+From: 16 Mar 2010,To: 16 Mar 2010,Iraq,FY 2010,84,Moslem Suni,15,454
+From: 16 Mar 2010,To: 16 Mar 2010,Somalia,FY 2010,32,Moslem,32,454
+From: 16 Mar 2010,To: 16 Mar 2010,Uzbekistan,FY 2010,4,Baptist,4,454
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Mar 2010,To: 16 Mar 2010,Animist,FY 2010,17,Burma,17,454
+From: 16 Mar 2010,To: 16 Mar 2010,Bahai,FY 2010,6,Iran,6,454
+From: 16 Mar 2010,To: 16 Mar 2010,Baptist,FY 2010,5,Burma,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Baptist,FY 2010,5,Uzbekistan,4,454
+From: 16 Mar 2010,To: 16 Mar 2010,Buddhist,FY 2010,30,Bhutan,23,454
+From: 16 Mar 2010,To: 16 Mar 2010,Buddhist,FY 2010,30,Burma,7,454
+From: 16 Mar 2010,To: 16 Mar 2010,Catholic,FY 2010,29,Burma,13,454
+From: 16 Mar 2010,To: 16 Mar 2010,Catholic,FY 2010,29,Cuba,15,454
+From: 16 Mar 2010,To: 16 Mar 2010,Catholic,FY 2010,29,Eritrea,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Christian,FY 2010,107,Bhutan,6,454
+From: 16 Mar 2010,To: 16 Mar 2010,Christian,FY 2010,107,Burma,16,454
+From: 16 Mar 2010,To: 16 Mar 2010,Christian,FY 2010,107,Iran,41,454
+From: 16 Mar 2010,To: 16 Mar 2010,Christian,FY 2010,107,Iraq,44,454
+From: 16 Mar 2010,To: 16 Mar 2010,Evangelical Christian,FY 2010,1,Cuba,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Hindu,FY 2010,89,Bhutan,89,454
+From: 16 Mar 2010,To: 16 Mar 2010,Jehovah Witness,FY 2010,39,Cuba,39,454
+From: 16 Mar 2010,To: 16 Mar 2010,Jewish,FY 2010,10,Iran,10,454
+From: 16 Mar 2010,To: 16 Mar 2010,Moslem,FY 2010,37,Iraq,5,454
+From: 16 Mar 2010,To: 16 Mar 2010,Moslem,FY 2010,37,Somalia,32,454
+From: 16 Mar 2010,To: 16 Mar 2010,Moslem Shiite,FY 2010,20,Iraq,20,454
+From: 16 Mar 2010,To: 16 Mar 2010,Moslem Suni,FY 2010,15,Iraq,15,454
+From: 16 Mar 2010,To: 16 Mar 2010,No Religion,FY 2010,15,Cuba,15,454
+From: 16 Mar 2010,To: 16 Mar 2010,Orthodox,FY 2010,19,Eritrea,19,454
+From: 16 Mar 2010,To: 16 Mar 2010,Pentecostalist,FY 2010,1,Eritrea,1,454
+From: 16 Mar 2010,To: 16 Mar 2010,Protestant,FY 2010,2,Eritrea,2,454
+From: 16 Mar 2010,To: 16 Mar 2010,Zoroastrian,FY 2010,12,Iran,12,454
+

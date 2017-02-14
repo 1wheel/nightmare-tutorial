@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Dec 2008,To: 04 Dec 2008,Afghanistan,FY 2009,2,Moslem Shiite,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Bhutan,FY 2009,102,Buddhist,5,311
+From: 04 Dec 2008,To: 04 Dec 2008,Bhutan,FY 2009,102,Hindu,88,311
+From: 04 Dec 2008,To: 04 Dec 2008,Bhutan,FY 2009,102,Kirat,9,311
+From: 04 Dec 2008,To: 04 Dec 2008,Burma,FY 2009,69,Buddhist,4,311
+From: 04 Dec 2008,To: 04 Dec 2008,Burma,FY 2009,69,Christian,61,311
+From: 04 Dec 2008,To: 04 Dec 2008,Burma,FY 2009,69,Hindu,4,311
+From: 04 Dec 2008,To: 04 Dec 2008,Cuba,FY 2009,35,Catholic,18,311
+From: 04 Dec 2008,To: 04 Dec 2008,Cuba,FY 2009,35,Jehovah Witness,9,311
+From: 04 Dec 2008,To: 04 Dec 2008,Cuba,FY 2009,35,No Religion,8,311
+From: 04 Dec 2008,To: 04 Dec 2008,Dem. Rep. Congo,FY 2009,4,Orthodox,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Dem. Rep. Congo,FY 2009,4,Protestant,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Eritrea,FY 2009,2,Orthodox,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Ethiopia,FY 2009,2,Christian,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Ethiopia,FY 2009,2,Moslem,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Georgia,FY 2009,2,Pentecostalist,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iran,FY 2009,35,Christian,25,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iran,FY 2009,35,Sabeans-Mandean,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iran,FY 2009,35,Zoroastrian,7,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iraq,FY 2009,19,Catholic,8,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iraq,FY 2009,19,Christian,8,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iraq,FY 2009,19,Moslem Suni,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Iraq,FY 2009,19,Orthodox,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Somalia,FY 2009,23,Christian,6,311
+From: 04 Dec 2008,To: 04 Dec 2008,Somalia,FY 2009,23,Moslem,17,311
+From: 04 Dec 2008,To: 04 Dec 2008,Sudan,FY 2009,3,Christian,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Ukraine,FY 2009,13,Baptist,4,311
+From: 04 Dec 2008,To: 04 Dec 2008,Ukraine,FY 2009,13,Jewish,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Ukraine,FY 2009,13,No Religion,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Ukraine,FY 2009,13,Pentecostalist,5,311
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Dec 2008,To: 04 Dec 2008,Baptist,FY 2009,4,Ukraine,4,311
+From: 04 Dec 2008,To: 04 Dec 2008,Buddhist,FY 2009,9,Bhutan,5,311
+From: 04 Dec 2008,To: 04 Dec 2008,Buddhist,FY 2009,9,Burma,4,311
+From: 04 Dec 2008,To: 04 Dec 2008,Catholic,FY 2009,26,Cuba,18,311
+From: 04 Dec 2008,To: 04 Dec 2008,Catholic,FY 2009,26,Iraq,8,311
+From: 04 Dec 2008,To: 04 Dec 2008,Christian,FY 2009,104,Burma,61,311
+From: 04 Dec 2008,To: 04 Dec 2008,Christian,FY 2009,104,Ethiopia,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Christian,FY 2009,104,Iran,25,311
+From: 04 Dec 2008,To: 04 Dec 2008,Christian,FY 2009,104,Iraq,8,311
+From: 04 Dec 2008,To: 04 Dec 2008,Christian,FY 2009,104,Somalia,6,311
+From: 04 Dec 2008,To: 04 Dec 2008,Christian,FY 2009,104,Sudan,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Hindu,FY 2009,92,Bhutan,88,311
+From: 04 Dec 2008,To: 04 Dec 2008,Hindu,FY 2009,92,Burma,4,311
+From: 04 Dec 2008,To: 04 Dec 2008,Jehovah Witness,FY 2009,9,Cuba,9,311
+From: 04 Dec 2008,To: 04 Dec 2008,Jewish,FY 2009,3,Ukraine,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Kirat,FY 2009,9,Bhutan,9,311
+From: 04 Dec 2008,To: 04 Dec 2008,Moslem,FY 2009,18,Ethiopia,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Moslem,FY 2009,18,Somalia,17,311
+From: 04 Dec 2008,To: 04 Dec 2008,Moslem Shiite,FY 2009,2,Afghanistan,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Moslem Suni,FY 2009,1,Iraq,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,No Religion,FY 2009,9,Cuba,8,311
+From: 04 Dec 2008,To: 04 Dec 2008,No Religion,FY 2009,9,Ukraine,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Orthodox,FY 2009,5,Dem. Rep. Congo,1,311
+From: 04 Dec 2008,To: 04 Dec 2008,Orthodox,FY 2009,5,Eritrea,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Orthodox,FY 2009,5,Iraq,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Pentecostalist,FY 2009,7,Georgia,2,311
+From: 04 Dec 2008,To: 04 Dec 2008,Pentecostalist,FY 2009,7,Ukraine,5,311
+From: 04 Dec 2008,To: 04 Dec 2008,Protestant,FY 2009,3,Dem. Rep. Congo,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Sabeans-Mandean,FY 2009,3,Iran,3,311
+From: 04 Dec 2008,To: 04 Dec 2008,Zoroastrian,FY 2009,7,Iran,7,311
+

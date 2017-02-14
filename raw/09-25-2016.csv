@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Sep 2016,To: 25 Sep 2016,Iraq,FY 2016,45,Catholic,1,63
+From: 25 Sep 2016,To: 25 Sep 2016,Iraq,FY 2016,45,Christian,3,63
+From: 25 Sep 2016,To: 25 Sep 2016,Iraq,FY 2016,45,Moslem Suni,10,63
+From: 25 Sep 2016,To: 25 Sep 2016,Iraq,FY 2016,45,Yazidi,31,63
+From: 25 Sep 2016,To: 25 Sep 2016,Syria,FY 2016,18,Moslem Suni,18,63
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Sep 2016,To: 25 Sep 2016,Catholic,FY 2016,1,Iraq,1,63
+From: 25 Sep 2016,To: 25 Sep 2016,Christian,FY 2016,3,Iraq,3,63
+From: 25 Sep 2016,To: 25 Sep 2016,Moslem Suni,FY 2016,28,Iraq,10,63
+From: 25 Sep 2016,To: 25 Sep 2016,Moslem Suni,FY 2016,28,Syria,18,63
+From: 25 Sep 2016,To: 25 Sep 2016,Yazidi,FY 2016,31,Iraq,31,63
+

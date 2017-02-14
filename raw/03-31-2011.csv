@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Mar 2011,To: 31 Mar 2011,Burma,FY 2011,51,Animist,8,79
+From: 31 Mar 2011,To: 31 Mar 2011,Burma,FY 2011,51,Buddhist,3,79
+From: 31 Mar 2011,To: 31 Mar 2011,Burma,FY 2011,51,Catholic,6,79
+From: 31 Mar 2011,To: 31 Mar 2011,Burma,FY 2011,51,Christian,31,79
+From: 31 Mar 2011,To: 31 Mar 2011,Burma,FY 2011,51,Moslem,3,79
+From: 31 Mar 2011,To: 31 Mar 2011,Iraq,FY 2011,10,Christian,4,79
+From: 31 Mar 2011,To: 31 Mar 2011,Iraq,FY 2011,10,Moslem Shiite,6,79
+From: 31 Mar 2011,To: 31 Mar 2011,Ukraine,FY 2011,8,Baptist,8,79
+From: 31 Mar 2011,To: 31 Mar 2011,Vietnam,FY 2011,10,Buddhist,2,79
+From: 31 Mar 2011,To: 31 Mar 2011,Vietnam,FY 2011,10,Protestant,8,79
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Mar 2011,To: 31 Mar 2011,Animist,FY 2011,8,Burma,8,79
+From: 31 Mar 2011,To: 31 Mar 2011,Baptist,FY 2011,8,Ukraine,8,79
+From: 31 Mar 2011,To: 31 Mar 2011,Buddhist,FY 2011,5,Burma,3,79
+From: 31 Mar 2011,To: 31 Mar 2011,Buddhist,FY 2011,5,Vietnam,2,79
+From: 31 Mar 2011,To: 31 Mar 2011,Catholic,FY 2011,6,Burma,6,79
+From: 31 Mar 2011,To: 31 Mar 2011,Christian,FY 2011,35,Burma,31,79
+From: 31 Mar 2011,To: 31 Mar 2011,Christian,FY 2011,35,Iraq,4,79
+From: 31 Mar 2011,To: 31 Mar 2011,Moslem,FY 2011,3,Burma,3,79
+From: 31 Mar 2011,To: 31 Mar 2011,Moslem Shiite,FY 2011,6,Iraq,6,79
+From: 31 Mar 2011,To: 31 Mar 2011,Protestant,FY 2011,8,Vietnam,8,79
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 May 2016,To: 17 May 2016,Afghanistan,FY 2016,6,Moslem Shiite,6,108
+From: 17 May 2016,To: 17 May 2016,Belarus,FY 2016,8,Baptist,2,108
+From: 17 May 2016,To: 17 May 2016,Belarus,FY 2016,8,Pentecostalist,6,108
+From: 17 May 2016,To: 17 May 2016,Bhutan,FY 2016,29,Buddhist,2,108
+From: 17 May 2016,To: 17 May 2016,Bhutan,FY 2016,29,Hindu,14,108
+From: 17 May 2016,To: 17 May 2016,Bhutan,FY 2016,29,Kirat,13,108
+From: 17 May 2016,To: 17 May 2016,Dem. Rep. Congo,FY 2016,39,Catholic,13,108
+From: 17 May 2016,To: 17 May 2016,Dem. Rep. Congo,FY 2016,39,Christian,12,108
+From: 17 May 2016,To: 17 May 2016,Dem. Rep. Congo,FY 2016,39,Methodist,8,108
+From: 17 May 2016,To: 17 May 2016,Dem. Rep. Congo,FY 2016,39,Pentecostalist,6,108
+From: 17 May 2016,To: 17 May 2016,Eritrea,FY 2016,3,Moslem,3,108
+From: 17 May 2016,To: 17 May 2016,Iraq,FY 2016,10,Moslem Suni,9,108
+From: 17 May 2016,To: 17 May 2016,Iraq,FY 2016,10,Yazidi,1,108
+From: 17 May 2016,To: 17 May 2016,Somalia,FY 2016,4,Moslem,4,108
+From: 17 May 2016,To: 17 May 2016,Syria,FY 2016,9,Moslem Suni,9,108
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 May 2016,To: 17 May 2016,Baptist,FY 2016,2,Belarus,2,108
+From: 17 May 2016,To: 17 May 2016,Buddhist,FY 2016,2,Bhutan,2,108
+From: 17 May 2016,To: 17 May 2016,Catholic,FY 2016,13,Dem. Rep. Congo,13,108
+From: 17 May 2016,To: 17 May 2016,Christian,FY 2016,12,Dem. Rep. Congo,12,108
+From: 17 May 2016,To: 17 May 2016,Hindu,FY 2016,14,Bhutan,14,108
+From: 17 May 2016,To: 17 May 2016,Kirat,FY 2016,13,Bhutan,13,108
+From: 17 May 2016,To: 17 May 2016,Methodist,FY 2016,8,Dem. Rep. Congo,8,108
+From: 17 May 2016,To: 17 May 2016,Moslem,FY 2016,7,Eritrea,3,108
+From: 17 May 2016,To: 17 May 2016,Moslem,FY 2016,7,Somalia,4,108
+From: 17 May 2016,To: 17 May 2016,Moslem Shiite,FY 2016,6,Afghanistan,6,108
+From: 17 May 2016,To: 17 May 2016,Moslem Suni,FY 2016,18,Iraq,9,108
+From: 17 May 2016,To: 17 May 2016,Moslem Suni,FY 2016,18,Syria,9,108
+From: 17 May 2016,To: 17 May 2016,Pentecostalist,FY 2016,12,Belarus,6,108
+From: 17 May 2016,To: 17 May 2016,Pentecostalist,FY 2016,12,Dem. Rep. Congo,6,108
+From: 17 May 2016,To: 17 May 2016,Yazidi,FY 2016,1,Iraq,1,108
+

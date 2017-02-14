@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jan 2005,To: 11 Jan 2005,Belarus,FY 2005,17,Baptist,6,117
+From: 11 Jan 2005,To: 11 Jan 2005,Belarus,FY 2005,17,Pentecostalist,11,117
+From: 11 Jan 2005,To: 11 Jan 2005,Cuba,FY 2005,70,Catholic,21,117
+From: 11 Jan 2005,To: 11 Jan 2005,Cuba,FY 2005,70,Jehovah Witness,27,117
+From: 11 Jan 2005,To: 11 Jan 2005,Cuba,FY 2005,70,Methodist,4,117
+From: 11 Jan 2005,To: 11 Jan 2005,Cuba,FY 2005,70,No Religion,12,117
+From: 11 Jan 2005,To: 11 Jan 2005,Cuba,FY 2005,70,Pentecostalist,6,117
+From: 11 Jan 2005,To: 11 Jan 2005,Iran,FY 2005,30,Christian,4,117
+From: 11 Jan 2005,To: 11 Jan 2005,Iran,FY 2005,30,Jewish,2,117
+From: 11 Jan 2005,To: 11 Jan 2005,Iran,FY 2005,30,Sabeans-Mandean,14,117
+From: 11 Jan 2005,To: 11 Jan 2005,Iran,FY 2005,30,Zoroastrian,10,117
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jan 2005,To: 11 Jan 2005,Baptist,FY 2005,6,Belarus,6,117
+From: 11 Jan 2005,To: 11 Jan 2005,Catholic,FY 2005,21,Cuba,21,117
+From: 11 Jan 2005,To: 11 Jan 2005,Christian,FY 2005,4,Iran,4,117
+From: 11 Jan 2005,To: 11 Jan 2005,Jehovah Witness,FY 2005,27,Cuba,27,117
+From: 11 Jan 2005,To: 11 Jan 2005,Jewish,FY 2005,2,Iran,2,117
+From: 11 Jan 2005,To: 11 Jan 2005,Methodist,FY 2005,4,Cuba,4,117
+From: 11 Jan 2005,To: 11 Jan 2005,No Religion,FY 2005,12,Cuba,12,117
+From: 11 Jan 2005,To: 11 Jan 2005,Pentecostalist,FY 2005,17,Belarus,11,117
+From: 11 Jan 2005,To: 11 Jan 2005,Pentecostalist,FY 2005,17,Cuba,6,117
+From: 11 Jan 2005,To: 11 Jan 2005,Sabeans-Mandean,FY 2005,14,Iran,14,117
+From: 11 Jan 2005,To: 11 Jan 2005,Zoroastrian,FY 2005,10,Iran,10,117
+

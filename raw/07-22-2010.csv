@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jul 2010,To: 22 Jul 2010,Bhutan,FY 2010,82,Buddhist,6,323
+From: 22 Jul 2010,To: 22 Jul 2010,Bhutan,FY 2010,82,Christian,13,323
+From: 22 Jul 2010,To: 22 Jul 2010,Bhutan,FY 2010,82,Hindu,63,323
+From: 22 Jul 2010,To: 22 Jul 2010,Burma,FY 2010,66,Baptist,4,323
+From: 22 Jul 2010,To: 22 Jul 2010,Burma,FY 2010,66,Buddhist,19,323
+From: 22 Jul 2010,To: 22 Jul 2010,Burma,FY 2010,66,Christian,43,323
+From: 22 Jul 2010,To: 22 Jul 2010,Cuba,FY 2010,1,Jehovah Witness,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Eritrea,FY 2010,16,Catholic,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Eritrea,FY 2010,16,Orthodox,14,323
+From: 22 Jul 2010,To: 22 Jul 2010,Eritrea,FY 2010,16,Protestant,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Iraq,FY 2010,95,Catholic,12,323
+From: 22 Jul 2010,To: 22 Jul 2010,Iraq,FY 2010,95,Moslem,3,323
+From: 22 Jul 2010,To: 22 Jul 2010,Iraq,FY 2010,95,Moslem Shiite,31,323
+From: 22 Jul 2010,To: 22 Jul 2010,Iraq,FY 2010,95,Moslem Suni,41,323
+From: 22 Jul 2010,To: 22 Jul 2010,Iraq,FY 2010,95,Orthodox,8,323
+From: 22 Jul 2010,To: 22 Jul 2010,Liberia,FY 2010,8,Methodist,6,323
+From: 22 Jul 2010,To: 22 Jul 2010,Liberia,FY 2010,8,Moslem,2,323
+From: 22 Jul 2010,To: 22 Jul 2010,Sierra Leone,FY 2010,3,Christian,2,323
+From: 22 Jul 2010,To: 22 Jul 2010,Sierra Leone,FY 2010,3,Unknown,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Somalia,FY 2010,36,Moslem,29,323
+From: 22 Jul 2010,To: 22 Jul 2010,Somalia,FY 2010,36,Moslem Suni,7,323
+From: 22 Jul 2010,To: 22 Jul 2010,Sudan,FY 2010,3,Moslem,3,323
+From: 22 Jul 2010,To: 22 Jul 2010,Uzbekistan,FY 2010,1,Jewish,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Vietnam,FY 2010,12,Protestant,12,323
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jul 2010,To: 22 Jul 2010,Baptist,FY 2010,4,Burma,4,323
+From: 22 Jul 2010,To: 22 Jul 2010,Buddhist,FY 2010,25,Bhutan,6,323
+From: 22 Jul 2010,To: 22 Jul 2010,Buddhist,FY 2010,25,Burma,19,323
+From: 22 Jul 2010,To: 22 Jul 2010,Catholic,FY 2010,13,Eritrea,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Catholic,FY 2010,13,Iraq,12,323
+From: 22 Jul 2010,To: 22 Jul 2010,Christian,FY 2010,58,Bhutan,13,323
+From: 22 Jul 2010,To: 22 Jul 2010,Christian,FY 2010,58,Burma,43,323
+From: 22 Jul 2010,To: 22 Jul 2010,Christian,FY 2010,58,Sierra Leone,2,323
+From: 22 Jul 2010,To: 22 Jul 2010,Hindu,FY 2010,63,Bhutan,63,323
+From: 22 Jul 2010,To: 22 Jul 2010,Jehovah Witness,FY 2010,1,Cuba,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Jewish,FY 2010,1,Uzbekistan,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Methodist,FY 2010,6,Liberia,6,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem,FY 2010,37,Iraq,3,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem,FY 2010,37,Liberia,2,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem,FY 2010,37,Somalia,29,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem,FY 2010,37,Sudan,3,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem Shiite,FY 2010,31,Iraq,31,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem Suni,FY 2010,48,Iraq,41,323
+From: 22 Jul 2010,To: 22 Jul 2010,Moslem Suni,FY 2010,48,Somalia,7,323
+From: 22 Jul 2010,To: 22 Jul 2010,Orthodox,FY 2010,22,Eritrea,14,323
+From: 22 Jul 2010,To: 22 Jul 2010,Orthodox,FY 2010,22,Iraq,8,323
+From: 22 Jul 2010,To: 22 Jul 2010,Protestant,FY 2010,13,Eritrea,1,323
+From: 22 Jul 2010,To: 22 Jul 2010,Protestant,FY 2010,13,Vietnam,12,323
+From: 22 Jul 2010,To: 22 Jul 2010,Unknown,FY 2010,1,Sierra Leone,1,323
+

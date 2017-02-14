@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Aug 2007,To: 30 Aug 2007,Burma,FY 2007,266,Baptist,3,559
+From: 30 Aug 2007,To: 30 Aug 2007,Burma,FY 2007,266,Buddhist,53,559
+From: 30 Aug 2007,To: 30 Aug 2007,Burma,FY 2007,266,Christian,148,559
+From: 30 Aug 2007,To: 30 Aug 2007,Burma,FY 2007,266,Moslem,62,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,Baptist,1,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,Catholic,13,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,Jehovah Witness,8,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,Lutheran,6,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,No Religion,30,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,Pentecostalist,6,559
+From: 30 Aug 2007,To: 30 Aug 2007,Cuba,FY 2007,70,Seventh Day Adventist,6,559
+From: 30 Aug 2007,To: 30 Aug 2007,Ethiopia,FY 2007,4,Moslem,4,559
+From: 30 Aug 2007,To: 30 Aug 2007,Iran,FY 2007,1,Christian,1,559
+From: 30 Aug 2007,To: 30 Aug 2007,Iraq,FY 2007,116,Catholic,38,559
+From: 30 Aug 2007,To: 30 Aug 2007,Iraq,FY 2007,116,Christian,24,559
+From: 30 Aug 2007,To: 30 Aug 2007,Iraq,FY 2007,116,Moslem Shiite,23,559
+From: 30 Aug 2007,To: 30 Aug 2007,Iraq,FY 2007,116,Moslem Suni,30,559
+From: 30 Aug 2007,To: 30 Aug 2007,Iraq,FY 2007,116,Orthodox,1,559
+From: 30 Aug 2007,To: 30 Aug 2007,Mauritania,FY 2007,3,Moslem,3,559
+From: 30 Aug 2007,To: 30 Aug 2007,Somalia,FY 2007,99,Moslem,99,559
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Aug 2007,To: 30 Aug 2007,Baptist,FY 2007,4,Burma,3,559
+From: 30 Aug 2007,To: 30 Aug 2007,Baptist,FY 2007,4,Cuba,1,559
+From: 30 Aug 2007,To: 30 Aug 2007,Buddhist,FY 2007,53,Burma,53,559
+From: 30 Aug 2007,To: 30 Aug 2007,Catholic,FY 2007,51,Cuba,13,559
+From: 30 Aug 2007,To: 30 Aug 2007,Catholic,FY 2007,51,Iraq,38,559
+From: 30 Aug 2007,To: 30 Aug 2007,Christian,FY 2007,173,Burma,148,559
+From: 30 Aug 2007,To: 30 Aug 2007,Christian,FY 2007,173,Iran,1,559
+From: 30 Aug 2007,To: 30 Aug 2007,Christian,FY 2007,173,Iraq,24,559
+From: 30 Aug 2007,To: 30 Aug 2007,Jehovah Witness,FY 2007,8,Cuba,8,559
+From: 30 Aug 2007,To: 30 Aug 2007,Lutheran,FY 2007,6,Cuba,6,559
+From: 30 Aug 2007,To: 30 Aug 2007,Moslem,FY 2007,168,Burma,62,559
+From: 30 Aug 2007,To: 30 Aug 2007,Moslem,FY 2007,168,Ethiopia,4,559
+From: 30 Aug 2007,To: 30 Aug 2007,Moslem,FY 2007,168,Mauritania,3,559
+From: 30 Aug 2007,To: 30 Aug 2007,Moslem,FY 2007,168,Somalia,99,559
+From: 30 Aug 2007,To: 30 Aug 2007,Moslem Shiite,FY 2007,23,Iraq,23,559
+From: 30 Aug 2007,To: 30 Aug 2007,Moslem Suni,FY 2007,30,Iraq,30,559
+From: 30 Aug 2007,To: 30 Aug 2007,No Religion,FY 2007,30,Cuba,30,559
+From: 30 Aug 2007,To: 30 Aug 2007,Orthodox,FY 2007,1,Iraq,1,559
+From: 30 Aug 2007,To: 30 Aug 2007,Pentecostalist,FY 2007,6,Cuba,6,559
+From: 30 Aug 2007,To: 30 Aug 2007,Seventh Day Adventist,FY 2007,6,Cuba,6,559
+

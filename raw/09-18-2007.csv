@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Sep 2007,To: 18 Sep 2007,Burma,FY 2007,427,Baptist,4,721
+From: 18 Sep 2007,To: 18 Sep 2007,Burma,FY 2007,427,Buddhist,57,721
+From: 18 Sep 2007,To: 18 Sep 2007,Burma,FY 2007,427,Christian,283,721
+From: 18 Sep 2007,To: 18 Sep 2007,Burma,FY 2007,427,Moslem,83,721
+From: 18 Sep 2007,To: 18 Sep 2007,Burundi,FY 2007,42,Catholic,27,721
+From: 18 Sep 2007,To: 18 Sep 2007,Burundi,FY 2007,42,Moslem,7,721
+From: 18 Sep 2007,To: 18 Sep 2007,Burundi,FY 2007,42,Pentecostalist,8,721
+From: 18 Sep 2007,To: 18 Sep 2007,Dem. Rep. Congo,FY 2007,9,Pentecostalist,9,721
+From: 18 Sep 2007,To: 18 Sep 2007,Estonia,FY 2007,2,Seventh Day Adventist,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Ethiopia,FY 2007,6,Moslem,5,721
+From: 18 Sep 2007,To: 18 Sep 2007,Ethiopia,FY 2007,6,Orthodox,1,721
+From: 18 Sep 2007,To: 18 Sep 2007,Iran,FY 2007,34,Christian,21,721
+From: 18 Sep 2007,To: 18 Sep 2007,Iran,FY 2007,34,Jewish,6,721
+From: 18 Sep 2007,To: 18 Sep 2007,Iran,FY 2007,34,Sabeans-Mandean,7,721
+From: 18 Sep 2007,To: 18 Sep 2007,Iraq,FY 2007,48,Catholic,35,721
+From: 18 Sep 2007,To: 18 Sep 2007,Iraq,FY 2007,48,Christian,11,721
+From: 18 Sep 2007,To: 18 Sep 2007,Iraq,FY 2007,48,Moslem Suni,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Somalia,FY 2007,109,Moslem,107,721
+From: 18 Sep 2007,To: 18 Sep 2007,Somalia,FY 2007,109,Moslem Suni,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Sudan,FY 2007,4,Moslem,4,721
+From: 18 Sep 2007,To: 18 Sep 2007,Ukraine,FY 2007,40,Baptist,8,721
+From: 18 Sep 2007,To: 18 Sep 2007,Ukraine,FY 2007,40,Jewish,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Ukraine,FY 2007,40,Pentecostalist,30,721
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Sep 2007,To: 18 Sep 2007,Baptist,FY 2007,12,Burma,4,721
+From: 18 Sep 2007,To: 18 Sep 2007,Baptist,FY 2007,12,Ukraine,8,721
+From: 18 Sep 2007,To: 18 Sep 2007,Buddhist,FY 2007,57,Burma,57,721
+From: 18 Sep 2007,To: 18 Sep 2007,Catholic,FY 2007,62,Burundi,27,721
+From: 18 Sep 2007,To: 18 Sep 2007,Catholic,FY 2007,62,Iraq,35,721
+From: 18 Sep 2007,To: 18 Sep 2007,Christian,FY 2007,315,Burma,283,721
+From: 18 Sep 2007,To: 18 Sep 2007,Christian,FY 2007,315,Iran,21,721
+From: 18 Sep 2007,To: 18 Sep 2007,Christian,FY 2007,315,Iraq,11,721
+From: 18 Sep 2007,To: 18 Sep 2007,Jewish,FY 2007,8,Iran,6,721
+From: 18 Sep 2007,To: 18 Sep 2007,Jewish,FY 2007,8,Ukraine,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem,FY 2007,206,Burma,83,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem,FY 2007,206,Burundi,7,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem,FY 2007,206,Ethiopia,5,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem,FY 2007,206,Somalia,107,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem,FY 2007,206,Sudan,4,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem Suni,FY 2007,4,Iraq,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Moslem Suni,FY 2007,4,Somalia,2,721
+From: 18 Sep 2007,To: 18 Sep 2007,Orthodox,FY 2007,1,Ethiopia,1,721
+From: 18 Sep 2007,To: 18 Sep 2007,Pentecostalist,FY 2007,47,Burundi,8,721
+From: 18 Sep 2007,To: 18 Sep 2007,Pentecostalist,FY 2007,47,Dem. Rep. Congo,9,721
+From: 18 Sep 2007,To: 18 Sep 2007,Pentecostalist,FY 2007,47,Ukraine,30,721
+From: 18 Sep 2007,To: 18 Sep 2007,Sabeans-Mandean,FY 2007,7,Iran,7,721
+From: 18 Sep 2007,To: 18 Sep 2007,Seventh Day Adventist,FY 2007,2,Estonia,2,721
+

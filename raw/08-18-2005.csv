@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Aug 2005,To: 18 Aug 2005,Afghanistan,FY 2005,10,Moslem Shiite,3,148
+From: 18 Aug 2005,To: 18 Aug 2005,Afghanistan,FY 2005,10,Moslem Suni,7,148
+From: 18 Aug 2005,To: 18 Aug 2005,Burma,FY 2005,17,Buddhist,9,148
+From: 18 Aug 2005,To: 18 Aug 2005,Burma,FY 2005,17,Protestant,8,148
+From: 18 Aug 2005,To: 18 Aug 2005,Cuba,FY 2005,70,Catholic,25,148
+From: 18 Aug 2005,To: 18 Aug 2005,Cuba,FY 2005,70,Evangelical Christian,1,148
+From: 18 Aug 2005,To: 18 Aug 2005,Cuba,FY 2005,70,Jehovah Witness,11,148
+From: 18 Aug 2005,To: 18 Aug 2005,Cuba,FY 2005,70,Methodist,3,148
+From: 18 Aug 2005,To: 18 Aug 2005,Cuba,FY 2005,70,No Religion,25,148
+From: 18 Aug 2005,To: 18 Aug 2005,Cuba,FY 2005,70,Seventh Day Adventist,5,148
+From: 18 Aug 2005,To: 18 Aug 2005,Somalia,FY 2005,35,Moslem,35,148
+From: 18 Aug 2005,To: 18 Aug 2005,Sudan,FY 2005,1,Christian,1,148
+From: 18 Aug 2005,To: 18 Aug 2005,Ukraine,FY 2005,10,Baptist,10,148
+From: 18 Aug 2005,To: 18 Aug 2005,Uzbekistan,FY 2005,5,Baptist,1,148
+From: 18 Aug 2005,To: 18 Aug 2005,Uzbekistan,FY 2005,5,Jewish,2,148
+From: 18 Aug 2005,To: 18 Aug 2005,Uzbekistan,FY 2005,5,Pentecostalist,2,148
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Aug 2005,To: 18 Aug 2005,Baptist,FY 2005,11,Ukraine,10,148
+From: 18 Aug 2005,To: 18 Aug 2005,Baptist,FY 2005,11,Uzbekistan,1,148
+From: 18 Aug 2005,To: 18 Aug 2005,Buddhist,FY 2005,9,Burma,9,148
+From: 18 Aug 2005,To: 18 Aug 2005,Catholic,FY 2005,25,Cuba,25,148
+From: 18 Aug 2005,To: 18 Aug 2005,Christian,FY 2005,1,Sudan,1,148
+From: 18 Aug 2005,To: 18 Aug 2005,Evangelical Christian,FY 2005,1,Cuba,1,148
+From: 18 Aug 2005,To: 18 Aug 2005,Jehovah Witness,FY 2005,11,Cuba,11,148
+From: 18 Aug 2005,To: 18 Aug 2005,Jewish,FY 2005,2,Uzbekistan,2,148
+From: 18 Aug 2005,To: 18 Aug 2005,Methodist,FY 2005,3,Cuba,3,148
+From: 18 Aug 2005,To: 18 Aug 2005,Moslem,FY 2005,35,Somalia,35,148
+From: 18 Aug 2005,To: 18 Aug 2005,Moslem Shiite,FY 2005,3,Afghanistan,3,148
+From: 18 Aug 2005,To: 18 Aug 2005,Moslem Suni,FY 2005,7,Afghanistan,7,148
+From: 18 Aug 2005,To: 18 Aug 2005,No Religion,FY 2005,25,Cuba,25,148
+From: 18 Aug 2005,To: 18 Aug 2005,Pentecostalist,FY 2005,2,Uzbekistan,2,148
+From: 18 Aug 2005,To: 18 Aug 2005,Protestant,FY 2005,8,Burma,8,148
+From: 18 Aug 2005,To: 18 Aug 2005,Seventh Day Adventist,FY 2005,5,Cuba,5,148
+

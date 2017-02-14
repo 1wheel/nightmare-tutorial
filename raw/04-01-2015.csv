@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Apr 2015,To: 01 Apr 2015,Afghanistan,FY 2015,28,Moslem Shiite,6,162
+From: 01 Apr 2015,To: 01 Apr 2015,Afghanistan,FY 2015,28,Moslem Suni,22,162
+From: 01 Apr 2015,To: 01 Apr 2015,Burma,FY 2015,63,Animist,9,162
+From: 01 Apr 2015,To: 01 Apr 2015,Burma,FY 2015,63,Baptist,3,162
+From: 01 Apr 2015,To: 01 Apr 2015,Burma,FY 2015,63,Buddhist,16,162
+From: 01 Apr 2015,To: 01 Apr 2015,Burma,FY 2015,63,Catholic,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Burma,FY 2015,63,Christian,17,162
+From: 01 Apr 2015,To: 01 Apr 2015,Burma,FY 2015,63,Moslem,17,162
+From: 01 Apr 2015,To: 01 Apr 2015,Dem. Rep. Congo,FY 2015,17,Pentecostalist,17,162
+From: 01 Apr 2015,To: 01 Apr 2015,Eritrea,FY 2015,4,Pentecostalist,4,162
+From: 01 Apr 2015,To: 01 Apr 2015,Iran,FY 2015,4,Christian,3,162
+From: 01 Apr 2015,To: 01 Apr 2015,Iran,FY 2015,4,Moslem Suni,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Iraq,FY 2015,22,Catholic,2,162
+From: 01 Apr 2015,To: 01 Apr 2015,Iraq,FY 2015,22,Christian,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Iraq,FY 2015,22,Moslem Shiite,11,162
+From: 01 Apr 2015,To: 01 Apr 2015,Iraq,FY 2015,22,Moslem Suni,8,162
+From: 01 Apr 2015,To: 01 Apr 2015,Pakistan,FY 2015,1,Moslem Shiite,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Somalia,FY 2015,11,Moslem,11,162
+From: 01 Apr 2015,To: 01 Apr 2015,Sudan,FY 2015,12,Moslem,12,162
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Apr 2015,To: 01 Apr 2015,Animist,FY 2015,9,Burma,9,162
+From: 01 Apr 2015,To: 01 Apr 2015,Baptist,FY 2015,3,Burma,3,162
+From: 01 Apr 2015,To: 01 Apr 2015,Buddhist,FY 2015,16,Burma,16,162
+From: 01 Apr 2015,To: 01 Apr 2015,Catholic,FY 2015,3,Burma,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Catholic,FY 2015,3,Iraq,2,162
+From: 01 Apr 2015,To: 01 Apr 2015,Christian,FY 2015,21,Burma,17,162
+From: 01 Apr 2015,To: 01 Apr 2015,Christian,FY 2015,21,Iran,3,162
+From: 01 Apr 2015,To: 01 Apr 2015,Christian,FY 2015,21,Iraq,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem,FY 2015,40,Burma,17,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem,FY 2015,40,Somalia,11,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem,FY 2015,40,Sudan,12,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem Shiite,FY 2015,18,Afghanistan,6,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem Shiite,FY 2015,18,Iraq,11,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem Shiite,FY 2015,18,Pakistan,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem Suni,FY 2015,31,Afghanistan,22,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem Suni,FY 2015,31,Iran,1,162
+From: 01 Apr 2015,To: 01 Apr 2015,Moslem Suni,FY 2015,31,Iraq,8,162
+From: 01 Apr 2015,To: 01 Apr 2015,Pentecostalist,FY 2015,21,Dem. Rep. Congo,17,162
+From: 01 Apr 2015,To: 01 Apr 2015,Pentecostalist,FY 2015,21,Eritrea,4,162
+

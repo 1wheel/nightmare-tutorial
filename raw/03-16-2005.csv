@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Mar 2005,To: 16 Mar 2005,Burma,FY 2005,28,Buddhist,14,222
+From: 16 Mar 2005,To: 16 Mar 2005,Burma,FY 2005,28,Moslem,1,222
+From: 16 Mar 2005,To: 16 Mar 2005,Burma,FY 2005,28,Protestant,13,222
+From: 16 Mar 2005,To: 16 Mar 2005,Eritrea,FY 2005,2,Jehovah Witness,2,222
+From: 16 Mar 2005,To: 16 Mar 2005,Ethiopia,FY 2005,1,Orthodox,1,222
+From: 16 Mar 2005,To: 16 Mar 2005,Iran,FY 2005,36,Bahai,17,222
+From: 16 Mar 2005,To: 16 Mar 2005,Iran,FY 2005,36,Christian,13,222
+From: 16 Mar 2005,To: 16 Mar 2005,Iran,FY 2005,36,Jewish,4,222
+From: 16 Mar 2005,To: 16 Mar 2005,Iran,FY 2005,36,Orthodox,2,222
+From: 16 Mar 2005,To: 16 Mar 2005,Laos,FY 2005,28,Ancestral Worship,28,222
+From: 16 Mar 2005,To: 16 Mar 2005,Liberia,FY 2005,31,Christian,28,222
+From: 16 Mar 2005,To: 16 Mar 2005,Liberia,FY 2005,31,Pentecostalist,3,222
+From: 16 Mar 2005,To: 16 Mar 2005,Russia,FY 2005,35,Moslem,35,222
+From: 16 Mar 2005,To: 16 Mar 2005,Sierra Leone,FY 2005,1,Moslem,1,222
+From: 16 Mar 2005,To: 16 Mar 2005,Somalia,FY 2005,33,Christian,7,222
+From: 16 Mar 2005,To: 16 Mar 2005,Somalia,FY 2005,33,Moslem,26,222
+From: 16 Mar 2005,To: 16 Mar 2005,Sudan,FY 2005,27,Moslem,14,222
+From: 16 Mar 2005,To: 16 Mar 2005,Sudan,FY 2005,27,Protestant,13,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Mar 2005,To: 16 Mar 2005,Ancestral Worship,FY 2005,28,Laos,28,222
+From: 16 Mar 2005,To: 16 Mar 2005,Bahai,FY 2005,17,Iran,17,222
+From: 16 Mar 2005,To: 16 Mar 2005,Buddhist,FY 2005,14,Burma,14,222
+From: 16 Mar 2005,To: 16 Mar 2005,Christian,FY 2005,48,Iran,13,222
+From: 16 Mar 2005,To: 16 Mar 2005,Christian,FY 2005,48,Liberia,28,222
+From: 16 Mar 2005,To: 16 Mar 2005,Christian,FY 2005,48,Somalia,7,222
+From: 16 Mar 2005,To: 16 Mar 2005,Jehovah Witness,FY 2005,2,Eritrea,2,222
+From: 16 Mar 2005,To: 16 Mar 2005,Jewish,FY 2005,4,Iran,4,222
+From: 16 Mar 2005,To: 16 Mar 2005,Moslem,FY 2005,77,Burma,1,222
+From: 16 Mar 2005,To: 16 Mar 2005,Moslem,FY 2005,77,Russia,35,222
+From: 16 Mar 2005,To: 16 Mar 2005,Moslem,FY 2005,77,Sierra Leone,1,222
+From: 16 Mar 2005,To: 16 Mar 2005,Moslem,FY 2005,77,Somalia,26,222
+From: 16 Mar 2005,To: 16 Mar 2005,Moslem,FY 2005,77,Sudan,14,222
+From: 16 Mar 2005,To: 16 Mar 2005,Orthodox,FY 2005,3,Ethiopia,1,222
+From: 16 Mar 2005,To: 16 Mar 2005,Orthodox,FY 2005,3,Iran,2,222
+From: 16 Mar 2005,To: 16 Mar 2005,Pentecostalist,FY 2005,3,Liberia,3,222
+From: 16 Mar 2005,To: 16 Mar 2005,Protestant,FY 2005,26,Burma,13,222
+From: 16 Mar 2005,To: 16 Mar 2005,Protestant,FY 2005,26,Sudan,13,222
+

@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Dec 2008,To: 15 Dec 2008,Afghanistan,FY 2009,16,Moslem,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Afghanistan,FY 2009,16,Moslem Suni,15,462
+From: 15 Dec 2008,To: 15 Dec 2008,Bhutan,FY 2009,92,Buddhist,13,462
+From: 15 Dec 2008,To: 15 Dec 2008,Bhutan,FY 2009,92,Christian,7,462
+From: 15 Dec 2008,To: 15 Dec 2008,Bhutan,FY 2009,92,Hindu,67,462
+From: 15 Dec 2008,To: 15 Dec 2008,Bhutan,FY 2009,92,Kirat,5,462
+From: 15 Dec 2008,To: 15 Dec 2008,Burma,FY 2009,34,Baptist,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Burma,FY 2009,34,Buddhist,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Burma,FY 2009,34,Christian,32,462
+From: 15 Dec 2008,To: 15 Dec 2008,Congo,FY 2009,15,Protestant,15,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iran,FY 2009,61,Bahai,6,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iran,FY 2009,61,Christian,51,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iran,FY 2009,61,Jewish,3,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iran,FY 2009,61,Sabeans-Mandean,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iraq,FY 2009,226,Catholic,30,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iraq,FY 2009,226,Christian,108,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iraq,FY 2009,226,Moslem,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iraq,FY 2009,226,Moslem Shiite,39,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iraq,FY 2009,226,Moslem Suni,39,462
+From: 15 Dec 2008,To: 15 Dec 2008,Iraq,FY 2009,226,Orthodox,9,462
+From: 15 Dec 2008,To: 15 Dec 2008,Somalia,FY 2009,3,Moslem,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Somalia,FY 2009,3,Moslem Suni,2,462
+From: 15 Dec 2008,To: 15 Dec 2008,Ukraine,FY 2009,14,Baptist,4,462
+From: 15 Dec 2008,To: 15 Dec 2008,Ukraine,FY 2009,14,Jewish,2,462
+From: 15 Dec 2008,To: 15 Dec 2008,Ukraine,FY 2009,14,Pentecostalist,4,462
+From: 15 Dec 2008,To: 15 Dec 2008,Ukraine,FY 2009,14,Seventh Day Adventist,4,462
+From: 15 Dec 2008,To: 15 Dec 2008,Uzbekistan,FY 2009,1,Jewish,1,462
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Dec 2008,To: 15 Dec 2008,Bahai,FY 2009,6,Iran,6,462
+From: 15 Dec 2008,To: 15 Dec 2008,Baptist,FY 2009,5,Burma,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Baptist,FY 2009,5,Ukraine,4,462
+From: 15 Dec 2008,To: 15 Dec 2008,Buddhist,FY 2009,14,Bhutan,13,462
+From: 15 Dec 2008,To: 15 Dec 2008,Buddhist,FY 2009,14,Burma,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Catholic,FY 2009,30,Iraq,30,462
+From: 15 Dec 2008,To: 15 Dec 2008,Christian,FY 2009,198,Bhutan,7,462
+From: 15 Dec 2008,To: 15 Dec 2008,Christian,FY 2009,198,Burma,32,462
+From: 15 Dec 2008,To: 15 Dec 2008,Christian,FY 2009,198,Iran,51,462
+From: 15 Dec 2008,To: 15 Dec 2008,Christian,FY 2009,198,Iraq,108,462
+From: 15 Dec 2008,To: 15 Dec 2008,Hindu,FY 2009,67,Bhutan,67,462
+From: 15 Dec 2008,To: 15 Dec 2008,Jewish,FY 2009,6,Iran,3,462
+From: 15 Dec 2008,To: 15 Dec 2008,Jewish,FY 2009,6,Ukraine,2,462
+From: 15 Dec 2008,To: 15 Dec 2008,Jewish,FY 2009,6,Uzbekistan,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Kirat,FY 2009,5,Bhutan,5,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem,FY 2009,3,Afghanistan,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem,FY 2009,3,Iraq,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem,FY 2009,3,Somalia,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem Shiite,FY 2009,39,Iraq,39,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem Suni,FY 2009,56,Afghanistan,15,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem Suni,FY 2009,56,Iraq,39,462
+From: 15 Dec 2008,To: 15 Dec 2008,Moslem Suni,FY 2009,56,Somalia,2,462
+From: 15 Dec 2008,To: 15 Dec 2008,Orthodox,FY 2009,9,Iraq,9,462
+From: 15 Dec 2008,To: 15 Dec 2008,Pentecostalist,FY 2009,4,Ukraine,4,462
+From: 15 Dec 2008,To: 15 Dec 2008,Protestant,FY 2009,15,Congo,15,462
+From: 15 Dec 2008,To: 15 Dec 2008,Sabeans-Mandean,FY 2009,1,Iran,1,462
+From: 15 Dec 2008,To: 15 Dec 2008,Seventh Day Adventist,FY 2009,4,Ukraine,4,462
+

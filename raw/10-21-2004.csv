@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Oct 2004,To: 21 Oct 2004,Cuba,FY 2005,12,Jehovah Witness,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Cuba,FY 2005,12,No Religion,8,190
+From: 21 Oct 2004,To: 21 Oct 2004,Cuba,FY 2005,12,Pentecostalist,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Liberia,FY 2005,56,Baptist,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Liberia,FY 2005,56,Catholic,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Liberia,FY 2005,56,Christian,50,190
+From: 21 Oct 2004,To: 21 Oct 2004,Liberia,FY 2005,56,No Religion,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Rwanda,FY 2005,3,Moslem,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Sierra Leone,FY 2005,13,Catholic,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Sierra Leone,FY 2005,13,Christian,7,190
+From: 21 Oct 2004,To: 21 Oct 2004,Sierra Leone,FY 2005,13,Moslem,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Sierra Leone,FY 2005,13,Orthodox,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Somalia,FY 2005,73,Moslem,72,190
+From: 21 Oct 2004,To: 21 Oct 2004,Somalia,FY 2005,73,Unknown,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Sudan,FY 2005,2,Christian,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Ukraine,FY 2005,30,No Religion,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Ukraine,FY 2005,30,Pentecostalist,23,190
+From: 21 Oct 2004,To: 21 Oct 2004,Ukraine,FY 2005,30,Uniate,5,190
+From: 21 Oct 2004,To: 21 Oct 2004,Uzbekistan,FY 2005,1,Baptist,1,190
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Oct 2004,To: 21 Oct 2004,Baptist,FY 2005,2,Liberia,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Baptist,FY 2005,2,Uzbekistan,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Catholic,FY 2005,6,Liberia,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Catholic,FY 2005,6,Sierra Leone,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Christian,FY 2005,59,Liberia,50,190
+From: 21 Oct 2004,To: 21 Oct 2004,Christian,FY 2005,59,Sierra Leone,7,190
+From: 21 Oct 2004,To: 21 Oct 2004,Christian,FY 2005,59,Sudan,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Jehovah Witness,FY 2005,3,Cuba,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Moslem,FY 2005,77,Rwanda,3,190
+From: 21 Oct 2004,To: 21 Oct 2004,Moslem,FY 2005,77,Sierra Leone,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Moslem,FY 2005,77,Somalia,72,190
+From: 21 Oct 2004,To: 21 Oct 2004,No Religion,FY 2005,12,Cuba,8,190
+From: 21 Oct 2004,To: 21 Oct 2004,No Religion,FY 2005,12,Liberia,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,No Religion,FY 2005,12,Ukraine,2,190
+From: 21 Oct 2004,To: 21 Oct 2004,Orthodox,FY 2005,1,Sierra Leone,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Pentecostalist,FY 2005,24,Cuba,1,190
+From: 21 Oct 2004,To: 21 Oct 2004,Pentecostalist,FY 2005,24,Ukraine,23,190
+From: 21 Oct 2004,To: 21 Oct 2004,Uniate,FY 2005,5,Ukraine,5,190
+From: 21 Oct 2004,To: 21 Oct 2004,Unknown,FY 2005,1,Somalia,1,190
+

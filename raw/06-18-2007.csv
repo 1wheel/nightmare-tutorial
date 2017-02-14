@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jun 2007,To: 18 Jun 2007,Congo,FY 2007,21,Catholic,1,128
+From: 18 Jun 2007,To: 18 Jun 2007,Congo,FY 2007,21,Protestant,20,128
+From: 18 Jun 2007,To: 18 Jun 2007,Ethiopia,FY 2007,34,Christian,2,128
+From: 18 Jun 2007,To: 18 Jun 2007,Ethiopia,FY 2007,34,Moslem,17,128
+From: 18 Jun 2007,To: 18 Jun 2007,Ethiopia,FY 2007,34,Orthodox,9,128
+From: 18 Jun 2007,To: 18 Jun 2007,Ethiopia,FY 2007,34,Protestant,6,128
+From: 18 Jun 2007,To: 18 Jun 2007,Georgia,FY 2007,1,Jewish,1,128
+From: 18 Jun 2007,To: 18 Jun 2007,Iran,FY 2007,43,Bahai,8,128
+From: 18 Jun 2007,To: 18 Jun 2007,Iran,FY 2007,43,Christian,22,128
+From: 18 Jun 2007,To: 18 Jun 2007,Iran,FY 2007,43,Jewish,5,128
+From: 18 Jun 2007,To: 18 Jun 2007,Iran,FY 2007,43,Protestant,3,128
+From: 18 Jun 2007,To: 18 Jun 2007,Iran,FY 2007,43,Sabeans-Mandean,5,128
+From: 18 Jun 2007,To: 18 Jun 2007,Somalia,FY 2007,29,Moslem,29,128
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jun 2007,To: 18 Jun 2007,Bahai,FY 2007,8,Iran,8,128
+From: 18 Jun 2007,To: 18 Jun 2007,Catholic,FY 2007,1,Congo,1,128
+From: 18 Jun 2007,To: 18 Jun 2007,Christian,FY 2007,24,Ethiopia,2,128
+From: 18 Jun 2007,To: 18 Jun 2007,Christian,FY 2007,24,Iran,22,128
+From: 18 Jun 2007,To: 18 Jun 2007,Jewish,FY 2007,6,Georgia,1,128
+From: 18 Jun 2007,To: 18 Jun 2007,Jewish,FY 2007,6,Iran,5,128
+From: 18 Jun 2007,To: 18 Jun 2007,Moslem,FY 2007,46,Ethiopia,17,128
+From: 18 Jun 2007,To: 18 Jun 2007,Moslem,FY 2007,46,Somalia,29,128
+From: 18 Jun 2007,To: 18 Jun 2007,Orthodox,FY 2007,9,Ethiopia,9,128
+From: 18 Jun 2007,To: 18 Jun 2007,Protestant,FY 2007,29,Congo,20,128
+From: 18 Jun 2007,To: 18 Jun 2007,Protestant,FY 2007,29,Ethiopia,6,128
+From: 18 Jun 2007,To: 18 Jun 2007,Protestant,FY 2007,29,Iran,3,128
+From: 18 Jun 2007,To: 18 Jun 2007,Sabeans-Mandean,FY 2007,5,Iran,5,128
+

@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Dec 2006,To: 01 Dec 2006,Cuba,FY 2007,35,Catholic,3,69
+From: 01 Dec 2006,To: 01 Dec 2006,Cuba,FY 2007,35,Jehovah Witness,10,69
+From: 01 Dec 2006,To: 01 Dec 2006,Cuba,FY 2007,35,No Religion,22,69
+From: 01 Dec 2006,To: 01 Dec 2006,Russia,FY 2007,34,Moslem,34,69
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Dec 2006,To: 01 Dec 2006,Catholic,FY 2007,3,Cuba,3,69
+From: 01 Dec 2006,To: 01 Dec 2006,Jehovah Witness,FY 2007,10,Cuba,10,69
+From: 01 Dec 2006,To: 01 Dec 2006,Moslem,FY 2007,34,Russia,34,69
+From: 01 Dec 2006,To: 01 Dec 2006,No Religion,FY 2007,22,Cuba,22,69
+

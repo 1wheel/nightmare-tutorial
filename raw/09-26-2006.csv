@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Sep 2006,To: 26 Sep 2006,Afghanistan,FY 2006,9,Moslem Suni,9,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burma,FY 2006,77,Buddhist,13,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burma,FY 2006,77,Christian,64,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burundi,FY 2006,64,Catholic,12,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burundi,FY 2006,64,Christian,8,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burundi,FY 2006,64,Lutheran,19,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burundi,FY 2006,64,Moslem,4,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burundi,FY 2006,64,Pentecostalist,20,350
+From: 26 Sep 2006,To: 26 Sep 2006,Burundi,FY 2006,64,Protestant,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Congo,FY 2006,1,Protestant,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Cuba,FY 2006,2,Catholic,2,350
+From: 26 Sep 2006,To: 26 Sep 2006,Dem. Rep. Congo,FY 2006,22,Catholic,4,350
+From: 26 Sep 2006,To: 26 Sep 2006,Dem. Rep. Congo,FY 2006,22,Methodist,7,350
+From: 26 Sep 2006,To: 26 Sep 2006,Dem. Rep. Congo,FY 2006,22,Other Religion,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Dem. Rep. Congo,FY 2006,22,Pentecostalist,7,350
+From: 26 Sep 2006,To: 26 Sep 2006,Dem. Rep. Congo,FY 2006,22,Protestant,3,350
+From: 26 Sep 2006,To: 26 Sep 2006,Equatorial Guinea,FY 2006,1,Christian,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Ethiopia,FY 2006,11,Moslem,11,350
+From: 26 Sep 2006,To: 26 Sep 2006,Iran,FY 2006,28,Christian,22,350
+From: 26 Sep 2006,To: 26 Sep 2006,Iran,FY 2006,28,Jewish,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Iran,FY 2006,28,Moslem Shiite,3,350
+From: 26 Sep 2006,To: 26 Sep 2006,Iran,FY 2006,28,Zoroastrian,2,350
+From: 26 Sep 2006,To: 26 Sep 2006,Kazakhstan,FY 2006,15,Baptist,10,350
+From: 26 Sep 2006,To: 26 Sep 2006,Kazakhstan,FY 2006,15,Pentecostalist,5,350
+From: 26 Sep 2006,To: 26 Sep 2006,Rwanda,FY 2006,5,Catholic,4,350
+From: 26 Sep 2006,To: 26 Sep 2006,Rwanda,FY 2006,5,Christian,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Sierra Leone,FY 2006,1,Moslem,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Somalia,FY 2006,107,Moslem,107,350
+From: 26 Sep 2006,To: 26 Sep 2006,Sudan,FY 2006,7,Christian,6,350
+From: 26 Sep 2006,To: 26 Sep 2006,Sudan,FY 2006,7,Moslem,1,350
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Sep 2006,To: 26 Sep 2006,Baptist,FY 2006,10,Kazakhstan,10,350
+From: 26 Sep 2006,To: 26 Sep 2006,Buddhist,FY 2006,13,Burma,13,350
+From: 26 Sep 2006,To: 26 Sep 2006,Catholic,FY 2006,22,Burundi,12,350
+From: 26 Sep 2006,To: 26 Sep 2006,Catholic,FY 2006,22,Cuba,2,350
+From: 26 Sep 2006,To: 26 Sep 2006,Catholic,FY 2006,22,Dem. Rep. Congo,4,350
+From: 26 Sep 2006,To: 26 Sep 2006,Catholic,FY 2006,22,Rwanda,4,350
+From: 26 Sep 2006,To: 26 Sep 2006,Christian,FY 2006,102,Burma,64,350
+From: 26 Sep 2006,To: 26 Sep 2006,Christian,FY 2006,102,Burundi,8,350
+From: 26 Sep 2006,To: 26 Sep 2006,Christian,FY 2006,102,Equatorial Guinea,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Christian,FY 2006,102,Iran,22,350
+From: 26 Sep 2006,To: 26 Sep 2006,Christian,FY 2006,102,Rwanda,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Christian,FY 2006,102,Sudan,6,350
+From: 26 Sep 2006,To: 26 Sep 2006,Jewish,FY 2006,1,Iran,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Lutheran,FY 2006,19,Burundi,19,350
+From: 26 Sep 2006,To: 26 Sep 2006,Methodist,FY 2006,7,Dem. Rep. Congo,7,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem,FY 2006,124,Burundi,4,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem,FY 2006,124,Ethiopia,11,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem,FY 2006,124,Sierra Leone,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem,FY 2006,124,Somalia,107,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem,FY 2006,124,Sudan,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem Shiite,FY 2006,3,Iran,3,350
+From: 26 Sep 2006,To: 26 Sep 2006,Moslem Suni,FY 2006,9,Afghanistan,9,350
+From: 26 Sep 2006,To: 26 Sep 2006,Other Religion,FY 2006,1,Dem. Rep. Congo,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Pentecostalist,FY 2006,32,Burundi,20,350
+From: 26 Sep 2006,To: 26 Sep 2006,Pentecostalist,FY 2006,32,Dem. Rep. Congo,7,350
+From: 26 Sep 2006,To: 26 Sep 2006,Pentecostalist,FY 2006,32,Kazakhstan,5,350
+From: 26 Sep 2006,To: 26 Sep 2006,Protestant,FY 2006,5,Burundi,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Protestant,FY 2006,5,Congo,1,350
+From: 26 Sep 2006,To: 26 Sep 2006,Protestant,FY 2006,5,Dem. Rep. Congo,3,350
+From: 26 Sep 2006,To: 26 Sep 2006,Zoroastrian,FY 2006,2,Iran,2,350
+

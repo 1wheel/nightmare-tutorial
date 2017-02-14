@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Mar 2007,To: 22 Mar 2007,Cuba,FY 2007,67,Catholic,28,197
+From: 22 Mar 2007,To: 22 Mar 2007,Cuba,FY 2007,67,Jehovah Witness,12,197
+From: 22 Mar 2007,To: 22 Mar 2007,Cuba,FY 2007,67,No Religion,27,197
+From: 22 Mar 2007,To: 22 Mar 2007,Dem. Rep. Congo,FY 2007,35,Catholic,6,197
+From: 22 Mar 2007,To: 22 Mar 2007,Dem. Rep. Congo,FY 2007,35,Christian,10,197
+From: 22 Mar 2007,To: 22 Mar 2007,Dem. Rep. Congo,FY 2007,35,Protestant,19,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ethiopia,FY 2007,13,Moslem,10,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ethiopia,FY 2007,13,Orthodox,2,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ethiopia,FY 2007,13,Protestant,1,197
+From: 22 Mar 2007,To: 22 Mar 2007,Iraq,FY 2007,2,Moslem Shiite,2,197
+From: 22 Mar 2007,To: 22 Mar 2007,Kuwait,FY 2007,8,Moslem Suni,8,197
+From: 22 Mar 2007,To: 22 Mar 2007,Liberia,FY 2007,9,Christian,9,197
+From: 22 Mar 2007,To: 22 Mar 2007,Somalia,FY 2007,37,Moslem,37,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ukraine,FY 2007,26,Baptist,3,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ukraine,FY 2007,26,Jewish,4,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ukraine,FY 2007,26,No Religion,1,197
+From: 22 Mar 2007,To: 22 Mar 2007,Ukraine,FY 2007,26,Pentecostalist,18,197
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Mar 2007,To: 22 Mar 2007,Baptist,FY 2007,3,Ukraine,3,197
+From: 22 Mar 2007,To: 22 Mar 2007,Catholic,FY 2007,34,Cuba,28,197
+From: 22 Mar 2007,To: 22 Mar 2007,Catholic,FY 2007,34,Dem. Rep. Congo,6,197
+From: 22 Mar 2007,To: 22 Mar 2007,Christian,FY 2007,19,Dem. Rep. Congo,10,197
+From: 22 Mar 2007,To: 22 Mar 2007,Christian,FY 2007,19,Liberia,9,197
+From: 22 Mar 2007,To: 22 Mar 2007,Jehovah Witness,FY 2007,12,Cuba,12,197
+From: 22 Mar 2007,To: 22 Mar 2007,Jewish,FY 2007,4,Ukraine,4,197
+From: 22 Mar 2007,To: 22 Mar 2007,Moslem,FY 2007,47,Ethiopia,10,197
+From: 22 Mar 2007,To: 22 Mar 2007,Moslem,FY 2007,47,Somalia,37,197
+From: 22 Mar 2007,To: 22 Mar 2007,Moslem Shiite,FY 2007,2,Iraq,2,197
+From: 22 Mar 2007,To: 22 Mar 2007,Moslem Suni,FY 2007,8,Kuwait,8,197
+From: 22 Mar 2007,To: 22 Mar 2007,No Religion,FY 2007,28,Cuba,27,197
+From: 22 Mar 2007,To: 22 Mar 2007,No Religion,FY 2007,28,Ukraine,1,197
+From: 22 Mar 2007,To: 22 Mar 2007,Orthodox,FY 2007,2,Ethiopia,2,197
+From: 22 Mar 2007,To: 22 Mar 2007,Pentecostalist,FY 2007,18,Ukraine,18,197
+From: 22 Mar 2007,To: 22 Mar 2007,Protestant,FY 2007,20,Dem. Rep. Congo,19,197
+From: 22 Mar 2007,To: 22 Mar 2007,Protestant,FY 2007,20,Ethiopia,1,197
+

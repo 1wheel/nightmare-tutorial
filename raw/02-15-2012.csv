@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Feb 2012,To: 15 Feb 2012,Afghanistan,FY 2012,2,Moslem Shiite,2,349
+From: 15 Feb 2012,To: 15 Feb 2012,Bhutan,FY 2012,74,Buddhist,19,349
+From: 15 Feb 2012,To: 15 Feb 2012,Bhutan,FY 2012,74,Christian,14,349
+From: 15 Feb 2012,To: 15 Feb 2012,Bhutan,FY 2012,74,Hindu,34,349
+From: 15 Feb 2012,To: 15 Feb 2012,Bhutan,FY 2012,74,Kirat,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Animist,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Baptist,11,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Buddhist,34,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Catholic,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Christian,69,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Moslem,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Pentecostalist,6,349
+From: 15 Feb 2012,To: 15 Feb 2012,Burma,FY 2012,140,Seventh Day Adventist,3,349
+From: 15 Feb 2012,To: 15 Feb 2012,Dem. Rep. Congo,FY 2012,7,Pentecostalist,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Eritrea,FY 2012,32,Catholic,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Eritrea,FY 2012,32,Moslem,3,349
+From: 15 Feb 2012,To: 15 Feb 2012,Eritrea,FY 2012,32,Orthodox,18,349
+From: 15 Feb 2012,To: 15 Feb 2012,Eritrea,FY 2012,32,Pentecostalist,3,349
+From: 15 Feb 2012,To: 15 Feb 2012,Eritrea,FY 2012,32,Protestant,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Ethiopia,FY 2012,18,Moslem,13,349
+From: 15 Feb 2012,To: 15 Feb 2012,Ethiopia,FY 2012,18,Orthodox,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Iraq,FY 2012,6,Catholic,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Iraq,FY 2012,6,Moslem Suni,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Pakistan,FY 2012,9,Other Religion,9,349
+From: 15 Feb 2012,To: 15 Feb 2012,Somalia,FY 2012,54,Moslem,53,349
+From: 15 Feb 2012,To: 15 Feb 2012,Somalia,FY 2012,54,Moslem Suni,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Sudan,FY 2012,7,Catholic,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Sudan,FY 2012,7,Moslem,6,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Feb 2012,To: 15 Feb 2012,Animist,FY 2012,7,Burma,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Baptist,FY 2012,11,Burma,11,349
+From: 15 Feb 2012,To: 15 Feb 2012,Buddhist,FY 2012,53,Bhutan,19,349
+From: 15 Feb 2012,To: 15 Feb 2012,Buddhist,FY 2012,53,Burma,34,349
+From: 15 Feb 2012,To: 15 Feb 2012,Catholic,FY 2012,18,Burma,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Catholic,FY 2012,18,Eritrea,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Catholic,FY 2012,18,Iraq,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Catholic,FY 2012,18,Sudan,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Christian,FY 2012,83,Bhutan,14,349
+From: 15 Feb 2012,To: 15 Feb 2012,Christian,FY 2012,83,Burma,69,349
+From: 15 Feb 2012,To: 15 Feb 2012,Hindu,FY 2012,34,Bhutan,34,349
+From: 15 Feb 2012,To: 15 Feb 2012,Kirat,FY 2012,7,Bhutan,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem,FY 2012,80,Burma,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem,FY 2012,80,Eritrea,3,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem,FY 2012,80,Ethiopia,13,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem,FY 2012,80,Somalia,53,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem,FY 2012,80,Sudan,6,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem Shiite,FY 2012,2,Afghanistan,2,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem Suni,FY 2012,2,Iraq,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Moslem Suni,FY 2012,2,Somalia,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Orthodox,FY 2012,23,Eritrea,18,349
+From: 15 Feb 2012,To: 15 Feb 2012,Orthodox,FY 2012,23,Ethiopia,5,349
+From: 15 Feb 2012,To: 15 Feb 2012,Other Religion,FY 2012,9,Pakistan,9,349
+From: 15 Feb 2012,To: 15 Feb 2012,Pentecostalist,FY 2012,16,Burma,6,349
+From: 15 Feb 2012,To: 15 Feb 2012,Pentecostalist,FY 2012,16,Dem. Rep. Congo,7,349
+From: 15 Feb 2012,To: 15 Feb 2012,Pentecostalist,FY 2012,16,Eritrea,3,349
+From: 15 Feb 2012,To: 15 Feb 2012,Protestant,FY 2012,1,Eritrea,1,349
+From: 15 Feb 2012,To: 15 Feb 2012,Seventh Day Adventist,FY 2012,3,Burma,3,349
+

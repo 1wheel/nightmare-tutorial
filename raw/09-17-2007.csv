@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Sep 2007,To: 17 Sep 2007,Armenia,FY 2007,3,Pentecostalist,3,320
+From: 17 Sep 2007,To: 17 Sep 2007,Burma,FY 2007,100,Baptist,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Burma,FY 2007,100,Christian,98,320
+From: 17 Sep 2007,To: 17 Sep 2007,Burundi,FY 2007,26,Catholic,12,320
+From: 17 Sep 2007,To: 17 Sep 2007,Burundi,FY 2007,26,Christian,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Burundi,FY 2007,26,Pentecostalist,6,320
+From: 17 Sep 2007,To: 17 Sep 2007,Burundi,FY 2007,26,Seventh Day Adventist,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Dem. Rep. Congo,FY 2007,6,Catholic,6,320
+From: 17 Sep 2007,To: 17 Sep 2007,Eritrea,FY 2007,4,Jehovah Witness,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Ethiopia,FY 2007,17,Christian,6,320
+From: 17 Sep 2007,To: 17 Sep 2007,Ethiopia,FY 2007,17,Moslem,10,320
+From: 17 Sep 2007,To: 17 Sep 2007,Ethiopia,FY 2007,17,Orthodox,1,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iran,FY 2007,34,Bahai,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iran,FY 2007,34,Christian,31,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iran,FY 2007,34,Zoroastrian,1,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iraq,FY 2007,32,Catholic,5,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iraq,FY 2007,32,Christian,5,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iraq,FY 2007,32,Moslem,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iraq,FY 2007,32,Moslem Shiite,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iraq,FY 2007,32,Moslem Suni,14,320
+From: 17 Sep 2007,To: 17 Sep 2007,Iraq,FY 2007,32,Orthodox,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Liberia,FY 2007,22,Moslem,22,320
+From: 17 Sep 2007,To: 17 Sep 2007,Russia,FY 2007,8,Baptist,8,320
+From: 17 Sep 2007,To: 17 Sep 2007,Sierra Leone,FY 2007,12,Moslem,12,320
+From: 17 Sep 2007,To: 17 Sep 2007,Somalia,FY 2007,56,Moslem,56,320
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Sep 2007,To: 17 Sep 2007,Bahai,FY 2007,2,Iran,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Baptist,FY 2007,10,Burma,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Baptist,FY 2007,10,Russia,8,320
+From: 17 Sep 2007,To: 17 Sep 2007,Catholic,FY 2007,23,Burundi,12,320
+From: 17 Sep 2007,To: 17 Sep 2007,Catholic,FY 2007,23,Dem. Rep. Congo,6,320
+From: 17 Sep 2007,To: 17 Sep 2007,Catholic,FY 2007,23,Iraq,5,320
+From: 17 Sep 2007,To: 17 Sep 2007,Christian,FY 2007,144,Burma,98,320
+From: 17 Sep 2007,To: 17 Sep 2007,Christian,FY 2007,144,Burundi,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Christian,FY 2007,144,Ethiopia,6,320
+From: 17 Sep 2007,To: 17 Sep 2007,Christian,FY 2007,144,Iran,31,320
+From: 17 Sep 2007,To: 17 Sep 2007,Christian,FY 2007,144,Iraq,5,320
+From: 17 Sep 2007,To: 17 Sep 2007,Jehovah Witness,FY 2007,4,Eritrea,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem,FY 2007,102,Ethiopia,10,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem,FY 2007,102,Iraq,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem,FY 2007,102,Liberia,22,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem,FY 2007,102,Sierra Leone,12,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem,FY 2007,102,Somalia,56,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem Shiite,FY 2007,2,Iraq,2,320
+From: 17 Sep 2007,To: 17 Sep 2007,Moslem Suni,FY 2007,14,Iraq,14,320
+From: 17 Sep 2007,To: 17 Sep 2007,Orthodox,FY 2007,5,Ethiopia,1,320
+From: 17 Sep 2007,To: 17 Sep 2007,Orthodox,FY 2007,5,Iraq,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Pentecostalist,FY 2007,9,Armenia,3,320
+From: 17 Sep 2007,To: 17 Sep 2007,Pentecostalist,FY 2007,9,Burundi,6,320
+From: 17 Sep 2007,To: 17 Sep 2007,Seventh Day Adventist,FY 2007,4,Burundi,4,320
+From: 17 Sep 2007,To: 17 Sep 2007,Zoroastrian,FY 2007,1,Iran,1,320
+

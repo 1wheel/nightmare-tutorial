@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Nov 2013,To: 06 Nov 2013,Afghanistan,FY 2014,3,Moslem Shiite,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Afghanistan,FY 2014,3,Moslem Suni,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Burma,FY 2014,139,Animist,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Burma,FY 2014,139,Baptist,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Burma,FY 2014,139,Buddhist,27,338
+From: 06 Nov 2013,To: 06 Nov 2013,Burma,FY 2014,139,Catholic,10,338
+From: 06 Nov 2013,To: 06 Nov 2013,Burma,FY 2014,139,Christian,85,338
+From: 06 Nov 2013,To: 06 Nov 2013,Burma,FY 2014,139,Moslem,9,338
+From: 06 Nov 2013,To: 06 Nov 2013,Dem. Rep. Congo,FY 2014,17,Catholic,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Dem. Rep. Congo,FY 2014,17,Christian,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Dem. Rep. Congo,FY 2014,17,Pentecostalist,4,338
+From: 06 Nov 2013,To: 06 Nov 2013,Dem. Rep. Congo,FY 2014,17,Protestant,5,338
+From: 06 Nov 2013,To: 06 Nov 2013,Eritrea,FY 2014,6,Moslem Suni,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Eritrea,FY 2014,6,Orthodox,5,338
+From: 06 Nov 2013,To: 06 Nov 2013,Ethiopia,FY 2014,7,Moslem,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Ethiopia,FY 2014,7,Orthodox,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Iran,FY 2014,20,Bahai,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Iran,FY 2014,20,Christian,19,338
+From: 06 Nov 2013,To: 06 Nov 2013,Iraq,FY 2014,22,Christian,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Iraq,FY 2014,22,Moslem Shiite,12,338
+From: 06 Nov 2013,To: 06 Nov 2013,Iraq,FY 2014,22,Moslem Suni,9,338
+From: 06 Nov 2013,To: 06 Nov 2013,Republic of South Sudan,FY 2014,1,Catholic,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Rwanda,FY 2014,2,Protestant,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Somalia,FY 2014,92,Moslem,85,338
+From: 06 Nov 2013,To: 06 Nov 2013,Somalia,FY 2014,92,Moslem Suni,7,338
+From: 06 Nov 2013,To: 06 Nov 2013,Sudan,FY 2014,12,Moslem,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Sudan,FY 2014,12,Pentecostalist,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Togo,FY 2014,1,Moslem,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Ukraine,FY 2014,16,Pentecostalist,16,338
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Nov 2013,To: 06 Nov 2013,Animist,FY 2014,6,Burma,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Bahai,FY 2014,1,Iran,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Baptist,FY 2014,2,Burma,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Buddhist,FY 2014,27,Burma,27,338
+From: 06 Nov 2013,To: 06 Nov 2013,Catholic,FY 2014,13,Burma,10,338
+From: 06 Nov 2013,To: 06 Nov 2013,Catholic,FY 2014,13,Dem. Rep. Congo,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Catholic,FY 2014,13,Republic of South Sudan,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Christian,FY 2014,111,Burma,85,338
+From: 06 Nov 2013,To: 06 Nov 2013,Christian,FY 2014,111,Dem. Rep. Congo,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Christian,FY 2014,111,Iran,19,338
+From: 06 Nov 2013,To: 06 Nov 2013,Christian,FY 2014,111,Iraq,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem,FY 2014,107,Burma,9,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem,FY 2014,107,Ethiopia,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem,FY 2014,107,Somalia,85,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem,FY 2014,107,Sudan,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem,FY 2014,107,Togo,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem Shiite,FY 2014,14,Afghanistan,2,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem Shiite,FY 2014,14,Iraq,12,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem Suni,FY 2014,18,Afghanistan,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem Suni,FY 2014,18,Eritrea,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem Suni,FY 2014,18,Iraq,9,338
+From: 06 Nov 2013,To: 06 Nov 2013,Moslem Suni,FY 2014,18,Somalia,7,338
+From: 06 Nov 2013,To: 06 Nov 2013,Orthodox,FY 2014,6,Eritrea,5,338
+From: 06 Nov 2013,To: 06 Nov 2013,Orthodox,FY 2014,6,Ethiopia,1,338
+From: 06 Nov 2013,To: 06 Nov 2013,Pentecostalist,FY 2014,26,Dem. Rep. Congo,4,338
+From: 06 Nov 2013,To: 06 Nov 2013,Pentecostalist,FY 2014,26,Sudan,6,338
+From: 06 Nov 2013,To: 06 Nov 2013,Pentecostalist,FY 2014,26,Ukraine,16,338
+From: 06 Nov 2013,To: 06 Nov 2013,Protestant,FY 2014,7,Dem. Rep. Congo,5,338
+From: 06 Nov 2013,To: 06 Nov 2013,Protestant,FY 2014,7,Rwanda,2,338
+

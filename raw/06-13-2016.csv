@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jun 2016,To: 13 Jun 2016,Bhutan,FY 2016,38,Buddhist,7,298
+From: 13 Jun 2016,To: 13 Jun 2016,Bhutan,FY 2016,38,Christian,13,298
+From: 13 Jun 2016,To: 13 Jun 2016,Bhutan,FY 2016,38,Hindu,10,298
+From: 13 Jun 2016,To: 13 Jun 2016,Bhutan,FY 2016,38,Kirat,8,298
+From: 13 Jun 2016,To: 13 Jun 2016,Burma,FY 2016,37,Buddhist,2,298
+From: 13 Jun 2016,To: 13 Jun 2016,Burma,FY 2016,37,Catholic,1,298
+From: 13 Jun 2016,To: 13 Jun 2016,Burma,FY 2016,37,Christian,21,298
+From: 13 Jun 2016,To: 13 Jun 2016,Burma,FY 2016,37,Moslem,13,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iran,FY 2016,6,Bahai,4,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iran,FY 2016,6,Methodist,1,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iran,FY 2016,6,Protestant,1,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iraq,FY 2016,33,Christian,3,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iraq,FY 2016,33,Moslem Shiite,7,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iraq,FY 2016,33,Moslem Suni,21,298
+From: 13 Jun 2016,To: 13 Jun 2016,Iraq,FY 2016,33,Yazidi,2,298
+From: 13 Jun 2016,To: 13 Jun 2016,Somalia,FY 2016,37,Moslem,37,298
+From: 13 Jun 2016,To: 13 Jun 2016,Sudan,FY 2016,10,Moslem,5,298
+From: 13 Jun 2016,To: 13 Jun 2016,Sudan,FY 2016,10,Moslem Suni,5,298
+From: 13 Jun 2016,To: 13 Jun 2016,Syria,FY 2016,137,Moslem Suni,137,298
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jun 2016,To: 13 Jun 2016,Bahai,FY 2016,4,Iran,4,298
+From: 13 Jun 2016,To: 13 Jun 2016,Buddhist,FY 2016,9,Bhutan,7,298
+From: 13 Jun 2016,To: 13 Jun 2016,Buddhist,FY 2016,9,Burma,2,298
+From: 13 Jun 2016,To: 13 Jun 2016,Catholic,FY 2016,1,Burma,1,298
+From: 13 Jun 2016,To: 13 Jun 2016,Christian,FY 2016,37,Bhutan,13,298
+From: 13 Jun 2016,To: 13 Jun 2016,Christian,FY 2016,37,Burma,21,298
+From: 13 Jun 2016,To: 13 Jun 2016,Christian,FY 2016,37,Iraq,3,298
+From: 13 Jun 2016,To: 13 Jun 2016,Hindu,FY 2016,10,Bhutan,10,298
+From: 13 Jun 2016,To: 13 Jun 2016,Kirat,FY 2016,8,Bhutan,8,298
+From: 13 Jun 2016,To: 13 Jun 2016,Methodist,FY 2016,1,Iran,1,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem,FY 2016,55,Burma,13,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem,FY 2016,55,Somalia,37,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem,FY 2016,55,Sudan,5,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem Shiite,FY 2016,7,Iraq,7,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem Suni,FY 2016,163,Iraq,21,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem Suni,FY 2016,163,Sudan,5,298
+From: 13 Jun 2016,To: 13 Jun 2016,Moslem Suni,FY 2016,163,Syria,137,298
+From: 13 Jun 2016,To: 13 Jun 2016,Protestant,FY 2016,1,Iran,1,298
+From: 13 Jun 2016,To: 13 Jun 2016,Yazidi,FY 2016,2,Iraq,2,298
+

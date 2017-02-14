@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jun 2007,To: 12 Jun 2007,Burma,FY 2007,161,Buddhist,8,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burma,FY 2007,161,Catholic,6,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burma,FY 2007,161,Christian,139,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burma,FY 2007,161,Moslem,8,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burundi,FY 2007,103,Catholic,68,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burundi,FY 2007,103,Christian,6,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burundi,FY 2007,103,Pentecostalist,21,332
+From: 12 Jun 2007,To: 12 Jun 2007,Burundi,FY 2007,103,Seventh Day Adventist,8,332
+From: 12 Jun 2007,To: 12 Jun 2007,China,FY 2007,1,Other Religion,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Dem. Rep. Congo,FY 2007,15,Catholic,12,332
+From: 12 Jun 2007,To: 12 Jun 2007,Dem. Rep. Congo,FY 2007,15,Protestant,3,332
+From: 12 Jun 2007,To: 12 Jun 2007,Iran,FY 2007,30,Christian,26,332
+From: 12 Jun 2007,To: 12 Jun 2007,Iran,FY 2007,30,Jewish,4,332
+From: 12 Jun 2007,To: 12 Jun 2007,Somalia,FY 2007,1,Moslem,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Ukraine,FY 2007,20,Baptist,19,332
+From: 12 Jun 2007,To: 12 Jun 2007,Ukraine,FY 2007,20,Pentecostalist,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Vietnam,FY 2007,1,Christian,1,332
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jun 2007,To: 12 Jun 2007,Baptist,FY 2007,19,Ukraine,19,332
+From: 12 Jun 2007,To: 12 Jun 2007,Buddhist,FY 2007,8,Burma,8,332
+From: 12 Jun 2007,To: 12 Jun 2007,Catholic,FY 2007,86,Burma,6,332
+From: 12 Jun 2007,To: 12 Jun 2007,Catholic,FY 2007,86,Burundi,68,332
+From: 12 Jun 2007,To: 12 Jun 2007,Catholic,FY 2007,86,Dem. Rep. Congo,12,332
+From: 12 Jun 2007,To: 12 Jun 2007,Christian,FY 2007,172,Burma,139,332
+From: 12 Jun 2007,To: 12 Jun 2007,Christian,FY 2007,172,Burundi,6,332
+From: 12 Jun 2007,To: 12 Jun 2007,Christian,FY 2007,172,Iran,26,332
+From: 12 Jun 2007,To: 12 Jun 2007,Christian,FY 2007,172,Vietnam,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Jewish,FY 2007,4,Iran,4,332
+From: 12 Jun 2007,To: 12 Jun 2007,Moslem,FY 2007,9,Burma,8,332
+From: 12 Jun 2007,To: 12 Jun 2007,Moslem,FY 2007,9,Somalia,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Other Religion,FY 2007,1,China,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Pentecostalist,FY 2007,22,Burundi,21,332
+From: 12 Jun 2007,To: 12 Jun 2007,Pentecostalist,FY 2007,22,Ukraine,1,332
+From: 12 Jun 2007,To: 12 Jun 2007,Protestant,FY 2007,3,Dem. Rep. Congo,3,332
+From: 12 Jun 2007,To: 12 Jun 2007,Seventh Day Adventist,FY 2007,8,Burundi,8,332
+

@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jan 2016,To: 25 Jan 2016,Burma,FY 2016,36,Christian,25,247
+From: 25 Jan 2016,To: 25 Jan 2016,Burma,FY 2016,36,Moslem,11,247
+From: 25 Jan 2016,To: 25 Jan 2016,Dem. Rep. Congo,FY 2016,62,Baptist,12,247
+From: 25 Jan 2016,To: 25 Jan 2016,Dem. Rep. Congo,FY 2016,62,Catholic,4,247
+From: 25 Jan 2016,To: 25 Jan 2016,Dem. Rep. Congo,FY 2016,62,Pentecostalist,19,247
+From: 25 Jan 2016,To: 25 Jan 2016,Dem. Rep. Congo,FY 2016,62,Protestant,27,247
+From: 25 Jan 2016,To: 25 Jan 2016,Eritrea,FY 2016,18,Moslem,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Eritrea,FY 2016,18,Orthodox,17,247
+From: 25 Jan 2016,To: 25 Jan 2016,India,FY 2016,1,Christian,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Iran,FY 2016,15,Bahai,3,247
+From: 25 Jan 2016,To: 25 Jan 2016,Iran,FY 2016,15,Sabeans-Mandean,12,247
+From: 25 Jan 2016,To: 25 Jan 2016,Iraq,FY 2016,59,Catholic,9,247
+From: 25 Jan 2016,To: 25 Jan 2016,Iraq,FY 2016,59,Moslem Shiite,24,247
+From: 25 Jan 2016,To: 25 Jan 2016,Iraq,FY 2016,59,Moslem Suni,24,247
+From: 25 Jan 2016,To: 25 Jan 2016,Iraq,FY 2016,59,Orthodox,2,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moldova,FY 2016,15,Baptist,4,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moldova,FY 2016,15,Jehovah Witness,5,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moldova,FY 2016,15,Pentecostalist,5,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moldova,FY 2016,15,Seventh Day Adventist,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Russia,FY 2016,19,Baptist,13,247
+From: 25 Jan 2016,To: 25 Jan 2016,Russia,FY 2016,19,Pentecostalist,6,247
+From: 25 Jan 2016,To: 25 Jan 2016,Somalia,FY 2016,4,Moslem,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Somalia,FY 2016,4,Moslem Suni,3,247
+From: 25 Jan 2016,To: 25 Jan 2016,Sudan,FY 2016,1,Moslem,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Syria,FY 2016,12,Moslem Suni,12,247
+From: 25 Jan 2016,To: 25 Jan 2016,Ukraine,FY 2016,5,Pentecostalist,5,247
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jan 2016,To: 25 Jan 2016,Bahai,FY 2016,3,Iran,3,247
+From: 25 Jan 2016,To: 25 Jan 2016,Baptist,FY 2016,29,Dem. Rep. Congo,12,247
+From: 25 Jan 2016,To: 25 Jan 2016,Baptist,FY 2016,29,Moldova,4,247
+From: 25 Jan 2016,To: 25 Jan 2016,Baptist,FY 2016,29,Russia,13,247
+From: 25 Jan 2016,To: 25 Jan 2016,Catholic,FY 2016,13,Dem. Rep. Congo,4,247
+From: 25 Jan 2016,To: 25 Jan 2016,Catholic,FY 2016,13,Iraq,9,247
+From: 25 Jan 2016,To: 25 Jan 2016,Christian,FY 2016,26,Burma,25,247
+From: 25 Jan 2016,To: 25 Jan 2016,Christian,FY 2016,26,India,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Jehovah Witness,FY 2016,5,Moldova,5,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem,FY 2016,14,Burma,11,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem,FY 2016,14,Eritrea,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem,FY 2016,14,Somalia,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem,FY 2016,14,Sudan,1,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem Shiite,FY 2016,24,Iraq,24,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem Suni,FY 2016,39,Iraq,24,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem Suni,FY 2016,39,Somalia,3,247
+From: 25 Jan 2016,To: 25 Jan 2016,Moslem Suni,FY 2016,39,Syria,12,247
+From: 25 Jan 2016,To: 25 Jan 2016,Orthodox,FY 2016,19,Eritrea,17,247
+From: 25 Jan 2016,To: 25 Jan 2016,Orthodox,FY 2016,19,Iraq,2,247
+From: 25 Jan 2016,To: 25 Jan 2016,Pentecostalist,FY 2016,35,Dem. Rep. Congo,19,247
+From: 25 Jan 2016,To: 25 Jan 2016,Pentecostalist,FY 2016,35,Moldova,5,247
+From: 25 Jan 2016,To: 25 Jan 2016,Pentecostalist,FY 2016,35,Russia,6,247
+From: 25 Jan 2016,To: 25 Jan 2016,Pentecostalist,FY 2016,35,Ukraine,5,247
+From: 25 Jan 2016,To: 25 Jan 2016,Protestant,FY 2016,27,Dem. Rep. Congo,27,247
+From: 25 Jan 2016,To: 25 Jan 2016,Sabeans-Mandean,FY 2016,12,Iran,12,247
+From: 25 Jan 2016,To: 25 Jan 2016,Seventh Day Adventist,FY 2016,1,Moldova,1,247
+

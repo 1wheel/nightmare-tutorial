@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Mar 2006,To: 16 Mar 2006,Eritrea,FY 2006,12,Moslem,3,260
+From: 16 Mar 2006,To: 16 Mar 2006,Eritrea,FY 2006,12,Orthodox,5,260
+From: 16 Mar 2006,To: 16 Mar 2006,Eritrea,FY 2006,12,Pentecostalist,2,260
+From: 16 Mar 2006,To: 16 Mar 2006,Eritrea,FY 2006,12,Protestant,2,260
+From: 16 Mar 2006,To: 16 Mar 2006,Ethiopia,FY 2006,19,Moslem,9,260
+From: 16 Mar 2006,To: 16 Mar 2006,Ethiopia,FY 2006,19,Orthodox,1,260
+From: 16 Mar 2006,To: 16 Mar 2006,Ethiopia,FY 2006,19,Protestant,9,260
+From: 16 Mar 2006,To: 16 Mar 2006,Liberia,FY 2006,35,Christian,33,260
+From: 16 Mar 2006,To: 16 Mar 2006,Liberia,FY 2006,35,Lutheran,2,260
+From: 16 Mar 2006,To: 16 Mar 2006,Russia,FY 2006,21,Moslem,21,260
+From: 16 Mar 2006,To: 16 Mar 2006,Somalia,FY 2006,138,Moslem,138,260
+From: 16 Mar 2006,To: 16 Mar 2006,Vietnam,FY 2006,35,Buddhist,6,260
+From: 16 Mar 2006,To: 16 Mar 2006,Vietnam,FY 2006,35,Catholic,9,260
+From: 16 Mar 2006,To: 16 Mar 2006,Vietnam,FY 2006,35,No Religion,7,260
+From: 16 Mar 2006,To: 16 Mar 2006,Vietnam,FY 2006,35,Protestant,13,260
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Mar 2006,To: 16 Mar 2006,Buddhist,FY 2006,6,Vietnam,6,260
+From: 16 Mar 2006,To: 16 Mar 2006,Catholic,FY 2006,9,Vietnam,9,260
+From: 16 Mar 2006,To: 16 Mar 2006,Christian,FY 2006,33,Liberia,33,260
+From: 16 Mar 2006,To: 16 Mar 2006,Lutheran,FY 2006,2,Liberia,2,260
+From: 16 Mar 2006,To: 16 Mar 2006,Moslem,FY 2006,171,Eritrea,3,260
+From: 16 Mar 2006,To: 16 Mar 2006,Moslem,FY 2006,171,Ethiopia,9,260
+From: 16 Mar 2006,To: 16 Mar 2006,Moslem,FY 2006,171,Russia,21,260
+From: 16 Mar 2006,To: 16 Mar 2006,Moslem,FY 2006,171,Somalia,138,260
+From: 16 Mar 2006,To: 16 Mar 2006,No Religion,FY 2006,7,Vietnam,7,260
+From: 16 Mar 2006,To: 16 Mar 2006,Orthodox,FY 2006,6,Eritrea,5,260
+From: 16 Mar 2006,To: 16 Mar 2006,Orthodox,FY 2006,6,Ethiopia,1,260
+From: 16 Mar 2006,To: 16 Mar 2006,Pentecostalist,FY 2006,2,Eritrea,2,260
+From: 16 Mar 2006,To: 16 Mar 2006,Protestant,FY 2006,24,Eritrea,2,260
+From: 16 Mar 2006,To: 16 Mar 2006,Protestant,FY 2006,24,Ethiopia,9,260
+From: 16 Mar 2006,To: 16 Mar 2006,Protestant,FY 2006,24,Vietnam,13,260
+

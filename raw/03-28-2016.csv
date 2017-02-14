@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Animist,1,265
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Baptist,5,265
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Buddhist,6,265
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Catholic,10,265
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Christian,60,265
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Hindu,2,265
+From: 28 Mar 2016,To: 28 Mar 2016,Burma,FY 2016,89,Moslem,5,265
+From: 28 Mar 2016,To: 28 Mar 2016,Dem. Rep. Congo,FY 2016,1,Christian,1,265
+From: 28 Mar 2016,To: 28 Mar 2016,Iran,FY 2016,2,Christian,2,265
+From: 28 Mar 2016,To: 28 Mar 2016,Iraq,FY 2016,63,Catholic,11,265
+From: 28 Mar 2016,To: 28 Mar 2016,Iraq,FY 2016,63,Moslem Shiite,13,265
+From: 28 Mar 2016,To: 28 Mar 2016,Iraq,FY 2016,63,Moslem Suni,35,265
+From: 28 Mar 2016,To: 28 Mar 2016,Iraq,FY 2016,63,Sabeans-Mandean,4,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moldova,FY 2016,9,Baptist,4,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moldova,FY 2016,9,Jehovah Witness,3,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moldova,FY 2016,9,Pentecostalist,2,265
+From: 28 Mar 2016,To: 28 Mar 2016,Republic of South Sudan,FY 2016,1,Christian,1,265
+From: 28 Mar 2016,To: 28 Mar 2016,Somalia,FY 2016,74,Moslem,74,265
+From: 28 Mar 2016,To: 28 Mar 2016,Syria,FY 2016,26,Moslem Suni,26,265
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Mar 2016,To: 28 Mar 2016,Animist,FY 2016,1,Burma,1,265
+From: 28 Mar 2016,To: 28 Mar 2016,Baptist,FY 2016,9,Burma,5,265
+From: 28 Mar 2016,To: 28 Mar 2016,Baptist,FY 2016,9,Moldova,4,265
+From: 28 Mar 2016,To: 28 Mar 2016,Buddhist,FY 2016,6,Burma,6,265
+From: 28 Mar 2016,To: 28 Mar 2016,Catholic,FY 2016,21,Burma,10,265
+From: 28 Mar 2016,To: 28 Mar 2016,Catholic,FY 2016,21,Iraq,11,265
+From: 28 Mar 2016,To: 28 Mar 2016,Christian,FY 2016,64,Burma,60,265
+From: 28 Mar 2016,To: 28 Mar 2016,Christian,FY 2016,64,Dem. Rep. Congo,1,265
+From: 28 Mar 2016,To: 28 Mar 2016,Christian,FY 2016,64,Iran,2,265
+From: 28 Mar 2016,To: 28 Mar 2016,Christian,FY 2016,64,Republic of South Sudan,1,265
+From: 28 Mar 2016,To: 28 Mar 2016,Hindu,FY 2016,2,Burma,2,265
+From: 28 Mar 2016,To: 28 Mar 2016,Jehovah Witness,FY 2016,3,Moldova,3,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moslem,FY 2016,79,Burma,5,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moslem,FY 2016,79,Somalia,74,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moslem Shiite,FY 2016,13,Iraq,13,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moslem Suni,FY 2016,61,Iraq,35,265
+From: 28 Mar 2016,To: 28 Mar 2016,Moslem Suni,FY 2016,61,Syria,26,265
+From: 28 Mar 2016,To: 28 Mar 2016,Pentecostalist,FY 2016,2,Moldova,2,265
+From: 28 Mar 2016,To: 28 Mar 2016,Sabeans-Mandean,FY 2016,4,Iraq,4,265
+

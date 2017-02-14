@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Dec 2012,To: 13 Dec 2012,Afghanistan,FY 2013,6,Moslem Suni,6,530
+From: 13 Dec 2012,To: 13 Dec 2012,Bhutan,FY 2013,107,Buddhist,33,530
+From: 13 Dec 2012,To: 13 Dec 2012,Bhutan,FY 2013,107,Christian,9,530
+From: 13 Dec 2012,To: 13 Dec 2012,Bhutan,FY 2013,107,Hindu,47,530
+From: 13 Dec 2012,To: 13 Dec 2012,Bhutan,FY 2013,107,Kirat,18,530
+From: 13 Dec 2012,To: 13 Dec 2012,Burma,FY 2013,255,Baptist,10,530
+From: 13 Dec 2012,To: 13 Dec 2012,Burma,FY 2013,255,Buddhist,76,530
+From: 13 Dec 2012,To: 13 Dec 2012,Burma,FY 2013,255,Catholic,8,530
+From: 13 Dec 2012,To: 13 Dec 2012,Burma,FY 2013,255,Christian,133,530
+From: 13 Dec 2012,To: 13 Dec 2012,Burma,FY 2013,255,Evangelical Christian,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Burma,FY 2013,255,Moslem,27,530
+From: 13 Dec 2012,To: 13 Dec 2012,Cuba,FY 2013,46,Catholic,21,530
+From: 13 Dec 2012,To: 13 Dec 2012,Cuba,FY 2013,46,Evangelical Christian,7,530
+From: 13 Dec 2012,To: 13 Dec 2012,Cuba,FY 2013,46,Jehovah Witness,5,530
+From: 13 Dec 2012,To: 13 Dec 2012,Cuba,FY 2013,46,No Religion,13,530
+From: 13 Dec 2012,To: 13 Dec 2012,Dem. Rep. Congo,FY 2013,4,Catholic,4,530
+From: 13 Dec 2012,To: 13 Dec 2012,Eritrea,FY 2013,9,Moslem,9,530
+From: 13 Dec 2012,To: 13 Dec 2012,Iraq,FY 2013,61,Moslem Shiite,37,530
+From: 13 Dec 2012,To: 13 Dec 2012,Iraq,FY 2013,61,Moslem Suni,16,530
+From: 13 Dec 2012,To: 13 Dec 2012,Iraq,FY 2013,61,Orthodox,7,530
+From: 13 Dec 2012,To: 13 Dec 2012,Iraq,FY 2013,61,Protestant,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Liberia,FY 2013,10,Christian,10,530
+From: 13 Dec 2012,To: 13 Dec 2012,Pakistan,FY 2013,1,Ahmadiyya,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Palestine,FY 2013,9,Moslem Suni,9,530
+From: 13 Dec 2012,To: 13 Dec 2012,Somalia,FY 2013,7,Moslem,7,530
+From: 13 Dec 2012,To: 13 Dec 2012,Sudan,FY 2013,1,Moslem,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Tibet,FY 2013,4,Buddhist,4,530
+From: 13 Dec 2012,To: 13 Dec 2012,Ukraine,FY 2013,5,Baptist,5,530
+From: 13 Dec 2012,To: 13 Dec 2012,Uzbekistan,FY 2013,5,Moslem Suni,5,530
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Dec 2012,To: 13 Dec 2012,Ahmadiyya,FY 2013,1,Pakistan,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Baptist,FY 2013,15,Burma,10,530
+From: 13 Dec 2012,To: 13 Dec 2012,Baptist,FY 2013,15,Ukraine,5,530
+From: 13 Dec 2012,To: 13 Dec 2012,Buddhist,FY 2013,113,Bhutan,33,530
+From: 13 Dec 2012,To: 13 Dec 2012,Buddhist,FY 2013,113,Burma,76,530
+From: 13 Dec 2012,To: 13 Dec 2012,Buddhist,FY 2013,113,Tibet,4,530
+From: 13 Dec 2012,To: 13 Dec 2012,Catholic,FY 2013,33,Burma,8,530
+From: 13 Dec 2012,To: 13 Dec 2012,Catholic,FY 2013,33,Cuba,21,530
+From: 13 Dec 2012,To: 13 Dec 2012,Catholic,FY 2013,33,Dem. Rep. Congo,4,530
+From: 13 Dec 2012,To: 13 Dec 2012,Christian,FY 2013,152,Bhutan,9,530
+From: 13 Dec 2012,To: 13 Dec 2012,Christian,FY 2013,152,Burma,133,530
+From: 13 Dec 2012,To: 13 Dec 2012,Christian,FY 2013,152,Liberia,10,530
+From: 13 Dec 2012,To: 13 Dec 2012,Evangelical Christian,FY 2013,8,Burma,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Evangelical Christian,FY 2013,8,Cuba,7,530
+From: 13 Dec 2012,To: 13 Dec 2012,Hindu,FY 2013,47,Bhutan,47,530
+From: 13 Dec 2012,To: 13 Dec 2012,Jehovah Witness,FY 2013,5,Cuba,5,530
+From: 13 Dec 2012,To: 13 Dec 2012,Kirat,FY 2013,18,Bhutan,18,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem,FY 2013,44,Burma,27,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem,FY 2013,44,Eritrea,9,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem,FY 2013,44,Somalia,7,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem,FY 2013,44,Sudan,1,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem Shiite,FY 2013,37,Iraq,37,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem Suni,FY 2013,36,Afghanistan,6,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem Suni,FY 2013,36,Iraq,16,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem Suni,FY 2013,36,Palestine,9,530
+From: 13 Dec 2012,To: 13 Dec 2012,Moslem Suni,FY 2013,36,Uzbekistan,5,530
+From: 13 Dec 2012,To: 13 Dec 2012,No Religion,FY 2013,13,Cuba,13,530
+From: 13 Dec 2012,To: 13 Dec 2012,Orthodox,FY 2013,7,Iraq,7,530
+From: 13 Dec 2012,To: 13 Dec 2012,Protestant,FY 2013,1,Iraq,1,530
+

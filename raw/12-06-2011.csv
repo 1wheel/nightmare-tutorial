@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Dec 2011,To: 06 Dec 2011,Bhutan,FY 2012,133,Buddhist,56,338
+From: 06 Dec 2011,To: 06 Dec 2011,Bhutan,FY 2012,133,Christian,9,338
+From: 06 Dec 2011,To: 06 Dec 2011,Bhutan,FY 2012,133,Hindu,47,338
+From: 06 Dec 2011,To: 06 Dec 2011,Bhutan,FY 2012,133,Kirat,21,338
+From: 06 Dec 2011,To: 06 Dec 2011,Burma,FY 2012,127,Baptist,17,338
+From: 06 Dec 2011,To: 06 Dec 2011,Burma,FY 2012,127,Buddhist,24,338
+From: 06 Dec 2011,To: 06 Dec 2011,Burma,FY 2012,127,Catholic,4,338
+From: 06 Dec 2011,To: 06 Dec 2011,Burma,FY 2012,127,Christian,74,338
+From: 06 Dec 2011,To: 06 Dec 2011,Burma,FY 2012,127,Moslem,8,338
+From: 06 Dec 2011,To: 06 Dec 2011,Congo,FY 2012,1,Catholic,1,338
+From: 06 Dec 2011,To: 06 Dec 2011,Cuba,FY 2012,21,Catholic,3,338
+From: 06 Dec 2011,To: 06 Dec 2011,Cuba,FY 2012,21,Christian,3,338
+From: 06 Dec 2011,To: 06 Dec 2011,Cuba,FY 2012,21,Jehovah Witness,13,338
+From: 06 Dec 2011,To: 06 Dec 2011,Cuba,FY 2012,21,No Religion,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Eritrea,FY 2012,2,Orthodox,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Ethiopia,FY 2012,4,Orthodox,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Ethiopia,FY 2012,4,Protestant,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Iraq,FY 2012,13,Christian,6,338
+From: 06 Dec 2011,To: 06 Dec 2011,Iraq,FY 2012,13,Moslem Shiite,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Iraq,FY 2012,13,Moslem Suni,4,338
+From: 06 Dec 2011,To: 06 Dec 2011,Iraq,FY 2012,13,Orthodox,1,338
+From: 06 Dec 2011,To: 06 Dec 2011,Pakistan,FY 2012,3,Ahmadiyya,3,338
+From: 06 Dec 2011,To: 06 Dec 2011,Somalia,FY 2012,33,Moslem,33,338
+From: 06 Dec 2011,To: 06 Dec 2011,Sudan,FY 2012,1,Moslem,1,338
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Dec 2011,To: 06 Dec 2011,Ahmadiyya,FY 2012,3,Pakistan,3,338
+From: 06 Dec 2011,To: 06 Dec 2011,Baptist,FY 2012,17,Burma,17,338
+From: 06 Dec 2011,To: 06 Dec 2011,Buddhist,FY 2012,80,Bhutan,56,338
+From: 06 Dec 2011,To: 06 Dec 2011,Buddhist,FY 2012,80,Burma,24,338
+From: 06 Dec 2011,To: 06 Dec 2011,Catholic,FY 2012,8,Burma,4,338
+From: 06 Dec 2011,To: 06 Dec 2011,Catholic,FY 2012,8,Congo,1,338
+From: 06 Dec 2011,To: 06 Dec 2011,Catholic,FY 2012,8,Cuba,3,338
+From: 06 Dec 2011,To: 06 Dec 2011,Christian,FY 2012,92,Bhutan,9,338
+From: 06 Dec 2011,To: 06 Dec 2011,Christian,FY 2012,92,Burma,74,338
+From: 06 Dec 2011,To: 06 Dec 2011,Christian,FY 2012,92,Cuba,3,338
+From: 06 Dec 2011,To: 06 Dec 2011,Christian,FY 2012,92,Iraq,6,338
+From: 06 Dec 2011,To: 06 Dec 2011,Hindu,FY 2012,47,Bhutan,47,338
+From: 06 Dec 2011,To: 06 Dec 2011,Jehovah Witness,FY 2012,13,Cuba,13,338
+From: 06 Dec 2011,To: 06 Dec 2011,Kirat,FY 2012,21,Bhutan,21,338
+From: 06 Dec 2011,To: 06 Dec 2011,Moslem,FY 2012,42,Burma,8,338
+From: 06 Dec 2011,To: 06 Dec 2011,Moslem,FY 2012,42,Somalia,33,338
+From: 06 Dec 2011,To: 06 Dec 2011,Moslem,FY 2012,42,Sudan,1,338
+From: 06 Dec 2011,To: 06 Dec 2011,Moslem Shiite,FY 2012,2,Iraq,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Moslem Suni,FY 2012,4,Iraq,4,338
+From: 06 Dec 2011,To: 06 Dec 2011,No Religion,FY 2012,2,Cuba,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Orthodox,FY 2012,5,Eritrea,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Orthodox,FY 2012,5,Ethiopia,2,338
+From: 06 Dec 2011,To: 06 Dec 2011,Orthodox,FY 2012,5,Iraq,1,338
+From: 06 Dec 2011,To: 06 Dec 2011,Protestant,FY 2012,2,Ethiopia,2,338
+

@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Feb 2008,To: 04 Feb 2008,Iraq,FY 2008,101,Catholic,23,126
+From: 04 Feb 2008,To: 04 Feb 2008,Iraq,FY 2008,101,Christian,14,126
+From: 04 Feb 2008,To: 04 Feb 2008,Iraq,FY 2008,101,Moslem Shiite,23,126
+From: 04 Feb 2008,To: 04 Feb 2008,Iraq,FY 2008,101,Moslem Suni,20,126
+From: 04 Feb 2008,To: 04 Feb 2008,Iraq,FY 2008,101,Orthodox,15,126
+From: 04 Feb 2008,To: 04 Feb 2008,Iraq,FY 2008,101,Sabeans-Mandean,6,126
+From: 04 Feb 2008,To: 04 Feb 2008,Liberia,FY 2008,25,Baptist,1,126
+From: 04 Feb 2008,To: 04 Feb 2008,Liberia,FY 2008,25,Catholic,8,126
+From: 04 Feb 2008,To: 04 Feb 2008,Liberia,FY 2008,25,Christian,5,126
+From: 04 Feb 2008,To: 04 Feb 2008,Liberia,FY 2008,25,Moslem,10,126
+From: 04 Feb 2008,To: 04 Feb 2008,Liberia,FY 2008,25,Unknown,1,126
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Feb 2008,To: 04 Feb 2008,Baptist,FY 2008,1,Liberia,1,126
+From: 04 Feb 2008,To: 04 Feb 2008,Catholic,FY 2008,31,Iraq,23,126
+From: 04 Feb 2008,To: 04 Feb 2008,Catholic,FY 2008,31,Liberia,8,126
+From: 04 Feb 2008,To: 04 Feb 2008,Christian,FY 2008,19,Iraq,14,126
+From: 04 Feb 2008,To: 04 Feb 2008,Christian,FY 2008,19,Liberia,5,126
+From: 04 Feb 2008,To: 04 Feb 2008,Moslem,FY 2008,10,Liberia,10,126
+From: 04 Feb 2008,To: 04 Feb 2008,Moslem Shiite,FY 2008,23,Iraq,23,126
+From: 04 Feb 2008,To: 04 Feb 2008,Moslem Suni,FY 2008,20,Iraq,20,126
+From: 04 Feb 2008,To: 04 Feb 2008,Orthodox,FY 2008,15,Iraq,15,126
+From: 04 Feb 2008,To: 04 Feb 2008,Sabeans-Mandean,FY 2008,6,Iraq,6,126
+From: 04 Feb 2008,To: 04 Feb 2008,Unknown,FY 2008,1,Liberia,1,126
+

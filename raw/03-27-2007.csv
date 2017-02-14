@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Mar 2007,To: 27 Mar 2007,Burma,FY 2007,56,Christian,55,164
+From: 27 Mar 2007,To: 27 Mar 2007,Burma,FY 2007,56,Moslem,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Colombia,FY 2007,5,Catholic,5,164
+From: 27 Mar 2007,To: 27 Mar 2007,Cuba,FY 2007,44,Baptist,5,164
+From: 27 Mar 2007,To: 27 Mar 2007,Cuba,FY 2007,44,Catholic,20,164
+From: 27 Mar 2007,To: 27 Mar 2007,Cuba,FY 2007,44,Christian,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Cuba,FY 2007,44,Evangelical Christian,2,164
+From: 27 Mar 2007,To: 27 Mar 2007,Cuba,FY 2007,44,No Religion,16,164
+From: 27 Mar 2007,To: 27 Mar 2007,Dem. Rep. Congo,FY 2007,34,Christian,5,164
+From: 27 Mar 2007,To: 27 Mar 2007,Dem. Rep. Congo,FY 2007,34,Pentecostalist,13,164
+From: 27 Mar 2007,To: 27 Mar 2007,Dem. Rep. Congo,FY 2007,34,Protestant,16,164
+From: 27 Mar 2007,To: 27 Mar 2007,Eritrea,FY 2007,1,Christian,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Iran,FY 2007,15,Moslem Shiite,15,164
+From: 27 Mar 2007,To: 27 Mar 2007,Sierra Leone,FY 2007,1,Catholic,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Syria,FY 2007,2,Moslem Suni,2,164
+From: 27 Mar 2007,To: 27 Mar 2007,Uganda,FY 2007,6,Moslem Suni,6,164
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Mar 2007,To: 27 Mar 2007,Baptist,FY 2007,5,Cuba,5,164
+From: 27 Mar 2007,To: 27 Mar 2007,Catholic,FY 2007,26,Colombia,5,164
+From: 27 Mar 2007,To: 27 Mar 2007,Catholic,FY 2007,26,Cuba,20,164
+From: 27 Mar 2007,To: 27 Mar 2007,Catholic,FY 2007,26,Sierra Leone,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Christian,FY 2007,62,Burma,55,164
+From: 27 Mar 2007,To: 27 Mar 2007,Christian,FY 2007,62,Cuba,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Christian,FY 2007,62,Dem. Rep. Congo,5,164
+From: 27 Mar 2007,To: 27 Mar 2007,Christian,FY 2007,62,Eritrea,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Evangelical Christian,FY 2007,2,Cuba,2,164
+From: 27 Mar 2007,To: 27 Mar 2007,Moslem,FY 2007,1,Burma,1,164
+From: 27 Mar 2007,To: 27 Mar 2007,Moslem Shiite,FY 2007,15,Iran,15,164
+From: 27 Mar 2007,To: 27 Mar 2007,Moslem Suni,FY 2007,8,Syria,2,164
+From: 27 Mar 2007,To: 27 Mar 2007,Moslem Suni,FY 2007,8,Uganda,6,164
+From: 27 Mar 2007,To: 27 Mar 2007,No Religion,FY 2007,16,Cuba,16,164
+From: 27 Mar 2007,To: 27 Mar 2007,Pentecostalist,FY 2007,13,Dem. Rep. Congo,13,164
+From: 27 Mar 2007,To: 27 Mar 2007,Protestant,FY 2007,16,Dem. Rep. Congo,16,164
+

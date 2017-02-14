@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Mar 2009,To: 31 Mar 2009,Afghanistan,FY 2009,9,Moslem Shiite,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Afghanistan,FY 2009,9,Moslem Suni,7,259
+From: 31 Mar 2009,To: 31 Mar 2009,Bhutan,FY 2009,34,Buddhist,3,259
+From: 31 Mar 2009,To: 31 Mar 2009,Bhutan,FY 2009,34,Hindu,29,259
+From: 31 Mar 2009,To: 31 Mar 2009,Bhutan,FY 2009,34,Kirat,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Burma,FY 2009,30,Buddhist,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Burma,FY 2009,30,Christian,28,259
+From: 31 Mar 2009,To: 31 Mar 2009,Burundi,FY 2009,6,Moslem,5,259
+From: 31 Mar 2009,To: 31 Mar 2009,Burundi,FY 2009,6,Protestant,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Dem. Rep. Congo,FY 2009,16,Jehovah Witness,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Dem. Rep. Congo,FY 2009,16,Pentecostalist,14,259
+From: 31 Mar 2009,To: 31 Mar 2009,Dem. Rep. Congo,FY 2009,16,Protestant,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iran,FY 2009,10,Bahai,10,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Catholic,6,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Christian,6,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Moslem,4,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Moslem Shiite,17,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Moslem Suni,14,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Orthodox,8,259
+From: 31 Mar 2009,To: 31 Mar 2009,Iraq,FY 2009,56,Yazidi,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Kyrgyzstan,FY 2009,10,Baptist,10,259
+From: 31 Mar 2009,To: 31 Mar 2009,Morocco,FY 2009,1,Moslem,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Russia,FY 2009,3,Other Religion,3,259
+From: 31 Mar 2009,To: 31 Mar 2009,Rwanda,FY 2009,1,Christian,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Somalia,FY 2009,71,Moslem,68,259
+From: 31 Mar 2009,To: 31 Mar 2009,Somalia,FY 2009,71,Moslem Suni,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Somalia,FY 2009,71,Pentecostalist,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Sudan,FY 2009,3,Christian,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Sudan,FY 2009,3,Moslem Suni,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Uganda,FY 2009,6,Catholic,6,259
+From: 31 Mar 2009,To: 31 Mar 2009,Vietnam,FY 2009,3,Protestant,3,259
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Mar 2009,To: 31 Mar 2009,Bahai,FY 2009,10,Iran,10,259
+From: 31 Mar 2009,To: 31 Mar 2009,Baptist,FY 2009,10,Kyrgyzstan,10,259
+From: 31 Mar 2009,To: 31 Mar 2009,Buddhist,FY 2009,5,Bhutan,3,259
+From: 31 Mar 2009,To: 31 Mar 2009,Buddhist,FY 2009,5,Burma,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Catholic,FY 2009,12,Iraq,6,259
+From: 31 Mar 2009,To: 31 Mar 2009,Catholic,FY 2009,12,Uganda,6,259
+From: 31 Mar 2009,To: 31 Mar 2009,Christian,FY 2009,36,Burma,28,259
+From: 31 Mar 2009,To: 31 Mar 2009,Christian,FY 2009,36,Iraq,6,259
+From: 31 Mar 2009,To: 31 Mar 2009,Christian,FY 2009,36,Rwanda,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Christian,FY 2009,36,Sudan,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Hindu,FY 2009,29,Bhutan,29,259
+From: 31 Mar 2009,To: 31 Mar 2009,Jehovah Witness,FY 2009,1,Dem. Rep. Congo,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Kirat,FY 2009,2,Bhutan,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem,FY 2009,78,Burundi,5,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem,FY 2009,78,Iraq,4,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem,FY 2009,78,Morocco,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem,FY 2009,78,Somalia,68,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem Shiite,FY 2009,19,Afghanistan,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem Shiite,FY 2009,19,Iraq,17,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem Suni,FY 2009,25,Afghanistan,7,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem Suni,FY 2009,25,Iraq,14,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem Suni,FY 2009,25,Somalia,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Moslem Suni,FY 2009,25,Sudan,2,259
+From: 31 Mar 2009,To: 31 Mar 2009,Orthodox,FY 2009,8,Iraq,8,259
+From: 31 Mar 2009,To: 31 Mar 2009,Other Religion,FY 2009,3,Russia,3,259
+From: 31 Mar 2009,To: 31 Mar 2009,Pentecostalist,FY 2009,15,Dem. Rep. Congo,14,259
+From: 31 Mar 2009,To: 31 Mar 2009,Pentecostalist,FY 2009,15,Somalia,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Protestant,FY 2009,5,Burundi,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Protestant,FY 2009,5,Dem. Rep. Congo,1,259
+From: 31 Mar 2009,To: 31 Mar 2009,Protestant,FY 2009,5,Vietnam,3,259
+From: 31 Mar 2009,To: 31 Mar 2009,Yazidi,FY 2009,1,Iraq,1,259
+

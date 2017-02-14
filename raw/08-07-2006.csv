@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Aug 2006,To: 07 Aug 2006,Afghanistan,FY 2006,4,Moslem,3,184
+From: 07 Aug 2006,To: 07 Aug 2006,Afghanistan,FY 2006,4,Moslem Suni,1,184
+From: 07 Aug 2006,To: 07 Aug 2006,Ethiopia,FY 2006,1,Orthodox,1,184
+From: 07 Aug 2006,To: 07 Aug 2006,Iran,FY 2006,17,Christian,12,184
+From: 07 Aug 2006,To: 07 Aug 2006,Iran,FY 2006,17,Jewish,1,184
+From: 07 Aug 2006,To: 07 Aug 2006,Iran,FY 2006,17,Zoroastrian,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Russia,FY 2006,35,Baptist,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Russia,FY 2006,35,Jewish,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Russia,FY 2006,35,Moslem,21,184
+From: 07 Aug 2006,To: 07 Aug 2006,Russia,FY 2006,35,Pentecostalist,6,184
+From: 07 Aug 2006,To: 07 Aug 2006,Somalia,FY 2006,58,Moslem,58,184
+From: 07 Aug 2006,To: 07 Aug 2006,Sudan,FY 2006,8,Catholic,8,184
+From: 07 Aug 2006,To: 07 Aug 2006,Syria,FY 2006,27,Moslem Suni,27,184
+From: 07 Aug 2006,To: 07 Aug 2006,Ukraine,FY 2006,30,Baptist,7,184
+From: 07 Aug 2006,To: 07 Aug 2006,Ukraine,FY 2006,30,Jehovah Witness,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Ukraine,FY 2006,30,Jewish,2,184
+From: 07 Aug 2006,To: 07 Aug 2006,Ukraine,FY 2006,30,Pentecostalist,7,184
+From: 07 Aug 2006,To: 07 Aug 2006,Ukraine,FY 2006,30,Seventh Day Adventist,10,184
+From: 07 Aug 2006,To: 07 Aug 2006,Uzbekistan,FY 2006,4,Moslem Suni,4,184
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Aug 2006,To: 07 Aug 2006,Baptist,FY 2006,11,Russia,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Baptist,FY 2006,11,Ukraine,7,184
+From: 07 Aug 2006,To: 07 Aug 2006,Catholic,FY 2006,8,Sudan,8,184
+From: 07 Aug 2006,To: 07 Aug 2006,Christian,FY 2006,12,Iran,12,184
+From: 07 Aug 2006,To: 07 Aug 2006,Jehovah Witness,FY 2006,4,Ukraine,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Jewish,FY 2006,7,Iran,1,184
+From: 07 Aug 2006,To: 07 Aug 2006,Jewish,FY 2006,7,Russia,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Jewish,FY 2006,7,Ukraine,2,184
+From: 07 Aug 2006,To: 07 Aug 2006,Moslem,FY 2006,82,Afghanistan,3,184
+From: 07 Aug 2006,To: 07 Aug 2006,Moslem,FY 2006,82,Russia,21,184
+From: 07 Aug 2006,To: 07 Aug 2006,Moslem,FY 2006,82,Somalia,58,184
+From: 07 Aug 2006,To: 07 Aug 2006,Moslem Suni,FY 2006,32,Afghanistan,1,184
+From: 07 Aug 2006,To: 07 Aug 2006,Moslem Suni,FY 2006,32,Syria,27,184
+From: 07 Aug 2006,To: 07 Aug 2006,Moslem Suni,FY 2006,32,Uzbekistan,4,184
+From: 07 Aug 2006,To: 07 Aug 2006,Orthodox,FY 2006,1,Ethiopia,1,184
+From: 07 Aug 2006,To: 07 Aug 2006,Pentecostalist,FY 2006,13,Russia,6,184
+From: 07 Aug 2006,To: 07 Aug 2006,Pentecostalist,FY 2006,13,Ukraine,7,184
+From: 07 Aug 2006,To: 07 Aug 2006,Seventh Day Adventist,FY 2006,10,Ukraine,10,184
+From: 07 Aug 2006,To: 07 Aug 2006,Zoroastrian,FY 2006,4,Iran,4,184
+

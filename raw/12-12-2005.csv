@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Dec 2005,To: 12 Dec 2005,Burma,FY 2006,34,Christian,34,363
+From: 12 Dec 2005,To: 12 Dec 2005,China,FY 2006,1,Moslem,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Dem. Rep. Congo,FY 2006,4,Catholic,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Dem. Rep. Congo,FY 2006,4,Christian,3,363
+From: 12 Dec 2005,To: 12 Dec 2005,Egypt,FY 2006,1,Moslem,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Eritrea,FY 2006,2,Protestant,2,363
+From: 12 Dec 2005,To: 12 Dec 2005,Ethiopia,FY 2006,8,Christian,8,363
+From: 12 Dec 2005,To: 12 Dec 2005,Liberia,FY 2006,56,Baptist,8,363
+From: 12 Dec 2005,To: 12 Dec 2005,Liberia,FY 2006,56,Christian,38,363
+From: 12 Dec 2005,To: 12 Dec 2005,Liberia,FY 2006,56,Moslem,10,363
+From: 12 Dec 2005,To: 12 Dec 2005,Russia,FY 2006,47,Moslem,47,363
+From: 12 Dec 2005,To: 12 Dec 2005,Somalia,FY 2006,33,Moslem,33,363
+From: 12 Dec 2005,To: 12 Dec 2005,Sudan,FY 2006,12,Catholic,5,363
+From: 12 Dec 2005,To: 12 Dec 2005,Sudan,FY 2006,12,Moslem,7,363
+From: 12 Dec 2005,To: 12 Dec 2005,Ukraine,FY 2006,35,Baptist,8,363
+From: 12 Dec 2005,To: 12 Dec 2005,Ukraine,FY 2006,35,Jewish,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Ukraine,FY 2006,35,Pentecostalist,25,363
+From: 12 Dec 2005,To: 12 Dec 2005,Ukraine,FY 2006,35,Uniate,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Uzbekistan,FY 2006,25,Jewish,25,363
+From: 12 Dec 2005,To: 12 Dec 2005,Vietnam,FY 2006,98,Ancestral Worship,5,363
+From: 12 Dec 2005,To: 12 Dec 2005,Vietnam,FY 2006,98,Buddhist,43,363
+From: 12 Dec 2005,To: 12 Dec 2005,Vietnam,FY 2006,98,Catholic,21,363
+From: 12 Dec 2005,To: 12 Dec 2005,Vietnam,FY 2006,98,Christian,4,363
+From: 12 Dec 2005,To: 12 Dec 2005,Vietnam,FY 2006,98,No Religion,24,363
+From: 12 Dec 2005,To: 12 Dec 2005,Vietnam,FY 2006,98,Protestant,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Yemen,FY 2006,7,Moslem,7,363
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Dec 2005,To: 12 Dec 2005,Ancestral Worship,FY 2006,5,Vietnam,5,363
+From: 12 Dec 2005,To: 12 Dec 2005,Baptist,FY 2006,16,Liberia,8,363
+From: 12 Dec 2005,To: 12 Dec 2005,Baptist,FY 2006,16,Ukraine,8,363
+From: 12 Dec 2005,To: 12 Dec 2005,Buddhist,FY 2006,43,Vietnam,43,363
+From: 12 Dec 2005,To: 12 Dec 2005,Catholic,FY 2006,27,Dem. Rep. Congo,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Catholic,FY 2006,27,Sudan,5,363
+From: 12 Dec 2005,To: 12 Dec 2005,Catholic,FY 2006,27,Vietnam,21,363
+From: 12 Dec 2005,To: 12 Dec 2005,Christian,FY 2006,87,Burma,34,363
+From: 12 Dec 2005,To: 12 Dec 2005,Christian,FY 2006,87,Dem. Rep. Congo,3,363
+From: 12 Dec 2005,To: 12 Dec 2005,Christian,FY 2006,87,Ethiopia,8,363
+From: 12 Dec 2005,To: 12 Dec 2005,Christian,FY 2006,87,Liberia,38,363
+From: 12 Dec 2005,To: 12 Dec 2005,Christian,FY 2006,87,Vietnam,4,363
+From: 12 Dec 2005,To: 12 Dec 2005,Jewish,FY 2006,26,Ukraine,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Jewish,FY 2006,26,Uzbekistan,25,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,China,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,Egypt,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,Liberia,10,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,Russia,47,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,Somalia,33,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,Sudan,7,363
+From: 12 Dec 2005,To: 12 Dec 2005,Moslem,FY 2006,106,Yemen,7,363
+From: 12 Dec 2005,To: 12 Dec 2005,No Religion,FY 2006,24,Vietnam,24,363
+From: 12 Dec 2005,To: 12 Dec 2005,Pentecostalist,FY 2006,25,Ukraine,25,363
+From: 12 Dec 2005,To: 12 Dec 2005,Protestant,FY 2006,3,Eritrea,2,363
+From: 12 Dec 2005,To: 12 Dec 2005,Protestant,FY 2006,3,Vietnam,1,363
+From: 12 Dec 2005,To: 12 Dec 2005,Uniate,FY 2006,1,Ukraine,1,363
+

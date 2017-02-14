@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Nov 2003,To: 14 Nov 2003,Colombia,FY 2004,25,Catholic,16,127
+From: 14 Nov 2003,To: 14 Nov 2003,Colombia,FY 2004,25,Evangelical Christian,9,127
+From: 14 Nov 2003,To: 14 Nov 2003,Iran,FY 2004,7,Bahai,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Iran,FY 2004,7,Moslem,5,127
+From: 14 Nov 2003,To: 14 Nov 2003,Iran,FY 2004,7,Protestant,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Moldova,FY 2004,27,Baptist,11,127
+From: 14 Nov 2003,To: 14 Nov 2003,Moldova,FY 2004,27,Pentecostalist,16,127
+From: 14 Nov 2003,To: 14 Nov 2003,Russia,FY 2004,28,Baptist,12,127
+From: 14 Nov 2003,To: 14 Nov 2003,Russia,FY 2004,28,Jewish,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Russia,FY 2004,28,Pentecostalist,15,127
+From: 14 Nov 2003,To: 14 Nov 2003,Ukraine,FY 2004,40,Baptist,4,127
+From: 14 Nov 2003,To: 14 Nov 2003,Ukraine,FY 2004,40,Evangelical Christian,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Ukraine,FY 2004,40,Jewish,5,127
+From: 14 Nov 2003,To: 14 Nov 2003,Ukraine,FY 2004,40,Pentecostalist,30,127
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Nov 2003,To: 14 Nov 2003,Bahai,FY 2004,1,Iran,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Baptist,FY 2004,27,Moldova,11,127
+From: 14 Nov 2003,To: 14 Nov 2003,Baptist,FY 2004,27,Russia,12,127
+From: 14 Nov 2003,To: 14 Nov 2003,Baptist,FY 2004,27,Ukraine,4,127
+From: 14 Nov 2003,To: 14 Nov 2003,Catholic,FY 2004,16,Colombia,16,127
+From: 14 Nov 2003,To: 14 Nov 2003,Evangelical Christian,FY 2004,10,Colombia,9,127
+From: 14 Nov 2003,To: 14 Nov 2003,Evangelical Christian,FY 2004,10,Ukraine,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Jewish,FY 2004,6,Russia,1,127
+From: 14 Nov 2003,To: 14 Nov 2003,Jewish,FY 2004,6,Ukraine,5,127
+From: 14 Nov 2003,To: 14 Nov 2003,Moslem,FY 2004,5,Iran,5,127
+From: 14 Nov 2003,To: 14 Nov 2003,Pentecostalist,FY 2004,61,Moldova,16,127
+From: 14 Nov 2003,To: 14 Nov 2003,Pentecostalist,FY 2004,61,Russia,15,127
+From: 14 Nov 2003,To: 14 Nov 2003,Pentecostalist,FY 2004,61,Ukraine,30,127
+From: 14 Nov 2003,To: 14 Nov 2003,Protestant,FY 2004,1,Iran,1,127
+

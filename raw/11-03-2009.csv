@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Nov 2009,To: 03 Nov 2009,Afghanistan,FY 2010,10,Christian,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Afghanistan,FY 2010,10,Moslem,4,404
+From: 03 Nov 2009,To: 03 Nov 2009,Afghanistan,FY 2010,10,Moslem Suni,5,404
+From: 03 Nov 2009,To: 03 Nov 2009,Bhutan,FY 2010,139,Buddhist,2,404
+From: 03 Nov 2009,To: 03 Nov 2009,Bhutan,FY 2010,139,Hindu,137,404
+From: 03 Nov 2009,To: 03 Nov 2009,Burma,FY 2010,58,Animist,10,404
+From: 03 Nov 2009,To: 03 Nov 2009,Burma,FY 2010,58,Baptist,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Burma,FY 2010,58,Catholic,18,404
+From: 03 Nov 2009,To: 03 Nov 2009,Burma,FY 2010,58,Christian,29,404
+From: 03 Nov 2009,To: 03 Nov 2009,Congo,FY 2010,11,Christian,11,404
+From: 03 Nov 2009,To: 03 Nov 2009,Cuba,FY 2010,46,Catholic,19,404
+From: 03 Nov 2009,To: 03 Nov 2009,Cuba,FY 2010,46,Jehovah Witness,15,404
+From: 03 Nov 2009,To: 03 Nov 2009,Cuba,FY 2010,46,No Religion,12,404
+From: 03 Nov 2009,To: 03 Nov 2009,Eritrea,FY 2010,27,Catholic,8,404
+From: 03 Nov 2009,To: 03 Nov 2009,Eritrea,FY 2010,27,Moslem,4,404
+From: 03 Nov 2009,To: 03 Nov 2009,Eritrea,FY 2010,27,Orthodox,14,404
+From: 03 Nov 2009,To: 03 Nov 2009,Eritrea,FY 2010,27,Protestant,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Iran,FY 2010,22,Bahai,22,404
+From: 03 Nov 2009,To: 03 Nov 2009,Iraq,FY 2010,13,Moslem,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Iraq,FY 2010,13,Moslem Shiite,6,404
+From: 03 Nov 2009,To: 03 Nov 2009,Iraq,FY 2010,13,Orthodox,6,404
+From: 03 Nov 2009,To: 03 Nov 2009,Liberia,FY 2010,11,Christian,4,404
+From: 03 Nov 2009,To: 03 Nov 2009,Liberia,FY 2010,11,Methodist,7,404
+From: 03 Nov 2009,To: 03 Nov 2009,Somalia,FY 2010,67,Moslem,67,404
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Nov 2009,To: 03 Nov 2009,Animist,FY 2010,10,Burma,10,404
+From: 03 Nov 2009,To: 03 Nov 2009,Bahai,FY 2010,22,Iran,22,404
+From: 03 Nov 2009,To: 03 Nov 2009,Baptist,FY 2010,1,Burma,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Buddhist,FY 2010,2,Bhutan,2,404
+From: 03 Nov 2009,To: 03 Nov 2009,Catholic,FY 2010,45,Burma,18,404
+From: 03 Nov 2009,To: 03 Nov 2009,Catholic,FY 2010,45,Cuba,19,404
+From: 03 Nov 2009,To: 03 Nov 2009,Catholic,FY 2010,45,Eritrea,8,404
+From: 03 Nov 2009,To: 03 Nov 2009,Christian,FY 2010,45,Afghanistan,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Christian,FY 2010,45,Burma,29,404
+From: 03 Nov 2009,To: 03 Nov 2009,Christian,FY 2010,45,Congo,11,404
+From: 03 Nov 2009,To: 03 Nov 2009,Christian,FY 2010,45,Liberia,4,404
+From: 03 Nov 2009,To: 03 Nov 2009,Hindu,FY 2010,137,Bhutan,137,404
+From: 03 Nov 2009,To: 03 Nov 2009,Jehovah Witness,FY 2010,15,Cuba,15,404
+From: 03 Nov 2009,To: 03 Nov 2009,Methodist,FY 2010,7,Liberia,7,404
+From: 03 Nov 2009,To: 03 Nov 2009,Moslem,FY 2010,76,Afghanistan,4,404
+From: 03 Nov 2009,To: 03 Nov 2009,Moslem,FY 2010,76,Eritrea,4,404
+From: 03 Nov 2009,To: 03 Nov 2009,Moslem,FY 2010,76,Iraq,1,404
+From: 03 Nov 2009,To: 03 Nov 2009,Moslem,FY 2010,76,Somalia,67,404
+From: 03 Nov 2009,To: 03 Nov 2009,Moslem Shiite,FY 2010,6,Iraq,6,404
+From: 03 Nov 2009,To: 03 Nov 2009,Moslem Suni,FY 2010,5,Afghanistan,5,404
+From: 03 Nov 2009,To: 03 Nov 2009,No Religion,FY 2010,12,Cuba,12,404
+From: 03 Nov 2009,To: 03 Nov 2009,Orthodox,FY 2010,20,Eritrea,14,404
+From: 03 Nov 2009,To: 03 Nov 2009,Orthodox,FY 2010,20,Iraq,6,404
+From: 03 Nov 2009,To: 03 Nov 2009,Protestant,FY 2010,1,Eritrea,1,404
+

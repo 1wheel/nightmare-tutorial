@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Mar 2011,To: 30 Mar 2011,Bhutan,FY 2011,6,Buddhist,3,80
+From: 30 Mar 2011,To: 30 Mar 2011,Bhutan,FY 2011,6,Hindu,3,80
+From: 30 Mar 2011,To: 30 Mar 2011,Burma,FY 2011,16,Animist,7,80
+From: 30 Mar 2011,To: 30 Mar 2011,Burma,FY 2011,16,Buddhist,1,80
+From: 30 Mar 2011,To: 30 Mar 2011,Burma,FY 2011,16,Christian,8,80
+From: 30 Mar 2011,To: 30 Mar 2011,China,FY 2011,1,Other Religion,1,80
+From: 30 Mar 2011,To: 30 Mar 2011,Dem. Rep. Congo,FY 2011,2,Christian,2,80
+From: 30 Mar 2011,To: 30 Mar 2011,Ethiopia,FY 2011,5,Moslem,5,80
+From: 30 Mar 2011,To: 30 Mar 2011,Iran,FY 2011,13,Bahai,2,80
+From: 30 Mar 2011,To: 30 Mar 2011,Iran,FY 2011,13,Christian,6,80
+From: 30 Mar 2011,To: 30 Mar 2011,Iran,FY 2011,13,Sabeans-Mandean,5,80
+From: 30 Mar 2011,To: 30 Mar 2011,Iraq,FY 2011,18,Christian,13,80
+From: 30 Mar 2011,To: 30 Mar 2011,Iraq,FY 2011,18,Moslem Shiite,1,80
+From: 30 Mar 2011,To: 30 Mar 2011,Iraq,FY 2011,18,Moslem Suni,4,80
+From: 30 Mar 2011,To: 30 Mar 2011,Russia,FY 2011,7,Baptist,3,80
+From: 30 Mar 2011,To: 30 Mar 2011,Russia,FY 2011,7,Jewish,4,80
+From: 30 Mar 2011,To: 30 Mar 2011,Somalia,FY 2011,12,Moslem,12,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Mar 2011,To: 30 Mar 2011,Animist,FY 2011,7,Burma,7,80
+From: 30 Mar 2011,To: 30 Mar 2011,Bahai,FY 2011,2,Iran,2,80
+From: 30 Mar 2011,To: 30 Mar 2011,Baptist,FY 2011,3,Russia,3,80
+From: 30 Mar 2011,To: 30 Mar 2011,Buddhist,FY 2011,4,Bhutan,3,80
+From: 30 Mar 2011,To: 30 Mar 2011,Buddhist,FY 2011,4,Burma,1,80
+From: 30 Mar 2011,To: 30 Mar 2011,Christian,FY 2011,29,Burma,8,80
+From: 30 Mar 2011,To: 30 Mar 2011,Christian,FY 2011,29,Dem. Rep. Congo,2,80
+From: 30 Mar 2011,To: 30 Mar 2011,Christian,FY 2011,29,Iran,6,80
+From: 30 Mar 2011,To: 30 Mar 2011,Christian,FY 2011,29,Iraq,13,80
+From: 30 Mar 2011,To: 30 Mar 2011,Hindu,FY 2011,3,Bhutan,3,80
+From: 30 Mar 2011,To: 30 Mar 2011,Jewish,FY 2011,4,Russia,4,80
+From: 30 Mar 2011,To: 30 Mar 2011,Moslem,FY 2011,17,Ethiopia,5,80
+From: 30 Mar 2011,To: 30 Mar 2011,Moslem,FY 2011,17,Somalia,12,80
+From: 30 Mar 2011,To: 30 Mar 2011,Moslem Shiite,FY 2011,1,Iraq,1,80
+From: 30 Mar 2011,To: 30 Mar 2011,Moslem Suni,FY 2011,4,Iraq,4,80
+From: 30 Mar 2011,To: 30 Mar 2011,Other Religion,FY 2011,1,China,1,80
+From: 30 Mar 2011,To: 30 Mar 2011,Sabeans-Mandean,FY 2011,5,Iran,5,80
+

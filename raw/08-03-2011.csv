@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Aug 2011,To: 03 Aug 2011,Bhutan,FY 2011,139,Buddhist,26,395
+From: 03 Aug 2011,To: 03 Aug 2011,Bhutan,FY 2011,139,Christian,7,395
+From: 03 Aug 2011,To: 03 Aug 2011,Bhutan,FY 2011,139,Hindu,106,395
+From: 03 Aug 2011,To: 03 Aug 2011,Burma,FY 2011,169,Baptist,8,395
+From: 03 Aug 2011,To: 03 Aug 2011,Burma,FY 2011,169,Buddhist,17,395
+From: 03 Aug 2011,To: 03 Aug 2011,Burma,FY 2011,169,Catholic,14,395
+From: 03 Aug 2011,To: 03 Aug 2011,Burma,FY 2011,169,Christian,130,395
+From: 03 Aug 2011,To: 03 Aug 2011,Dem. Rep. Congo,FY 2011,10,Catholic,6,395
+From: 03 Aug 2011,To: 03 Aug 2011,Dem. Rep. Congo,FY 2011,10,Pentecostalist,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Dem. Rep. Congo,FY 2011,10,Protestant,3,395
+From: 03 Aug 2011,To: 03 Aug 2011,Eritrea,FY 2011,9,Orthodox,9,395
+From: 03 Aug 2011,To: 03 Aug 2011,Ethiopia,FY 2011,13,Moslem,7,395
+From: 03 Aug 2011,To: 03 Aug 2011,Ethiopia,FY 2011,13,Orthodox,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Ethiopia,FY 2011,13,Protestant,5,395
+From: 03 Aug 2011,To: 03 Aug 2011,Iraq,FY 2011,4,Christian,4,395
+From: 03 Aug 2011,To: 03 Aug 2011,Laos,FY 2011,3,Animist,2,395
+From: 03 Aug 2011,To: 03 Aug 2011,Laos,FY 2011,3,Catholic,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Moldova,FY 2011,17,Baptist,8,395
+From: 03 Aug 2011,To: 03 Aug 2011,Moldova,FY 2011,17,Pentecostalist,5,395
+From: 03 Aug 2011,To: 03 Aug 2011,Moldova,FY 2011,17,Seventh Day Adventist,4,395
+From: 03 Aug 2011,To: 03 Aug 2011,Rwanda,FY 2011,1,Catholic,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Somalia,FY 2011,29,Moslem,27,395
+From: 03 Aug 2011,To: 03 Aug 2011,Somalia,FY 2011,29,Pentecostalist,2,395
+From: 03 Aug 2011,To: 03 Aug 2011,Sudan,FY 2011,1,Moslem Suni,1,395
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Aug 2011,To: 03 Aug 2011,Animist,FY 2011,2,Laos,2,395
+From: 03 Aug 2011,To: 03 Aug 2011,Baptist,FY 2011,16,Burma,8,395
+From: 03 Aug 2011,To: 03 Aug 2011,Baptist,FY 2011,16,Moldova,8,395
+From: 03 Aug 2011,To: 03 Aug 2011,Buddhist,FY 2011,43,Bhutan,26,395
+From: 03 Aug 2011,To: 03 Aug 2011,Buddhist,FY 2011,43,Burma,17,395
+From: 03 Aug 2011,To: 03 Aug 2011,Catholic,FY 2011,22,Burma,14,395
+From: 03 Aug 2011,To: 03 Aug 2011,Catholic,FY 2011,22,Dem. Rep. Congo,6,395
+From: 03 Aug 2011,To: 03 Aug 2011,Catholic,FY 2011,22,Laos,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Catholic,FY 2011,22,Rwanda,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Christian,FY 2011,141,Bhutan,7,395
+From: 03 Aug 2011,To: 03 Aug 2011,Christian,FY 2011,141,Burma,130,395
+From: 03 Aug 2011,To: 03 Aug 2011,Christian,FY 2011,141,Iraq,4,395
+From: 03 Aug 2011,To: 03 Aug 2011,Hindu,FY 2011,106,Bhutan,106,395
+From: 03 Aug 2011,To: 03 Aug 2011,Moslem,FY 2011,34,Ethiopia,7,395
+From: 03 Aug 2011,To: 03 Aug 2011,Moslem,FY 2011,34,Somalia,27,395
+From: 03 Aug 2011,To: 03 Aug 2011,Moslem Suni,FY 2011,1,Sudan,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Orthodox,FY 2011,10,Eritrea,9,395
+From: 03 Aug 2011,To: 03 Aug 2011,Orthodox,FY 2011,10,Ethiopia,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Pentecostalist,FY 2011,8,Dem. Rep. Congo,1,395
+From: 03 Aug 2011,To: 03 Aug 2011,Pentecostalist,FY 2011,8,Moldova,5,395
+From: 03 Aug 2011,To: 03 Aug 2011,Pentecostalist,FY 2011,8,Somalia,2,395
+From: 03 Aug 2011,To: 03 Aug 2011,Protestant,FY 2011,8,Dem. Rep. Congo,3,395
+From: 03 Aug 2011,To: 03 Aug 2011,Protestant,FY 2011,8,Ethiopia,5,395
+From: 03 Aug 2011,To: 03 Aug 2011,Seventh Day Adventist,FY 2011,4,Moldova,4,395
+

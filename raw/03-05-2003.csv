@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Mar 2003,To: 05 Mar 2003,Burma,FY 2003,14,Baptist,13,41
+From: 05 Mar 2003,To: 05 Mar 2003,Burma,FY 2003,14,Protestant,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Colombia,FY 2003,8,Catholic,6,41
+From: 05 Mar 2003,To: 05 Mar 2003,Colombia,FY 2003,8,Unknown,2,41
+From: 05 Mar 2003,To: 05 Mar 2003,Ethiopia,FY 2003,1,Orthodox,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Iran,FY 2003,6,Christian,5,41
+From: 05 Mar 2003,To: 05 Mar 2003,Iran,FY 2003,6,Jewish,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Moldova,FY 2003,10,Baptist,9,41
+From: 05 Mar 2003,To: 05 Mar 2003,Moldova,FY 2003,10,Jewish,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Sierra Leone,FY 2003,2,Christian,2,41
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Mar 2003,To: 05 Mar 2003,Baptist,FY 2003,22,Burma,13,41
+From: 05 Mar 2003,To: 05 Mar 2003,Baptist,FY 2003,22,Moldova,9,41
+From: 05 Mar 2003,To: 05 Mar 2003,Catholic,FY 2003,6,Colombia,6,41
+From: 05 Mar 2003,To: 05 Mar 2003,Christian,FY 2003,7,Iran,5,41
+From: 05 Mar 2003,To: 05 Mar 2003,Christian,FY 2003,7,Sierra Leone,2,41
+From: 05 Mar 2003,To: 05 Mar 2003,Jewish,FY 2003,2,Iran,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Jewish,FY 2003,2,Moldova,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Orthodox,FY 2003,1,Ethiopia,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Protestant,FY 2003,1,Burma,1,41
+From: 05 Mar 2003,To: 05 Mar 2003,Unknown,FY 2003,2,Colombia,2,41
+

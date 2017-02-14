@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Sep 2009,To: 02 Sep 2009,Bhutan,FY 2009,102,Buddhist,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Bhutan,FY 2009,102,Hindu,93,412
+From: 02 Sep 2009,To: 02 Sep 2009,Bhutan,FY 2009,102,Kirat,1,412
+From: 02 Sep 2009,To: 02 Sep 2009,Burma,FY 2009,80,Animist,11,412
+From: 02 Sep 2009,To: 02 Sep 2009,Burma,FY 2009,80,Buddhist,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Burma,FY 2009,80,Catholic,10,412
+From: 02 Sep 2009,To: 02 Sep 2009,Burma,FY 2009,80,Christian,46,412
+From: 02 Sep 2009,To: 02 Sep 2009,Burma,FY 2009,80,Protestant,5,412
+From: 02 Sep 2009,To: 02 Sep 2009,Cuba,FY 2009,69,Baptist,2,412
+From: 02 Sep 2009,To: 02 Sep 2009,Cuba,FY 2009,69,Catholic,21,412
+From: 02 Sep 2009,To: 02 Sep 2009,Cuba,FY 2009,69,Jehovah Witness,21,412
+From: 02 Sep 2009,To: 02 Sep 2009,Cuba,FY 2009,69,No Religion,17,412
+From: 02 Sep 2009,To: 02 Sep 2009,Cuba,FY 2009,69,Seventh Day Adventist,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Dem. Rep. Congo,FY 2009,9,Christian,9,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iran,FY 2009,41,Bahai,2,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iran,FY 2009,41,Christian,38,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iran,FY 2009,41,Zoroastrian,1,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Catholic,14,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Christian,29,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Moslem,5,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Moslem Shiite,5,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Moslem Suni,17,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Orthodox,16,412
+From: 02 Sep 2009,To: 02 Sep 2009,Iraq,FY 2009,92,Sabeans-Mandean,6,412
+From: 02 Sep 2009,To: 02 Sep 2009,Liberia,FY 2009,8,Christian,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Rwanda,FY 2009,4,Catholic,4,412
+From: 02 Sep 2009,To: 02 Sep 2009,Somalia,FY 2009,1,Moslem,1,412
+From: 02 Sep 2009,To: 02 Sep 2009,Sudan,FY 2009,6,Moslem,6,412
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Sep 2009,To: 02 Sep 2009,Animist,FY 2009,11,Burma,11,412
+From: 02 Sep 2009,To: 02 Sep 2009,Bahai,FY 2009,2,Iran,2,412
+From: 02 Sep 2009,To: 02 Sep 2009,Baptist,FY 2009,2,Cuba,2,412
+From: 02 Sep 2009,To: 02 Sep 2009,Buddhist,FY 2009,16,Bhutan,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Buddhist,FY 2009,16,Burma,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Catholic,FY 2009,49,Burma,10,412
+From: 02 Sep 2009,To: 02 Sep 2009,Catholic,FY 2009,49,Cuba,21,412
+From: 02 Sep 2009,To: 02 Sep 2009,Catholic,FY 2009,49,Iraq,14,412
+From: 02 Sep 2009,To: 02 Sep 2009,Catholic,FY 2009,49,Rwanda,4,412
+From: 02 Sep 2009,To: 02 Sep 2009,Christian,FY 2009,130,Burma,46,412
+From: 02 Sep 2009,To: 02 Sep 2009,Christian,FY 2009,130,Dem. Rep. Congo,9,412
+From: 02 Sep 2009,To: 02 Sep 2009,Christian,FY 2009,130,Iran,38,412
+From: 02 Sep 2009,To: 02 Sep 2009,Christian,FY 2009,130,Iraq,29,412
+From: 02 Sep 2009,To: 02 Sep 2009,Christian,FY 2009,130,Liberia,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Hindu,FY 2009,93,Bhutan,93,412
+From: 02 Sep 2009,To: 02 Sep 2009,Jehovah Witness,FY 2009,21,Cuba,21,412
+From: 02 Sep 2009,To: 02 Sep 2009,Kirat,FY 2009,1,Bhutan,1,412
+From: 02 Sep 2009,To: 02 Sep 2009,Moslem,FY 2009,12,Iraq,5,412
+From: 02 Sep 2009,To: 02 Sep 2009,Moslem,FY 2009,12,Somalia,1,412
+From: 02 Sep 2009,To: 02 Sep 2009,Moslem,FY 2009,12,Sudan,6,412
+From: 02 Sep 2009,To: 02 Sep 2009,Moslem Shiite,FY 2009,5,Iraq,5,412
+From: 02 Sep 2009,To: 02 Sep 2009,Moslem Suni,FY 2009,17,Iraq,17,412
+From: 02 Sep 2009,To: 02 Sep 2009,No Religion,FY 2009,17,Cuba,17,412
+From: 02 Sep 2009,To: 02 Sep 2009,Orthodox,FY 2009,16,Iraq,16,412
+From: 02 Sep 2009,To: 02 Sep 2009,Protestant,FY 2009,5,Burma,5,412
+From: 02 Sep 2009,To: 02 Sep 2009,Sabeans-Mandean,FY 2009,6,Iraq,6,412
+From: 02 Sep 2009,To: 02 Sep 2009,Seventh Day Adventist,FY 2009,8,Cuba,8,412
+From: 02 Sep 2009,To: 02 Sep 2009,Zoroastrian,FY 2009,1,Iran,1,412
+

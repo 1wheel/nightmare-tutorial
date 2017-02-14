@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Aug 2008,To: 28 Aug 2008,Bhutan,FY 2008,60,Christian,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Bhutan,FY 2008,60,Hindu,55,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burma,FY 2008,218,Buddhist,53,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burma,FY 2008,218,Christian,128,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burma,FY 2008,218,Moslem,37,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burundi,FY 2008,69,Catholic,22,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burundi,FY 2008,69,Christian,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burundi,FY 2008,69,Methodist,19,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burundi,FY 2008,69,Pentecostalist,24,707
+From: 28 Aug 2008,To: 28 Aug 2008,Burundi,FY 2008,69,Seventh Day Adventist,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Cuba,FY 2008,68,Baptist,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Cuba,FY 2008,68,Catholic,38,707
+From: 28 Aug 2008,To: 28 Aug 2008,Cuba,FY 2008,68,Evangelical Christian,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Cuba,FY 2008,68,No Religion,24,707
+From: 28 Aug 2008,To: 28 Aug 2008,Dem. Rep. Congo,FY 2008,25,Catholic,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Dem. Rep. Congo,FY 2008,25,Other Religion,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Dem. Rep. Congo,FY 2008,25,Pentecostalist,10,707
+From: 28 Aug 2008,To: 28 Aug 2008,Dem. Rep. Congo,FY 2008,25,Protestant,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Eritrea,FY 2008,12,Catholic,7,707
+From: 28 Aug 2008,To: 28 Aug 2008,Eritrea,FY 2008,12,Orthodox,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Eritrea,FY 2008,12,Pentecostalist,2,707
+From: 28 Aug 2008,To: 28 Aug 2008,Ethiopia,FY 2008,2,Orthodox,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Ethiopia,FY 2008,2,Seventh Day Adventist,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iran,FY 2008,80,Bahai,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iran,FY 2008,80,Christian,67,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iran,FY 2008,80,Zoroastrian,8,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iraq,FY 2008,153,Catholic,9,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iraq,FY 2008,153,Christian,62,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iraq,FY 2008,153,Moslem,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iraq,FY 2008,153,Moslem Shiite,9,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iraq,FY 2008,153,Moslem Suni,68,707
+From: 28 Aug 2008,To: 28 Aug 2008,Iraq,FY 2008,153,Sabeans-Mandean,4,707
+From: 28 Aug 2008,To: 28 Aug 2008,Liberia,FY 2008,1,Christian,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Rwanda,FY 2008,11,Catholic,9,707
+From: 28 Aug 2008,To: 28 Aug 2008,Rwanda,FY 2008,11,Christian,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Rwanda,FY 2008,11,Unknown,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Somalia,FY 2008,8,Moslem,6,707
+From: 28 Aug 2008,To: 28 Aug 2008,Somalia,FY 2008,8,Moslem Suni,2,707
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Aug 2008,To: 28 Aug 2008,Bahai,FY 2008,5,Iran,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Baptist,FY 2008,3,Cuba,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Buddhist,FY 2008,53,Burma,53,707
+From: 28 Aug 2008,To: 28 Aug 2008,Catholic,FY 2008,90,Burundi,22,707
+From: 28 Aug 2008,To: 28 Aug 2008,Catholic,FY 2008,90,Cuba,38,707
+From: 28 Aug 2008,To: 28 Aug 2008,Catholic,FY 2008,90,Dem. Rep. Congo,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Catholic,FY 2008,90,Eritrea,7,707
+From: 28 Aug 2008,To: 28 Aug 2008,Catholic,FY 2008,90,Iraq,9,707
+From: 28 Aug 2008,To: 28 Aug 2008,Catholic,FY 2008,90,Rwanda,9,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Bhutan,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Burma,128,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Burundi,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Iran,67,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Iraq,62,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Liberia,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Christian,FY 2008,265,Rwanda,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Evangelical Christian,FY 2008,3,Cuba,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Hindu,FY 2008,55,Bhutan,55,707
+From: 28 Aug 2008,To: 28 Aug 2008,Methodist,FY 2008,19,Burundi,19,707
+From: 28 Aug 2008,To: 28 Aug 2008,Moslem,FY 2008,44,Burma,37,707
+From: 28 Aug 2008,To: 28 Aug 2008,Moslem,FY 2008,44,Iraq,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Moslem,FY 2008,44,Somalia,6,707
+From: 28 Aug 2008,To: 28 Aug 2008,Moslem Shiite,FY 2008,9,Iraq,9,707
+From: 28 Aug 2008,To: 28 Aug 2008,Moslem Suni,FY 2008,70,Iraq,68,707
+From: 28 Aug 2008,To: 28 Aug 2008,Moslem Suni,FY 2008,70,Somalia,2,707
+From: 28 Aug 2008,To: 28 Aug 2008,No Religion,FY 2008,24,Cuba,24,707
+From: 28 Aug 2008,To: 28 Aug 2008,Orthodox,FY 2008,4,Eritrea,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Orthodox,FY 2008,4,Ethiopia,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Other Religion,FY 2008,5,Dem. Rep. Congo,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Pentecostalist,FY 2008,36,Burundi,24,707
+From: 28 Aug 2008,To: 28 Aug 2008,Pentecostalist,FY 2008,36,Dem. Rep. Congo,10,707
+From: 28 Aug 2008,To: 28 Aug 2008,Pentecostalist,FY 2008,36,Eritrea,2,707
+From: 28 Aug 2008,To: 28 Aug 2008,Protestant,FY 2008,5,Dem. Rep. Congo,5,707
+From: 28 Aug 2008,To: 28 Aug 2008,Sabeans-Mandean,FY 2008,4,Iraq,4,707
+From: 28 Aug 2008,To: 28 Aug 2008,Seventh Day Adventist,FY 2008,4,Burundi,3,707
+From: 28 Aug 2008,To: 28 Aug 2008,Seventh Day Adventist,FY 2008,4,Ethiopia,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Unknown,FY 2008,1,Rwanda,1,707
+From: 28 Aug 2008,To: 28 Aug 2008,Zoroastrian,FY 2008,8,Iran,8,707
+

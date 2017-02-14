@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jan 2017,To: 05 Jan 2017,Afghanistan,FY 2017,6,Moslem Shiite,6,213
+From: 05 Jan 2017,To: 05 Jan 2017,Eritrea,FY 2017,7,Orthodox,7,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iran,FY 2017,7,Bahai,3,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iran,FY 2017,7,Christian,1,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iran,FY 2017,7,Protestant,3,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iraq,FY 2017,60,Catholic,21,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iraq,FY 2017,60,Christian,1,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iraq,FY 2017,60,Moslem Shiite,5,213
+From: 05 Jan 2017,To: 05 Jan 2017,Iraq,FY 2017,60,Moslem Suni,33,213
+From: 05 Jan 2017,To: 05 Jan 2017,Somalia,FY 2017,33,Moslem,33,213
+From: 05 Jan 2017,To: 05 Jan 2017,Sudan,FY 2017,2,Moslem Suni,2,213
+From: 05 Jan 2017,To: 05 Jan 2017,Syria,FY 2017,57,Moslem,8,213
+From: 05 Jan 2017,To: 05 Jan 2017,Syria,FY 2017,57,Moslem Suni,49,213
+From: 05 Jan 2017,To: 05 Jan 2017,Ukraine,FY 2017,40,Baptist,8,213
+From: 05 Jan 2017,To: 05 Jan 2017,Ukraine,FY 2017,40,Evangelical Christian,5,213
+From: 05 Jan 2017,To: 05 Jan 2017,Ukraine,FY 2017,40,Pentecostalist,25,213
+From: 05 Jan 2017,To: 05 Jan 2017,Ukraine,FY 2017,40,Seventh Day Adventist,2,213
+From: 05 Jan 2017,To: 05 Jan 2017,Yemen,FY 2017,1,No Religion,1,213
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jan 2017,To: 05 Jan 2017,Bahai,FY 2017,3,Iran,3,213
+From: 05 Jan 2017,To: 05 Jan 2017,Baptist,FY 2017,8,Ukraine,8,213
+From: 05 Jan 2017,To: 05 Jan 2017,Catholic,FY 2017,21,Iraq,21,213
+From: 05 Jan 2017,To: 05 Jan 2017,Christian,FY 2017,2,Iran,1,213
+From: 05 Jan 2017,To: 05 Jan 2017,Christian,FY 2017,2,Iraq,1,213
+From: 05 Jan 2017,To: 05 Jan 2017,Evangelical Christian,FY 2017,5,Ukraine,5,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem,FY 2017,41,Somalia,33,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem,FY 2017,41,Syria,8,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem Shiite,FY 2017,11,Afghanistan,6,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem Shiite,FY 2017,11,Iraq,5,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem Suni,FY 2017,84,Iraq,33,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem Suni,FY 2017,84,Sudan,2,213
+From: 05 Jan 2017,To: 05 Jan 2017,Moslem Suni,FY 2017,84,Syria,49,213
+From: 05 Jan 2017,To: 05 Jan 2017,No Religion,FY 2017,1,Yemen,1,213
+From: 05 Jan 2017,To: 05 Jan 2017,Orthodox,FY 2017,7,Eritrea,7,213
+From: 05 Jan 2017,To: 05 Jan 2017,Pentecostalist,FY 2017,25,Ukraine,25,213
+From: 05 Jan 2017,To: 05 Jan 2017,Protestant,FY 2017,3,Iran,3,213
+From: 05 Jan 2017,To: 05 Jan 2017,Seventh Day Adventist,FY 2017,2,Ukraine,2,213
+

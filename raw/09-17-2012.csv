@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Sep 2012,To: 17 Sep 2012,Bhutan,FY 2012,92,Buddhist,32,319
+From: 17 Sep 2012,To: 17 Sep 2012,Bhutan,FY 2012,92,Hindu,46,319
+From: 17 Sep 2012,To: 17 Sep 2012,Bhutan,FY 2012,92,Kirat,14,319
+From: 17 Sep 2012,To: 17 Sep 2012,Burma,FY 2012,60,Baptist,6,319
+From: 17 Sep 2012,To: 17 Sep 2012,Burma,FY 2012,60,Buddhist,9,319
+From: 17 Sep 2012,To: 17 Sep 2012,Burma,FY 2012,60,Christian,44,319
+From: 17 Sep 2012,To: 17 Sep 2012,Burma,FY 2012,60,Methodist,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iran,FY 2012,10,Christian,3,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iran,FY 2012,10,Jewish,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iran,FY 2012,10,Sabeans-Mandean,2,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iran,FY 2012,10,Zoroastrian,4,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Catholic,9,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Christian,13,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Moslem Shiite,35,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Moslem Suni,62,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Orthodox,4,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Sabeans-Mandean,3,319
+From: 17 Sep 2012,To: 17 Sep 2012,Iraq,FY 2012,133,Yazidi,7,319
+From: 17 Sep 2012,To: 17 Sep 2012,Somalia,FY 2012,11,Moslem,10,319
+From: 17 Sep 2012,To: 17 Sep 2012,Somalia,FY 2012,11,Moslem Suni,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Sudan,FY 2012,13,Christian,2,319
+From: 17 Sep 2012,To: 17 Sep 2012,Sudan,FY 2012,13,Moslem,10,319
+From: 17 Sep 2012,To: 17 Sep 2012,Sudan,FY 2012,13,Protestant,1,319
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Sep 2012,To: 17 Sep 2012,Baptist,FY 2012,6,Burma,6,319
+From: 17 Sep 2012,To: 17 Sep 2012,Buddhist,FY 2012,41,Bhutan,32,319
+From: 17 Sep 2012,To: 17 Sep 2012,Buddhist,FY 2012,41,Burma,9,319
+From: 17 Sep 2012,To: 17 Sep 2012,Catholic,FY 2012,9,Iraq,9,319
+From: 17 Sep 2012,To: 17 Sep 2012,Christian,FY 2012,62,Burma,44,319
+From: 17 Sep 2012,To: 17 Sep 2012,Christian,FY 2012,62,Iran,3,319
+From: 17 Sep 2012,To: 17 Sep 2012,Christian,FY 2012,62,Iraq,13,319
+From: 17 Sep 2012,To: 17 Sep 2012,Christian,FY 2012,62,Sudan,2,319
+From: 17 Sep 2012,To: 17 Sep 2012,Hindu,FY 2012,46,Bhutan,46,319
+From: 17 Sep 2012,To: 17 Sep 2012,Jewish,FY 2012,1,Iran,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Kirat,FY 2012,14,Bhutan,14,319
+From: 17 Sep 2012,To: 17 Sep 2012,Methodist,FY 2012,1,Burma,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Moslem,FY 2012,20,Somalia,10,319
+From: 17 Sep 2012,To: 17 Sep 2012,Moslem,FY 2012,20,Sudan,10,319
+From: 17 Sep 2012,To: 17 Sep 2012,Moslem Shiite,FY 2012,35,Iraq,35,319
+From: 17 Sep 2012,To: 17 Sep 2012,Moslem Suni,FY 2012,63,Iraq,62,319
+From: 17 Sep 2012,To: 17 Sep 2012,Moslem Suni,FY 2012,63,Somalia,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Orthodox,FY 2012,4,Iraq,4,319
+From: 17 Sep 2012,To: 17 Sep 2012,Protestant,FY 2012,1,Sudan,1,319
+From: 17 Sep 2012,To: 17 Sep 2012,Sabeans-Mandean,FY 2012,5,Iran,2,319
+From: 17 Sep 2012,To: 17 Sep 2012,Sabeans-Mandean,FY 2012,5,Iraq,3,319
+From: 17 Sep 2012,To: 17 Sep 2012,Yazidi,FY 2012,7,Iraq,7,319
+From: 17 Sep 2012,To: 17 Sep 2012,Zoroastrian,FY 2012,4,Iran,4,319
+

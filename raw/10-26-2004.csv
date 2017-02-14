@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Oct 2004,To: 26 Oct 2004,Bosnia and Herzegovina,FY 2005,22,Orthodox,22,384
+From: 26 Oct 2004,To: 26 Oct 2004,Burma,FY 2005,30,Buddhist,23,384
+From: 26 Oct 2004,To: 26 Oct 2004,Burma,FY 2005,30,Protestant,7,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cambodia,FY 2005,4,Christian,4,384
+From: 26 Oct 2004,To: 26 Oct 2004,Colombia,FY 2005,3,Catholic,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Croatia,FY 2005,1,Catholic,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Baptist,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Catholic,39,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Evangelical Christian,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Jehovah Witness,5,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,No Religion,15,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Orthodox,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Pentecostalist,4,384
+From: 26 Oct 2004,To: 26 Oct 2004,Cuba,FY 2005,70,Seventh Day Adventist,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Eritrea,FY 2005,1,Jehovah Witness,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Ethiopia,FY 2005,3,Orthodox,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Laos,FY 2005,70,Ancestral Worship,70,384
+From: 26 Oct 2004,To: 26 Oct 2004,Liberia,FY 2005,35,Catholic,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Liberia,FY 2005,35,Christian,29,384
+From: 26 Oct 2004,To: 26 Oct 2004,Liberia,FY 2005,35,Lutheran,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Liberia,FY 2005,35,Methodist,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Liberia,FY 2005,35,Pentecostalist,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Russia,FY 2005,32,Baptist,7,384
+From: 26 Oct 2004,To: 26 Oct 2004,Russia,FY 2005,32,Jewish,13,384
+From: 26 Oct 2004,To: 26 Oct 2004,Russia,FY 2005,32,Pentecostalist,10,384
+From: 26 Oct 2004,To: 26 Oct 2004,Russia,FY 2005,32,Russian Orthodox,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Russia,FY 2005,32,Seventh Day Adventist,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Serbia,FY 2005,8,Orthodox,7,384
+From: 26 Oct 2004,To: 26 Oct 2004,Serbia,FY 2005,8,Protestant,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Somalia,FY 2005,75,Moslem,71,384
+From: 26 Oct 2004,To: 26 Oct 2004,Somalia,FY 2005,75,Moslem Suni,4,384
+From: 26 Oct 2004,To: 26 Oct 2004,Sudan,FY 2005,29,Catholic,16,384
+From: 26 Oct 2004,To: 26 Oct 2004,Sudan,FY 2005,29,Christian,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Sudan,FY 2005,29,Evangelical Christian,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Sudan,FY 2005,29,Moslem,5,384
+From: 26 Oct 2004,To: 26 Oct 2004,Sudan,FY 2005,29,Protestant,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Ukraine,FY 2005,1,Jewish,1,384
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Oct 2004,To: 26 Oct 2004,Ancestral Worship,FY 2005,70,Laos,70,384
+From: 26 Oct 2004,To: 26 Oct 2004,Baptist,FY 2005,9,Cuba,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Baptist,FY 2005,9,Russia,7,384
+From: 26 Oct 2004,To: 26 Oct 2004,Buddhist,FY 2005,23,Burma,23,384
+From: 26 Oct 2004,To: 26 Oct 2004,Catholic,FY 2005,60,Colombia,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Catholic,FY 2005,60,Croatia,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Catholic,FY 2005,60,Cuba,39,384
+From: 26 Oct 2004,To: 26 Oct 2004,Catholic,FY 2005,60,Liberia,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Catholic,FY 2005,60,Sudan,16,384
+From: 26 Oct 2004,To: 26 Oct 2004,Christian,FY 2005,36,Cambodia,4,384
+From: 26 Oct 2004,To: 26 Oct 2004,Christian,FY 2005,36,Liberia,29,384
+From: 26 Oct 2004,To: 26 Oct 2004,Christian,FY 2005,36,Sudan,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Evangelical Christian,FY 2005,4,Cuba,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Evangelical Christian,FY 2005,4,Sudan,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Jehovah Witness,FY 2005,6,Cuba,5,384
+From: 26 Oct 2004,To: 26 Oct 2004,Jehovah Witness,FY 2005,6,Eritrea,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Jewish,FY 2005,14,Russia,13,384
+From: 26 Oct 2004,To: 26 Oct 2004,Jewish,FY 2005,14,Ukraine,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Lutheran,FY 2005,2,Liberia,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Methodist,FY 2005,2,Liberia,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Moslem,FY 2005,76,Somalia,71,384
+From: 26 Oct 2004,To: 26 Oct 2004,Moslem,FY 2005,76,Sudan,5,384
+From: 26 Oct 2004,To: 26 Oct 2004,Moslem Suni,FY 2005,4,Somalia,4,384
+From: 26 Oct 2004,To: 26 Oct 2004,No Religion,FY 2005,15,Cuba,15,384
+From: 26 Oct 2004,To: 26 Oct 2004,Orthodox,FY 2005,33,Bosnia and Herzegovina,22,384
+From: 26 Oct 2004,To: 26 Oct 2004,Orthodox,FY 2005,33,Cuba,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Orthodox,FY 2005,33,Ethiopia,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Orthodox,FY 2005,33,Serbia,7,384
+From: 26 Oct 2004,To: 26 Oct 2004,Pentecostalist,FY 2005,15,Cuba,4,384
+From: 26 Oct 2004,To: 26 Oct 2004,Pentecostalist,FY 2005,15,Liberia,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Pentecostalist,FY 2005,15,Russia,10,384
+From: 26 Oct 2004,To: 26 Oct 2004,Protestant,FY 2005,10,Burma,7,384
+From: 26 Oct 2004,To: 26 Oct 2004,Protestant,FY 2005,10,Serbia,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Protestant,FY 2005,10,Sudan,2,384
+From: 26 Oct 2004,To: 26 Oct 2004,Russian Orthodox,FY 2005,1,Russia,1,384
+From: 26 Oct 2004,To: 26 Oct 2004,Seventh Day Adventist,FY 2005,4,Cuba,3,384
+From: 26 Oct 2004,To: 26 Oct 2004,Seventh Day Adventist,FY 2005,4,Russia,1,384
+

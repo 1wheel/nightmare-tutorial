@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jun 2006,To: 26 Jun 2006,Afghanistan,FY 2006,11,Moslem,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Afghanistan,FY 2006,11,Moslem Shiite,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Afghanistan,FY 2006,11,Moslem Suni,6,176
+From: 26 Jun 2006,To: 26 Jun 2006,Angola,FY 2006,3,Christian,3,176
+From: 26 Jun 2006,To: 26 Jun 2006,Azerbaijan,FY 2006,2,Christian,2,176
+From: 26 Jun 2006,To: 26 Jun 2006,Congo,FY 2006,1,Bahai,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Dem. Rep. Congo,FY 2006,6,Catholic,6,176
+From: 26 Jun 2006,To: 26 Jun 2006,Equatorial Guinea,FY 2006,1,Catholic,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Eritrea,FY 2006,1,Moslem,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Ethiopia,FY 2006,5,Orthodox,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Ethiopia,FY 2006,5,Protestant,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Iran,FY 2006,24,Christian,13,176
+From: 26 Jun 2006,To: 26 Jun 2006,Iran,FY 2006,24,Jewish,11,176
+From: 26 Jun 2006,To: 26 Jun 2006,Kyrgyzstan,FY 2006,1,Baptist,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Mauritania,FY 2006,4,Moslem Suni,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Russia,FY 2006,34,Baptist,7,176
+From: 26 Jun 2006,To: 26 Jun 2006,Russia,FY 2006,34,Christian,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Russia,FY 2006,34,Jewish,6,176
+From: 26 Jun 2006,To: 26 Jun 2006,Russia,FY 2006,34,Moslem,20,176
+From: 26 Jun 2006,To: 26 Jun 2006,Rwanda,FY 2006,4,Catholic,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Somalia,FY 2006,40,Moslem,40,176
+From: 26 Jun 2006,To: 26 Jun 2006,Sudan,FY 2006,21,Catholic,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Sudan,FY 2006,21,Evangelical Christian,2,176
+From: 26 Jun 2006,To: 26 Jun 2006,Sudan,FY 2006,21,Moslem,15,176
+From: 26 Jun 2006,To: 26 Jun 2006,Ukraine,FY 2006,18,Pentecostalist,18,176
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jun 2006,To: 26 Jun 2006,Bahai,FY 2006,1,Congo,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Baptist,FY 2006,8,Kyrgyzstan,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Baptist,FY 2006,8,Russia,7,176
+From: 26 Jun 2006,To: 26 Jun 2006,Catholic,FY 2006,15,Dem. Rep. Congo,6,176
+From: 26 Jun 2006,To: 26 Jun 2006,Catholic,FY 2006,15,Equatorial Guinea,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Catholic,FY 2006,15,Rwanda,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Catholic,FY 2006,15,Sudan,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Christian,FY 2006,19,Angola,3,176
+From: 26 Jun 2006,To: 26 Jun 2006,Christian,FY 2006,19,Azerbaijan,2,176
+From: 26 Jun 2006,To: 26 Jun 2006,Christian,FY 2006,19,Iran,13,176
+From: 26 Jun 2006,To: 26 Jun 2006,Christian,FY 2006,19,Russia,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Evangelical Christian,FY 2006,2,Sudan,2,176
+From: 26 Jun 2006,To: 26 Jun 2006,Jewish,FY 2006,17,Iran,11,176
+From: 26 Jun 2006,To: 26 Jun 2006,Jewish,FY 2006,17,Russia,6,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem,FY 2006,77,Afghanistan,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem,FY 2006,77,Eritrea,1,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem,FY 2006,77,Russia,20,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem,FY 2006,77,Somalia,40,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem,FY 2006,77,Sudan,15,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem Shiite,FY 2006,4,Afghanistan,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem Suni,FY 2006,10,Afghanistan,6,176
+From: 26 Jun 2006,To: 26 Jun 2006,Moslem Suni,FY 2006,10,Mauritania,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Orthodox,FY 2006,4,Ethiopia,4,176
+From: 26 Jun 2006,To: 26 Jun 2006,Pentecostalist,FY 2006,18,Ukraine,18,176
+From: 26 Jun 2006,To: 26 Jun 2006,Protestant,FY 2006,1,Ethiopia,1,176
+

@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Aug 2005,To: 01 Aug 2005,Burundi,FY 2005,1,Moslem,1,163
+From: 01 Aug 2005,To: 01 Aug 2005,Eritrea,FY 2005,1,Orthodox,1,163
+From: 01 Aug 2005,To: 01 Aug 2005,Russia,FY 2005,64,Baptist,26,163
+From: 01 Aug 2005,To: 01 Aug 2005,Russia,FY 2005,64,Jewish,3,163
+From: 01 Aug 2005,To: 01 Aug 2005,Russia,FY 2005,64,Moslem,35,163
+From: 01 Aug 2005,To: 01 Aug 2005,Somalia,FY 2005,53,Moslem,53,163
+From: 01 Aug 2005,To: 01 Aug 2005,Sudan,FY 2005,14,Catholic,12,163
+From: 01 Aug 2005,To: 01 Aug 2005,Sudan,FY 2005,14,Moslem,2,163
+From: 01 Aug 2005,To: 01 Aug 2005,Ukraine,FY 2005,30,Baptist,8,163
+From: 01 Aug 2005,To: 01 Aug 2005,Ukraine,FY 2005,30,Jewish,3,163
+From: 01 Aug 2005,To: 01 Aug 2005,Ukraine,FY 2005,30,Orthodox,2,163
+From: 01 Aug 2005,To: 01 Aug 2005,Ukraine,FY 2005,30,Pentecostalist,14,163
+From: 01 Aug 2005,To: 01 Aug 2005,Ukraine,FY 2005,30,Seventh Day Adventist,3,163
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Aug 2005,To: 01 Aug 2005,Baptist,FY 2005,34,Russia,26,163
+From: 01 Aug 2005,To: 01 Aug 2005,Baptist,FY 2005,34,Ukraine,8,163
+From: 01 Aug 2005,To: 01 Aug 2005,Catholic,FY 2005,12,Sudan,12,163
+From: 01 Aug 2005,To: 01 Aug 2005,Jewish,FY 2005,6,Russia,3,163
+From: 01 Aug 2005,To: 01 Aug 2005,Jewish,FY 2005,6,Ukraine,3,163
+From: 01 Aug 2005,To: 01 Aug 2005,Moslem,FY 2005,91,Burundi,1,163
+From: 01 Aug 2005,To: 01 Aug 2005,Moslem,FY 2005,91,Russia,35,163
+From: 01 Aug 2005,To: 01 Aug 2005,Moslem,FY 2005,91,Somalia,53,163
+From: 01 Aug 2005,To: 01 Aug 2005,Moslem,FY 2005,91,Sudan,2,163
+From: 01 Aug 2005,To: 01 Aug 2005,Orthodox,FY 2005,3,Eritrea,1,163
+From: 01 Aug 2005,To: 01 Aug 2005,Orthodox,FY 2005,3,Ukraine,2,163
+From: 01 Aug 2005,To: 01 Aug 2005,Pentecostalist,FY 2005,14,Ukraine,14,163
+From: 01 Aug 2005,To: 01 Aug 2005,Seventh Day Adventist,FY 2005,3,Ukraine,3,163
+

@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Aug 2006,To: 15 Aug 2006,Afghanistan,FY 2006,26,Moslem Ismaici,5,126
+From: 15 Aug 2006,To: 15 Aug 2006,Afghanistan,FY 2006,26,Moslem Shiite,4,126
+From: 15 Aug 2006,To: 15 Aug 2006,Afghanistan,FY 2006,26,Moslem Suni,17,126
+From: 15 Aug 2006,To: 15 Aug 2006,Eritrea,FY 2006,9,Orthodox,9,126
+From: 15 Aug 2006,To: 15 Aug 2006,Ethiopia,FY 2006,1,Moslem,1,126
+From: 15 Aug 2006,To: 15 Aug 2006,Iran,FY 2006,1,Moslem,1,126
+From: 15 Aug 2006,To: 15 Aug 2006,Somalia,FY 2006,60,Moslem,60,126
+From: 15 Aug 2006,To: 15 Aug 2006,Ukraine,FY 2006,29,Baptist,5,126
+From: 15 Aug 2006,To: 15 Aug 2006,Ukraine,FY 2006,29,Pentecostalist,21,126
+From: 15 Aug 2006,To: 15 Aug 2006,Ukraine,FY 2006,29,Uniate,3,126
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Aug 2006,To: 15 Aug 2006,Baptist,FY 2006,5,Ukraine,5,126
+From: 15 Aug 2006,To: 15 Aug 2006,Moslem,FY 2006,62,Ethiopia,1,126
+From: 15 Aug 2006,To: 15 Aug 2006,Moslem,FY 2006,62,Iran,1,126
+From: 15 Aug 2006,To: 15 Aug 2006,Moslem,FY 2006,62,Somalia,60,126
+From: 15 Aug 2006,To: 15 Aug 2006,Moslem Ismaici,FY 2006,5,Afghanistan,5,126
+From: 15 Aug 2006,To: 15 Aug 2006,Moslem Shiite,FY 2006,4,Afghanistan,4,126
+From: 15 Aug 2006,To: 15 Aug 2006,Moslem Suni,FY 2006,17,Afghanistan,17,126
+From: 15 Aug 2006,To: 15 Aug 2006,Orthodox,FY 2006,9,Eritrea,9,126
+From: 15 Aug 2006,To: 15 Aug 2006,Pentecostalist,FY 2006,21,Ukraine,21,126
+From: 15 Aug 2006,To: 15 Aug 2006,Uniate,FY 2006,3,Ukraine,3,126
+

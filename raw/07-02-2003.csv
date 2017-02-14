@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jul 2003,To: 02 Jul 2003,Afghanistan,FY 2003,4,Moslem,4,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ethiopia,FY 2003,19,Christian,5,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ethiopia,FY 2003,19,Moslem,11,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ethiopia,FY 2003,19,Orthodox,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iran,FY 2003,43,Bahai,14,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iran,FY 2003,43,Christian,4,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iran,FY 2003,43,Moslem,21,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iran,FY 2003,43,No Religion,1,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iran,FY 2003,43,Zoroastrian,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iraq,FY 2003,15,Christian,1,205
+From: 02 Jul 2003,To: 02 Jul 2003,Iraq,FY 2003,15,Moslem,14,205
+From: 02 Jul 2003,To: 02 Jul 2003,Liberia,FY 2003,5,Christian,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Liberia,FY 2003,5,Moslem,2,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sierra Leone,FY 2003,30,Baptist,4,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sierra Leone,FY 2003,30,Christian,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sierra Leone,FY 2003,30,Methodist,8,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sierra Leone,FY 2003,30,Moslem,9,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sierra Leone,FY 2003,30,Pentecostalist,6,205
+From: 02 Jul 2003,To: 02 Jul 2003,Somalia,FY 2003,23,Moslem,23,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sudan,FY 2003,31,Catholic,10,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sudan,FY 2003,31,Christian,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sudan,FY 2003,31,Moslem,7,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sudan,FY 2003,31,Pentecostalist,1,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sudan,FY 2003,31,Protestant,8,205
+From: 02 Jul 2003,To: 02 Jul 2003,Sudan,FY 2003,31,Unknown,2,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ukraine,FY 2003,35,Baptist,7,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ukraine,FY 2003,35,No Religion,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ukraine,FY 2003,35,Pentecostalist,22,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ukraine,FY 2003,35,Ukr Orthodox,3,205
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jul 2003,To: 02 Jul 2003,Bahai,FY 2003,14,Iran,14,205
+From: 02 Jul 2003,To: 02 Jul 2003,Baptist,FY 2003,11,Sierra Leone,4,205
+From: 02 Jul 2003,To: 02 Jul 2003,Baptist,FY 2003,11,Ukraine,7,205
+From: 02 Jul 2003,To: 02 Jul 2003,Catholic,FY 2003,10,Sudan,10,205
+From: 02 Jul 2003,To: 02 Jul 2003,Christian,FY 2003,19,Ethiopia,5,205
+From: 02 Jul 2003,To: 02 Jul 2003,Christian,FY 2003,19,Iran,4,205
+From: 02 Jul 2003,To: 02 Jul 2003,Christian,FY 2003,19,Iraq,1,205
+From: 02 Jul 2003,To: 02 Jul 2003,Christian,FY 2003,19,Liberia,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Christian,FY 2003,19,Sierra Leone,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Christian,FY 2003,19,Sudan,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Methodist,FY 2003,8,Sierra Leone,8,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Afghanistan,4,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Ethiopia,11,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Iran,21,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Iraq,14,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Liberia,2,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Sierra Leone,9,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Somalia,23,205
+From: 02 Jul 2003,To: 02 Jul 2003,Moslem,FY 2003,91,Sudan,7,205
+From: 02 Jul 2003,To: 02 Jul 2003,No Religion,FY 2003,4,Iran,1,205
+From: 02 Jul 2003,To: 02 Jul 2003,No Religion,FY 2003,4,Ukraine,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Orthodox,FY 2003,3,Ethiopia,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Pentecostalist,FY 2003,29,Sierra Leone,6,205
+From: 02 Jul 2003,To: 02 Jul 2003,Pentecostalist,FY 2003,29,Sudan,1,205
+From: 02 Jul 2003,To: 02 Jul 2003,Pentecostalist,FY 2003,29,Ukraine,22,205
+From: 02 Jul 2003,To: 02 Jul 2003,Protestant,FY 2003,8,Sudan,8,205
+From: 02 Jul 2003,To: 02 Jul 2003,Ukr Orthodox,FY 2003,3,Ukraine,3,205
+From: 02 Jul 2003,To: 02 Jul 2003,Unknown,FY 2003,2,Sudan,2,205
+From: 02 Jul 2003,To: 02 Jul 2003,Zoroastrian,FY 2003,3,Iran,3,205
+

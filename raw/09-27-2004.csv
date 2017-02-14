@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Sep 2004,To: 27 Sep 2004,Iran,FY 2004,13,Bahai,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Iran,FY 2004,13,Jewish,12,538
+From: 27 Sep 2004,To: 27 Sep 2004,Laos,FY 2004,189,Ancestral Worship,176,538
+From: 27 Sep 2004,To: 27 Sep 2004,Laos,FY 2004,189,Christian,13,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Baptist,15,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Catholic,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Christian,73,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Methodist,6,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Moslem,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Pentecostalist,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Liberia,FY 2004,98,Seventh Day Adventist,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moldova,FY 2004,27,Baptist,18,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moldova,FY 2004,27,Jewish,4,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moldova,FY 2004,27,Seventh Day Adventist,5,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sierra Leone,FY 2004,39,Catholic,4,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sierra Leone,FY 2004,39,Christian,8,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sierra Leone,FY 2004,39,Jehovah Witness,5,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sierra Leone,FY 2004,39,Methodist,2,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sierra Leone,FY 2004,39,Moslem,18,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sierra Leone,FY 2004,39,Pentecostalist,2,538
+From: 27 Sep 2004,To: 27 Sep 2004,Somalia,FY 2004,119,Moslem,119,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sudan,FY 2004,50,Catholic,27,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sudan,FY 2004,50,Christian,3,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sudan,FY 2004,50,Moslem,13,538
+From: 27 Sep 2004,To: 27 Sep 2004,Sudan,FY 2004,50,Protestant,7,538
+From: 27 Sep 2004,To: 27 Sep 2004,Togo,FY 2004,1,Moslem,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Ukraine,FY 2004,2,Seventh Day Adventist,2,538
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Sep 2004,To: 27 Sep 2004,Ancestral Worship,FY 2004,176,Laos,176,538
+From: 27 Sep 2004,To: 27 Sep 2004,Bahai,FY 2004,1,Iran,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Baptist,FY 2004,33,Liberia,15,538
+From: 27 Sep 2004,To: 27 Sep 2004,Baptist,FY 2004,33,Moldova,18,538
+From: 27 Sep 2004,To: 27 Sep 2004,Catholic,FY 2004,32,Liberia,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Catholic,FY 2004,32,Sierra Leone,4,538
+From: 27 Sep 2004,To: 27 Sep 2004,Catholic,FY 2004,32,Sudan,27,538
+From: 27 Sep 2004,To: 27 Sep 2004,Christian,FY 2004,97,Laos,13,538
+From: 27 Sep 2004,To: 27 Sep 2004,Christian,FY 2004,97,Liberia,73,538
+From: 27 Sep 2004,To: 27 Sep 2004,Christian,FY 2004,97,Sierra Leone,8,538
+From: 27 Sep 2004,To: 27 Sep 2004,Christian,FY 2004,97,Sudan,3,538
+From: 27 Sep 2004,To: 27 Sep 2004,Jehovah Witness,FY 2004,5,Sierra Leone,5,538
+From: 27 Sep 2004,To: 27 Sep 2004,Jewish,FY 2004,16,Iran,12,538
+From: 27 Sep 2004,To: 27 Sep 2004,Jewish,FY 2004,16,Moldova,4,538
+From: 27 Sep 2004,To: 27 Sep 2004,Methodist,FY 2004,8,Liberia,6,538
+From: 27 Sep 2004,To: 27 Sep 2004,Methodist,FY 2004,8,Sierra Leone,2,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moslem,FY 2004,152,Liberia,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moslem,FY 2004,152,Sierra Leone,18,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moslem,FY 2004,152,Somalia,119,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moslem,FY 2004,152,Sudan,13,538
+From: 27 Sep 2004,To: 27 Sep 2004,Moslem,FY 2004,152,Togo,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Pentecostalist,FY 2004,3,Liberia,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Pentecostalist,FY 2004,3,Sierra Leone,2,538
+From: 27 Sep 2004,To: 27 Sep 2004,Protestant,FY 2004,7,Sudan,7,538
+From: 27 Sep 2004,To: 27 Sep 2004,Seventh Day Adventist,FY 2004,8,Liberia,1,538
+From: 27 Sep 2004,To: 27 Sep 2004,Seventh Day Adventist,FY 2004,8,Moldova,5,538
+From: 27 Sep 2004,To: 27 Sep 2004,Seventh Day Adventist,FY 2004,8,Ukraine,2,538
+

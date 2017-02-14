@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Sep 2007,To: 05 Sep 2007,Afghanistan,FY 2007,6,Moslem,1,652
+From: 05 Sep 2007,To: 05 Sep 2007,Afghanistan,FY 2007,6,Moslem Suni,5,652
+From: 05 Sep 2007,To: 05 Sep 2007,Armenia,FY 2007,2,Pentecostalist,2,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burma,FY 2007,290,Buddhist,82,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burma,FY 2007,290,Christian,148,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burma,FY 2007,290,Moslem,60,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burundi,FY 2007,35,Atheist,10,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burundi,FY 2007,35,Christian,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burundi,FY 2007,35,Moslem,5,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burundi,FY 2007,35,Pentecostalist,8,652
+From: 05 Sep 2007,To: 05 Sep 2007,Burundi,FY 2007,35,Seventh Day Adventist,8,652
+From: 05 Sep 2007,To: 05 Sep 2007,Congo,FY 2007,35,Catholic,14,652
+From: 05 Sep 2007,To: 05 Sep 2007,Congo,FY 2007,35,Christian,3,652
+From: 05 Sep 2007,To: 05 Sep 2007,Congo,FY 2007,35,Protestant,18,652
+From: 05 Sep 2007,To: 05 Sep 2007,Eritrea,FY 2007,4,Catholic,2,652
+From: 05 Sep 2007,To: 05 Sep 2007,Eritrea,FY 2007,4,Christian,1,652
+From: 05 Sep 2007,To: 05 Sep 2007,Eritrea,FY 2007,4,Moslem,1,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iran,FY 2007,89,Bahai,34,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iran,FY 2007,89,Christian,46,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iran,FY 2007,89,Sabeans-Mandean,7,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iran,FY 2007,89,Zoroastrian,2,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iraq,FY 2007,23,Catholic,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iraq,FY 2007,23,Christian,3,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iraq,FY 2007,23,Moslem Shiite,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Iraq,FY 2007,23,Moslem Suni,12,652
+From: 05 Sep 2007,To: 05 Sep 2007,Russia,FY 2007,9,Baptist,6,652
+From: 05 Sep 2007,To: 05 Sep 2007,Russia,FY 2007,9,Jewish,3,652
+From: 05 Sep 2007,To: 05 Sep 2007,Somalia,FY 2007,127,Moslem,127,652
+From: 05 Sep 2007,To: 05 Sep 2007,Vietnam,FY 2007,32,Ancestral Worship,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Vietnam,FY 2007,32,Buddhist,12,652
+From: 05 Sep 2007,To: 05 Sep 2007,Vietnam,FY 2007,32,No Religion,9,652
+From: 05 Sep 2007,To: 05 Sep 2007,Vietnam,FY 2007,32,Protestant,7,652
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Sep 2007,To: 05 Sep 2007,Ancestral Worship,FY 2007,4,Vietnam,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Atheist,FY 2007,10,Burundi,10,652
+From: 05 Sep 2007,To: 05 Sep 2007,Bahai,FY 2007,34,Iran,34,652
+From: 05 Sep 2007,To: 05 Sep 2007,Baptist,FY 2007,6,Russia,6,652
+From: 05 Sep 2007,To: 05 Sep 2007,Buddhist,FY 2007,94,Burma,82,652
+From: 05 Sep 2007,To: 05 Sep 2007,Buddhist,FY 2007,94,Vietnam,12,652
+From: 05 Sep 2007,To: 05 Sep 2007,Catholic,FY 2007,20,Congo,14,652
+From: 05 Sep 2007,To: 05 Sep 2007,Catholic,FY 2007,20,Eritrea,2,652
+From: 05 Sep 2007,To: 05 Sep 2007,Catholic,FY 2007,20,Iraq,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Christian,FY 2007,205,Burma,148,652
+From: 05 Sep 2007,To: 05 Sep 2007,Christian,FY 2007,205,Burundi,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Christian,FY 2007,205,Congo,3,652
+From: 05 Sep 2007,To: 05 Sep 2007,Christian,FY 2007,205,Eritrea,1,652
+From: 05 Sep 2007,To: 05 Sep 2007,Christian,FY 2007,205,Iran,46,652
+From: 05 Sep 2007,To: 05 Sep 2007,Christian,FY 2007,205,Iraq,3,652
+From: 05 Sep 2007,To: 05 Sep 2007,Jewish,FY 2007,3,Russia,3,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem,FY 2007,194,Afghanistan,1,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem,FY 2007,194,Burma,60,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem,FY 2007,194,Burundi,5,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem,FY 2007,194,Eritrea,1,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem,FY 2007,194,Somalia,127,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem Shiite,FY 2007,4,Iraq,4,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem Suni,FY 2007,17,Afghanistan,5,652
+From: 05 Sep 2007,To: 05 Sep 2007,Moslem Suni,FY 2007,17,Iraq,12,652
+From: 05 Sep 2007,To: 05 Sep 2007,No Religion,FY 2007,9,Vietnam,9,652
+From: 05 Sep 2007,To: 05 Sep 2007,Pentecostalist,FY 2007,10,Armenia,2,652
+From: 05 Sep 2007,To: 05 Sep 2007,Pentecostalist,FY 2007,10,Burundi,8,652
+From: 05 Sep 2007,To: 05 Sep 2007,Protestant,FY 2007,25,Congo,18,652
+From: 05 Sep 2007,To: 05 Sep 2007,Protestant,FY 2007,25,Vietnam,7,652
+From: 05 Sep 2007,To: 05 Sep 2007,Sabeans-Mandean,FY 2007,7,Iran,7,652
+From: 05 Sep 2007,To: 05 Sep 2007,Seventh Day Adventist,FY 2007,8,Burundi,8,652
+From: 05 Sep 2007,To: 05 Sep 2007,Zoroastrian,FY 2007,2,Iran,2,652
+

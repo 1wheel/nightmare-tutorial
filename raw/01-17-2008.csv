@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jan 2008,To: 17 Jan 2008,Burundi,FY 2008,35,Catholic,7,262
+From: 17 Jan 2008,To: 17 Jan 2008,Burundi,FY 2008,35,Methodist,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Burundi,FY 2008,35,Pentecostalist,27,262
+From: 17 Jan 2008,To: 17 Jan 2008,Cuba,FY 2008,70,Catholic,30,262
+From: 17 Jan 2008,To: 17 Jan 2008,Cuba,FY 2008,70,Jehovah Witness,6,262
+From: 17 Jan 2008,To: 17 Jan 2008,Cuba,FY 2008,70,No Religion,32,262
+From: 17 Jan 2008,To: 17 Jan 2008,Cuba,FY 2008,70,Seventh Day Adventist,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Ethiopia,FY 2008,1,Protestant,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iran,FY 2008,35,Christian,27,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iran,FY 2008,35,Jewish,6,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iran,FY 2008,35,Zoroastrian,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iraq,FY 2008,32,Catholic,5,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iraq,FY 2008,32,Christian,17,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iraq,FY 2008,32,Moslem Shiite,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iraq,FY 2008,32,Moslem Suni,4,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iraq,FY 2008,32,Orthodox,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Iraq,FY 2008,32,Sabeans-Mandean,3,262
+From: 17 Jan 2008,To: 17 Jan 2008,Liberia,FY 2008,33,Christian,33,262
+From: 17 Jan 2008,To: 17 Jan 2008,Somalia,FY 2008,23,Moslem,23,262
+From: 17 Jan 2008,To: 17 Jan 2008,Sudan,FY 2008,6,Catholic,5,262
+From: 17 Jan 2008,To: 17 Jan 2008,Sudan,FY 2008,6,Christian,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Ukraine,FY 2008,27,Baptist,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Ukraine,FY 2008,27,Pentecostalist,23,262
+From: 17 Jan 2008,To: 17 Jan 2008,Ukraine,FY 2008,27,Seventh Day Adventist,2,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jan 2008,To: 17 Jan 2008,Baptist,FY 2008,2,Ukraine,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Catholic,FY 2008,47,Burundi,7,262
+From: 17 Jan 2008,To: 17 Jan 2008,Catholic,FY 2008,47,Cuba,30,262
+From: 17 Jan 2008,To: 17 Jan 2008,Catholic,FY 2008,47,Iraq,5,262
+From: 17 Jan 2008,To: 17 Jan 2008,Catholic,FY 2008,47,Sudan,5,262
+From: 17 Jan 2008,To: 17 Jan 2008,Christian,FY 2008,78,Iran,27,262
+From: 17 Jan 2008,To: 17 Jan 2008,Christian,FY 2008,78,Iraq,17,262
+From: 17 Jan 2008,To: 17 Jan 2008,Christian,FY 2008,78,Liberia,33,262
+From: 17 Jan 2008,To: 17 Jan 2008,Christian,FY 2008,78,Sudan,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Jehovah Witness,FY 2008,6,Cuba,6,262
+From: 17 Jan 2008,To: 17 Jan 2008,Jewish,FY 2008,6,Iran,6,262
+From: 17 Jan 2008,To: 17 Jan 2008,Methodist,FY 2008,1,Burundi,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Moslem,FY 2008,23,Somalia,23,262
+From: 17 Jan 2008,To: 17 Jan 2008,Moslem Shiite,FY 2008,2,Iraq,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Moslem Suni,FY 2008,4,Iraq,4,262
+From: 17 Jan 2008,To: 17 Jan 2008,No Religion,FY 2008,32,Cuba,32,262
+From: 17 Jan 2008,To: 17 Jan 2008,Orthodox,FY 2008,1,Iraq,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Pentecostalist,FY 2008,50,Burundi,27,262
+From: 17 Jan 2008,To: 17 Jan 2008,Pentecostalist,FY 2008,50,Ukraine,23,262
+From: 17 Jan 2008,To: 17 Jan 2008,Protestant,FY 2008,1,Ethiopia,1,262
+From: 17 Jan 2008,To: 17 Jan 2008,Sabeans-Mandean,FY 2008,3,Iraq,3,262
+From: 17 Jan 2008,To: 17 Jan 2008,Seventh Day Adventist,FY 2008,4,Cuba,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Seventh Day Adventist,FY 2008,4,Ukraine,2,262
+From: 17 Jan 2008,To: 17 Jan 2008,Zoroastrian,FY 2008,2,Iran,2,262
+

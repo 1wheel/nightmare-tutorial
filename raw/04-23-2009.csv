@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Apr 2009,To: 23 Apr 2009,Afghanistan,FY 2009,6,Moslem,1,417
+From: 23 Apr 2009,To: 23 Apr 2009,Afghanistan,FY 2009,6,Moslem Suni,5,417
+From: 23 Apr 2009,To: 23 Apr 2009,Bhutan,FY 2009,100,Buddhist,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Bhutan,FY 2009,100,Christian,2,417
+From: 23 Apr 2009,To: 23 Apr 2009,Bhutan,FY 2009,100,Hindu,93,417
+From: 23 Apr 2009,To: 23 Apr 2009,Bhutan,FY 2009,100,Kirat,2,417
+From: 23 Apr 2009,To: 23 Apr 2009,Burma,FY 2009,125,Animist,48,417
+From: 23 Apr 2009,To: 23 Apr 2009,Burma,FY 2009,125,Baptist,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Burma,FY 2009,125,Buddhist,14,417
+From: 23 Apr 2009,To: 23 Apr 2009,Burma,FY 2009,125,Catholic,9,417
+From: 23 Apr 2009,To: 23 Apr 2009,Burma,FY 2009,125,Christian,51,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iran,FY 2009,55,Bahai,21,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iran,FY 2009,55,Christian,30,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iran,FY 2009,55,Moslem Shiite,1,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iran,FY 2009,55,Zoroastrian,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Catholic,7,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Christian,36,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Moslem Shiite,13,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Moslem Suni,27,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Orthodox,7,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Sabeans-Mandean,17,417
+From: 23 Apr 2009,To: 23 Apr 2009,Iraq,FY 2009,111,Yazidi,4,417
+From: 23 Apr 2009,To: 23 Apr 2009,Nepal,FY 2009,3,Hindu,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Thailand,FY 2009,1,Buddhist,1,417
+From: 23 Apr 2009,To: 23 Apr 2009,Ukraine,FY 2009,12,Baptist,6,417
+From: 23 Apr 2009,To: 23 Apr 2009,Ukraine,FY 2009,12,Pentecostalist,6,417
+From: 23 Apr 2009,To: 23 Apr 2009,Uzbekistan,FY 2009,4,Moslem Suni,4,417
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Apr 2009,To: 23 Apr 2009,Animist,FY 2009,48,Burma,48,417
+From: 23 Apr 2009,To: 23 Apr 2009,Bahai,FY 2009,21,Iran,21,417
+From: 23 Apr 2009,To: 23 Apr 2009,Baptist,FY 2009,9,Burma,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Baptist,FY 2009,9,Ukraine,6,417
+From: 23 Apr 2009,To: 23 Apr 2009,Buddhist,FY 2009,18,Bhutan,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Buddhist,FY 2009,18,Burma,14,417
+From: 23 Apr 2009,To: 23 Apr 2009,Buddhist,FY 2009,18,Thailand,1,417
+From: 23 Apr 2009,To: 23 Apr 2009,Catholic,FY 2009,16,Burma,9,417
+From: 23 Apr 2009,To: 23 Apr 2009,Catholic,FY 2009,16,Iraq,7,417
+From: 23 Apr 2009,To: 23 Apr 2009,Christian,FY 2009,119,Bhutan,2,417
+From: 23 Apr 2009,To: 23 Apr 2009,Christian,FY 2009,119,Burma,51,417
+From: 23 Apr 2009,To: 23 Apr 2009,Christian,FY 2009,119,Iran,30,417
+From: 23 Apr 2009,To: 23 Apr 2009,Christian,FY 2009,119,Iraq,36,417
+From: 23 Apr 2009,To: 23 Apr 2009,Hindu,FY 2009,96,Bhutan,93,417
+From: 23 Apr 2009,To: 23 Apr 2009,Hindu,FY 2009,96,Nepal,3,417
+From: 23 Apr 2009,To: 23 Apr 2009,Kirat,FY 2009,2,Bhutan,2,417
+From: 23 Apr 2009,To: 23 Apr 2009,Moslem,FY 2009,1,Afghanistan,1,417
+From: 23 Apr 2009,To: 23 Apr 2009,Moslem Shiite,FY 2009,14,Iran,1,417
+From: 23 Apr 2009,To: 23 Apr 2009,Moslem Shiite,FY 2009,14,Iraq,13,417
+From: 23 Apr 2009,To: 23 Apr 2009,Moslem Suni,FY 2009,36,Afghanistan,5,417
+From: 23 Apr 2009,To: 23 Apr 2009,Moslem Suni,FY 2009,36,Iraq,27,417
+From: 23 Apr 2009,To: 23 Apr 2009,Moslem Suni,FY 2009,36,Uzbekistan,4,417
+From: 23 Apr 2009,To: 23 Apr 2009,Orthodox,FY 2009,7,Iraq,7,417
+From: 23 Apr 2009,To: 23 Apr 2009,Pentecostalist,FY 2009,6,Ukraine,6,417
+From: 23 Apr 2009,To: 23 Apr 2009,Sabeans-Mandean,FY 2009,17,Iraq,17,417
+From: 23 Apr 2009,To: 23 Apr 2009,Yazidi,FY 2009,4,Iraq,4,417
+From: 23 Apr 2009,To: 23 Apr 2009,Zoroastrian,FY 2009,3,Iran,3,417
+

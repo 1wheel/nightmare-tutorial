@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Apr 2011,To: 07 Apr 2011,Chad,FY 2011,2,Moslem,2,38
+From: 07 Apr 2011,To: 07 Apr 2011,Eritrea,FY 2011,3,Orthodox,3,38
+From: 07 Apr 2011,To: 07 Apr 2011,Ethiopia,FY 2011,2,Moslem,2,38
+From: 07 Apr 2011,To: 07 Apr 2011,Iran,FY 2011,2,Jewish,2,38
+From: 07 Apr 2011,To: 07 Apr 2011,Kazakhstan,FY 2011,5,Baptist,5,38
+From: 07 Apr 2011,To: 07 Apr 2011,Somalia,FY 2011,17,Moslem,17,38
+From: 07 Apr 2011,To: 07 Apr 2011,Uganda,FY 2011,6,Moslem,6,38
+From: 07 Apr 2011,To: 07 Apr 2011,Ukraine,FY 2011,1,Baptist,1,38
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Apr 2011,To: 07 Apr 2011,Baptist,FY 2011,6,Kazakhstan,5,38
+From: 07 Apr 2011,To: 07 Apr 2011,Baptist,FY 2011,6,Ukraine,1,38
+From: 07 Apr 2011,To: 07 Apr 2011,Jewish,FY 2011,2,Iran,2,38
+From: 07 Apr 2011,To: 07 Apr 2011,Moslem,FY 2011,27,Chad,2,38
+From: 07 Apr 2011,To: 07 Apr 2011,Moslem,FY 2011,27,Ethiopia,2,38
+From: 07 Apr 2011,To: 07 Apr 2011,Moslem,FY 2011,27,Somalia,17,38
+From: 07 Apr 2011,To: 07 Apr 2011,Moslem,FY 2011,27,Uganda,6,38
+From: 07 Apr 2011,To: 07 Apr 2011,Orthodox,FY 2011,3,Eritrea,3,38
+

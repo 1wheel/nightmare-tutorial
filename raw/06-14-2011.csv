@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jun 2011,To: 14 Jun 2011,Afghanistan,FY 2011,10,Christian,5,256
+From: 14 Jun 2011,To: 14 Jun 2011,Afghanistan,FY 2011,10,Moslem Shiite,5,256
+From: 14 Jun 2011,To: 14 Jun 2011,Bhutan,FY 2011,68,Buddhist,27,256
+From: 14 Jun 2011,To: 14 Jun 2011,Bhutan,FY 2011,68,Christian,4,256
+From: 14 Jun 2011,To: 14 Jun 2011,Bhutan,FY 2011,68,Hindu,34,256
+From: 14 Jun 2011,To: 14 Jun 2011,Bhutan,FY 2011,68,Kirat,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Burma,FY 2011,62,Animist,1,256
+From: 14 Jun 2011,To: 14 Jun 2011,Burma,FY 2011,62,Buddhist,28,256
+From: 14 Jun 2011,To: 14 Jun 2011,Burma,FY 2011,62,Catholic,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Burma,FY 2011,62,Christian,23,256
+From: 14 Jun 2011,To: 14 Jun 2011,Burma,FY 2011,62,Moslem,7,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Bahai,15,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Christian,30,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Moslem,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Moslem Shiite,1,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,No Religion,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Protestant,8,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Sabeans-Mandean,2,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iran,FY 2011,72,Zoroastrian,10,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iraq,FY 2011,39,Christian,22,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iraq,FY 2011,39,Moslem Shiite,6,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iraq,FY 2011,39,Moslem Suni,8,256
+From: 14 Jun 2011,To: 14 Jun 2011,Iraq,FY 2011,39,Sabeans-Mandean,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Pakistan,FY 2011,4,Moslem Suni,4,256
+From: 14 Jun 2011,To: 14 Jun 2011,Somalia,FY 2011,1,Moslem,1,256
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jun 2011,To: 14 Jun 2011,Animist,FY 2011,1,Burma,1,256
+From: 14 Jun 2011,To: 14 Jun 2011,Bahai,FY 2011,15,Iran,15,256
+From: 14 Jun 2011,To: 14 Jun 2011,Buddhist,FY 2011,55,Bhutan,27,256
+From: 14 Jun 2011,To: 14 Jun 2011,Buddhist,FY 2011,55,Burma,28,256
+From: 14 Jun 2011,To: 14 Jun 2011,Catholic,FY 2011,3,Burma,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Christian,FY 2011,84,Afghanistan,5,256
+From: 14 Jun 2011,To: 14 Jun 2011,Christian,FY 2011,84,Bhutan,4,256
+From: 14 Jun 2011,To: 14 Jun 2011,Christian,FY 2011,84,Burma,23,256
+From: 14 Jun 2011,To: 14 Jun 2011,Christian,FY 2011,84,Iran,30,256
+From: 14 Jun 2011,To: 14 Jun 2011,Christian,FY 2011,84,Iraq,22,256
+From: 14 Jun 2011,To: 14 Jun 2011,Hindu,FY 2011,34,Bhutan,34,256
+From: 14 Jun 2011,To: 14 Jun 2011,Kirat,FY 2011,3,Bhutan,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem,FY 2011,11,Burma,7,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem,FY 2011,11,Iran,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem,FY 2011,11,Somalia,1,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem Shiite,FY 2011,12,Afghanistan,5,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem Shiite,FY 2011,12,Iran,1,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem Shiite,FY 2011,12,Iraq,6,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem Suni,FY 2011,12,Iraq,8,256
+From: 14 Jun 2011,To: 14 Jun 2011,Moslem Suni,FY 2011,12,Pakistan,4,256
+From: 14 Jun 2011,To: 14 Jun 2011,No Religion,FY 2011,3,Iran,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Protestant,FY 2011,8,Iran,8,256
+From: 14 Jun 2011,To: 14 Jun 2011,Sabeans-Mandean,FY 2011,5,Iran,2,256
+From: 14 Jun 2011,To: 14 Jun 2011,Sabeans-Mandean,FY 2011,5,Iraq,3,256
+From: 14 Jun 2011,To: 14 Jun 2011,Zoroastrian,FY 2011,10,Iran,10,256
+

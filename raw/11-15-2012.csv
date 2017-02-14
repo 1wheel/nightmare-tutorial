@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Nov 2012,To: 15 Nov 2012,Burma,FY 2013,154,Baptist,16,348
+From: 15 Nov 2012,To: 15 Nov 2012,Burma,FY 2013,154,Buddhist,18,348
+From: 15 Nov 2012,To: 15 Nov 2012,Burma,FY 2013,154,Catholic,7,348
+From: 15 Nov 2012,To: 15 Nov 2012,Burma,FY 2013,154,Christian,106,348
+From: 15 Nov 2012,To: 15 Nov 2012,Burma,FY 2013,154,Evangelical Christian,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Burma,FY 2013,154,Moslem,6,348
+From: 15 Nov 2012,To: 15 Nov 2012,Cuba,FY 2013,68,Baptist,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Cuba,FY 2013,68,Catholic,17,348
+From: 15 Nov 2012,To: 15 Nov 2012,Cuba,FY 2013,68,Jehovah Witness,11,348
+From: 15 Nov 2012,To: 15 Nov 2012,Cuba,FY 2013,68,No Religion,33,348
+From: 15 Nov 2012,To: 15 Nov 2012,Cuba,FY 2013,68,Pentecostalist,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Cuba,FY 2013,68,Seventh Day Adventist,2,348
+From: 15 Nov 2012,To: 15 Nov 2012,Dem. Rep. Congo,FY 2013,4,Protestant,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Eritrea,FY 2013,21,Catholic,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Eritrea,FY 2013,21,Christian,2,348
+From: 15 Nov 2012,To: 15 Nov 2012,Eritrea,FY 2013,21,Orthodox,14,348
+From: 15 Nov 2012,To: 15 Nov 2012,Eritrea,FY 2013,21,Protestant,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Ethiopia,FY 2013,1,Moslem,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Iran,FY 2013,3,Moslem,2,348
+From: 15 Nov 2012,To: 15 Nov 2012,Iran,FY 2013,3,Protestant,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Iraq,FY 2013,38,Christian,35,348
+From: 15 Nov 2012,To: 15 Nov 2012,Iraq,FY 2013,38,Moslem Shiite,3,348
+From: 15 Nov 2012,To: 15 Nov 2012,Pakistan,FY 2013,1,Moslem,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Somalia,FY 2013,41,Moslem,40,348
+From: 15 Nov 2012,To: 15 Nov 2012,Somalia,FY 2013,41,Moslem Suni,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Sudan,FY 2013,10,Christian,6,348
+From: 15 Nov 2012,To: 15 Nov 2012,Sudan,FY 2013,10,Moslem,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Venezuela,FY 2013,3,Catholic,3,348
+From: 15 Nov 2012,To: 15 Nov 2012,Vietnam,FY 2013,4,Catholic,4,348
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Nov 2012,To: 15 Nov 2012,Baptist,FY 2013,20,Burma,16,348
+From: 15 Nov 2012,To: 15 Nov 2012,Baptist,FY 2013,20,Cuba,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Buddhist,FY 2013,18,Burma,18,348
+From: 15 Nov 2012,To: 15 Nov 2012,Catholic,FY 2013,35,Burma,7,348
+From: 15 Nov 2012,To: 15 Nov 2012,Catholic,FY 2013,35,Cuba,17,348
+From: 15 Nov 2012,To: 15 Nov 2012,Catholic,FY 2013,35,Eritrea,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Catholic,FY 2013,35,Venezuela,3,348
+From: 15 Nov 2012,To: 15 Nov 2012,Catholic,FY 2013,35,Vietnam,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Christian,FY 2013,149,Burma,106,348
+From: 15 Nov 2012,To: 15 Nov 2012,Christian,FY 2013,149,Eritrea,2,348
+From: 15 Nov 2012,To: 15 Nov 2012,Christian,FY 2013,149,Iraq,35,348
+From: 15 Nov 2012,To: 15 Nov 2012,Christian,FY 2013,149,Sudan,6,348
+From: 15 Nov 2012,To: 15 Nov 2012,Evangelical Christian,FY 2013,1,Burma,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Jehovah Witness,FY 2013,11,Cuba,11,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem,FY 2013,54,Burma,6,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem,FY 2013,54,Ethiopia,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem,FY 2013,54,Iran,2,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem,FY 2013,54,Pakistan,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem,FY 2013,54,Somalia,40,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem,FY 2013,54,Sudan,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem Shiite,FY 2013,3,Iraq,3,348
+From: 15 Nov 2012,To: 15 Nov 2012,Moslem Suni,FY 2013,1,Somalia,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,No Religion,FY 2013,33,Cuba,33,348
+From: 15 Nov 2012,To: 15 Nov 2012,Orthodox,FY 2013,14,Eritrea,14,348
+From: 15 Nov 2012,To: 15 Nov 2012,Pentecostalist,FY 2013,1,Cuba,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Protestant,FY 2013,6,Dem. Rep. Congo,4,348
+From: 15 Nov 2012,To: 15 Nov 2012,Protestant,FY 2013,6,Eritrea,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Protestant,FY 2013,6,Iran,1,348
+From: 15 Nov 2012,To: 15 Nov 2012,Seventh Day Adventist,FY 2013,2,Cuba,2,348
+

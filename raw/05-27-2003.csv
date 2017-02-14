@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 May 2003,To: 27 May 2003,Azerbaijan,FY 2003,1,Jewish,1,214
+From: 27 May 2003,To: 27 May 2003,Colombia,FY 2003,15,Catholic,14,214
+From: 27 May 2003,To: 27 May 2003,Colombia,FY 2003,15,Jehovah Witness,1,214
+From: 27 May 2003,To: 27 May 2003,Ethiopia,FY 2003,1,Protestant,1,214
+From: 27 May 2003,To: 27 May 2003,Ghana,FY 2003,1,Christian,1,214
+From: 27 May 2003,To: 27 May 2003,Iran,FY 2003,16,Atheist,1,214
+From: 27 May 2003,To: 27 May 2003,Iran,FY 2003,16,Bahai,4,214
+From: 27 May 2003,To: 27 May 2003,Iran,FY 2003,16,Christian,2,214
+From: 27 May 2003,To: 27 May 2003,Iran,FY 2003,16,Moslem,9,214
+From: 27 May 2003,To: 27 May 2003,Liberia,FY 2003,43,Baptist,14,214
+From: 27 May 2003,To: 27 May 2003,Liberia,FY 2003,43,Catholic,1,214
+From: 27 May 2003,To: 27 May 2003,Liberia,FY 2003,43,Christian,22,214
+From: 27 May 2003,To: 27 May 2003,Liberia,FY 2003,43,Pentecostalist,1,214
+From: 27 May 2003,To: 27 May 2003,Liberia,FY 2003,43,Seventh Day Adventist,5,214
+From: 27 May 2003,To: 27 May 2003,Russia,FY 2003,29,Baptist,15,214
+From: 27 May 2003,To: 27 May 2003,Russia,FY 2003,29,Jewish,6,214
+From: 27 May 2003,To: 27 May 2003,Russia,FY 2003,29,Pentecostalist,8,214
+From: 27 May 2003,To: 27 May 2003,Serbia,FY 2003,34,No Religion,5,214
+From: 27 May 2003,To: 27 May 2003,Serbia,FY 2003,34,Orthodox,29,214
+From: 27 May 2003,To: 27 May 2003,Sierra Leone,FY 2003,6,Catholic,2,214
+From: 27 May 2003,To: 27 May 2003,Sierra Leone,FY 2003,6,Christian,2,214
+From: 27 May 2003,To: 27 May 2003,Sierra Leone,FY 2003,6,Methodist,1,214
+From: 27 May 2003,To: 27 May 2003,Sierra Leone,FY 2003,6,Moslem,1,214
+From: 27 May 2003,To: 27 May 2003,Somalia,FY 2003,1,Moslem,1,214
+From: 27 May 2003,To: 27 May 2003,Sudan,FY 2003,32,Catholic,17,214
+From: 27 May 2003,To: 27 May 2003,Sudan,FY 2003,32,Christian,1,214
+From: 27 May 2003,To: 27 May 2003,Sudan,FY 2003,32,Moslem,4,214
+From: 27 May 2003,To: 27 May 2003,Sudan,FY 2003,32,Protestant,10,214
+From: 27 May 2003,To: 27 May 2003,Ukraine,FY 2003,35,Baptist,10,214
+From: 27 May 2003,To: 27 May 2003,Ukraine,FY 2003,35,Pentecostalist,25,214
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 May 2003,To: 27 May 2003,Atheist,FY 2003,1,Iran,1,214
+From: 27 May 2003,To: 27 May 2003,Bahai,FY 2003,4,Iran,4,214
+From: 27 May 2003,To: 27 May 2003,Baptist,FY 2003,39,Liberia,14,214
+From: 27 May 2003,To: 27 May 2003,Baptist,FY 2003,39,Russia,15,214
+From: 27 May 2003,To: 27 May 2003,Baptist,FY 2003,39,Ukraine,10,214
+From: 27 May 2003,To: 27 May 2003,Catholic,FY 2003,34,Colombia,14,214
+From: 27 May 2003,To: 27 May 2003,Catholic,FY 2003,34,Liberia,1,214
+From: 27 May 2003,To: 27 May 2003,Catholic,FY 2003,34,Sierra Leone,2,214
+From: 27 May 2003,To: 27 May 2003,Catholic,FY 2003,34,Sudan,17,214
+From: 27 May 2003,To: 27 May 2003,Christian,FY 2003,28,Ghana,1,214
+From: 27 May 2003,To: 27 May 2003,Christian,FY 2003,28,Iran,2,214
+From: 27 May 2003,To: 27 May 2003,Christian,FY 2003,28,Liberia,22,214
+From: 27 May 2003,To: 27 May 2003,Christian,FY 2003,28,Sierra Leone,2,214
+From: 27 May 2003,To: 27 May 2003,Christian,FY 2003,28,Sudan,1,214
+From: 27 May 2003,To: 27 May 2003,Jehovah Witness,FY 2003,1,Colombia,1,214
+From: 27 May 2003,To: 27 May 2003,Jewish,FY 2003,7,Azerbaijan,1,214
+From: 27 May 2003,To: 27 May 2003,Jewish,FY 2003,7,Russia,6,214
+From: 27 May 2003,To: 27 May 2003,Methodist,FY 2003,1,Sierra Leone,1,214
+From: 27 May 2003,To: 27 May 2003,Moslem,FY 2003,15,Iran,9,214
+From: 27 May 2003,To: 27 May 2003,Moslem,FY 2003,15,Sierra Leone,1,214
+From: 27 May 2003,To: 27 May 2003,Moslem,FY 2003,15,Somalia,1,214
+From: 27 May 2003,To: 27 May 2003,Moslem,FY 2003,15,Sudan,4,214
+From: 27 May 2003,To: 27 May 2003,No Religion,FY 2003,5,Serbia,5,214
+From: 27 May 2003,To: 27 May 2003,Orthodox,FY 2003,29,Serbia,29,214
+From: 27 May 2003,To: 27 May 2003,Pentecostalist,FY 2003,34,Liberia,1,214
+From: 27 May 2003,To: 27 May 2003,Pentecostalist,FY 2003,34,Russia,8,214
+From: 27 May 2003,To: 27 May 2003,Pentecostalist,FY 2003,34,Ukraine,25,214
+From: 27 May 2003,To: 27 May 2003,Protestant,FY 2003,11,Ethiopia,1,214
+From: 27 May 2003,To: 27 May 2003,Protestant,FY 2003,11,Sudan,10,214
+From: 27 May 2003,To: 27 May 2003,Seventh Day Adventist,FY 2003,5,Liberia,5,214
+

@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Sep 2003,To: 04 Sep 2003,Afghanistan,FY 2003,12,Moslem,6,213
+From: 04 Sep 2003,To: 04 Sep 2003,Afghanistan,FY 2003,12,Moslem Shiite,6,213
+From: 04 Sep 2003,To: 04 Sep 2003,Bosnia and Herzegovina,FY 2003,2,Orthodox,2,213
+From: 04 Sep 2003,To: 04 Sep 2003,Burma,FY 2003,7,Baptist,6,213
+From: 04 Sep 2003,To: 04 Sep 2003,Burma,FY 2003,7,Buddhist,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Croatia,FY 2003,3,No Religion,3,213
+From: 04 Sep 2003,To: 04 Sep 2003,Dem. Rep. Congo,FY 2003,1,Christian,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Rwanda,FY 2003,1,Christian,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Serbia,FY 2003,9,Orthodox,9,213
+From: 04 Sep 2003,To: 04 Sep 2003,Somalia,FY 2003,77,Christian,5,213
+From: 04 Sep 2003,To: 04 Sep 2003,Somalia,FY 2003,77,Moslem,71,213
+From: 04 Sep 2003,To: 04 Sep 2003,Somalia,FY 2003,77,Unknown,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Sudan,FY 2003,72,Catholic,19,213
+From: 04 Sep 2003,To: 04 Sep 2003,Sudan,FY 2003,72,Christian,13,213
+From: 04 Sep 2003,To: 04 Sep 2003,Sudan,FY 2003,72,Moslem,18,213
+From: 04 Sep 2003,To: 04 Sep 2003,Sudan,FY 2003,72,Protestant,22,213
+From: 04 Sep 2003,To: 04 Sep 2003,Ukraine,FY 2003,29,Baptist,5,213
+From: 04 Sep 2003,To: 04 Sep 2003,Ukraine,FY 2003,29,Pentecostalist,24,213
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Sep 2003,To: 04 Sep 2003,Baptist,FY 2003,11,Burma,6,213
+From: 04 Sep 2003,To: 04 Sep 2003,Baptist,FY 2003,11,Ukraine,5,213
+From: 04 Sep 2003,To: 04 Sep 2003,Buddhist,FY 2003,1,Burma,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Catholic,FY 2003,19,Sudan,19,213
+From: 04 Sep 2003,To: 04 Sep 2003,Christian,FY 2003,20,Dem. Rep. Congo,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Christian,FY 2003,20,Rwanda,1,213
+From: 04 Sep 2003,To: 04 Sep 2003,Christian,FY 2003,20,Somalia,5,213
+From: 04 Sep 2003,To: 04 Sep 2003,Christian,FY 2003,20,Sudan,13,213
+From: 04 Sep 2003,To: 04 Sep 2003,Moslem,FY 2003,95,Afghanistan,6,213
+From: 04 Sep 2003,To: 04 Sep 2003,Moslem,FY 2003,95,Somalia,71,213
+From: 04 Sep 2003,To: 04 Sep 2003,Moslem,FY 2003,95,Sudan,18,213
+From: 04 Sep 2003,To: 04 Sep 2003,Moslem Shiite,FY 2003,6,Afghanistan,6,213
+From: 04 Sep 2003,To: 04 Sep 2003,No Religion,FY 2003,3,Croatia,3,213
+From: 04 Sep 2003,To: 04 Sep 2003,Orthodox,FY 2003,11,Bosnia and Herzegovina,2,213
+From: 04 Sep 2003,To: 04 Sep 2003,Orthodox,FY 2003,11,Serbia,9,213
+From: 04 Sep 2003,To: 04 Sep 2003,Pentecostalist,FY 2003,24,Ukraine,24,213
+From: 04 Sep 2003,To: 04 Sep 2003,Protestant,FY 2003,22,Sudan,22,213
+From: 04 Sep 2003,To: 04 Sep 2003,Unknown,FY 2003,1,Somalia,1,213
+

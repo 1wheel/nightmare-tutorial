@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jun 2012,To: 26 Jun 2012,Afghanistan,FY 2012,15,Moslem Shiite,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Afghanistan,FY 2012,15,Moslem Suni,11,519
+From: 26 Jun 2012,To: 26 Jun 2012,Bhutan,FY 2012,74,Buddhist,22,519
+From: 26 Jun 2012,To: 26 Jun 2012,Bhutan,FY 2012,74,Christian,6,519
+From: 26 Jun 2012,To: 26 Jun 2012,Bhutan,FY 2012,74,Hindu,41,519
+From: 26 Jun 2012,To: 26 Jun 2012,Bhutan,FY 2012,74,Kirat,5,519
+From: 26 Jun 2012,To: 26 Jun 2012,Burma,FY 2012,108,Animist,11,519
+From: 26 Jun 2012,To: 26 Jun 2012,Burma,FY 2012,108,Baptist,3,519
+From: 26 Jun 2012,To: 26 Jun 2012,Burma,FY 2012,108,Buddhist,20,519
+From: 26 Jun 2012,To: 26 Jun 2012,Burma,FY 2012,108,Catholic,14,519
+From: 26 Jun 2012,To: 26 Jun 2012,Burma,FY 2012,108,Christian,59,519
+From: 26 Jun 2012,To: 26 Jun 2012,Burma,FY 2012,108,Hindu,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Cuba,FY 2012,50,Catholic,9,519
+From: 26 Jun 2012,To: 26 Jun 2012,Cuba,FY 2012,50,Evangelical Christian,3,519
+From: 26 Jun 2012,To: 26 Jun 2012,Cuba,FY 2012,50,Jehovah Witness,21,519
+From: 26 Jun 2012,To: 26 Jun 2012,Cuba,FY 2012,50,No Religion,13,519
+From: 26 Jun 2012,To: 26 Jun 2012,Cuba,FY 2012,50,Unknown,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Dem. Rep. Congo,FY 2012,4,Catholic,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Eritrea,FY 2012,2,Orthodox,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Eritrea,FY 2012,2,Protestant,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Ethiopia,FY 2012,32,Christian,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Ethiopia,FY 2012,32,Moslem,27,519
+From: 26 Jun 2012,To: 26 Jun 2012,Ethiopia,FY 2012,32,Orthodox,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iran,FY 2012,3,Bahai,2,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iran,FY 2012,3,Jewish,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Catholic,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Chaldean,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Christian,48,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Moslem,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Moslem Shiite,26,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Moslem Suni,45,519
+From: 26 Jun 2012,To: 26 Jun 2012,Iraq,FY 2012,130,Sabeans-Mandean,5,519
+From: 26 Jun 2012,To: 26 Jun 2012,Russia,FY 2012,2,Jewish,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Russia,FY 2012,2,Pentecostalist,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Somalia,FY 2012,83,Moslem,74,519
+From: 26 Jun 2012,To: 26 Jun 2012,Somalia,FY 2012,83,Moslem Suni,9,519
+From: 26 Jun 2012,To: 26 Jun 2012,Sudan,FY 2012,15,Christian,5,519
+From: 26 Jun 2012,To: 26 Jun 2012,Sudan,FY 2012,15,Moslem,10,519
+From: 26 Jun 2012,To: 26 Jun 2012,Uganda,FY 2012,1,Christian,1,519
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jun 2012,To: 26 Jun 2012,Animist,FY 2012,11,Burma,11,519
+From: 26 Jun 2012,To: 26 Jun 2012,Bahai,FY 2012,2,Iran,2,519
+From: 26 Jun 2012,To: 26 Jun 2012,Baptist,FY 2012,3,Burma,3,519
+From: 26 Jun 2012,To: 26 Jun 2012,Buddhist,FY 2012,42,Bhutan,22,519
+From: 26 Jun 2012,To: 26 Jun 2012,Buddhist,FY 2012,42,Burma,20,519
+From: 26 Jun 2012,To: 26 Jun 2012,Catholic,FY 2012,31,Burma,14,519
+From: 26 Jun 2012,To: 26 Jun 2012,Catholic,FY 2012,31,Cuba,9,519
+From: 26 Jun 2012,To: 26 Jun 2012,Catholic,FY 2012,31,Dem. Rep. Congo,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Catholic,FY 2012,31,Iraq,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Chaldean,FY 2012,1,Iraq,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Christian,FY 2012,120,Bhutan,6,519
+From: 26 Jun 2012,To: 26 Jun 2012,Christian,FY 2012,120,Burma,59,519
+From: 26 Jun 2012,To: 26 Jun 2012,Christian,FY 2012,120,Ethiopia,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Christian,FY 2012,120,Iraq,48,519
+From: 26 Jun 2012,To: 26 Jun 2012,Christian,FY 2012,120,Sudan,5,519
+From: 26 Jun 2012,To: 26 Jun 2012,Christian,FY 2012,120,Uganda,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Evangelical Christian,FY 2012,3,Cuba,3,519
+From: 26 Jun 2012,To: 26 Jun 2012,Hindu,FY 2012,42,Bhutan,41,519
+From: 26 Jun 2012,To: 26 Jun 2012,Hindu,FY 2012,42,Burma,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Jehovah Witness,FY 2012,21,Cuba,21,519
+From: 26 Jun 2012,To: 26 Jun 2012,Jewish,FY 2012,2,Iran,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Jewish,FY 2012,2,Russia,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Kirat,FY 2012,5,Bhutan,5,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem,FY 2012,112,Ethiopia,27,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem,FY 2012,112,Iraq,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem,FY 2012,112,Somalia,74,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem,FY 2012,112,Sudan,10,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem Shiite,FY 2012,30,Afghanistan,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem Shiite,FY 2012,30,Iraq,26,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem Suni,FY 2012,65,Afghanistan,11,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem Suni,FY 2012,65,Iraq,45,519
+From: 26 Jun 2012,To: 26 Jun 2012,Moslem Suni,FY 2012,65,Somalia,9,519
+From: 26 Jun 2012,To: 26 Jun 2012,No Religion,FY 2012,13,Cuba,13,519
+From: 26 Jun 2012,To: 26 Jun 2012,Orthodox,FY 2012,5,Eritrea,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Orthodox,FY 2012,5,Ethiopia,4,519
+From: 26 Jun 2012,To: 26 Jun 2012,Pentecostalist,FY 2012,1,Russia,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Protestant,FY 2012,1,Eritrea,1,519
+From: 26 Jun 2012,To: 26 Jun 2012,Sabeans-Mandean,FY 2012,5,Iraq,5,519
+From: 26 Jun 2012,To: 26 Jun 2012,Unknown,FY 2012,4,Cuba,4,519
+

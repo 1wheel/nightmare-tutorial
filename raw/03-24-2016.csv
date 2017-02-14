@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Mar 2016,To: 24 Mar 2016,Afghanistan,FY 2016,3,Moslem Shiite,3,270
+From: 24 Mar 2016,To: 24 Mar 2016,Burma,FY 2016,130,Baptist,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Burma,FY 2016,130,Buddhist,36,270
+From: 24 Mar 2016,To: 24 Mar 2016,Burma,FY 2016,130,Christian,71,270
+From: 24 Mar 2016,To: 24 Mar 2016,Burma,FY 2016,130,Moslem,22,270
+From: 24 Mar 2016,To: 24 Mar 2016,Dem. Rep. Congo,FY 2016,20,Catholic,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Dem. Rep. Congo,FY 2016,20,Christian,11,270
+From: 24 Mar 2016,To: 24 Mar 2016,Dem. Rep. Congo,FY 2016,20,Methodist,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Dem. Rep. Congo,FY 2016,20,Protestant,5,270
+From: 24 Mar 2016,To: 24 Mar 2016,Dem. Rep. Congo,FY 2016,20,Seventh Day Adventist,2,270
+From: 24 Mar 2016,To: 24 Mar 2016,Ethiopia,FY 2016,6,Christian,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Ethiopia,FY 2016,6,Lutheran,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Ethiopia,FY 2016,6,Moslem,3,270
+From: 24 Mar 2016,To: 24 Mar 2016,Ethiopia,FY 2016,6,Orthodox,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Iran,FY 2016,6,Moslem Shiite,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Iran,FY 2016,6,Protestant,5,270
+From: 24 Mar 2016,To: 24 Mar 2016,Iraq,FY 2016,23,Moslem,3,270
+From: 24 Mar 2016,To: 24 Mar 2016,Iraq,FY 2016,23,Moslem Shiite,13,270
+From: 24 Mar 2016,To: 24 Mar 2016,Iraq,FY 2016,23,Moslem Suni,2,270
+From: 24 Mar 2016,To: 24 Mar 2016,Iraq,FY 2016,23,Orthodox,5,270
+From: 24 Mar 2016,To: 24 Mar 2016,Rwanda,FY 2016,1,Christian,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Somalia,FY 2016,67,Moslem,67,270
+From: 24 Mar 2016,To: 24 Mar 2016,Syria,FY 2016,6,Moslem Suni,6,270
+From: 24 Mar 2016,To: 24 Mar 2016,Uganda,FY 2016,1,Pentecostalist,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Ukraine,FY 2016,7,Baptist,4,270
+From: 24 Mar 2016,To: 24 Mar 2016,Ukraine,FY 2016,7,Uniate,3,270
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Mar 2016,To: 24 Mar 2016,Baptist,FY 2016,5,Burma,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Baptist,FY 2016,5,Ukraine,4,270
+From: 24 Mar 2016,To: 24 Mar 2016,Buddhist,FY 2016,36,Burma,36,270
+From: 24 Mar 2016,To: 24 Mar 2016,Catholic,FY 2016,1,Dem. Rep. Congo,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Christian,FY 2016,84,Burma,71,270
+From: 24 Mar 2016,To: 24 Mar 2016,Christian,FY 2016,84,Dem. Rep. Congo,11,270
+From: 24 Mar 2016,To: 24 Mar 2016,Christian,FY 2016,84,Ethiopia,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Christian,FY 2016,84,Rwanda,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Lutheran,FY 2016,1,Ethiopia,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Methodist,FY 2016,1,Dem. Rep. Congo,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem,FY 2016,95,Burma,22,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem,FY 2016,95,Ethiopia,3,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem,FY 2016,95,Iraq,3,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem,FY 2016,95,Somalia,67,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem Shiite,FY 2016,17,Afghanistan,3,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem Shiite,FY 2016,17,Iran,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem Shiite,FY 2016,17,Iraq,13,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem Suni,FY 2016,8,Iraq,2,270
+From: 24 Mar 2016,To: 24 Mar 2016,Moslem Suni,FY 2016,8,Syria,6,270
+From: 24 Mar 2016,To: 24 Mar 2016,Orthodox,FY 2016,6,Ethiopia,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Orthodox,FY 2016,6,Iraq,5,270
+From: 24 Mar 2016,To: 24 Mar 2016,Pentecostalist,FY 2016,1,Uganda,1,270
+From: 24 Mar 2016,To: 24 Mar 2016,Protestant,FY 2016,10,Dem. Rep. Congo,5,270
+From: 24 Mar 2016,To: 24 Mar 2016,Protestant,FY 2016,10,Iran,5,270
+From: 24 Mar 2016,To: 24 Mar 2016,Seventh Day Adventist,FY 2016,2,Dem. Rep. Congo,2,270
+From: 24 Mar 2016,To: 24 Mar 2016,Uniate,FY 2016,3,Ukraine,3,270
+

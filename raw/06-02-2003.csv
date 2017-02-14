@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jun 2003,To: 02 Jun 2003,Iran,FY 2003,15,Bahai,3,67
+From: 02 Jun 2003,To: 02 Jun 2003,Iran,FY 2003,15,Moslem,12,67
+From: 02 Jun 2003,To: 02 Jun 2003,Liberia,FY 2003,16,Christian,6,67
+From: 02 Jun 2003,To: 02 Jun 2003,Liberia,FY 2003,16,Moslem,10,67
+From: 02 Jun 2003,To: 02 Jun 2003,Moldova,FY 2003,15,Baptist,15,67
+From: 02 Jun 2003,To: 02 Jun 2003,Sierra Leone,FY 2003,19,Catholic,7,67
+From: 02 Jun 2003,To: 02 Jun 2003,Sierra Leone,FY 2003,19,Christian,7,67
+From: 02 Jun 2003,To: 02 Jun 2003,Sierra Leone,FY 2003,19,Moslem,5,67
+From: 02 Jun 2003,To: 02 Jun 2003,Ukraine,FY 2003,2,Baptist,2,67
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jun 2003,To: 02 Jun 2003,Bahai,FY 2003,3,Iran,3,67
+From: 02 Jun 2003,To: 02 Jun 2003,Baptist,FY 2003,17,Moldova,15,67
+From: 02 Jun 2003,To: 02 Jun 2003,Baptist,FY 2003,17,Ukraine,2,67
+From: 02 Jun 2003,To: 02 Jun 2003,Catholic,FY 2003,7,Sierra Leone,7,67
+From: 02 Jun 2003,To: 02 Jun 2003,Christian,FY 2003,13,Liberia,6,67
+From: 02 Jun 2003,To: 02 Jun 2003,Christian,FY 2003,13,Sierra Leone,7,67
+From: 02 Jun 2003,To: 02 Jun 2003,Moslem,FY 2003,27,Iran,12,67
+From: 02 Jun 2003,To: 02 Jun 2003,Moslem,FY 2003,27,Liberia,10,67
+From: 02 Jun 2003,To: 02 Jun 2003,Moslem,FY 2003,27,Sierra Leone,5,67
+

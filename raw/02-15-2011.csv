@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Feb 2011,To: 15 Feb 2011,Afghanistan,FY 2011,2,Moslem,2,381
+From: 15 Feb 2011,To: 15 Feb 2011,Belarus,FY 2011,2,Pentecostalist,2,381
+From: 15 Feb 2011,To: 15 Feb 2011,Bhutan,FY 2011,105,Buddhist,21,381
+From: 15 Feb 2011,To: 15 Feb 2011,Bhutan,FY 2011,105,Christian,9,381
+From: 15 Feb 2011,To: 15 Feb 2011,Bhutan,FY 2011,105,Hindu,67,381
+From: 15 Feb 2011,To: 15 Feb 2011,Bhutan,FY 2011,105,Kirat,8,381
+From: 15 Feb 2011,To: 15 Feb 2011,Burma,FY 2011,150,Animist,7,381
+From: 15 Feb 2011,To: 15 Feb 2011,Burma,FY 2011,150,Baptist,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Burma,FY 2011,150,Buddhist,70,381
+From: 15 Feb 2011,To: 15 Feb 2011,Burma,FY 2011,150,Christian,41,381
+From: 15 Feb 2011,To: 15 Feb 2011,Burma,FY 2011,150,Moslem,29,381
+From: 15 Feb 2011,To: 15 Feb 2011,Colombia,FY 2011,1,Christian,1,381
+From: 15 Feb 2011,To: 15 Feb 2011,Dem. Rep. Congo,FY 2011,13,Catholic,6,381
+From: 15 Feb 2011,To: 15 Feb 2011,Dem. Rep. Congo,FY 2011,13,Pentecostalist,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Dem. Rep. Congo,FY 2011,13,Protestant,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iran,FY 2011,60,Bahai,15,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iran,FY 2011,60,Christian,32,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iran,FY 2011,60,Jewish,1,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iran,FY 2011,60,Moslem,2,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iran,FY 2011,60,Moslem Shiite,5,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iran,FY 2011,60,Zoroastrian,5,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iraq,FY 2011,39,Catholic,16,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iraq,FY 2011,39,Christian,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iraq,FY 2011,39,Moslem,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iraq,FY 2011,39,Moslem Shiite,5,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iraq,FY 2011,39,Moslem Suni,8,381
+From: 15 Feb 2011,To: 15 Feb 2011,Iraq,FY 2011,39,Orthodox,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Kyrgyzstan,FY 2011,4,Seventh Day Adventist,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Sudan,FY 2011,1,Moslem,1,381
+From: 15 Feb 2011,To: 15 Feb 2011,Vietnam,FY 2011,4,Other Religion,4,381
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Feb 2011,To: 15 Feb 2011,Animist,FY 2011,7,Burma,7,381
+From: 15 Feb 2011,To: 15 Feb 2011,Bahai,FY 2011,15,Iran,15,381
+From: 15 Feb 2011,To: 15 Feb 2011,Baptist,FY 2011,3,Burma,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Buddhist,FY 2011,91,Bhutan,21,381
+From: 15 Feb 2011,To: 15 Feb 2011,Buddhist,FY 2011,91,Burma,70,381
+From: 15 Feb 2011,To: 15 Feb 2011,Catholic,FY 2011,22,Dem. Rep. Congo,6,381
+From: 15 Feb 2011,To: 15 Feb 2011,Catholic,FY 2011,22,Iraq,16,381
+From: 15 Feb 2011,To: 15 Feb 2011,Christian,FY 2011,86,Bhutan,9,381
+From: 15 Feb 2011,To: 15 Feb 2011,Christian,FY 2011,86,Burma,41,381
+From: 15 Feb 2011,To: 15 Feb 2011,Christian,FY 2011,86,Colombia,1,381
+From: 15 Feb 2011,To: 15 Feb 2011,Christian,FY 2011,86,Iran,32,381
+From: 15 Feb 2011,To: 15 Feb 2011,Christian,FY 2011,86,Iraq,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Hindu,FY 2011,67,Bhutan,67,381
+From: 15 Feb 2011,To: 15 Feb 2011,Jewish,FY 2011,1,Iran,1,381
+From: 15 Feb 2011,To: 15 Feb 2011,Kirat,FY 2011,8,Bhutan,8,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem,FY 2011,37,Afghanistan,2,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem,FY 2011,37,Burma,29,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem,FY 2011,37,Iran,2,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem,FY 2011,37,Iraq,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem,FY 2011,37,Sudan,1,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem Shiite,FY 2011,10,Iran,5,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem Shiite,FY 2011,10,Iraq,5,381
+From: 15 Feb 2011,To: 15 Feb 2011,Moslem Suni,FY 2011,8,Iraq,8,381
+From: 15 Feb 2011,To: 15 Feb 2011,Orthodox,FY 2011,4,Iraq,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Other Religion,FY 2011,4,Vietnam,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Pentecostalist,FY 2011,6,Belarus,2,381
+From: 15 Feb 2011,To: 15 Feb 2011,Pentecostalist,FY 2011,6,Dem. Rep. Congo,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Protestant,FY 2011,3,Dem. Rep. Congo,3,381
+From: 15 Feb 2011,To: 15 Feb 2011,Seventh Day Adventist,FY 2011,4,Kyrgyzstan,4,381
+From: 15 Feb 2011,To: 15 Feb 2011,Zoroastrian,FY 2011,5,Iran,5,381
+

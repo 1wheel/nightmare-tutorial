@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Feb 2014,To: 04 Feb 2014,Bhutan,FY 2014,79,Buddhist,18,552
+From: 04 Feb 2014,To: 04 Feb 2014,Bhutan,FY 2014,79,Christian,13,552
+From: 04 Feb 2014,To: 04 Feb 2014,Bhutan,FY 2014,79,Hindu,30,552
+From: 04 Feb 2014,To: 04 Feb 2014,Bhutan,FY 2014,79,Kirat,18,552
+From: 04 Feb 2014,To: 04 Feb 2014,Burma,FY 2014,56,Buddhist,13,552
+From: 04 Feb 2014,To: 04 Feb 2014,Burma,FY 2014,56,Christian,26,552
+From: 04 Feb 2014,To: 04 Feb 2014,Burma,FY 2014,56,Moslem,17,552
+From: 04 Feb 2014,To: 04 Feb 2014,Burundi,FY 2014,3,Catholic,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,Baptist,8,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,Catholic,27,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,Evangelical Christian,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,Jehovah Witness,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,Methodist,4,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,No Religion,19,552
+From: 04 Feb 2014,To: 04 Feb 2014,Cuba,FY 2014,67,Pentecostalist,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Dem. Rep. Congo,FY 2014,62,Catholic,12,552
+From: 04 Feb 2014,To: 04 Feb 2014,Dem. Rep. Congo,FY 2014,62,Christian,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Dem. Rep. Congo,FY 2014,62,Pentecostalist,40,552
+From: 04 Feb 2014,To: 04 Feb 2014,Dem. Rep. Congo,FY 2014,62,Protestant,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Dem. Rep. Congo,FY 2014,62,Seventh Day Adventist,8,552
+From: 04 Feb 2014,To: 04 Feb 2014,Eritrea,FY 2014,11,Catholic,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Eritrea,FY 2014,11,Moslem,6,552
+From: 04 Feb 2014,To: 04 Feb 2014,Eritrea,FY 2014,11,Orthodox,4,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iran,FY 2014,39,Bahai,22,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iran,FY 2014,39,Christian,12,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iran,FY 2014,39,Protestant,4,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iran,FY 2014,39,Zoroastrian,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iraq,FY 2014,148,Catholic,28,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iraq,FY 2014,148,Christian,29,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iraq,FY 2014,148,Moslem Shiite,40,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iraq,FY 2014,148,Moslem Suni,48,552
+From: 04 Feb 2014,To: 04 Feb 2014,Iraq,FY 2014,148,Orthodox,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Pakistan,FY 2014,10,Ahmadiyya,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Pakistan,FY 2014,10,Catholic,6,552
+From: 04 Feb 2014,To: 04 Feb 2014,Pakistan,FY 2014,10,Christian,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Somalia,FY 2014,68,Moslem,67,552
+From: 04 Feb 2014,To: 04 Feb 2014,Somalia,FY 2014,68,Moslem Suni,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Sudan,FY 2014,9,Moslem,9,552
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Feb 2014,To: 04 Feb 2014,Ahmadiyya,FY 2014,3,Pakistan,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Bahai,FY 2014,22,Iran,22,552
+From: 04 Feb 2014,To: 04 Feb 2014,Baptist,FY 2014,8,Cuba,8,552
+From: 04 Feb 2014,To: 04 Feb 2014,Buddhist,FY 2014,31,Bhutan,18,552
+From: 04 Feb 2014,To: 04 Feb 2014,Buddhist,FY 2014,31,Burma,13,552
+From: 04 Feb 2014,To: 04 Feb 2014,Catholic,FY 2014,77,Burundi,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Catholic,FY 2014,77,Cuba,27,552
+From: 04 Feb 2014,To: 04 Feb 2014,Catholic,FY 2014,77,Dem. Rep. Congo,12,552
+From: 04 Feb 2014,To: 04 Feb 2014,Catholic,FY 2014,77,Eritrea,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Catholic,FY 2014,77,Iraq,28,552
+From: 04 Feb 2014,To: 04 Feb 2014,Catholic,FY 2014,77,Pakistan,6,552
+From: 04 Feb 2014,To: 04 Feb 2014,Christian,FY 2014,82,Bhutan,13,552
+From: 04 Feb 2014,To: 04 Feb 2014,Christian,FY 2014,82,Burma,26,552
+From: 04 Feb 2014,To: 04 Feb 2014,Christian,FY 2014,82,Dem. Rep. Congo,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Christian,FY 2014,82,Iran,12,552
+From: 04 Feb 2014,To: 04 Feb 2014,Christian,FY 2014,82,Iraq,29,552
+From: 04 Feb 2014,To: 04 Feb 2014,Christian,FY 2014,82,Pakistan,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Evangelical Christian,FY 2014,3,Cuba,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Hindu,FY 2014,30,Bhutan,30,552
+From: 04 Feb 2014,To: 04 Feb 2014,Jehovah Witness,FY 2014,3,Cuba,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Kirat,FY 2014,18,Bhutan,18,552
+From: 04 Feb 2014,To: 04 Feb 2014,Methodist,FY 2014,4,Cuba,4,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem,FY 2014,99,Burma,17,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem,FY 2014,99,Eritrea,6,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem,FY 2014,99,Somalia,67,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem,FY 2014,99,Sudan,9,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem Shiite,FY 2014,40,Iraq,40,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem Suni,FY 2014,49,Iraq,48,552
+From: 04 Feb 2014,To: 04 Feb 2014,Moslem Suni,FY 2014,49,Somalia,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,No Religion,FY 2014,19,Cuba,19,552
+From: 04 Feb 2014,To: 04 Feb 2014,Orthodox,FY 2014,7,Eritrea,4,552
+From: 04 Feb 2014,To: 04 Feb 2014,Orthodox,FY 2014,7,Iraq,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Pentecostalist,FY 2014,43,Cuba,3,552
+From: 04 Feb 2014,To: 04 Feb 2014,Pentecostalist,FY 2014,43,Dem. Rep. Congo,40,552
+From: 04 Feb 2014,To: 04 Feb 2014,Protestant,FY 2014,5,Dem. Rep. Congo,1,552
+From: 04 Feb 2014,To: 04 Feb 2014,Protestant,FY 2014,5,Iran,4,552
+From: 04 Feb 2014,To: 04 Feb 2014,Seventh Day Adventist,FY 2014,8,Dem. Rep. Congo,8,552
+From: 04 Feb 2014,To: 04 Feb 2014,Zoroastrian,FY 2014,1,Iran,1,552
+

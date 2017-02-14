@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Nov 2003,To: 18 Nov 2003,Afghanistan,FY 2004,29,Moslem,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Afghanistan,FY 2004,29,Moslem Shiite,6,205
+From: 18 Nov 2003,To: 18 Nov 2003,Afghanistan,FY 2004,29,Moslem Suni,22,205
+From: 18 Nov 2003,To: 18 Nov 2003,Azerbaijan,FY 2004,5,Jewish,5,205
+From: 18 Nov 2003,To: 18 Nov 2003,Chad,FY 2004,3,Moslem,3,205
+From: 18 Nov 2003,To: 18 Nov 2003,Ethiopia,FY 2004,41,Christian,16,205
+From: 18 Nov 2003,To: 18 Nov 2003,Ethiopia,FY 2004,41,Moslem,19,205
+From: 18 Nov 2003,To: 18 Nov 2003,Ethiopia,FY 2004,41,Orthodox,5,205
+From: 18 Nov 2003,To: 18 Nov 2003,Ethiopia,FY 2004,41,Protestant,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Iran,FY 2004,10,Catholic,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Iran,FY 2004,10,Christian,9,205
+From: 18 Nov 2003,To: 18 Nov 2003,Lebanon,FY 2004,1,Moslem,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Liberia,FY 2004,35,Baptist,11,205
+From: 18 Nov 2003,To: 18 Nov 2003,Liberia,FY 2004,35,Christian,23,205
+From: 18 Nov 2003,To: 18 Nov 2003,Liberia,FY 2004,35,Pentecostalist,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Russia,FY 2004,30,Baptist,8,205
+From: 18 Nov 2003,To: 18 Nov 2003,Russia,FY 2004,30,Jewish,10,205
+From: 18 Nov 2003,To: 18 Nov 2003,Russia,FY 2004,30,No Religion,5,205
+From: 18 Nov 2003,To: 18 Nov 2003,Russia,FY 2004,30,Pentecostalist,2,205
+From: 18 Nov 2003,To: 18 Nov 2003,Russia,FY 2004,30,Seventh Day Adventist,3,205
+From: 18 Nov 2003,To: 18 Nov 2003,Russia,FY 2004,30,Unknown,2,205
+From: 18 Nov 2003,To: 18 Nov 2003,Somalia,FY 2004,16,Moslem,16,205
+From: 18 Nov 2003,To: 18 Nov 2003,Ukraine,FY 2004,35,Baptist,31,205
+From: 18 Nov 2003,To: 18 Nov 2003,Ukraine,FY 2004,35,Pentecostalist,4,205
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Nov 2003,To: 18 Nov 2003,Baptist,FY 2004,50,Liberia,11,205
+From: 18 Nov 2003,To: 18 Nov 2003,Baptist,FY 2004,50,Russia,8,205
+From: 18 Nov 2003,To: 18 Nov 2003,Baptist,FY 2004,50,Ukraine,31,205
+From: 18 Nov 2003,To: 18 Nov 2003,Catholic,FY 2004,1,Iran,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Christian,FY 2004,48,Ethiopia,16,205
+From: 18 Nov 2003,To: 18 Nov 2003,Christian,FY 2004,48,Iran,9,205
+From: 18 Nov 2003,To: 18 Nov 2003,Christian,FY 2004,48,Liberia,23,205
+From: 18 Nov 2003,To: 18 Nov 2003,Jewish,FY 2004,15,Azerbaijan,5,205
+From: 18 Nov 2003,To: 18 Nov 2003,Jewish,FY 2004,15,Russia,10,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem,FY 2004,40,Afghanistan,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem,FY 2004,40,Chad,3,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem,FY 2004,40,Ethiopia,19,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem,FY 2004,40,Lebanon,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem,FY 2004,40,Somalia,16,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem Shiite,FY 2004,6,Afghanistan,6,205
+From: 18 Nov 2003,To: 18 Nov 2003,Moslem Suni,FY 2004,22,Afghanistan,22,205
+From: 18 Nov 2003,To: 18 Nov 2003,No Religion,FY 2004,5,Russia,5,205
+From: 18 Nov 2003,To: 18 Nov 2003,Orthodox,FY 2004,5,Ethiopia,5,205
+From: 18 Nov 2003,To: 18 Nov 2003,Pentecostalist,FY 2004,7,Liberia,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Pentecostalist,FY 2004,7,Russia,2,205
+From: 18 Nov 2003,To: 18 Nov 2003,Pentecostalist,FY 2004,7,Ukraine,4,205
+From: 18 Nov 2003,To: 18 Nov 2003,Protestant,FY 2004,1,Ethiopia,1,205
+From: 18 Nov 2003,To: 18 Nov 2003,Seventh Day Adventist,FY 2004,3,Russia,3,205
+From: 18 Nov 2003,To: 18 Nov 2003,Unknown,FY 2004,2,Russia,2,205
+

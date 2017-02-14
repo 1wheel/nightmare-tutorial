@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Mar 2007,To: 19 Mar 2007,Armenia,FY 2007,3,Pentecostalist,3,133
+From: 19 Mar 2007,To: 19 Mar 2007,Dem. Rep. Congo,FY 2007,35,Pentecostalist,8,133
+From: 19 Mar 2007,To: 19 Mar 2007,Dem. Rep. Congo,FY 2007,35,Protestant,27,133
+From: 19 Mar 2007,To: 19 Mar 2007,Ethiopia,FY 2007,12,Christian,6,133
+From: 19 Mar 2007,To: 19 Mar 2007,Ethiopia,FY 2007,12,Moslem,3,133
+From: 19 Mar 2007,To: 19 Mar 2007,Ethiopia,FY 2007,12,Orthodox,3,133
+From: 19 Mar 2007,To: 19 Mar 2007,Moldova,FY 2007,32,Baptist,10,133
+From: 19 Mar 2007,To: 19 Mar 2007,Moldova,FY 2007,32,Pentecostalist,22,133
+From: 19 Mar 2007,To: 19 Mar 2007,Russia,FY 2007,10,Moslem,10,133
+From: 19 Mar 2007,To: 19 Mar 2007,Somalia,FY 2007,22,Moslem,22,133
+From: 19 Mar 2007,To: 19 Mar 2007,Ukraine,FY 2007,19,Baptist,8,133
+From: 19 Mar 2007,To: 19 Mar 2007,Ukraine,FY 2007,19,Pentecostalist,11,133
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Mar 2007,To: 19 Mar 2007,Baptist,FY 2007,18,Moldova,10,133
+From: 19 Mar 2007,To: 19 Mar 2007,Baptist,FY 2007,18,Ukraine,8,133
+From: 19 Mar 2007,To: 19 Mar 2007,Christian,FY 2007,6,Ethiopia,6,133
+From: 19 Mar 2007,To: 19 Mar 2007,Moslem,FY 2007,35,Ethiopia,3,133
+From: 19 Mar 2007,To: 19 Mar 2007,Moslem,FY 2007,35,Russia,10,133
+From: 19 Mar 2007,To: 19 Mar 2007,Moslem,FY 2007,35,Somalia,22,133
+From: 19 Mar 2007,To: 19 Mar 2007,Orthodox,FY 2007,3,Ethiopia,3,133
+From: 19 Mar 2007,To: 19 Mar 2007,Pentecostalist,FY 2007,44,Armenia,3,133
+From: 19 Mar 2007,To: 19 Mar 2007,Pentecostalist,FY 2007,44,Dem. Rep. Congo,8,133
+From: 19 Mar 2007,To: 19 Mar 2007,Pentecostalist,FY 2007,44,Moldova,22,133
+From: 19 Mar 2007,To: 19 Mar 2007,Pentecostalist,FY 2007,44,Ukraine,11,133
+From: 19 Mar 2007,To: 19 Mar 2007,Protestant,FY 2007,27,Dem. Rep. Congo,27,133
+

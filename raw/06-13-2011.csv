@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jun 2011,To: 13 Jun 2011,Afghanistan,FY 2011,5,Moslem Shiite,5,182
+From: 13 Jun 2011,To: 13 Jun 2011,Bhutan,FY 2011,72,Buddhist,11,182
+From: 13 Jun 2011,To: 13 Jun 2011,Bhutan,FY 2011,72,Christian,7,182
+From: 13 Jun 2011,To: 13 Jun 2011,Bhutan,FY 2011,72,Hindu,54,182
+From: 13 Jun 2011,To: 13 Jun 2011,Burma,FY 2011,66,Baptist,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Burma,FY 2011,66,Buddhist,2,182
+From: 13 Jun 2011,To: 13 Jun 2011,Burma,FY 2011,66,Catholic,4,182
+From: 13 Jun 2011,To: 13 Jun 2011,Burma,FY 2011,66,Christian,59,182
+From: 13 Jun 2011,To: 13 Jun 2011,Iran,FY 2011,1,Protestant,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Iraq,FY 2011,11,Moslem Shiite,4,182
+From: 13 Jun 2011,To: 13 Jun 2011,Iraq,FY 2011,11,Moslem Suni,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Iraq,FY 2011,11,Sabeans-Mandean,6,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moldova,FY 2011,26,Baptist,16,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moldova,FY 2011,26,Jehovah Witness,4,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moldova,FY 2011,26,Pentecostalist,6,182
+From: 13 Jun 2011,To: 13 Jun 2011,Sudan,FY 2011,1,Moslem,1,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jun 2011,To: 13 Jun 2011,Baptist,FY 2011,17,Burma,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Baptist,FY 2011,17,Moldova,16,182
+From: 13 Jun 2011,To: 13 Jun 2011,Buddhist,FY 2011,13,Bhutan,11,182
+From: 13 Jun 2011,To: 13 Jun 2011,Buddhist,FY 2011,13,Burma,2,182
+From: 13 Jun 2011,To: 13 Jun 2011,Catholic,FY 2011,4,Burma,4,182
+From: 13 Jun 2011,To: 13 Jun 2011,Christian,FY 2011,66,Bhutan,7,182
+From: 13 Jun 2011,To: 13 Jun 2011,Christian,FY 2011,66,Burma,59,182
+From: 13 Jun 2011,To: 13 Jun 2011,Hindu,FY 2011,54,Bhutan,54,182
+From: 13 Jun 2011,To: 13 Jun 2011,Jehovah Witness,FY 2011,4,Moldova,4,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moslem,FY 2011,1,Sudan,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moslem Shiite,FY 2011,9,Afghanistan,5,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moslem Shiite,FY 2011,9,Iraq,4,182
+From: 13 Jun 2011,To: 13 Jun 2011,Moslem Suni,FY 2011,1,Iraq,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Pentecostalist,FY 2011,6,Moldova,6,182
+From: 13 Jun 2011,To: 13 Jun 2011,Protestant,FY 2011,1,Iran,1,182
+From: 13 Jun 2011,To: 13 Jun 2011,Sabeans-Mandean,FY 2011,6,Iraq,6,182
+

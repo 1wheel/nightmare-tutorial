@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Mar 2006,To: 14 Mar 2006,Armenia,FY 2006,2,Pentecostalist,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Azerbaijan,FY 2006,6,Jewish,6,338
+From: 14 Mar 2006,To: 14 Mar 2006,Burundi,FY 2006,3,Christian,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Cuba,FY 2006,44,Baptist,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Cuba,FY 2006,44,Catholic,24,338
+From: 14 Mar 2006,To: 14 Mar 2006,Cuba,FY 2006,44,Evangelical Christian,1,338
+From: 14 Mar 2006,To: 14 Mar 2006,Cuba,FY 2006,44,Jehovah Witness,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Cuba,FY 2006,44,No Religion,13,338
+From: 14 Mar 2006,To: 14 Mar 2006,Dem. Rep. Congo,FY 2006,33,Catholic,6,338
+From: 14 Mar 2006,To: 14 Mar 2006,Dem. Rep. Congo,FY 2006,33,Christian,8,338
+From: 14 Mar 2006,To: 14 Mar 2006,Dem. Rep. Congo,FY 2006,33,Lutheran,9,338
+From: 14 Mar 2006,To: 14 Mar 2006,Dem. Rep. Congo,FY 2006,33,Pentecostalist,10,338
+From: 14 Mar 2006,To: 14 Mar 2006,Ethiopia,FY 2006,1,Orthodox,1,338
+From: 14 Mar 2006,To: 14 Mar 2006,Ivory Coast,FY 2006,3,Christian,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Laos,FY 2006,33,Ancestral Worship,33,338
+From: 14 Mar 2006,To: 14 Mar 2006,Liberia,FY 2006,34,Christian,27,338
+From: 14 Mar 2006,To: 14 Mar 2006,Liberia,FY 2006,34,Methodist,7,338
+From: 14 Mar 2006,To: 14 Mar 2006,Russia,FY 2006,55,Baptist,19,338
+From: 14 Mar 2006,To: 14 Mar 2006,Russia,FY 2006,55,Jewish,6,338
+From: 14 Mar 2006,To: 14 Mar 2006,Russia,FY 2006,55,Moslem,30,338
+From: 14 Mar 2006,To: 14 Mar 2006,Sierra Leone,FY 2006,2,Moslem,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Somalia,FY 2006,91,Moslem,91,338
+From: 14 Mar 2006,To: 14 Mar 2006,Sudan,FY 2006,12,Catholic,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Sudan,FY 2006,12,Moslem,10,338
+From: 14 Mar 2006,To: 14 Mar 2006,Vietnam,FY 2006,19,Buddhist,9,338
+From: 14 Mar 2006,To: 14 Mar 2006,Vietnam,FY 2006,19,Catholic,5,338
+From: 14 Mar 2006,To: 14 Mar 2006,Vietnam,FY 2006,19,Other Religion,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Vietnam,FY 2006,19,Protestant,3,338
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Mar 2006,To: 14 Mar 2006,Ancestral Worship,FY 2006,33,Laos,33,338
+From: 14 Mar 2006,To: 14 Mar 2006,Baptist,FY 2006,22,Cuba,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Baptist,FY 2006,22,Russia,19,338
+From: 14 Mar 2006,To: 14 Mar 2006,Buddhist,FY 2006,9,Vietnam,9,338
+From: 14 Mar 2006,To: 14 Mar 2006,Catholic,FY 2006,37,Cuba,24,338
+From: 14 Mar 2006,To: 14 Mar 2006,Catholic,FY 2006,37,Dem. Rep. Congo,6,338
+From: 14 Mar 2006,To: 14 Mar 2006,Catholic,FY 2006,37,Sudan,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Catholic,FY 2006,37,Vietnam,5,338
+From: 14 Mar 2006,To: 14 Mar 2006,Christian,FY 2006,41,Burundi,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Christian,FY 2006,41,Dem. Rep. Congo,8,338
+From: 14 Mar 2006,To: 14 Mar 2006,Christian,FY 2006,41,Ivory Coast,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Christian,FY 2006,41,Liberia,27,338
+From: 14 Mar 2006,To: 14 Mar 2006,Evangelical Christian,FY 2006,1,Cuba,1,338
+From: 14 Mar 2006,To: 14 Mar 2006,Jehovah Witness,FY 2006,3,Cuba,3,338
+From: 14 Mar 2006,To: 14 Mar 2006,Jewish,FY 2006,12,Azerbaijan,6,338
+From: 14 Mar 2006,To: 14 Mar 2006,Jewish,FY 2006,12,Russia,6,338
+From: 14 Mar 2006,To: 14 Mar 2006,Lutheran,FY 2006,9,Dem. Rep. Congo,9,338
+From: 14 Mar 2006,To: 14 Mar 2006,Methodist,FY 2006,7,Liberia,7,338
+From: 14 Mar 2006,To: 14 Mar 2006,Moslem,FY 2006,133,Russia,30,338
+From: 14 Mar 2006,To: 14 Mar 2006,Moslem,FY 2006,133,Sierra Leone,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Moslem,FY 2006,133,Somalia,91,338
+From: 14 Mar 2006,To: 14 Mar 2006,Moslem,FY 2006,133,Sudan,10,338
+From: 14 Mar 2006,To: 14 Mar 2006,No Religion,FY 2006,13,Cuba,13,338
+From: 14 Mar 2006,To: 14 Mar 2006,Orthodox,FY 2006,1,Ethiopia,1,338
+From: 14 Mar 2006,To: 14 Mar 2006,Other Religion,FY 2006,2,Vietnam,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Pentecostalist,FY 2006,12,Armenia,2,338
+From: 14 Mar 2006,To: 14 Mar 2006,Pentecostalist,FY 2006,12,Dem. Rep. Congo,10,338
+From: 14 Mar 2006,To: 14 Mar 2006,Protestant,FY 2006,3,Vietnam,3,338
+

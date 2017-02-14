@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2006,To: 19 Apr 2006,Belarus,FY 2006,17,Jewish,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Belarus,FY 2006,17,Pentecostalist,7,126
+From: 19 Apr 2006,To: 19 Apr 2006,Burma,FY 2006,8,Christian,8,126
+From: 19 Apr 2006,To: 19 Apr 2006,China,FY 2006,4,Buddhist,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Ethiopia,FY 2006,10,Moslem,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Iraq,FY 2006,1,Catholic,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Laos,FY 2006,13,Ancestral Worship,13,126
+From: 19 Apr 2006,To: 19 Apr 2006,Russia,FY 2006,43,Moslem,43,126
+From: 19 Apr 2006,To: 19 Apr 2006,Somalia,FY 2006,13,Moslem,13,126
+From: 19 Apr 2006,To: 19 Apr 2006,Uzbekistan,FY 2006,17,Moslem,16,126
+From: 19 Apr 2006,To: 19 Apr 2006,Uzbekistan,FY 2006,17,Moslem Suni,1,126
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2006,To: 19 Apr 2006,Ancestral Worship,FY 2006,13,Laos,13,126
+From: 19 Apr 2006,To: 19 Apr 2006,Buddhist,FY 2006,4,China,4,126
+From: 19 Apr 2006,To: 19 Apr 2006,Catholic,FY 2006,1,Iraq,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Christian,FY 2006,8,Burma,8,126
+From: 19 Apr 2006,To: 19 Apr 2006,Jewish,FY 2006,10,Belarus,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Moslem,FY 2006,82,Ethiopia,10,126
+From: 19 Apr 2006,To: 19 Apr 2006,Moslem,FY 2006,82,Russia,43,126
+From: 19 Apr 2006,To: 19 Apr 2006,Moslem,FY 2006,82,Somalia,13,126
+From: 19 Apr 2006,To: 19 Apr 2006,Moslem,FY 2006,82,Uzbekistan,16,126
+From: 19 Apr 2006,To: 19 Apr 2006,Moslem Suni,FY 2006,1,Uzbekistan,1,126
+From: 19 Apr 2006,To: 19 Apr 2006,Pentecostalist,FY 2006,7,Belarus,7,126
+

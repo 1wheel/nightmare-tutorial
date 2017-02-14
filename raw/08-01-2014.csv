@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Aug 2014,To: 01 Aug 2014,Eritrea,FY 2014,2,Orthodox,2,23
+From: 01 Aug 2014,To: 01 Aug 2014,Iraq,FY 2014,12,Baptist,1,23
+From: 01 Aug 2014,To: 01 Aug 2014,Iraq,FY 2014,12,Moslem Shiite,6,23
+From: 01 Aug 2014,To: 01 Aug 2014,Iraq,FY 2014,12,Moslem Suni,5,23
+From: 01 Aug 2014,To: 01 Aug 2014,Somalia,FY 2014,9,Moslem,9,23
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Aug 2014,To: 01 Aug 2014,Baptist,FY 2014,1,Iraq,1,23
+From: 01 Aug 2014,To: 01 Aug 2014,Moslem,FY 2014,9,Somalia,9,23
+From: 01 Aug 2014,To: 01 Aug 2014,Moslem Shiite,FY 2014,6,Iraq,6,23
+From: 01 Aug 2014,To: 01 Aug 2014,Moslem Suni,FY 2014,5,Iraq,5,23
+From: 01 Aug 2014,To: 01 Aug 2014,Orthodox,FY 2014,2,Eritrea,2,23
+

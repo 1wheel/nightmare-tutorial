@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Nov 2005,To: 21 Nov 2005,Eritrea,FY 2006,1,Orthodox,1,203
+From: 21 Nov 2005,To: 21 Nov 2005,Liberia,FY 2006,20,Christian,4,203
+From: 21 Nov 2005,To: 21 Nov 2005,Liberia,FY 2006,20,Moslem,16,203
+From: 21 Nov 2005,To: 21 Nov 2005,Russia,FY 2006,46,Moslem,46,203
+From: 21 Nov 2005,To: 21 Nov 2005,Somalia,FY 2006,33,Moslem,33,203
+From: 21 Nov 2005,To: 21 Nov 2005,Ukraine,FY 2006,30,Baptist,5,203
+From: 21 Nov 2005,To: 21 Nov 2005,Ukraine,FY 2006,30,Pentecostalist,7,203
+From: 21 Nov 2005,To: 21 Nov 2005,Ukraine,FY 2006,30,Seventh Day Adventist,2,203
+From: 21 Nov 2005,To: 21 Nov 2005,Ukraine,FY 2006,30,Uniate,16,203
+From: 21 Nov 2005,To: 21 Nov 2005,Uzbekistan,FY 2006,6,Christian,1,203
+From: 21 Nov 2005,To: 21 Nov 2005,Uzbekistan,FY 2006,6,Jewish,2,203
+From: 21 Nov 2005,To: 21 Nov 2005,Uzbekistan,FY 2006,6,No Religion,3,203
+From: 21 Nov 2005,To: 21 Nov 2005,Vietnam,FY 2006,67,Buddhist,57,203
+From: 21 Nov 2005,To: 21 Nov 2005,Vietnam,FY 2006,67,Catholic,4,203
+From: 21 Nov 2005,To: 21 Nov 2005,Vietnam,FY 2006,67,Protestant,6,203
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Nov 2005,To: 21 Nov 2005,Baptist,FY 2006,5,Ukraine,5,203
+From: 21 Nov 2005,To: 21 Nov 2005,Buddhist,FY 2006,57,Vietnam,57,203
+From: 21 Nov 2005,To: 21 Nov 2005,Catholic,FY 2006,4,Vietnam,4,203
+From: 21 Nov 2005,To: 21 Nov 2005,Christian,FY 2006,5,Liberia,4,203
+From: 21 Nov 2005,To: 21 Nov 2005,Christian,FY 2006,5,Uzbekistan,1,203
+From: 21 Nov 2005,To: 21 Nov 2005,Jewish,FY 2006,2,Uzbekistan,2,203
+From: 21 Nov 2005,To: 21 Nov 2005,Moslem,FY 2006,95,Liberia,16,203
+From: 21 Nov 2005,To: 21 Nov 2005,Moslem,FY 2006,95,Russia,46,203
+From: 21 Nov 2005,To: 21 Nov 2005,Moslem,FY 2006,95,Somalia,33,203
+From: 21 Nov 2005,To: 21 Nov 2005,No Religion,FY 2006,3,Uzbekistan,3,203
+From: 21 Nov 2005,To: 21 Nov 2005,Orthodox,FY 2006,1,Eritrea,1,203
+From: 21 Nov 2005,To: 21 Nov 2005,Pentecostalist,FY 2006,7,Ukraine,7,203
+From: 21 Nov 2005,To: 21 Nov 2005,Protestant,FY 2006,6,Vietnam,6,203
+From: 21 Nov 2005,To: 21 Nov 2005,Seventh Day Adventist,FY 2006,2,Ukraine,2,203
+From: 21 Nov 2005,To: 21 Nov 2005,Uniate,FY 2006,16,Ukraine,16,203
+

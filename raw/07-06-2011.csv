@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jul 2011,To: 06 Jul 2011,Bhutan,FY 2011,146,Buddhist,43,421
+From: 06 Jul 2011,To: 06 Jul 2011,Bhutan,FY 2011,146,Christian,7,421
+From: 06 Jul 2011,To: 06 Jul 2011,Bhutan,FY 2011,146,Hindu,68,421
+From: 06 Jul 2011,To: 06 Jul 2011,Bhutan,FY 2011,146,Kirat,28,421
+From: 06 Jul 2011,To: 06 Jul 2011,Burma,FY 2011,209,Baptist,12,421
+From: 06 Jul 2011,To: 06 Jul 2011,Burma,FY 2011,209,Buddhist,30,421
+From: 06 Jul 2011,To: 06 Jul 2011,Burma,FY 2011,209,Catholic,11,421
+From: 06 Jul 2011,To: 06 Jul 2011,Burma,FY 2011,209,Christian,151,421
+From: 06 Jul 2011,To: 06 Jul 2011,Burma,FY 2011,209,Moslem,5,421
+From: 06 Jul 2011,To: 06 Jul 2011,Burundi,FY 2011,3,Seventh Day Adventist,3,421
+From: 06 Jul 2011,To: 06 Jul 2011,China,FY 2011,4,Buddhist,3,421
+From: 06 Jul 2011,To: 06 Jul 2011,China,FY 2011,4,Moslem,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Dem. Rep. Congo,FY 2011,1,Pentecostalist,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Eritrea,FY 2011,9,Orthodox,7,421
+From: 06 Jul 2011,To: 06 Jul 2011,Eritrea,FY 2011,9,Protestant,2,421
+From: 06 Jul 2011,To: 06 Jul 2011,Ghana,FY 2011,1,Unknown,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Iraq,FY 2011,28,Christian,6,421
+From: 06 Jul 2011,To: 06 Jul 2011,Iraq,FY 2011,28,Moslem,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Iraq,FY 2011,28,Moslem Shiite,13,421
+From: 06 Jul 2011,To: 06 Jul 2011,Iraq,FY 2011,28,Moslem Suni,2,421
+From: 06 Jul 2011,To: 06 Jul 2011,Iraq,FY 2011,28,Orthodox,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Iraq,FY 2011,28,Sabeans-Mandean,5,421
+From: 06 Jul 2011,To: 06 Jul 2011,Palestine,FY 2011,3,Moslem Shiite,2,421
+From: 06 Jul 2011,To: 06 Jul 2011,Palestine,FY 2011,3,Moslem Suni,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Somalia,FY 2011,12,Moslem,12,421
+From: 06 Jul 2011,To: 06 Jul 2011,Sudan,FY 2011,2,Christian,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Sudan,FY 2011,2,Moslem,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Uzbekistan,FY 2011,3,Jehovah Witness,3,421
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jul 2011,To: 06 Jul 2011,Baptist,FY 2011,12,Burma,12,421
+From: 06 Jul 2011,To: 06 Jul 2011,Buddhist,FY 2011,76,Bhutan,43,421
+From: 06 Jul 2011,To: 06 Jul 2011,Buddhist,FY 2011,76,Burma,30,421
+From: 06 Jul 2011,To: 06 Jul 2011,Buddhist,FY 2011,76,China,3,421
+From: 06 Jul 2011,To: 06 Jul 2011,Catholic,FY 2011,11,Burma,11,421
+From: 06 Jul 2011,To: 06 Jul 2011,Christian,FY 2011,165,Bhutan,7,421
+From: 06 Jul 2011,To: 06 Jul 2011,Christian,FY 2011,165,Burma,151,421
+From: 06 Jul 2011,To: 06 Jul 2011,Christian,FY 2011,165,Iraq,6,421
+From: 06 Jul 2011,To: 06 Jul 2011,Christian,FY 2011,165,Sudan,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Hindu,FY 2011,68,Bhutan,68,421
+From: 06 Jul 2011,To: 06 Jul 2011,Jehovah Witness,FY 2011,3,Uzbekistan,3,421
+From: 06 Jul 2011,To: 06 Jul 2011,Kirat,FY 2011,28,Bhutan,28,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem,FY 2011,20,Burma,5,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem,FY 2011,20,China,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem,FY 2011,20,Iraq,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem,FY 2011,20,Somalia,12,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem,FY 2011,20,Sudan,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem Shiite,FY 2011,15,Iraq,13,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem Shiite,FY 2011,15,Palestine,2,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem Suni,FY 2011,3,Iraq,2,421
+From: 06 Jul 2011,To: 06 Jul 2011,Moslem Suni,FY 2011,3,Palestine,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Orthodox,FY 2011,8,Eritrea,7,421
+From: 06 Jul 2011,To: 06 Jul 2011,Orthodox,FY 2011,8,Iraq,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Pentecostalist,FY 2011,1,Dem. Rep. Congo,1,421
+From: 06 Jul 2011,To: 06 Jul 2011,Protestant,FY 2011,2,Eritrea,2,421
+From: 06 Jul 2011,To: 06 Jul 2011,Sabeans-Mandean,FY 2011,5,Iraq,5,421
+From: 06 Jul 2011,To: 06 Jul 2011,Seventh Day Adventist,FY 2011,3,Burundi,3,421
+From: 06 Jul 2011,To: 06 Jul 2011,Unknown,FY 2011,1,Ghana,1,421
+

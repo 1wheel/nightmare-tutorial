@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Oct 2004,To: 29 Oct 2004,Afghanistan,FY 2005,2,Moslem Suni,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Azerbaijan,FY 2005,7,Unknown,7,257
+From: 29 Oct 2004,To: 29 Oct 2004,Dem. Rep. Congo,FY 2005,5,Catholic,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Dem. Rep. Congo,FY 2005,5,Christian,3,257
+From: 29 Oct 2004,To: 29 Oct 2004,Ethiopia,FY 2005,16,Christian,8,257
+From: 29 Oct 2004,To: 29 Oct 2004,Ethiopia,FY 2005,16,Moslem,8,257
+From: 29 Oct 2004,To: 29 Oct 2004,India,FY 2005,1,Moslem Suni,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Iran,FY 2005,3,Moslem Shiite,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Iran,FY 2005,3,Other Religion,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Kazakhstan,FY 2005,6,Jewish,5,257
+From: 29 Oct 2004,To: 29 Oct 2004,Kazakhstan,FY 2005,6,Orthodox,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Laos,FY 2005,46,Ancestral Worship,46,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moldova,FY 2005,35,Baptist,20,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moldova,FY 2005,35,Jehovah Witness,10,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moldova,FY 2005,35,Pentecostalist,5,257
+From: 29 Oct 2004,To: 29 Oct 2004,Russia,FY 2005,13,Baptist,3,257
+From: 29 Oct 2004,To: 29 Oct 2004,Russia,FY 2005,13,Jewish,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Russia,FY 2005,13,No Religion,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Russia,FY 2005,13,Pentecostalist,6,257
+From: 29 Oct 2004,To: 29 Oct 2004,Somalia,FY 2005,57,Moslem,47,257
+From: 29 Oct 2004,To: 29 Oct 2004,Somalia,FY 2005,57,Moslem Suni,10,257
+From: 29 Oct 2004,To: 29 Oct 2004,Sudan,FY 2005,30,Catholic,18,257
+From: 29 Oct 2004,To: 29 Oct 2004,Sudan,FY 2005,30,Evangelical Christian,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Sudan,FY 2005,30,Moslem,10,257
+From: 29 Oct 2004,To: 29 Oct 2004,Tajikistan,FY 2005,6,Baptist,6,257
+From: 29 Oct 2004,To: 29 Oct 2004,Ukraine,FY 2005,30,Baptist,12,257
+From: 29 Oct 2004,To: 29 Oct 2004,Ukraine,FY 2005,30,Jewish,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Ukraine,FY 2005,30,Pentecostalist,17,257
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Oct 2004,To: 29 Oct 2004,Ancestral Worship,FY 2005,46,Laos,46,257
+From: 29 Oct 2004,To: 29 Oct 2004,Baptist,FY 2005,41,Moldova,20,257
+From: 29 Oct 2004,To: 29 Oct 2004,Baptist,FY 2005,41,Russia,3,257
+From: 29 Oct 2004,To: 29 Oct 2004,Baptist,FY 2005,41,Tajikistan,6,257
+From: 29 Oct 2004,To: 29 Oct 2004,Baptist,FY 2005,41,Ukraine,12,257
+From: 29 Oct 2004,To: 29 Oct 2004,Catholic,FY 2005,20,Dem. Rep. Congo,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Catholic,FY 2005,20,Sudan,18,257
+From: 29 Oct 2004,To: 29 Oct 2004,Christian,FY 2005,11,Dem. Rep. Congo,3,257
+From: 29 Oct 2004,To: 29 Oct 2004,Christian,FY 2005,11,Ethiopia,8,257
+From: 29 Oct 2004,To: 29 Oct 2004,Evangelical Christian,FY 2005,2,Sudan,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Jehovah Witness,FY 2005,10,Moldova,10,257
+From: 29 Oct 2004,To: 29 Oct 2004,Jewish,FY 2005,8,Kazakhstan,5,257
+From: 29 Oct 2004,To: 29 Oct 2004,Jewish,FY 2005,8,Russia,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Jewish,FY 2005,8,Ukraine,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem,FY 2005,65,Ethiopia,8,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem,FY 2005,65,Somalia,47,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem,FY 2005,65,Sudan,10,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem Shiite,FY 2005,2,Iran,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem Suni,FY 2005,13,Afghanistan,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem Suni,FY 2005,13,India,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Moslem Suni,FY 2005,13,Somalia,10,257
+From: 29 Oct 2004,To: 29 Oct 2004,No Religion,FY 2005,2,Russia,2,257
+From: 29 Oct 2004,To: 29 Oct 2004,Orthodox,FY 2005,1,Kazakhstan,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Other Religion,FY 2005,1,Iran,1,257
+From: 29 Oct 2004,To: 29 Oct 2004,Pentecostalist,FY 2005,28,Moldova,5,257
+From: 29 Oct 2004,To: 29 Oct 2004,Pentecostalist,FY 2005,28,Russia,6,257
+From: 29 Oct 2004,To: 29 Oct 2004,Pentecostalist,FY 2005,28,Ukraine,17,257
+From: 29 Oct 2004,To: 29 Oct 2004,Unknown,FY 2005,7,Azerbaijan,7,257
+

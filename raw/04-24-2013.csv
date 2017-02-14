@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Apr 2013,To: 24 Apr 2013,Afghanistan,FY 2013,11,Moslem Suni,11,421
+From: 24 Apr 2013,To: 24 Apr 2013,Bhutan,FY 2013,109,Buddhist,46,421
+From: 24 Apr 2013,To: 24 Apr 2013,Bhutan,FY 2013,109,Hindu,50,421
+From: 24 Apr 2013,To: 24 Apr 2013,Bhutan,FY 2013,109,Kirat,13,421
+From: 24 Apr 2013,To: 24 Apr 2013,Burma,FY 2013,104,Baptist,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Burma,FY 2013,104,Buddhist,29,421
+From: 24 Apr 2013,To: 24 Apr 2013,Burma,FY 2013,104,Christian,69,421
+From: 24 Apr 2013,To: 24 Apr 2013,Burma,FY 2013,104,Moslem,5,421
+From: 24 Apr 2013,To: 24 Apr 2013,Burundi,FY 2013,1,Pentecostalist,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Central African Republic,FY 2013,7,Catholic,7,421
+From: 24 Apr 2013,To: 24 Apr 2013,Chad,FY 2013,1,Catholic,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Dem. Rep. Congo,FY 2013,15,Christian,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Dem. Rep. Congo,FY 2013,15,Moslem,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Dem. Rep. Congo,FY 2013,15,Protestant,9,421
+From: 24 Apr 2013,To: 24 Apr 2013,Dem. Rep. Congo,FY 2013,15,Unknown,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Eritrea,FY 2013,9,Orthodox,6,421
+From: 24 Apr 2013,To: 24 Apr 2013,Eritrea,FY 2013,9,Pentecostalist,3,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iran,FY 2013,9,Bahai,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iran,FY 2013,9,Christian,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iran,FY 2013,9,Protestant,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iraq,FY 2013,63,Catholic,6,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iraq,FY 2013,63,Christian,3,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iraq,FY 2013,63,Moslem,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iraq,FY 2013,63,Moslem Shiite,33,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iraq,FY 2013,63,Moslem Suni,14,421
+From: 24 Apr 2013,To: 24 Apr 2013,Iraq,FY 2013,63,Orthodox,6,421
+From: 24 Apr 2013,To: 24 Apr 2013,Palestine,FY 2013,4,Moslem Suni,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Russia,FY 2013,5,Jewish,5,421
+From: 24 Apr 2013,To: 24 Apr 2013,Somalia,FY 2013,72,Moslem,72,421
+From: 24 Apr 2013,To: 24 Apr 2013,Sri Lanka (Ceylon),FY 2013,11,Catholic,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Sri Lanka (Ceylon),FY 2013,11,Christian,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Sri Lanka (Ceylon),FY 2013,11,Hindu,9,421
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Apr 2013,To: 24 Apr 2013,Bahai,FY 2013,4,Iran,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Baptist,FY 2013,1,Burma,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Buddhist,FY 2013,75,Bhutan,46,421
+From: 24 Apr 2013,To: 24 Apr 2013,Buddhist,FY 2013,75,Burma,29,421
+From: 24 Apr 2013,To: 24 Apr 2013,Catholic,FY 2013,15,Central African Republic,7,421
+From: 24 Apr 2013,To: 24 Apr 2013,Catholic,FY 2013,15,Chad,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Catholic,FY 2013,15,Iraq,6,421
+From: 24 Apr 2013,To: 24 Apr 2013,Catholic,FY 2013,15,Sri Lanka (Ceylon),1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Christian,FY 2013,78,Burma,69,421
+From: 24 Apr 2013,To: 24 Apr 2013,Christian,FY 2013,78,Dem. Rep. Congo,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Christian,FY 2013,78,Iran,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Christian,FY 2013,78,Iraq,3,421
+From: 24 Apr 2013,To: 24 Apr 2013,Christian,FY 2013,78,Sri Lanka (Ceylon),1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Hindu,FY 2013,59,Bhutan,50,421
+From: 24 Apr 2013,To: 24 Apr 2013,Hindu,FY 2013,59,Sri Lanka (Ceylon),9,421
+From: 24 Apr 2013,To: 24 Apr 2013,Jewish,FY 2013,5,Russia,5,421
+From: 24 Apr 2013,To: 24 Apr 2013,Kirat,FY 2013,13,Bhutan,13,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem,FY 2013,79,Burma,5,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem,FY 2013,79,Dem. Rep. Congo,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem,FY 2013,79,Iraq,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem,FY 2013,79,Somalia,72,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem Shiite,FY 2013,33,Iraq,33,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem Suni,FY 2013,29,Afghanistan,11,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem Suni,FY 2013,29,Iraq,14,421
+From: 24 Apr 2013,To: 24 Apr 2013,Moslem Suni,FY 2013,29,Palestine,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Orthodox,FY 2013,12,Eritrea,6,421
+From: 24 Apr 2013,To: 24 Apr 2013,Orthodox,FY 2013,12,Iraq,6,421
+From: 24 Apr 2013,To: 24 Apr 2013,Pentecostalist,FY 2013,4,Burundi,1,421
+From: 24 Apr 2013,To: 24 Apr 2013,Pentecostalist,FY 2013,4,Eritrea,3,421
+From: 24 Apr 2013,To: 24 Apr 2013,Protestant,FY 2013,13,Dem. Rep. Congo,9,421
+From: 24 Apr 2013,To: 24 Apr 2013,Protestant,FY 2013,13,Iran,4,421
+From: 24 Apr 2013,To: 24 Apr 2013,Unknown,FY 2013,1,Dem. Rep. Congo,1,421
+

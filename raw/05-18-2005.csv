@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 May 2005,To: 18 May 2005,Afghanistan,FY 2005,11,Moslem,10,246
+From: 18 May 2005,To: 18 May 2005,Afghanistan,FY 2005,11,Moslem Suni,1,246
+From: 18 May 2005,To: 18 May 2005,Azerbaijan,FY 2005,3,Jehovah Witness,3,246
+From: 18 May 2005,To: 18 May 2005,Ethiopia,FY 2005,19,Christian,6,246
+From: 18 May 2005,To: 18 May 2005,Ethiopia,FY 2005,19,Moslem,13,246
+From: 18 May 2005,To: 18 May 2005,Iran,FY 2005,17,Christian,2,246
+From: 18 May 2005,To: 18 May 2005,Iran,FY 2005,17,Jewish,4,246
+From: 18 May 2005,To: 18 May 2005,Iran,FY 2005,17,Sabeans-Mandean,11,246
+From: 18 May 2005,To: 18 May 2005,Ivory Coast,FY 2005,1,Christian,1,246
+From: 18 May 2005,To: 18 May 2005,Laos,FY 2005,54,Ancestral Worship,47,246
+From: 18 May 2005,To: 18 May 2005,Laos,FY 2005,54,Christian,7,246
+From: 18 May 2005,To: 18 May 2005,Liberia,FY 2005,45,Christian,26,246
+From: 18 May 2005,To: 18 May 2005,Liberia,FY 2005,45,Methodist,1,246
+From: 18 May 2005,To: 18 May 2005,Liberia,FY 2005,45,Moslem,12,246
+From: 18 May 2005,To: 18 May 2005,Liberia,FY 2005,45,Pentecostalist,6,246
+From: 18 May 2005,To: 18 May 2005,Russia,FY 2005,31,Moslem,31,246
+From: 18 May 2005,To: 18 May 2005,Somalia,FY 2005,14,Moslem,12,246
+From: 18 May 2005,To: 18 May 2005,Somalia,FY 2005,14,Moslem Suni,2,246
+From: 18 May 2005,To: 18 May 2005,Ukraine,FY 2005,21,Baptist,7,246
+From: 18 May 2005,To: 18 May 2005,Ukraine,FY 2005,21,Jewish,3,246
+From: 18 May 2005,To: 18 May 2005,Ukraine,FY 2005,21,Pentecostalist,7,246
+From: 18 May 2005,To: 18 May 2005,Ukraine,FY 2005,21,Seventh Day Adventist,4,246
+From: 18 May 2005,To: 18 May 2005,Vietnam,FY 2005,30,Buddhist,16,246
+From: 18 May 2005,To: 18 May 2005,Vietnam,FY 2005,30,Catholic,7,246
+From: 18 May 2005,To: 18 May 2005,Vietnam,FY 2005,30,No Religion,7,246
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 May 2005,To: 18 May 2005,Ancestral Worship,FY 2005,47,Laos,47,246
+From: 18 May 2005,To: 18 May 2005,Baptist,FY 2005,7,Ukraine,7,246
+From: 18 May 2005,To: 18 May 2005,Buddhist,FY 2005,16,Vietnam,16,246
+From: 18 May 2005,To: 18 May 2005,Catholic,FY 2005,7,Vietnam,7,246
+From: 18 May 2005,To: 18 May 2005,Christian,FY 2005,42,Ethiopia,6,246
+From: 18 May 2005,To: 18 May 2005,Christian,FY 2005,42,Iran,2,246
+From: 18 May 2005,To: 18 May 2005,Christian,FY 2005,42,Ivory Coast,1,246
+From: 18 May 2005,To: 18 May 2005,Christian,FY 2005,42,Laos,7,246
+From: 18 May 2005,To: 18 May 2005,Christian,FY 2005,42,Liberia,26,246
+From: 18 May 2005,To: 18 May 2005,Jehovah Witness,FY 2005,3,Azerbaijan,3,246
+From: 18 May 2005,To: 18 May 2005,Jewish,FY 2005,7,Iran,4,246
+From: 18 May 2005,To: 18 May 2005,Jewish,FY 2005,7,Ukraine,3,246
+From: 18 May 2005,To: 18 May 2005,Methodist,FY 2005,1,Liberia,1,246
+From: 18 May 2005,To: 18 May 2005,Moslem,FY 2005,78,Afghanistan,10,246
+From: 18 May 2005,To: 18 May 2005,Moslem,FY 2005,78,Ethiopia,13,246
+From: 18 May 2005,To: 18 May 2005,Moslem,FY 2005,78,Liberia,12,246
+From: 18 May 2005,To: 18 May 2005,Moslem,FY 2005,78,Russia,31,246
+From: 18 May 2005,To: 18 May 2005,Moslem,FY 2005,78,Somalia,12,246
+From: 18 May 2005,To: 18 May 2005,Moslem Suni,FY 2005,3,Afghanistan,1,246
+From: 18 May 2005,To: 18 May 2005,Moslem Suni,FY 2005,3,Somalia,2,246
+From: 18 May 2005,To: 18 May 2005,No Religion,FY 2005,7,Vietnam,7,246
+From: 18 May 2005,To: 18 May 2005,Pentecostalist,FY 2005,13,Liberia,6,246
+From: 18 May 2005,To: 18 May 2005,Pentecostalist,FY 2005,13,Ukraine,7,246
+From: 18 May 2005,To: 18 May 2005,Sabeans-Mandean,FY 2005,11,Iran,11,246
+From: 18 May 2005,To: 18 May 2005,Seventh Day Adventist,FY 2005,4,Ukraine,4,246
+

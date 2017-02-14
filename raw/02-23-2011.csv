@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Feb 2011,To: 23 Feb 2011,Bhutan,FY 2011,105,Buddhist,5,529
+From: 23 Feb 2011,To: 23 Feb 2011,Bhutan,FY 2011,105,Christian,7,529
+From: 23 Feb 2011,To: 23 Feb 2011,Bhutan,FY 2011,105,Hindu,93,529
+From: 23 Feb 2011,To: 23 Feb 2011,Burma,FY 2011,226,Animist,6,529
+From: 23 Feb 2011,To: 23 Feb 2011,Burma,FY 2011,226,Baptist,15,529
+From: 23 Feb 2011,To: 23 Feb 2011,Burma,FY 2011,226,Buddhist,28,529
+From: 23 Feb 2011,To: 23 Feb 2011,Burma,FY 2011,226,Catholic,14,529
+From: 23 Feb 2011,To: 23 Feb 2011,Burma,FY 2011,226,Christian,154,529
+From: 23 Feb 2011,To: 23 Feb 2011,Burma,FY 2011,226,Moslem,9,529
+From: 23 Feb 2011,To: 23 Feb 2011,Dem. Rep. Congo,FY 2011,2,Moslem,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Dem. Rep. Congo,FY 2011,2,Seventh Day Adventist,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Eritrea,FY 2011,31,Catholic,3,529
+From: 23 Feb 2011,To: 23 Feb 2011,Eritrea,FY 2011,31,Christian,3,529
+From: 23 Feb 2011,To: 23 Feb 2011,Eritrea,FY 2011,31,Orthodox,23,529
+From: 23 Feb 2011,To: 23 Feb 2011,Eritrea,FY 2011,31,Pentecostalist,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Eritrea,FY 2011,31,Protestant,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Ethiopia,FY 2011,1,Orthodox,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iran,FY 2011,15,Bahai,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iran,FY 2011,15,Christian,12,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iran,FY 2011,15,Jewish,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iran,FY 2011,15,Zoroastrian,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iraq,FY 2011,78,Catholic,6,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iraq,FY 2011,78,Christian,25,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iraq,FY 2011,78,Moslem Shiite,21,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iraq,FY 2011,78,Moslem Suni,25,529
+From: 23 Feb 2011,To: 23 Feb 2011,Iraq,FY 2011,78,Orthodox,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Laos,FY 2011,27,Animist,27,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moldova,FY 2011,26,Baptist,11,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moldova,FY 2011,26,Jewish,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moldova,FY 2011,26,Pentecostalist,5,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moldova,FY 2011,26,Seventh Day Adventist,9,529
+From: 23 Feb 2011,To: 23 Feb 2011,Palestine,FY 2011,6,Moslem Suni,6,529
+From: 23 Feb 2011,To: 23 Feb 2011,Somalia,FY 2011,1,Moslem,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Sudan,FY 2011,1,Moslem,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Ukraine,FY 2011,1,Seventh Day Adventist,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Uzbekistan,FY 2011,9,Baptist,2,529
+From: 23 Feb 2011,To: 23 Feb 2011,Uzbekistan,FY 2011,9,Evangelical Christian,4,529
+From: 23 Feb 2011,To: 23 Feb 2011,Uzbekistan,FY 2011,9,Pentecostalist,3,529
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Feb 2011,To: 23 Feb 2011,Animist,FY 2011,33,Burma,6,529
+From: 23 Feb 2011,To: 23 Feb 2011,Animist,FY 2011,33,Laos,27,529
+From: 23 Feb 2011,To: 23 Feb 2011,Bahai,FY 2011,1,Iran,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Baptist,FY 2011,28,Burma,15,529
+From: 23 Feb 2011,To: 23 Feb 2011,Baptist,FY 2011,28,Moldova,11,529
+From: 23 Feb 2011,To: 23 Feb 2011,Baptist,FY 2011,28,Uzbekistan,2,529
+From: 23 Feb 2011,To: 23 Feb 2011,Buddhist,FY 2011,33,Bhutan,5,529
+From: 23 Feb 2011,To: 23 Feb 2011,Buddhist,FY 2011,33,Burma,28,529
+From: 23 Feb 2011,To: 23 Feb 2011,Catholic,FY 2011,23,Burma,14,529
+From: 23 Feb 2011,To: 23 Feb 2011,Catholic,FY 2011,23,Eritrea,3,529
+From: 23 Feb 2011,To: 23 Feb 2011,Catholic,FY 2011,23,Iraq,6,529
+From: 23 Feb 2011,To: 23 Feb 2011,Christian,FY 2011,201,Bhutan,7,529
+From: 23 Feb 2011,To: 23 Feb 2011,Christian,FY 2011,201,Burma,154,529
+From: 23 Feb 2011,To: 23 Feb 2011,Christian,FY 2011,201,Eritrea,3,529
+From: 23 Feb 2011,To: 23 Feb 2011,Christian,FY 2011,201,Iran,12,529
+From: 23 Feb 2011,To: 23 Feb 2011,Christian,FY 2011,201,Iraq,25,529
+From: 23 Feb 2011,To: 23 Feb 2011,Evangelical Christian,FY 2011,4,Uzbekistan,4,529
+From: 23 Feb 2011,To: 23 Feb 2011,Hindu,FY 2011,93,Bhutan,93,529
+From: 23 Feb 2011,To: 23 Feb 2011,Jewish,FY 2011,2,Iran,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Jewish,FY 2011,2,Moldova,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem,FY 2011,12,Burma,9,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem,FY 2011,12,Dem. Rep. Congo,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem,FY 2011,12,Somalia,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem,FY 2011,12,Sudan,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem Shiite,FY 2011,21,Iraq,21,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem Suni,FY 2011,31,Iraq,25,529
+From: 23 Feb 2011,To: 23 Feb 2011,Moslem Suni,FY 2011,31,Palestine,6,529
+From: 23 Feb 2011,To: 23 Feb 2011,Orthodox,FY 2011,25,Eritrea,23,529
+From: 23 Feb 2011,To: 23 Feb 2011,Orthodox,FY 2011,25,Ethiopia,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Orthodox,FY 2011,25,Iraq,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Pentecostalist,FY 2011,9,Eritrea,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Pentecostalist,FY 2011,9,Moldova,5,529
+From: 23 Feb 2011,To: 23 Feb 2011,Pentecostalist,FY 2011,9,Uzbekistan,3,529
+From: 23 Feb 2011,To: 23 Feb 2011,Protestant,FY 2011,1,Eritrea,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Seventh Day Adventist,FY 2011,11,Dem. Rep. Congo,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Seventh Day Adventist,FY 2011,11,Moldova,9,529
+From: 23 Feb 2011,To: 23 Feb 2011,Seventh Day Adventist,FY 2011,11,Ukraine,1,529
+From: 23 Feb 2011,To: 23 Feb 2011,Zoroastrian,FY 2011,1,Iran,1,529
+

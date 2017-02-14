@@ -1,0 +1,91 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Sep 2009,To: 30 Sep 2009,Afghanistan,FY 2009,8,Moslem Suni,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Azerbaijan,FY 2009,5,Jewish,5,673
+From: 30 Sep 2009,To: 30 Sep 2009,Bhutan,FY 2009,105,Buddhist,3,673
+From: 30 Sep 2009,To: 30 Sep 2009,Bhutan,FY 2009,105,Christian,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Bhutan,FY 2009,105,Hindu,83,673
+From: 30 Sep 2009,To: 30 Sep 2009,Bhutan,FY 2009,105,Kirat,11,673
+From: 30 Sep 2009,To: 30 Sep 2009,Burma,FY 2009,167,Animist,20,673
+From: 30 Sep 2009,To: 30 Sep 2009,Burma,FY 2009,167,Buddhist,24,673
+From: 30 Sep 2009,To: 30 Sep 2009,Burma,FY 2009,167,Catholic,30,673
+From: 30 Sep 2009,To: 30 Sep 2009,Burma,FY 2009,167,Christian,79,673
+From: 30 Sep 2009,To: 30 Sep 2009,Burma,FY 2009,167,Moslem,13,673
+From: 30 Sep 2009,To: 30 Sep 2009,Burma,FY 2009,167,Protestant,1,673
+From: 30 Sep 2009,To: 30 Sep 2009,China,FY 2009,3,Other Religion,3,673
+From: 30 Sep 2009,To: 30 Sep 2009,Congo,FY 2009,39,Catholic,6,673
+From: 30 Sep 2009,To: 30 Sep 2009,Congo,FY 2009,39,Christian,17,673
+From: 30 Sep 2009,To: 30 Sep 2009,Congo,FY 2009,39,Protestant,16,673
+From: 30 Sep 2009,To: 30 Sep 2009,Eritrea,FY 2009,11,Christian,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Eritrea,FY 2009,11,Moslem,1,673
+From: 30 Sep 2009,To: 30 Sep 2009,Eritrea,FY 2009,11,Orthodox,6,673
+From: 30 Sep 2009,To: 30 Sep 2009,Ethiopia,FY 2009,4,Christian,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iran,FY 2009,23,Christian,20,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iran,FY 2009,23,Zoroastrian,3,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Catholic,27,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Chaldean,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Christian,49,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Kaaka'i,5,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Moslem Shiite,26,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Moslem Suni,48,673
+From: 30 Sep 2009,To: 30 Sep 2009,Iraq,FY 2009,167,Orthodox,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Liberia,FY 2009,6,Christian,6,673
+From: 30 Sep 2009,To: 30 Sep 2009,Pakistan,FY 2009,8,Other Religion,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Russia,FY 2009,9,Baptist,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Russia,FY 2009,9,Jewish,5,673
+From: 30 Sep 2009,To: 30 Sep 2009,Somalia,FY 2009,43,Moslem,26,673
+From: 30 Sep 2009,To: 30 Sep 2009,Somalia,FY 2009,43,Moslem Suni,17,673
+From: 30 Sep 2009,To: 30 Sep 2009,Sudan,FY 2009,10,Moslem,9,673
+From: 30 Sep 2009,To: 30 Sep 2009,Sudan,FY 2009,10,Other Religion,1,673
+From: 30 Sep 2009,To: 30 Sep 2009,Vietnam,FY 2009,65,Ancestral Worship,10,673
+From: 30 Sep 2009,To: 30 Sep 2009,Vietnam,FY 2009,65,Buddhist,34,673
+From: 30 Sep 2009,To: 30 Sep 2009,Vietnam,FY 2009,65,Catholic,2,673
+From: 30 Sep 2009,To: 30 Sep 2009,Vietnam,FY 2009,65,No Religion,10,673
+From: 30 Sep 2009,To: 30 Sep 2009,Vietnam,FY 2009,65,Protestant,9,673
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Sep 2009,To: 30 Sep 2009,Ancestral Worship,FY 2009,10,Vietnam,10,673
+From: 30 Sep 2009,To: 30 Sep 2009,Animist,FY 2009,20,Burma,20,673
+From: 30 Sep 2009,To: 30 Sep 2009,Baptist,FY 2009,4,Russia,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Buddhist,FY 2009,61,Bhutan,3,673
+From: 30 Sep 2009,To: 30 Sep 2009,Buddhist,FY 2009,61,Burma,24,673
+From: 30 Sep 2009,To: 30 Sep 2009,Buddhist,FY 2009,61,Vietnam,34,673
+From: 30 Sep 2009,To: 30 Sep 2009,Catholic,FY 2009,65,Burma,30,673
+From: 30 Sep 2009,To: 30 Sep 2009,Catholic,FY 2009,65,Congo,6,673
+From: 30 Sep 2009,To: 30 Sep 2009,Catholic,FY 2009,65,Iraq,27,673
+From: 30 Sep 2009,To: 30 Sep 2009,Catholic,FY 2009,65,Vietnam,2,673
+From: 30 Sep 2009,To: 30 Sep 2009,Chaldean,FY 2009,4,Iraq,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Bhutan,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Burma,79,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Congo,17,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Eritrea,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Ethiopia,4,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Iran,20,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Iraq,49,673
+From: 30 Sep 2009,To: 30 Sep 2009,Christian,FY 2009,187,Liberia,6,673
+From: 30 Sep 2009,To: 30 Sep 2009,Hindu,FY 2009,83,Bhutan,83,673
+From: 30 Sep 2009,To: 30 Sep 2009,Jewish,FY 2009,10,Azerbaijan,5,673
+From: 30 Sep 2009,To: 30 Sep 2009,Jewish,FY 2009,10,Russia,5,673
+From: 30 Sep 2009,To: 30 Sep 2009,Kaaka'i,FY 2009,5,Iraq,5,673
+From: 30 Sep 2009,To: 30 Sep 2009,Kirat,FY 2009,11,Bhutan,11,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem,FY 2009,49,Burma,13,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem,FY 2009,49,Eritrea,1,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem,FY 2009,49,Somalia,26,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem,FY 2009,49,Sudan,9,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem Shiite,FY 2009,26,Iraq,26,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem Suni,FY 2009,73,Afghanistan,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem Suni,FY 2009,73,Iraq,48,673
+From: 30 Sep 2009,To: 30 Sep 2009,Moslem Suni,FY 2009,73,Somalia,17,673
+From: 30 Sep 2009,To: 30 Sep 2009,No Religion,FY 2009,10,Vietnam,10,673
+From: 30 Sep 2009,To: 30 Sep 2009,Orthodox,FY 2009,14,Eritrea,6,673
+From: 30 Sep 2009,To: 30 Sep 2009,Orthodox,FY 2009,14,Iraq,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Other Religion,FY 2009,12,China,3,673
+From: 30 Sep 2009,To: 30 Sep 2009,Other Religion,FY 2009,12,Pakistan,8,673
+From: 30 Sep 2009,To: 30 Sep 2009,Other Religion,FY 2009,12,Sudan,1,673
+From: 30 Sep 2009,To: 30 Sep 2009,Protestant,FY 2009,26,Burma,1,673
+From: 30 Sep 2009,To: 30 Sep 2009,Protestant,FY 2009,26,Congo,16,673
+From: 30 Sep 2009,To: 30 Sep 2009,Protestant,FY 2009,26,Vietnam,9,673
+From: 30 Sep 2009,To: 30 Sep 2009,Zoroastrian,FY 2009,3,Iran,3,673
+

@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jan 2011,To: 31 Jan 2011,Afghanistan,FY 2011,15,Moslem Suni,15,327
+From: 31 Jan 2011,To: 31 Jan 2011,Burma,FY 2011,105,Baptist,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Burma,FY 2011,105,Buddhist,13,327
+From: 31 Jan 2011,To: 31 Jan 2011,Burma,FY 2011,105,Christian,91,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iran,FY 2011,19,Bahai,7,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iran,FY 2011,19,Christian,3,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iran,FY 2011,19,Moslem Suni,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iran,FY 2011,19,No Religion,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iran,FY 2011,19,Protestant,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iran,FY 2011,19,Zoroastrian,3,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Catholic,20,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Christian,39,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Moslem,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Moslem Shiite,47,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Moslem Suni,52,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Orthodox,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Sabeans-Mandean,14,327
+From: 31 Jan 2011,To: 31 Jan 2011,Iraq,FY 2011,181,Yazidi,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Kazakhstan,FY 2011,4,Baptist,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Russia,FY 2011,2,Jewish,2,327
+From: 31 Jan 2011,To: 31 Jan 2011,Somalia,FY 2011,1,Moslem Suni,1,327
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jan 2011,To: 31 Jan 2011,Bahai,FY 2011,7,Iran,7,327
+From: 31 Jan 2011,To: 31 Jan 2011,Baptist,FY 2011,5,Burma,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Baptist,FY 2011,5,Kazakhstan,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Buddhist,FY 2011,13,Burma,13,327
+From: 31 Jan 2011,To: 31 Jan 2011,Catholic,FY 2011,20,Iraq,20,327
+From: 31 Jan 2011,To: 31 Jan 2011,Christian,FY 2011,133,Burma,91,327
+From: 31 Jan 2011,To: 31 Jan 2011,Christian,FY 2011,133,Iran,3,327
+From: 31 Jan 2011,To: 31 Jan 2011,Christian,FY 2011,133,Iraq,39,327
+From: 31 Jan 2011,To: 31 Jan 2011,Jewish,FY 2011,2,Russia,2,327
+From: 31 Jan 2011,To: 31 Jan 2011,Moslem,FY 2011,1,Iraq,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Moslem Shiite,FY 2011,47,Iraq,47,327
+From: 31 Jan 2011,To: 31 Jan 2011,Moslem Suni,FY 2011,69,Afghanistan,15,327
+From: 31 Jan 2011,To: 31 Jan 2011,Moslem Suni,FY 2011,69,Iran,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Moslem Suni,FY 2011,69,Iraq,52,327
+From: 31 Jan 2011,To: 31 Jan 2011,Moslem Suni,FY 2011,69,Somalia,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,No Religion,FY 2011,4,Iran,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Orthodox,FY 2011,4,Iraq,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Protestant,FY 2011,1,Iran,1,327
+From: 31 Jan 2011,To: 31 Jan 2011,Sabeans-Mandean,FY 2011,14,Iraq,14,327
+From: 31 Jan 2011,To: 31 Jan 2011,Yazidi,FY 2011,4,Iraq,4,327
+From: 31 Jan 2011,To: 31 Jan 2011,Zoroastrian,FY 2011,3,Iran,3,327
+

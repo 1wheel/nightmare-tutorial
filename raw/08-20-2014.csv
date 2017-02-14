@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Aug 2014,To: 20 Aug 2014,Bhutan,FY 2014,30,Buddhist,9,346
+From: 20 Aug 2014,To: 20 Aug 2014,Bhutan,FY 2014,30,Christian,6,346
+From: 20 Aug 2014,To: 20 Aug 2014,Bhutan,FY 2014,30,Hindu,8,346
+From: 20 Aug 2014,To: 20 Aug 2014,Bhutan,FY 2014,30,Kirat,7,346
+From: 20 Aug 2014,To: 20 Aug 2014,Burma,FY 2014,69,Baptist,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Burma,FY 2014,69,Buddhist,22,346
+From: 20 Aug 2014,To: 20 Aug 2014,Burma,FY 2014,69,Christian,28,346
+From: 20 Aug 2014,To: 20 Aug 2014,Burma,FY 2014,69,Hindu,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Burma,FY 2014,69,Moslem,13,346
+From: 20 Aug 2014,To: 20 Aug 2014,Congo,FY 2014,5,Catholic,5,346
+From: 20 Aug 2014,To: 20 Aug 2014,Dem. Rep. Congo,FY 2014,8,Christian,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Dem. Rep. Congo,FY 2014,8,Moslem,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Eritrea,FY 2014,4,Catholic,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Eritrea,FY 2014,4,Orthodox,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Eritrea,FY 2014,4,Pentecostalist,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Eritrea,FY 2014,4,Protestant,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Ethiopia,FY 2014,9,Christian,6,346
+From: 20 Aug 2014,To: 20 Aug 2014,Ethiopia,FY 2014,9,Moslem,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Ethiopia,FY 2014,9,Orthodox,2,346
+From: 20 Aug 2014,To: 20 Aug 2014,Iraq,FY 2014,72,Catholic,14,346
+From: 20 Aug 2014,To: 20 Aug 2014,Iraq,FY 2014,72,Chaldean,5,346
+From: 20 Aug 2014,To: 20 Aug 2014,Iraq,FY 2014,72,Moslem Shiite,21,346
+From: 20 Aug 2014,To: 20 Aug 2014,Iraq,FY 2014,72,Moslem Suni,28,346
+From: 20 Aug 2014,To: 20 Aug 2014,Iraq,FY 2014,72,Sabeans-Mandean,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Russia,FY 2014,14,Baptist,8,346
+From: 20 Aug 2014,To: 20 Aug 2014,Russia,FY 2014,14,Jewish,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Russia,FY 2014,14,Seventh Day Adventist,2,346
+From: 20 Aug 2014,To: 20 Aug 2014,Somalia,FY 2014,101,Moslem,101,346
+From: 20 Aug 2014,To: 20 Aug 2014,Sri Lanka (Ceylon),FY 2014,4,Hindu,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Sudan,FY 2014,15,Moslem,15,346
+From: 20 Aug 2014,To: 20 Aug 2014,Ukraine,FY 2014,15,Baptist,9,346
+From: 20 Aug 2014,To: 20 Aug 2014,Ukraine,FY 2014,15,Jewish,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Ukraine,FY 2014,15,Pentecostalist,3,346
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Aug 2014,To: 20 Aug 2014,Baptist,FY 2014,20,Burma,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Baptist,FY 2014,20,Russia,8,346
+From: 20 Aug 2014,To: 20 Aug 2014,Baptist,FY 2014,20,Ukraine,9,346
+From: 20 Aug 2014,To: 20 Aug 2014,Buddhist,FY 2014,31,Bhutan,9,346
+From: 20 Aug 2014,To: 20 Aug 2014,Buddhist,FY 2014,31,Burma,22,346
+From: 20 Aug 2014,To: 20 Aug 2014,Catholic,FY 2014,20,Congo,5,346
+From: 20 Aug 2014,To: 20 Aug 2014,Catholic,FY 2014,20,Eritrea,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Catholic,FY 2014,20,Iraq,14,346
+From: 20 Aug 2014,To: 20 Aug 2014,Chaldean,FY 2014,5,Iraq,5,346
+From: 20 Aug 2014,To: 20 Aug 2014,Christian,FY 2014,44,Bhutan,6,346
+From: 20 Aug 2014,To: 20 Aug 2014,Christian,FY 2014,44,Burma,28,346
+From: 20 Aug 2014,To: 20 Aug 2014,Christian,FY 2014,44,Dem. Rep. Congo,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Christian,FY 2014,44,Ethiopia,6,346
+From: 20 Aug 2014,To: 20 Aug 2014,Hindu,FY 2014,15,Bhutan,8,346
+From: 20 Aug 2014,To: 20 Aug 2014,Hindu,FY 2014,15,Burma,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Hindu,FY 2014,15,Sri Lanka (Ceylon),4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Jewish,FY 2014,7,Russia,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Jewish,FY 2014,7,Ukraine,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Kirat,FY 2014,7,Bhutan,7,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem,FY 2014,134,Burma,13,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem,FY 2014,134,Dem. Rep. Congo,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem,FY 2014,134,Ethiopia,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem,FY 2014,134,Somalia,101,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem,FY 2014,134,Sudan,15,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem Shiite,FY 2014,21,Iraq,21,346
+From: 20 Aug 2014,To: 20 Aug 2014,Moslem Suni,FY 2014,28,Iraq,28,346
+From: 20 Aug 2014,To: 20 Aug 2014,Orthodox,FY 2014,3,Eritrea,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Orthodox,FY 2014,3,Ethiopia,2,346
+From: 20 Aug 2014,To: 20 Aug 2014,Pentecostalist,FY 2014,4,Eritrea,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Pentecostalist,FY 2014,4,Ukraine,3,346
+From: 20 Aug 2014,To: 20 Aug 2014,Protestant,FY 2014,1,Eritrea,1,346
+From: 20 Aug 2014,To: 20 Aug 2014,Sabeans-Mandean,FY 2014,4,Iraq,4,346
+From: 20 Aug 2014,To: 20 Aug 2014,Seventh Day Adventist,FY 2014,2,Russia,2,346
+

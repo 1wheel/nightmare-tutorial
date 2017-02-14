@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jun 2009,To: 16 Jun 2009,Bhutan,FY 2009,96,Buddhist,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Bhutan,FY 2009,96,Christian,6,500
+From: 16 Jun 2009,To: 16 Jun 2009,Bhutan,FY 2009,96,Hindu,85,500
+From: 16 Jun 2009,To: 16 Jun 2009,Bhutan,FY 2009,96,Kirat,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Burma,FY 2009,180,Animist,57,500
+From: 16 Jun 2009,To: 16 Jun 2009,Burma,FY 2009,180,Buddhist,10,500
+From: 16 Jun 2009,To: 16 Jun 2009,Burma,FY 2009,180,Catholic,27,500
+From: 16 Jun 2009,To: 16 Jun 2009,Burma,FY 2009,180,Christian,81,500
+From: 16 Jun 2009,To: 16 Jun 2009,Burma,FY 2009,180,Moslem,5,500
+From: 16 Jun 2009,To: 16 Jun 2009,Dem. Rep. Congo,FY 2009,38,Catholic,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Dem. Rep. Congo,FY 2009,38,Christian,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Dem. Rep. Congo,FY 2009,38,Moslem,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Dem. Rep. Congo,FY 2009,38,Protestant,29,500
+From: 16 Jun 2009,To: 16 Jun 2009,Eritrea,FY 2009,31,Catholic,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Eritrea,FY 2009,31,Moslem,3,500
+From: 16 Jun 2009,To: 16 Jun 2009,Eritrea,FY 2009,31,Orthodox,25,500
+From: 16 Jun 2009,To: 16 Jun 2009,Eritrea,FY 2009,31,Protestant,2,500
+From: 16 Jun 2009,To: 16 Jun 2009,Estonia,FY 2009,2,Baptist,2,500
+From: 16 Jun 2009,To: 16 Jun 2009,Ethiopia,FY 2009,3,Moslem,2,500
+From: 16 Jun 2009,To: 16 Jun 2009,Ethiopia,FY 2009,3,Protestant,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Iran,FY 2009,35,Christian,35,500
+From: 16 Jun 2009,To: 16 Jun 2009,Iraq,FY 2009,62,Catholic,15,500
+From: 16 Jun 2009,To: 16 Jun 2009,Iraq,FY 2009,62,Christian,8,500
+From: 16 Jun 2009,To: 16 Jun 2009,Iraq,FY 2009,62,Moslem Shiite,19,500
+From: 16 Jun 2009,To: 16 Jun 2009,Iraq,FY 2009,62,Moslem Suni,15,500
+From: 16 Jun 2009,To: 16 Jun 2009,Iraq,FY 2009,62,Sabeans-Mandean,5,500
+From: 16 Jun 2009,To: 16 Jun 2009,Ivory Coast,FY 2009,1,Christian,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Liberia,FY 2009,6,Christian,6,500
+From: 16 Jun 2009,To: 16 Jun 2009,Somalia,FY 2009,37,Moslem,37,500
+From: 16 Jun 2009,To: 16 Jun 2009,Sudan,FY 2009,9,Moslem,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Sudan,FY 2009,9,Moslem Suni,5,500
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jun 2009,To: 16 Jun 2009,Animist,FY 2009,57,Burma,57,500
+From: 16 Jun 2009,To: 16 Jun 2009,Baptist,FY 2009,2,Estonia,2,500
+From: 16 Jun 2009,To: 16 Jun 2009,Buddhist,FY 2009,14,Bhutan,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Buddhist,FY 2009,14,Burma,10,500
+From: 16 Jun 2009,To: 16 Jun 2009,Catholic,FY 2009,47,Burma,27,500
+From: 16 Jun 2009,To: 16 Jun 2009,Catholic,FY 2009,47,Dem. Rep. Congo,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Catholic,FY 2009,47,Eritrea,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Catholic,FY 2009,47,Iraq,15,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Bhutan,6,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Burma,81,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Dem. Rep. Congo,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Iran,35,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Iraq,8,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Ivory Coast,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Christian,FY 2009,141,Liberia,6,500
+From: 16 Jun 2009,To: 16 Jun 2009,Hindu,FY 2009,85,Bhutan,85,500
+From: 16 Jun 2009,To: 16 Jun 2009,Kirat,FY 2009,1,Bhutan,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem,FY 2009,52,Burma,5,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem,FY 2009,52,Dem. Rep. Congo,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem,FY 2009,52,Eritrea,3,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem,FY 2009,52,Ethiopia,2,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem,FY 2009,52,Somalia,37,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem,FY 2009,52,Sudan,4,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem Shiite,FY 2009,19,Iraq,19,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem Suni,FY 2009,20,Iraq,15,500
+From: 16 Jun 2009,To: 16 Jun 2009,Moslem Suni,FY 2009,20,Sudan,5,500
+From: 16 Jun 2009,To: 16 Jun 2009,Orthodox,FY 2009,25,Eritrea,25,500
+From: 16 Jun 2009,To: 16 Jun 2009,Protestant,FY 2009,32,Dem. Rep. Congo,29,500
+From: 16 Jun 2009,To: 16 Jun 2009,Protestant,FY 2009,32,Eritrea,2,500
+From: 16 Jun 2009,To: 16 Jun 2009,Protestant,FY 2009,32,Ethiopia,1,500
+From: 16 Jun 2009,To: 16 Jun 2009,Sabeans-Mandean,FY 2009,5,Iraq,5,500
+

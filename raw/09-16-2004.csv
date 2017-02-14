@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Sep 2004,To: 16 Sep 2004,Cuba,FY 2004,57,Catholic,28,823
+From: 16 Sep 2004,To: 16 Sep 2004,Cuba,FY 2004,57,Evangelical Christian,9,823
+From: 16 Sep 2004,To: 16 Sep 2004,Cuba,FY 2004,57,No Religion,15,823
+From: 16 Sep 2004,To: 16 Sep 2004,Cuba,FY 2004,57,Pentecostalist,5,823
+From: 16 Sep 2004,To: 16 Sep 2004,Iran,FY 2004,27,Bahai,26,823
+From: 16 Sep 2004,To: 16 Sep 2004,Iran,FY 2004,27,Moslem,1,823
+From: 16 Sep 2004,To: 16 Sep 2004,Laos,FY 2004,456,Ancestral Worship,445,823
+From: 16 Sep 2004,To: 16 Sep 2004,Laos,FY 2004,456,Christian,11,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,Baptist,4,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,Catholic,3,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,Christian,51,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,Methodist,5,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,Moslem,3,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,No Religion,2,823
+From: 16 Sep 2004,To: 16 Sep 2004,Liberia,FY 2004,70,Pentecostalist,2,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sierra Leone,FY 2004,8,Christian,6,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sierra Leone,FY 2004,8,Moslem,2,823
+From: 16 Sep 2004,To: 16 Sep 2004,Somalia,FY 2004,173,Moslem,173,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sudan,FY 2004,32,Catholic,17,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sudan,FY 2004,32,Christian,1,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sudan,FY 2004,32,Evangelical Christian,1,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sudan,FY 2004,32,Moslem,8,823
+From: 16 Sep 2004,To: 16 Sep 2004,Sudan,FY 2004,32,Protestant,5,823
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Sep 2004,To: 16 Sep 2004,Ancestral Worship,FY 2004,445,Laos,445,823
+From: 16 Sep 2004,To: 16 Sep 2004,Bahai,FY 2004,26,Iran,26,823
+From: 16 Sep 2004,To: 16 Sep 2004,Baptist,FY 2004,4,Liberia,4,823
+From: 16 Sep 2004,To: 16 Sep 2004,Catholic,FY 2004,48,Cuba,28,823
+From: 16 Sep 2004,To: 16 Sep 2004,Catholic,FY 2004,48,Liberia,3,823
+From: 16 Sep 2004,To: 16 Sep 2004,Catholic,FY 2004,48,Sudan,17,823
+From: 16 Sep 2004,To: 16 Sep 2004,Christian,FY 2004,69,Laos,11,823
+From: 16 Sep 2004,To: 16 Sep 2004,Christian,FY 2004,69,Liberia,51,823
+From: 16 Sep 2004,To: 16 Sep 2004,Christian,FY 2004,69,Sierra Leone,6,823
+From: 16 Sep 2004,To: 16 Sep 2004,Christian,FY 2004,69,Sudan,1,823
+From: 16 Sep 2004,To: 16 Sep 2004,Evangelical Christian,FY 2004,10,Cuba,9,823
+From: 16 Sep 2004,To: 16 Sep 2004,Evangelical Christian,FY 2004,10,Sudan,1,823
+From: 16 Sep 2004,To: 16 Sep 2004,Methodist,FY 2004,5,Liberia,5,823
+From: 16 Sep 2004,To: 16 Sep 2004,Moslem,FY 2004,187,Iran,1,823
+From: 16 Sep 2004,To: 16 Sep 2004,Moslem,FY 2004,187,Liberia,3,823
+From: 16 Sep 2004,To: 16 Sep 2004,Moslem,FY 2004,187,Sierra Leone,2,823
+From: 16 Sep 2004,To: 16 Sep 2004,Moslem,FY 2004,187,Somalia,173,823
+From: 16 Sep 2004,To: 16 Sep 2004,Moslem,FY 2004,187,Sudan,8,823
+From: 16 Sep 2004,To: 16 Sep 2004,No Religion,FY 2004,17,Cuba,15,823
+From: 16 Sep 2004,To: 16 Sep 2004,No Religion,FY 2004,17,Liberia,2,823
+From: 16 Sep 2004,To: 16 Sep 2004,Pentecostalist,FY 2004,7,Cuba,5,823
+From: 16 Sep 2004,To: 16 Sep 2004,Pentecostalist,FY 2004,7,Liberia,2,823
+From: 16 Sep 2004,To: 16 Sep 2004,Protestant,FY 2004,5,Sudan,5,823
+

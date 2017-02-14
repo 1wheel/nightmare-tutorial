@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Apr 2006,To: 26 Apr 2006,Cuba,FY 2006,31,Baptist,4,255
+From: 26 Apr 2006,To: 26 Apr 2006,Cuba,FY 2006,31,Catholic,14,255
+From: 26 Apr 2006,To: 26 Apr 2006,Cuba,FY 2006,31,Jehovah Witness,4,255
+From: 26 Apr 2006,To: 26 Apr 2006,Cuba,FY 2006,31,No Religion,9,255
+From: 26 Apr 2006,To: 26 Apr 2006,Laos,FY 2006,28,Ancestral Worship,28,255
+From: 26 Apr 2006,To: 26 Apr 2006,Liberia,FY 2006,25,Baptist,2,255
+From: 26 Apr 2006,To: 26 Apr 2006,Liberia,FY 2006,25,Christian,18,255
+From: 26 Apr 2006,To: 26 Apr 2006,Liberia,FY 2006,25,Methodist,5,255
+From: 26 Apr 2006,To: 26 Apr 2006,Russia,FY 2006,46,Moslem,46,255
+From: 26 Apr 2006,To: 26 Apr 2006,Sierra Leone,FY 2006,2,Moslem,2,255
+From: 26 Apr 2006,To: 26 Apr 2006,Somalia,FY 2006,92,Moslem,92,255
+From: 26 Apr 2006,To: 26 Apr 2006,Vietnam,FY 2006,31,Buddhist,8,255
+From: 26 Apr 2006,To: 26 Apr 2006,Vietnam,FY 2006,31,No Religion,4,255
+From: 26 Apr 2006,To: 26 Apr 2006,Vietnam,FY 2006,31,Protestant,19,255
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Apr 2006,To: 26 Apr 2006,Ancestral Worship,FY 2006,28,Laos,28,255
+From: 26 Apr 2006,To: 26 Apr 2006,Baptist,FY 2006,6,Cuba,4,255
+From: 26 Apr 2006,To: 26 Apr 2006,Baptist,FY 2006,6,Liberia,2,255
+From: 26 Apr 2006,To: 26 Apr 2006,Buddhist,FY 2006,8,Vietnam,8,255
+From: 26 Apr 2006,To: 26 Apr 2006,Catholic,FY 2006,14,Cuba,14,255
+From: 26 Apr 2006,To: 26 Apr 2006,Christian,FY 2006,18,Liberia,18,255
+From: 26 Apr 2006,To: 26 Apr 2006,Jehovah Witness,FY 2006,4,Cuba,4,255
+From: 26 Apr 2006,To: 26 Apr 2006,Methodist,FY 2006,5,Liberia,5,255
+From: 26 Apr 2006,To: 26 Apr 2006,Moslem,FY 2006,140,Russia,46,255
+From: 26 Apr 2006,To: 26 Apr 2006,Moslem,FY 2006,140,Sierra Leone,2,255
+From: 26 Apr 2006,To: 26 Apr 2006,Moslem,FY 2006,140,Somalia,92,255
+From: 26 Apr 2006,To: 26 Apr 2006,No Religion,FY 2006,13,Cuba,9,255
+From: 26 Apr 2006,To: 26 Apr 2006,No Religion,FY 2006,13,Vietnam,4,255
+From: 26 Apr 2006,To: 26 Apr 2006,Protestant,FY 2006,19,Vietnam,19,255
+

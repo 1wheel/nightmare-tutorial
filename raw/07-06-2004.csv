@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jul 2004,To: 06 Jul 2004,Ethiopia,FY 2004,4,Catholic,1,356
+From: 06 Jul 2004,To: 06 Jul 2004,Ethiopia,FY 2004,4,Orthodox,3,356
+From: 06 Jul 2004,To: 06 Jul 2004,Kyrgyzstan,FY 2004,8,Baptist,8,356
+From: 06 Jul 2004,To: 06 Jul 2004,Laos,FY 2004,88,Ancestral Worship,83,356
+From: 06 Jul 2004,To: 06 Jul 2004,Laos,FY 2004,88,Christian,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Liberia,FY 2004,28,Catholic,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Liberia,FY 2004,28,Christian,10,356
+From: 06 Jul 2004,To: 06 Jul 2004,Liberia,FY 2004,28,Jehovah Witness,3,356
+From: 06 Jul 2004,To: 06 Jul 2004,Liberia,FY 2004,28,Moslem,8,356
+From: 06 Jul 2004,To: 06 Jul 2004,Liberia,FY 2004,28,Unknown,2,356
+From: 06 Jul 2004,To: 06 Jul 2004,Somalia,FY 2004,146,Moslem,146,356
+From: 06 Jul 2004,To: 06 Jul 2004,Sudan,FY 2004,59,Catholic,25,356
+From: 06 Jul 2004,To: 06 Jul 2004,Sudan,FY 2004,59,Christian,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Sudan,FY 2004,59,Moslem,13,356
+From: 06 Jul 2004,To: 06 Jul 2004,Sudan,FY 2004,59,Protestant,16,356
+From: 06 Jul 2004,To: 06 Jul 2004,Ukraine,FY 2004,23,Baptist,7,356
+From: 06 Jul 2004,To: 06 Jul 2004,Ukraine,FY 2004,23,Jewish,1,356
+From: 06 Jul 2004,To: 06 Jul 2004,Ukraine,FY 2004,23,Pentecostalist,10,356
+From: 06 Jul 2004,To: 06 Jul 2004,Ukraine,FY 2004,23,Seventh Day Adventist,5,356
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jul 2004,To: 06 Jul 2004,Ancestral Worship,FY 2004,83,Laos,83,356
+From: 06 Jul 2004,To: 06 Jul 2004,Baptist,FY 2004,15,Kyrgyzstan,8,356
+From: 06 Jul 2004,To: 06 Jul 2004,Baptist,FY 2004,15,Ukraine,7,356
+From: 06 Jul 2004,To: 06 Jul 2004,Catholic,FY 2004,31,Ethiopia,1,356
+From: 06 Jul 2004,To: 06 Jul 2004,Catholic,FY 2004,31,Liberia,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Catholic,FY 2004,31,Sudan,25,356
+From: 06 Jul 2004,To: 06 Jul 2004,Christian,FY 2004,20,Laos,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Christian,FY 2004,20,Liberia,10,356
+From: 06 Jul 2004,To: 06 Jul 2004,Christian,FY 2004,20,Sudan,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Jehovah Witness,FY 2004,3,Liberia,3,356
+From: 06 Jul 2004,To: 06 Jul 2004,Jewish,FY 2004,1,Ukraine,1,356
+From: 06 Jul 2004,To: 06 Jul 2004,Moslem,FY 2004,167,Liberia,8,356
+From: 06 Jul 2004,To: 06 Jul 2004,Moslem,FY 2004,167,Somalia,146,356
+From: 06 Jul 2004,To: 06 Jul 2004,Moslem,FY 2004,167,Sudan,13,356
+From: 06 Jul 2004,To: 06 Jul 2004,Orthodox,FY 2004,3,Ethiopia,3,356
+From: 06 Jul 2004,To: 06 Jul 2004,Pentecostalist,FY 2004,10,Ukraine,10,356
+From: 06 Jul 2004,To: 06 Jul 2004,Protestant,FY 2004,16,Sudan,16,356
+From: 06 Jul 2004,To: 06 Jul 2004,Seventh Day Adventist,FY 2004,5,Ukraine,5,356
+From: 06 Jul 2004,To: 06 Jul 2004,Unknown,FY 2004,2,Liberia,2,356
+

@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jul 2006,To: 17 Jul 2006,Azerbaijan,FY 2006,5,Christian,5,148
+From: 17 Jul 2006,To: 17 Jul 2006,Ethiopia,FY 2006,5,Moslem,1,148
+From: 17 Jul 2006,To: 17 Jul 2006,Ethiopia,FY 2006,5,Orthodox,4,148
+From: 17 Jul 2006,To: 17 Jul 2006,Iran,FY 2006,10,Christian,8,148
+From: 17 Jul 2006,To: 17 Jul 2006,Iran,FY 2006,10,Zoroastrian,2,148
+From: 17 Jul 2006,To: 17 Jul 2006,Kyrgyzstan,FY 2006,6,Baptist,6,148
+From: 17 Jul 2006,To: 17 Jul 2006,Russia,FY 2006,25,Baptist,5,148
+From: 17 Jul 2006,To: 17 Jul 2006,Russia,FY 2006,25,Moslem,20,148
+From: 17 Jul 2006,To: 17 Jul 2006,Somalia,FY 2006,44,Moslem,44,148
+From: 17 Jul 2006,To: 17 Jul 2006,Sudan,FY 2006,21,Catholic,10,148
+From: 17 Jul 2006,To: 17 Jul 2006,Sudan,FY 2006,21,Moslem,6,148
+From: 17 Jul 2006,To: 17 Jul 2006,Sudan,FY 2006,21,Protestant,4,148
+From: 17 Jul 2006,To: 17 Jul 2006,Sudan,FY 2006,21,Seventh Day Adventist,1,148
+From: 17 Jul 2006,To: 17 Jul 2006,Ukraine,FY 2006,32,Baptist,13,148
+From: 17 Jul 2006,To: 17 Jul 2006,Ukraine,FY 2006,32,Jewish,3,148
+From: 17 Jul 2006,To: 17 Jul 2006,Ukraine,FY 2006,32,Pentecostalist,16,148
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jul 2006,To: 17 Jul 2006,Baptist,FY 2006,24,Kyrgyzstan,6,148
+From: 17 Jul 2006,To: 17 Jul 2006,Baptist,FY 2006,24,Russia,5,148
+From: 17 Jul 2006,To: 17 Jul 2006,Baptist,FY 2006,24,Ukraine,13,148
+From: 17 Jul 2006,To: 17 Jul 2006,Catholic,FY 2006,10,Sudan,10,148
+From: 17 Jul 2006,To: 17 Jul 2006,Christian,FY 2006,13,Azerbaijan,5,148
+From: 17 Jul 2006,To: 17 Jul 2006,Christian,FY 2006,13,Iran,8,148
+From: 17 Jul 2006,To: 17 Jul 2006,Jewish,FY 2006,3,Ukraine,3,148
+From: 17 Jul 2006,To: 17 Jul 2006,Moslem,FY 2006,71,Ethiopia,1,148
+From: 17 Jul 2006,To: 17 Jul 2006,Moslem,FY 2006,71,Russia,20,148
+From: 17 Jul 2006,To: 17 Jul 2006,Moslem,FY 2006,71,Somalia,44,148
+From: 17 Jul 2006,To: 17 Jul 2006,Moslem,FY 2006,71,Sudan,6,148
+From: 17 Jul 2006,To: 17 Jul 2006,Orthodox,FY 2006,4,Ethiopia,4,148
+From: 17 Jul 2006,To: 17 Jul 2006,Pentecostalist,FY 2006,16,Ukraine,16,148
+From: 17 Jul 2006,To: 17 Jul 2006,Protestant,FY 2006,4,Sudan,4,148
+From: 17 Jul 2006,To: 17 Jul 2006,Seventh Day Adventist,FY 2006,1,Sudan,1,148
+From: 17 Jul 2006,To: 17 Jul 2006,Zoroastrian,FY 2006,2,Iran,2,148
+

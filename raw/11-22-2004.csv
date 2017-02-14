@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Nov 2004,To: 22 Nov 2004,Belarus,FY 2005,23,Baptist,3,335
+From: 22 Nov 2004,To: 22 Nov 2004,Belarus,FY 2005,23,Jewish,7,335
+From: 22 Nov 2004,To: 22 Nov 2004,Belarus,FY 2005,23,Pentecostalist,13,335
+From: 22 Nov 2004,To: 22 Nov 2004,Cuba,FY 2005,10,Jehovah Witness,5,335
+From: 22 Nov 2004,To: 22 Nov 2004,Cuba,FY 2005,10,No Religion,5,335
+From: 22 Nov 2004,To: 22 Nov 2004,Ethiopia,FY 2005,8,Moslem,8,335
+From: 22 Nov 2004,To: 22 Nov 2004,Laos,FY 2005,136,Ancestral Worship,136,335
+From: 22 Nov 2004,To: 22 Nov 2004,Liberia,FY 2005,3,Christian,3,335
+From: 22 Nov 2004,To: 22 Nov 2004,Moldova,FY 2005,35,Baptist,20,335
+From: 22 Nov 2004,To: 22 Nov 2004,Moldova,FY 2005,35,Jehovah Witness,7,335
+From: 22 Nov 2004,To: 22 Nov 2004,Moldova,FY 2005,35,Pentecostalist,8,335
+From: 22 Nov 2004,To: 22 Nov 2004,Somalia,FY 2005,56,Moslem,56,335
+From: 22 Nov 2004,To: 22 Nov 2004,Sudan,FY 2005,34,Christian,1,335
+From: 22 Nov 2004,To: 22 Nov 2004,Sudan,FY 2005,34,Moslem,17,335
+From: 22 Nov 2004,To: 22 Nov 2004,Sudan,FY 2005,34,Protestant,16,335
+From: 22 Nov 2004,To: 22 Nov 2004,Ukraine,FY 2005,30,Baptist,6,335
+From: 22 Nov 2004,To: 22 Nov 2004,Ukraine,FY 2005,30,No Religion,5,335
+From: 22 Nov 2004,To: 22 Nov 2004,Ukraine,FY 2005,30,Pentecostalist,19,335
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Nov 2004,To: 22 Nov 2004,Ancestral Worship,FY 2005,136,Laos,136,335
+From: 22 Nov 2004,To: 22 Nov 2004,Baptist,FY 2005,29,Belarus,3,335
+From: 22 Nov 2004,To: 22 Nov 2004,Baptist,FY 2005,29,Moldova,20,335
+From: 22 Nov 2004,To: 22 Nov 2004,Baptist,FY 2005,29,Ukraine,6,335
+From: 22 Nov 2004,To: 22 Nov 2004,Christian,FY 2005,4,Liberia,3,335
+From: 22 Nov 2004,To: 22 Nov 2004,Christian,FY 2005,4,Sudan,1,335
+From: 22 Nov 2004,To: 22 Nov 2004,Jehovah Witness,FY 2005,12,Cuba,5,335
+From: 22 Nov 2004,To: 22 Nov 2004,Jehovah Witness,FY 2005,12,Moldova,7,335
+From: 22 Nov 2004,To: 22 Nov 2004,Jewish,FY 2005,7,Belarus,7,335
+From: 22 Nov 2004,To: 22 Nov 2004,Moslem,FY 2005,81,Ethiopia,8,335
+From: 22 Nov 2004,To: 22 Nov 2004,Moslem,FY 2005,81,Somalia,56,335
+From: 22 Nov 2004,To: 22 Nov 2004,Moslem,FY 2005,81,Sudan,17,335
+From: 22 Nov 2004,To: 22 Nov 2004,No Religion,FY 2005,10,Cuba,5,335
+From: 22 Nov 2004,To: 22 Nov 2004,No Religion,FY 2005,10,Ukraine,5,335
+From: 22 Nov 2004,To: 22 Nov 2004,Pentecostalist,FY 2005,40,Belarus,13,335
+From: 22 Nov 2004,To: 22 Nov 2004,Pentecostalist,FY 2005,40,Moldova,8,335
+From: 22 Nov 2004,To: 22 Nov 2004,Pentecostalist,FY 2005,40,Ukraine,19,335
+From: 22 Nov 2004,To: 22 Nov 2004,Protestant,FY 2005,16,Sudan,16,335
+

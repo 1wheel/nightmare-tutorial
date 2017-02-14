@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Aug 2009,To: 17 Aug 2009,Bhutan,FY 2009,99,Buddhist,20,269
+From: 17 Aug 2009,To: 17 Aug 2009,Bhutan,FY 2009,99,Christian,7,269
+From: 17 Aug 2009,To: 17 Aug 2009,Bhutan,FY 2009,99,Hindu,72,269
+From: 17 Aug 2009,To: 17 Aug 2009,Eritrea,FY 2009,9,Catholic,2,269
+From: 17 Aug 2009,To: 17 Aug 2009,Eritrea,FY 2009,9,Orthodox,6,269
+From: 17 Aug 2009,To: 17 Aug 2009,Eritrea,FY 2009,9,Pentecostalist,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Ethiopia,FY 2009,1,Orthodox,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Iraq,FY 2009,155,Catholic,2,269
+From: 17 Aug 2009,To: 17 Aug 2009,Iraq,FY 2009,155,Christian,65,269
+From: 17 Aug 2009,To: 17 Aug 2009,Iraq,FY 2009,155,Moslem,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Iraq,FY 2009,155,Moslem Shiite,16,269
+From: 17 Aug 2009,To: 17 Aug 2009,Iraq,FY 2009,155,Moslem Suni,69,269
+From: 17 Aug 2009,To: 17 Aug 2009,Iraq,FY 2009,155,Sabeans-Mandean,2,269
+From: 17 Aug 2009,To: 17 Aug 2009,Somalia,FY 2009,5,Moslem,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Somalia,FY 2009,5,Moslem Suni,4,269
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Aug 2009,To: 17 Aug 2009,Buddhist,FY 2009,20,Bhutan,20,269
+From: 17 Aug 2009,To: 17 Aug 2009,Catholic,FY 2009,4,Eritrea,2,269
+From: 17 Aug 2009,To: 17 Aug 2009,Catholic,FY 2009,4,Iraq,2,269
+From: 17 Aug 2009,To: 17 Aug 2009,Christian,FY 2009,72,Bhutan,7,269
+From: 17 Aug 2009,To: 17 Aug 2009,Christian,FY 2009,72,Iraq,65,269
+From: 17 Aug 2009,To: 17 Aug 2009,Hindu,FY 2009,72,Bhutan,72,269
+From: 17 Aug 2009,To: 17 Aug 2009,Moslem,FY 2009,2,Iraq,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Moslem,FY 2009,2,Somalia,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Moslem Shiite,FY 2009,16,Iraq,16,269
+From: 17 Aug 2009,To: 17 Aug 2009,Moslem Suni,FY 2009,73,Iraq,69,269
+From: 17 Aug 2009,To: 17 Aug 2009,Moslem Suni,FY 2009,73,Somalia,4,269
+From: 17 Aug 2009,To: 17 Aug 2009,Orthodox,FY 2009,7,Eritrea,6,269
+From: 17 Aug 2009,To: 17 Aug 2009,Orthodox,FY 2009,7,Ethiopia,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Pentecostalist,FY 2009,1,Eritrea,1,269
+From: 17 Aug 2009,To: 17 Aug 2009,Sabeans-Mandean,FY 2009,2,Iraq,2,269
+

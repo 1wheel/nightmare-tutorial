@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Feb 2005,To: 15 Feb 2005,Afghanistan,FY 2005,15,Moslem Shiite,15,168
+From: 15 Feb 2005,To: 15 Feb 2005,Azerbaijan,FY 2005,3,Unknown,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Cuba,FY 2005,70,Baptist,4,168
+From: 15 Feb 2005,To: 15 Feb 2005,Cuba,FY 2005,70,Catholic,23,168
+From: 15 Feb 2005,To: 15 Feb 2005,Cuba,FY 2005,70,Evangelical Christian,1,168
+From: 15 Feb 2005,To: 15 Feb 2005,Cuba,FY 2005,70,Jehovah Witness,2,168
+From: 15 Feb 2005,To: 15 Feb 2005,Cuba,FY 2005,70,No Religion,40,168
+From: 15 Feb 2005,To: 15 Feb 2005,Liberia,FY 2005,4,Catholic,1,168
+From: 15 Feb 2005,To: 15 Feb 2005,Liberia,FY 2005,4,Moslem,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Russia,FY 2005,7,Jewish,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Russia,FY 2005,7,No Religion,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Russia,FY 2005,7,Orthodox,1,168
+From: 15 Feb 2005,To: 15 Feb 2005,Somalia,FY 2005,69,Moslem,69,168
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Feb 2005,To: 15 Feb 2005,Baptist,FY 2005,4,Cuba,4,168
+From: 15 Feb 2005,To: 15 Feb 2005,Catholic,FY 2005,24,Cuba,23,168
+From: 15 Feb 2005,To: 15 Feb 2005,Catholic,FY 2005,24,Liberia,1,168
+From: 15 Feb 2005,To: 15 Feb 2005,Evangelical Christian,FY 2005,1,Cuba,1,168
+From: 15 Feb 2005,To: 15 Feb 2005,Jehovah Witness,FY 2005,2,Cuba,2,168
+From: 15 Feb 2005,To: 15 Feb 2005,Jewish,FY 2005,3,Russia,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Moslem,FY 2005,72,Liberia,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Moslem,FY 2005,72,Somalia,69,168
+From: 15 Feb 2005,To: 15 Feb 2005,Moslem Shiite,FY 2005,15,Afghanistan,15,168
+From: 15 Feb 2005,To: 15 Feb 2005,No Religion,FY 2005,43,Cuba,40,168
+From: 15 Feb 2005,To: 15 Feb 2005,No Religion,FY 2005,43,Russia,3,168
+From: 15 Feb 2005,To: 15 Feb 2005,Orthodox,FY 2005,1,Russia,1,168
+From: 15 Feb 2005,To: 15 Feb 2005,Unknown,FY 2005,3,Azerbaijan,3,168
+

@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Sep 2009,To: 21 Sep 2009,Bhutan,FY 2009,104,Buddhist,14,221
+From: 21 Sep 2009,To: 21 Sep 2009,Bhutan,FY 2009,104,Christian,1,221
+From: 21 Sep 2009,To: 21 Sep 2009,Bhutan,FY 2009,104,Hindu,86,221
+From: 21 Sep 2009,To: 21 Sep 2009,Bhutan,FY 2009,104,Kirat,3,221
+From: 21 Sep 2009,To: 21 Sep 2009,Burma,FY 2009,3,Christian,3,221
+From: 21 Sep 2009,To: 21 Sep 2009,Dem. Rep. Congo,FY 2009,1,Protestant,1,221
+From: 21 Sep 2009,To: 21 Sep 2009,Iran,FY 2009,3,Bahai,3,221
+From: 21 Sep 2009,To: 21 Sep 2009,Iraq,FY 2009,88,Catholic,2,221
+From: 21 Sep 2009,To: 21 Sep 2009,Iraq,FY 2009,88,Christian,60,221
+From: 21 Sep 2009,To: 21 Sep 2009,Iraq,FY 2009,88,Moslem Shiite,5,221
+From: 21 Sep 2009,To: 21 Sep 2009,Iraq,FY 2009,88,Moslem Suni,13,221
+From: 21 Sep 2009,To: 21 Sep 2009,Iraq,FY 2009,88,Orthodox,8,221
+From: 21 Sep 2009,To: 21 Sep 2009,Liberia,FY 2009,1,Christian,1,221
+From: 21 Sep 2009,To: 21 Sep 2009,Moldova,FY 2009,19,Baptist,17,221
+From: 21 Sep 2009,To: 21 Sep 2009,Moldova,FY 2009,19,Seventh Day Adventist,2,221
+From: 21 Sep 2009,To: 21 Sep 2009,Ukraine,FY 2009,2,Evangelical Christian,2,221
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Sep 2009,To: 21 Sep 2009,Bahai,FY 2009,3,Iran,3,221
+From: 21 Sep 2009,To: 21 Sep 2009,Baptist,FY 2009,17,Moldova,17,221
+From: 21 Sep 2009,To: 21 Sep 2009,Buddhist,FY 2009,14,Bhutan,14,221
+From: 21 Sep 2009,To: 21 Sep 2009,Catholic,FY 2009,2,Iraq,2,221
+From: 21 Sep 2009,To: 21 Sep 2009,Christian,FY 2009,65,Bhutan,1,221
+From: 21 Sep 2009,To: 21 Sep 2009,Christian,FY 2009,65,Burma,3,221
+From: 21 Sep 2009,To: 21 Sep 2009,Christian,FY 2009,65,Iraq,60,221
+From: 21 Sep 2009,To: 21 Sep 2009,Christian,FY 2009,65,Liberia,1,221
+From: 21 Sep 2009,To: 21 Sep 2009,Evangelical Christian,FY 2009,2,Ukraine,2,221
+From: 21 Sep 2009,To: 21 Sep 2009,Hindu,FY 2009,86,Bhutan,86,221
+From: 21 Sep 2009,To: 21 Sep 2009,Kirat,FY 2009,3,Bhutan,3,221
+From: 21 Sep 2009,To: 21 Sep 2009,Moslem Shiite,FY 2009,5,Iraq,5,221
+From: 21 Sep 2009,To: 21 Sep 2009,Moslem Suni,FY 2009,13,Iraq,13,221
+From: 21 Sep 2009,To: 21 Sep 2009,Orthodox,FY 2009,8,Iraq,8,221
+From: 21 Sep 2009,To: 21 Sep 2009,Protestant,FY 2009,1,Dem. Rep. Congo,1,221
+From: 21 Sep 2009,To: 21 Sep 2009,Seventh Day Adventist,FY 2009,2,Moldova,2,221
+

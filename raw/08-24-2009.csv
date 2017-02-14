@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Aug 2009,To: 24 Aug 2009,Bhutan,FY 2009,97,Buddhist,26,260
+From: 24 Aug 2009,To: 24 Aug 2009,Bhutan,FY 2009,97,Christian,5,260
+From: 24 Aug 2009,To: 24 Aug 2009,Bhutan,FY 2009,97,Hindu,61,260
+From: 24 Aug 2009,To: 24 Aug 2009,Bhutan,FY 2009,97,Kirat,5,260
+From: 24 Aug 2009,To: 24 Aug 2009,Ethiopia,FY 2009,3,Christian,3,260
+From: 24 Aug 2009,To: 24 Aug 2009,Iraq,FY 2009,130,Catholic,1,260
+From: 24 Aug 2009,To: 24 Aug 2009,Iraq,FY 2009,130,Christian,65,260
+From: 24 Aug 2009,To: 24 Aug 2009,Iraq,FY 2009,130,Moslem Shiite,34,260
+From: 24 Aug 2009,To: 24 Aug 2009,Iraq,FY 2009,130,Moslem Suni,23,260
+From: 24 Aug 2009,To: 24 Aug 2009,Iraq,FY 2009,130,Sabeans-Mandean,7,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moldova,FY 2009,25,Baptist,13,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moldova,FY 2009,25,Jehovah Witness,2,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moldova,FY 2009,25,Pentecostalist,7,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moldova,FY 2009,25,Seventh Day Adventist,3,260
+From: 24 Aug 2009,To: 24 Aug 2009,Russia,FY 2009,4,Jewish,4,260
+From: 24 Aug 2009,To: 24 Aug 2009,Sudan,FY 2009,1,Moslem Suni,1,260
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Aug 2009,To: 24 Aug 2009,Baptist,FY 2009,13,Moldova,13,260
+From: 24 Aug 2009,To: 24 Aug 2009,Buddhist,FY 2009,26,Bhutan,26,260
+From: 24 Aug 2009,To: 24 Aug 2009,Catholic,FY 2009,1,Iraq,1,260
+From: 24 Aug 2009,To: 24 Aug 2009,Christian,FY 2009,73,Bhutan,5,260
+From: 24 Aug 2009,To: 24 Aug 2009,Christian,FY 2009,73,Ethiopia,3,260
+From: 24 Aug 2009,To: 24 Aug 2009,Christian,FY 2009,73,Iraq,65,260
+From: 24 Aug 2009,To: 24 Aug 2009,Hindu,FY 2009,61,Bhutan,61,260
+From: 24 Aug 2009,To: 24 Aug 2009,Jehovah Witness,FY 2009,2,Moldova,2,260
+From: 24 Aug 2009,To: 24 Aug 2009,Jewish,FY 2009,4,Russia,4,260
+From: 24 Aug 2009,To: 24 Aug 2009,Kirat,FY 2009,5,Bhutan,5,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moslem Shiite,FY 2009,34,Iraq,34,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moslem Suni,FY 2009,24,Iraq,23,260
+From: 24 Aug 2009,To: 24 Aug 2009,Moslem Suni,FY 2009,24,Sudan,1,260
+From: 24 Aug 2009,To: 24 Aug 2009,Pentecostalist,FY 2009,7,Moldova,7,260
+From: 24 Aug 2009,To: 24 Aug 2009,Sabeans-Mandean,FY 2009,7,Iraq,7,260
+From: 24 Aug 2009,To: 24 Aug 2009,Seventh Day Adventist,FY 2009,3,Moldova,3,260
+

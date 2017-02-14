@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jul 2003,To: 29 Jul 2003,Afghanistan,FY 2003,1,Moslem,1,113
+From: 29 Jul 2003,To: 29 Jul 2003,Azerbaijan,FY 2003,4,Unknown,4,113
+From: 29 Jul 2003,To: 29 Jul 2003,Iran,FY 2003,1,Moslem,1,113
+From: 29 Jul 2003,To: 29 Jul 2003,Russia,FY 2003,29,Baptist,1,113
+From: 29 Jul 2003,To: 29 Jul 2003,Russia,FY 2003,29,Jewish,13,113
+From: 29 Jul 2003,To: 29 Jul 2003,Russia,FY 2003,29,No Religion,5,113
+From: 29 Jul 2003,To: 29 Jul 2003,Russia,FY 2003,29,Pentecostalist,8,113
+From: 29 Jul 2003,To: 29 Jul 2003,Russia,FY 2003,29,Unknown,2,113
+From: 29 Jul 2003,To: 29 Jul 2003,Somalia,FY 2003,2,Moslem,2,113
+From: 29 Jul 2003,To: 29 Jul 2003,Ukraine,FY 2003,76,Baptist,35,113
+From: 29 Jul 2003,To: 29 Jul 2003,Ukraine,FY 2003,76,Jewish,2,113
+From: 29 Jul 2003,To: 29 Jul 2003,Ukraine,FY 2003,76,Pentecostalist,37,113
+From: 29 Jul 2003,To: 29 Jul 2003,Ukraine,FY 2003,76,Uniate,2,113
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jul 2003,To: 29 Jul 2003,Baptist,FY 2003,36,Russia,1,113
+From: 29 Jul 2003,To: 29 Jul 2003,Baptist,FY 2003,36,Ukraine,35,113
+From: 29 Jul 2003,To: 29 Jul 2003,Jewish,FY 2003,15,Russia,13,113
+From: 29 Jul 2003,To: 29 Jul 2003,Jewish,FY 2003,15,Ukraine,2,113
+From: 29 Jul 2003,To: 29 Jul 2003,Moslem,FY 2003,4,Afghanistan,1,113
+From: 29 Jul 2003,To: 29 Jul 2003,Moslem,FY 2003,4,Iran,1,113
+From: 29 Jul 2003,To: 29 Jul 2003,Moslem,FY 2003,4,Somalia,2,113
+From: 29 Jul 2003,To: 29 Jul 2003,No Religion,FY 2003,5,Russia,5,113
+From: 29 Jul 2003,To: 29 Jul 2003,Pentecostalist,FY 2003,45,Russia,8,113
+From: 29 Jul 2003,To: 29 Jul 2003,Pentecostalist,FY 2003,45,Ukraine,37,113
+From: 29 Jul 2003,To: 29 Jul 2003,Uniate,FY 2003,2,Ukraine,2,113
+From: 29 Jul 2003,To: 29 Jul 2003,Unknown,FY 2003,6,Azerbaijan,4,113
+From: 29 Jul 2003,To: 29 Jul 2003,Unknown,FY 2003,6,Russia,2,113
+

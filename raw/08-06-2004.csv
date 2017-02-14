@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Aug 2004,To: 06 Aug 2004,Burma,FY 2004,30,Baptist,4,168
+From: 06 Aug 2004,To: 06 Aug 2004,Burma,FY 2004,30,Buddhist,15,168
+From: 06 Aug 2004,To: 06 Aug 2004,Burma,FY 2004,30,Protestant,11,168
+From: 06 Aug 2004,To: 06 Aug 2004,Cuba,FY 2004,35,Catholic,4,168
+From: 06 Aug 2004,To: 06 Aug 2004,Cuba,FY 2004,35,Jehovah Witness,8,168
+From: 06 Aug 2004,To: 06 Aug 2004,Cuba,FY 2004,35,No Religion,17,168
+From: 06 Aug 2004,To: 06 Aug 2004,Cuba,FY 2004,35,Pentecostalist,6,168
+From: 06 Aug 2004,To: 06 Aug 2004,Eritrea,FY 2004,5,Orthodox,5,168
+From: 06 Aug 2004,To: 06 Aug 2004,Haiti,FY 2004,2,Catholic,2,168
+From: 06 Aug 2004,To: 06 Aug 2004,Laos,FY 2004,35,Ancestral Worship,35,168
+From: 06 Aug 2004,To: 06 Aug 2004,Somalia,FY 2004,60,Moslem,60,168
+From: 06 Aug 2004,To: 06 Aug 2004,Ukraine,FY 2004,1,Baptist,1,168
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Aug 2004,To: 06 Aug 2004,Ancestral Worship,FY 2004,35,Laos,35,168
+From: 06 Aug 2004,To: 06 Aug 2004,Baptist,FY 2004,5,Burma,4,168
+From: 06 Aug 2004,To: 06 Aug 2004,Baptist,FY 2004,5,Ukraine,1,168
+From: 06 Aug 2004,To: 06 Aug 2004,Buddhist,FY 2004,15,Burma,15,168
+From: 06 Aug 2004,To: 06 Aug 2004,Catholic,FY 2004,6,Cuba,4,168
+From: 06 Aug 2004,To: 06 Aug 2004,Catholic,FY 2004,6,Haiti,2,168
+From: 06 Aug 2004,To: 06 Aug 2004,Jehovah Witness,FY 2004,8,Cuba,8,168
+From: 06 Aug 2004,To: 06 Aug 2004,Moslem,FY 2004,60,Somalia,60,168
+From: 06 Aug 2004,To: 06 Aug 2004,No Religion,FY 2004,17,Cuba,17,168
+From: 06 Aug 2004,To: 06 Aug 2004,Orthodox,FY 2004,5,Eritrea,5,168
+From: 06 Aug 2004,To: 06 Aug 2004,Pentecostalist,FY 2004,6,Cuba,6,168
+From: 06 Aug 2004,To: 06 Aug 2004,Protestant,FY 2004,11,Burma,11,168
+

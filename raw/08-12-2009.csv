@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Aug 2009,To: 12 Aug 2009,Bhutan,FY 2009,106,Buddhist,12,361
+From: 12 Aug 2009,To: 12 Aug 2009,Bhutan,FY 2009,106,Christian,9,361
+From: 12 Aug 2009,To: 12 Aug 2009,Bhutan,FY 2009,106,Hindu,79,361
+From: 12 Aug 2009,To: 12 Aug 2009,Bhutan,FY 2009,106,Kirat,6,361
+From: 12 Aug 2009,To: 12 Aug 2009,Burundi,FY 2009,2,Christian,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Dem. Rep. Congo,FY 2009,14,Catholic,11,361
+From: 12 Aug 2009,To: 12 Aug 2009,Dem. Rep. Congo,FY 2009,14,Moslem,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Dem. Rep. Congo,FY 2009,14,Pentecostalist,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Eritrea,FY 2009,1,Protestant,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Ethiopia,FY 2009,4,Christian,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Ethiopia,FY 2009,4,Pentecostalist,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Ethiopia,FY 2009,4,Protestant,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iran,FY 2009,25,Christian,21,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iran,FY 2009,25,Zoroastrian,4,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iraq,FY 2009,71,Christian,29,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iraq,FY 2009,71,Moslem,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iraq,FY 2009,71,Moslem Shiite,10,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iraq,FY 2009,71,Moslem Suni,27,361
+From: 12 Aug 2009,To: 12 Aug 2009,Iraq,FY 2009,71,Sabeans-Mandean,4,361
+From: 12 Aug 2009,To: 12 Aug 2009,Pakistan,FY 2009,5,Other Religion,5,361
+From: 12 Aug 2009,To: 12 Aug 2009,Somalia,FY 2009,88,Christian,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Somalia,FY 2009,88,Moslem,87,361
+From: 12 Aug 2009,To: 12 Aug 2009,Sudan,FY 2009,11,Moslem,11,361
+From: 12 Aug 2009,To: 12 Aug 2009,Vietnam,FY 2009,34,Ancestral Worship,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Vietnam,FY 2009,34,Buddhist,6,361
+From: 12 Aug 2009,To: 12 Aug 2009,Vietnam,FY 2009,34,Catholic,12,361
+From: 12 Aug 2009,To: 12 Aug 2009,Vietnam,FY 2009,34,No Religion,10,361
+From: 12 Aug 2009,To: 12 Aug 2009,Vietnam,FY 2009,34,Protestant,4,361
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Aug 2009,To: 12 Aug 2009,Ancestral Worship,FY 2009,2,Vietnam,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Buddhist,FY 2009,18,Bhutan,12,361
+From: 12 Aug 2009,To: 12 Aug 2009,Buddhist,FY 2009,18,Vietnam,6,361
+From: 12 Aug 2009,To: 12 Aug 2009,Catholic,FY 2009,23,Dem. Rep. Congo,11,361
+From: 12 Aug 2009,To: 12 Aug 2009,Catholic,FY 2009,23,Vietnam,12,361
+From: 12 Aug 2009,To: 12 Aug 2009,Christian,FY 2009,63,Bhutan,9,361
+From: 12 Aug 2009,To: 12 Aug 2009,Christian,FY 2009,63,Burundi,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Christian,FY 2009,63,Ethiopia,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Christian,FY 2009,63,Iran,21,361
+From: 12 Aug 2009,To: 12 Aug 2009,Christian,FY 2009,63,Iraq,29,361
+From: 12 Aug 2009,To: 12 Aug 2009,Christian,FY 2009,63,Somalia,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Hindu,FY 2009,79,Bhutan,79,361
+From: 12 Aug 2009,To: 12 Aug 2009,Kirat,FY 2009,6,Bhutan,6,361
+From: 12 Aug 2009,To: 12 Aug 2009,Moslem,FY 2009,101,Dem. Rep. Congo,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Moslem,FY 2009,101,Iraq,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Moslem,FY 2009,101,Somalia,87,361
+From: 12 Aug 2009,To: 12 Aug 2009,Moslem,FY 2009,101,Sudan,11,361
+From: 12 Aug 2009,To: 12 Aug 2009,Moslem Shiite,FY 2009,10,Iraq,10,361
+From: 12 Aug 2009,To: 12 Aug 2009,Moslem Suni,FY 2009,27,Iraq,27,361
+From: 12 Aug 2009,To: 12 Aug 2009,No Religion,FY 2009,10,Vietnam,10,361
+From: 12 Aug 2009,To: 12 Aug 2009,Other Religion,FY 2009,5,Pakistan,5,361
+From: 12 Aug 2009,To: 12 Aug 2009,Pentecostalist,FY 2009,2,Dem. Rep. Congo,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Pentecostalist,FY 2009,2,Ethiopia,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Protestant,FY 2009,7,Eritrea,1,361
+From: 12 Aug 2009,To: 12 Aug 2009,Protestant,FY 2009,7,Ethiopia,2,361
+From: 12 Aug 2009,To: 12 Aug 2009,Protestant,FY 2009,7,Vietnam,4,361
+From: 12 Aug 2009,To: 12 Aug 2009,Sabeans-Mandean,FY 2009,4,Iraq,4,361
+From: 12 Aug 2009,To: 12 Aug 2009,Zoroastrian,FY 2009,4,Iran,4,361
+

@@ -1,0 +1,87 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Dec 2013,To: 03 Dec 2013,Afghanistan,FY 2014,6,Moslem Suni,6,598
+From: 03 Dec 2013,To: 03 Dec 2013,Bhutan,FY 2014,130,Buddhist,37,598
+From: 03 Dec 2013,To: 03 Dec 2013,Bhutan,FY 2014,130,Christian,16,598
+From: 03 Dec 2013,To: 03 Dec 2013,Bhutan,FY 2014,130,Hindu,54,598
+From: 03 Dec 2013,To: 03 Dec 2013,Bhutan,FY 2014,130,Kirat,23,598
+From: 03 Dec 2013,To: 03 Dec 2013,Burma,FY 2014,154,Baptist,4,598
+From: 03 Dec 2013,To: 03 Dec 2013,Burma,FY 2014,154,Buddhist,31,598
+From: 03 Dec 2013,To: 03 Dec 2013,Burma,FY 2014,154,Catholic,6,598
+From: 03 Dec 2013,To: 03 Dec 2013,Burma,FY 2014,154,Christian,107,598
+From: 03 Dec 2013,To: 03 Dec 2013,Burma,FY 2014,154,Moslem,5,598
+From: 03 Dec 2013,To: 03 Dec 2013,Burma,FY 2014,154,Unknown,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Cuba,FY 2014,68,Catholic,28,598
+From: 03 Dec 2013,To: 03 Dec 2013,Cuba,FY 2014,68,Evangelical Christian,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Cuba,FY 2014,68,Jehovah Witness,18,598
+From: 03 Dec 2013,To: 03 Dec 2013,Cuba,FY 2014,68,No Religion,11,598
+From: 03 Dec 2013,To: 03 Dec 2013,Cuba,FY 2014,68,Seventh Day Adventist,7,598
+From: 03 Dec 2013,To: 03 Dec 2013,Cuba,FY 2014,68,Unknown,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Dem. Rep. Congo,FY 2014,52,Catholic,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Dem. Rep. Congo,FY 2014,52,Christian,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Dem. Rep. Congo,FY 2014,52,Pentecostalist,33,598
+From: 03 Dec 2013,To: 03 Dec 2013,Dem. Rep. Congo,FY 2014,52,Protestant,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Dem. Rep. Congo,FY 2014,52,Seventh Day Adventist,13,598
+From: 03 Dec 2013,To: 03 Dec 2013,Eritrea,FY 2014,1,Moslem,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Ethiopia,FY 2014,11,Christian,5,598
+From: 03 Dec 2013,To: 03 Dec 2013,Ethiopia,FY 2014,11,Moslem,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Ethiopia,FY 2014,11,Pentecostalist,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Iran,FY 2014,3,Moslem Shiite,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Iran,FY 2014,3,Protestant,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Iraq,FY 2014,85,Catholic,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Iraq,FY 2014,85,Christian,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Iraq,FY 2014,85,Moslem Shiite,47,598
+From: 03 Dec 2013,To: 03 Dec 2013,Iraq,FY 2014,85,Moslem Suni,35,598
+From: 03 Dec 2013,To: 03 Dec 2013,Liberia,FY 2014,1,Christian,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Nigeria,FY 2014,2,Unknown,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Palestine,FY 2014,1,Moslem,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Somalia,FY 2014,80,Moslem,78,598
+From: 03 Dec 2013,To: 03 Dec 2013,Somalia,FY 2014,80,Pentecostalist,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Sudan,FY 2014,2,Moslem,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Sudan,FY 2014,2,Protestant,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Ukraine,FY 2014,2,Baptist,2,598
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Dec 2013,To: 03 Dec 2013,Baptist,FY 2014,6,Burma,4,598
+From: 03 Dec 2013,To: 03 Dec 2013,Baptist,FY 2014,6,Ukraine,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Buddhist,FY 2014,68,Bhutan,37,598
+From: 03 Dec 2013,To: 03 Dec 2013,Buddhist,FY 2014,68,Burma,31,598
+From: 03 Dec 2013,To: 03 Dec 2013,Catholic,FY 2014,37,Burma,6,598
+From: 03 Dec 2013,To: 03 Dec 2013,Catholic,FY 2014,37,Cuba,28,598
+From: 03 Dec 2013,To: 03 Dec 2013,Catholic,FY 2014,37,Dem. Rep. Congo,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Catholic,FY 2014,37,Iraq,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Christian,FY 2014,132,Bhutan,16,598
+From: 03 Dec 2013,To: 03 Dec 2013,Christian,FY 2014,132,Burma,107,598
+From: 03 Dec 2013,To: 03 Dec 2013,Christian,FY 2014,132,Dem. Rep. Congo,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Christian,FY 2014,132,Ethiopia,5,598
+From: 03 Dec 2013,To: 03 Dec 2013,Christian,FY 2014,132,Iraq,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Christian,FY 2014,132,Liberia,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Evangelical Christian,FY 2014,1,Cuba,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Hindu,FY 2014,54,Bhutan,54,598
+From: 03 Dec 2013,To: 03 Dec 2013,Jehovah Witness,FY 2014,18,Cuba,18,598
+From: 03 Dec 2013,To: 03 Dec 2013,Kirat,FY 2014,23,Bhutan,23,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem,FY 2014,89,Burma,5,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem,FY 2014,89,Eritrea,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem,FY 2014,89,Ethiopia,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem,FY 2014,89,Palestine,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem,FY 2014,89,Somalia,78,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem,FY 2014,89,Sudan,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem Shiite,FY 2014,48,Iran,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem Shiite,FY 2014,48,Iraq,47,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem Suni,FY 2014,41,Afghanistan,6,598
+From: 03 Dec 2013,To: 03 Dec 2013,Moslem Suni,FY 2014,41,Iraq,35,598
+From: 03 Dec 2013,To: 03 Dec 2013,No Religion,FY 2014,11,Cuba,11,598
+From: 03 Dec 2013,To: 03 Dec 2013,Pentecostalist,FY 2014,38,Dem. Rep. Congo,33,598
+From: 03 Dec 2013,To: 03 Dec 2013,Pentecostalist,FY 2014,38,Ethiopia,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Pentecostalist,FY 2014,38,Somalia,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Protestant,FY 2014,6,Dem. Rep. Congo,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Protestant,FY 2014,6,Iran,2,598
+From: 03 Dec 2013,To: 03 Dec 2013,Protestant,FY 2014,6,Sudan,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Seventh Day Adventist,FY 2014,20,Cuba,7,598
+From: 03 Dec 2013,To: 03 Dec 2013,Seventh Day Adventist,FY 2014,20,Dem. Rep. Congo,13,598
+From: 03 Dec 2013,To: 03 Dec 2013,Unknown,FY 2014,6,Burma,1,598
+From: 03 Dec 2013,To: 03 Dec 2013,Unknown,FY 2014,6,Cuba,3,598
+From: 03 Dec 2013,To: 03 Dec 2013,Unknown,FY 2014,6,Nigeria,2,598
+

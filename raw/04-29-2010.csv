@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Apr 2010,To: 29 Apr 2010,Afghanistan,FY 2010,8,Moslem,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Afghanistan,FY 2010,8,Moslem Suni,7,446
+From: 29 Apr 2010,To: 29 Apr 2010,Bhutan,FY 2010,140,Buddhist,22,446
+From: 29 Apr 2010,To: 29 Apr 2010,Bhutan,FY 2010,140,Christian,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Bhutan,FY 2010,140,Hindu,108,446
+From: 29 Apr 2010,To: 29 Apr 2010,Bhutan,FY 2010,140,Kirat,8,446
+From: 29 Apr 2010,To: 29 Apr 2010,Burma,FY 2010,70,Baptist,6,446
+From: 29 Apr 2010,To: 29 Apr 2010,Burma,FY 2010,70,Buddhist,6,446
+From: 29 Apr 2010,To: 29 Apr 2010,Burma,FY 2010,70,Christian,58,446
+From: 29 Apr 2010,To: 29 Apr 2010,Colombia,FY 2010,2,Catholic,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Cuba,FY 2010,5,Baptist,5,446
+From: 29 Apr 2010,To: 29 Apr 2010,Dem. Rep. Congo,FY 2010,5,Catholic,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Dem. Rep. Congo,FY 2010,5,Seventh Day Adventist,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Eritrea,FY 2010,10,Catholic,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Eritrea,FY 2010,10,Orthodox,6,446
+From: 29 Apr 2010,To: 29 Apr 2010,Ethiopia,FY 2010,3,Moslem,3,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iran,FY 2010,69,Bahai,7,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iran,FY 2010,69,Christian,43,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iran,FY 2010,69,Jewish,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iran,FY 2010,69,Moslem Suni,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iran,FY 2010,69,Sabeans-Mandean,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iran,FY 2010,69,Zoroastrian,12,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Catholic,8,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Christian,25,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Moslem,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Moslem Shiite,24,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Moslem Suni,33,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Orthodox,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Sabeans-Mandean,3,446
+From: 29 Apr 2010,To: 29 Apr 2010,Iraq,FY 2010,104,Yazidi,8,446
+From: 29 Apr 2010,To: 29 Apr 2010,Liberia,FY 2010,1,Moslem,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Pakistan,FY 2010,2,Ahmadiyya,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Sierra Leone,FY 2010,1,Moslem,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Somalia,FY 2010,7,Moslem,7,446
+From: 29 Apr 2010,To: 29 Apr 2010,Syria,FY 2010,1,Moslem Suni,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Ukraine,FY 2010,18,Baptist,3,446
+From: 29 Apr 2010,To: 29 Apr 2010,Ukraine,FY 2010,18,Jewish,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Ukraine,FY 2010,18,Pentecostalist,9,446
+From: 29 Apr 2010,To: 29 Apr 2010,Ukraine,FY 2010,18,Uniate,4,446
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Apr 2010,To: 29 Apr 2010,Ahmadiyya,FY 2010,2,Pakistan,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Bahai,FY 2010,7,Iran,7,446
+From: 29 Apr 2010,To: 29 Apr 2010,Baptist,FY 2010,14,Burma,6,446
+From: 29 Apr 2010,To: 29 Apr 2010,Baptist,FY 2010,14,Cuba,5,446
+From: 29 Apr 2010,To: 29 Apr 2010,Baptist,FY 2010,14,Ukraine,3,446
+From: 29 Apr 2010,To: 29 Apr 2010,Buddhist,FY 2010,28,Bhutan,22,446
+From: 29 Apr 2010,To: 29 Apr 2010,Buddhist,FY 2010,28,Burma,6,446
+From: 29 Apr 2010,To: 29 Apr 2010,Catholic,FY 2010,15,Colombia,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Catholic,FY 2010,15,Dem. Rep. Congo,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Catholic,FY 2010,15,Eritrea,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Catholic,FY 2010,15,Iraq,8,446
+From: 29 Apr 2010,To: 29 Apr 2010,Christian,FY 2010,128,Bhutan,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Christian,FY 2010,128,Burma,58,446
+From: 29 Apr 2010,To: 29 Apr 2010,Christian,FY 2010,128,Iran,43,446
+From: 29 Apr 2010,To: 29 Apr 2010,Christian,FY 2010,128,Iraq,25,446
+From: 29 Apr 2010,To: 29 Apr 2010,Hindu,FY 2010,108,Bhutan,108,446
+From: 29 Apr 2010,To: 29 Apr 2010,Jewish,FY 2010,4,Iran,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Jewish,FY 2010,4,Ukraine,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Kirat,FY 2010,8,Bhutan,8,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem,FY 2010,14,Afghanistan,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem,FY 2010,14,Ethiopia,3,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem,FY 2010,14,Iraq,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem,FY 2010,14,Liberia,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem,FY 2010,14,Sierra Leone,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem,FY 2010,14,Somalia,7,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem Shiite,FY 2010,24,Iraq,24,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem Suni,FY 2010,42,Afghanistan,7,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem Suni,FY 2010,42,Iran,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem Suni,FY 2010,42,Iraq,33,446
+From: 29 Apr 2010,To: 29 Apr 2010,Moslem Suni,FY 2010,42,Syria,1,446
+From: 29 Apr 2010,To: 29 Apr 2010,Orthodox,FY 2010,8,Eritrea,6,446
+From: 29 Apr 2010,To: 29 Apr 2010,Orthodox,FY 2010,8,Iraq,2,446
+From: 29 Apr 2010,To: 29 Apr 2010,Pentecostalist,FY 2010,9,Ukraine,9,446
+From: 29 Apr 2010,To: 29 Apr 2010,Sabeans-Mandean,FY 2010,7,Iran,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Sabeans-Mandean,FY 2010,7,Iraq,3,446
+From: 29 Apr 2010,To: 29 Apr 2010,Seventh Day Adventist,FY 2010,4,Dem. Rep. Congo,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Uniate,FY 2010,4,Ukraine,4,446
+From: 29 Apr 2010,To: 29 Apr 2010,Yazidi,FY 2010,8,Iraq,8,446
+From: 29 Apr 2010,To: 29 Apr 2010,Zoroastrian,FY 2010,12,Iran,12,446
+

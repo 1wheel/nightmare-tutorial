@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jan 2013,To: 22 Jan 2013,Belarus,FY 2013,2,Jewish,2,335
+From: 22 Jan 2013,To: 22 Jan 2013,Bhutan,FY 2013,35,Buddhist,13,335
+From: 22 Jan 2013,To: 22 Jan 2013,Bhutan,FY 2013,35,Hindu,19,335
+From: 22 Jan 2013,To: 22 Jan 2013,Bhutan,FY 2013,35,Kirat,3,335
+From: 22 Jan 2013,To: 22 Jan 2013,Burma,FY 2013,99,Baptist,10,335
+From: 22 Jan 2013,To: 22 Jan 2013,Burma,FY 2013,99,Buddhist,16,335
+From: 22 Jan 2013,To: 22 Jan 2013,Burma,FY 2013,99,Catholic,11,335
+From: 22 Jan 2013,To: 22 Jan 2013,Burma,FY 2013,99,Christian,57,335
+From: 22 Jan 2013,To: 22 Jan 2013,Burma,FY 2013,99,Moslem,3,335
+From: 22 Jan 2013,To: 22 Jan 2013,Burma,FY 2013,99,Seventh Day Adventist,2,335
+From: 22 Jan 2013,To: 22 Jan 2013,Dem. Rep. Congo,FY 2013,3,Catholic,3,335
+From: 22 Jan 2013,To: 22 Jan 2013,Eritrea,FY 2013,5,Moslem,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Eritrea,FY 2013,5,Orthodox,4,335
+From: 22 Jan 2013,To: 22 Jan 2013,Ethiopia,FY 2013,1,Orthodox,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iran,FY 2013,42,Atheist,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iran,FY 2013,42,Bahai,11,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iran,FY 2013,42,Christian,17,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iran,FY 2013,42,Sabeans-Mandean,6,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iran,FY 2013,42,Zoroastrian,7,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iraq,FY 2013,81,Catholic,10,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iraq,FY 2013,81,Christian,10,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iraq,FY 2013,81,Moslem,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iraq,FY 2013,81,Moslem Shiite,19,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iraq,FY 2013,81,Moslem Suni,35,335
+From: 22 Jan 2013,To: 22 Jan 2013,Iraq,FY 2013,81,Orthodox,6,335
+From: 22 Jan 2013,To: 22 Jan 2013,Somalia,FY 2013,67,Moslem,63,335
+From: 22 Jan 2013,To: 22 Jan 2013,Somalia,FY 2013,67,Moslem Suni,4,335
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jan 2013,To: 22 Jan 2013,Atheist,FY 2013,1,Iran,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Bahai,FY 2013,11,Iran,11,335
+From: 22 Jan 2013,To: 22 Jan 2013,Baptist,FY 2013,10,Burma,10,335
+From: 22 Jan 2013,To: 22 Jan 2013,Buddhist,FY 2013,29,Bhutan,13,335
+From: 22 Jan 2013,To: 22 Jan 2013,Buddhist,FY 2013,29,Burma,16,335
+From: 22 Jan 2013,To: 22 Jan 2013,Catholic,FY 2013,24,Burma,11,335
+From: 22 Jan 2013,To: 22 Jan 2013,Catholic,FY 2013,24,Dem. Rep. Congo,3,335
+From: 22 Jan 2013,To: 22 Jan 2013,Catholic,FY 2013,24,Iraq,10,335
+From: 22 Jan 2013,To: 22 Jan 2013,Christian,FY 2013,84,Burma,57,335
+From: 22 Jan 2013,To: 22 Jan 2013,Christian,FY 2013,84,Iran,17,335
+From: 22 Jan 2013,To: 22 Jan 2013,Christian,FY 2013,84,Iraq,10,335
+From: 22 Jan 2013,To: 22 Jan 2013,Hindu,FY 2013,19,Bhutan,19,335
+From: 22 Jan 2013,To: 22 Jan 2013,Jewish,FY 2013,2,Belarus,2,335
+From: 22 Jan 2013,To: 22 Jan 2013,Kirat,FY 2013,3,Bhutan,3,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem,FY 2013,68,Burma,3,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem,FY 2013,68,Eritrea,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem,FY 2013,68,Iraq,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem,FY 2013,68,Somalia,63,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem Shiite,FY 2013,19,Iraq,19,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem Suni,FY 2013,39,Iraq,35,335
+From: 22 Jan 2013,To: 22 Jan 2013,Moslem Suni,FY 2013,39,Somalia,4,335
+From: 22 Jan 2013,To: 22 Jan 2013,Orthodox,FY 2013,11,Eritrea,4,335
+From: 22 Jan 2013,To: 22 Jan 2013,Orthodox,FY 2013,11,Ethiopia,1,335
+From: 22 Jan 2013,To: 22 Jan 2013,Orthodox,FY 2013,11,Iraq,6,335
+From: 22 Jan 2013,To: 22 Jan 2013,Sabeans-Mandean,FY 2013,6,Iran,6,335
+From: 22 Jan 2013,To: 22 Jan 2013,Seventh Day Adventist,FY 2013,2,Burma,2,335
+From: 22 Jan 2013,To: 22 Jan 2013,Zoroastrian,FY 2013,7,Iran,7,335
+

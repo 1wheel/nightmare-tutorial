@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Apr 2004,To: 22 Apr 2004,Bosnia and Herzegovina,FY 2004,17,Moslem,2,463
+From: 22 Apr 2004,To: 22 Apr 2004,Bosnia and Herzegovina,FY 2004,17,No Religion,4,463
+From: 22 Apr 2004,To: 22 Apr 2004,Bosnia and Herzegovina,FY 2004,17,Orthodox,11,463
+From: 22 Apr 2004,To: 22 Apr 2004,Croatia,FY 2004,4,Orthodox,4,463
+From: 22 Apr 2004,To: 22 Apr 2004,Ethiopia,FY 2004,13,Christian,3,463
+From: 22 Apr 2004,To: 22 Apr 2004,Ethiopia,FY 2004,13,Moslem,9,463
+From: 22 Apr 2004,To: 22 Apr 2004,Ethiopia,FY 2004,13,Orthodox,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Baptist,6,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Catholic,14,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Christian,39,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Evangelical Christian,5,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Jehovah Witness,2,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Moslem,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Other Religion,8,463
+From: 22 Apr 2004,To: 22 Apr 2004,Liberia,FY 2004,88,Pentecostalist,13,463
+From: 22 Apr 2004,To: 22 Apr 2004,Somalia,FY 2004,268,Moslem,268,463
+From: 22 Apr 2004,To: 22 Apr 2004,Ukraine,FY 2004,33,Baptist,7,463
+From: 22 Apr 2004,To: 22 Apr 2004,Ukraine,FY 2004,33,Jewish,5,463
+From: 22 Apr 2004,To: 22 Apr 2004,Ukraine,FY 2004,33,Pentecostalist,21,463
+From: 22 Apr 2004,To: 22 Apr 2004,Uzbekistan,FY 2004,12,Christian,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Uzbekistan,FY 2004,12,Jewish,6,463
+From: 22 Apr 2004,To: 22 Apr 2004,Uzbekistan,FY 2004,12,No Religion,4,463
+From: 22 Apr 2004,To: 22 Apr 2004,Uzbekistan,FY 2004,12,Seventh Day Adventist,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Vietnam,FY 2004,28,Ancestral Worship,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Vietnam,FY 2004,28,Buddhist,7,463
+From: 22 Apr 2004,To: 22 Apr 2004,Vietnam,FY 2004,28,Catholic,10,463
+From: 22 Apr 2004,To: 22 Apr 2004,Vietnam,FY 2004,28,No Religion,10,463
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Apr 2004,To: 22 Apr 2004,Ancestral Worship,FY 2004,1,Vietnam,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Baptist,FY 2004,13,Liberia,6,463
+From: 22 Apr 2004,To: 22 Apr 2004,Baptist,FY 2004,13,Ukraine,7,463
+From: 22 Apr 2004,To: 22 Apr 2004,Buddhist,FY 2004,7,Vietnam,7,463
+From: 22 Apr 2004,To: 22 Apr 2004,Catholic,FY 2004,24,Liberia,14,463
+From: 22 Apr 2004,To: 22 Apr 2004,Catholic,FY 2004,24,Vietnam,10,463
+From: 22 Apr 2004,To: 22 Apr 2004,Christian,FY 2004,43,Ethiopia,3,463
+From: 22 Apr 2004,To: 22 Apr 2004,Christian,FY 2004,43,Liberia,39,463
+From: 22 Apr 2004,To: 22 Apr 2004,Christian,FY 2004,43,Uzbekistan,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Evangelical Christian,FY 2004,5,Liberia,5,463
+From: 22 Apr 2004,To: 22 Apr 2004,Jehovah Witness,FY 2004,2,Liberia,2,463
+From: 22 Apr 2004,To: 22 Apr 2004,Jewish,FY 2004,11,Ukraine,5,463
+From: 22 Apr 2004,To: 22 Apr 2004,Jewish,FY 2004,11,Uzbekistan,6,463
+From: 22 Apr 2004,To: 22 Apr 2004,Moslem,FY 2004,280,Bosnia and Herzegovina,2,463
+From: 22 Apr 2004,To: 22 Apr 2004,Moslem,FY 2004,280,Ethiopia,9,463
+From: 22 Apr 2004,To: 22 Apr 2004,Moslem,FY 2004,280,Liberia,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Moslem,FY 2004,280,Somalia,268,463
+From: 22 Apr 2004,To: 22 Apr 2004,No Religion,FY 2004,18,Bosnia and Herzegovina,4,463
+From: 22 Apr 2004,To: 22 Apr 2004,No Religion,FY 2004,18,Uzbekistan,4,463
+From: 22 Apr 2004,To: 22 Apr 2004,No Religion,FY 2004,18,Vietnam,10,463
+From: 22 Apr 2004,To: 22 Apr 2004,Orthodox,FY 2004,16,Bosnia and Herzegovina,11,463
+From: 22 Apr 2004,To: 22 Apr 2004,Orthodox,FY 2004,16,Croatia,4,463
+From: 22 Apr 2004,To: 22 Apr 2004,Orthodox,FY 2004,16,Ethiopia,1,463
+From: 22 Apr 2004,To: 22 Apr 2004,Other Religion,FY 2004,8,Liberia,8,463
+From: 22 Apr 2004,To: 22 Apr 2004,Pentecostalist,FY 2004,34,Liberia,13,463
+From: 22 Apr 2004,To: 22 Apr 2004,Pentecostalist,FY 2004,34,Ukraine,21,463
+From: 22 Apr 2004,To: 22 Apr 2004,Seventh Day Adventist,FY 2004,1,Uzbekistan,1,463
+

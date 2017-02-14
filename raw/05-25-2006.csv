@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 May 2006,To: 25 May 2006,Dem. Rep. Congo,FY 2006,1,Christian,1,117
+From: 25 May 2006,To: 25 May 2006,Ethiopia,FY 2006,13,Christian,7,117
+From: 25 May 2006,To: 25 May 2006,Ethiopia,FY 2006,13,Moslem,6,117
+From: 25 May 2006,To: 25 May 2006,Kazakhstan,FY 2006,8,Pentecostalist,8,117
+From: 25 May 2006,To: 25 May 2006,Moldova,FY 2006,35,Baptist,21,117
+From: 25 May 2006,To: 25 May 2006,Moldova,FY 2006,35,Pentecostalist,14,117
+From: 25 May 2006,To: 25 May 2006,Russia,FY 2006,8,Jewish,8,117
+From: 25 May 2006,To: 25 May 2006,Somalia,FY 2006,50,Moslem,50,117
+From: 25 May 2006,To: 25 May 2006,Sudan,FY 2006,2,Christian,2,117
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 May 2006,To: 25 May 2006,Baptist,FY 2006,21,Moldova,21,117
+From: 25 May 2006,To: 25 May 2006,Christian,FY 2006,10,Dem. Rep. Congo,1,117
+From: 25 May 2006,To: 25 May 2006,Christian,FY 2006,10,Ethiopia,7,117
+From: 25 May 2006,To: 25 May 2006,Christian,FY 2006,10,Sudan,2,117
+From: 25 May 2006,To: 25 May 2006,Jewish,FY 2006,8,Russia,8,117
+From: 25 May 2006,To: 25 May 2006,Moslem,FY 2006,56,Ethiopia,6,117
+From: 25 May 2006,To: 25 May 2006,Moslem,FY 2006,56,Somalia,50,117
+From: 25 May 2006,To: 25 May 2006,Pentecostalist,FY 2006,22,Kazakhstan,8,117
+From: 25 May 2006,To: 25 May 2006,Pentecostalist,FY 2006,22,Moldova,14,117
+

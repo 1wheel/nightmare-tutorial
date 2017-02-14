@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Sep 2014,To: 23 Sep 2014,Bhutan,FY 2014,20,Buddhist,8,352
+From: 23 Sep 2014,To: 23 Sep 2014,Bhutan,FY 2014,20,Kirat,12,352
+From: 23 Sep 2014,To: 23 Sep 2014,Burma,FY 2014,119,Baptist,8,352
+From: 23 Sep 2014,To: 23 Sep 2014,Burma,FY 2014,119,Buddhist,12,352
+From: 23 Sep 2014,To: 23 Sep 2014,Burma,FY 2014,119,Catholic,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Burma,FY 2014,119,Christian,60,352
+From: 23 Sep 2014,To: 23 Sep 2014,Burma,FY 2014,119,Moslem,34,352
+From: 23 Sep 2014,To: 23 Sep 2014,Burma,FY 2014,119,Protestant,4,352
+From: 23 Sep 2014,To: 23 Sep 2014,Ethiopia,FY 2014,9,Moslem,9,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iran,FY 2014,11,Christian,10,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iran,FY 2014,11,Jewish,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Catholic,12,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Christian,14,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Kaaka'i,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Moslem,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Moslem Shiite,51,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Moslem Suni,64,352
+From: 23 Sep 2014,To: 23 Sep 2014,Iraq,FY 2014,146,Orthodox,3,352
+From: 23 Sep 2014,To: 23 Sep 2014,Pakistan,FY 2014,21,Ahmadiyya,14,352
+From: 23 Sep 2014,To: 23 Sep 2014,Pakistan,FY 2014,21,Christian,7,352
+From: 23 Sep 2014,To: 23 Sep 2014,Palestine,FY 2014,5,Moslem,5,352
+From: 23 Sep 2014,To: 23 Sep 2014,Somalia,FY 2014,17,Moslem,14,352
+From: 23 Sep 2014,To: 23 Sep 2014,Somalia,FY 2014,17,Moslem Suni,3,352
+From: 23 Sep 2014,To: 23 Sep 2014,Sri Lanka (Ceylon),FY 2014,1,Christian,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Vietnam,FY 2014,3,Protestant,3,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Sep 2014,To: 23 Sep 2014,Ahmadiyya,FY 2014,14,Pakistan,14,352
+From: 23 Sep 2014,To: 23 Sep 2014,Baptist,FY 2014,8,Burma,8,352
+From: 23 Sep 2014,To: 23 Sep 2014,Buddhist,FY 2014,20,Bhutan,8,352
+From: 23 Sep 2014,To: 23 Sep 2014,Buddhist,FY 2014,20,Burma,12,352
+From: 23 Sep 2014,To: 23 Sep 2014,Catholic,FY 2014,13,Burma,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Catholic,FY 2014,13,Iraq,12,352
+From: 23 Sep 2014,To: 23 Sep 2014,Christian,FY 2014,92,Burma,60,352
+From: 23 Sep 2014,To: 23 Sep 2014,Christian,FY 2014,92,Iran,10,352
+From: 23 Sep 2014,To: 23 Sep 2014,Christian,FY 2014,92,Iraq,14,352
+From: 23 Sep 2014,To: 23 Sep 2014,Christian,FY 2014,92,Pakistan,7,352
+From: 23 Sep 2014,To: 23 Sep 2014,Christian,FY 2014,92,Sri Lanka (Ceylon),1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Jewish,FY 2014,1,Iran,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Kaaka'i,FY 2014,1,Iraq,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Kirat,FY 2014,12,Bhutan,12,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem,FY 2014,63,Burma,34,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem,FY 2014,63,Ethiopia,9,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem,FY 2014,63,Iraq,1,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem,FY 2014,63,Palestine,5,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem,FY 2014,63,Somalia,14,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem Shiite,FY 2014,51,Iraq,51,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem Suni,FY 2014,67,Iraq,64,352
+From: 23 Sep 2014,To: 23 Sep 2014,Moslem Suni,FY 2014,67,Somalia,3,352
+From: 23 Sep 2014,To: 23 Sep 2014,Orthodox,FY 2014,3,Iraq,3,352
+From: 23 Sep 2014,To: 23 Sep 2014,Protestant,FY 2014,7,Burma,4,352
+From: 23 Sep 2014,To: 23 Sep 2014,Protestant,FY 2014,7,Vietnam,3,352
+

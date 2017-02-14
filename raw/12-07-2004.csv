@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Dec 2004,To: 07 Dec 2004,Azerbaijan,FY 2005,6,Christian,3,299
+From: 07 Dec 2004,To: 07 Dec 2004,Azerbaijan,FY 2005,6,Unknown,3,299
+From: 07 Dec 2004,To: 07 Dec 2004,Croatia,FY 2005,10,Orthodox,10,299
+From: 07 Dec 2004,To: 07 Dec 2004,Cuba,FY 2005,69,Baptist,4,299
+From: 07 Dec 2004,To: 07 Dec 2004,Cuba,FY 2005,69,Catholic,27,299
+From: 07 Dec 2004,To: 07 Dec 2004,Cuba,FY 2005,69,Evangelical Christian,1,299
+From: 07 Dec 2004,To: 07 Dec 2004,Cuba,FY 2005,69,Jehovah Witness,8,299
+From: 07 Dec 2004,To: 07 Dec 2004,Cuba,FY 2005,69,No Religion,23,299
+From: 07 Dec 2004,To: 07 Dec 2004,Cuba,FY 2005,69,Pentecostalist,6,299
+From: 07 Dec 2004,To: 07 Dec 2004,Dem. Rep. Congo,FY 2005,7,Protestant,7,299
+From: 07 Dec 2004,To: 07 Dec 2004,Ethiopia,FY 2005,11,Moslem,11,299
+From: 07 Dec 2004,To: 07 Dec 2004,Iran,FY 2005,20,Bahai,2,299
+From: 07 Dec 2004,To: 07 Dec 2004,Iran,FY 2005,20,Christian,5,299
+From: 07 Dec 2004,To: 07 Dec 2004,Iran,FY 2005,20,Jewish,6,299
+From: 07 Dec 2004,To: 07 Dec 2004,Iran,FY 2005,20,Zoroastrian,7,299
+From: 07 Dec 2004,To: 07 Dec 2004,Liberia,FY 2005,4,Christian,4,299
+From: 07 Dec 2004,To: 07 Dec 2004,Russia,FY 2005,9,Baptist,8,299
+From: 07 Dec 2004,To: 07 Dec 2004,Russia,FY 2005,9,Pentecostalist,1,299
+From: 07 Dec 2004,To: 07 Dec 2004,Serbia,FY 2005,10,Orthodox,10,299
+From: 07 Dec 2004,To: 07 Dec 2004,Somalia,FY 2005,96,Moslem,96,299
+From: 07 Dec 2004,To: 07 Dec 2004,Sudan,FY 2005,27,Catholic,9,299
+From: 07 Dec 2004,To: 07 Dec 2004,Sudan,FY 2005,27,Christian,7,299
+From: 07 Dec 2004,To: 07 Dec 2004,Sudan,FY 2005,27,Moslem,2,299
+From: 07 Dec 2004,To: 07 Dec 2004,Sudan,FY 2005,27,Protestant,9,299
+From: 07 Dec 2004,To: 07 Dec 2004,Ukraine,FY 2005,30,Baptist,3,299
+From: 07 Dec 2004,To: 07 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,27,299
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Dec 2004,To: 07 Dec 2004,Bahai,FY 2005,2,Iran,2,299
+From: 07 Dec 2004,To: 07 Dec 2004,Baptist,FY 2005,15,Cuba,4,299
+From: 07 Dec 2004,To: 07 Dec 2004,Baptist,FY 2005,15,Russia,8,299
+From: 07 Dec 2004,To: 07 Dec 2004,Baptist,FY 2005,15,Ukraine,3,299
+From: 07 Dec 2004,To: 07 Dec 2004,Catholic,FY 2005,36,Cuba,27,299
+From: 07 Dec 2004,To: 07 Dec 2004,Catholic,FY 2005,36,Sudan,9,299
+From: 07 Dec 2004,To: 07 Dec 2004,Christian,FY 2005,19,Azerbaijan,3,299
+From: 07 Dec 2004,To: 07 Dec 2004,Christian,FY 2005,19,Iran,5,299
+From: 07 Dec 2004,To: 07 Dec 2004,Christian,FY 2005,19,Liberia,4,299
+From: 07 Dec 2004,To: 07 Dec 2004,Christian,FY 2005,19,Sudan,7,299
+From: 07 Dec 2004,To: 07 Dec 2004,Evangelical Christian,FY 2005,1,Cuba,1,299
+From: 07 Dec 2004,To: 07 Dec 2004,Jehovah Witness,FY 2005,8,Cuba,8,299
+From: 07 Dec 2004,To: 07 Dec 2004,Jewish,FY 2005,6,Iran,6,299
+From: 07 Dec 2004,To: 07 Dec 2004,Moslem,FY 2005,109,Ethiopia,11,299
+From: 07 Dec 2004,To: 07 Dec 2004,Moslem,FY 2005,109,Somalia,96,299
+From: 07 Dec 2004,To: 07 Dec 2004,Moslem,FY 2005,109,Sudan,2,299
+From: 07 Dec 2004,To: 07 Dec 2004,No Religion,FY 2005,23,Cuba,23,299
+From: 07 Dec 2004,To: 07 Dec 2004,Orthodox,FY 2005,20,Croatia,10,299
+From: 07 Dec 2004,To: 07 Dec 2004,Orthodox,FY 2005,20,Serbia,10,299
+From: 07 Dec 2004,To: 07 Dec 2004,Pentecostalist,FY 2005,34,Cuba,6,299
+From: 07 Dec 2004,To: 07 Dec 2004,Pentecostalist,FY 2005,34,Russia,1,299
+From: 07 Dec 2004,To: 07 Dec 2004,Pentecostalist,FY 2005,34,Ukraine,27,299
+From: 07 Dec 2004,To: 07 Dec 2004,Protestant,FY 2005,16,Dem. Rep. Congo,7,299
+From: 07 Dec 2004,To: 07 Dec 2004,Protestant,FY 2005,16,Sudan,9,299
+From: 07 Dec 2004,To: 07 Dec 2004,Unknown,FY 2005,3,Azerbaijan,3,299
+From: 07 Dec 2004,To: 07 Dec 2004,Zoroastrian,FY 2005,7,Iran,7,299
+

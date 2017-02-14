@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Aug 2007,To: 10 Aug 2007,Burma,FY 2007,59,Buddhist,2,60
+From: 10 Aug 2007,To: 10 Aug 2007,Burma,FY 2007,59,Christian,50,60
+From: 10 Aug 2007,To: 10 Aug 2007,Burma,FY 2007,59,Moslem,7,60
+From: 10 Aug 2007,To: 10 Aug 2007,Liberia,FY 2007,1,Methodist,1,60
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Aug 2007,To: 10 Aug 2007,Buddhist,FY 2007,2,Burma,2,60
+From: 10 Aug 2007,To: 10 Aug 2007,Christian,FY 2007,50,Burma,50,60
+From: 10 Aug 2007,To: 10 Aug 2007,Methodist,FY 2007,1,Liberia,1,60
+From: 10 Aug 2007,To: 10 Aug 2007,Moslem,FY 2007,7,Burma,7,60
+

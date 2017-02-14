@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jan 2009,To: 27 Jan 2009,Afghanistan,FY 2009,1,Moslem Suni,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Bhutan,FY 2009,97,Buddhist,4,454
+From: 27 Jan 2009,To: 27 Jan 2009,Bhutan,FY 2009,97,Christian,11,454
+From: 27 Jan 2009,To: 27 Jan 2009,Bhutan,FY 2009,97,Hindu,77,454
+From: 27 Jan 2009,To: 27 Jan 2009,Bhutan,FY 2009,97,Kirat,5,454
+From: 27 Jan 2009,To: 27 Jan 2009,Burma,FY 2009,167,Buddhist,53,454
+From: 27 Jan 2009,To: 27 Jan 2009,Burma,FY 2009,167,Christian,56,454
+From: 27 Jan 2009,To: 27 Jan 2009,Burma,FY 2009,167,Moslem,58,454
+From: 27 Jan 2009,To: 27 Jan 2009,Colombia,FY 2009,2,Catholic,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Colombia,FY 2009,2,Unknown,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Cuba,FY 2009,25,Catholic,12,454
+From: 27 Jan 2009,To: 27 Jan 2009,Cuba,FY 2009,25,Evangelical Christian,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Cuba,FY 2009,25,Jehovah Witness,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Cuba,FY 2009,25,No Religion,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Eritrea,FY 2009,30,Moslem,7,454
+From: 27 Jan 2009,To: 27 Jan 2009,Eritrea,FY 2009,30,Orthodox,23,454
+From: 27 Jan 2009,To: 27 Jan 2009,Iran,FY 2009,45,Christian,44,454
+From: 27 Jan 2009,To: 27 Jan 2009,Iran,FY 2009,45,Zoroastrian,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Iraq,FY 2009,67,Catholic,10,454
+From: 27 Jan 2009,To: 27 Jan 2009,Iraq,FY 2009,67,Christian,14,454
+From: 27 Jan 2009,To: 27 Jan 2009,Iraq,FY 2009,67,Moslem Shiite,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Iraq,FY 2009,67,Moslem Suni,37,454
+From: 27 Jan 2009,To: 27 Jan 2009,Kazakhstan,FY 2009,13,Baptist,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Kazakhstan,FY 2009,13,Evangelical Christian,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Kazakhstan,FY 2009,13,Seventh Day Adventist,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Rwanda,FY 2009,5,Catholic,5,454
+From: 27 Jan 2009,To: 27 Jan 2009,Sri Lanka (Ceylon),FY 2009,2,Hindu,2,454
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jan 2009,To: 27 Jan 2009,Baptist,FY 2009,1,Kazakhstan,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Buddhist,FY 2009,57,Bhutan,4,454
+From: 27 Jan 2009,To: 27 Jan 2009,Buddhist,FY 2009,57,Burma,53,454
+From: 27 Jan 2009,To: 27 Jan 2009,Catholic,FY 2009,28,Colombia,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Catholic,FY 2009,28,Cuba,12,454
+From: 27 Jan 2009,To: 27 Jan 2009,Catholic,FY 2009,28,Iraq,10,454
+From: 27 Jan 2009,To: 27 Jan 2009,Catholic,FY 2009,28,Rwanda,5,454
+From: 27 Jan 2009,To: 27 Jan 2009,Christian,FY 2009,125,Bhutan,11,454
+From: 27 Jan 2009,To: 27 Jan 2009,Christian,FY 2009,125,Burma,56,454
+From: 27 Jan 2009,To: 27 Jan 2009,Christian,FY 2009,125,Iran,44,454
+From: 27 Jan 2009,To: 27 Jan 2009,Christian,FY 2009,125,Iraq,14,454
+From: 27 Jan 2009,To: 27 Jan 2009,Evangelical Christian,FY 2009,7,Cuba,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Evangelical Christian,FY 2009,7,Kazakhstan,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Hindu,FY 2009,79,Bhutan,77,454
+From: 27 Jan 2009,To: 27 Jan 2009,Hindu,FY 2009,79,Sri Lanka (Ceylon),2,454
+From: 27 Jan 2009,To: 27 Jan 2009,Jehovah Witness,FY 2009,6,Cuba,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Kirat,FY 2009,5,Bhutan,5,454
+From: 27 Jan 2009,To: 27 Jan 2009,Moslem,FY 2009,65,Burma,58,454
+From: 27 Jan 2009,To: 27 Jan 2009,Moslem,FY 2009,65,Eritrea,7,454
+From: 27 Jan 2009,To: 27 Jan 2009,Moslem Shiite,FY 2009,6,Iraq,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Moslem Suni,FY 2009,38,Afghanistan,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Moslem Suni,FY 2009,38,Iraq,37,454
+From: 27 Jan 2009,To: 27 Jan 2009,No Religion,FY 2009,6,Cuba,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Orthodox,FY 2009,23,Eritrea,23,454
+From: 27 Jan 2009,To: 27 Jan 2009,Seventh Day Adventist,FY 2009,6,Kazakhstan,6,454
+From: 27 Jan 2009,To: 27 Jan 2009,Unknown,FY 2009,1,Colombia,1,454
+From: 27 Jan 2009,To: 27 Jan 2009,Zoroastrian,FY 2009,1,Iran,1,454
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jun 2010,To: 23 Jun 2010,Belarus,FY 2010,5,Jewish,5,334
+From: 23 Jun 2010,To: 23 Jun 2010,Bhutan,FY 2010,35,Buddhist,7,334
+From: 23 Jun 2010,To: 23 Jun 2010,Bhutan,FY 2010,35,Hindu,28,334
+From: 23 Jun 2010,To: 23 Jun 2010,Burma,FY 2010,105,Baptist,6,334
+From: 23 Jun 2010,To: 23 Jun 2010,Burma,FY 2010,105,Buddhist,10,334
+From: 23 Jun 2010,To: 23 Jun 2010,Burma,FY 2010,105,Christian,88,334
+From: 23 Jun 2010,To: 23 Jun 2010,Burma,FY 2010,105,Seventh Day Adventist,1,334
+From: 23 Jun 2010,To: 23 Jun 2010,Dem. Rep. Congo,FY 2010,19,Catholic,8,334
+From: 23 Jun 2010,To: 23 Jun 2010,Dem. Rep. Congo,FY 2010,19,Pentecostalist,3,334
+From: 23 Jun 2010,To: 23 Jun 2010,Dem. Rep. Congo,FY 2010,19,Protestant,8,334
+From: 23 Jun 2010,To: 23 Jun 2010,Eritrea,FY 2010,30,Catholic,3,334
+From: 23 Jun 2010,To: 23 Jun 2010,Eritrea,FY 2010,30,Jehovah Witness,1,334
+From: 23 Jun 2010,To: 23 Jun 2010,Eritrea,FY 2010,30,Moslem,1,334
+From: 23 Jun 2010,To: 23 Jun 2010,Eritrea,FY 2010,30,Orthodox,21,334
+From: 23 Jun 2010,To: 23 Jun 2010,Eritrea,FY 2010,30,Pentecostalist,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Iran,FY 2010,4,Sabeans-Mandean,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Iraq,FY 2010,91,Catholic,13,334
+From: 23 Jun 2010,To: 23 Jun 2010,Iraq,FY 2010,91,Christian,28,334
+From: 23 Jun 2010,To: 23 Jun 2010,Iraq,FY 2010,91,Moslem Shiite,12,334
+From: 23 Jun 2010,To: 23 Jun 2010,Iraq,FY 2010,91,Moslem Suni,28,334
+From: 23 Jun 2010,To: 23 Jun 2010,Iraq,FY 2010,91,Orthodox,10,334
+From: 23 Jun 2010,To: 23 Jun 2010,Russia,FY 2010,16,Baptist,7,334
+From: 23 Jun 2010,To: 23 Jun 2010,Russia,FY 2010,16,Jewish,3,334
+From: 23 Jun 2010,To: 23 Jun 2010,Russia,FY 2010,16,Moslem,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Russia,FY 2010,16,Seventh Day Adventist,2,334
+From: 23 Jun 2010,To: 23 Jun 2010,Rwanda,FY 2010,4,Catholic,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Somalia,FY 2010,25,Moslem,21,334
+From: 23 Jun 2010,To: 23 Jun 2010,Somalia,FY 2010,25,Moslem Suni,4,334
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jun 2010,To: 23 Jun 2010,Baptist,FY 2010,13,Burma,6,334
+From: 23 Jun 2010,To: 23 Jun 2010,Baptist,FY 2010,13,Russia,7,334
+From: 23 Jun 2010,To: 23 Jun 2010,Buddhist,FY 2010,17,Bhutan,7,334
+From: 23 Jun 2010,To: 23 Jun 2010,Buddhist,FY 2010,17,Burma,10,334
+From: 23 Jun 2010,To: 23 Jun 2010,Catholic,FY 2010,28,Dem. Rep. Congo,8,334
+From: 23 Jun 2010,To: 23 Jun 2010,Catholic,FY 2010,28,Eritrea,3,334
+From: 23 Jun 2010,To: 23 Jun 2010,Catholic,FY 2010,28,Iraq,13,334
+From: 23 Jun 2010,To: 23 Jun 2010,Catholic,FY 2010,28,Rwanda,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Christian,FY 2010,116,Burma,88,334
+From: 23 Jun 2010,To: 23 Jun 2010,Christian,FY 2010,116,Iraq,28,334
+From: 23 Jun 2010,To: 23 Jun 2010,Hindu,FY 2010,28,Bhutan,28,334
+From: 23 Jun 2010,To: 23 Jun 2010,Jehovah Witness,FY 2010,1,Eritrea,1,334
+From: 23 Jun 2010,To: 23 Jun 2010,Jewish,FY 2010,8,Belarus,5,334
+From: 23 Jun 2010,To: 23 Jun 2010,Jewish,FY 2010,8,Russia,3,334
+From: 23 Jun 2010,To: 23 Jun 2010,Moslem,FY 2010,26,Eritrea,1,334
+From: 23 Jun 2010,To: 23 Jun 2010,Moslem,FY 2010,26,Russia,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Moslem,FY 2010,26,Somalia,21,334
+From: 23 Jun 2010,To: 23 Jun 2010,Moslem Shiite,FY 2010,12,Iraq,12,334
+From: 23 Jun 2010,To: 23 Jun 2010,Moslem Suni,FY 2010,32,Iraq,28,334
+From: 23 Jun 2010,To: 23 Jun 2010,Moslem Suni,FY 2010,32,Somalia,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Orthodox,FY 2010,31,Eritrea,21,334
+From: 23 Jun 2010,To: 23 Jun 2010,Orthodox,FY 2010,31,Iraq,10,334
+From: 23 Jun 2010,To: 23 Jun 2010,Pentecostalist,FY 2010,7,Dem. Rep. Congo,3,334
+From: 23 Jun 2010,To: 23 Jun 2010,Pentecostalist,FY 2010,7,Eritrea,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Protestant,FY 2010,8,Dem. Rep. Congo,8,334
+From: 23 Jun 2010,To: 23 Jun 2010,Sabeans-Mandean,FY 2010,4,Iran,4,334
+From: 23 Jun 2010,To: 23 Jun 2010,Seventh Day Adventist,FY 2010,3,Burma,1,334
+From: 23 Jun 2010,To: 23 Jun 2010,Seventh Day Adventist,FY 2010,3,Russia,2,334
+

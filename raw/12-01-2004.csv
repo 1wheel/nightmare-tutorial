@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Dec 2004,To: 01 Dec 2004,Azerbaijan,FY 2005,4,Jewish,4,304
+From: 01 Dec 2004,To: 01 Dec 2004,Bosnia and Herzegovina,FY 2005,1,Unknown,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Burma,FY 2005,35,Buddhist,26,304
+From: 01 Dec 2004,To: 01 Dec 2004,Burma,FY 2005,35,Christian,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Burma,FY 2005,35,Moslem,7,304
+From: 01 Dec 2004,To: 01 Dec 2004,Burma,FY 2005,35,Protestant,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Ethiopia,FY 2005,8,Moslem,8,304
+From: 01 Dec 2004,To: 01 Dec 2004,Haiti,FY 2005,2,Catholic,2,304
+From: 01 Dec 2004,To: 01 Dec 2004,Laos,FY 2005,56,Ancestral Worship,56,304
+From: 01 Dec 2004,To: 01 Dec 2004,Liberia,FY 2005,58,Baptist,8,304
+From: 01 Dec 2004,To: 01 Dec 2004,Liberia,FY 2005,58,Catholic,3,304
+From: 01 Dec 2004,To: 01 Dec 2004,Liberia,FY 2005,58,Christian,43,304
+From: 01 Dec 2004,To: 01 Dec 2004,Liberia,FY 2005,58,Moslem,4,304
+From: 01 Dec 2004,To: 01 Dec 2004,Sierra Leone,FY 2005,9,Christian,6,304
+From: 01 Dec 2004,To: 01 Dec 2004,Sierra Leone,FY 2005,9,Moslem,3,304
+From: 01 Dec 2004,To: 01 Dec 2004,Somalia,FY 2005,84,Moslem,84,304
+From: 01 Dec 2004,To: 01 Dec 2004,Sudan,FY 2005,1,Christian,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Ukraine,FY 2005,30,Baptist,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Ukraine,FY 2005,30,Catholic,2,304
+From: 01 Dec 2004,To: 01 Dec 2004,Ukraine,FY 2005,30,Jewish,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,26,304
+From: 01 Dec 2004,To: 01 Dec 2004,Vietnam,FY 2005,16,Buddhist,3,304
+From: 01 Dec 2004,To: 01 Dec 2004,Vietnam,FY 2005,16,Catholic,4,304
+From: 01 Dec 2004,To: 01 Dec 2004,Vietnam,FY 2005,16,Unknown,9,304
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Dec 2004,To: 01 Dec 2004,Ancestral Worship,FY 2005,56,Laos,56,304
+From: 01 Dec 2004,To: 01 Dec 2004,Baptist,FY 2005,9,Liberia,8,304
+From: 01 Dec 2004,To: 01 Dec 2004,Baptist,FY 2005,9,Ukraine,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Buddhist,FY 2005,29,Burma,26,304
+From: 01 Dec 2004,To: 01 Dec 2004,Buddhist,FY 2005,29,Vietnam,3,304
+From: 01 Dec 2004,To: 01 Dec 2004,Catholic,FY 2005,11,Haiti,2,304
+From: 01 Dec 2004,To: 01 Dec 2004,Catholic,FY 2005,11,Liberia,3,304
+From: 01 Dec 2004,To: 01 Dec 2004,Catholic,FY 2005,11,Ukraine,2,304
+From: 01 Dec 2004,To: 01 Dec 2004,Catholic,FY 2005,11,Vietnam,4,304
+From: 01 Dec 2004,To: 01 Dec 2004,Christian,FY 2005,51,Burma,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Christian,FY 2005,51,Liberia,43,304
+From: 01 Dec 2004,To: 01 Dec 2004,Christian,FY 2005,51,Sierra Leone,6,304
+From: 01 Dec 2004,To: 01 Dec 2004,Christian,FY 2005,51,Sudan,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Jewish,FY 2005,5,Azerbaijan,4,304
+From: 01 Dec 2004,To: 01 Dec 2004,Jewish,FY 2005,5,Ukraine,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Moslem,FY 2005,106,Burma,7,304
+From: 01 Dec 2004,To: 01 Dec 2004,Moslem,FY 2005,106,Ethiopia,8,304
+From: 01 Dec 2004,To: 01 Dec 2004,Moslem,FY 2005,106,Liberia,4,304
+From: 01 Dec 2004,To: 01 Dec 2004,Moslem,FY 2005,106,Sierra Leone,3,304
+From: 01 Dec 2004,To: 01 Dec 2004,Moslem,FY 2005,106,Somalia,84,304
+From: 01 Dec 2004,To: 01 Dec 2004,Pentecostalist,FY 2005,26,Ukraine,26,304
+From: 01 Dec 2004,To: 01 Dec 2004,Protestant,FY 2005,1,Burma,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Unknown,FY 2005,10,Bosnia and Herzegovina,1,304
+From: 01 Dec 2004,To: 01 Dec 2004,Unknown,FY 2005,10,Vietnam,9,304
+

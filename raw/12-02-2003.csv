@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Dec 2003,To: 02 Dec 2003,Azerbaijan,FY 2004,5,Jewish,5,317
+From: 02 Dec 2003,To: 02 Dec 2003,Belarus,FY 2004,19,Baptist,7,317
+From: 02 Dec 2003,To: 02 Dec 2003,Belarus,FY 2004,19,Jewish,7,317
+From: 02 Dec 2003,To: 02 Dec 2003,Belarus,FY 2004,19,No Religion,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Belarus,FY 2004,19,Pentecostalist,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Eritrea,FY 2004,5,Orthodox,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Eritrea,FY 2004,5,Other Religion,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Ethiopia,FY 2004,25,Christian,8,317
+From: 02 Dec 2003,To: 02 Dec 2003,Ethiopia,FY 2004,25,Moslem,6,317
+From: 02 Dec 2003,To: 02 Dec 2003,Ethiopia,FY 2004,25,Orthodox,11,317
+From: 02 Dec 2003,To: 02 Dec 2003,Iran,FY 2004,10,Bahai,2,317
+From: 02 Dec 2003,To: 02 Dec 2003,Iran,FY 2004,10,Christian,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Iran,FY 2004,10,Jewish,2,317
+From: 02 Dec 2003,To: 02 Dec 2003,Iran,FY 2004,10,Zoroastrian,2,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Baptist,29,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Catholic,7,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Christian,85,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Evangelical Christian,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Lutheran,5,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Moslem,3,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,No Religion,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Liberia,FY 2004,154,Pentecostalist,20,317
+From: 02 Dec 2003,To: 02 Dec 2003,Russia,FY 2004,26,Jewish,11,317
+From: 02 Dec 2003,To: 02 Dec 2003,Russia,FY 2004,26,No Religion,3,317
+From: 02 Dec 2003,To: 02 Dec 2003,Russia,FY 2004,26,Pentecostalist,12,317
+From: 02 Dec 2003,To: 02 Dec 2003,Somalia,FY 2004,33,Moslem,33,317
+From: 02 Dec 2003,To: 02 Dec 2003,Sudan,FY 2004,1,Christian,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Ukraine,FY 2004,39,Baptist,12,317
+From: 02 Dec 2003,To: 02 Dec 2003,Ukraine,FY 2004,39,Jewish,8,317
+From: 02 Dec 2003,To: 02 Dec 2003,Ukraine,FY 2004,39,Pentecostalist,19,317
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Dec 2003,To: 02 Dec 2003,Bahai,FY 2004,2,Iran,2,317
+From: 02 Dec 2003,To: 02 Dec 2003,Baptist,FY 2004,48,Belarus,7,317
+From: 02 Dec 2003,To: 02 Dec 2003,Baptist,FY 2004,48,Liberia,29,317
+From: 02 Dec 2003,To: 02 Dec 2003,Baptist,FY 2004,48,Ukraine,12,317
+From: 02 Dec 2003,To: 02 Dec 2003,Catholic,FY 2004,7,Liberia,7,317
+From: 02 Dec 2003,To: 02 Dec 2003,Christian,FY 2004,98,Ethiopia,8,317
+From: 02 Dec 2003,To: 02 Dec 2003,Christian,FY 2004,98,Iran,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Christian,FY 2004,98,Liberia,85,317
+From: 02 Dec 2003,To: 02 Dec 2003,Christian,FY 2004,98,Sudan,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Evangelical Christian,FY 2004,1,Liberia,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Jewish,FY 2004,33,Azerbaijan,5,317
+From: 02 Dec 2003,To: 02 Dec 2003,Jewish,FY 2004,33,Belarus,7,317
+From: 02 Dec 2003,To: 02 Dec 2003,Jewish,FY 2004,33,Iran,2,317
+From: 02 Dec 2003,To: 02 Dec 2003,Jewish,FY 2004,33,Russia,11,317
+From: 02 Dec 2003,To: 02 Dec 2003,Jewish,FY 2004,33,Ukraine,8,317
+From: 02 Dec 2003,To: 02 Dec 2003,Lutheran,FY 2004,5,Liberia,5,317
+From: 02 Dec 2003,To: 02 Dec 2003,Moslem,FY 2004,42,Ethiopia,6,317
+From: 02 Dec 2003,To: 02 Dec 2003,Moslem,FY 2004,42,Liberia,3,317
+From: 02 Dec 2003,To: 02 Dec 2003,Moslem,FY 2004,42,Somalia,33,317
+From: 02 Dec 2003,To: 02 Dec 2003,No Religion,FY 2004,8,Belarus,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,No Religion,FY 2004,8,Liberia,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,No Religion,FY 2004,8,Russia,3,317
+From: 02 Dec 2003,To: 02 Dec 2003,Orthodox,FY 2004,15,Eritrea,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Orthodox,FY 2004,15,Ethiopia,11,317
+From: 02 Dec 2003,To: 02 Dec 2003,Other Religion,FY 2004,1,Eritrea,1,317
+From: 02 Dec 2003,To: 02 Dec 2003,Pentecostalist,FY 2004,55,Belarus,4,317
+From: 02 Dec 2003,To: 02 Dec 2003,Pentecostalist,FY 2004,55,Liberia,20,317
+From: 02 Dec 2003,To: 02 Dec 2003,Pentecostalist,FY 2004,55,Russia,12,317
+From: 02 Dec 2003,To: 02 Dec 2003,Pentecostalist,FY 2004,55,Ukraine,19,317
+From: 02 Dec 2003,To: 02 Dec 2003,Zoroastrian,FY 2004,2,Iran,2,317
+

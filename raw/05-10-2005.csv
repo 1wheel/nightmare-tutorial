@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 May 2005,To: 10 May 2005,Iraq,FY 2005,1,Moslem,1,93
+From: 10 May 2005,To: 10 May 2005,Kazakhstan,FY 2005,17,Baptist,12,93
+From: 10 May 2005,To: 10 May 2005,Kazakhstan,FY 2005,17,Jewish,5,93
+From: 10 May 2005,To: 10 May 2005,Kyrgyzstan,FY 2005,8,Baptist,8,93
+From: 10 May 2005,To: 10 May 2005,Laos,FY 2005,32,Ancestral Worship,32,93
+From: 10 May 2005,To: 10 May 2005,Moldova,FY 2005,24,Baptist,24,93
+From: 10 May 2005,To: 10 May 2005,Somalia,FY 2005,4,Moslem,4,93
+From: 10 May 2005,To: 10 May 2005,Sudan,FY 2005,7,Christian,6,93
+From: 10 May 2005,To: 10 May 2005,Sudan,FY 2005,7,Evangelical Christian,1,93
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 May 2005,To: 10 May 2005,Ancestral Worship,FY 2005,32,Laos,32,93
+From: 10 May 2005,To: 10 May 2005,Baptist,FY 2005,44,Kazakhstan,12,93
+From: 10 May 2005,To: 10 May 2005,Baptist,FY 2005,44,Kyrgyzstan,8,93
+From: 10 May 2005,To: 10 May 2005,Baptist,FY 2005,44,Moldova,24,93
+From: 10 May 2005,To: 10 May 2005,Christian,FY 2005,6,Sudan,6,93
+From: 10 May 2005,To: 10 May 2005,Evangelical Christian,FY 2005,1,Sudan,1,93
+From: 10 May 2005,To: 10 May 2005,Jewish,FY 2005,5,Kazakhstan,5,93
+From: 10 May 2005,To: 10 May 2005,Moslem,FY 2005,5,Iraq,1,93
+From: 10 May 2005,To: 10 May 2005,Moslem,FY 2005,5,Somalia,4,93
+

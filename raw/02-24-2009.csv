@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Feb 2009,To: 24 Feb 2009,Bhutan,FY 2009,70,Buddhist,10,544
+From: 24 Feb 2009,To: 24 Feb 2009,Bhutan,FY 2009,70,Christian,11,544
+From: 24 Feb 2009,To: 24 Feb 2009,Bhutan,FY 2009,70,Hindu,48,544
+From: 24 Feb 2009,To: 24 Feb 2009,Bhutan,FY 2009,70,Kirat,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Burma,FY 2009,159,Buddhist,46,544
+From: 24 Feb 2009,To: 24 Feb 2009,Burma,FY 2009,159,Christian,85,544
+From: 24 Feb 2009,To: 24 Feb 2009,Burma,FY 2009,159,Moslem,28,544
+From: 24 Feb 2009,To: 24 Feb 2009,Dem. Rep. Congo,FY 2009,6,Christian,6,544
+From: 24 Feb 2009,To: 24 Feb 2009,Eritrea,FY 2009,7,Catholic,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Eritrea,FY 2009,7,Jehovah Witness,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Eritrea,FY 2009,7,Orthodox,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Eritrea,FY 2009,7,Pentecostalist,4,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iran,FY 2009,49,Bahai,4,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iran,FY 2009,49,Christian,40,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iran,FY 2009,49,Jewish,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iran,FY 2009,49,No Religion,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iran,FY 2009,49,Sabeans-Mandean,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iran,FY 2009,49,Zoroastrian,2,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Catholic,8,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Chaldean,3,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Christian,37,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Moslem Shiite,58,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Moslem Suni,77,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Orthodox,9,544
+From: 24 Feb 2009,To: 24 Feb 2009,Iraq,FY 2009,201,Sabeans-Mandean,9,544
+From: 24 Feb 2009,To: 24 Feb 2009,Palestine,FY 2009,3,Moslem Suni,3,544
+From: 24 Feb 2009,To: 24 Feb 2009,Somalia,FY 2009,42,Christian,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Somalia,FY 2009,42,Moslem,40,544
+From: 24 Feb 2009,To: 24 Feb 2009,Somalia,FY 2009,42,Moslem Suni,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Sudan,FY 2009,7,Christian,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Sudan,FY 2009,7,Moslem,6,544
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Feb 2009,To: 24 Feb 2009,Bahai,FY 2009,4,Iran,4,544
+From: 24 Feb 2009,To: 24 Feb 2009,Buddhist,FY 2009,56,Bhutan,10,544
+From: 24 Feb 2009,To: 24 Feb 2009,Buddhist,FY 2009,56,Burma,46,544
+From: 24 Feb 2009,To: 24 Feb 2009,Catholic,FY 2009,9,Eritrea,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Catholic,FY 2009,9,Iraq,8,544
+From: 24 Feb 2009,To: 24 Feb 2009,Chaldean,FY 2009,3,Iraq,3,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Bhutan,11,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Burma,85,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Dem. Rep. Congo,6,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Iran,40,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Iraq,37,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Somalia,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Christian,FY 2009,181,Sudan,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Hindu,FY 2009,48,Bhutan,48,544
+From: 24 Feb 2009,To: 24 Feb 2009,Jehovah Witness,FY 2009,1,Eritrea,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Jewish,FY 2009,1,Iran,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Kirat,FY 2009,1,Bhutan,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem,FY 2009,74,Burma,28,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem,FY 2009,74,Somalia,40,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem,FY 2009,74,Sudan,6,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem Shiite,FY 2009,58,Iraq,58,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem Suni,FY 2009,81,Iraq,77,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem Suni,FY 2009,81,Palestine,3,544
+From: 24 Feb 2009,To: 24 Feb 2009,Moslem Suni,FY 2009,81,Somalia,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,No Religion,FY 2009,1,Iran,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Orthodox,FY 2009,10,Eritrea,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Orthodox,FY 2009,10,Iraq,9,544
+From: 24 Feb 2009,To: 24 Feb 2009,Pentecostalist,FY 2009,4,Eritrea,4,544
+From: 24 Feb 2009,To: 24 Feb 2009,Sabeans-Mandean,FY 2009,10,Iran,1,544
+From: 24 Feb 2009,To: 24 Feb 2009,Sabeans-Mandean,FY 2009,10,Iraq,9,544
+From: 24 Feb 2009,To: 24 Feb 2009,Zoroastrian,FY 2009,2,Iran,2,544
+

@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jun 2010,To: 03 Jun 2010,Bhutan,FY 2010,63,Buddhist,5,283
+From: 03 Jun 2010,To: 03 Jun 2010,Bhutan,FY 2010,63,Hindu,49,283
+From: 03 Jun 2010,To: 03 Jun 2010,Bhutan,FY 2010,63,Kirat,9,283
+From: 03 Jun 2010,To: 03 Jun 2010,Burma,FY 2010,118,Baptist,6,283
+From: 03 Jun 2010,To: 03 Jun 2010,Burma,FY 2010,118,Buddhist,17,283
+From: 03 Jun 2010,To: 03 Jun 2010,Burma,FY 2010,118,Catholic,1,283
+From: 03 Jun 2010,To: 03 Jun 2010,Burma,FY 2010,118,Christian,81,283
+From: 03 Jun 2010,To: 03 Jun 2010,Burma,FY 2010,118,Moslem,6,283
+From: 03 Jun 2010,To: 03 Jun 2010,Burma,FY 2010,118,Other Religion,7,283
+From: 03 Jun 2010,To: 03 Jun 2010,Cuba,FY 2010,35,Catholic,19,283
+From: 03 Jun 2010,To: 03 Jun 2010,Cuba,FY 2010,35,Evangelical Christian,2,283
+From: 03 Jun 2010,To: 03 Jun 2010,Cuba,FY 2010,35,Jehovah Witness,9,283
+From: 03 Jun 2010,To: 03 Jun 2010,Cuba,FY 2010,35,No Religion,5,283
+From: 03 Jun 2010,To: 03 Jun 2010,Ethiopia,FY 2010,6,Moslem,5,283
+From: 03 Jun 2010,To: 03 Jun 2010,Ethiopia,FY 2010,6,Orthodox,1,283
+From: 03 Jun 2010,To: 03 Jun 2010,Liberia,FY 2010,1,Moslem,1,283
+From: 03 Jun 2010,To: 03 Jun 2010,Somalia,FY 2010,60,Moslem,60,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jun 2010,To: 03 Jun 2010,Baptist,FY 2010,6,Burma,6,283
+From: 03 Jun 2010,To: 03 Jun 2010,Buddhist,FY 2010,22,Bhutan,5,283
+From: 03 Jun 2010,To: 03 Jun 2010,Buddhist,FY 2010,22,Burma,17,283
+From: 03 Jun 2010,To: 03 Jun 2010,Catholic,FY 2010,20,Burma,1,283
+From: 03 Jun 2010,To: 03 Jun 2010,Catholic,FY 2010,20,Cuba,19,283
+From: 03 Jun 2010,To: 03 Jun 2010,Christian,FY 2010,81,Burma,81,283
+From: 03 Jun 2010,To: 03 Jun 2010,Evangelical Christian,FY 2010,2,Cuba,2,283
+From: 03 Jun 2010,To: 03 Jun 2010,Hindu,FY 2010,49,Bhutan,49,283
+From: 03 Jun 2010,To: 03 Jun 2010,Jehovah Witness,FY 2010,9,Cuba,9,283
+From: 03 Jun 2010,To: 03 Jun 2010,Kirat,FY 2010,9,Bhutan,9,283
+From: 03 Jun 2010,To: 03 Jun 2010,Moslem,FY 2010,72,Burma,6,283
+From: 03 Jun 2010,To: 03 Jun 2010,Moslem,FY 2010,72,Ethiopia,5,283
+From: 03 Jun 2010,To: 03 Jun 2010,Moslem,FY 2010,72,Liberia,1,283
+From: 03 Jun 2010,To: 03 Jun 2010,Moslem,FY 2010,72,Somalia,60,283
+From: 03 Jun 2010,To: 03 Jun 2010,No Religion,FY 2010,5,Cuba,5,283
+From: 03 Jun 2010,To: 03 Jun 2010,Orthodox,FY 2010,1,Ethiopia,1,283
+From: 03 Jun 2010,To: 03 Jun 2010,Other Religion,FY 2010,7,Burma,7,283
+

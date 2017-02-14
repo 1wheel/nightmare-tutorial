@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Apr 2009,To: 07 Apr 2009,Afghanistan,FY 2009,3,Moslem Suni,3,238
+From: 07 Apr 2009,To: 07 Apr 2009,Bhutan,FY 2009,110,Hindu,102,238
+From: 07 Apr 2009,To: 07 Apr 2009,Bhutan,FY 2009,110,Kirat,8,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iran,FY 2009,56,Bahai,18,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iran,FY 2009,56,Christian,24,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iran,FY 2009,56,Jewish,2,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iran,FY 2009,56,Sabeans-Mandean,6,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iran,FY 2009,56,Zoroastrian,6,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iraq,FY 2009,33,Catholic,8,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iraq,FY 2009,33,Christian,2,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iraq,FY 2009,33,Moslem Shiite,8,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iraq,FY 2009,33,Moslem Suni,4,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iraq,FY 2009,33,Orthodox,6,238
+From: 07 Apr 2009,To: 07 Apr 2009,Iraq,FY 2009,33,Yazidi,5,238
+From: 07 Apr 2009,To: 07 Apr 2009,Kyrgyzstan,FY 2009,6,Baptist,5,238
+From: 07 Apr 2009,To: 07 Apr 2009,Kyrgyzstan,FY 2009,6,Seventh Day Adventist,1,238
+From: 07 Apr 2009,To: 07 Apr 2009,Somalia,FY 2009,30,Moslem,30,238
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Apr 2009,To: 07 Apr 2009,Bahai,FY 2009,18,Iran,18,238
+From: 07 Apr 2009,To: 07 Apr 2009,Baptist,FY 2009,5,Kyrgyzstan,5,238
+From: 07 Apr 2009,To: 07 Apr 2009,Catholic,FY 2009,8,Iraq,8,238
+From: 07 Apr 2009,To: 07 Apr 2009,Christian,FY 2009,26,Iran,24,238
+From: 07 Apr 2009,To: 07 Apr 2009,Christian,FY 2009,26,Iraq,2,238
+From: 07 Apr 2009,To: 07 Apr 2009,Hindu,FY 2009,102,Bhutan,102,238
+From: 07 Apr 2009,To: 07 Apr 2009,Jewish,FY 2009,2,Iran,2,238
+From: 07 Apr 2009,To: 07 Apr 2009,Kirat,FY 2009,8,Bhutan,8,238
+From: 07 Apr 2009,To: 07 Apr 2009,Moslem,FY 2009,30,Somalia,30,238
+From: 07 Apr 2009,To: 07 Apr 2009,Moslem Shiite,FY 2009,8,Iraq,8,238
+From: 07 Apr 2009,To: 07 Apr 2009,Moslem Suni,FY 2009,7,Afghanistan,3,238
+From: 07 Apr 2009,To: 07 Apr 2009,Moslem Suni,FY 2009,7,Iraq,4,238
+From: 07 Apr 2009,To: 07 Apr 2009,Orthodox,FY 2009,6,Iraq,6,238
+From: 07 Apr 2009,To: 07 Apr 2009,Sabeans-Mandean,FY 2009,6,Iran,6,238
+From: 07 Apr 2009,To: 07 Apr 2009,Seventh Day Adventist,FY 2009,1,Kyrgyzstan,1,238
+From: 07 Apr 2009,To: 07 Apr 2009,Yazidi,FY 2009,5,Iraq,5,238
+From: 07 Apr 2009,To: 07 Apr 2009,Zoroastrian,FY 2009,6,Iran,6,238
+

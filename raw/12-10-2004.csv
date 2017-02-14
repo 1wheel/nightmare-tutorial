@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Dec 2004,To: 10 Dec 2004,Afghanistan,FY 2005,9,Moslem Shiite,4,168
+From: 10 Dec 2004,To: 10 Dec 2004,Afghanistan,FY 2005,9,Moslem Suni,5,168
+From: 10 Dec 2004,To: 10 Dec 2004,Azerbaijan,FY 2005,19,Jewish,7,168
+From: 10 Dec 2004,To: 10 Dec 2004,Azerbaijan,FY 2005,19,Unknown,12,168
+From: 10 Dec 2004,To: 10 Dec 2004,Dem. Rep. Congo,FY 2005,3,Unknown,3,168
+From: 10 Dec 2004,To: 10 Dec 2004,Iran,FY 2005,4,Bahai,4,168
+From: 10 Dec 2004,To: 10 Dec 2004,Liberia,FY 2005,18,Christian,14,168
+From: 10 Dec 2004,To: 10 Dec 2004,Liberia,FY 2005,18,Moslem,4,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moldova,FY 2005,31,Baptist,20,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moldova,FY 2005,31,Pentecostalist,11,168
+From: 10 Dec 2004,To: 10 Dec 2004,Russia,FY 2005,48,Baptist,2,168
+From: 10 Dec 2004,To: 10 Dec 2004,Russia,FY 2005,48,Jewish,3,168
+From: 10 Dec 2004,To: 10 Dec 2004,Russia,FY 2005,48,Moslem,33,168
+From: 10 Dec 2004,To: 10 Dec 2004,Russia,FY 2005,48,Moslem Suni,9,168
+From: 10 Dec 2004,To: 10 Dec 2004,Russia,FY 2005,48,Pentecostalist,1,168
+From: 10 Dec 2004,To: 10 Dec 2004,Somalia,FY 2005,5,Moslem Suni,5,168
+From: 10 Dec 2004,To: 10 Dec 2004,Turkmenistan,FY 2005,1,Moslem,1,168
+From: 10 Dec 2004,To: 10 Dec 2004,Ukraine,FY 2005,30,Baptist,12,168
+From: 10 Dec 2004,To: 10 Dec 2004,Ukraine,FY 2005,30,Jewish,2,168
+From: 10 Dec 2004,To: 10 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,16,168
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Dec 2004,To: 10 Dec 2004,Bahai,FY 2005,4,Iran,4,168
+From: 10 Dec 2004,To: 10 Dec 2004,Baptist,FY 2005,34,Moldova,20,168
+From: 10 Dec 2004,To: 10 Dec 2004,Baptist,FY 2005,34,Russia,2,168
+From: 10 Dec 2004,To: 10 Dec 2004,Baptist,FY 2005,34,Ukraine,12,168
+From: 10 Dec 2004,To: 10 Dec 2004,Christian,FY 2005,14,Liberia,14,168
+From: 10 Dec 2004,To: 10 Dec 2004,Jewish,FY 2005,12,Azerbaijan,7,168
+From: 10 Dec 2004,To: 10 Dec 2004,Jewish,FY 2005,12,Russia,3,168
+From: 10 Dec 2004,To: 10 Dec 2004,Jewish,FY 2005,12,Ukraine,2,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem,FY 2005,38,Liberia,4,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem,FY 2005,38,Russia,33,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem,FY 2005,38,Turkmenistan,1,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem Shiite,FY 2005,4,Afghanistan,4,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem Suni,FY 2005,19,Afghanistan,5,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem Suni,FY 2005,19,Russia,9,168
+From: 10 Dec 2004,To: 10 Dec 2004,Moslem Suni,FY 2005,19,Somalia,5,168
+From: 10 Dec 2004,To: 10 Dec 2004,Pentecostalist,FY 2005,28,Moldova,11,168
+From: 10 Dec 2004,To: 10 Dec 2004,Pentecostalist,FY 2005,28,Russia,1,168
+From: 10 Dec 2004,To: 10 Dec 2004,Pentecostalist,FY 2005,28,Ukraine,16,168
+From: 10 Dec 2004,To: 10 Dec 2004,Unknown,FY 2005,15,Azerbaijan,12,168
+From: 10 Dec 2004,To: 10 Dec 2004,Unknown,FY 2005,15,Dem. Rep. Congo,3,168
+

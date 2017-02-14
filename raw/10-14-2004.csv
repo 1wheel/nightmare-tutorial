@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Oct 2004,To: 14 Oct 2004,Iraq,FY 2005,2,Moslem Suni,2,151
+From: 14 Oct 2004,To: 14 Oct 2004,Laos,FY 2005,37,Ancestral Worship,33,151
+From: 14 Oct 2004,To: 14 Oct 2004,Laos,FY 2005,37,Christian,4,151
+From: 14 Oct 2004,To: 14 Oct 2004,Liberia,FY 2005,15,Christian,9,151
+From: 14 Oct 2004,To: 14 Oct 2004,Liberia,FY 2005,15,Pentecostalist,6,151
+From: 14 Oct 2004,To: 14 Oct 2004,Sierra Leone,FY 2005,1,Moslem,1,151
+From: 14 Oct 2004,To: 14 Oct 2004,Somalia,FY 2005,70,Moslem,70,151
+From: 14 Oct 2004,To: 14 Oct 2004,Sudan,FY 2005,22,Catholic,2,151
+From: 14 Oct 2004,To: 14 Oct 2004,Sudan,FY 2005,22,Christian,14,151
+From: 14 Oct 2004,To: 14 Oct 2004,Sudan,FY 2005,22,Jehovah Witness,1,151
+From: 14 Oct 2004,To: 14 Oct 2004,Sudan,FY 2005,22,Moslem,5,151
+From: 14 Oct 2004,To: 14 Oct 2004,Togo,FY 2005,4,Christian,4,151
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Oct 2004,To: 14 Oct 2004,Ancestral Worship,FY 2005,33,Laos,33,151
+From: 14 Oct 2004,To: 14 Oct 2004,Catholic,FY 2005,2,Sudan,2,151
+From: 14 Oct 2004,To: 14 Oct 2004,Christian,FY 2005,31,Laos,4,151
+From: 14 Oct 2004,To: 14 Oct 2004,Christian,FY 2005,31,Liberia,9,151
+From: 14 Oct 2004,To: 14 Oct 2004,Christian,FY 2005,31,Sudan,14,151
+From: 14 Oct 2004,To: 14 Oct 2004,Christian,FY 2005,31,Togo,4,151
+From: 14 Oct 2004,To: 14 Oct 2004,Jehovah Witness,FY 2005,1,Sudan,1,151
+From: 14 Oct 2004,To: 14 Oct 2004,Moslem,FY 2005,76,Sierra Leone,1,151
+From: 14 Oct 2004,To: 14 Oct 2004,Moslem,FY 2005,76,Somalia,70,151
+From: 14 Oct 2004,To: 14 Oct 2004,Moslem,FY 2005,76,Sudan,5,151
+From: 14 Oct 2004,To: 14 Oct 2004,Moslem Suni,FY 2005,2,Iraq,2,151
+From: 14 Oct 2004,To: 14 Oct 2004,Pentecostalist,FY 2005,6,Liberia,6,151
+

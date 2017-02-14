@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Jan 2009,To: 20 Jan 2009,Bhutan,FY 2009,70,Christian,9,445
+From: 20 Jan 2009,To: 20 Jan 2009,Bhutan,FY 2009,70,Hindu,61,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burma,FY 2009,101,Buddhist,18,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burma,FY 2009,101,Christian,64,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burma,FY 2009,101,Moslem,19,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burundi,FY 2009,30,Catholic,14,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burundi,FY 2009,30,Christian,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burundi,FY 2009,30,Methodist,7,445
+From: 20 Jan 2009,To: 20 Jan 2009,Burundi,FY 2009,30,Pentecostalist,8,445
+From: 20 Jan 2009,To: 20 Jan 2009,Eritrea,FY 2009,13,Bahai,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Eritrea,FY 2009,13,Christian,4,445
+From: 20 Jan 2009,To: 20 Jan 2009,Eritrea,FY 2009,13,Orthodox,7,445
+From: 20 Jan 2009,To: 20 Jan 2009,Eritrea,FY 2009,13,Seventh Day Adventist,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Ethiopia,FY 2009,10,Christian,4,445
+From: 20 Jan 2009,To: 20 Jan 2009,Ethiopia,FY 2009,10,Moslem,2,445
+From: 20 Jan 2009,To: 20 Jan 2009,Ethiopia,FY 2009,10,Orthodox,3,445
+From: 20 Jan 2009,To: 20 Jan 2009,Ethiopia,FY 2009,10,Protestant,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iran,FY 2009,69,Bahai,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iran,FY 2009,69,Christian,61,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iran,FY 2009,69,Jewish,2,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iran,FY 2009,69,Sabeans-Mandean,3,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iran,FY 2009,69,Zoroastrian,2,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iraq,FY 2009,105,Catholic,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iraq,FY 2009,105,Chaldean,4,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iraq,FY 2009,105,Christian,49,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iraq,FY 2009,105,Moslem,8,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iraq,FY 2009,105,Moslem Shiite,22,445
+From: 20 Jan 2009,To: 20 Jan 2009,Iraq,FY 2009,105,Moslem Suni,21,445
+From: 20 Jan 2009,To: 20 Jan 2009,Sierra Leone,FY 2009,9,Catholic,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Sierra Leone,FY 2009,9,Moslem,8,445
+From: 20 Jan 2009,To: 20 Jan 2009,Somalia,FY 2009,38,Moslem,38,445
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Jan 2009,To: 20 Jan 2009,Bahai,FY 2009,2,Eritrea,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Bahai,FY 2009,2,Iran,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Buddhist,FY 2009,18,Burma,18,445
+From: 20 Jan 2009,To: 20 Jan 2009,Catholic,FY 2009,16,Burundi,14,445
+From: 20 Jan 2009,To: 20 Jan 2009,Catholic,FY 2009,16,Iraq,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Catholic,FY 2009,16,Sierra Leone,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Chaldean,FY 2009,4,Iraq,4,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Bhutan,9,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Burma,64,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Burundi,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Eritrea,4,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Ethiopia,4,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Iran,61,445
+From: 20 Jan 2009,To: 20 Jan 2009,Christian,FY 2009,192,Iraq,49,445
+From: 20 Jan 2009,To: 20 Jan 2009,Hindu,FY 2009,61,Bhutan,61,445
+From: 20 Jan 2009,To: 20 Jan 2009,Jewish,FY 2009,2,Iran,2,445
+From: 20 Jan 2009,To: 20 Jan 2009,Methodist,FY 2009,7,Burundi,7,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem,FY 2009,75,Burma,19,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem,FY 2009,75,Ethiopia,2,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem,FY 2009,75,Iraq,8,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem,FY 2009,75,Sierra Leone,8,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem,FY 2009,75,Somalia,38,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem Shiite,FY 2009,22,Iraq,22,445
+From: 20 Jan 2009,To: 20 Jan 2009,Moslem Suni,FY 2009,21,Iraq,21,445
+From: 20 Jan 2009,To: 20 Jan 2009,Orthodox,FY 2009,10,Eritrea,7,445
+From: 20 Jan 2009,To: 20 Jan 2009,Orthodox,FY 2009,10,Ethiopia,3,445
+From: 20 Jan 2009,To: 20 Jan 2009,Pentecostalist,FY 2009,8,Burundi,8,445
+From: 20 Jan 2009,To: 20 Jan 2009,Protestant,FY 2009,1,Ethiopia,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Sabeans-Mandean,FY 2009,3,Iran,3,445
+From: 20 Jan 2009,To: 20 Jan 2009,Seventh Day Adventist,FY 2009,1,Eritrea,1,445
+From: 20 Jan 2009,To: 20 Jan 2009,Zoroastrian,FY 2009,2,Iran,2,445
+

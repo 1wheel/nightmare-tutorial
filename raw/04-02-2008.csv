@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Apr 2008,To: 02 Apr 2008,Burma,FY 2008,125,Buddhist,28,158
+From: 02 Apr 2008,To: 02 Apr 2008,Burma,FY 2008,125,Christian,97,158
+From: 02 Apr 2008,To: 02 Apr 2008,China,FY 2008,1,Other Religion,1,158
+From: 02 Apr 2008,To: 02 Apr 2008,Colombia,FY 2008,1,Unknown,1,158
+From: 02 Apr 2008,To: 02 Apr 2008,Iraq,FY 2008,31,Christian,8,158
+From: 02 Apr 2008,To: 02 Apr 2008,Iraq,FY 2008,31,Moslem,1,158
+From: 02 Apr 2008,To: 02 Apr 2008,Iraq,FY 2008,31,Moslem Suni,15,158
+From: 02 Apr 2008,To: 02 Apr 2008,Iraq,FY 2008,31,Orthodox,3,158
+From: 02 Apr 2008,To: 02 Apr 2008,Iraq,FY 2008,31,Sabeans-Mandean,4,158
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Apr 2008,To: 02 Apr 2008,Buddhist,FY 2008,28,Burma,28,158
+From: 02 Apr 2008,To: 02 Apr 2008,Christian,FY 2008,105,Burma,97,158
+From: 02 Apr 2008,To: 02 Apr 2008,Christian,FY 2008,105,Iraq,8,158
+From: 02 Apr 2008,To: 02 Apr 2008,Moslem,FY 2008,1,Iraq,1,158
+From: 02 Apr 2008,To: 02 Apr 2008,Moslem Suni,FY 2008,15,Iraq,15,158
+From: 02 Apr 2008,To: 02 Apr 2008,Orthodox,FY 2008,3,Iraq,3,158
+From: 02 Apr 2008,To: 02 Apr 2008,Other Religion,FY 2008,1,China,1,158
+From: 02 Apr 2008,To: 02 Apr 2008,Sabeans-Mandean,FY 2008,4,Iraq,4,158
+From: 02 Apr 2008,To: 02 Apr 2008,Unknown,FY 2008,1,Colombia,1,158
+

@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Dec 2010,To: 15 Dec 2010,Afghanistan,FY 2011,1,Christian,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Bhutan,FY 2011,90,Buddhist,7,544
+From: 15 Dec 2010,To: 15 Dec 2010,Bhutan,FY 2011,90,Christian,12,544
+From: 15 Dec 2010,To: 15 Dec 2010,Bhutan,FY 2011,90,Hindu,66,544
+From: 15 Dec 2010,To: 15 Dec 2010,Bhutan,FY 2011,90,Kirat,5,544
+From: 15 Dec 2010,To: 15 Dec 2010,Burma,FY 2011,172,Baptist,12,544
+From: 15 Dec 2010,To: 15 Dec 2010,Burma,FY 2011,172,Buddhist,36,544
+From: 15 Dec 2010,To: 15 Dec 2010,Burma,FY 2011,172,Catholic,10,544
+From: 15 Dec 2010,To: 15 Dec 2010,Burma,FY 2011,172,Christian,89,544
+From: 15 Dec 2010,To: 15 Dec 2010,Burma,FY 2011,172,Moslem,25,544
+From: 15 Dec 2010,To: 15 Dec 2010,Cuba,FY 2011,50,Catholic,17,544
+From: 15 Dec 2010,To: 15 Dec 2010,Cuba,FY 2011,50,Jehovah Witness,12,544
+From: 15 Dec 2010,To: 15 Dec 2010,Cuba,FY 2011,50,No Religion,16,544
+From: 15 Dec 2010,To: 15 Dec 2010,Cuba,FY 2011,50,Pentecostalist,5,544
+From: 15 Dec 2010,To: 15 Dec 2010,Dem. Rep. Congo,FY 2011,41,Catholic,8,544
+From: 15 Dec 2010,To: 15 Dec 2010,Dem. Rep. Congo,FY 2011,41,Jehovah Witness,9,544
+From: 15 Dec 2010,To: 15 Dec 2010,Dem. Rep. Congo,FY 2011,41,Pentecostalist,11,544
+From: 15 Dec 2010,To: 15 Dec 2010,Dem. Rep. Congo,FY 2011,41,Protestant,13,544
+From: 15 Dec 2010,To: 15 Dec 2010,Iraq,FY 2011,115,Catholic,13,544
+From: 15 Dec 2010,To: 15 Dec 2010,Iraq,FY 2011,115,Christian,21,544
+From: 15 Dec 2010,To: 15 Dec 2010,Iraq,FY 2011,115,Moslem Shiite,33,544
+From: 15 Dec 2010,To: 15 Dec 2010,Iraq,FY 2011,115,Moslem Suni,40,544
+From: 15 Dec 2010,To: 15 Dec 2010,Iraq,FY 2011,115,Orthodox,8,544
+From: 15 Dec 2010,To: 15 Dec 2010,"Korea, North",FY 2011,1,Christian,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Laos,FY 2011,1,Animist,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moldova,FY 2011,14,Baptist,6,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moldova,FY 2011,14,Jehovah Witness,3,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moldova,FY 2011,14,Pentecostalist,4,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moldova,FY 2011,14,Seventh Day Adventist,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Russia,FY 2011,14,Baptist,4,544
+From: 15 Dec 2010,To: 15 Dec 2010,Russia,FY 2011,14,Jewish,2,544
+From: 15 Dec 2010,To: 15 Dec 2010,Russia,FY 2011,14,Pentecostalist,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Russia,FY 2011,14,Seventh Day Adventist,7,544
+From: 15 Dec 2010,To: 15 Dec 2010,Somalia,FY 2011,35,Moslem,35,544
+From: 15 Dec 2010,To: 15 Dec 2010,Sri Lanka (Ceylon),FY 2011,5,Hindu,5,544
+From: 15 Dec 2010,To: 15 Dec 2010,Syria,FY 2011,5,Moslem Suni,5,544
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Dec 2010,To: 15 Dec 2010,Animist,FY 2011,1,Laos,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Baptist,FY 2011,22,Burma,12,544
+From: 15 Dec 2010,To: 15 Dec 2010,Baptist,FY 2011,22,Moldova,6,544
+From: 15 Dec 2010,To: 15 Dec 2010,Baptist,FY 2011,22,Russia,4,544
+From: 15 Dec 2010,To: 15 Dec 2010,Buddhist,FY 2011,43,Bhutan,7,544
+From: 15 Dec 2010,To: 15 Dec 2010,Buddhist,FY 2011,43,Burma,36,544
+From: 15 Dec 2010,To: 15 Dec 2010,Catholic,FY 2011,48,Burma,10,544
+From: 15 Dec 2010,To: 15 Dec 2010,Catholic,FY 2011,48,Cuba,17,544
+From: 15 Dec 2010,To: 15 Dec 2010,Catholic,FY 2011,48,Dem. Rep. Congo,8,544
+From: 15 Dec 2010,To: 15 Dec 2010,Catholic,FY 2011,48,Iraq,13,544
+From: 15 Dec 2010,To: 15 Dec 2010,Christian,FY 2011,124,Afghanistan,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Christian,FY 2011,124,Bhutan,12,544
+From: 15 Dec 2010,To: 15 Dec 2010,Christian,FY 2011,124,Burma,89,544
+From: 15 Dec 2010,To: 15 Dec 2010,Christian,FY 2011,124,Iraq,21,544
+From: 15 Dec 2010,To: 15 Dec 2010,Christian,FY 2011,124,"Korea, North",1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Hindu,FY 2011,71,Bhutan,66,544
+From: 15 Dec 2010,To: 15 Dec 2010,Hindu,FY 2011,71,Sri Lanka (Ceylon),5,544
+From: 15 Dec 2010,To: 15 Dec 2010,Jehovah Witness,FY 2011,24,Cuba,12,544
+From: 15 Dec 2010,To: 15 Dec 2010,Jehovah Witness,FY 2011,24,Dem. Rep. Congo,9,544
+From: 15 Dec 2010,To: 15 Dec 2010,Jehovah Witness,FY 2011,24,Moldova,3,544
+From: 15 Dec 2010,To: 15 Dec 2010,Jewish,FY 2011,2,Russia,2,544
+From: 15 Dec 2010,To: 15 Dec 2010,Kirat,FY 2011,5,Bhutan,5,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moslem,FY 2011,60,Burma,25,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moslem,FY 2011,60,Somalia,35,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moslem Shiite,FY 2011,33,Iraq,33,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moslem Suni,FY 2011,45,Iraq,40,544
+From: 15 Dec 2010,To: 15 Dec 2010,Moslem Suni,FY 2011,45,Syria,5,544
+From: 15 Dec 2010,To: 15 Dec 2010,No Religion,FY 2011,16,Cuba,16,544
+From: 15 Dec 2010,To: 15 Dec 2010,Orthodox,FY 2011,8,Iraq,8,544
+From: 15 Dec 2010,To: 15 Dec 2010,Pentecostalist,FY 2011,21,Cuba,5,544
+From: 15 Dec 2010,To: 15 Dec 2010,Pentecostalist,FY 2011,21,Dem. Rep. Congo,11,544
+From: 15 Dec 2010,To: 15 Dec 2010,Pentecostalist,FY 2011,21,Moldova,4,544
+From: 15 Dec 2010,To: 15 Dec 2010,Pentecostalist,FY 2011,21,Russia,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Protestant,FY 2011,13,Dem. Rep. Congo,13,544
+From: 15 Dec 2010,To: 15 Dec 2010,Seventh Day Adventist,FY 2011,8,Moldova,1,544
+From: 15 Dec 2010,To: 15 Dec 2010,Seventh Day Adventist,FY 2011,8,Russia,7,544
+

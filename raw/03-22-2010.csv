@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Mar 2010,To: 22 Mar 2010,Afghanistan,FY 2010,3,Moslem,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Afghanistan,FY 2010,3,Moslem Suni,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Burma,FY 2010,34,Baptist,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Burma,FY 2010,34,Buddhist,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Burma,FY 2010,34,Christian,30,223
+From: 22 Mar 2010,To: 22 Mar 2010,China,FY 2010,2,Moslem,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Dem. Rep. Congo,FY 2010,1,Christian,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Ethiopia,FY 2010,1,Christian,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iran,FY 2010,5,Bahai,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iran,FY 2010,5,Moslem,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iraq,FY 2010,132,Christian,18,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iraq,FY 2010,132,Moslem,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iraq,FY 2010,132,Moslem Shiite,43,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iraq,FY 2010,132,Moslem Suni,57,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iraq,FY 2010,132,Orthodox,6,223
+From: 22 Mar 2010,To: 22 Mar 2010,Iraq,FY 2010,132,Sabeans-Mandean,5,223
+From: 22 Mar 2010,To: 22 Mar 2010,Kazakhstan,FY 2010,5,Baptist,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Kazakhstan,FY 2010,5,Pentecostalist,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Palestine,FY 2010,4,Moslem Suni,4,223
+From: 22 Mar 2010,To: 22 Mar 2010,Russia,FY 2010,17,Baptist,7,223
+From: 22 Mar 2010,To: 22 Mar 2010,Russia,FY 2010,17,Jewish,4,223
+From: 22 Mar 2010,To: 22 Mar 2010,Russia,FY 2010,17,Pentecostalist,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Russia,FY 2010,17,Seventh Day Adventist,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Somalia,FY 2010,7,Moslem,7,223
+From: 22 Mar 2010,To: 22 Mar 2010,Syria,FY 2010,1,Moslem Shiite,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Uzbekistan,FY 2010,11,Jewish,4,223
+From: 22 Mar 2010,To: 22 Mar 2010,Uzbekistan,FY 2010,11,Moslem,7,223
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Mar 2010,To: 22 Mar 2010,Bahai,FY 2010,3,Iran,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Baptist,FY 2010,11,Burma,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Baptist,FY 2010,11,Kazakhstan,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Baptist,FY 2010,11,Russia,7,223
+From: 22 Mar 2010,To: 22 Mar 2010,Buddhist,FY 2010,2,Burma,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Christian,FY 2010,50,Burma,30,223
+From: 22 Mar 2010,To: 22 Mar 2010,Christian,FY 2010,50,Dem. Rep. Congo,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Christian,FY 2010,50,Ethiopia,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Christian,FY 2010,50,Iraq,18,223
+From: 22 Mar 2010,To: 22 Mar 2010,Jewish,FY 2010,8,Russia,4,223
+From: 22 Mar 2010,To: 22 Mar 2010,Jewish,FY 2010,8,Uzbekistan,4,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem,FY 2010,23,Afghanistan,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem,FY 2010,23,China,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem,FY 2010,23,Iran,2,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem,FY 2010,23,Iraq,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem,FY 2010,23,Somalia,7,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem,FY 2010,23,Uzbekistan,7,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem Shiite,FY 2010,44,Iraq,43,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem Shiite,FY 2010,44,Syria,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem Suni,FY 2010,62,Afghanistan,1,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem Suni,FY 2010,62,Iraq,57,223
+From: 22 Mar 2010,To: 22 Mar 2010,Moslem Suni,FY 2010,62,Palestine,4,223
+From: 22 Mar 2010,To: 22 Mar 2010,Orthodox,FY 2010,6,Iraq,6,223
+From: 22 Mar 2010,To: 22 Mar 2010,Pentecostalist,FY 2010,6,Kazakhstan,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Pentecostalist,FY 2010,6,Russia,3,223
+From: 22 Mar 2010,To: 22 Mar 2010,Sabeans-Mandean,FY 2010,5,Iraq,5,223
+From: 22 Mar 2010,To: 22 Mar 2010,Seventh Day Adventist,FY 2010,3,Russia,3,223
+

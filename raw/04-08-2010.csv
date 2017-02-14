@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Apr 2010,To: 08 Apr 2010,Bhutan,FY 2010,150,Buddhist,18,408
+From: 08 Apr 2010,To: 08 Apr 2010,Bhutan,FY 2010,150,Christian,9,408
+From: 08 Apr 2010,To: 08 Apr 2010,Bhutan,FY 2010,150,Hindu,117,408
+From: 08 Apr 2010,To: 08 Apr 2010,Bhutan,FY 2010,150,Kirat,6,408
+From: 08 Apr 2010,To: 08 Apr 2010,Burma,FY 2010,90,Animist,13,408
+From: 08 Apr 2010,To: 08 Apr 2010,Burma,FY 2010,90,Baptist,5,408
+From: 08 Apr 2010,To: 08 Apr 2010,Burma,FY 2010,90,Buddhist,10,408
+From: 08 Apr 2010,To: 08 Apr 2010,Burma,FY 2010,90,Catholic,7,408
+From: 08 Apr 2010,To: 08 Apr 2010,Burma,FY 2010,90,Christian,36,408
+From: 08 Apr 2010,To: 08 Apr 2010,Burma,FY 2010,90,Moslem,19,408
+From: 08 Apr 2010,To: 08 Apr 2010,China,FY 2010,1,Other Religion,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Cuba,FY 2010,4,Catholic,4,408
+From: 08 Apr 2010,To: 08 Apr 2010,Dem. Rep. Congo,FY 2010,15,Pentecostalist,15,408
+From: 08 Apr 2010,To: 08 Apr 2010,Eritrea,FY 2010,7,Catholic,7,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iran,FY 2010,34,Christian,34,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Atheist,3,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Catholic,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Chaldean,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Christian,8,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Moslem Shiite,29,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Moslem Suni,18,408
+From: 08 Apr 2010,To: 08 Apr 2010,Iraq,FY 2010,64,Orthodox,4,408
+From: 08 Apr 2010,To: 08 Apr 2010,Somalia,FY 2010,30,Moslem,30,408
+From: 08 Apr 2010,To: 08 Apr 2010,Syria,FY 2010,2,Moslem,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Syria,FY 2010,2,Moslem Suni,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Thailand,FY 2010,3,Christian,3,408
+From: 08 Apr 2010,To: 08 Apr 2010,Ukraine,FY 2010,8,Baptist,4,408
+From: 08 Apr 2010,To: 08 Apr 2010,Ukraine,FY 2010,8,Jewish,3,408
+From: 08 Apr 2010,To: 08 Apr 2010,Ukraine,FY 2010,8,No Religion,1,408
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Apr 2010,To: 08 Apr 2010,Animist,FY 2010,13,Burma,13,408
+From: 08 Apr 2010,To: 08 Apr 2010,Atheist,FY 2010,3,Iraq,3,408
+From: 08 Apr 2010,To: 08 Apr 2010,Baptist,FY 2010,9,Burma,5,408
+From: 08 Apr 2010,To: 08 Apr 2010,Baptist,FY 2010,9,Ukraine,4,408
+From: 08 Apr 2010,To: 08 Apr 2010,Buddhist,FY 2010,28,Bhutan,18,408
+From: 08 Apr 2010,To: 08 Apr 2010,Buddhist,FY 2010,28,Burma,10,408
+From: 08 Apr 2010,To: 08 Apr 2010,Catholic,FY 2010,19,Burma,7,408
+From: 08 Apr 2010,To: 08 Apr 2010,Catholic,FY 2010,19,Cuba,4,408
+From: 08 Apr 2010,To: 08 Apr 2010,Catholic,FY 2010,19,Eritrea,7,408
+From: 08 Apr 2010,To: 08 Apr 2010,Catholic,FY 2010,19,Iraq,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Chaldean,FY 2010,1,Iraq,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Christian,FY 2010,90,Bhutan,9,408
+From: 08 Apr 2010,To: 08 Apr 2010,Christian,FY 2010,90,Burma,36,408
+From: 08 Apr 2010,To: 08 Apr 2010,Christian,FY 2010,90,Iran,34,408
+From: 08 Apr 2010,To: 08 Apr 2010,Christian,FY 2010,90,Iraq,8,408
+From: 08 Apr 2010,To: 08 Apr 2010,Christian,FY 2010,90,Thailand,3,408
+From: 08 Apr 2010,To: 08 Apr 2010,Hindu,FY 2010,117,Bhutan,117,408
+From: 08 Apr 2010,To: 08 Apr 2010,Jewish,FY 2010,3,Ukraine,3,408
+From: 08 Apr 2010,To: 08 Apr 2010,Kirat,FY 2010,6,Bhutan,6,408
+From: 08 Apr 2010,To: 08 Apr 2010,Moslem,FY 2010,50,Burma,19,408
+From: 08 Apr 2010,To: 08 Apr 2010,Moslem,FY 2010,50,Somalia,30,408
+From: 08 Apr 2010,To: 08 Apr 2010,Moslem,FY 2010,50,Syria,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Moslem Shiite,FY 2010,29,Iraq,29,408
+From: 08 Apr 2010,To: 08 Apr 2010,Moslem Suni,FY 2010,19,Iraq,18,408
+From: 08 Apr 2010,To: 08 Apr 2010,Moslem Suni,FY 2010,19,Syria,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,No Religion,FY 2010,1,Ukraine,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Orthodox,FY 2010,4,Iraq,4,408
+From: 08 Apr 2010,To: 08 Apr 2010,Other Religion,FY 2010,1,China,1,408
+From: 08 Apr 2010,To: 08 Apr 2010,Pentecostalist,FY 2010,15,Dem. Rep. Congo,15,408
+

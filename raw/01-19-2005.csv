@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Jan 2005,To: 19 Jan 2005,Afghanistan,FY 2005,9,Moslem Shiite,5,205
+From: 19 Jan 2005,To: 19 Jan 2005,Afghanistan,FY 2005,9,Moslem Suni,4,205
+From: 19 Jan 2005,To: 19 Jan 2005,Azerbaijan,FY 2005,13,Jewish,13,205
+From: 19 Jan 2005,To: 19 Jan 2005,Bosnia and Herzegovina,FY 2005,1,Orthodox,1,205
+From: 19 Jan 2005,To: 19 Jan 2005,Colombia,FY 2005,40,Catholic,26,205
+From: 19 Jan 2005,To: 19 Jan 2005,Colombia,FY 2005,40,Christian,4,205
+From: 19 Jan 2005,To: 19 Jan 2005,Colombia,FY 2005,40,Evangelical Christian,10,205
+From: 19 Jan 2005,To: 19 Jan 2005,Ethiopia,FY 2005,15,Moslem,15,205
+From: 19 Jan 2005,To: 19 Jan 2005,Iran,FY 2005,25,Bahai,5,205
+From: 19 Jan 2005,To: 19 Jan 2005,Iran,FY 2005,25,Christian,14,205
+From: 19 Jan 2005,To: 19 Jan 2005,Iran,FY 2005,25,Jewish,4,205
+From: 19 Jan 2005,To: 19 Jan 2005,Iran,FY 2005,25,Zoroastrian,2,205
+From: 19 Jan 2005,To: 19 Jan 2005,Laos,FY 2005,81,Ancestral Worship,73,205
+From: 19 Jan 2005,To: 19 Jan 2005,Laos,FY 2005,81,Christian,8,205
+From: 19 Jan 2005,To: 19 Jan 2005,Somalia,FY 2005,19,Moslem,19,205
+From: 19 Jan 2005,To: 19 Jan 2005,Sudan,FY 2005,2,Christian,1,205
+From: 19 Jan 2005,To: 19 Jan 2005,Sudan,FY 2005,2,Moslem,1,205
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Jan 2005,To: 19 Jan 2005,Ancestral Worship,FY 2005,73,Laos,73,205
+From: 19 Jan 2005,To: 19 Jan 2005,Bahai,FY 2005,5,Iran,5,205
+From: 19 Jan 2005,To: 19 Jan 2005,Catholic,FY 2005,26,Colombia,26,205
+From: 19 Jan 2005,To: 19 Jan 2005,Christian,FY 2005,27,Colombia,4,205
+From: 19 Jan 2005,To: 19 Jan 2005,Christian,FY 2005,27,Iran,14,205
+From: 19 Jan 2005,To: 19 Jan 2005,Christian,FY 2005,27,Laos,8,205
+From: 19 Jan 2005,To: 19 Jan 2005,Christian,FY 2005,27,Sudan,1,205
+From: 19 Jan 2005,To: 19 Jan 2005,Evangelical Christian,FY 2005,10,Colombia,10,205
+From: 19 Jan 2005,To: 19 Jan 2005,Jewish,FY 2005,17,Azerbaijan,13,205
+From: 19 Jan 2005,To: 19 Jan 2005,Jewish,FY 2005,17,Iran,4,205
+From: 19 Jan 2005,To: 19 Jan 2005,Moslem,FY 2005,35,Ethiopia,15,205
+From: 19 Jan 2005,To: 19 Jan 2005,Moslem,FY 2005,35,Somalia,19,205
+From: 19 Jan 2005,To: 19 Jan 2005,Moslem,FY 2005,35,Sudan,1,205
+From: 19 Jan 2005,To: 19 Jan 2005,Moslem Shiite,FY 2005,5,Afghanistan,5,205
+From: 19 Jan 2005,To: 19 Jan 2005,Moslem Suni,FY 2005,4,Afghanistan,4,205
+From: 19 Jan 2005,To: 19 Jan 2005,Orthodox,FY 2005,1,Bosnia and Herzegovina,1,205
+From: 19 Jan 2005,To: 19 Jan 2005,Zoroastrian,FY 2005,2,Iran,2,205
+

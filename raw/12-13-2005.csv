@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Dec 2005,To: 13 Dec 2005,Afghanistan,FY 2006,15,Moslem,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Afghanistan,FY 2006,15,Moslem Suni,14,397
+From: 13 Dec 2005,To: 13 Dec 2005,Azerbaijan,FY 2006,4,Unknown,4,397
+From: 13 Dec 2005,To: 13 Dec 2005,Bosnia and Herzegovina,FY 2006,1,Orthodox,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Burma,FY 2006,20,Buddhist,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Burma,FY 2006,20,Christian,19,397
+From: 13 Dec 2005,To: 13 Dec 2005,Cuba,FY 2006,35,Baptist,4,397
+From: 13 Dec 2005,To: 13 Dec 2005,Cuba,FY 2006,35,Catholic,15,397
+From: 13 Dec 2005,To: 13 Dec 2005,Cuba,FY 2006,35,Christian,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Cuba,FY 2006,35,Jehovah Witness,5,397
+From: 13 Dec 2005,To: 13 Dec 2005,Cuba,FY 2006,35,No Religion,10,397
+From: 13 Dec 2005,To: 13 Dec 2005,Eritrea,FY 2006,19,Bahai,2,397
+From: 13 Dec 2005,To: 13 Dec 2005,Eritrea,FY 2006,19,Catholic,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Eritrea,FY 2006,19,Moslem,2,397
+From: 13 Dec 2005,To: 13 Dec 2005,Eritrea,FY 2006,19,Orthodox,10,397
+From: 13 Dec 2005,To: 13 Dec 2005,Eritrea,FY 2006,19,Pentecostalist,3,397
+From: 13 Dec 2005,To: 13 Dec 2005,Eritrea,FY 2006,19,Protestant,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Ethiopia,FY 2006,42,Christian,7,397
+From: 13 Dec 2005,To: 13 Dec 2005,Ethiopia,FY 2006,42,Evangelical Christian,6,397
+From: 13 Dec 2005,To: 13 Dec 2005,Ethiopia,FY 2006,42,Moslem,12,397
+From: 13 Dec 2005,To: 13 Dec 2005,Ethiopia,FY 2006,42,Orthodox,17,397
+From: 13 Dec 2005,To: 13 Dec 2005,Iraq,FY 2006,7,Moslem,7,397
+From: 13 Dec 2005,To: 13 Dec 2005,Laos,FY 2006,13,Ancestral Worship,13,397
+From: 13 Dec 2005,To: 13 Dec 2005,Liberia,FY 2006,21,Christian,17,397
+From: 13 Dec 2005,To: 13 Dec 2005,Liberia,FY 2006,21,Pentecostalist,4,397
+From: 13 Dec 2005,To: 13 Dec 2005,Russia,FY 2006,30,Moslem,30,397
+From: 13 Dec 2005,To: 13 Dec 2005,Sierra Leone,FY 2006,1,Moslem,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Somalia,FY 2006,122,Moslem,122,397
+From: 13 Dec 2005,To: 13 Dec 2005,Sudan,FY 2006,1,Catholic,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Vietnam,FY 2006,66,Buddhist,28,397
+From: 13 Dec 2005,To: 13 Dec 2005,Vietnam,FY 2006,66,Cao Dai,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Vietnam,FY 2006,66,Catholic,36,397
+From: 13 Dec 2005,To: 13 Dec 2005,Vietnam,FY 2006,66,Other Religion,1,397
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Dec 2005,To: 13 Dec 2005,Ancestral Worship,FY 2006,13,Laos,13,397
+From: 13 Dec 2005,To: 13 Dec 2005,Bahai,FY 2006,2,Eritrea,2,397
+From: 13 Dec 2005,To: 13 Dec 2005,Baptist,FY 2006,4,Cuba,4,397
+From: 13 Dec 2005,To: 13 Dec 2005,Buddhist,FY 2006,29,Burma,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Buddhist,FY 2006,29,Vietnam,28,397
+From: 13 Dec 2005,To: 13 Dec 2005,Cao Dai,FY 2006,1,Vietnam,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Catholic,FY 2006,53,Cuba,15,397
+From: 13 Dec 2005,To: 13 Dec 2005,Catholic,FY 2006,53,Eritrea,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Catholic,FY 2006,53,Sudan,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Catholic,FY 2006,53,Vietnam,36,397
+From: 13 Dec 2005,To: 13 Dec 2005,Christian,FY 2006,44,Burma,19,397
+From: 13 Dec 2005,To: 13 Dec 2005,Christian,FY 2006,44,Cuba,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Christian,FY 2006,44,Ethiopia,7,397
+From: 13 Dec 2005,To: 13 Dec 2005,Christian,FY 2006,44,Liberia,17,397
+From: 13 Dec 2005,To: 13 Dec 2005,Evangelical Christian,FY 2006,6,Ethiopia,6,397
+From: 13 Dec 2005,To: 13 Dec 2005,Jehovah Witness,FY 2006,5,Cuba,5,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Afghanistan,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Eritrea,2,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Ethiopia,12,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Iraq,7,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Russia,30,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Sierra Leone,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem,FY 2006,175,Somalia,122,397
+From: 13 Dec 2005,To: 13 Dec 2005,Moslem Suni,FY 2006,14,Afghanistan,14,397
+From: 13 Dec 2005,To: 13 Dec 2005,No Religion,FY 2006,10,Cuba,10,397
+From: 13 Dec 2005,To: 13 Dec 2005,Orthodox,FY 2006,28,Bosnia and Herzegovina,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Orthodox,FY 2006,28,Eritrea,10,397
+From: 13 Dec 2005,To: 13 Dec 2005,Orthodox,FY 2006,28,Ethiopia,17,397
+From: 13 Dec 2005,To: 13 Dec 2005,Other Religion,FY 2006,1,Vietnam,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Pentecostalist,FY 2006,7,Eritrea,3,397
+From: 13 Dec 2005,To: 13 Dec 2005,Pentecostalist,FY 2006,7,Liberia,4,397
+From: 13 Dec 2005,To: 13 Dec 2005,Protestant,FY 2006,1,Eritrea,1,397
+From: 13 Dec 2005,To: 13 Dec 2005,Unknown,FY 2006,4,Azerbaijan,4,397
+

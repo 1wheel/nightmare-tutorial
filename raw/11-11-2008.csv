@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Nov 2008,To: 11 Nov 2008,Burma,FY 2009,35,Christian,18,134
+From: 11 Nov 2008,To: 11 Nov 2008,Burma,FY 2009,35,Moslem,17,134
+From: 11 Nov 2008,To: 11 Nov 2008,Eritrea,FY 2009,3,Pentecostalist,3,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Catholic,7,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Christian,22,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Moslem,1,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Moslem Shiite,8,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Moslem Suni,35,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Orthodox,4,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Protestant,1,134
+From: 11 Nov 2008,To: 11 Nov 2008,Iraq,FY 2009,81,Sabeans-Mandean,3,134
+From: 11 Nov 2008,To: 11 Nov 2008,Kuwait,FY 2009,3,Moslem Suni,3,134
+From: 11 Nov 2008,To: 11 Nov 2008,Rwanda,FY 2009,7,Catholic,7,134
+From: 11 Nov 2008,To: 11 Nov 2008,Somalia,FY 2009,5,Christian,5,134
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Nov 2008,To: 11 Nov 2008,Catholic,FY 2009,14,Iraq,7,134
+From: 11 Nov 2008,To: 11 Nov 2008,Catholic,FY 2009,14,Rwanda,7,134
+From: 11 Nov 2008,To: 11 Nov 2008,Christian,FY 2009,45,Burma,18,134
+From: 11 Nov 2008,To: 11 Nov 2008,Christian,FY 2009,45,Iraq,22,134
+From: 11 Nov 2008,To: 11 Nov 2008,Christian,FY 2009,45,Somalia,5,134
+From: 11 Nov 2008,To: 11 Nov 2008,Moslem,FY 2009,18,Burma,17,134
+From: 11 Nov 2008,To: 11 Nov 2008,Moslem,FY 2009,18,Iraq,1,134
+From: 11 Nov 2008,To: 11 Nov 2008,Moslem Shiite,FY 2009,8,Iraq,8,134
+From: 11 Nov 2008,To: 11 Nov 2008,Moslem Suni,FY 2009,38,Iraq,35,134
+From: 11 Nov 2008,To: 11 Nov 2008,Moslem Suni,FY 2009,38,Kuwait,3,134
+From: 11 Nov 2008,To: 11 Nov 2008,Orthodox,FY 2009,4,Iraq,4,134
+From: 11 Nov 2008,To: 11 Nov 2008,Pentecostalist,FY 2009,3,Eritrea,3,134
+From: 11 Nov 2008,To: 11 Nov 2008,Protestant,FY 2009,1,Iraq,1,134
+From: 11 Nov 2008,To: 11 Nov 2008,Sabeans-Mandean,FY 2009,3,Iraq,3,134
+

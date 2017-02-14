@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Nov 2013,To: 04 Nov 2013,Bhutan,FY 2014,48,Buddhist,5,349
+From: 04 Nov 2013,To: 04 Nov 2013,Bhutan,FY 2014,48,Christian,5,349
+From: 04 Nov 2013,To: 04 Nov 2013,Bhutan,FY 2014,48,Hindu,31,349
+From: 04 Nov 2013,To: 04 Nov 2013,Bhutan,FY 2014,48,Kirat,7,349
+From: 04 Nov 2013,To: 04 Nov 2013,Dem. Rep. Congo,FY 2014,8,Catholic,2,349
+From: 04 Nov 2013,To: 04 Nov 2013,Dem. Rep. Congo,FY 2014,8,Moslem,2,349
+From: 04 Nov 2013,To: 04 Nov 2013,Dem. Rep. Congo,FY 2014,8,Protestant,4,349
+From: 04 Nov 2013,To: 04 Nov 2013,Eritrea,FY 2014,1,Christian,1,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iran,FY 2014,9,Bahai,9,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Atheist,1,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Catholic,25,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Christian,22,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Moslem Shiite,51,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Moslem Suni,119,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Orthodox,8,349
+From: 04 Nov 2013,To: 04 Nov 2013,Iraq,FY 2014,227,Sabeans-Mandean,1,349
+From: 04 Nov 2013,To: 04 Nov 2013,Kenya,FY 2014,2,Christian,2,349
+From: 04 Nov 2013,To: 04 Nov 2013,Somalia,FY 2014,38,Moslem,34,349
+From: 04 Nov 2013,To: 04 Nov 2013,Somalia,FY 2014,38,Moslem Suni,4,349
+From: 04 Nov 2013,To: 04 Nov 2013,Sudan,FY 2014,9,Moslem,5,349
+From: 04 Nov 2013,To: 04 Nov 2013,Sudan,FY 2014,9,Moslem Suni,4,349
+From: 04 Nov 2013,To: 04 Nov 2013,Ukraine,FY 2014,7,Pentecostalist,7,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Nov 2013,To: 04 Nov 2013,Atheist,FY 2014,1,Iraq,1,349
+From: 04 Nov 2013,To: 04 Nov 2013,Bahai,FY 2014,9,Iran,9,349
+From: 04 Nov 2013,To: 04 Nov 2013,Buddhist,FY 2014,5,Bhutan,5,349
+From: 04 Nov 2013,To: 04 Nov 2013,Catholic,FY 2014,27,Dem. Rep. Congo,2,349
+From: 04 Nov 2013,To: 04 Nov 2013,Catholic,FY 2014,27,Iraq,25,349
+From: 04 Nov 2013,To: 04 Nov 2013,Christian,FY 2014,30,Bhutan,5,349
+From: 04 Nov 2013,To: 04 Nov 2013,Christian,FY 2014,30,Eritrea,1,349
+From: 04 Nov 2013,To: 04 Nov 2013,Christian,FY 2014,30,Iraq,22,349
+From: 04 Nov 2013,To: 04 Nov 2013,Christian,FY 2014,30,Kenya,2,349
+From: 04 Nov 2013,To: 04 Nov 2013,Hindu,FY 2014,31,Bhutan,31,349
+From: 04 Nov 2013,To: 04 Nov 2013,Kirat,FY 2014,7,Bhutan,7,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem,FY 2014,41,Dem. Rep. Congo,2,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem,FY 2014,41,Somalia,34,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem,FY 2014,41,Sudan,5,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem Shiite,FY 2014,51,Iraq,51,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem Suni,FY 2014,127,Iraq,119,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem Suni,FY 2014,127,Somalia,4,349
+From: 04 Nov 2013,To: 04 Nov 2013,Moslem Suni,FY 2014,127,Sudan,4,349
+From: 04 Nov 2013,To: 04 Nov 2013,Orthodox,FY 2014,8,Iraq,8,349
+From: 04 Nov 2013,To: 04 Nov 2013,Pentecostalist,FY 2014,7,Ukraine,7,349
+From: 04 Nov 2013,To: 04 Nov 2013,Protestant,FY 2014,4,Dem. Rep. Congo,4,349
+From: 04 Nov 2013,To: 04 Nov 2013,Sabeans-Mandean,FY 2014,1,Iraq,1,349
+

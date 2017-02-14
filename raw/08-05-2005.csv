@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Aug 2005,To: 05 Aug 2005,Laos,FY 2005,5,Ancestral Worship,5,95
+From: 05 Aug 2005,To: 05 Aug 2005,Liberia,FY 2005,25,Christian,4,95
+From: 05 Aug 2005,To: 05 Aug 2005,Liberia,FY 2005,25,Moslem,21,95
+From: 05 Aug 2005,To: 05 Aug 2005,Russia,FY 2005,35,Moslem,35,95
+From: 05 Aug 2005,To: 05 Aug 2005,Sierra Leone,FY 2005,1,Christian,1,95
+From: 05 Aug 2005,To: 05 Aug 2005,Uzbekistan,FY 2005,3,Baptist,3,95
+From: 05 Aug 2005,To: 05 Aug 2005,Vietnam,FY 2005,26,Ancestral Worship,4,95
+From: 05 Aug 2005,To: 05 Aug 2005,Vietnam,FY 2005,26,Buddhist,6,95
+From: 05 Aug 2005,To: 05 Aug 2005,Vietnam,FY 2005,26,Cao Dai,2,95
+From: 05 Aug 2005,To: 05 Aug 2005,Vietnam,FY 2005,26,Catholic,7,95
+From: 05 Aug 2005,To: 05 Aug 2005,Vietnam,FY 2005,26,No Religion,4,95
+From: 05 Aug 2005,To: 05 Aug 2005,Vietnam,FY 2005,26,Unknown,3,95
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Aug 2005,To: 05 Aug 2005,Ancestral Worship,FY 2005,9,Laos,5,95
+From: 05 Aug 2005,To: 05 Aug 2005,Ancestral Worship,FY 2005,9,Vietnam,4,95
+From: 05 Aug 2005,To: 05 Aug 2005,Baptist,FY 2005,3,Uzbekistan,3,95
+From: 05 Aug 2005,To: 05 Aug 2005,Buddhist,FY 2005,6,Vietnam,6,95
+From: 05 Aug 2005,To: 05 Aug 2005,Cao Dai,FY 2005,2,Vietnam,2,95
+From: 05 Aug 2005,To: 05 Aug 2005,Catholic,FY 2005,7,Vietnam,7,95
+From: 05 Aug 2005,To: 05 Aug 2005,Christian,FY 2005,5,Liberia,4,95
+From: 05 Aug 2005,To: 05 Aug 2005,Christian,FY 2005,5,Sierra Leone,1,95
+From: 05 Aug 2005,To: 05 Aug 2005,Moslem,FY 2005,56,Liberia,21,95
+From: 05 Aug 2005,To: 05 Aug 2005,Moslem,FY 2005,56,Russia,35,95
+From: 05 Aug 2005,To: 05 Aug 2005,No Religion,FY 2005,4,Vietnam,4,95
+From: 05 Aug 2005,To: 05 Aug 2005,Unknown,FY 2005,3,Vietnam,3,95
+

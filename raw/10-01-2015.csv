@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Oct 2015,To: 01 Oct 2015,Burma,FY 2016,63,Animist,7,65
+From: 01 Oct 2015,To: 01 Oct 2015,Burma,FY 2016,63,Buddhist,3,65
+From: 01 Oct 2015,To: 01 Oct 2015,Burma,FY 2016,63,Catholic,5,65
+From: 01 Oct 2015,To: 01 Oct 2015,Burma,FY 2016,63,Christian,31,65
+From: 01 Oct 2015,To: 01 Oct 2015,Burma,FY 2016,63,Moslem,17,65
+From: 01 Oct 2015,To: 01 Oct 2015,Sri Lanka (Ceylon),FY 2016,2,Christian,2,65
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Oct 2015,To: 01 Oct 2015,Animist,FY 2016,7,Burma,7,65
+From: 01 Oct 2015,To: 01 Oct 2015,Buddhist,FY 2016,3,Burma,3,65
+From: 01 Oct 2015,To: 01 Oct 2015,Catholic,FY 2016,5,Burma,5,65
+From: 01 Oct 2015,To: 01 Oct 2015,Christian,FY 2016,33,Burma,31,65
+From: 01 Oct 2015,To: 01 Oct 2015,Christian,FY 2016,33,Sri Lanka (Ceylon),2,65
+From: 01 Oct 2015,To: 01 Oct 2015,Moslem,FY 2016,17,Burma,17,65
+

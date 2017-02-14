@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jan 2011,To: 05 Jan 2011,Bhutan,FY 2011,95,Buddhist,12,112
+From: 05 Jan 2011,To: 05 Jan 2011,Bhutan,FY 2011,95,Christian,9,112
+From: 05 Jan 2011,To: 05 Jan 2011,Bhutan,FY 2011,95,Hindu,70,112
+From: 05 Jan 2011,To: 05 Jan 2011,Bhutan,FY 2011,95,Kirat,4,112
+From: 05 Jan 2011,To: 05 Jan 2011,Iraq,FY 2011,17,Atheist,1,112
+From: 05 Jan 2011,To: 05 Jan 2011,Iraq,FY 2011,17,Catholic,2,112
+From: 05 Jan 2011,To: 05 Jan 2011,Iraq,FY 2011,17,Christian,1,112
+From: 05 Jan 2011,To: 05 Jan 2011,Iraq,FY 2011,17,Moslem Shiite,10,112
+From: 05 Jan 2011,To: 05 Jan 2011,Iraq,FY 2011,17,Moslem Suni,3,112
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jan 2011,To: 05 Jan 2011,Atheist,FY 2011,1,Iraq,1,112
+From: 05 Jan 2011,To: 05 Jan 2011,Buddhist,FY 2011,12,Bhutan,12,112
+From: 05 Jan 2011,To: 05 Jan 2011,Catholic,FY 2011,2,Iraq,2,112
+From: 05 Jan 2011,To: 05 Jan 2011,Christian,FY 2011,10,Bhutan,9,112
+From: 05 Jan 2011,To: 05 Jan 2011,Christian,FY 2011,10,Iraq,1,112
+From: 05 Jan 2011,To: 05 Jan 2011,Hindu,FY 2011,70,Bhutan,70,112
+From: 05 Jan 2011,To: 05 Jan 2011,Kirat,FY 2011,4,Bhutan,4,112
+From: 05 Jan 2011,To: 05 Jan 2011,Moslem Shiite,FY 2011,10,Iraq,10,112
+From: 05 Jan 2011,To: 05 Jan 2011,Moslem Suni,FY 2011,3,Iraq,3,112
+

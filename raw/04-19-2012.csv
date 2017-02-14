@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2012,To: 19 Apr 2012,Bhutan,FY 2012,89,Buddhist,26,263
+From: 19 Apr 2012,To: 19 Apr 2012,Bhutan,FY 2012,89,Christian,15,263
+From: 19 Apr 2012,To: 19 Apr 2012,Bhutan,FY 2012,89,Hindu,34,263
+From: 19 Apr 2012,To: 19 Apr 2012,Bhutan,FY 2012,89,Kirat,14,263
+From: 19 Apr 2012,To: 19 Apr 2012,Burma,FY 2012,53,Buddhist,9,263
+From: 19 Apr 2012,To: 19 Apr 2012,Burma,FY 2012,53,Catholic,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Burma,FY 2012,53,Christian,43,263
+From: 19 Apr 2012,To: 19 Apr 2012,Burundi,FY 2012,4,Protestant,4,263
+From: 19 Apr 2012,To: 19 Apr 2012,Cuba,FY 2012,30,Baptist,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Cuba,FY 2012,30,Catholic,5,263
+From: 19 Apr 2012,To: 19 Apr 2012,Cuba,FY 2012,30,Jehovah Witness,9,263
+From: 19 Apr 2012,To: 19 Apr 2012,Cuba,FY 2012,30,No Religion,12,263
+From: 19 Apr 2012,To: 19 Apr 2012,Cuba,FY 2012,30,Unknown,3,263
+From: 19 Apr 2012,To: 19 Apr 2012,Dem. Rep. Congo,FY 2012,10,Christian,7,263
+From: 19 Apr 2012,To: 19 Apr 2012,Dem. Rep. Congo,FY 2012,10,Protestant,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Dem. Rep. Congo,FY 2012,10,Unknown,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Eritrea,FY 2012,2,Orthodox,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Iraq,FY 2012,6,Christian,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Iraq,FY 2012,6,Moslem Shiite,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Iraq,FY 2012,6,Moslem Suni,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Iraq,FY 2012,6,Sabeans-Mandean,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Pakistan,FY 2012,1,Ahmadiyya,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Somalia,FY 2012,68,Moslem,68,263
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2012,To: 19 Apr 2012,Ahmadiyya,FY 2012,1,Pakistan,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Baptist,FY 2012,1,Cuba,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Buddhist,FY 2012,35,Bhutan,26,263
+From: 19 Apr 2012,To: 19 Apr 2012,Buddhist,FY 2012,35,Burma,9,263
+From: 19 Apr 2012,To: 19 Apr 2012,Catholic,FY 2012,6,Burma,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Catholic,FY 2012,6,Cuba,5,263
+From: 19 Apr 2012,To: 19 Apr 2012,Christian,FY 2012,66,Bhutan,15,263
+From: 19 Apr 2012,To: 19 Apr 2012,Christian,FY 2012,66,Burma,43,263
+From: 19 Apr 2012,To: 19 Apr 2012,Christian,FY 2012,66,Dem. Rep. Congo,7,263
+From: 19 Apr 2012,To: 19 Apr 2012,Christian,FY 2012,66,Iraq,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Hindu,FY 2012,34,Bhutan,34,263
+From: 19 Apr 2012,To: 19 Apr 2012,Jehovah Witness,FY 2012,9,Cuba,9,263
+From: 19 Apr 2012,To: 19 Apr 2012,Kirat,FY 2012,14,Bhutan,14,263
+From: 19 Apr 2012,To: 19 Apr 2012,Moslem,FY 2012,68,Somalia,68,263
+From: 19 Apr 2012,To: 19 Apr 2012,Moslem Shiite,FY 2012,1,Iraq,1,263
+From: 19 Apr 2012,To: 19 Apr 2012,Moslem Suni,FY 2012,2,Iraq,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,No Religion,FY 2012,12,Cuba,12,263
+From: 19 Apr 2012,To: 19 Apr 2012,Orthodox,FY 2012,2,Eritrea,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Protestant,FY 2012,6,Burundi,4,263
+From: 19 Apr 2012,To: 19 Apr 2012,Protestant,FY 2012,6,Dem. Rep. Congo,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Sabeans-Mandean,FY 2012,2,Iraq,2,263
+From: 19 Apr 2012,To: 19 Apr 2012,Unknown,FY 2012,4,Cuba,3,263
+From: 19 Apr 2012,To: 19 Apr 2012,Unknown,FY 2012,4,Dem. Rep. Congo,1,263
+

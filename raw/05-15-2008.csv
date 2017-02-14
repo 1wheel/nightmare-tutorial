@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 May 2008,To: 15 May 2008,Bhutan,FY 2008,29,Hindu,29,395
+From: 15 May 2008,To: 15 May 2008,Burma,FY 2008,165,Buddhist,28,395
+From: 15 May 2008,To: 15 May 2008,Burma,FY 2008,165,Christian,105,395
+From: 15 May 2008,To: 15 May 2008,Burma,FY 2008,165,Moslem,32,395
+From: 15 May 2008,To: 15 May 2008,Burundi,FY 2008,9,Catholic,5,395
+From: 15 May 2008,To: 15 May 2008,Burundi,FY 2008,9,Christian,4,395
+From: 15 May 2008,To: 15 May 2008,China,FY 2008,1,Other Religion,1,395
+From: 15 May 2008,To: 15 May 2008,Cuba,FY 2008,75,Baptist,2,395
+From: 15 May 2008,To: 15 May 2008,Cuba,FY 2008,75,Catholic,27,395
+From: 15 May 2008,To: 15 May 2008,Cuba,FY 2008,75,Christian,1,395
+From: 15 May 2008,To: 15 May 2008,Cuba,FY 2008,75,Jehovah Witness,19,395
+From: 15 May 2008,To: 15 May 2008,Cuba,FY 2008,75,No Religion,22,395
+From: 15 May 2008,To: 15 May 2008,Cuba,FY 2008,75,Seventh Day Adventist,4,395
+From: 15 May 2008,To: 15 May 2008,Ethiopia,FY 2008,1,Moslem,1,395
+From: 15 May 2008,To: 15 May 2008,Iran,FY 2008,31,Bahai,2,395
+From: 15 May 2008,To: 15 May 2008,Iran,FY 2008,31,Christian,18,395
+From: 15 May 2008,To: 15 May 2008,Iran,FY 2008,31,Jewish,2,395
+From: 15 May 2008,To: 15 May 2008,Iran,FY 2008,31,Zoroastrian,9,395
+From: 15 May 2008,To: 15 May 2008,Iraq,FY 2008,54,Catholic,7,395
+From: 15 May 2008,To: 15 May 2008,Iraq,FY 2008,54,Christian,1,395
+From: 15 May 2008,To: 15 May 2008,Iraq,FY 2008,54,Moslem Shiite,21,395
+From: 15 May 2008,To: 15 May 2008,Iraq,FY 2008,54,Moslem Suni,25,395
+From: 15 May 2008,To: 15 May 2008,"Korea, North",FY 2008,5,No Religion,5,395
+From: 15 May 2008,To: 15 May 2008,Liberia,FY 2008,2,Christian,2,395
+From: 15 May 2008,To: 15 May 2008,Pakistan,FY 2008,6,Moslem,6,395
+From: 15 May 2008,To: 15 May 2008,Somalia,FY 2008,15,Moslem,15,395
+From: 15 May 2008,To: 15 May 2008,Sudan,FY 2008,2,Moslem,2,395
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 May 2008,To: 15 May 2008,Bahai,FY 2008,2,Iran,2,395
+From: 15 May 2008,To: 15 May 2008,Baptist,FY 2008,2,Cuba,2,395
+From: 15 May 2008,To: 15 May 2008,Buddhist,FY 2008,28,Burma,28,395
+From: 15 May 2008,To: 15 May 2008,Catholic,FY 2008,39,Burundi,5,395
+From: 15 May 2008,To: 15 May 2008,Catholic,FY 2008,39,Cuba,27,395
+From: 15 May 2008,To: 15 May 2008,Catholic,FY 2008,39,Iraq,7,395
+From: 15 May 2008,To: 15 May 2008,Christian,FY 2008,131,Burma,105,395
+From: 15 May 2008,To: 15 May 2008,Christian,FY 2008,131,Burundi,4,395
+From: 15 May 2008,To: 15 May 2008,Christian,FY 2008,131,Cuba,1,395
+From: 15 May 2008,To: 15 May 2008,Christian,FY 2008,131,Iran,18,395
+From: 15 May 2008,To: 15 May 2008,Christian,FY 2008,131,Iraq,1,395
+From: 15 May 2008,To: 15 May 2008,Christian,FY 2008,131,Liberia,2,395
+From: 15 May 2008,To: 15 May 2008,Hindu,FY 2008,29,Bhutan,29,395
+From: 15 May 2008,To: 15 May 2008,Jehovah Witness,FY 2008,19,Cuba,19,395
+From: 15 May 2008,To: 15 May 2008,Jewish,FY 2008,2,Iran,2,395
+From: 15 May 2008,To: 15 May 2008,Moslem,FY 2008,56,Burma,32,395
+From: 15 May 2008,To: 15 May 2008,Moslem,FY 2008,56,Ethiopia,1,395
+From: 15 May 2008,To: 15 May 2008,Moslem,FY 2008,56,Pakistan,6,395
+From: 15 May 2008,To: 15 May 2008,Moslem,FY 2008,56,Somalia,15,395
+From: 15 May 2008,To: 15 May 2008,Moslem,FY 2008,56,Sudan,2,395
+From: 15 May 2008,To: 15 May 2008,Moslem Shiite,FY 2008,21,Iraq,21,395
+From: 15 May 2008,To: 15 May 2008,Moslem Suni,FY 2008,25,Iraq,25,395
+From: 15 May 2008,To: 15 May 2008,No Religion,FY 2008,27,Cuba,22,395
+From: 15 May 2008,To: 15 May 2008,No Religion,FY 2008,27,"Korea, North",5,395
+From: 15 May 2008,To: 15 May 2008,Other Religion,FY 2008,1,China,1,395
+From: 15 May 2008,To: 15 May 2008,Seventh Day Adventist,FY 2008,4,Cuba,4,395
+From: 15 May 2008,To: 15 May 2008,Zoroastrian,FY 2008,9,Iran,9,395
+

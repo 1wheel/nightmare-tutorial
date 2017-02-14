@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Nov 2013,To: 18 Nov 2013,Bhutan,FY 2014,65,Buddhist,23,419
+From: 18 Nov 2013,To: 18 Nov 2013,Bhutan,FY 2014,65,Christian,7,419
+From: 18 Nov 2013,To: 18 Nov 2013,Bhutan,FY 2014,65,Hindu,25,419
+From: 18 Nov 2013,To: 18 Nov 2013,Bhutan,FY 2014,65,Kirat,10,419
+From: 18 Nov 2013,To: 18 Nov 2013,Eritrea,FY 2014,14,Moslem,4,419
+From: 18 Nov 2013,To: 18 Nov 2013,Eritrea,FY 2014,14,Orthodox,9,419
+From: 18 Nov 2013,To: 18 Nov 2013,Eritrea,FY 2014,14,Protestant,1,419
+From: 18 Nov 2013,To: 18 Nov 2013,Ethiopia,FY 2014,15,Christian,4,419
+From: 18 Nov 2013,To: 18 Nov 2013,Ethiopia,FY 2014,15,Moslem,8,419
+From: 18 Nov 2013,To: 18 Nov 2013,Ethiopia,FY 2014,15,Orthodox,3,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iran,FY 2014,20,Atheist,2,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iran,FY 2014,20,Bahai,14,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iran,FY 2014,20,Moslem Shiite,2,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iran,FY 2014,20,No Religion,2,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Catholic,25,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Christian,10,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Moslem,1,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Moslem Shiite,55,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Moslem Suni,99,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Orthodox,9,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Other Religion,4,419
+From: 18 Nov 2013,To: 18 Nov 2013,Iraq,FY 2014,213,Sabeans-Mandean,10,419
+From: 18 Nov 2013,To: 18 Nov 2013,Somalia,FY 2014,67,Moslem,67,419
+From: 18 Nov 2013,To: 18 Nov 2013,Sudan,FY 2014,25,Christian,1,419
+From: 18 Nov 2013,To: 18 Nov 2013,Sudan,FY 2014,25,Moslem,24,419
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Nov 2013,To: 18 Nov 2013,Atheist,FY 2014,2,Iran,2,419
+From: 18 Nov 2013,To: 18 Nov 2013,Bahai,FY 2014,14,Iran,14,419
+From: 18 Nov 2013,To: 18 Nov 2013,Buddhist,FY 2014,23,Bhutan,23,419
+From: 18 Nov 2013,To: 18 Nov 2013,Catholic,FY 2014,25,Iraq,25,419
+From: 18 Nov 2013,To: 18 Nov 2013,Christian,FY 2014,22,Bhutan,7,419
+From: 18 Nov 2013,To: 18 Nov 2013,Christian,FY 2014,22,Ethiopia,4,419
+From: 18 Nov 2013,To: 18 Nov 2013,Christian,FY 2014,22,Iraq,10,419
+From: 18 Nov 2013,To: 18 Nov 2013,Christian,FY 2014,22,Sudan,1,419
+From: 18 Nov 2013,To: 18 Nov 2013,Hindu,FY 2014,25,Bhutan,25,419
+From: 18 Nov 2013,To: 18 Nov 2013,Kirat,FY 2014,10,Bhutan,10,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem,FY 2014,104,Eritrea,4,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem,FY 2014,104,Ethiopia,8,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem,FY 2014,104,Iraq,1,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem,FY 2014,104,Somalia,67,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem,FY 2014,104,Sudan,24,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem Shiite,FY 2014,57,Iran,2,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem Shiite,FY 2014,57,Iraq,55,419
+From: 18 Nov 2013,To: 18 Nov 2013,Moslem Suni,FY 2014,99,Iraq,99,419
+From: 18 Nov 2013,To: 18 Nov 2013,No Religion,FY 2014,2,Iran,2,419
+From: 18 Nov 2013,To: 18 Nov 2013,Orthodox,FY 2014,21,Eritrea,9,419
+From: 18 Nov 2013,To: 18 Nov 2013,Orthodox,FY 2014,21,Ethiopia,3,419
+From: 18 Nov 2013,To: 18 Nov 2013,Orthodox,FY 2014,21,Iraq,9,419
+From: 18 Nov 2013,To: 18 Nov 2013,Other Religion,FY 2014,4,Iraq,4,419
+From: 18 Nov 2013,To: 18 Nov 2013,Protestant,FY 2014,1,Eritrea,1,419
+From: 18 Nov 2013,To: 18 Nov 2013,Sabeans-Mandean,FY 2014,10,Iraq,10,419
+

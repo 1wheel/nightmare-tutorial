@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Aug 2013,To: 14 Aug 2013,Afghanistan,FY 2013,6,Moslem Suni,6,291
+From: 14 Aug 2013,To: 14 Aug 2013,Armenia,FY 2013,2,Pentecostalist,2,291
+From: 14 Aug 2013,To: 14 Aug 2013,Bhutan,FY 2013,93,Buddhist,22,291
+From: 14 Aug 2013,To: 14 Aug 2013,Bhutan,FY 2013,93,Christian,13,291
+From: 14 Aug 2013,To: 14 Aug 2013,Bhutan,FY 2013,93,Hindu,37,291
+From: 14 Aug 2013,To: 14 Aug 2013,Bhutan,FY 2013,93,Kirat,21,291
+From: 14 Aug 2013,To: 14 Aug 2013,Burma,FY 2013,60,Baptist,12,291
+From: 14 Aug 2013,To: 14 Aug 2013,Burma,FY 2013,60,Buddhist,12,291
+From: 14 Aug 2013,To: 14 Aug 2013,Burma,FY 2013,60,Catholic,2,291
+From: 14 Aug 2013,To: 14 Aug 2013,Burma,FY 2013,60,Christian,33,291
+From: 14 Aug 2013,To: 14 Aug 2013,Burma,FY 2013,60,Pentecostalist,1,291
+From: 14 Aug 2013,To: 14 Aug 2013,Iraq,FY 2013,98,Catholic,26,291
+From: 14 Aug 2013,To: 14 Aug 2013,Iraq,FY 2013,98,Christian,5,291
+From: 14 Aug 2013,To: 14 Aug 2013,Iraq,FY 2013,98,Moslem Shiite,46,291
+From: 14 Aug 2013,To: 14 Aug 2013,Iraq,FY 2013,98,Moslem Suni,15,291
+From: 14 Aug 2013,To: 14 Aug 2013,Iraq,FY 2013,98,Orthodox,6,291
+From: 14 Aug 2013,To: 14 Aug 2013,Russia,FY 2013,2,No Religion,2,291
+From: 14 Aug 2013,To: 14 Aug 2013,Somalia,FY 2013,9,Moslem,9,291
+From: 14 Aug 2013,To: 14 Aug 2013,Sudan,FY 2013,21,Moslem,21,291
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Aug 2013,To: 14 Aug 2013,Baptist,FY 2013,12,Burma,12,291
+From: 14 Aug 2013,To: 14 Aug 2013,Buddhist,FY 2013,34,Bhutan,22,291
+From: 14 Aug 2013,To: 14 Aug 2013,Buddhist,FY 2013,34,Burma,12,291
+From: 14 Aug 2013,To: 14 Aug 2013,Catholic,FY 2013,28,Burma,2,291
+From: 14 Aug 2013,To: 14 Aug 2013,Catholic,FY 2013,28,Iraq,26,291
+From: 14 Aug 2013,To: 14 Aug 2013,Christian,FY 2013,51,Bhutan,13,291
+From: 14 Aug 2013,To: 14 Aug 2013,Christian,FY 2013,51,Burma,33,291
+From: 14 Aug 2013,To: 14 Aug 2013,Christian,FY 2013,51,Iraq,5,291
+From: 14 Aug 2013,To: 14 Aug 2013,Hindu,FY 2013,37,Bhutan,37,291
+From: 14 Aug 2013,To: 14 Aug 2013,Kirat,FY 2013,21,Bhutan,21,291
+From: 14 Aug 2013,To: 14 Aug 2013,Moslem,FY 2013,30,Somalia,9,291
+From: 14 Aug 2013,To: 14 Aug 2013,Moslem,FY 2013,30,Sudan,21,291
+From: 14 Aug 2013,To: 14 Aug 2013,Moslem Shiite,FY 2013,46,Iraq,46,291
+From: 14 Aug 2013,To: 14 Aug 2013,Moslem Suni,FY 2013,21,Afghanistan,6,291
+From: 14 Aug 2013,To: 14 Aug 2013,Moslem Suni,FY 2013,21,Iraq,15,291
+From: 14 Aug 2013,To: 14 Aug 2013,No Religion,FY 2013,2,Russia,2,291
+From: 14 Aug 2013,To: 14 Aug 2013,Orthodox,FY 2013,6,Iraq,6,291
+From: 14 Aug 2013,To: 14 Aug 2013,Pentecostalist,FY 2013,3,Armenia,2,291
+From: 14 Aug 2013,To: 14 Aug 2013,Pentecostalist,FY 2013,3,Burma,1,291
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Nov 2008,To: 24 Nov 2008,Afghanistan,FY 2009,1,Moslem Suni,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Belarus,FY 2009,13,Baptist,11,208
+From: 24 Nov 2008,To: 24 Nov 2008,Belarus,FY 2009,13,Pentecostalist,2,208
+From: 24 Nov 2008,To: 24 Nov 2008,Bhutan,FY 2009,21,Buddhist,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Bhutan,FY 2009,21,Christian,4,208
+From: 24 Nov 2008,To: 24 Nov 2008,Bhutan,FY 2009,21,Hindu,16,208
+From: 24 Nov 2008,To: 24 Nov 2008,Colombia,FY 2009,1,Unknown,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Congo,FY 2009,1,Catholic,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Dem. Rep. Congo,FY 2009,1,Christian,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Catholic,15,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Christian,35,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Moslem Shiite,38,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Moslem Suni,43,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Orthodox,4,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Other Religion,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Iraq,FY 2009,142,Sabeans-Mandean,6,208
+From: 24 Nov 2008,To: 24 Nov 2008,"Korea, North",FY 2009,4,Christian,3,208
+From: 24 Nov 2008,To: 24 Nov 2008,"Korea, North",FY 2009,4,No Religion,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Liberia,FY 2009,5,Christian,4,208
+From: 24 Nov 2008,To: 24 Nov 2008,Liberia,FY 2009,5,Moslem,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Nigeria,FY 2009,2,Christian,2,208
+From: 24 Nov 2008,To: 24 Nov 2008,Russia,FY 2009,8,Moslem,7,208
+From: 24 Nov 2008,To: 24 Nov 2008,Russia,FY 2009,8,Moslem Suni,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Sierra Leone,FY 2009,4,Christian,3,208
+From: 24 Nov 2008,To: 24 Nov 2008,Sierra Leone,FY 2009,4,Unknown,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Togo,FY 2009,5,Catholic,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Togo,FY 2009,5,Christian,3,208
+From: 24 Nov 2008,To: 24 Nov 2008,Togo,FY 2009,5,Pentecostalist,1,208
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Nov 2008,To: 24 Nov 2008,Baptist,FY 2009,11,Belarus,11,208
+From: 24 Nov 2008,To: 24 Nov 2008,Buddhist,FY 2009,1,Bhutan,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Catholic,FY 2009,17,Congo,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Catholic,FY 2009,17,Iraq,15,208
+From: 24 Nov 2008,To: 24 Nov 2008,Catholic,FY 2009,17,Togo,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Bhutan,4,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Dem. Rep. Congo,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Iraq,35,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,"Korea, North",3,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Liberia,4,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Nigeria,2,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Sierra Leone,3,208
+From: 24 Nov 2008,To: 24 Nov 2008,Christian,FY 2009,55,Togo,3,208
+From: 24 Nov 2008,To: 24 Nov 2008,Hindu,FY 2009,16,Bhutan,16,208
+From: 24 Nov 2008,To: 24 Nov 2008,Moslem,FY 2009,8,Liberia,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Moslem,FY 2009,8,Russia,7,208
+From: 24 Nov 2008,To: 24 Nov 2008,Moslem Shiite,FY 2009,38,Iraq,38,208
+From: 24 Nov 2008,To: 24 Nov 2008,Moslem Suni,FY 2009,45,Afghanistan,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Moslem Suni,FY 2009,45,Iraq,43,208
+From: 24 Nov 2008,To: 24 Nov 2008,Moslem Suni,FY 2009,45,Russia,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,No Religion,FY 2009,1,"Korea, North",1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Orthodox,FY 2009,4,Iraq,4,208
+From: 24 Nov 2008,To: 24 Nov 2008,Other Religion,FY 2009,1,Iraq,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Pentecostalist,FY 2009,3,Belarus,2,208
+From: 24 Nov 2008,To: 24 Nov 2008,Pentecostalist,FY 2009,3,Togo,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Sabeans-Mandean,FY 2009,6,Iraq,6,208
+From: 24 Nov 2008,To: 24 Nov 2008,Unknown,FY 2009,2,Colombia,1,208
+From: 24 Nov 2008,To: 24 Nov 2008,Unknown,FY 2009,2,Sierra Leone,1,208
+

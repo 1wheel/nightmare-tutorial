@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Feb 2007,To: 07 Feb 2007,Burma,FY 2007,28,Christian,28,123
+From: 07 Feb 2007,To: 07 Feb 2007,China,FY 2007,2,Christian,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,China,FY 2007,2,Other Religion,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Iran,FY 2007,24,Christian,15,123
+From: 07 Feb 2007,To: 07 Feb 2007,Iran,FY 2007,24,Sabeans-Mandean,8,123
+From: 07 Feb 2007,To: 07 Feb 2007,Iran,FY 2007,24,Zoroastrian,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,"Korea, North",FY 2007,3,Christian,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Liberia,FY 2007,35,Catholic,8,123
+From: 07 Feb 2007,To: 07 Feb 2007,Liberia,FY 2007,35,Christian,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Liberia,FY 2007,35,Methodist,9,123
+From: 07 Feb 2007,To: 07 Feb 2007,Liberia,FY 2007,35,Moslem,15,123
+From: 07 Feb 2007,To: 07 Feb 2007,Russia,FY 2007,1,Pentecostalist,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Somalia,FY 2007,4,Moslem,4,123
+From: 07 Feb 2007,To: 07 Feb 2007,Sudan,FY 2007,1,Unknown,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Vietnam,FY 2007,25,Ancestral Worship,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Vietnam,FY 2007,25,Buddhist,11,123
+From: 07 Feb 2007,To: 07 Feb 2007,Vietnam,FY 2007,25,No Religion,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Vietnam,FY 2007,25,Protestant,8,123
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Feb 2007,To: 07 Feb 2007,Ancestral Worship,FY 2007,3,Vietnam,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Buddhist,FY 2007,11,Vietnam,11,123
+From: 07 Feb 2007,To: 07 Feb 2007,Catholic,FY 2007,8,Liberia,8,123
+From: 07 Feb 2007,To: 07 Feb 2007,Christian,FY 2007,50,Burma,28,123
+From: 07 Feb 2007,To: 07 Feb 2007,Christian,FY 2007,50,China,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Christian,FY 2007,50,Iran,15,123
+From: 07 Feb 2007,To: 07 Feb 2007,Christian,FY 2007,50,"Korea, North",3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Christian,FY 2007,50,Liberia,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Methodist,FY 2007,9,Liberia,9,123
+From: 07 Feb 2007,To: 07 Feb 2007,Moslem,FY 2007,19,Liberia,15,123
+From: 07 Feb 2007,To: 07 Feb 2007,Moslem,FY 2007,19,Somalia,4,123
+From: 07 Feb 2007,To: 07 Feb 2007,No Religion,FY 2007,3,Vietnam,3,123
+From: 07 Feb 2007,To: 07 Feb 2007,Other Religion,FY 2007,1,China,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Pentecostalist,FY 2007,1,Russia,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Protestant,FY 2007,8,Vietnam,8,123
+From: 07 Feb 2007,To: 07 Feb 2007,Sabeans-Mandean,FY 2007,8,Iran,8,123
+From: 07 Feb 2007,To: 07 Feb 2007,Unknown,FY 2007,1,Sudan,1,123
+From: 07 Feb 2007,To: 07 Feb 2007,Zoroastrian,FY 2007,1,Iran,1,123
+

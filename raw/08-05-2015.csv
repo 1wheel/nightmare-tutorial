@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Aug 2015,To: 05 Aug 2015,Afghanistan,FY 2015,7,Moslem,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Afghanistan,FY 2015,7,Moslem Shiite,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Afghanistan,FY 2015,7,Moslem Suni,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Bhutan,FY 2015,48,Buddhist,21,267
+From: 05 Aug 2015,To: 05 Aug 2015,Bhutan,FY 2015,48,Christian,7,267
+From: 05 Aug 2015,To: 05 Aug 2015,Bhutan,FY 2015,48,Hindu,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Bhutan,FY 2015,48,Kirat,9,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burma,FY 2015,66,Buddhist,6,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burma,FY 2015,66,Catholic,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burma,FY 2015,66,Christian,23,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burma,FY 2015,66,Moslem,27,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burundi,FY 2015,28,Catholic,12,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burundi,FY 2015,28,Pentecostalist,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Burundi,FY 2015,28,Seventh Day Adventist,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Dem. Rep. Congo,FY 2015,47,Christian,20,267
+From: 05 Aug 2015,To: 05 Aug 2015,Dem. Rep. Congo,FY 2015,47,Pentecostalist,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Dem. Rep. Congo,FY 2015,47,Protestant,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Dem. Rep. Congo,FY 2015,47,Seventh Day Adventist,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Eritrea,FY 2015,4,Orthodox,4,267
+From: 05 Aug 2015,To: 05 Aug 2015,Iraq,FY 2015,12,Chaldean,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Iraq,FY 2015,12,Christian,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Iraq,FY 2015,12,Moslem Suni,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Pakistan,FY 2015,5,Ahmadiyya,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Russia,FY 2015,15,Baptist,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Russia,FY 2015,15,Pentecostalist,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Somalia,FY 2015,25,Moslem,25,267
+From: 05 Aug 2015,To: 05 Aug 2015,Syria,FY 2015,10,Moslem Suni,10,267
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Aug 2015,To: 05 Aug 2015,Ahmadiyya,FY 2015,5,Pakistan,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Baptist,FY 2015,10,Russia,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Buddhist,FY 2015,27,Bhutan,21,267
+From: 05 Aug 2015,To: 05 Aug 2015,Buddhist,FY 2015,27,Burma,6,267
+From: 05 Aug 2015,To: 05 Aug 2015,Catholic,FY 2015,22,Burma,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Catholic,FY 2015,22,Burundi,12,267
+From: 05 Aug 2015,To: 05 Aug 2015,Chaldean,FY 2015,1,Iraq,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Christian,FY 2015,51,Bhutan,7,267
+From: 05 Aug 2015,To: 05 Aug 2015,Christian,FY 2015,51,Burma,23,267
+From: 05 Aug 2015,To: 05 Aug 2015,Christian,FY 2015,51,Dem. Rep. Congo,20,267
+From: 05 Aug 2015,To: 05 Aug 2015,Christian,FY 2015,51,Iraq,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Hindu,FY 2015,11,Bhutan,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Kirat,FY 2015,9,Bhutan,9,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem,FY 2015,53,Afghanistan,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem,FY 2015,53,Burma,27,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem,FY 2015,53,Somalia,25,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem Shiite,FY 2015,1,Afghanistan,1,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem Suni,FY 2015,25,Afghanistan,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem Suni,FY 2015,25,Iraq,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Moslem Suni,FY 2015,25,Syria,10,267
+From: 05 Aug 2015,To: 05 Aug 2015,Orthodox,FY 2015,4,Eritrea,4,267
+From: 05 Aug 2015,To: 05 Aug 2015,Pentecostalist,FY 2015,15,Burundi,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Pentecostalist,FY 2015,15,Dem. Rep. Congo,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Pentecostalist,FY 2015,15,Russia,5,267
+From: 05 Aug 2015,To: 05 Aug 2015,Protestant,FY 2015,11,Dem. Rep. Congo,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Seventh Day Adventist,FY 2015,22,Burundi,11,267
+From: 05 Aug 2015,To: 05 Aug 2015,Seventh Day Adventist,FY 2015,22,Dem. Rep. Congo,11,267
+

@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jul 2003,To: 11 Jul 2003,Estonia,FY 2003,6,Baptist,1,16
+From: 11 Jul 2003,To: 11 Jul 2003,Estonia,FY 2003,6,Seventh Day Adventist,5,16
+From: 11 Jul 2003,To: 11 Jul 2003,Iran,FY 2003,5,Christian,5,16
+From: 11 Jul 2003,To: 11 Jul 2003,Latvia,FY 2003,1,Unknown,1,16
+From: 11 Jul 2003,To: 11 Jul 2003,Somalia,FY 2003,4,Moslem,4,16
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jul 2003,To: 11 Jul 2003,Baptist,FY 2003,1,Estonia,1,16
+From: 11 Jul 2003,To: 11 Jul 2003,Christian,FY 2003,5,Iran,5,16
+From: 11 Jul 2003,To: 11 Jul 2003,Moslem,FY 2003,4,Somalia,4,16
+From: 11 Jul 2003,To: 11 Jul 2003,Seventh Day Adventist,FY 2003,5,Estonia,5,16
+From: 11 Jul 2003,To: 11 Jul 2003,Unknown,FY 2003,1,Latvia,1,16
+

@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Oct 2009,To: 06 Oct 2009,Afghanistan,FY 2010,14,Moslem Suni,14,340
+From: 06 Oct 2009,To: 06 Oct 2009,Bhutan,FY 2010,137,Buddhist,20,340
+From: 06 Oct 2009,To: 06 Oct 2009,Bhutan,FY 2010,137,Christian,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Bhutan,FY 2010,137,Hindu,106,340
+From: 06 Oct 2009,To: 06 Oct 2009,Bhutan,FY 2010,137,Kirat,6,340
+From: 06 Oct 2009,To: 06 Oct 2009,Burma,FY 2010,64,Animist,15,340
+From: 06 Oct 2009,To: 06 Oct 2009,Burma,FY 2010,64,Buddhist,14,340
+From: 06 Oct 2009,To: 06 Oct 2009,Burma,FY 2010,64,Christian,35,340
+From: 06 Oct 2009,To: 06 Oct 2009,China,FY 2010,6,Moslem Suni,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,China,FY 2010,6,Other Religion,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Cuba,FY 2010,5,No Religion,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Eritrea,FY 2010,10,Catholic,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Eritrea,FY 2010,10,Orthodox,9,340
+From: 06 Oct 2009,To: 06 Oct 2009,Iraq,FY 2010,51,Christian,22,340
+From: 06 Oct 2009,To: 06 Oct 2009,Iraq,FY 2010,51,Moslem Shiite,2,340
+From: 06 Oct 2009,To: 06 Oct 2009,Iraq,FY 2010,51,Moslem Suni,24,340
+From: 06 Oct 2009,To: 06 Oct 2009,Iraq,FY 2010,51,Sabeans-Mandean,3,340
+From: 06 Oct 2009,To: 06 Oct 2009,Kyrgyzstan,FY 2010,3,Moslem Suni,3,340
+From: 06 Oct 2009,To: 06 Oct 2009,Liberia,FY 2010,26,Catholic,7,340
+From: 06 Oct 2009,To: 06 Oct 2009,Liberia,FY 2010,26,Christian,13,340
+From: 06 Oct 2009,To: 06 Oct 2009,Liberia,FY 2010,26,Jehovah Witness,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Liberia,FY 2010,26,Moslem,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Sierra Leone,FY 2010,1,Christian,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Somalia,FY 2010,20,Moslem,20,340
+From: 06 Oct 2009,To: 06 Oct 2009,Sri Lanka (Ceylon),FY 2010,2,Hindu,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Sri Lanka (Ceylon),FY 2010,2,Other Religion,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Sudan,FY 2010,1,Moslem Suni,1,340
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Oct 2009,To: 06 Oct 2009,Animist,FY 2010,15,Burma,15,340
+From: 06 Oct 2009,To: 06 Oct 2009,Buddhist,FY 2010,34,Bhutan,20,340
+From: 06 Oct 2009,To: 06 Oct 2009,Buddhist,FY 2010,34,Burma,14,340
+From: 06 Oct 2009,To: 06 Oct 2009,Catholic,FY 2010,8,Eritrea,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Catholic,FY 2010,8,Liberia,7,340
+From: 06 Oct 2009,To: 06 Oct 2009,Christian,FY 2010,76,Bhutan,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Christian,FY 2010,76,Burma,35,340
+From: 06 Oct 2009,To: 06 Oct 2009,Christian,FY 2010,76,Iraq,22,340
+From: 06 Oct 2009,To: 06 Oct 2009,Christian,FY 2010,76,Liberia,13,340
+From: 06 Oct 2009,To: 06 Oct 2009,Christian,FY 2010,76,Sierra Leone,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Hindu,FY 2010,107,Bhutan,106,340
+From: 06 Oct 2009,To: 06 Oct 2009,Hindu,FY 2010,107,Sri Lanka (Ceylon),1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Jehovah Witness,FY 2010,1,Liberia,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Kirat,FY 2010,6,Bhutan,6,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem,FY 2010,25,Liberia,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem,FY 2010,25,Somalia,20,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem Shiite,FY 2010,2,Iraq,2,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem Suni,FY 2010,47,Afghanistan,14,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem Suni,FY 2010,47,China,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem Suni,FY 2010,47,Iraq,24,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem Suni,FY 2010,47,Kyrgyzstan,3,340
+From: 06 Oct 2009,To: 06 Oct 2009,Moslem Suni,FY 2010,47,Sudan,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,No Religion,FY 2010,5,Cuba,5,340
+From: 06 Oct 2009,To: 06 Oct 2009,Orthodox,FY 2010,9,Eritrea,9,340
+From: 06 Oct 2009,To: 06 Oct 2009,Other Religion,FY 2010,2,China,1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Other Religion,FY 2010,2,Sri Lanka (Ceylon),1,340
+From: 06 Oct 2009,To: 06 Oct 2009,Sabeans-Mandean,FY 2010,3,Iraq,3,340
+

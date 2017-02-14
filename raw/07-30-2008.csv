@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jul 2008,To: 30 Jul 2008,Afghanistan,FY 2008,7,Moslem,7,334
+From: 30 Jul 2008,To: 30 Jul 2008,Bhutan,FY 2008,70,Hindu,66,334
+From: 30 Jul 2008,To: 30 Jul 2008,Bhutan,FY 2008,70,Kirat,4,334
+From: 30 Jul 2008,To: 30 Jul 2008,Burma,FY 2008,84,Buddhist,18,334
+From: 30 Jul 2008,To: 30 Jul 2008,Burma,FY 2008,84,Christian,66,334
+From: 30 Jul 2008,To: 30 Jul 2008,Iran,FY 2008,34,Bahai,4,334
+From: 30 Jul 2008,To: 30 Jul 2008,Iran,FY 2008,34,Christian,30,334
+From: 30 Jul 2008,To: 30 Jul 2008,Iraq,FY 2008,66,Catholic,23,334
+From: 30 Jul 2008,To: 30 Jul 2008,Iraq,FY 2008,66,Christian,19,334
+From: 30 Jul 2008,To: 30 Jul 2008,Iraq,FY 2008,66,Moslem Shiite,2,334
+From: 30 Jul 2008,To: 30 Jul 2008,Iraq,FY 2008,66,Moslem Suni,22,334
+From: 30 Jul 2008,To: 30 Jul 2008,Liberia,FY 2008,38,Christian,38,334
+From: 30 Jul 2008,To: 30 Jul 2008,Vietnam,FY 2008,35,Ancestral Worship,2,334
+From: 30 Jul 2008,To: 30 Jul 2008,Vietnam,FY 2008,35,Buddhist,14,334
+From: 30 Jul 2008,To: 30 Jul 2008,Vietnam,FY 2008,35,Catholic,7,334
+From: 30 Jul 2008,To: 30 Jul 2008,Vietnam,FY 2008,35,Hoa Hao,1,334
+From: 30 Jul 2008,To: 30 Jul 2008,Vietnam,FY 2008,35,No Religion,11,334
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jul 2008,To: 30 Jul 2008,Ancestral Worship,FY 2008,2,Vietnam,2,334
+From: 30 Jul 2008,To: 30 Jul 2008,Bahai,FY 2008,4,Iran,4,334
+From: 30 Jul 2008,To: 30 Jul 2008,Buddhist,FY 2008,32,Burma,18,334
+From: 30 Jul 2008,To: 30 Jul 2008,Buddhist,FY 2008,32,Vietnam,14,334
+From: 30 Jul 2008,To: 30 Jul 2008,Catholic,FY 2008,30,Iraq,23,334
+From: 30 Jul 2008,To: 30 Jul 2008,Catholic,FY 2008,30,Vietnam,7,334
+From: 30 Jul 2008,To: 30 Jul 2008,Christian,FY 2008,153,Burma,66,334
+From: 30 Jul 2008,To: 30 Jul 2008,Christian,FY 2008,153,Iran,30,334
+From: 30 Jul 2008,To: 30 Jul 2008,Christian,FY 2008,153,Iraq,19,334
+From: 30 Jul 2008,To: 30 Jul 2008,Christian,FY 2008,153,Liberia,38,334
+From: 30 Jul 2008,To: 30 Jul 2008,Hindu,FY 2008,66,Bhutan,66,334
+From: 30 Jul 2008,To: 30 Jul 2008,Hoa Hao,FY 2008,1,Vietnam,1,334
+From: 30 Jul 2008,To: 30 Jul 2008,Kirat,FY 2008,4,Bhutan,4,334
+From: 30 Jul 2008,To: 30 Jul 2008,Moslem,FY 2008,7,Afghanistan,7,334
+From: 30 Jul 2008,To: 30 Jul 2008,Moslem Shiite,FY 2008,2,Iraq,2,334
+From: 30 Jul 2008,To: 30 Jul 2008,Moslem Suni,FY 2008,22,Iraq,22,334
+From: 30 Jul 2008,To: 30 Jul 2008,No Religion,FY 2008,11,Vietnam,11,334
+

@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Sep 2004,To: 20 Sep 2004,Afghanistan,FY 2004,4,Moslem,4,358
+From: 20 Sep 2004,To: 20 Sep 2004,Bosnia and Herzegovina,FY 2004,1,Unknown,1,358
+From: 20 Sep 2004,To: 20 Sep 2004,Ethiopia,FY 2004,1,Orthodox,1,358
+From: 20 Sep 2004,To: 20 Sep 2004,Iran,FY 2004,30,Bahai,24,358
+From: 20 Sep 2004,To: 20 Sep 2004,Iran,FY 2004,30,Moslem,3,358
+From: 20 Sep 2004,To: 20 Sep 2004,Iran,FY 2004,30,Pentecostalist,3,358
+From: 20 Sep 2004,To: 20 Sep 2004,Laos,FY 2004,136,Ancestral Worship,136,358
+From: 20 Sep 2004,To: 20 Sep 2004,Liberia,FY 2004,47,Catholic,3,358
+From: 20 Sep 2004,To: 20 Sep 2004,Liberia,FY 2004,47,Christian,34,358
+From: 20 Sep 2004,To: 20 Sep 2004,Liberia,FY 2004,47,Methodist,2,358
+From: 20 Sep 2004,To: 20 Sep 2004,Liberia,FY 2004,47,Moslem,8,358
+From: 20 Sep 2004,To: 20 Sep 2004,Moldova,FY 2004,12,Baptist,12,358
+From: 20 Sep 2004,To: 20 Sep 2004,Sierra Leone,FY 2004,57,Catholic,7,358
+From: 20 Sep 2004,To: 20 Sep 2004,Sierra Leone,FY 2004,57,Christian,28,358
+From: 20 Sep 2004,To: 20 Sep 2004,Sierra Leone,FY 2004,57,Moslem,22,358
+From: 20 Sep 2004,To: 20 Sep 2004,Somalia,FY 2004,70,Moslem,70,358
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Sep 2004,To: 20 Sep 2004,Ancestral Worship,FY 2004,136,Laos,136,358
+From: 20 Sep 2004,To: 20 Sep 2004,Bahai,FY 2004,24,Iran,24,358
+From: 20 Sep 2004,To: 20 Sep 2004,Baptist,FY 2004,12,Moldova,12,358
+From: 20 Sep 2004,To: 20 Sep 2004,Catholic,FY 2004,10,Liberia,3,358
+From: 20 Sep 2004,To: 20 Sep 2004,Catholic,FY 2004,10,Sierra Leone,7,358
+From: 20 Sep 2004,To: 20 Sep 2004,Christian,FY 2004,62,Liberia,34,358
+From: 20 Sep 2004,To: 20 Sep 2004,Christian,FY 2004,62,Sierra Leone,28,358
+From: 20 Sep 2004,To: 20 Sep 2004,Methodist,FY 2004,2,Liberia,2,358
+From: 20 Sep 2004,To: 20 Sep 2004,Moslem,FY 2004,107,Afghanistan,4,358
+From: 20 Sep 2004,To: 20 Sep 2004,Moslem,FY 2004,107,Iran,3,358
+From: 20 Sep 2004,To: 20 Sep 2004,Moslem,FY 2004,107,Liberia,8,358
+From: 20 Sep 2004,To: 20 Sep 2004,Moslem,FY 2004,107,Sierra Leone,22,358
+From: 20 Sep 2004,To: 20 Sep 2004,Moslem,FY 2004,107,Somalia,70,358
+From: 20 Sep 2004,To: 20 Sep 2004,Orthodox,FY 2004,1,Ethiopia,1,358
+From: 20 Sep 2004,To: 20 Sep 2004,Pentecostalist,FY 2004,3,Iran,3,358
+From: 20 Sep 2004,To: 20 Sep 2004,Unknown,FY 2004,1,Bosnia and Herzegovina,1,358
+

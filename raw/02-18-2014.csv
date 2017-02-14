@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Feb 2014,To: 18 Feb 2014,Afghanistan,FY 2014,3,Moslem,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Burma,FY 2014,7,Christian,7,339
+From: 18 Feb 2014,To: 18 Feb 2014,Burundi,FY 2014,6,Protestant,6,339
+From: 18 Feb 2014,To: 18 Feb 2014,Cambodia,FY 2014,4,Buddhist,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Cameroon,FY 2014,1,Christian,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,China,FY 2014,1,Other Religion,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Cuba,FY 2014,19,Catholic,11,339
+From: 18 Feb 2014,To: 18 Feb 2014,Cuba,FY 2014,19,Jehovah Witness,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Cuba,FY 2014,19,No Religion,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Dem. Rep. Congo,FY 2014,8,Christian,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Dem. Rep. Congo,FY 2014,8,Pentecostalist,7,339
+From: 18 Feb 2014,To: 18 Feb 2014,Eritrea,FY 2014,34,Catholic,6,339
+From: 18 Feb 2014,To: 18 Feb 2014,Eritrea,FY 2014,34,Moslem,5,339
+From: 18 Feb 2014,To: 18 Feb 2014,Eritrea,FY 2014,34,Orthodox,13,339
+From: 18 Feb 2014,To: 18 Feb 2014,Eritrea,FY 2014,34,Protestant,10,339
+From: 18 Feb 2014,To: 18 Feb 2014,Ethiopia,FY 2014,8,Moslem,8,339
+From: 18 Feb 2014,To: 18 Feb 2014,Guinea,FY 2014,2,Moslem,2,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iran,FY 2014,25,Bahai,15,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iran,FY 2014,25,Christian,8,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iran,FY 2014,25,Zoroastrian,2,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iraq,FY 2014,170,Catholic,6,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iraq,FY 2014,170,Christian,8,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iraq,FY 2014,170,Moslem Shiite,75,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iraq,FY 2014,170,Moslem Suni,67,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iraq,FY 2014,170,Orthodox,9,339
+From: 18 Feb 2014,To: 18 Feb 2014,Iraq,FY 2014,170,Yazidi,5,339
+From: 18 Feb 2014,To: 18 Feb 2014,Ivory Coast,FY 2014,6,Christian,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Ivory Coast,FY 2014,6,Pentecostalist,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Mauritania,FY 2014,4,Moslem,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Pakistan,FY 2014,1,Ahmadiyya,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Somalia,FY 2014,27,Moslem,27,339
+From: 18 Feb 2014,To: 18 Feb 2014,Sudan,FY 2014,10,Moslem,10,339
+From: 18 Feb 2014,To: 18 Feb 2014,Vietnam,FY 2014,3,Catholic,3,339
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Feb 2014,To: 18 Feb 2014,Ahmadiyya,FY 2014,1,Pakistan,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Bahai,FY 2014,15,Iran,15,339
+From: 18 Feb 2014,To: 18 Feb 2014,Buddhist,FY 2014,4,Cambodia,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Catholic,FY 2014,26,Cuba,11,339
+From: 18 Feb 2014,To: 18 Feb 2014,Catholic,FY 2014,26,Eritrea,6,339
+From: 18 Feb 2014,To: 18 Feb 2014,Catholic,FY 2014,26,Iraq,6,339
+From: 18 Feb 2014,To: 18 Feb 2014,Catholic,FY 2014,26,Vietnam,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Christian,FY 2014,28,Burma,7,339
+From: 18 Feb 2014,To: 18 Feb 2014,Christian,FY 2014,28,Cameroon,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Christian,FY 2014,28,Dem. Rep. Congo,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Christian,FY 2014,28,Iran,8,339
+From: 18 Feb 2014,To: 18 Feb 2014,Christian,FY 2014,28,Iraq,8,339
+From: 18 Feb 2014,To: 18 Feb 2014,Christian,FY 2014,28,Ivory Coast,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Jehovah Witness,FY 2014,4,Cuba,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Afghanistan,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Eritrea,5,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Ethiopia,8,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Guinea,2,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Mauritania,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Somalia,27,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem,FY 2014,59,Sudan,10,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem Shiite,FY 2014,75,Iraq,75,339
+From: 18 Feb 2014,To: 18 Feb 2014,Moslem Suni,FY 2014,67,Iraq,67,339
+From: 18 Feb 2014,To: 18 Feb 2014,No Religion,FY 2014,4,Cuba,4,339
+From: 18 Feb 2014,To: 18 Feb 2014,Orthodox,FY 2014,22,Eritrea,13,339
+From: 18 Feb 2014,To: 18 Feb 2014,Orthodox,FY 2014,22,Iraq,9,339
+From: 18 Feb 2014,To: 18 Feb 2014,Other Religion,FY 2014,1,China,1,339
+From: 18 Feb 2014,To: 18 Feb 2014,Pentecostalist,FY 2014,10,Dem. Rep. Congo,7,339
+From: 18 Feb 2014,To: 18 Feb 2014,Pentecostalist,FY 2014,10,Ivory Coast,3,339
+From: 18 Feb 2014,To: 18 Feb 2014,Protestant,FY 2014,16,Burundi,6,339
+From: 18 Feb 2014,To: 18 Feb 2014,Protestant,FY 2014,16,Eritrea,10,339
+From: 18 Feb 2014,To: 18 Feb 2014,Yazidi,FY 2014,5,Iraq,5,339
+From: 18 Feb 2014,To: 18 Feb 2014,Zoroastrian,FY 2014,2,Iran,2,339
+

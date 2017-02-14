@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Dec 2002,To: 17 Dec 2002,Azerbaijan,FY 2003,12,Jewish,12,124
+From: 17 Dec 2002,To: 17 Dec 2002,Belarus,FY 2003,5,Pentecostalist,5,124
+From: 17 Dec 2002,To: 17 Dec 2002,Ethiopia,FY 2003,5,Christian,2,124
+From: 17 Dec 2002,To: 17 Dec 2002,Ethiopia,FY 2003,5,Moslem,2,124
+From: 17 Dec 2002,To: 17 Dec 2002,Ethiopia,FY 2003,5,Orthodox,1,124
+From: 17 Dec 2002,To: 17 Dec 2002,Nigeria,FY 2003,4,Unknown,4,124
+From: 17 Dec 2002,To: 17 Dec 2002,Russia,FY 2003,18,Baptist,7,124
+From: 17 Dec 2002,To: 17 Dec 2002,Russia,FY 2003,18,Jewish,11,124
+From: 17 Dec 2002,To: 17 Dec 2002,Serbia,FY 2003,2,Orthodox,2,124
+From: 17 Dec 2002,To: 17 Dec 2002,Somalia,FY 2003,8,Moslem,8,124
+From: 17 Dec 2002,To: 17 Dec 2002,Ukraine,FY 2003,35,Baptist,10,124
+From: 17 Dec 2002,To: 17 Dec 2002,Ukraine,FY 2003,35,Pentecostalist,25,124
+From: 17 Dec 2002,To: 17 Dec 2002,Vietnam,FY 2003,35,Buddhist,3,124
+From: 17 Dec 2002,To: 17 Dec 2002,Vietnam,FY 2003,35,Unknown,32,124
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Dec 2002,To: 17 Dec 2002,Baptist,FY 2003,17,Russia,7,124
+From: 17 Dec 2002,To: 17 Dec 2002,Baptist,FY 2003,17,Ukraine,10,124
+From: 17 Dec 2002,To: 17 Dec 2002,Buddhist,FY 2003,3,Vietnam,3,124
+From: 17 Dec 2002,To: 17 Dec 2002,Christian,FY 2003,2,Ethiopia,2,124
+From: 17 Dec 2002,To: 17 Dec 2002,Jewish,FY 2003,23,Azerbaijan,12,124
+From: 17 Dec 2002,To: 17 Dec 2002,Jewish,FY 2003,23,Russia,11,124
+From: 17 Dec 2002,To: 17 Dec 2002,Moslem,FY 2003,10,Ethiopia,2,124
+From: 17 Dec 2002,To: 17 Dec 2002,Moslem,FY 2003,10,Somalia,8,124
+From: 17 Dec 2002,To: 17 Dec 2002,Orthodox,FY 2003,3,Ethiopia,1,124
+From: 17 Dec 2002,To: 17 Dec 2002,Orthodox,FY 2003,3,Serbia,2,124
+From: 17 Dec 2002,To: 17 Dec 2002,Pentecostalist,FY 2003,30,Belarus,5,124
+From: 17 Dec 2002,To: 17 Dec 2002,Pentecostalist,FY 2003,30,Ukraine,25,124
+From: 17 Dec 2002,To: 17 Dec 2002,Unknown,FY 2003,36,Nigeria,4,124
+From: 17 Dec 2002,To: 17 Dec 2002,Unknown,FY 2003,36,Vietnam,32,124
+

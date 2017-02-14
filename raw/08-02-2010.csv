@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Aug 2010,To: 02 Aug 2010,Burma,FY 2010,35,Baptist,6,96
+From: 02 Aug 2010,To: 02 Aug 2010,Burma,FY 2010,35,Catholic,5,96
+From: 02 Aug 2010,To: 02 Aug 2010,Burma,FY 2010,35,Christian,23,96
+From: 02 Aug 2010,To: 02 Aug 2010,Burma,FY 2010,35,Lutheran,1,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iran,FY 2010,5,Bahai,4,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iran,FY 2010,5,Moslem,1,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iraq,FY 2010,56,Catholic,10,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iraq,FY 2010,56,Chaldean,1,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iraq,FY 2010,56,Christian,3,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iraq,FY 2010,56,Moslem Shiite,11,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iraq,FY 2010,56,Moslem Suni,27,96
+From: 02 Aug 2010,To: 02 Aug 2010,Iraq,FY 2010,56,Orthodox,4,96
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Aug 2010,To: 02 Aug 2010,Bahai,FY 2010,4,Iran,4,96
+From: 02 Aug 2010,To: 02 Aug 2010,Baptist,FY 2010,6,Burma,6,96
+From: 02 Aug 2010,To: 02 Aug 2010,Catholic,FY 2010,15,Burma,5,96
+From: 02 Aug 2010,To: 02 Aug 2010,Catholic,FY 2010,15,Iraq,10,96
+From: 02 Aug 2010,To: 02 Aug 2010,Chaldean,FY 2010,1,Iraq,1,96
+From: 02 Aug 2010,To: 02 Aug 2010,Christian,FY 2010,26,Burma,23,96
+From: 02 Aug 2010,To: 02 Aug 2010,Christian,FY 2010,26,Iraq,3,96
+From: 02 Aug 2010,To: 02 Aug 2010,Lutheran,FY 2010,1,Burma,1,96
+From: 02 Aug 2010,To: 02 Aug 2010,Moslem,FY 2010,1,Iran,1,96
+From: 02 Aug 2010,To: 02 Aug 2010,Moslem Shiite,FY 2010,11,Iraq,11,96
+From: 02 Aug 2010,To: 02 Aug 2010,Moslem Suni,FY 2010,27,Iraq,27,96
+From: 02 Aug 2010,To: 02 Aug 2010,Orthodox,FY 2010,4,Iraq,4,96
+

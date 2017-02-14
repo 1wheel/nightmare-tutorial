@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Sep 2014,To: 03 Sep 2014,Afghanistan,FY 2014,13,Moslem Suni,13,558
+From: 03 Sep 2014,To: 03 Sep 2014,Bhutan,FY 2014,108,Buddhist,32,558
+From: 03 Sep 2014,To: 03 Sep 2014,Bhutan,FY 2014,108,Christian,22,558
+From: 03 Sep 2014,To: 03 Sep 2014,Bhutan,FY 2014,108,Hindu,52,558
+From: 03 Sep 2014,To: 03 Sep 2014,Bhutan,FY 2014,108,Kirat,2,558
+From: 03 Sep 2014,To: 03 Sep 2014,Burma,FY 2014,168,Animist,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Burma,FY 2014,168,Baptist,6,558
+From: 03 Sep 2014,To: 03 Sep 2014,Burma,FY 2014,168,Buddhist,33,558
+From: 03 Sep 2014,To: 03 Sep 2014,Burma,FY 2014,168,Catholic,2,558
+From: 03 Sep 2014,To: 03 Sep 2014,Burma,FY 2014,168,Christian,108,558
+From: 03 Sep 2014,To: 03 Sep 2014,Burma,FY 2014,168,Moslem,18,558
+From: 03 Sep 2014,To: 03 Sep 2014,Colombia,FY 2014,5,Catholic,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Colombia,FY 2014,5,Christian,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Dem. Rep. Congo,FY 2014,104,Catholic,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Dem. Rep. Congo,FY 2014,104,Christian,3,558
+From: 03 Sep 2014,To: 03 Sep 2014,Dem. Rep. Congo,FY 2014,104,Moslem,9,558
+From: 03 Sep 2014,To: 03 Sep 2014,Dem. Rep. Congo,FY 2014,104,Pentecostalist,10,558
+From: 03 Sep 2014,To: 03 Sep 2014,Dem. Rep. Congo,FY 2014,104,Protestant,21,558
+From: 03 Sep 2014,To: 03 Sep 2014,Dem. Rep. Congo,FY 2014,104,Seventh Day Adventist,60,558
+From: 03 Sep 2014,To: 03 Sep 2014,Egypt,FY 2014,1,Moslem,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Eritrea,FY 2014,4,Moslem,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Ethiopia,FY 2014,4,Moslem,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Iran,FY 2014,4,Bahai,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Iraq,FY 2014,79,Moslem,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Iraq,FY 2014,79,Moslem Shiite,52,558
+From: 03 Sep 2014,To: 03 Sep 2014,Iraq,FY 2014,79,Moslem Suni,23,558
+From: 03 Sep 2014,To: 03 Sep 2014,Nepal,FY 2014,2,Buddhist,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Nepal,FY 2014,2,Hindu,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Pakistan,FY 2014,8,Ahmadiyya,7,558
+From: 03 Sep 2014,To: 03 Sep 2014,Pakistan,FY 2014,8,Moslem,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Rwanda,FY 2014,4,Christian,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Somalia,FY 2014,39,Moslem,38,558
+From: 03 Sep 2014,To: 03 Sep 2014,Somalia,FY 2014,39,Moslem Suni,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Sudan,FY 2014,15,Christian,6,558
+From: 03 Sep 2014,To: 03 Sep 2014,Sudan,FY 2014,15,Moslem,9,558
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Sep 2014,To: 03 Sep 2014,Ahmadiyya,FY 2014,7,Pakistan,7,558
+From: 03 Sep 2014,To: 03 Sep 2014,Animist,FY 2014,1,Burma,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Bahai,FY 2014,4,Iran,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Baptist,FY 2014,6,Burma,6,558
+From: 03 Sep 2014,To: 03 Sep 2014,Buddhist,FY 2014,66,Bhutan,32,558
+From: 03 Sep 2014,To: 03 Sep 2014,Buddhist,FY 2014,66,Burma,33,558
+From: 03 Sep 2014,To: 03 Sep 2014,Buddhist,FY 2014,66,Nepal,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Catholic,FY 2014,4,Burma,2,558
+From: 03 Sep 2014,To: 03 Sep 2014,Catholic,FY 2014,4,Colombia,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Catholic,FY 2014,4,Dem. Rep. Congo,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Christian,FY 2014,147,Bhutan,22,558
+From: 03 Sep 2014,To: 03 Sep 2014,Christian,FY 2014,147,Burma,108,558
+From: 03 Sep 2014,To: 03 Sep 2014,Christian,FY 2014,147,Colombia,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Christian,FY 2014,147,Dem. Rep. Congo,3,558
+From: 03 Sep 2014,To: 03 Sep 2014,Christian,FY 2014,147,Rwanda,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Christian,FY 2014,147,Sudan,6,558
+From: 03 Sep 2014,To: 03 Sep 2014,Hindu,FY 2014,53,Bhutan,52,558
+From: 03 Sep 2014,To: 03 Sep 2014,Hindu,FY 2014,53,Nepal,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Kirat,FY 2014,2,Bhutan,2,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Burma,18,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Dem. Rep. Congo,9,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Egypt,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Eritrea,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Ethiopia,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Iraq,4,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Pakistan,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Somalia,38,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem,FY 2014,88,Sudan,9,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem Shiite,FY 2014,52,Iraq,52,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem Suni,FY 2014,37,Afghanistan,13,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem Suni,FY 2014,37,Iraq,23,558
+From: 03 Sep 2014,To: 03 Sep 2014,Moslem Suni,FY 2014,37,Somalia,1,558
+From: 03 Sep 2014,To: 03 Sep 2014,Pentecostalist,FY 2014,10,Dem. Rep. Congo,10,558
+From: 03 Sep 2014,To: 03 Sep 2014,Protestant,FY 2014,21,Dem. Rep. Congo,21,558
+From: 03 Sep 2014,To: 03 Sep 2014,Seventh Day Adventist,FY 2014,60,Dem. Rep. Congo,60,558
+

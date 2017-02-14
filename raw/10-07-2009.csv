@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Oct 2009,To: 07 Oct 2009,Bhutan,FY 2010,35,Hindu,35,175
+From: 07 Oct 2009,To: 07 Oct 2009,Burma,FY 2010,93,Animist,19,175
+From: 07 Oct 2009,To: 07 Oct 2009,Burma,FY 2010,93,Buddhist,15,175
+From: 07 Oct 2009,To: 07 Oct 2009,Burma,FY 2010,93,Catholic,21,175
+From: 07 Oct 2009,To: 07 Oct 2009,Burma,FY 2010,93,Christian,38,175
+From: 07 Oct 2009,To: 07 Oct 2009,Congo,FY 2010,8,Protestant,8,175
+From: 07 Oct 2009,To: 07 Oct 2009,Eritrea,FY 2010,24,Moslem,3,175
+From: 07 Oct 2009,To: 07 Oct 2009,Eritrea,FY 2010,24,Orthodox,20,175
+From: 07 Oct 2009,To: 07 Oct 2009,Eritrea,FY 2010,24,Seventh Day Adventist,1,175
+From: 07 Oct 2009,To: 07 Oct 2009,Iraq,FY 2010,4,Moslem Suni,4,175
+From: 07 Oct 2009,To: 07 Oct 2009,Somalia,FY 2010,11,Moslem,11,175
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Oct 2009,To: 07 Oct 2009,Animist,FY 2010,19,Burma,19,175
+From: 07 Oct 2009,To: 07 Oct 2009,Buddhist,FY 2010,15,Burma,15,175
+From: 07 Oct 2009,To: 07 Oct 2009,Catholic,FY 2010,21,Burma,21,175
+From: 07 Oct 2009,To: 07 Oct 2009,Christian,FY 2010,38,Burma,38,175
+From: 07 Oct 2009,To: 07 Oct 2009,Hindu,FY 2010,35,Bhutan,35,175
+From: 07 Oct 2009,To: 07 Oct 2009,Moslem,FY 2010,14,Eritrea,3,175
+From: 07 Oct 2009,To: 07 Oct 2009,Moslem,FY 2010,14,Somalia,11,175
+From: 07 Oct 2009,To: 07 Oct 2009,Moslem Suni,FY 2010,4,Iraq,4,175
+From: 07 Oct 2009,To: 07 Oct 2009,Orthodox,FY 2010,20,Eritrea,20,175
+From: 07 Oct 2009,To: 07 Oct 2009,Protestant,FY 2010,8,Congo,8,175
+From: 07 Oct 2009,To: 07 Oct 2009,Seventh Day Adventist,FY 2010,1,Eritrea,1,175
+

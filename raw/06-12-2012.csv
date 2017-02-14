@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jun 2012,To: 12 Jun 2012,Afghanistan,FY 2012,10,Moslem Shiite,9,405
+From: 12 Jun 2012,To: 12 Jun 2012,Afghanistan,FY 2012,10,Moslem Suni,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Bhutan,FY 2012,101,Buddhist,39,405
+From: 12 Jun 2012,To: 12 Jun 2012,Bhutan,FY 2012,101,Christian,4,405
+From: 12 Jun 2012,To: 12 Jun 2012,Bhutan,FY 2012,101,Hindu,47,405
+From: 12 Jun 2012,To: 12 Jun 2012,Bhutan,FY 2012,101,Kirat,11,405
+From: 12 Jun 2012,To: 12 Jun 2012,Burma,FY 2012,34,Animist,10,405
+From: 12 Jun 2012,To: 12 Jun 2012,Burma,FY 2012,34,Catholic,15,405
+From: 12 Jun 2012,To: 12 Jun 2012,Burma,FY 2012,34,Christian,9,405
+From: 12 Jun 2012,To: 12 Jun 2012,Eritrea,FY 2012,16,Catholic,2,405
+From: 12 Jun 2012,To: 12 Jun 2012,Eritrea,FY 2012,16,Moslem,4,405
+From: 12 Jun 2012,To: 12 Jun 2012,Eritrea,FY 2012,16,Orthodox,7,405
+From: 12 Jun 2012,To: 12 Jun 2012,Eritrea,FY 2012,16,Pentecostalist,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Eritrea,FY 2012,16,Protestant,2,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iran,FY 2012,1,Bahai,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Catholic,18,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Christian,37,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Moslem,5,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Moslem Shiite,63,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Moslem Suni,61,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Orthodox,6,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Sabeans-Mandean,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Iraq,FY 2012,192,Yazidi,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Kyrgyzstan,FY 2012,4,Pentecostalist,4,405
+From: 12 Jun 2012,To: 12 Jun 2012,Somalia,FY 2012,40,Moslem,14,405
+From: 12 Jun 2012,To: 12 Jun 2012,Somalia,FY 2012,40,Moslem Suni,26,405
+From: 12 Jun 2012,To: 12 Jun 2012,Sudan,FY 2012,7,Moslem,7,405
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jun 2012,To: 12 Jun 2012,Animist,FY 2012,10,Burma,10,405
+From: 12 Jun 2012,To: 12 Jun 2012,Bahai,FY 2012,1,Iran,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Buddhist,FY 2012,39,Bhutan,39,405
+From: 12 Jun 2012,To: 12 Jun 2012,Catholic,FY 2012,35,Burma,15,405
+From: 12 Jun 2012,To: 12 Jun 2012,Catholic,FY 2012,35,Eritrea,2,405
+From: 12 Jun 2012,To: 12 Jun 2012,Catholic,FY 2012,35,Iraq,18,405
+From: 12 Jun 2012,To: 12 Jun 2012,Christian,FY 2012,50,Bhutan,4,405
+From: 12 Jun 2012,To: 12 Jun 2012,Christian,FY 2012,50,Burma,9,405
+From: 12 Jun 2012,To: 12 Jun 2012,Christian,FY 2012,50,Iraq,37,405
+From: 12 Jun 2012,To: 12 Jun 2012,Hindu,FY 2012,47,Bhutan,47,405
+From: 12 Jun 2012,To: 12 Jun 2012,Kirat,FY 2012,11,Bhutan,11,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem,FY 2012,30,Eritrea,4,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem,FY 2012,30,Iraq,5,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem,FY 2012,30,Somalia,14,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem,FY 2012,30,Sudan,7,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem Shiite,FY 2012,72,Afghanistan,9,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem Shiite,FY 2012,72,Iraq,63,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem Suni,FY 2012,88,Afghanistan,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem Suni,FY 2012,88,Iraq,61,405
+From: 12 Jun 2012,To: 12 Jun 2012,Moslem Suni,FY 2012,88,Somalia,26,405
+From: 12 Jun 2012,To: 12 Jun 2012,Orthodox,FY 2012,13,Eritrea,7,405
+From: 12 Jun 2012,To: 12 Jun 2012,Orthodox,FY 2012,13,Iraq,6,405
+From: 12 Jun 2012,To: 12 Jun 2012,Pentecostalist,FY 2012,5,Eritrea,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Pentecostalist,FY 2012,5,Kyrgyzstan,4,405
+From: 12 Jun 2012,To: 12 Jun 2012,Protestant,FY 2012,2,Eritrea,2,405
+From: 12 Jun 2012,To: 12 Jun 2012,Sabeans-Mandean,FY 2012,1,Iraq,1,405
+From: 12 Jun 2012,To: 12 Jun 2012,Yazidi,FY 2012,1,Iraq,1,405
+

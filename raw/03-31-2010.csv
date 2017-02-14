@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Mar 2010,To: 31 Mar 2010,Bhutan,FY 2010,35,Buddhist,8,272
+From: 31 Mar 2010,To: 31 Mar 2010,Bhutan,FY 2010,35,Christian,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Bhutan,FY 2010,35,Hindu,18,272
+From: 31 Mar 2010,To: 31 Mar 2010,Bhutan,FY 2010,35,Kirat,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Burma,FY 2010,84,Animist,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Burma,FY 2010,84,Baptist,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Burma,FY 2010,84,Buddhist,10,272
+From: 31 Mar 2010,To: 31 Mar 2010,Burma,FY 2010,84,Catholic,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Burma,FY 2010,84,Christian,54,272
+From: 31 Mar 2010,To: 31 Mar 2010,Burma,FY 2010,84,Moslem,5,272
+From: 31 Mar 2010,To: 31 Mar 2010,China,FY 2010,4,Buddhist,1,272
+From: 31 Mar 2010,To: 31 Mar 2010,China,FY 2010,4,Other Religion,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Cuba,FY 2010,41,Baptist,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Cuba,FY 2010,41,Catholic,14,272
+From: 31 Mar 2010,To: 31 Mar 2010,Cuba,FY 2010,41,Jehovah Witness,11,272
+From: 31 Mar 2010,To: 31 Mar 2010,Cuba,FY 2010,41,No Religion,13,272
+From: 31 Mar 2010,To: 31 Mar 2010,Dem. Rep. Congo,FY 2010,20,Christian,16,272
+From: 31 Mar 2010,To: 31 Mar 2010,Dem. Rep. Congo,FY 2010,20,Pentecostalist,4,272
+From: 31 Mar 2010,To: 31 Mar 2010,Iran,FY 2010,5,Christian,5,272
+From: 31 Mar 2010,To: 31 Mar 2010,Iraq,FY 2010,80,Catholic,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Iraq,FY 2010,80,Christian,13,272
+From: 31 Mar 2010,To: 31 Mar 2010,Iraq,FY 2010,80,Moslem,2,272
+From: 31 Mar 2010,To: 31 Mar 2010,Iraq,FY 2010,80,Moslem Shiite,37,272
+From: 31 Mar 2010,To: 31 Mar 2010,Iraq,FY 2010,80,Moslem Suni,22,272
+From: 31 Mar 2010,To: 31 Mar 2010,Somalia,FY 2010,1,Moslem Suni,1,272
+From: 31 Mar 2010,To: 31 Mar 2010,Vietnam,FY 2010,2,Protestant,2,272
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Mar 2010,To: 31 Mar 2010,Animist,FY 2010,3,Burma,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Baptist,FY 2010,9,Burma,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Baptist,FY 2010,9,Cuba,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Buddhist,FY 2010,19,Bhutan,8,272
+From: 31 Mar 2010,To: 31 Mar 2010,Buddhist,FY 2010,19,Burma,10,272
+From: 31 Mar 2010,To: 31 Mar 2010,Buddhist,FY 2010,19,China,1,272
+From: 31 Mar 2010,To: 31 Mar 2010,Catholic,FY 2010,26,Burma,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Catholic,FY 2010,26,Cuba,14,272
+From: 31 Mar 2010,To: 31 Mar 2010,Catholic,FY 2010,26,Iraq,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Christian,FY 2010,91,Bhutan,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Christian,FY 2010,91,Burma,54,272
+From: 31 Mar 2010,To: 31 Mar 2010,Christian,FY 2010,91,Dem. Rep. Congo,16,272
+From: 31 Mar 2010,To: 31 Mar 2010,Christian,FY 2010,91,Iran,5,272
+From: 31 Mar 2010,To: 31 Mar 2010,Christian,FY 2010,91,Iraq,13,272
+From: 31 Mar 2010,To: 31 Mar 2010,Hindu,FY 2010,18,Bhutan,18,272
+From: 31 Mar 2010,To: 31 Mar 2010,Jehovah Witness,FY 2010,11,Cuba,11,272
+From: 31 Mar 2010,To: 31 Mar 2010,Kirat,FY 2010,6,Bhutan,6,272
+From: 31 Mar 2010,To: 31 Mar 2010,Moslem,FY 2010,7,Burma,5,272
+From: 31 Mar 2010,To: 31 Mar 2010,Moslem,FY 2010,7,Iraq,2,272
+From: 31 Mar 2010,To: 31 Mar 2010,Moslem Shiite,FY 2010,37,Iraq,37,272
+From: 31 Mar 2010,To: 31 Mar 2010,Moslem Suni,FY 2010,23,Iraq,22,272
+From: 31 Mar 2010,To: 31 Mar 2010,Moslem Suni,FY 2010,23,Somalia,1,272
+From: 31 Mar 2010,To: 31 Mar 2010,No Religion,FY 2010,13,Cuba,13,272
+From: 31 Mar 2010,To: 31 Mar 2010,Other Religion,FY 2010,3,China,3,272
+From: 31 Mar 2010,To: 31 Mar 2010,Pentecostalist,FY 2010,4,Dem. Rep. Congo,4,272
+From: 31 Mar 2010,To: 31 Mar 2010,Protestant,FY 2010,2,Vietnam,2,272
+

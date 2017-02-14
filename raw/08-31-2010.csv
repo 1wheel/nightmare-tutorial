@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Aug 2010,To: 31 Aug 2010,Bhutan,FY 2010,7,Buddhist,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burma,FY 2010,63,Animist,6,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burma,FY 2010,63,Baptist,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burma,FY 2010,63,Buddhist,17,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burma,FY 2010,63,Catholic,16,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burma,FY 2010,63,Christian,19,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burma,FY 2010,63,Moslem,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burundi,FY 2010,15,Pentecostalist,5,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burundi,FY 2010,15,Protestant,3,328
+From: 31 Aug 2010,To: 31 Aug 2010,Burundi,FY 2010,15,Seventh Day Adventist,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Colombia,FY 2010,2,Catholic,2,328
+From: 31 Aug 2010,To: 31 Aug 2010,Cuba,FY 2010,66,Catholic,14,328
+From: 31 Aug 2010,To: 31 Aug 2010,Cuba,FY 2010,66,Jehovah Witness,33,328
+From: 31 Aug 2010,To: 31 Aug 2010,Cuba,FY 2010,66,No Religion,17,328
+From: 31 Aug 2010,To: 31 Aug 2010,Cuba,FY 2010,66,Pentecostalist,2,328
+From: 31 Aug 2010,To: 31 Aug 2010,Dem. Rep. Congo,FY 2010,45,Catholic,15,328
+From: 31 Aug 2010,To: 31 Aug 2010,Dem. Rep. Congo,FY 2010,45,Jehovah Witness,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Dem. Rep. Congo,FY 2010,45,Moslem,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Dem. Rep. Congo,FY 2010,45,Pentecostalist,5,328
+From: 31 Aug 2010,To: 31 Aug 2010,Dem. Rep. Congo,FY 2010,45,Protestant,11,328
+From: 31 Aug 2010,To: 31 Aug 2010,Eritrea,FY 2010,12,Orthodox,8,328
+From: 31 Aug 2010,To: 31 Aug 2010,Eritrea,FY 2010,12,Pentecostalist,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Ethiopia,FY 2010,35,Baptist,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Ethiopia,FY 2010,35,Christian,2,328
+From: 31 Aug 2010,To: 31 Aug 2010,Ethiopia,FY 2010,35,Moslem,24,328
+From: 31 Aug 2010,To: 31 Aug 2010,Ethiopia,FY 2010,35,Orthodox,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Ethiopia,FY 2010,35,Seventh Day Adventist,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Iraq,FY 2010,48,Christian,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Iraq,FY 2010,48,Moslem,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Iraq,FY 2010,48,Moslem Shiite,9,328
+From: 31 Aug 2010,To: 31 Aug 2010,Iraq,FY 2010,48,Moslem Suni,30,328
+From: 31 Aug 2010,To: 31 Aug 2010,Iraq,FY 2010,48,Orthodox,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Rwanda,FY 2010,3,Catholic,3,328
+From: 31 Aug 2010,To: 31 Aug 2010,Somalia,FY 2010,26,Moslem,22,328
+From: 31 Aug 2010,To: 31 Aug 2010,Somalia,FY 2010,26,Moslem Suni,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Somalia,FY 2010,26,Pentecostalist,3,328
+From: 31 Aug 2010,To: 31 Aug 2010,Sudan,FY 2010,6,Catholic,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Sudan,FY 2010,6,Christian,5,328
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Aug 2010,To: 31 Aug 2010,Animist,FY 2010,6,Burma,6,328
+From: 31 Aug 2010,To: 31 Aug 2010,Baptist,FY 2010,5,Burma,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Baptist,FY 2010,5,Ethiopia,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Buddhist,FY 2010,24,Bhutan,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Buddhist,FY 2010,24,Burma,17,328
+From: 31 Aug 2010,To: 31 Aug 2010,Catholic,FY 2010,51,Burma,16,328
+From: 31 Aug 2010,To: 31 Aug 2010,Catholic,FY 2010,51,Colombia,2,328
+From: 31 Aug 2010,To: 31 Aug 2010,Catholic,FY 2010,51,Cuba,14,328
+From: 31 Aug 2010,To: 31 Aug 2010,Catholic,FY 2010,51,Dem. Rep. Congo,15,328
+From: 31 Aug 2010,To: 31 Aug 2010,Catholic,FY 2010,51,Rwanda,3,328
+From: 31 Aug 2010,To: 31 Aug 2010,Catholic,FY 2010,51,Sudan,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Christian,FY 2010,27,Burma,19,328
+From: 31 Aug 2010,To: 31 Aug 2010,Christian,FY 2010,27,Ethiopia,2,328
+From: 31 Aug 2010,To: 31 Aug 2010,Christian,FY 2010,27,Iraq,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Christian,FY 2010,27,Sudan,5,328
+From: 31 Aug 2010,To: 31 Aug 2010,Jehovah Witness,FY 2010,40,Cuba,33,328
+From: 31 Aug 2010,To: 31 Aug 2010,Jehovah Witness,FY 2010,40,Dem. Rep. Congo,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem,FY 2010,58,Burma,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem,FY 2010,58,Dem. Rep. Congo,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem,FY 2010,58,Ethiopia,24,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem,FY 2010,58,Iraq,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem,FY 2010,58,Somalia,22,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem Shiite,FY 2010,9,Iraq,9,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem Suni,FY 2010,31,Iraq,30,328
+From: 31 Aug 2010,To: 31 Aug 2010,Moslem Suni,FY 2010,31,Somalia,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,No Religion,FY 2010,17,Cuba,17,328
+From: 31 Aug 2010,To: 31 Aug 2010,Orthodox,FY 2010,13,Eritrea,8,328
+From: 31 Aug 2010,To: 31 Aug 2010,Orthodox,FY 2010,13,Ethiopia,1,328
+From: 31 Aug 2010,To: 31 Aug 2010,Orthodox,FY 2010,13,Iraq,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Pentecostalist,FY 2010,19,Burundi,5,328
+From: 31 Aug 2010,To: 31 Aug 2010,Pentecostalist,FY 2010,19,Cuba,2,328
+From: 31 Aug 2010,To: 31 Aug 2010,Pentecostalist,FY 2010,19,Dem. Rep. Congo,5,328
+From: 31 Aug 2010,To: 31 Aug 2010,Pentecostalist,FY 2010,19,Eritrea,4,328
+From: 31 Aug 2010,To: 31 Aug 2010,Pentecostalist,FY 2010,19,Somalia,3,328
+From: 31 Aug 2010,To: 31 Aug 2010,Protestant,FY 2010,14,Burundi,3,328
+From: 31 Aug 2010,To: 31 Aug 2010,Protestant,FY 2010,14,Dem. Rep. Congo,11,328
+From: 31 Aug 2010,To: 31 Aug 2010,Seventh Day Adventist,FY 2010,14,Burundi,7,328
+From: 31 Aug 2010,To: 31 Aug 2010,Seventh Day Adventist,FY 2010,14,Ethiopia,7,328
+

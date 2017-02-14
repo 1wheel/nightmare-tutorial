@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Feb 2005,To: 02 Feb 2005,Colombia,FY 2005,14,Catholic,14,111
+From: 02 Feb 2005,To: 02 Feb 2005,Iran,FY 2005,20,Christian,12,111
+From: 02 Feb 2005,To: 02 Feb 2005,Iran,FY 2005,20,Jewish,8,111
+From: 02 Feb 2005,To: 02 Feb 2005,Liberia,FY 2005,31,Christian,7,111
+From: 02 Feb 2005,To: 02 Feb 2005,Liberia,FY 2005,31,Moslem,14,111
+From: 02 Feb 2005,To: 02 Feb 2005,Liberia,FY 2005,31,Pentecostalist,10,111
+From: 02 Feb 2005,To: 02 Feb 2005,Sierra Leone,FY 2005,3,Christian,3,111
+From: 02 Feb 2005,To: 02 Feb 2005,Somalia,FY 2005,43,Moslem,43,111
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Feb 2005,To: 02 Feb 2005,Catholic,FY 2005,14,Colombia,14,111
+From: 02 Feb 2005,To: 02 Feb 2005,Christian,FY 2005,22,Iran,12,111
+From: 02 Feb 2005,To: 02 Feb 2005,Christian,FY 2005,22,Liberia,7,111
+From: 02 Feb 2005,To: 02 Feb 2005,Christian,FY 2005,22,Sierra Leone,3,111
+From: 02 Feb 2005,To: 02 Feb 2005,Jewish,FY 2005,8,Iran,8,111
+From: 02 Feb 2005,To: 02 Feb 2005,Moslem,FY 2005,57,Liberia,14,111
+From: 02 Feb 2005,To: 02 Feb 2005,Moslem,FY 2005,57,Somalia,43,111
+From: 02 Feb 2005,To: 02 Feb 2005,Pentecostalist,FY 2005,10,Liberia,10,111
+

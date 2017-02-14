@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Apr 2006,To: 18 Apr 2006,Cameroon,FY 2006,1,Catholic,1,137
+From: 18 Apr 2006,To: 18 Apr 2006,Cuba,FY 2006,66,Catholic,18,137
+From: 18 Apr 2006,To: 18 Apr 2006,Cuba,FY 2006,66,Jehovah Witness,23,137
+From: 18 Apr 2006,To: 18 Apr 2006,Cuba,FY 2006,66,Methodist,2,137
+From: 18 Apr 2006,To: 18 Apr 2006,Cuba,FY 2006,66,No Religion,23,137
+From: 18 Apr 2006,To: 18 Apr 2006,Dem. Rep. Congo,FY 2006,1,Protestant,1,137
+From: 18 Apr 2006,To: 18 Apr 2006,Eritrea,FY 2006,4,Moslem,4,137
+From: 18 Apr 2006,To: 18 Apr 2006,Ethiopia,FY 2006,9,Moslem,9,137
+From: 18 Apr 2006,To: 18 Apr 2006,Iraq,FY 2006,4,Moslem,4,137
+From: 18 Apr 2006,To: 18 Apr 2006,Rwanda,FY 2006,1,Catholic,1,137
+From: 18 Apr 2006,To: 18 Apr 2006,Somalia,FY 2006,34,Moslem,34,137
+From: 18 Apr 2006,To: 18 Apr 2006,Uzbekistan,FY 2006,15,Moslem,15,137
+From: 18 Apr 2006,To: 18 Apr 2006,Vietnam,FY 2006,2,Buddhist,2,137
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Apr 2006,To: 18 Apr 2006,Buddhist,FY 2006,2,Vietnam,2,137
+From: 18 Apr 2006,To: 18 Apr 2006,Catholic,FY 2006,20,Cameroon,1,137
+From: 18 Apr 2006,To: 18 Apr 2006,Catholic,FY 2006,20,Cuba,18,137
+From: 18 Apr 2006,To: 18 Apr 2006,Catholic,FY 2006,20,Rwanda,1,137
+From: 18 Apr 2006,To: 18 Apr 2006,Jehovah Witness,FY 2006,23,Cuba,23,137
+From: 18 Apr 2006,To: 18 Apr 2006,Methodist,FY 2006,2,Cuba,2,137
+From: 18 Apr 2006,To: 18 Apr 2006,Moslem,FY 2006,66,Eritrea,4,137
+From: 18 Apr 2006,To: 18 Apr 2006,Moslem,FY 2006,66,Ethiopia,9,137
+From: 18 Apr 2006,To: 18 Apr 2006,Moslem,FY 2006,66,Iraq,4,137
+From: 18 Apr 2006,To: 18 Apr 2006,Moslem,FY 2006,66,Somalia,34,137
+From: 18 Apr 2006,To: 18 Apr 2006,Moslem,FY 2006,66,Uzbekistan,15,137
+From: 18 Apr 2006,To: 18 Apr 2006,No Religion,FY 2006,23,Cuba,23,137
+From: 18 Apr 2006,To: 18 Apr 2006,Protestant,FY 2006,1,Dem. Rep. Congo,1,137
+

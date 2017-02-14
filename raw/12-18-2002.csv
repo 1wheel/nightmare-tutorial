@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Dec 2002,To: 18 Dec 2002,Iraq,FY 2003,14,Christian,6,105
+From: 18 Dec 2002,To: 18 Dec 2002,Iraq,FY 2003,14,Moslem,8,105
+From: 18 Dec 2002,To: 18 Dec 2002,Latvia,FY 2003,4,Pentecostalist,4,105
+From: 18 Dec 2002,To: 18 Dec 2002,Lithuania,FY 2003,3,Jewish,3,105
+From: 18 Dec 2002,To: 18 Dec 2002,Somalia,FY 2003,15,Moslem,15,105
+From: 18 Dec 2002,To: 18 Dec 2002,Sudan,FY 2003,1,Protestant,1,105
+From: 18 Dec 2002,To: 18 Dec 2002,Ukraine,FY 2003,33,Baptist,14,105
+From: 18 Dec 2002,To: 18 Dec 2002,Ukraine,FY 2003,33,Jewish,3,105
+From: 18 Dec 2002,To: 18 Dec 2002,Ukraine,FY 2003,33,Pentecostalist,15,105
+From: 18 Dec 2002,To: 18 Dec 2002,Ukraine,FY 2003,33,Unknown,1,105
+From: 18 Dec 2002,To: 18 Dec 2002,Vietnam,FY 2003,35,Unknown,35,105
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Dec 2002,To: 18 Dec 2002,Baptist,FY 2003,14,Ukraine,14,105
+From: 18 Dec 2002,To: 18 Dec 2002,Christian,FY 2003,6,Iraq,6,105
+From: 18 Dec 2002,To: 18 Dec 2002,Jewish,FY 2003,6,Lithuania,3,105
+From: 18 Dec 2002,To: 18 Dec 2002,Jewish,FY 2003,6,Ukraine,3,105
+From: 18 Dec 2002,To: 18 Dec 2002,Moslem,FY 2003,23,Iraq,8,105
+From: 18 Dec 2002,To: 18 Dec 2002,Moslem,FY 2003,23,Somalia,15,105
+From: 18 Dec 2002,To: 18 Dec 2002,Pentecostalist,FY 2003,19,Latvia,4,105
+From: 18 Dec 2002,To: 18 Dec 2002,Pentecostalist,FY 2003,19,Ukraine,15,105
+From: 18 Dec 2002,To: 18 Dec 2002,Protestant,FY 2003,1,Sudan,1,105
+From: 18 Dec 2002,To: 18 Dec 2002,Unknown,FY 2003,36,Ukraine,1,105
+From: 18 Dec 2002,To: 18 Dec 2002,Unknown,FY 2003,36,Vietnam,35,105
+

@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Aug 2004,To: 05 Aug 2004,Afghanistan,FY 2004,3,Bahai,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Afghanistan,FY 2004,3,Moslem,2,198
+From: 05 Aug 2004,To: 05 Aug 2004,Cambodia,FY 2004,3,Buddhist,3,198
+From: 05 Aug 2004,To: 05 Aug 2004,Ethiopia,FY 2004,26,Christian,9,198
+From: 05 Aug 2004,To: 05 Aug 2004,Ethiopia,FY 2004,26,Moslem,13,198
+From: 05 Aug 2004,To: 05 Aug 2004,Ethiopia,FY 2004,26,Orthodox,4,198
+From: 05 Aug 2004,To: 05 Aug 2004,Iran,FY 2004,21,Bahai,20,198
+From: 05 Aug 2004,To: 05 Aug 2004,Iran,FY 2004,21,Moslem,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Iraq,FY 2004,7,Catholic,5,198
+From: 05 Aug 2004,To: 05 Aug 2004,Iraq,FY 2004,7,Evangelical Christian,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Iraq,FY 2004,7,Moslem,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Laos,FY 2004,35,Ancestral Worship,29,198
+From: 05 Aug 2004,To: 05 Aug 2004,Laos,FY 2004,35,Christian,6,198
+From: 05 Aug 2004,To: 05 Aug 2004,Somalia,FY 2004,64,Moslem,64,198
+From: 05 Aug 2004,To: 05 Aug 2004,Sudan,FY 2004,37,Catholic,23,198
+From: 05 Aug 2004,To: 05 Aug 2004,Sudan,FY 2004,37,Christian,2,198
+From: 05 Aug 2004,To: 05 Aug 2004,Sudan,FY 2004,37,Lutheran,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Sudan,FY 2004,37,Moslem,10,198
+From: 05 Aug 2004,To: 05 Aug 2004,Sudan,FY 2004,37,Protestant,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Uzbekistan,FY 2004,2,Moslem,2,198
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Aug 2004,To: 05 Aug 2004,Ancestral Worship,FY 2004,29,Laos,29,198
+From: 05 Aug 2004,To: 05 Aug 2004,Bahai,FY 2004,21,Afghanistan,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Bahai,FY 2004,21,Iran,20,198
+From: 05 Aug 2004,To: 05 Aug 2004,Buddhist,FY 2004,3,Cambodia,3,198
+From: 05 Aug 2004,To: 05 Aug 2004,Catholic,FY 2004,28,Iraq,5,198
+From: 05 Aug 2004,To: 05 Aug 2004,Catholic,FY 2004,28,Sudan,23,198
+From: 05 Aug 2004,To: 05 Aug 2004,Christian,FY 2004,17,Ethiopia,9,198
+From: 05 Aug 2004,To: 05 Aug 2004,Christian,FY 2004,17,Laos,6,198
+From: 05 Aug 2004,To: 05 Aug 2004,Christian,FY 2004,17,Sudan,2,198
+From: 05 Aug 2004,To: 05 Aug 2004,Evangelical Christian,FY 2004,1,Iraq,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Lutheran,FY 2004,1,Sudan,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Afghanistan,2,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Ethiopia,13,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Iran,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Iraq,1,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Somalia,64,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Sudan,10,198
+From: 05 Aug 2004,To: 05 Aug 2004,Moslem,FY 2004,93,Uzbekistan,2,198
+From: 05 Aug 2004,To: 05 Aug 2004,Orthodox,FY 2004,4,Ethiopia,4,198
+From: 05 Aug 2004,To: 05 Aug 2004,Protestant,FY 2004,1,Sudan,1,198
+

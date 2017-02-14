@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Apr 2011,To: 26 Apr 2011,Bhutan,FY 2011,35,Buddhist,4,220
+From: 26 Apr 2011,To: 26 Apr 2011,Bhutan,FY 2011,35,Christian,6,220
+From: 26 Apr 2011,To: 26 Apr 2011,Bhutan,FY 2011,35,Hindu,23,220
+From: 26 Apr 2011,To: 26 Apr 2011,Bhutan,FY 2011,35,Kirat,2,220
+From: 26 Apr 2011,To: 26 Apr 2011,Burma,FY 2011,146,Animist,1,220
+From: 26 Apr 2011,To: 26 Apr 2011,Burma,FY 2011,146,Baptist,5,220
+From: 26 Apr 2011,To: 26 Apr 2011,Burma,FY 2011,146,Buddhist,24,220
+From: 26 Apr 2011,To: 26 Apr 2011,Burma,FY 2011,146,Christian,116,220
+From: 26 Apr 2011,To: 26 Apr 2011,Eritrea,FY 2011,7,Catholic,5,220
+From: 26 Apr 2011,To: 26 Apr 2011,Eritrea,FY 2011,7,Christian,1,220
+From: 26 Apr 2011,To: 26 Apr 2011,Eritrea,FY 2011,7,Orthodox,1,220
+From: 26 Apr 2011,To: 26 Apr 2011,Ethiopia,FY 2011,3,Lutheran,3,220
+From: 26 Apr 2011,To: 26 Apr 2011,Iraq,FY 2011,5,Moslem Suni,5,220
+From: 26 Apr 2011,To: 26 Apr 2011,Somalia,FY 2011,21,Moslem,21,220
+From: 26 Apr 2011,To: 26 Apr 2011,Vietnam,FY 2011,3,No Religion,3,220
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Apr 2011,To: 26 Apr 2011,Animist,FY 2011,1,Burma,1,220
+From: 26 Apr 2011,To: 26 Apr 2011,Baptist,FY 2011,5,Burma,5,220
+From: 26 Apr 2011,To: 26 Apr 2011,Buddhist,FY 2011,28,Bhutan,4,220
+From: 26 Apr 2011,To: 26 Apr 2011,Buddhist,FY 2011,28,Burma,24,220
+From: 26 Apr 2011,To: 26 Apr 2011,Catholic,FY 2011,5,Eritrea,5,220
+From: 26 Apr 2011,To: 26 Apr 2011,Christian,FY 2011,123,Bhutan,6,220
+From: 26 Apr 2011,To: 26 Apr 2011,Christian,FY 2011,123,Burma,116,220
+From: 26 Apr 2011,To: 26 Apr 2011,Christian,FY 2011,123,Eritrea,1,220
+From: 26 Apr 2011,To: 26 Apr 2011,Hindu,FY 2011,23,Bhutan,23,220
+From: 26 Apr 2011,To: 26 Apr 2011,Kirat,FY 2011,2,Bhutan,2,220
+From: 26 Apr 2011,To: 26 Apr 2011,Lutheran,FY 2011,3,Ethiopia,3,220
+From: 26 Apr 2011,To: 26 Apr 2011,Moslem,FY 2011,21,Somalia,21,220
+From: 26 Apr 2011,To: 26 Apr 2011,Moslem Suni,FY 2011,5,Iraq,5,220
+From: 26 Apr 2011,To: 26 Apr 2011,No Religion,FY 2011,3,Vietnam,3,220
+From: 26 Apr 2011,To: 26 Apr 2011,Orthodox,FY 2011,1,Eritrea,1,220
+

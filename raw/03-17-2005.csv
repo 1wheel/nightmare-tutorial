@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Mar 2005,To: 17 Mar 2005,Afghanistan,FY 2005,5,Moslem Suni,5,237
+From: 17 Mar 2005,To: 17 Mar 2005,Angola,FY 2005,5,Catholic,5,237
+From: 17 Mar 2005,To: 17 Mar 2005,Azerbaijan,FY 2005,8,Christian,4,237
+From: 17 Mar 2005,To: 17 Mar 2005,Azerbaijan,FY 2005,8,Unknown,4,237
+From: 17 Mar 2005,To: 17 Mar 2005,Colombia,FY 2005,22,Catholic,18,237
+From: 17 Mar 2005,To: 17 Mar 2005,Colombia,FY 2005,22,Christian,4,237
+From: 17 Mar 2005,To: 17 Mar 2005,Cuba,FY 2005,69,Baptist,8,237
+From: 17 Mar 2005,To: 17 Mar 2005,Cuba,FY 2005,69,Catholic,18,237
+From: 17 Mar 2005,To: 17 Mar 2005,Cuba,FY 2005,69,Evangelical Christian,5,237
+From: 17 Mar 2005,To: 17 Mar 2005,Cuba,FY 2005,69,Jehovah Witness,12,237
+From: 17 Mar 2005,To: 17 Mar 2005,Cuba,FY 2005,69,No Religion,19,237
+From: 17 Mar 2005,To: 17 Mar 2005,Cuba,FY 2005,69,Pentecostalist,7,237
+From: 17 Mar 2005,To: 17 Mar 2005,Eritrea,FY 2005,1,Christian,1,237
+From: 17 Mar 2005,To: 17 Mar 2005,Ethiopia,FY 2005,3,Moslem,1,237
+From: 17 Mar 2005,To: 17 Mar 2005,Ethiopia,FY 2005,3,Protestant,2,237
+From: 17 Mar 2005,To: 17 Mar 2005,Russia,FY 2005,11,Baptist,2,237
+From: 17 Mar 2005,To: 17 Mar 2005,Russia,FY 2005,11,Jewish,8,237
+From: 17 Mar 2005,To: 17 Mar 2005,Russia,FY 2005,11,No Religion,1,237
+From: 17 Mar 2005,To: 17 Mar 2005,Somalia,FY 2005,58,Moslem,58,237
+From: 17 Mar 2005,To: 17 Mar 2005,Sudan,FY 2005,25,Catholic,6,237
+From: 17 Mar 2005,To: 17 Mar 2005,Sudan,FY 2005,25,Christian,7,237
+From: 17 Mar 2005,To: 17 Mar 2005,Sudan,FY 2005,25,Moslem,2,237
+From: 17 Mar 2005,To: 17 Mar 2005,Sudan,FY 2005,25,Protestant,10,237
+From: 17 Mar 2005,To: 17 Mar 2005,Ukraine,FY 2005,30,Baptist,10,237
+From: 17 Mar 2005,To: 17 Mar 2005,Ukraine,FY 2005,30,Pentecostalist,20,237
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Mar 2005,To: 17 Mar 2005,Baptist,FY 2005,20,Cuba,8,237
+From: 17 Mar 2005,To: 17 Mar 2005,Baptist,FY 2005,20,Russia,2,237
+From: 17 Mar 2005,To: 17 Mar 2005,Baptist,FY 2005,20,Ukraine,10,237
+From: 17 Mar 2005,To: 17 Mar 2005,Catholic,FY 2005,47,Angola,5,237
+From: 17 Mar 2005,To: 17 Mar 2005,Catholic,FY 2005,47,Colombia,18,237
+From: 17 Mar 2005,To: 17 Mar 2005,Catholic,FY 2005,47,Cuba,18,237
+From: 17 Mar 2005,To: 17 Mar 2005,Catholic,FY 2005,47,Sudan,6,237
+From: 17 Mar 2005,To: 17 Mar 2005,Christian,FY 2005,16,Azerbaijan,4,237
+From: 17 Mar 2005,To: 17 Mar 2005,Christian,FY 2005,16,Colombia,4,237
+From: 17 Mar 2005,To: 17 Mar 2005,Christian,FY 2005,16,Eritrea,1,237
+From: 17 Mar 2005,To: 17 Mar 2005,Christian,FY 2005,16,Sudan,7,237
+From: 17 Mar 2005,To: 17 Mar 2005,Evangelical Christian,FY 2005,5,Cuba,5,237
+From: 17 Mar 2005,To: 17 Mar 2005,Jehovah Witness,FY 2005,12,Cuba,12,237
+From: 17 Mar 2005,To: 17 Mar 2005,Jewish,FY 2005,8,Russia,8,237
+From: 17 Mar 2005,To: 17 Mar 2005,Moslem,FY 2005,61,Ethiopia,1,237
+From: 17 Mar 2005,To: 17 Mar 2005,Moslem,FY 2005,61,Somalia,58,237
+From: 17 Mar 2005,To: 17 Mar 2005,Moslem,FY 2005,61,Sudan,2,237
+From: 17 Mar 2005,To: 17 Mar 2005,Moslem Suni,FY 2005,5,Afghanistan,5,237
+From: 17 Mar 2005,To: 17 Mar 2005,No Religion,FY 2005,20,Cuba,19,237
+From: 17 Mar 2005,To: 17 Mar 2005,No Religion,FY 2005,20,Russia,1,237
+From: 17 Mar 2005,To: 17 Mar 2005,Pentecostalist,FY 2005,27,Cuba,7,237
+From: 17 Mar 2005,To: 17 Mar 2005,Pentecostalist,FY 2005,27,Ukraine,20,237
+From: 17 Mar 2005,To: 17 Mar 2005,Protestant,FY 2005,12,Ethiopia,2,237
+From: 17 Mar 2005,To: 17 Mar 2005,Protestant,FY 2005,12,Sudan,10,237
+From: 17 Mar 2005,To: 17 Mar 2005,Unknown,FY 2005,4,Azerbaijan,4,237
+

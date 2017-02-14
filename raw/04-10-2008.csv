@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Apr 2008,To: 10 Apr 2008,Burma,FY 2008,45,Buddhist,5,146
+From: 10 Apr 2008,To: 10 Apr 2008,Burma,FY 2008,45,Christian,40,146
+From: 10 Apr 2008,To: 10 Apr 2008,Cuba,FY 2008,71,Baptist,6,146
+From: 10 Apr 2008,To: 10 Apr 2008,Cuba,FY 2008,71,Catholic,28,146
+From: 10 Apr 2008,To: 10 Apr 2008,Cuba,FY 2008,71,Jehovah Witness,17,146
+From: 10 Apr 2008,To: 10 Apr 2008,Cuba,FY 2008,71,No Religion,16,146
+From: 10 Apr 2008,To: 10 Apr 2008,Cuba,FY 2008,71,Pentecostalist,1,146
+From: 10 Apr 2008,To: 10 Apr 2008,Cuba,FY 2008,71,Seventh Day Adventist,3,146
+From: 10 Apr 2008,To: 10 Apr 2008,Iraq,FY 2008,23,Catholic,1,146
+From: 10 Apr 2008,To: 10 Apr 2008,Iraq,FY 2008,23,Evangelical Christian,3,146
+From: 10 Apr 2008,To: 10 Apr 2008,Iraq,FY 2008,23,Moslem Shiite,5,146
+From: 10 Apr 2008,To: 10 Apr 2008,Iraq,FY 2008,23,Moslem Suni,14,146
+From: 10 Apr 2008,To: 10 Apr 2008,Liberia,FY 2008,4,Christian,3,146
+From: 10 Apr 2008,To: 10 Apr 2008,Liberia,FY 2008,4,Jehovah Witness,1,146
+From: 10 Apr 2008,To: 10 Apr 2008,Venezuela,FY 2008,3,Unknown,3,146
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Apr 2008,To: 10 Apr 2008,Baptist,FY 2008,6,Cuba,6,146
+From: 10 Apr 2008,To: 10 Apr 2008,Buddhist,FY 2008,5,Burma,5,146
+From: 10 Apr 2008,To: 10 Apr 2008,Catholic,FY 2008,29,Cuba,28,146
+From: 10 Apr 2008,To: 10 Apr 2008,Catholic,FY 2008,29,Iraq,1,146
+From: 10 Apr 2008,To: 10 Apr 2008,Christian,FY 2008,43,Burma,40,146
+From: 10 Apr 2008,To: 10 Apr 2008,Christian,FY 2008,43,Liberia,3,146
+From: 10 Apr 2008,To: 10 Apr 2008,Evangelical Christian,FY 2008,3,Iraq,3,146
+From: 10 Apr 2008,To: 10 Apr 2008,Jehovah Witness,FY 2008,18,Cuba,17,146
+From: 10 Apr 2008,To: 10 Apr 2008,Jehovah Witness,FY 2008,18,Liberia,1,146
+From: 10 Apr 2008,To: 10 Apr 2008,Moslem Shiite,FY 2008,5,Iraq,5,146
+From: 10 Apr 2008,To: 10 Apr 2008,Moslem Suni,FY 2008,14,Iraq,14,146
+From: 10 Apr 2008,To: 10 Apr 2008,No Religion,FY 2008,16,Cuba,16,146
+From: 10 Apr 2008,To: 10 Apr 2008,Pentecostalist,FY 2008,1,Cuba,1,146
+From: 10 Apr 2008,To: 10 Apr 2008,Seventh Day Adventist,FY 2008,3,Cuba,3,146
+From: 10 Apr 2008,To: 10 Apr 2008,Unknown,FY 2008,3,Venezuela,3,146
+

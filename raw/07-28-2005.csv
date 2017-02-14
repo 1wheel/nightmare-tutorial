@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jul 2005,To: 28 Jul 2005,Dem. Rep. Congo,FY 2005,4,Catholic,4,141
+From: 28 Jul 2005,To: 28 Jul 2005,Ethiopia,FY 2005,6,Moslem,6,141
+From: 28 Jul 2005,To: 28 Jul 2005,Laos,FY 2005,33,Ancestral Worship,33,141
+From: 28 Jul 2005,To: 28 Jul 2005,Russia,FY 2005,35,Moslem,35,141
+From: 28 Jul 2005,To: 28 Jul 2005,Somalia,FY 2005,54,Moslem,54,141
+From: 28 Jul 2005,To: 28 Jul 2005,Uzbekistan,FY 2005,9,Baptist,7,141
+From: 28 Jul 2005,To: 28 Jul 2005,Uzbekistan,FY 2005,9,Jewish,2,141
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jul 2005,To: 28 Jul 2005,Ancestral Worship,FY 2005,33,Laos,33,141
+From: 28 Jul 2005,To: 28 Jul 2005,Baptist,FY 2005,7,Uzbekistan,7,141
+From: 28 Jul 2005,To: 28 Jul 2005,Catholic,FY 2005,4,Dem. Rep. Congo,4,141
+From: 28 Jul 2005,To: 28 Jul 2005,Jewish,FY 2005,2,Uzbekistan,2,141
+From: 28 Jul 2005,To: 28 Jul 2005,Moslem,FY 2005,95,Ethiopia,6,141
+From: 28 Jul 2005,To: 28 Jul 2005,Moslem,FY 2005,95,Russia,35,141
+From: 28 Jul 2005,To: 28 Jul 2005,Moslem,FY 2005,95,Somalia,54,141
+

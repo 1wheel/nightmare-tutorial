@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jul 2005,To: 21 Jul 2005,Cuba,FY 2005,29,Catholic,9,174
+From: 21 Jul 2005,To: 21 Jul 2005,Cuba,FY 2005,29,Evangelical Christian,7,174
+From: 21 Jul 2005,To: 21 Jul 2005,Cuba,FY 2005,29,Jehovah Witness,4,174
+From: 21 Jul 2005,To: 21 Jul 2005,Cuba,FY 2005,29,No Religion,9,174
+From: 21 Jul 2005,To: 21 Jul 2005,Ethiopia,FY 2005,7,Christian,1,174
+From: 21 Jul 2005,To: 21 Jul 2005,Ethiopia,FY 2005,7,Moslem,3,174
+From: 21 Jul 2005,To: 21 Jul 2005,Ethiopia,FY 2005,7,Orthodox,2,174
+From: 21 Jul 2005,To: 21 Jul 2005,Ethiopia,FY 2005,7,Protestant,1,174
+From: 21 Jul 2005,To: 21 Jul 2005,Laos,FY 2005,22,Ancestral Worship,13,174
+From: 21 Jul 2005,To: 21 Jul 2005,Laos,FY 2005,22,Christian,9,174
+From: 21 Jul 2005,To: 21 Jul 2005,Russia,FY 2005,35,Moslem,35,174
+From: 21 Jul 2005,To: 21 Jul 2005,Somalia,FY 2005,57,Moslem,57,174
+From: 21 Jul 2005,To: 21 Jul 2005,Sudan,FY 2005,1,Catholic,1,174
+From: 21 Jul 2005,To: 21 Jul 2005,Vietnam,FY 2005,23,Buddhist,3,174
+From: 21 Jul 2005,To: 21 Jul 2005,Vietnam,FY 2005,23,Catholic,2,174
+From: 21 Jul 2005,To: 21 Jul 2005,Vietnam,FY 2005,23,No Religion,12,174
+From: 21 Jul 2005,To: 21 Jul 2005,Vietnam,FY 2005,23,Protestant,2,174
+From: 21 Jul 2005,To: 21 Jul 2005,Vietnam,FY 2005,23,Unknown,4,174
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jul 2005,To: 21 Jul 2005,Ancestral Worship,FY 2005,13,Laos,13,174
+From: 21 Jul 2005,To: 21 Jul 2005,Buddhist,FY 2005,3,Vietnam,3,174
+From: 21 Jul 2005,To: 21 Jul 2005,Catholic,FY 2005,12,Cuba,9,174
+From: 21 Jul 2005,To: 21 Jul 2005,Catholic,FY 2005,12,Sudan,1,174
+From: 21 Jul 2005,To: 21 Jul 2005,Catholic,FY 2005,12,Vietnam,2,174
+From: 21 Jul 2005,To: 21 Jul 2005,Christian,FY 2005,10,Ethiopia,1,174
+From: 21 Jul 2005,To: 21 Jul 2005,Christian,FY 2005,10,Laos,9,174
+From: 21 Jul 2005,To: 21 Jul 2005,Evangelical Christian,FY 2005,7,Cuba,7,174
+From: 21 Jul 2005,To: 21 Jul 2005,Jehovah Witness,FY 2005,4,Cuba,4,174
+From: 21 Jul 2005,To: 21 Jul 2005,Moslem,FY 2005,95,Ethiopia,3,174
+From: 21 Jul 2005,To: 21 Jul 2005,Moslem,FY 2005,95,Russia,35,174
+From: 21 Jul 2005,To: 21 Jul 2005,Moslem,FY 2005,95,Somalia,57,174
+From: 21 Jul 2005,To: 21 Jul 2005,No Religion,FY 2005,21,Cuba,9,174
+From: 21 Jul 2005,To: 21 Jul 2005,No Religion,FY 2005,21,Vietnam,12,174
+From: 21 Jul 2005,To: 21 Jul 2005,Orthodox,FY 2005,2,Ethiopia,2,174
+From: 21 Jul 2005,To: 21 Jul 2005,Protestant,FY 2005,3,Ethiopia,1,174
+From: 21 Jul 2005,To: 21 Jul 2005,Protestant,FY 2005,3,Vietnam,2,174
+From: 21 Jul 2005,To: 21 Jul 2005,Unknown,FY 2005,4,Vietnam,4,174
+

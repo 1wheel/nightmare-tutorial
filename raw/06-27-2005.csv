@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jun 2005,To: 27 Jun 2005,Afghanistan,FY 2005,14,Moslem,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Afghanistan,FY 2005,14,Moslem Shiite,5,187
+From: 27 Jun 2005,To: 27 Jun 2005,Afghanistan,FY 2005,14,Moslem Suni,8,187
+From: 27 Jun 2005,To: 27 Jun 2005,Dem. Rep. Congo,FY 2005,1,Protestant,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Ethiopia,FY 2005,21,Christian,7,187
+From: 27 Jun 2005,To: 27 Jun 2005,Ethiopia,FY 2005,21,Moslem,14,187
+From: 27 Jun 2005,To: 27 Jun 2005,Iran,FY 2005,1,Moslem,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Laos,FY 2005,43,Ancestral Worship,43,187
+From: 27 Jun 2005,To: 27 Jun 2005,Liberia,FY 2005,34,Catholic,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Liberia,FY 2005,34,Christian,23,187
+From: 27 Jun 2005,To: 27 Jun 2005,Liberia,FY 2005,34,Evangelical Christian,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Liberia,FY 2005,34,Lutheran,3,187
+From: 27 Jun 2005,To: 27 Jun 2005,Liberia,FY 2005,34,Methodist,6,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Baptist,6,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Evangelical Christian,4,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Jewish,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Moslem,35,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,No Religion,2,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Orthodox,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Pentecostalist,2,187
+From: 27 Jun 2005,To: 27 Jun 2005,Russia,FY 2005,54,Seventh Day Adventist,3,187
+From: 27 Jun 2005,To: 27 Jun 2005,Sierra Leone,FY 2005,3,Moslem,3,187
+From: 27 Jun 2005,To: 27 Jun 2005,Somalia,FY 2005,16,Moslem,15,187
+From: 27 Jun 2005,To: 27 Jun 2005,Somalia,FY 2005,16,Moslem Suni,1,187
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jun 2005,To: 27 Jun 2005,Ancestral Worship,FY 2005,43,Laos,43,187
+From: 27 Jun 2005,To: 27 Jun 2005,Baptist,FY 2005,6,Russia,6,187
+From: 27 Jun 2005,To: 27 Jun 2005,Catholic,FY 2005,1,Liberia,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Christian,FY 2005,30,Ethiopia,7,187
+From: 27 Jun 2005,To: 27 Jun 2005,Christian,FY 2005,30,Liberia,23,187
+From: 27 Jun 2005,To: 27 Jun 2005,Evangelical Christian,FY 2005,5,Liberia,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Evangelical Christian,FY 2005,5,Russia,4,187
+From: 27 Jun 2005,To: 27 Jun 2005,Jewish,FY 2005,1,Russia,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Lutheran,FY 2005,3,Liberia,3,187
+From: 27 Jun 2005,To: 27 Jun 2005,Methodist,FY 2005,6,Liberia,6,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem,FY 2005,69,Afghanistan,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem,FY 2005,69,Ethiopia,14,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem,FY 2005,69,Iran,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem,FY 2005,69,Russia,35,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem,FY 2005,69,Sierra Leone,3,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem,FY 2005,69,Somalia,15,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem Shiite,FY 2005,5,Afghanistan,5,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem Suni,FY 2005,9,Afghanistan,8,187
+From: 27 Jun 2005,To: 27 Jun 2005,Moslem Suni,FY 2005,9,Somalia,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,No Religion,FY 2005,2,Russia,2,187
+From: 27 Jun 2005,To: 27 Jun 2005,Orthodox,FY 2005,1,Russia,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Pentecostalist,FY 2005,2,Russia,2,187
+From: 27 Jun 2005,To: 27 Jun 2005,Protestant,FY 2005,1,Dem. Rep. Congo,1,187
+From: 27 Jun 2005,To: 27 Jun 2005,Seventh Day Adventist,FY 2005,3,Russia,3,187
+

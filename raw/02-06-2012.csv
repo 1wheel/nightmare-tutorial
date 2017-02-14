@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Feb 2012,To: 06 Feb 2012,Bhutan,FY 2012,35,Buddhist,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Bhutan,FY 2012,35,Christian,8,139
+From: 06 Feb 2012,To: 06 Feb 2012,Bhutan,FY 2012,35,Hindu,21,139
+From: 06 Feb 2012,To: 06 Feb 2012,Burma,FY 2012,64,Baptist,9,139
+From: 06 Feb 2012,To: 06 Feb 2012,Burma,FY 2012,64,Buddhist,13,139
+From: 06 Feb 2012,To: 06 Feb 2012,Burma,FY 2012,64,Catholic,3,139
+From: 06 Feb 2012,To: 06 Feb 2012,Burma,FY 2012,64,Christian,39,139
+From: 06 Feb 2012,To: 06 Feb 2012,Dem. Rep. Congo,FY 2012,9,Catholic,8,139
+From: 06 Feb 2012,To: 06 Feb 2012,Dem. Rep. Congo,FY 2012,9,Protestant,1,139
+From: 06 Feb 2012,To: 06 Feb 2012,Eritrea,FY 2012,2,Orthodox,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Iraq,FY 2012,10,Moslem Shiite,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Iraq,FY 2012,10,Moslem Suni,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Iraq,FY 2012,10,Orthodox,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Jordan,FY 2012,1,Moslem Suni,1,139
+From: 06 Feb 2012,To: 06 Feb 2012,Palestine,FY 2012,4,Moslem Suni,4,139
+From: 06 Feb 2012,To: 06 Feb 2012,Somalia,FY 2012,12,Moslem,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Somalia,FY 2012,12,Moslem Suni,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Sudan,FY 2012,2,Moslem,2,139
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Feb 2012,To: 06 Feb 2012,Baptist,FY 2012,9,Burma,9,139
+From: 06 Feb 2012,To: 06 Feb 2012,Buddhist,FY 2012,19,Bhutan,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Buddhist,FY 2012,19,Burma,13,139
+From: 06 Feb 2012,To: 06 Feb 2012,Catholic,FY 2012,11,Burma,3,139
+From: 06 Feb 2012,To: 06 Feb 2012,Catholic,FY 2012,11,Dem. Rep. Congo,8,139
+From: 06 Feb 2012,To: 06 Feb 2012,Christian,FY 2012,47,Bhutan,8,139
+From: 06 Feb 2012,To: 06 Feb 2012,Christian,FY 2012,47,Burma,39,139
+From: 06 Feb 2012,To: 06 Feb 2012,Hindu,FY 2012,21,Bhutan,21,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem,FY 2012,8,Somalia,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem,FY 2012,8,Sudan,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem Shiite,FY 2012,2,Iraq,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem Suni,FY 2012,13,Iraq,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem Suni,FY 2012,13,Jordan,1,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem Suni,FY 2012,13,Palestine,4,139
+From: 06 Feb 2012,To: 06 Feb 2012,Moslem Suni,FY 2012,13,Somalia,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Orthodox,FY 2012,8,Eritrea,2,139
+From: 06 Feb 2012,To: 06 Feb 2012,Orthodox,FY 2012,8,Iraq,6,139
+From: 06 Feb 2012,To: 06 Feb 2012,Protestant,FY 2012,1,Dem. Rep. Congo,1,139
+

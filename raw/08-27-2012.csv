@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Aug 2012,To: 27 Aug 2012,Bhutan,FY 2012,70,Buddhist,26,219
+From: 27 Aug 2012,To: 27 Aug 2012,Bhutan,FY 2012,70,Christian,3,219
+From: 27 Aug 2012,To: 27 Aug 2012,Bhutan,FY 2012,70,Hindu,41,219
+From: 27 Aug 2012,To: 27 Aug 2012,Burma,FY 2012,43,Baptist,8,219
+From: 27 Aug 2012,To: 27 Aug 2012,Burma,FY 2012,43,Buddhist,12,219
+From: 27 Aug 2012,To: 27 Aug 2012,Burma,FY 2012,43,Christian,23,219
+From: 27 Aug 2012,To: 27 Aug 2012,Dem. Rep. Congo,FY 2012,1,Protestant,1,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iran,FY 2012,20,Christian,19,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iran,FY 2012,20,Zoroastrian,1,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iraq,FY 2012,52,Catholic,5,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iraq,FY 2012,52,Christian,5,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iraq,FY 2012,52,Moslem Shiite,14,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iraq,FY 2012,52,Moslem Suni,20,219
+From: 27 Aug 2012,To: 27 Aug 2012,Iraq,FY 2012,52,Sabeans-Mandean,8,219
+From: 27 Aug 2012,To: 27 Aug 2012,Palestine,FY 2012,4,Moslem Suni,4,219
+From: 27 Aug 2012,To: 27 Aug 2012,Somalia,FY 2012,29,Moslem,28,219
+From: 27 Aug 2012,To: 27 Aug 2012,Somalia,FY 2012,29,Moslem Suni,1,219
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Aug 2012,To: 27 Aug 2012,Baptist,FY 2012,8,Burma,8,219
+From: 27 Aug 2012,To: 27 Aug 2012,Buddhist,FY 2012,38,Bhutan,26,219
+From: 27 Aug 2012,To: 27 Aug 2012,Buddhist,FY 2012,38,Burma,12,219
+From: 27 Aug 2012,To: 27 Aug 2012,Catholic,FY 2012,5,Iraq,5,219
+From: 27 Aug 2012,To: 27 Aug 2012,Christian,FY 2012,50,Bhutan,3,219
+From: 27 Aug 2012,To: 27 Aug 2012,Christian,FY 2012,50,Burma,23,219
+From: 27 Aug 2012,To: 27 Aug 2012,Christian,FY 2012,50,Iran,19,219
+From: 27 Aug 2012,To: 27 Aug 2012,Christian,FY 2012,50,Iraq,5,219
+From: 27 Aug 2012,To: 27 Aug 2012,Hindu,FY 2012,41,Bhutan,41,219
+From: 27 Aug 2012,To: 27 Aug 2012,Moslem,FY 2012,28,Somalia,28,219
+From: 27 Aug 2012,To: 27 Aug 2012,Moslem Shiite,FY 2012,14,Iraq,14,219
+From: 27 Aug 2012,To: 27 Aug 2012,Moslem Suni,FY 2012,25,Iraq,20,219
+From: 27 Aug 2012,To: 27 Aug 2012,Moslem Suni,FY 2012,25,Palestine,4,219
+From: 27 Aug 2012,To: 27 Aug 2012,Moslem Suni,FY 2012,25,Somalia,1,219
+From: 27 Aug 2012,To: 27 Aug 2012,Protestant,FY 2012,1,Dem. Rep. Congo,1,219
+From: 27 Aug 2012,To: 27 Aug 2012,Sabeans-Mandean,FY 2012,8,Iraq,8,219
+From: 27 Aug 2012,To: 27 Aug 2012,Zoroastrian,FY 2012,1,Iran,1,219
+

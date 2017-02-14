@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 May 2010,To: 10 May 2010,Afghanistan,FY 2010,1,Moslem,1,262
+From: 10 May 2010,To: 10 May 2010,Burma,FY 2010,52,Animist,6,262
+From: 10 May 2010,To: 10 May 2010,Burma,FY 2010,52,Baptist,4,262
+From: 10 May 2010,To: 10 May 2010,Burma,FY 2010,52,Buddhist,1,262
+From: 10 May 2010,To: 10 May 2010,Burma,FY 2010,52,Catholic,11,262
+From: 10 May 2010,To: 10 May 2010,Burma,FY 2010,52,Christian,26,262
+From: 10 May 2010,To: 10 May 2010,Burma,FY 2010,52,Moslem,4,262
+From: 10 May 2010,To: 10 May 2010,Iran,FY 2010,9,Bahai,4,262
+From: 10 May 2010,To: 10 May 2010,Iran,FY 2010,9,Christian,4,262
+From: 10 May 2010,To: 10 May 2010,Iran,FY 2010,9,Moslem Suni,1,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Atheist,1,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Catholic,20,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Christian,28,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Moslem,1,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Moslem Shiite,33,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Moslem Suni,43,262
+From: 10 May 2010,To: 10 May 2010,Iraq,FY 2010,132,Sabeans-Mandean,6,262
+From: 10 May 2010,To: 10 May 2010,Liberia,FY 2010,1,Christian,1,262
+From: 10 May 2010,To: 10 May 2010,Somalia,FY 2010,54,Moslem,53,262
+From: 10 May 2010,To: 10 May 2010,Somalia,FY 2010,54,Moslem Suni,1,262
+From: 10 May 2010,To: 10 May 2010,Sudan,FY 2010,7,Christian,3,262
+From: 10 May 2010,To: 10 May 2010,Sudan,FY 2010,7,Protestant,4,262
+From: 10 May 2010,To: 10 May 2010,Vietnam,FY 2010,6,Christian,6,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 May 2010,To: 10 May 2010,Animist,FY 2010,6,Burma,6,262
+From: 10 May 2010,To: 10 May 2010,Atheist,FY 2010,1,Iraq,1,262
+From: 10 May 2010,To: 10 May 2010,Bahai,FY 2010,4,Iran,4,262
+From: 10 May 2010,To: 10 May 2010,Baptist,FY 2010,4,Burma,4,262
+From: 10 May 2010,To: 10 May 2010,Buddhist,FY 2010,1,Burma,1,262
+From: 10 May 2010,To: 10 May 2010,Catholic,FY 2010,31,Burma,11,262
+From: 10 May 2010,To: 10 May 2010,Catholic,FY 2010,31,Iraq,20,262
+From: 10 May 2010,To: 10 May 2010,Christian,FY 2010,68,Burma,26,262
+From: 10 May 2010,To: 10 May 2010,Christian,FY 2010,68,Iran,4,262
+From: 10 May 2010,To: 10 May 2010,Christian,FY 2010,68,Iraq,28,262
+From: 10 May 2010,To: 10 May 2010,Christian,FY 2010,68,Liberia,1,262
+From: 10 May 2010,To: 10 May 2010,Christian,FY 2010,68,Sudan,3,262
+From: 10 May 2010,To: 10 May 2010,Christian,FY 2010,68,Vietnam,6,262
+From: 10 May 2010,To: 10 May 2010,Moslem,FY 2010,59,Afghanistan,1,262
+From: 10 May 2010,To: 10 May 2010,Moslem,FY 2010,59,Burma,4,262
+From: 10 May 2010,To: 10 May 2010,Moslem,FY 2010,59,Iraq,1,262
+From: 10 May 2010,To: 10 May 2010,Moslem,FY 2010,59,Somalia,53,262
+From: 10 May 2010,To: 10 May 2010,Moslem Shiite,FY 2010,33,Iraq,33,262
+From: 10 May 2010,To: 10 May 2010,Moslem Suni,FY 2010,45,Iran,1,262
+From: 10 May 2010,To: 10 May 2010,Moslem Suni,FY 2010,45,Iraq,43,262
+From: 10 May 2010,To: 10 May 2010,Moslem Suni,FY 2010,45,Somalia,1,262
+From: 10 May 2010,To: 10 May 2010,Protestant,FY 2010,4,Sudan,4,262
+From: 10 May 2010,To: 10 May 2010,Sabeans-Mandean,FY 2010,6,Iraq,6,262
+

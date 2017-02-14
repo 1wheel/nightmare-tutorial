@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Jun 2012,To: 19 Jun 2012,Afghanistan,FY 2012,10,Moslem Shiite,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Afghanistan,FY 2012,10,Moslem Suni,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Bhutan,FY 2012,97,Buddhist,40,413
+From: 19 Jun 2012,To: 19 Jun 2012,Bhutan,FY 2012,97,Christian,4,413
+From: 19 Jun 2012,To: 19 Jun 2012,Bhutan,FY 2012,97,Hindu,48,413
+From: 19 Jun 2012,To: 19 Jun 2012,Bhutan,FY 2012,97,Kirat,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Burma,FY 2012,8,Christian,8,413
+From: 19 Jun 2012,To: 19 Jun 2012,Burundi,FY 2012,1,Catholic,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Dem. Rep. Congo,FY 2012,8,Catholic,8,413
+From: 19 Jun 2012,To: 19 Jun 2012,Eritrea,FY 2012,1,Moslem,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Ethiopia,FY 2012,7,Moslem,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Ethiopia,FY 2012,7,Orthodox,2,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iran,FY 2012,6,Bahai,6,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Catholic,58,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Christian,56,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Moslem,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Moslem Shiite,26,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Moslem Suni,62,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Orthodox,7,413
+From: 19 Jun 2012,To: 19 Jun 2012,Iraq,FY 2012,222,Sabeans-Mandean,12,413
+From: 19 Jun 2012,To: 19 Jun 2012,Kyrgyzstan,FY 2012,11,Baptist,9,413
+From: 19 Jun 2012,To: 19 Jun 2012,Kyrgyzstan,FY 2012,11,Evangelical Christian,2,413
+From: 19 Jun 2012,To: 19 Jun 2012,Palestine,FY 2012,9,Moslem Suni,9,413
+From: 19 Jun 2012,To: 19 Jun 2012,Russia,FY 2012,3,Baptist,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Russia,FY 2012,3,Jewish,2,413
+From: 19 Jun 2012,To: 19 Jun 2012,Somalia,FY 2012,20,Moslem,20,413
+From: 19 Jun 2012,To: 19 Jun 2012,Sudan,FY 2012,8,Moslem,8,413
+From: 19 Jun 2012,To: 19 Jun 2012,Syria,FY 2012,1,Moslem Suni,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Uganda,FY 2012,1,Christian,1,413
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Jun 2012,To: 19 Jun 2012,Bahai,FY 2012,6,Iran,6,413
+From: 19 Jun 2012,To: 19 Jun 2012,Baptist,FY 2012,10,Kyrgyzstan,9,413
+From: 19 Jun 2012,To: 19 Jun 2012,Baptist,FY 2012,10,Russia,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Buddhist,FY 2012,40,Bhutan,40,413
+From: 19 Jun 2012,To: 19 Jun 2012,Catholic,FY 2012,67,Burundi,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Catholic,FY 2012,67,Dem. Rep. Congo,8,413
+From: 19 Jun 2012,To: 19 Jun 2012,Catholic,FY 2012,67,Iraq,58,413
+From: 19 Jun 2012,To: 19 Jun 2012,Christian,FY 2012,69,Bhutan,4,413
+From: 19 Jun 2012,To: 19 Jun 2012,Christian,FY 2012,69,Burma,8,413
+From: 19 Jun 2012,To: 19 Jun 2012,Christian,FY 2012,69,Iraq,56,413
+From: 19 Jun 2012,To: 19 Jun 2012,Christian,FY 2012,69,Uganda,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Evangelical Christian,FY 2012,2,Kyrgyzstan,2,413
+From: 19 Jun 2012,To: 19 Jun 2012,Hindu,FY 2012,48,Bhutan,48,413
+From: 19 Jun 2012,To: 19 Jun 2012,Jewish,FY 2012,2,Russia,2,413
+From: 19 Jun 2012,To: 19 Jun 2012,Kirat,FY 2012,5,Bhutan,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem,FY 2012,35,Eritrea,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem,FY 2012,35,Ethiopia,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem,FY 2012,35,Iraq,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem,FY 2012,35,Somalia,20,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem,FY 2012,35,Sudan,8,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem Shiite,FY 2012,31,Afghanistan,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem Shiite,FY 2012,31,Iraq,26,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem Suni,FY 2012,77,Afghanistan,5,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem Suni,FY 2012,77,Iraq,62,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem Suni,FY 2012,77,Palestine,9,413
+From: 19 Jun 2012,To: 19 Jun 2012,Moslem Suni,FY 2012,77,Syria,1,413
+From: 19 Jun 2012,To: 19 Jun 2012,Orthodox,FY 2012,9,Ethiopia,2,413
+From: 19 Jun 2012,To: 19 Jun 2012,Orthodox,FY 2012,9,Iraq,7,413
+From: 19 Jun 2012,To: 19 Jun 2012,Sabeans-Mandean,FY 2012,12,Iraq,12,413
+

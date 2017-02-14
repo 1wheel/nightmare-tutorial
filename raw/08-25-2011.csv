@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Aug 2011,To: 25 Aug 2011,Bhutan,FY 2011,92,Buddhist,21,407
+From: 25 Aug 2011,To: 25 Aug 2011,Bhutan,FY 2011,92,Christian,10,407
+From: 25 Aug 2011,To: 25 Aug 2011,Bhutan,FY 2011,92,Hindu,57,407
+From: 25 Aug 2011,To: 25 Aug 2011,Bhutan,FY 2011,92,Kirat,4,407
+From: 25 Aug 2011,To: 25 Aug 2011,Burma,FY 2011,105,Baptist,9,407
+From: 25 Aug 2011,To: 25 Aug 2011,Burma,FY 2011,105,Buddhist,23,407
+From: 25 Aug 2011,To: 25 Aug 2011,Burma,FY 2011,105,Catholic,6,407
+From: 25 Aug 2011,To: 25 Aug 2011,Burma,FY 2011,105,Christian,45,407
+From: 25 Aug 2011,To: 25 Aug 2011,Burma,FY 2011,105,Methodist,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Burma,FY 2011,105,Moslem,21,407
+From: 25 Aug 2011,To: 25 Aug 2011,Central African Republic,FY 2011,8,Catholic,7,407
+From: 25 Aug 2011,To: 25 Aug 2011,Central African Republic,FY 2011,8,Moslem,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Cuba,FY 2011,26,Baptist,3,407
+From: 25 Aug 2011,To: 25 Aug 2011,Cuba,FY 2011,26,Catholic,7,407
+From: 25 Aug 2011,To: 25 Aug 2011,Cuba,FY 2011,26,Jehovah Witness,6,407
+From: 25 Aug 2011,To: 25 Aug 2011,Cuba,FY 2011,26,No Religion,10,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iran,FY 2011,21,Bahai,5,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iran,FY 2011,21,Buddhist,2,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iran,FY 2011,21,Christian,13,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iran,FY 2011,21,Moslem Suni,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Catholic,21,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Christian,50,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Moslem,4,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Moslem Shiite,31,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Moslem Suni,35,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Sabeans-Mandean,5,407
+From: 25 Aug 2011,To: 25 Aug 2011,Iraq,FY 2011,148,Yazidi,2,407
+From: 25 Aug 2011,To: 25 Aug 2011,Somalia,FY 2011,6,Moslem,6,407
+From: 25 Aug 2011,To: 25 Aug 2011,Sudan,FY 2011,1,Moslem,1,407
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Aug 2011,To: 25 Aug 2011,Bahai,FY 2011,5,Iran,5,407
+From: 25 Aug 2011,To: 25 Aug 2011,Baptist,FY 2011,12,Burma,9,407
+From: 25 Aug 2011,To: 25 Aug 2011,Baptist,FY 2011,12,Cuba,3,407
+From: 25 Aug 2011,To: 25 Aug 2011,Buddhist,FY 2011,46,Bhutan,21,407
+From: 25 Aug 2011,To: 25 Aug 2011,Buddhist,FY 2011,46,Burma,23,407
+From: 25 Aug 2011,To: 25 Aug 2011,Buddhist,FY 2011,46,Iran,2,407
+From: 25 Aug 2011,To: 25 Aug 2011,Catholic,FY 2011,41,Burma,6,407
+From: 25 Aug 2011,To: 25 Aug 2011,Catholic,FY 2011,41,Central African Republic,7,407
+From: 25 Aug 2011,To: 25 Aug 2011,Catholic,FY 2011,41,Cuba,7,407
+From: 25 Aug 2011,To: 25 Aug 2011,Catholic,FY 2011,41,Iraq,21,407
+From: 25 Aug 2011,To: 25 Aug 2011,Christian,FY 2011,118,Bhutan,10,407
+From: 25 Aug 2011,To: 25 Aug 2011,Christian,FY 2011,118,Burma,45,407
+From: 25 Aug 2011,To: 25 Aug 2011,Christian,FY 2011,118,Iran,13,407
+From: 25 Aug 2011,To: 25 Aug 2011,Christian,FY 2011,118,Iraq,50,407
+From: 25 Aug 2011,To: 25 Aug 2011,Hindu,FY 2011,57,Bhutan,57,407
+From: 25 Aug 2011,To: 25 Aug 2011,Jehovah Witness,FY 2011,6,Cuba,6,407
+From: 25 Aug 2011,To: 25 Aug 2011,Kirat,FY 2011,4,Bhutan,4,407
+From: 25 Aug 2011,To: 25 Aug 2011,Methodist,FY 2011,1,Burma,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem,FY 2011,33,Burma,21,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem,FY 2011,33,Central African Republic,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem,FY 2011,33,Iraq,4,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem,FY 2011,33,Somalia,6,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem,FY 2011,33,Sudan,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem Shiite,FY 2011,31,Iraq,31,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem Suni,FY 2011,36,Iran,1,407
+From: 25 Aug 2011,To: 25 Aug 2011,Moslem Suni,FY 2011,36,Iraq,35,407
+From: 25 Aug 2011,To: 25 Aug 2011,No Religion,FY 2011,10,Cuba,10,407
+From: 25 Aug 2011,To: 25 Aug 2011,Sabeans-Mandean,FY 2011,5,Iraq,5,407
+From: 25 Aug 2011,To: 25 Aug 2011,Yazidi,FY 2011,2,Iraq,2,407
+

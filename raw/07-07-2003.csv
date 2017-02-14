@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jul 2003,To: 07 Jul 2003,Afghanistan,FY 2003,10,Moslem,10,154
+From: 07 Jul 2003,To: 07 Jul 2003,Belarus,FY 2003,16,Jewish,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Belarus,FY 2003,16,Pentecostalist,12,154
+From: 07 Jul 2003,To: 07 Jul 2003,Bosnia and Herzegovina,FY 2003,1,Moslem,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Ethiopia,FY 2003,24,Christian,14,154
+From: 07 Jul 2003,To: 07 Jul 2003,Ethiopia,FY 2003,24,Moslem,3,154
+From: 07 Jul 2003,To: 07 Jul 2003,Ethiopia,FY 2003,24,Orthodox,7,154
+From: 07 Jul 2003,To: 07 Jul 2003,Iran,FY 2003,12,Bahai,2,154
+From: 07 Jul 2003,To: 07 Jul 2003,Iran,FY 2003,12,Moslem,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Iran,FY 2003,12,Moslem Shiite,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Iran,FY 2003,12,Pentecostalist,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Iran,FY 2003,12,Seventh Day Adventist,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Liberia,FY 2003,1,Christian,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Lithuania,FY 2003,3,Pentecostalist,3,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moldova,FY 2003,7,Baptist,3,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moldova,FY 2003,7,Pentecostalist,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Russia,FY 2003,1,Baptist,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Sierra Leone,FY 2003,32,Catholic,5,154
+From: 07 Jul 2003,To: 07 Jul 2003,Sierra Leone,FY 2003,32,Christian,9,154
+From: 07 Jul 2003,To: 07 Jul 2003,Sierra Leone,FY 2003,32,Moslem,12,154
+From: 07 Jul 2003,To: 07 Jul 2003,Sierra Leone,FY 2003,32,Pentecostalist,6,154
+From: 07 Jul 2003,To: 07 Jul 2003,Somalia,FY 2003,9,Moslem,9,154
+From: 07 Jul 2003,To: 07 Jul 2003,Sudan,FY 2003,4,Christian,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Ukraine,FY 2003,34,Baptist,9,154
+From: 07 Jul 2003,To: 07 Jul 2003,Ukraine,FY 2003,34,Jewish,2,154
+From: 07 Jul 2003,To: 07 Jul 2003,Ukraine,FY 2003,34,Pentecostalist,23,154
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jul 2003,To: 07 Jul 2003,Bahai,FY 2003,2,Iran,2,154
+From: 07 Jul 2003,To: 07 Jul 2003,Baptist,FY 2003,13,Moldova,3,154
+From: 07 Jul 2003,To: 07 Jul 2003,Baptist,FY 2003,13,Russia,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Baptist,FY 2003,13,Ukraine,9,154
+From: 07 Jul 2003,To: 07 Jul 2003,Catholic,FY 2003,5,Sierra Leone,5,154
+From: 07 Jul 2003,To: 07 Jul 2003,Christian,FY 2003,28,Ethiopia,14,154
+From: 07 Jul 2003,To: 07 Jul 2003,Christian,FY 2003,28,Liberia,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Christian,FY 2003,28,Sierra Leone,9,154
+From: 07 Jul 2003,To: 07 Jul 2003,Christian,FY 2003,28,Sudan,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Jewish,FY 2003,6,Belarus,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Jewish,FY 2003,6,Ukraine,2,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem,FY 2003,36,Afghanistan,10,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem,FY 2003,36,Bosnia and Herzegovina,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem,FY 2003,36,Ethiopia,3,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem,FY 2003,36,Iran,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem,FY 2003,36,Sierra Leone,12,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem,FY 2003,36,Somalia,9,154
+From: 07 Jul 2003,To: 07 Jul 2003,Moslem Shiite,FY 2003,1,Iran,1,154
+From: 07 Jul 2003,To: 07 Jul 2003,Orthodox,FY 2003,7,Ethiopia,7,154
+From: 07 Jul 2003,To: 07 Jul 2003,Pentecostalist,FY 2003,52,Belarus,12,154
+From: 07 Jul 2003,To: 07 Jul 2003,Pentecostalist,FY 2003,52,Iran,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Pentecostalist,FY 2003,52,Lithuania,3,154
+From: 07 Jul 2003,To: 07 Jul 2003,Pentecostalist,FY 2003,52,Moldova,4,154
+From: 07 Jul 2003,To: 07 Jul 2003,Pentecostalist,FY 2003,52,Sierra Leone,6,154
+From: 07 Jul 2003,To: 07 Jul 2003,Pentecostalist,FY 2003,52,Ukraine,23,154
+From: 07 Jul 2003,To: 07 Jul 2003,Seventh Day Adventist,FY 2003,4,Iran,4,154
+

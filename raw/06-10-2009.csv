@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jun 2009,To: 10 Jun 2009,Afghanistan,FY 2009,1,Moslem Suni,1,452
+From: 10 Jun 2009,To: 10 Jun 2009,Bhutan,FY 2009,45,Buddhist,2,452
+From: 10 Jun 2009,To: 10 Jun 2009,Bhutan,FY 2009,45,Christian,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Bhutan,FY 2009,45,Hindu,34,452
+From: 10 Jun 2009,To: 10 Jun 2009,Burma,FY 2009,151,Animist,54,452
+From: 10 Jun 2009,To: 10 Jun 2009,Burma,FY 2009,151,Buddhist,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Burma,FY 2009,151,Catholic,42,452
+From: 10 Jun 2009,To: 10 Jun 2009,Burma,FY 2009,151,Christian,46,452
+From: 10 Jun 2009,To: 10 Jun 2009,Cuba,FY 2009,64,Catholic,22,452
+From: 10 Jun 2009,To: 10 Jun 2009,Cuba,FY 2009,64,Jehovah Witness,29,452
+From: 10 Jun 2009,To: 10 Jun 2009,Cuba,FY 2009,64,No Religion,10,452
+From: 10 Jun 2009,To: 10 Jun 2009,Cuba,FY 2009,64,Pentecostalist,3,452
+From: 10 Jun 2009,To: 10 Jun 2009,Ethiopia,FY 2009,2,Orthodox,2,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iran,FY 2009,35,Christian,35,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Catholic,4,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Christian,12,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Moslem,1,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Moslem Shiite,15,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Moslem Suni,33,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Orthodox,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Iraq,FY 2009,83,Sabeans-Mandean,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moldova,FY 2009,14,Baptist,8,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moldova,FY 2009,14,Pentecostalist,4,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moldova,FY 2009,14,Seventh Day Adventist,2,452
+From: 10 Jun 2009,To: 10 Jun 2009,Russia,FY 2009,23,Moslem Suni,6,452
+From: 10 Jun 2009,To: 10 Jun 2009,Russia,FY 2009,23,Pentecostalist,12,452
+From: 10 Jun 2009,To: 10 Jun 2009,Russia,FY 2009,23,Seventh Day Adventist,5,452
+From: 10 Jun 2009,To: 10 Jun 2009,Somalia,FY 2009,30,Moslem,30,452
+From: 10 Jun 2009,To: 10 Jun 2009,Ukraine,FY 2009,4,Seventh Day Adventist,4,452
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jun 2009,To: 10 Jun 2009,Animist,FY 2009,54,Burma,54,452
+From: 10 Jun 2009,To: 10 Jun 2009,Baptist,FY 2009,8,Moldova,8,452
+From: 10 Jun 2009,To: 10 Jun 2009,Buddhist,FY 2009,11,Bhutan,2,452
+From: 10 Jun 2009,To: 10 Jun 2009,Buddhist,FY 2009,11,Burma,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Catholic,FY 2009,68,Burma,42,452
+From: 10 Jun 2009,To: 10 Jun 2009,Catholic,FY 2009,68,Cuba,22,452
+From: 10 Jun 2009,To: 10 Jun 2009,Catholic,FY 2009,68,Iraq,4,452
+From: 10 Jun 2009,To: 10 Jun 2009,Christian,FY 2009,102,Bhutan,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Christian,FY 2009,102,Burma,46,452
+From: 10 Jun 2009,To: 10 Jun 2009,Christian,FY 2009,102,Iran,35,452
+From: 10 Jun 2009,To: 10 Jun 2009,Christian,FY 2009,102,Iraq,12,452
+From: 10 Jun 2009,To: 10 Jun 2009,Hindu,FY 2009,34,Bhutan,34,452
+From: 10 Jun 2009,To: 10 Jun 2009,Jehovah Witness,FY 2009,29,Cuba,29,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moslem,FY 2009,31,Iraq,1,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moslem,FY 2009,31,Somalia,30,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moslem Shiite,FY 2009,15,Iraq,15,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moslem Suni,FY 2009,40,Afghanistan,1,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moslem Suni,FY 2009,40,Iraq,33,452
+From: 10 Jun 2009,To: 10 Jun 2009,Moslem Suni,FY 2009,40,Russia,6,452
+From: 10 Jun 2009,To: 10 Jun 2009,No Religion,FY 2009,10,Cuba,10,452
+From: 10 Jun 2009,To: 10 Jun 2009,Orthodox,FY 2009,11,Ethiopia,2,452
+From: 10 Jun 2009,To: 10 Jun 2009,Orthodox,FY 2009,11,Iraq,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Pentecostalist,FY 2009,19,Cuba,3,452
+From: 10 Jun 2009,To: 10 Jun 2009,Pentecostalist,FY 2009,19,Moldova,4,452
+From: 10 Jun 2009,To: 10 Jun 2009,Pentecostalist,FY 2009,19,Russia,12,452
+From: 10 Jun 2009,To: 10 Jun 2009,Sabeans-Mandean,FY 2009,9,Iraq,9,452
+From: 10 Jun 2009,To: 10 Jun 2009,Seventh Day Adventist,FY 2009,11,Moldova,2,452
+From: 10 Jun 2009,To: 10 Jun 2009,Seventh Day Adventist,FY 2009,11,Russia,5,452
+From: 10 Jun 2009,To: 10 Jun 2009,Seventh Day Adventist,FY 2009,11,Ukraine,4,452
+

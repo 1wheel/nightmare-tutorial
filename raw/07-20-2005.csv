@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Jul 2005,To: 20 Jul 2005,Burma,FY 2005,35,Buddhist,24,424
+From: 20 Jul 2005,To: 20 Jul 2005,Burma,FY 2005,35,Moslem,4,424
+From: 20 Jul 2005,To: 20 Jul 2005,Burma,FY 2005,35,Protestant,7,424
+From: 20 Jul 2005,To: 20 Jul 2005,Cuba,FY 2005,60,Catholic,29,424
+From: 20 Jul 2005,To: 20 Jul 2005,Cuba,FY 2005,60,Christian,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Cuba,FY 2005,60,Jehovah Witness,4,424
+From: 20 Jul 2005,To: 20 Jul 2005,Cuba,FY 2005,60,No Religion,21,424
+From: 20 Jul 2005,To: 20 Jul 2005,Cuba,FY 2005,60,Pentecostalist,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Ethiopia,FY 2005,1,Orthodox,1,424
+From: 20 Jul 2005,To: 20 Jul 2005,Laos,FY 2005,9,Christian,9,424
+From: 20 Jul 2005,To: 20 Jul 2005,Liberia,FY 2005,53,Baptist,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Liberia,FY 2005,53,Catholic,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Liberia,FY 2005,53,Christian,41,424
+From: 20 Jul 2005,To: 20 Jul 2005,Liberia,FY 2005,53,Lutheran,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Liberia,FY 2005,53,Methodist,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Liberia,FY 2005,53,Moslem,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Russia,FY 2005,70,Moslem,70,424
+From: 20 Jul 2005,To: 20 Jul 2005,Sierra Leone,FY 2005,9,Catholic,7,424
+From: 20 Jul 2005,To: 20 Jul 2005,Sierra Leone,FY 2005,9,Moslem,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Somalia,FY 2005,116,Moslem,116,424
+From: 20 Jul 2005,To: 20 Jul 2005,Sudan,FY 2005,34,Catholic,13,424
+From: 20 Jul 2005,To: 20 Jul 2005,Sudan,FY 2005,34,Christian,5,424
+From: 20 Jul 2005,To: 20 Jul 2005,Sudan,FY 2005,34,Moslem,16,424
+From: 20 Jul 2005,To: 20 Jul 2005,Ukraine,FY 2005,30,Baptist,16,424
+From: 20 Jul 2005,To: 20 Jul 2005,Ukraine,FY 2005,30,Pentecostalist,14,424
+From: 20 Jul 2005,To: 20 Jul 2005,Uzbekistan,FY 2005,7,Moslem,7,424
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Jul 2005,To: 20 Jul 2005,Baptist,FY 2005,19,Liberia,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Baptist,FY 2005,19,Ukraine,16,424
+From: 20 Jul 2005,To: 20 Jul 2005,Buddhist,FY 2005,24,Burma,24,424
+From: 20 Jul 2005,To: 20 Jul 2005,Catholic,FY 2005,51,Cuba,29,424
+From: 20 Jul 2005,To: 20 Jul 2005,Catholic,FY 2005,51,Liberia,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Catholic,FY 2005,51,Sierra Leone,7,424
+From: 20 Jul 2005,To: 20 Jul 2005,Catholic,FY 2005,51,Sudan,13,424
+From: 20 Jul 2005,To: 20 Jul 2005,Christian,FY 2005,58,Cuba,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Christian,FY 2005,58,Laos,9,424
+From: 20 Jul 2005,To: 20 Jul 2005,Christian,FY 2005,58,Liberia,41,424
+From: 20 Jul 2005,To: 20 Jul 2005,Christian,FY 2005,58,Sudan,5,424
+From: 20 Jul 2005,To: 20 Jul 2005,Jehovah Witness,FY 2005,4,Cuba,4,424
+From: 20 Jul 2005,To: 20 Jul 2005,Lutheran,FY 2005,2,Liberia,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Methodist,FY 2005,3,Liberia,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Burma,4,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Liberia,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Russia,70,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Sierra Leone,2,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Somalia,116,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Sudan,16,424
+From: 20 Jul 2005,To: 20 Jul 2005,Moslem,FY 2005,217,Uzbekistan,7,424
+From: 20 Jul 2005,To: 20 Jul 2005,No Religion,FY 2005,21,Cuba,21,424
+From: 20 Jul 2005,To: 20 Jul 2005,Orthodox,FY 2005,1,Ethiopia,1,424
+From: 20 Jul 2005,To: 20 Jul 2005,Pentecostalist,FY 2005,17,Cuba,3,424
+From: 20 Jul 2005,To: 20 Jul 2005,Pentecostalist,FY 2005,17,Ukraine,14,424
+From: 20 Jul 2005,To: 20 Jul 2005,Protestant,FY 2005,7,Burma,7,424
+

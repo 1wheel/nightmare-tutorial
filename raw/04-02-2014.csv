@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Apr 2014,To: 02 Apr 2014,Bhutan,FY 2014,29,Buddhist,15,191
+From: 02 Apr 2014,To: 02 Apr 2014,Bhutan,FY 2014,29,Hindu,6,191
+From: 02 Apr 2014,To: 02 Apr 2014,Bhutan,FY 2014,29,Kirat,8,191
+From: 02 Apr 2014,To: 02 Apr 2014,Burma,FY 2014,94,Buddhist,15,191
+From: 02 Apr 2014,To: 02 Apr 2014,Burma,FY 2014,94,Catholic,4,191
+From: 02 Apr 2014,To: 02 Apr 2014,Burma,FY 2014,94,Christian,61,191
+From: 02 Apr 2014,To: 02 Apr 2014,Burma,FY 2014,94,Moslem,14,191
+From: 02 Apr 2014,To: 02 Apr 2014,Eritrea,FY 2014,3,Catholic,3,191
+From: 02 Apr 2014,To: 02 Apr 2014,Iraq,FY 2014,34,Catholic,1,191
+From: 02 Apr 2014,To: 02 Apr 2014,Iraq,FY 2014,34,Moslem Shiite,13,191
+From: 02 Apr 2014,To: 02 Apr 2014,Iraq,FY 2014,34,Moslem Suni,20,191
+From: 02 Apr 2014,To: 02 Apr 2014,Russia,FY 2014,4,Pentecostalist,4,191
+From: 02 Apr 2014,To: 02 Apr 2014,Somalia,FY 2014,27,Moslem,27,191
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Apr 2014,To: 02 Apr 2014,Buddhist,FY 2014,30,Bhutan,15,191
+From: 02 Apr 2014,To: 02 Apr 2014,Buddhist,FY 2014,30,Burma,15,191
+From: 02 Apr 2014,To: 02 Apr 2014,Catholic,FY 2014,8,Burma,4,191
+From: 02 Apr 2014,To: 02 Apr 2014,Catholic,FY 2014,8,Eritrea,3,191
+From: 02 Apr 2014,To: 02 Apr 2014,Catholic,FY 2014,8,Iraq,1,191
+From: 02 Apr 2014,To: 02 Apr 2014,Christian,FY 2014,61,Burma,61,191
+From: 02 Apr 2014,To: 02 Apr 2014,Hindu,FY 2014,6,Bhutan,6,191
+From: 02 Apr 2014,To: 02 Apr 2014,Kirat,FY 2014,8,Bhutan,8,191
+From: 02 Apr 2014,To: 02 Apr 2014,Moslem,FY 2014,41,Burma,14,191
+From: 02 Apr 2014,To: 02 Apr 2014,Moslem,FY 2014,41,Somalia,27,191
+From: 02 Apr 2014,To: 02 Apr 2014,Moslem Shiite,FY 2014,13,Iraq,13,191
+From: 02 Apr 2014,To: 02 Apr 2014,Moslem Suni,FY 2014,20,Iraq,20,191
+From: 02 Apr 2014,To: 02 Apr 2014,Pentecostalist,FY 2014,4,Russia,4,191
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jun 2010,To: 01 Jun 2010,Afghanistan,FY 2010,5,Moslem,5,398
+From: 01 Jun 2010,To: 01 Jun 2010,Bhutan,FY 2010,35,Buddhist,2,398
+From: 01 Jun 2010,To: 01 Jun 2010,Bhutan,FY 2010,35,Christian,1,398
+From: 01 Jun 2010,To: 01 Jun 2010,Bhutan,FY 2010,35,Hindu,32,398
+From: 01 Jun 2010,To: 01 Jun 2010,Burma,FY 2010,101,Animist,6,398
+From: 01 Jun 2010,To: 01 Jun 2010,Burma,FY 2010,101,Buddhist,10,398
+From: 01 Jun 2010,To: 01 Jun 2010,Burma,FY 2010,101,Catholic,13,398
+From: 01 Jun 2010,To: 01 Jun 2010,Burma,FY 2010,101,Christian,72,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cuba,FY 2010,68,Baptist,3,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cuba,FY 2010,68,Cao Dai,1,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cuba,FY 2010,68,Catholic,23,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cuba,FY 2010,68,Evangelical Christian,2,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cuba,FY 2010,68,Jehovah Witness,21,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cuba,FY 2010,68,No Religion,18,398
+From: 01 Jun 2010,To: 01 Jun 2010,Eritrea,FY 2010,26,Moslem,12,398
+From: 01 Jun 2010,To: 01 Jun 2010,Eritrea,FY 2010,26,Orthodox,14,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iran,FY 2010,18,Bahai,3,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iran,FY 2010,18,Christian,10,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iran,FY 2010,18,Zoroastrian,5,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iraq,FY 2010,141,Catholic,26,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iraq,FY 2010,141,Christian,39,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iraq,FY 2010,141,Moslem Shiite,23,398
+From: 01 Jun 2010,To: 01 Jun 2010,Iraq,FY 2010,141,Moslem Suni,53,398
+From: 01 Jun 2010,To: 01 Jun 2010,Somalia,FY 2010,4,Moslem,4,398
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jun 2010,To: 01 Jun 2010,Animist,FY 2010,6,Burma,6,398
+From: 01 Jun 2010,To: 01 Jun 2010,Bahai,FY 2010,3,Iran,3,398
+From: 01 Jun 2010,To: 01 Jun 2010,Baptist,FY 2010,3,Cuba,3,398
+From: 01 Jun 2010,To: 01 Jun 2010,Buddhist,FY 2010,12,Bhutan,2,398
+From: 01 Jun 2010,To: 01 Jun 2010,Buddhist,FY 2010,12,Burma,10,398
+From: 01 Jun 2010,To: 01 Jun 2010,Cao Dai,FY 2010,1,Cuba,1,398
+From: 01 Jun 2010,To: 01 Jun 2010,Catholic,FY 2010,62,Burma,13,398
+From: 01 Jun 2010,To: 01 Jun 2010,Catholic,FY 2010,62,Cuba,23,398
+From: 01 Jun 2010,To: 01 Jun 2010,Catholic,FY 2010,62,Iraq,26,398
+From: 01 Jun 2010,To: 01 Jun 2010,Christian,FY 2010,122,Bhutan,1,398
+From: 01 Jun 2010,To: 01 Jun 2010,Christian,FY 2010,122,Burma,72,398
+From: 01 Jun 2010,To: 01 Jun 2010,Christian,FY 2010,122,Iran,10,398
+From: 01 Jun 2010,To: 01 Jun 2010,Christian,FY 2010,122,Iraq,39,398
+From: 01 Jun 2010,To: 01 Jun 2010,Evangelical Christian,FY 2010,2,Cuba,2,398
+From: 01 Jun 2010,To: 01 Jun 2010,Hindu,FY 2010,32,Bhutan,32,398
+From: 01 Jun 2010,To: 01 Jun 2010,Jehovah Witness,FY 2010,21,Cuba,21,398
+From: 01 Jun 2010,To: 01 Jun 2010,Moslem,FY 2010,21,Afghanistan,5,398
+From: 01 Jun 2010,To: 01 Jun 2010,Moslem,FY 2010,21,Eritrea,12,398
+From: 01 Jun 2010,To: 01 Jun 2010,Moslem,FY 2010,21,Somalia,4,398
+From: 01 Jun 2010,To: 01 Jun 2010,Moslem Shiite,FY 2010,23,Iraq,23,398
+From: 01 Jun 2010,To: 01 Jun 2010,Moslem Suni,FY 2010,53,Iraq,53,398
+From: 01 Jun 2010,To: 01 Jun 2010,No Religion,FY 2010,18,Cuba,18,398
+From: 01 Jun 2010,To: 01 Jun 2010,Orthodox,FY 2010,14,Eritrea,14,398
+From: 01 Jun 2010,To: 01 Jun 2010,Zoroastrian,FY 2010,5,Iran,5,398
+

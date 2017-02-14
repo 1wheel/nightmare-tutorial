@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Feb 2007,To: 12 Feb 2007,Ethiopia,FY 2007,1,Christian,1,80
+From: 12 Feb 2007,To: 12 Feb 2007,Iran,FY 2007,19,Christian,18,80
+From: 12 Feb 2007,To: 12 Feb 2007,Iran,FY 2007,19,Zoroastrian,1,80
+From: 12 Feb 2007,To: 12 Feb 2007,Liberia,FY 2007,33,Christian,26,80
+From: 12 Feb 2007,To: 12 Feb 2007,Liberia,FY 2007,33,Methodist,4,80
+From: 12 Feb 2007,To: 12 Feb 2007,Liberia,FY 2007,33,Pentecostalist,2,80
+From: 12 Feb 2007,To: 12 Feb 2007,Liberia,FY 2007,33,Protestant,1,80
+From: 12 Feb 2007,To: 12 Feb 2007,Russia,FY 2007,27,Moslem,27,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Feb 2007,To: 12 Feb 2007,Christian,FY 2007,45,Ethiopia,1,80
+From: 12 Feb 2007,To: 12 Feb 2007,Christian,FY 2007,45,Iran,18,80
+From: 12 Feb 2007,To: 12 Feb 2007,Christian,FY 2007,45,Liberia,26,80
+From: 12 Feb 2007,To: 12 Feb 2007,Methodist,FY 2007,4,Liberia,4,80
+From: 12 Feb 2007,To: 12 Feb 2007,Moslem,FY 2007,27,Russia,27,80
+From: 12 Feb 2007,To: 12 Feb 2007,Pentecostalist,FY 2007,2,Liberia,2,80
+From: 12 Feb 2007,To: 12 Feb 2007,Protestant,FY 2007,1,Liberia,1,80
+From: 12 Feb 2007,To: 12 Feb 2007,Zoroastrian,FY 2007,1,Iran,1,80
+

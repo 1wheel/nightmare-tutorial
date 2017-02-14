@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Aug 2007,To: 29 Aug 2007,Burma,FY 2007,247,Buddhist,45,549
+From: 29 Aug 2007,To: 29 Aug 2007,Burma,FY 2007,247,Christian,155,549
+From: 29 Aug 2007,To: 29 Aug 2007,Burma,FY 2007,247,Moslem,47,549
+From: 29 Aug 2007,To: 29 Aug 2007,Eritrea,FY 2007,35,Catholic,22,549
+From: 29 Aug 2007,To: 29 Aug 2007,Eritrea,FY 2007,35,Christian,5,549
+From: 29 Aug 2007,To: 29 Aug 2007,Eritrea,FY 2007,35,Moslem,3,549
+From: 29 Aug 2007,To: 29 Aug 2007,Eritrea,FY 2007,35,Orthodox,3,549
+From: 29 Aug 2007,To: 29 Aug 2007,Eritrea,FY 2007,35,Protestant,2,549
+From: 29 Aug 2007,To: 29 Aug 2007,Ethiopia,FY 2007,9,Moslem,9,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iran,FY 2007,20,Christian,20,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iraq,FY 2007,109,Catholic,70,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iraq,FY 2007,109,Christian,9,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iraq,FY 2007,109,Moslem,8,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iraq,FY 2007,109,Moslem Shiite,11,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iraq,FY 2007,109,Moslem Suni,9,549
+From: 29 Aug 2007,To: 29 Aug 2007,Iraq,FY 2007,109,Sabeans-Mandean,2,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moldova,FY 2007,31,Baptist,21,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moldova,FY 2007,31,Pentecostalist,10,549
+From: 29 Aug 2007,To: 29 Aug 2007,Somalia,FY 2007,97,Moslem,97,549
+From: 29 Aug 2007,To: 29 Aug 2007,Sudan,FY 2007,1,Unknown,1,549
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Aug 2007,To: 29 Aug 2007,Baptist,FY 2007,21,Moldova,21,549
+From: 29 Aug 2007,To: 29 Aug 2007,Buddhist,FY 2007,45,Burma,45,549
+From: 29 Aug 2007,To: 29 Aug 2007,Catholic,FY 2007,92,Eritrea,22,549
+From: 29 Aug 2007,To: 29 Aug 2007,Catholic,FY 2007,92,Iraq,70,549
+From: 29 Aug 2007,To: 29 Aug 2007,Christian,FY 2007,189,Burma,155,549
+From: 29 Aug 2007,To: 29 Aug 2007,Christian,FY 2007,189,Eritrea,5,549
+From: 29 Aug 2007,To: 29 Aug 2007,Christian,FY 2007,189,Iran,20,549
+From: 29 Aug 2007,To: 29 Aug 2007,Christian,FY 2007,189,Iraq,9,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem,FY 2007,164,Burma,47,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem,FY 2007,164,Eritrea,3,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem,FY 2007,164,Ethiopia,9,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem,FY 2007,164,Iraq,8,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem,FY 2007,164,Somalia,97,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem Shiite,FY 2007,11,Iraq,11,549
+From: 29 Aug 2007,To: 29 Aug 2007,Moslem Suni,FY 2007,9,Iraq,9,549
+From: 29 Aug 2007,To: 29 Aug 2007,Orthodox,FY 2007,3,Eritrea,3,549
+From: 29 Aug 2007,To: 29 Aug 2007,Pentecostalist,FY 2007,10,Moldova,10,549
+From: 29 Aug 2007,To: 29 Aug 2007,Protestant,FY 2007,2,Eritrea,2,549
+From: 29 Aug 2007,To: 29 Aug 2007,Sabeans-Mandean,FY 2007,2,Iraq,2,549
+From: 29 Aug 2007,To: 29 Aug 2007,Unknown,FY 2007,1,Sudan,1,549
+

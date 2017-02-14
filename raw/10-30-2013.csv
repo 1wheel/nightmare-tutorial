@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Oct 2013,To: 30 Oct 2013,Afghanistan,FY 2014,1,Moslem Shiite,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Bhutan,FY 2014,112,Buddhist,41,432
+From: 30 Oct 2013,To: 30 Oct 2013,Bhutan,FY 2014,112,Christian,11,432
+From: 30 Oct 2013,To: 30 Oct 2013,Bhutan,FY 2014,112,Hindu,46,432
+From: 30 Oct 2013,To: 30 Oct 2013,Bhutan,FY 2014,112,Kirat,14,432
+From: 30 Oct 2013,To: 30 Oct 2013,Burma,FY 2014,133,Animist,11,432
+From: 30 Oct 2013,To: 30 Oct 2013,Burma,FY 2014,133,Baptist,6,432
+From: 30 Oct 2013,To: 30 Oct 2013,Burma,FY 2014,133,Buddhist,22,432
+From: 30 Oct 2013,To: 30 Oct 2013,Burma,FY 2014,133,Catholic,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Burma,FY 2014,133,Christian,74,432
+From: 30 Oct 2013,To: 30 Oct 2013,Burma,FY 2014,133,Moslem,19,432
+From: 30 Oct 2013,To: 30 Oct 2013,Eritrea,FY 2014,13,Orthodox,13,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iran,FY 2014,40,Bahai,14,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iran,FY 2014,40,Christian,19,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iran,FY 2014,40,Moslem Shiite,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iran,FY 2014,40,Moslem Suni,2,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iran,FY 2014,40,Protestant,3,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iran,FY 2014,40,Sabeans-Mandean,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Catholic,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Christian,38,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Moslem,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Moslem Shiite,24,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Moslem Suni,50,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Orthodox,5,432
+From: 30 Oct 2013,To: 30 Oct 2013,Iraq,FY 2014,121,Sabeans-Mandean,2,432
+From: 30 Oct 2013,To: 30 Oct 2013,Somalia,FY 2014,4,Moslem,4,432
+From: 30 Oct 2013,To: 30 Oct 2013,Sudan,FY 2014,4,Moslem,3,432
+From: 30 Oct 2013,To: 30 Oct 2013,Sudan,FY 2014,4,Moslem Suni,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Syria,FY 2014,2,Christian,2,432
+From: 30 Oct 2013,To: 30 Oct 2013,Uzbekistan,FY 2014,2,Jewish,2,432
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Oct 2013,To: 30 Oct 2013,Animist,FY 2014,11,Burma,11,432
+From: 30 Oct 2013,To: 30 Oct 2013,Bahai,FY 2014,14,Iran,14,432
+From: 30 Oct 2013,To: 30 Oct 2013,Baptist,FY 2014,6,Burma,6,432
+From: 30 Oct 2013,To: 30 Oct 2013,Buddhist,FY 2014,63,Bhutan,41,432
+From: 30 Oct 2013,To: 30 Oct 2013,Buddhist,FY 2014,63,Burma,22,432
+From: 30 Oct 2013,To: 30 Oct 2013,Catholic,FY 2014,2,Burma,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Catholic,FY 2014,2,Iraq,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Christian,FY 2014,144,Bhutan,11,432
+From: 30 Oct 2013,To: 30 Oct 2013,Christian,FY 2014,144,Burma,74,432
+From: 30 Oct 2013,To: 30 Oct 2013,Christian,FY 2014,144,Iran,19,432
+From: 30 Oct 2013,To: 30 Oct 2013,Christian,FY 2014,144,Iraq,38,432
+From: 30 Oct 2013,To: 30 Oct 2013,Christian,FY 2014,144,Syria,2,432
+From: 30 Oct 2013,To: 30 Oct 2013,Hindu,FY 2014,46,Bhutan,46,432
+From: 30 Oct 2013,To: 30 Oct 2013,Jewish,FY 2014,2,Uzbekistan,2,432
+From: 30 Oct 2013,To: 30 Oct 2013,Kirat,FY 2014,14,Bhutan,14,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem,FY 2014,27,Burma,19,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem,FY 2014,27,Iraq,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem,FY 2014,27,Somalia,4,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem,FY 2014,27,Sudan,3,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem Shiite,FY 2014,26,Afghanistan,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem Shiite,FY 2014,26,Iran,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem Shiite,FY 2014,26,Iraq,24,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem Suni,FY 2014,53,Iran,2,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem Suni,FY 2014,53,Iraq,50,432
+From: 30 Oct 2013,To: 30 Oct 2013,Moslem Suni,FY 2014,53,Sudan,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Orthodox,FY 2014,18,Eritrea,13,432
+From: 30 Oct 2013,To: 30 Oct 2013,Orthodox,FY 2014,18,Iraq,5,432
+From: 30 Oct 2013,To: 30 Oct 2013,Protestant,FY 2014,3,Iran,3,432
+From: 30 Oct 2013,To: 30 Oct 2013,Sabeans-Mandean,FY 2014,3,Iran,1,432
+From: 30 Oct 2013,To: 30 Oct 2013,Sabeans-Mandean,FY 2014,3,Iraq,2,432
+

@@ -1,0 +1,95 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Sep 2004,To: 15 Sep 2004,Afghanistan,FY 2004,13,Moslem,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Afghanistan,FY 2004,13,Moslem Shiite,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Afghanistan,FY 2004,13,Moslem Suni,10,702
+From: 15 Sep 2004,To: 15 Sep 2004,Belarus,FY 2004,34,Jewish,9,702
+From: 15 Sep 2004,To: 15 Sep 2004,Belarus,FY 2004,34,Pentecostalist,25,702
+From: 15 Sep 2004,To: 15 Sep 2004,Cuba,FY 2004,62,Catholic,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Cuba,FY 2004,62,Jehovah Witness,5,702
+From: 15 Sep 2004,To: 15 Sep 2004,Cuba,FY 2004,62,No Religion,47,702
+From: 15 Sep 2004,To: 15 Sep 2004,Cuba,FY 2004,62,Orthodox,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Eritrea,FY 2004,1,Jehovah Witness,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ethiopia,FY 2004,40,Christian,11,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ethiopia,FY 2004,40,Moslem,26,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ethiopia,FY 2004,40,Orthodox,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Laos,FY 2004,230,Ancestral Worship,210,702
+From: 15 Sep 2004,To: 15 Sep 2004,Laos,FY 2004,230,Christian,20,702
+From: 15 Sep 2004,To: 15 Sep 2004,Liberia,FY 2004,57,Christian,50,702
+From: 15 Sep 2004,To: 15 Sep 2004,Liberia,FY 2004,57,Lutheran,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Pakistan,FY 2004,1,Moslem Suni,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Russia,FY 2004,12,Baptist,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Russia,FY 2004,12,Jewish,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Russia,FY 2004,12,No Religion,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sierra Leone,FY 2004,52,Bahai,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sierra Leone,FY 2004,52,Catholic,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sierra Leone,FY 2004,52,Christian,13,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sierra Leone,FY 2004,52,Moslem,26,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sierra Leone,FY 2004,52,Pentecostalist,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sierra Leone,FY 2004,52,Protestant,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Somalia,FY 2004,103,Moslem,103,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sudan,FY 2004,26,Catholic,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sudan,FY 2004,26,Christian,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sudan,FY 2004,26,Evangelical Christian,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sudan,FY 2004,26,Moslem,12,702
+From: 15 Sep 2004,To: 15 Sep 2004,Sudan,FY 2004,26,Protestant,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ukraine,FY 2004,34,Baptist,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ukraine,FY 2004,34,Jehovah Witness,9,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ukraine,FY 2004,34,Jewish,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ukraine,FY 2004,34,No Religion,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Ukraine,FY 2004,34,Pentecostalist,17,702
+From: 15 Sep 2004,To: 15 Sep 2004,Uzbekistan,FY 2004,5,Moslem Suni,5,702
+From: 15 Sep 2004,To: 15 Sep 2004,Vietnam,FY 2004,32,Buddhist,9,702
+From: 15 Sep 2004,To: 15 Sep 2004,Vietnam,FY 2004,32,Catholic,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Vietnam,FY 2004,32,No Religion,13,702
+From: 15 Sep 2004,To: 15 Sep 2004,Vietnam,FY 2004,32,Protestant,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Vietnam,FY 2004,32,Unknown,2,702
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Sep 2004,To: 15 Sep 2004,Ancestral Worship,FY 2004,210,Laos,210,702
+From: 15 Sep 2004,To: 15 Sep 2004,Bahai,FY 2004,2,Sierra Leone,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Baptist,FY 2004,7,Russia,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Baptist,FY 2004,7,Ukraine,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Buddhist,FY 2004,9,Vietnam,9,702
+From: 15 Sep 2004,To: 15 Sep 2004,Catholic,FY 2004,25,Cuba,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Catholic,FY 2004,25,Sierra Leone,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Catholic,FY 2004,25,Sudan,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Catholic,FY 2004,25,Vietnam,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Christian,FY 2004,96,Ethiopia,11,702
+From: 15 Sep 2004,To: 15 Sep 2004,Christian,FY 2004,96,Laos,20,702
+From: 15 Sep 2004,To: 15 Sep 2004,Christian,FY 2004,96,Liberia,50,702
+From: 15 Sep 2004,To: 15 Sep 2004,Christian,FY 2004,96,Sierra Leone,13,702
+From: 15 Sep 2004,To: 15 Sep 2004,Christian,FY 2004,96,Sudan,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Evangelical Christian,FY 2004,2,Sudan,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Jehovah Witness,FY 2004,15,Cuba,5,702
+From: 15 Sep 2004,To: 15 Sep 2004,Jehovah Witness,FY 2004,15,Eritrea,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Jehovah Witness,FY 2004,15,Ukraine,9,702
+From: 15 Sep 2004,To: 15 Sep 2004,Jewish,FY 2004,16,Belarus,9,702
+From: 15 Sep 2004,To: 15 Sep 2004,Jewish,FY 2004,16,Russia,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Jewish,FY 2004,16,Ukraine,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Lutheran,FY 2004,7,Liberia,7,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem,FY 2004,168,Afghanistan,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem,FY 2004,168,Ethiopia,26,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem,FY 2004,168,Sierra Leone,26,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem,FY 2004,168,Somalia,103,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem,FY 2004,168,Sudan,12,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem Shiite,FY 2004,2,Afghanistan,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem Suni,FY 2004,16,Afghanistan,10,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem Suni,FY 2004,16,Pakistan,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Moslem Suni,FY 2004,16,Uzbekistan,5,702
+From: 15 Sep 2004,To: 15 Sep 2004,No Religion,FY 2004,66,Cuba,47,702
+From: 15 Sep 2004,To: 15 Sep 2004,No Religion,FY 2004,66,Russia,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,No Religion,FY 2004,66,Ukraine,2,702
+From: 15 Sep 2004,To: 15 Sep 2004,No Religion,FY 2004,66,Vietnam,13,702
+From: 15 Sep 2004,To: 15 Sep 2004,Orthodox,FY 2004,6,Cuba,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Orthodox,FY 2004,6,Ethiopia,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Pentecostalist,FY 2004,45,Belarus,25,702
+From: 15 Sep 2004,To: 15 Sep 2004,Pentecostalist,FY 2004,45,Sierra Leone,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Pentecostalist,FY 2004,45,Ukraine,17,702
+From: 15 Sep 2004,To: 15 Sep 2004,Protestant,FY 2004,8,Sierra Leone,1,702
+From: 15 Sep 2004,To: 15 Sep 2004,Protestant,FY 2004,8,Sudan,3,702
+From: 15 Sep 2004,To: 15 Sep 2004,Protestant,FY 2004,8,Vietnam,4,702
+From: 15 Sep 2004,To: 15 Sep 2004,Unknown,FY 2004,2,Vietnam,2,702
+

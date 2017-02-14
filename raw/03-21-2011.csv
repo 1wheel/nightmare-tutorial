@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Mar 2011,To: 21 Mar 2011,Burma,FY 2011,8,Buddhist,3,31
+From: 21 Mar 2011,To: 21 Mar 2011,Burma,FY 2011,8,Christian,5,31
+From: 21 Mar 2011,To: 21 Mar 2011,Burundi,FY 2011,2,Christian,2,31
+From: 21 Mar 2011,To: 21 Mar 2011,Dem. Rep. Congo,FY 2011,3,Protestant,3,31
+From: 21 Mar 2011,To: 21 Mar 2011,Iraq,FY 2011,14,Moslem Shiite,2,31
+From: 21 Mar 2011,To: 21 Mar 2011,Iraq,FY 2011,14,Moslem Suni,12,31
+From: 21 Mar 2011,To: 21 Mar 2011,Kazakhstan,FY 2011,4,Seventh Day Adventist,4,31
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Mar 2011,To: 21 Mar 2011,Buddhist,FY 2011,3,Burma,3,31
+From: 21 Mar 2011,To: 21 Mar 2011,Christian,FY 2011,7,Burma,5,31
+From: 21 Mar 2011,To: 21 Mar 2011,Christian,FY 2011,7,Burundi,2,31
+From: 21 Mar 2011,To: 21 Mar 2011,Moslem Shiite,FY 2011,2,Iraq,2,31
+From: 21 Mar 2011,To: 21 Mar 2011,Moslem Suni,FY 2011,12,Iraq,12,31
+From: 21 Mar 2011,To: 21 Mar 2011,Protestant,FY 2011,3,Dem. Rep. Congo,3,31
+From: 21 Mar 2011,To: 21 Mar 2011,Seventh Day Adventist,FY 2011,4,Kazakhstan,4,31
+

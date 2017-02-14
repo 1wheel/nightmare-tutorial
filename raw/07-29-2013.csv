@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jul 2013,To: 29 Jul 2013,Bhutan,FY 2013,33,Buddhist,7,212
+From: 29 Jul 2013,To: 29 Jul 2013,Bhutan,FY 2013,33,Hindu,16,212
+From: 29 Jul 2013,To: 29 Jul 2013,Bhutan,FY 2013,33,Kirat,10,212
+From: 29 Jul 2013,To: 29 Jul 2013,Burma,FY 2013,11,Buddhist,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Burma,FY 2013,11,Christian,9,212
+From: 29 Jul 2013,To: 29 Jul 2013,Burma,FY 2013,11,Moslem,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Eritrea,FY 2013,2,Christian,2,212
+From: 29 Jul 2013,To: 29 Jul 2013,Ethiopia,FY 2013,3,Moslem,3,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iran,FY 2013,12,Bahai,11,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iran,FY 2013,12,No Religion,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iraq,FY 2013,90,Catholic,8,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iraq,FY 2013,90,Moslem Shiite,37,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iraq,FY 2013,90,Moslem Suni,37,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iraq,FY 2013,90,No Religion,3,212
+From: 29 Jul 2013,To: 29 Jul 2013,Iraq,FY 2013,90,Orthodox,5,212
+From: 29 Jul 2013,To: 29 Jul 2013,Nepal,FY 2013,1,Hindu,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Somalia,FY 2013,31,Moslem,31,212
+From: 29 Jul 2013,To: 29 Jul 2013,Sudan,FY 2013,29,Catholic,3,212
+From: 29 Jul 2013,To: 29 Jul 2013,Sudan,FY 2013,29,Moslem,22,212
+From: 29 Jul 2013,To: 29 Jul 2013,Sudan,FY 2013,29,Moslem Suni,4,212
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jul 2013,To: 29 Jul 2013,Bahai,FY 2013,11,Iran,11,212
+From: 29 Jul 2013,To: 29 Jul 2013,Buddhist,FY 2013,8,Bhutan,7,212
+From: 29 Jul 2013,To: 29 Jul 2013,Buddhist,FY 2013,8,Burma,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Catholic,FY 2013,11,Iraq,8,212
+From: 29 Jul 2013,To: 29 Jul 2013,Catholic,FY 2013,11,Sudan,3,212
+From: 29 Jul 2013,To: 29 Jul 2013,Christian,FY 2013,11,Burma,9,212
+From: 29 Jul 2013,To: 29 Jul 2013,Christian,FY 2013,11,Eritrea,2,212
+From: 29 Jul 2013,To: 29 Jul 2013,Hindu,FY 2013,17,Bhutan,16,212
+From: 29 Jul 2013,To: 29 Jul 2013,Hindu,FY 2013,17,Nepal,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Kirat,FY 2013,10,Bhutan,10,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem,FY 2013,57,Burma,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem,FY 2013,57,Ethiopia,3,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem,FY 2013,57,Somalia,31,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem,FY 2013,57,Sudan,22,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem Shiite,FY 2013,37,Iraq,37,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem Suni,FY 2013,41,Iraq,37,212
+From: 29 Jul 2013,To: 29 Jul 2013,Moslem Suni,FY 2013,41,Sudan,4,212
+From: 29 Jul 2013,To: 29 Jul 2013,No Religion,FY 2013,4,Iran,1,212
+From: 29 Jul 2013,To: 29 Jul 2013,No Religion,FY 2013,4,Iraq,3,212
+From: 29 Jul 2013,To: 29 Jul 2013,Orthodox,FY 2013,5,Iraq,5,212
+

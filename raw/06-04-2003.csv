@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Jun 2003,To: 04 Jun 2003,Afghanistan,FY 2003,33,Moslem Shiite,7,204
+From: 04 Jun 2003,To: 04 Jun 2003,Afghanistan,FY 2003,33,Moslem Suni,26,204
+From: 04 Jun 2003,To: 04 Jun 2003,China,FY 2003,1,Buddhist,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Ethiopia,FY 2003,42,Christian,23,204
+From: 04 Jun 2003,To: 04 Jun 2003,Ethiopia,FY 2003,42,Moslem,13,204
+From: 04 Jun 2003,To: 04 Jun 2003,Ethiopia,FY 2003,42,Orthodox,6,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iran,FY 2003,19,Bahai,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iran,FY 2003,19,Christian,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iran,FY 2003,19,Jewish,2,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iran,FY 2003,19,Moslem Shiite,3,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iran,FY 2003,19,Other Religion,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iran,FY 2003,19,Zoroastrian,2,204
+From: 04 Jun 2003,To: 04 Jun 2003,Iraq,FY 2003,8,Moslem,8,204
+From: 04 Jun 2003,To: 04 Jun 2003,Liberia,FY 2003,19,Christian,18,204
+From: 04 Jun 2003,To: 04 Jun 2003,Liberia,FY 2003,19,Methodist,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Pakistan,FY 2003,1,Moslem,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Rwanda,FY 2003,1,Christian,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Sierra Leone,FY 2003,22,Christian,11,204
+From: 04 Jun 2003,To: 04 Jun 2003,Sierra Leone,FY 2003,22,Moslem,11,204
+From: 04 Jun 2003,To: 04 Jun 2003,Somalia,FY 2003,26,Moslem,26,204
+From: 04 Jun 2003,To: 04 Jun 2003,Sudan,FY 2003,31,Catholic,21,204
+From: 04 Jun 2003,To: 04 Jun 2003,Sudan,FY 2003,31,Christian,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Sudan,FY 2003,31,Moslem,5,204
+From: 04 Jun 2003,To: 04 Jun 2003,Sudan,FY 2003,31,Protestant,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Togo,FY 2003,1,Christian,1,204
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Jun 2003,To: 04 Jun 2003,Bahai,FY 2003,4,Iran,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Buddhist,FY 2003,1,China,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Catholic,FY 2003,21,Sudan,21,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Ethiopia,23,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Iran,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Liberia,18,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Rwanda,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Sierra Leone,11,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Sudan,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Christian,FY 2003,59,Togo,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Jewish,FY 2003,2,Iran,2,204
+From: 04 Jun 2003,To: 04 Jun 2003,Methodist,FY 2003,1,Liberia,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem,FY 2003,64,Ethiopia,13,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem,FY 2003,64,Iraq,8,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem,FY 2003,64,Pakistan,1,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem,FY 2003,64,Sierra Leone,11,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem,FY 2003,64,Somalia,26,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem,FY 2003,64,Sudan,5,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem Shiite,FY 2003,10,Afghanistan,7,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem Shiite,FY 2003,10,Iran,3,204
+From: 04 Jun 2003,To: 04 Jun 2003,Moslem Suni,FY 2003,26,Afghanistan,26,204
+From: 04 Jun 2003,To: 04 Jun 2003,Orthodox,FY 2003,6,Ethiopia,6,204
+From: 04 Jun 2003,To: 04 Jun 2003,Other Religion,FY 2003,4,Iran,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Protestant,FY 2003,4,Sudan,4,204
+From: 04 Jun 2003,To: 04 Jun 2003,Zoroastrian,FY 2003,2,Iran,2,204
+

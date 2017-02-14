@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Aug 2006,To: 30 Aug 2006,Burma,FY 2006,63,Buddhist,8,221
+From: 30 Aug 2006,To: 30 Aug 2006,Burma,FY 2006,63,Christian,55,221
+From: 30 Aug 2006,To: 30 Aug 2006,Iran,FY 2006,40,Catholic,1,221
+From: 30 Aug 2006,To: 30 Aug 2006,Iran,FY 2006,40,Christian,33,221
+From: 30 Aug 2006,To: 30 Aug 2006,Iran,FY 2006,40,Zoroastrian,6,221
+From: 30 Aug 2006,To: 30 Aug 2006,Liberia,FY 2006,12,Christian,11,221
+From: 30 Aug 2006,To: 30 Aug 2006,Liberia,FY 2006,12,Moslem,1,221
+From: 30 Aug 2006,To: 30 Aug 2006,Sierra Leone,FY 2006,14,Christian,2,221
+From: 30 Aug 2006,To: 30 Aug 2006,Sierra Leone,FY 2006,14,Moslem,12,221
+From: 30 Aug 2006,To: 30 Aug 2006,Somalia,FY 2006,63,Moslem,63,221
+From: 30 Aug 2006,To: 30 Aug 2006,Vietnam,FY 2006,29,Christian,25,221
+From: 30 Aug 2006,To: 30 Aug 2006,Vietnam,FY 2006,29,Protestant,4,221
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Aug 2006,To: 30 Aug 2006,Buddhist,FY 2006,8,Burma,8,221
+From: 30 Aug 2006,To: 30 Aug 2006,Catholic,FY 2006,1,Iran,1,221
+From: 30 Aug 2006,To: 30 Aug 2006,Christian,FY 2006,126,Burma,55,221
+From: 30 Aug 2006,To: 30 Aug 2006,Christian,FY 2006,126,Iran,33,221
+From: 30 Aug 2006,To: 30 Aug 2006,Christian,FY 2006,126,Liberia,11,221
+From: 30 Aug 2006,To: 30 Aug 2006,Christian,FY 2006,126,Sierra Leone,2,221
+From: 30 Aug 2006,To: 30 Aug 2006,Christian,FY 2006,126,Vietnam,25,221
+From: 30 Aug 2006,To: 30 Aug 2006,Moslem,FY 2006,76,Liberia,1,221
+From: 30 Aug 2006,To: 30 Aug 2006,Moslem,FY 2006,76,Sierra Leone,12,221
+From: 30 Aug 2006,To: 30 Aug 2006,Moslem,FY 2006,76,Somalia,63,221
+From: 30 Aug 2006,To: 30 Aug 2006,Protestant,FY 2006,4,Vietnam,4,221
+From: 30 Aug 2006,To: 30 Aug 2006,Zoroastrian,FY 2006,6,Iran,6,221
+

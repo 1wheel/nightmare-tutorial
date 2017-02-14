@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jul 2005,To: 29 Jul 2005,Afghanistan,FY 2005,1,Moslem,1,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,Baptist,2,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,Catholic,30,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,Christian,1,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,Jehovah Witness,8,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,Methodist,2,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,No Religion,18,197
+From: 29 Jul 2005,To: 29 Jul 2005,Cuba,FY 2005,68,Pentecostalist,7,197
+From: 29 Jul 2005,To: 29 Jul 2005,Iran,FY 2005,25,Bahai,24,197
+From: 29 Jul 2005,To: 29 Jul 2005,Iran,FY 2005,25,Moslem,1,197
+From: 29 Jul 2005,To: 29 Jul 2005,Laos,FY 2005,27,Ancestral Worship,27,197
+From: 29 Jul 2005,To: 29 Jul 2005,Russia,FY 2005,70,Moslem,70,197
+From: 29 Jul 2005,To: 29 Jul 2005,Somalia,FY 2005,6,Moslem,6,197
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jul 2005,To: 29 Jul 2005,Ancestral Worship,FY 2005,27,Laos,27,197
+From: 29 Jul 2005,To: 29 Jul 2005,Bahai,FY 2005,24,Iran,24,197
+From: 29 Jul 2005,To: 29 Jul 2005,Baptist,FY 2005,2,Cuba,2,197
+From: 29 Jul 2005,To: 29 Jul 2005,Catholic,FY 2005,30,Cuba,30,197
+From: 29 Jul 2005,To: 29 Jul 2005,Christian,FY 2005,1,Cuba,1,197
+From: 29 Jul 2005,To: 29 Jul 2005,Jehovah Witness,FY 2005,8,Cuba,8,197
+From: 29 Jul 2005,To: 29 Jul 2005,Methodist,FY 2005,2,Cuba,2,197
+From: 29 Jul 2005,To: 29 Jul 2005,Moslem,FY 2005,78,Afghanistan,1,197
+From: 29 Jul 2005,To: 29 Jul 2005,Moslem,FY 2005,78,Iran,1,197
+From: 29 Jul 2005,To: 29 Jul 2005,Moslem,FY 2005,78,Russia,70,197
+From: 29 Jul 2005,To: 29 Jul 2005,Moslem,FY 2005,78,Somalia,6,197
+From: 29 Jul 2005,To: 29 Jul 2005,No Religion,FY 2005,18,Cuba,18,197
+From: 29 Jul 2005,To: 29 Jul 2005,Pentecostalist,FY 2005,7,Cuba,7,197
+

@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Feb 2010,To: 22 Feb 2010,Burma,FY 2010,38,Buddhist,12,326
+From: 22 Feb 2010,To: 22 Feb 2010,Burma,FY 2010,38,Christian,25,326
+From: 22 Feb 2010,To: 22 Feb 2010,Burma,FY 2010,38,Moslem,1,326
+From: 22 Feb 2010,To: 22 Feb 2010,Congo,FY 2010,16,Catholic,6,326
+From: 22 Feb 2010,To: 22 Feb 2010,Congo,FY 2010,16,Christian,5,326
+From: 22 Feb 2010,To: 22 Feb 2010,Congo,FY 2010,16,Protestant,5,326
+From: 22 Feb 2010,To: 22 Feb 2010,Dem. Rep. Congo,FY 2010,19,Christian,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Dem. Rep. Congo,FY 2010,19,Protestant,15,326
+From: 22 Feb 2010,To: 22 Feb 2010,Ethiopia,FY 2010,13,Moslem,10,326
+From: 22 Feb 2010,To: 22 Feb 2010,Ethiopia,FY 2010,13,Pentecostalist,3,326
+From: 22 Feb 2010,To: 22 Feb 2010,Gabon,FY 2010,1,Unknown,1,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iran,FY 2010,4,Bahai,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Catholic,8,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Chaldean,1,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Christian,35,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Moslem,3,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Moslem Shiite,75,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Moslem Suni,83,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Orthodox,7,326
+From: 22 Feb 2010,To: 22 Feb 2010,Iraq,FY 2010,216,Sabeans-Mandean,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Rwanda,FY 2010,4,Seventh Day Adventist,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Somalia,FY 2010,15,Moslem,15,326
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Feb 2010,To: 22 Feb 2010,Bahai,FY 2010,4,Iran,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Buddhist,FY 2010,12,Burma,12,326
+From: 22 Feb 2010,To: 22 Feb 2010,Catholic,FY 2010,14,Congo,6,326
+From: 22 Feb 2010,To: 22 Feb 2010,Catholic,FY 2010,14,Iraq,8,326
+From: 22 Feb 2010,To: 22 Feb 2010,Chaldean,FY 2010,1,Iraq,1,326
+From: 22 Feb 2010,To: 22 Feb 2010,Christian,FY 2010,69,Burma,25,326
+From: 22 Feb 2010,To: 22 Feb 2010,Christian,FY 2010,69,Congo,5,326
+From: 22 Feb 2010,To: 22 Feb 2010,Christian,FY 2010,69,Dem. Rep. Congo,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Christian,FY 2010,69,Iraq,35,326
+From: 22 Feb 2010,To: 22 Feb 2010,Moslem,FY 2010,29,Burma,1,326
+From: 22 Feb 2010,To: 22 Feb 2010,Moslem,FY 2010,29,Ethiopia,10,326
+From: 22 Feb 2010,To: 22 Feb 2010,Moslem,FY 2010,29,Iraq,3,326
+From: 22 Feb 2010,To: 22 Feb 2010,Moslem,FY 2010,29,Somalia,15,326
+From: 22 Feb 2010,To: 22 Feb 2010,Moslem Shiite,FY 2010,75,Iraq,75,326
+From: 22 Feb 2010,To: 22 Feb 2010,Moslem Suni,FY 2010,83,Iraq,83,326
+From: 22 Feb 2010,To: 22 Feb 2010,Orthodox,FY 2010,7,Iraq,7,326
+From: 22 Feb 2010,To: 22 Feb 2010,Pentecostalist,FY 2010,3,Ethiopia,3,326
+From: 22 Feb 2010,To: 22 Feb 2010,Protestant,FY 2010,20,Congo,5,326
+From: 22 Feb 2010,To: 22 Feb 2010,Protestant,FY 2010,20,Dem. Rep. Congo,15,326
+From: 22 Feb 2010,To: 22 Feb 2010,Sabeans-Mandean,FY 2010,4,Iraq,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Seventh Day Adventist,FY 2010,4,Rwanda,4,326
+From: 22 Feb 2010,To: 22 Feb 2010,Unknown,FY 2010,1,Gabon,1,326
+

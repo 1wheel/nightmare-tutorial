@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jan 2011,To: 26 Jan 2011,Afghanistan,FY 2011,2,Moslem,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Afghanistan,FY 2011,2,Moslem Shiite,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Azerbaijan,FY 2011,3,Orthodox,3,455
+From: 26 Jan 2011,To: 26 Jan 2011,Bhutan,FY 2011,35,Buddhist,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Bhutan,FY 2011,35,Christian,4,455
+From: 26 Jan 2011,To: 26 Jan 2011,Bhutan,FY 2011,35,Hindu,19,455
+From: 26 Jan 2011,To: 26 Jan 2011,Bhutan,FY 2011,35,Kirat,7,455
+From: 26 Jan 2011,To: 26 Jan 2011,Burma,FY 2011,226,Animist,13,455
+From: 26 Jan 2011,To: 26 Jan 2011,Burma,FY 2011,226,Baptist,9,455
+From: 26 Jan 2011,To: 26 Jan 2011,Burma,FY 2011,226,Buddhist,55,455
+From: 26 Jan 2011,To: 26 Jan 2011,Burma,FY 2011,226,Christian,124,455
+From: 26 Jan 2011,To: 26 Jan 2011,Burma,FY 2011,226,Moslem,25,455
+From: 26 Jan 2011,To: 26 Jan 2011,Cuba,FY 2011,1,Evangelical Christian,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Eritrea,FY 2011,32,Catholic,4,455
+From: 26 Jan 2011,To: 26 Jan 2011,Eritrea,FY 2011,32,Christian,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Eritrea,FY 2011,32,Jehovah Witness,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Eritrea,FY 2011,32,Moslem,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,Eritrea,FY 2011,32,Orthodox,24,455
+From: 26 Jan 2011,To: 26 Jan 2011,Georgia,FY 2011,2,Pentecostalist,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,Iraq,FY 2011,119,Catholic,14,455
+From: 26 Jan 2011,To: 26 Jan 2011,Iraq,FY 2011,119,Christian,55,455
+From: 26 Jan 2011,To: 26 Jan 2011,Iraq,FY 2011,119,Moslem Shiite,28,455
+From: 26 Jan 2011,To: 26 Jan 2011,Iraq,FY 2011,119,Moslem Suni,20,455
+From: 26 Jan 2011,To: 26 Jan 2011,Iraq,FY 2011,119,Orthodox,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,Somalia,FY 2011,5,Moslem,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Sri Lanka (Ceylon),FY 2011,2,Christian,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Sri Lanka (Ceylon),FY 2011,2,Hindu,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Sudan,FY 2011,6,Moslem,6,455
+From: 26 Jan 2011,To: 26 Jan 2011,Uzbekistan,FY 2011,7,Jewish,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Uzbekistan,FY 2011,7,No Religion,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,Vietnam,FY 2011,15,Buddhist,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Vietnam,FY 2011,15,No Religion,10,455
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jan 2011,To: 26 Jan 2011,Animist,FY 2011,13,Burma,13,455
+From: 26 Jan 2011,To: 26 Jan 2011,Baptist,FY 2011,9,Burma,9,455
+From: 26 Jan 2011,To: 26 Jan 2011,Buddhist,FY 2011,65,Bhutan,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Buddhist,FY 2011,65,Burma,55,455
+From: 26 Jan 2011,To: 26 Jan 2011,Buddhist,FY 2011,65,Vietnam,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Catholic,FY 2011,18,Eritrea,4,455
+From: 26 Jan 2011,To: 26 Jan 2011,Catholic,FY 2011,18,Iraq,14,455
+From: 26 Jan 2011,To: 26 Jan 2011,Christian,FY 2011,185,Bhutan,4,455
+From: 26 Jan 2011,To: 26 Jan 2011,Christian,FY 2011,185,Burma,124,455
+From: 26 Jan 2011,To: 26 Jan 2011,Christian,FY 2011,185,Eritrea,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Christian,FY 2011,185,Iraq,55,455
+From: 26 Jan 2011,To: 26 Jan 2011,Christian,FY 2011,185,Sri Lanka (Ceylon),1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Evangelical Christian,FY 2011,1,Cuba,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Hindu,FY 2011,20,Bhutan,19,455
+From: 26 Jan 2011,To: 26 Jan 2011,Hindu,FY 2011,20,Sri Lanka (Ceylon),1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Jehovah Witness,FY 2011,1,Eritrea,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Jewish,FY 2011,5,Uzbekistan,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Kirat,FY 2011,7,Bhutan,7,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem,FY 2011,39,Afghanistan,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem,FY 2011,39,Burma,25,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem,FY 2011,39,Eritrea,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem,FY 2011,39,Somalia,5,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem,FY 2011,39,Sudan,6,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem Shiite,FY 2011,29,Afghanistan,1,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem Shiite,FY 2011,29,Iraq,28,455
+From: 26 Jan 2011,To: 26 Jan 2011,Moslem Suni,FY 2011,20,Iraq,20,455
+From: 26 Jan 2011,To: 26 Jan 2011,No Religion,FY 2011,12,Uzbekistan,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,No Religion,FY 2011,12,Vietnam,10,455
+From: 26 Jan 2011,To: 26 Jan 2011,Orthodox,FY 2011,29,Azerbaijan,3,455
+From: 26 Jan 2011,To: 26 Jan 2011,Orthodox,FY 2011,29,Eritrea,24,455
+From: 26 Jan 2011,To: 26 Jan 2011,Orthodox,FY 2011,29,Iraq,2,455
+From: 26 Jan 2011,To: 26 Jan 2011,Pentecostalist,FY 2011,2,Georgia,2,455
+

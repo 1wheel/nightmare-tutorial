@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Nov 2005,To: 23 Nov 2005,Cuba,FY 2006,19,Catholic,14,47
+From: 23 Nov 2005,To: 23 Nov 2005,Cuba,FY 2006,19,No Religion,5,47
+From: 23 Nov 2005,To: 23 Nov 2005,Liberia,FY 2006,25,Christian,13,47
+From: 23 Nov 2005,To: 23 Nov 2005,Liberia,FY 2006,25,Lutheran,6,47
+From: 23 Nov 2005,To: 23 Nov 2005,Liberia,FY 2006,25,Moslem,6,47
+From: 23 Nov 2005,To: 23 Nov 2005,Sierra Leone,FY 2006,3,Moslem,3,47
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Nov 2005,To: 23 Nov 2005,Catholic,FY 2006,14,Cuba,14,47
+From: 23 Nov 2005,To: 23 Nov 2005,Christian,FY 2006,13,Liberia,13,47
+From: 23 Nov 2005,To: 23 Nov 2005,Lutheran,FY 2006,6,Liberia,6,47
+From: 23 Nov 2005,To: 23 Nov 2005,Moslem,FY 2006,9,Liberia,6,47
+From: 23 Nov 2005,To: 23 Nov 2005,Moslem,FY 2006,9,Sierra Leone,3,47
+From: 23 Nov 2005,To: 23 Nov 2005,No Religion,FY 2006,5,Cuba,5,47
+

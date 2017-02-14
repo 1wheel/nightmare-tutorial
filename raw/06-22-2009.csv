@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jun 2009,To: 22 Jun 2009,Afghanistan,FY 2009,1,Moslem,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Bhutan,FY 2009,80,Buddhist,10,424
+From: 22 Jun 2009,To: 22 Jun 2009,Bhutan,FY 2009,80,Christian,13,424
+From: 22 Jun 2009,To: 22 Jun 2009,Bhutan,FY 2009,80,Hindu,57,424
+From: 22 Jun 2009,To: 22 Jun 2009,Burma,FY 2009,197,Animist,38,424
+From: 22 Jun 2009,To: 22 Jun 2009,Burma,FY 2009,197,Buddhist,21,424
+From: 22 Jun 2009,To: 22 Jun 2009,Burma,FY 2009,197,Catholic,10,424
+From: 22 Jun 2009,To: 22 Jun 2009,Burma,FY 2009,197,Christian,119,424
+From: 22 Jun 2009,To: 22 Jun 2009,Burma,FY 2009,197,Moslem,9,424
+From: 22 Jun 2009,To: 22 Jun 2009,Central African Republic,FY 2009,1,Moslem,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Dem. Rep. Congo,FY 2009,7,Christian,2,424
+From: 22 Jun 2009,To: 22 Jun 2009,Dem. Rep. Congo,FY 2009,7,Moslem,2,424
+From: 22 Jun 2009,To: 22 Jun 2009,Dem. Rep. Congo,FY 2009,7,Protestant,3,424
+From: 22 Jun 2009,To: 22 Jun 2009,Iraq,FY 2009,130,Catholic,16,424
+From: 22 Jun 2009,To: 22 Jun 2009,Iraq,FY 2009,130,Christian,45,424
+From: 22 Jun 2009,To: 22 Jun 2009,Iraq,FY 2009,130,Moslem Shiite,30,424
+From: 22 Jun 2009,To: 22 Jun 2009,Iraq,FY 2009,130,Moslem Suni,36,424
+From: 22 Jun 2009,To: 22 Jun 2009,Iraq,FY 2009,130,Sabeans-Mandean,3,424
+From: 22 Jun 2009,To: 22 Jun 2009,Pakistan,FY 2009,1,Moslem,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Sri Lanka (Ceylon),FY 2009,3,Catholic,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Sri Lanka (Ceylon),FY 2009,3,Hindu,2,424
+From: 22 Jun 2009,To: 22 Jun 2009,Sudan,FY 2009,3,Moslem,3,424
+From: 22 Jun 2009,To: 22 Jun 2009,Uganda,FY 2009,1,Christian,1,424
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jun 2009,To: 22 Jun 2009,Animist,FY 2009,38,Burma,38,424
+From: 22 Jun 2009,To: 22 Jun 2009,Buddhist,FY 2009,31,Bhutan,10,424
+From: 22 Jun 2009,To: 22 Jun 2009,Buddhist,FY 2009,31,Burma,21,424
+From: 22 Jun 2009,To: 22 Jun 2009,Catholic,FY 2009,27,Burma,10,424
+From: 22 Jun 2009,To: 22 Jun 2009,Catholic,FY 2009,27,Iraq,16,424
+From: 22 Jun 2009,To: 22 Jun 2009,Catholic,FY 2009,27,Sri Lanka (Ceylon),1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Christian,FY 2009,180,Bhutan,13,424
+From: 22 Jun 2009,To: 22 Jun 2009,Christian,FY 2009,180,Burma,119,424
+From: 22 Jun 2009,To: 22 Jun 2009,Christian,FY 2009,180,Dem. Rep. Congo,2,424
+From: 22 Jun 2009,To: 22 Jun 2009,Christian,FY 2009,180,Iraq,45,424
+From: 22 Jun 2009,To: 22 Jun 2009,Christian,FY 2009,180,Uganda,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Hindu,FY 2009,59,Bhutan,57,424
+From: 22 Jun 2009,To: 22 Jun 2009,Hindu,FY 2009,59,Sri Lanka (Ceylon),2,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem,FY 2009,17,Afghanistan,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem,FY 2009,17,Burma,9,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem,FY 2009,17,Central African Republic,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem,FY 2009,17,Dem. Rep. Congo,2,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem,FY 2009,17,Pakistan,1,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem,FY 2009,17,Sudan,3,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem Shiite,FY 2009,30,Iraq,30,424
+From: 22 Jun 2009,To: 22 Jun 2009,Moslem Suni,FY 2009,36,Iraq,36,424
+From: 22 Jun 2009,To: 22 Jun 2009,Protestant,FY 2009,3,Dem. Rep. Congo,3,424
+From: 22 Jun 2009,To: 22 Jun 2009,Sabeans-Mandean,FY 2009,3,Iraq,3,424
+

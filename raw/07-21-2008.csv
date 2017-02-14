@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jul 2008,To: 21 Jul 2008,Bhutan,FY 2008,70,Buddhist,11,310
+From: 21 Jul 2008,To: 21 Jul 2008,Bhutan,FY 2008,70,Hindu,57,310
+From: 21 Jul 2008,To: 21 Jul 2008,Bhutan,FY 2008,70,Kirat,2,310
+From: 21 Jul 2008,To: 21 Jul 2008,Burma,FY 2008,35,Christian,35,310
+From: 21 Jul 2008,To: 21 Jul 2008,Iran,FY 2008,4,Bahai,4,310
+From: 21 Jul 2008,To: 21 Jul 2008,Iraq,FY 2008,168,Christian,48,310
+From: 21 Jul 2008,To: 21 Jul 2008,Iraq,FY 2008,168,Moslem Shiite,45,310
+From: 21 Jul 2008,To: 21 Jul 2008,Iraq,FY 2008,168,Moslem Suni,68,310
+From: 21 Jul 2008,To: 21 Jul 2008,Iraq,FY 2008,168,Sabeans-Mandean,7,310
+From: 21 Jul 2008,To: 21 Jul 2008,Pakistan,FY 2008,6,Other Religion,6,310
+From: 21 Jul 2008,To: 21 Jul 2008,Somalia,FY 2008,1,Moslem,1,310
+From: 21 Jul 2008,To: 21 Jul 2008,Ukraine,FY 2008,25,Baptist,1,310
+From: 21 Jul 2008,To: 21 Jul 2008,Ukraine,FY 2008,25,No Religion,3,310
+From: 21 Jul 2008,To: 21 Jul 2008,Ukraine,FY 2008,25,Pentecostalist,21,310
+From: 21 Jul 2008,To: 21 Jul 2008,Vietnam,FY 2008,1,Buddhist,1,310
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jul 2008,To: 21 Jul 2008,Bahai,FY 2008,4,Iran,4,310
+From: 21 Jul 2008,To: 21 Jul 2008,Baptist,FY 2008,1,Ukraine,1,310
+From: 21 Jul 2008,To: 21 Jul 2008,Buddhist,FY 2008,12,Bhutan,11,310
+From: 21 Jul 2008,To: 21 Jul 2008,Buddhist,FY 2008,12,Vietnam,1,310
+From: 21 Jul 2008,To: 21 Jul 2008,Christian,FY 2008,83,Burma,35,310
+From: 21 Jul 2008,To: 21 Jul 2008,Christian,FY 2008,83,Iraq,48,310
+From: 21 Jul 2008,To: 21 Jul 2008,Hindu,FY 2008,57,Bhutan,57,310
+From: 21 Jul 2008,To: 21 Jul 2008,Kirat,FY 2008,2,Bhutan,2,310
+From: 21 Jul 2008,To: 21 Jul 2008,Moslem,FY 2008,1,Somalia,1,310
+From: 21 Jul 2008,To: 21 Jul 2008,Moslem Shiite,FY 2008,45,Iraq,45,310
+From: 21 Jul 2008,To: 21 Jul 2008,Moslem Suni,FY 2008,68,Iraq,68,310
+From: 21 Jul 2008,To: 21 Jul 2008,No Religion,FY 2008,3,Ukraine,3,310
+From: 21 Jul 2008,To: 21 Jul 2008,Other Religion,FY 2008,6,Pakistan,6,310
+From: 21 Jul 2008,To: 21 Jul 2008,Pentecostalist,FY 2008,21,Ukraine,21,310
+From: 21 Jul 2008,To: 21 Jul 2008,Sabeans-Mandean,FY 2008,7,Iraq,7,310
+

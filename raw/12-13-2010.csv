@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Dec 2010,To: 13 Dec 2010,Bhutan,FY 2011,131,Buddhist,22,437
+From: 13 Dec 2010,To: 13 Dec 2010,Bhutan,FY 2011,131,Christian,5,437
+From: 13 Dec 2010,To: 13 Dec 2010,Bhutan,FY 2011,131,Hindu,101,437
+From: 13 Dec 2010,To: 13 Dec 2010,Bhutan,FY 2011,131,Kirat,3,437
+From: 13 Dec 2010,To: 13 Dec 2010,Burma,FY 2011,74,Animist,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Burma,FY 2011,74,Buddhist,5,437
+From: 13 Dec 2010,To: 13 Dec 2010,Burma,FY 2011,74,Catholic,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Burma,FY 2011,74,Christian,63,437
+From: 13 Dec 2010,To: 13 Dec 2010,Georgia,FY 2011,6,Pentecostalist,6,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iran,FY 2011,18,Bahai,7,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iran,FY 2011,18,Christian,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iran,FY 2011,18,Moslem,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iran,FY 2011,18,Moslem Suni,1,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iran,FY 2011,18,Protestant,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iraq,FY 2011,190,Catholic,6,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iraq,FY 2011,190,Christian,45,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iraq,FY 2011,190,Moslem,6,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iraq,FY 2011,190,Moslem Shiite,64,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iraq,FY 2011,190,Moslem Suni,57,437
+From: 13 Dec 2010,To: 13 Dec 2010,Iraq,FY 2011,190,Orthodox,12,437
+From: 13 Dec 2010,To: 13 Dec 2010,Somalia,FY 2011,9,Moslem,9,437
+From: 13 Dec 2010,To: 13 Dec 2010,Sudan,FY 2011,3,Moslem,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Sudan,FY 2011,3,Moslem Suni,1,437
+From: 13 Dec 2010,To: 13 Dec 2010,Uzbekistan,FY 2011,6,Moslem,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Uzbekistan,FY 2011,6,Moslem Suni,2,437
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Dec 2010,To: 13 Dec 2010,Animist,FY 2011,4,Burma,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Bahai,FY 2011,7,Iran,7,437
+From: 13 Dec 2010,To: 13 Dec 2010,Buddhist,FY 2011,27,Bhutan,22,437
+From: 13 Dec 2010,To: 13 Dec 2010,Buddhist,FY 2011,27,Burma,5,437
+From: 13 Dec 2010,To: 13 Dec 2010,Catholic,FY 2011,8,Burma,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Catholic,FY 2011,8,Iraq,6,437
+From: 13 Dec 2010,To: 13 Dec 2010,Christian,FY 2011,117,Bhutan,5,437
+From: 13 Dec 2010,To: 13 Dec 2010,Christian,FY 2011,117,Burma,63,437
+From: 13 Dec 2010,To: 13 Dec 2010,Christian,FY 2011,117,Iran,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Christian,FY 2011,117,Iraq,45,437
+From: 13 Dec 2010,To: 13 Dec 2010,Hindu,FY 2011,101,Bhutan,101,437
+From: 13 Dec 2010,To: 13 Dec 2010,Kirat,FY 2011,3,Bhutan,3,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem,FY 2011,23,Iran,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem,FY 2011,23,Iraq,6,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem,FY 2011,23,Somalia,9,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem,FY 2011,23,Sudan,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem,FY 2011,23,Uzbekistan,4,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem Shiite,FY 2011,64,Iraq,64,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem Suni,FY 2011,61,Iran,1,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem Suni,FY 2011,61,Iraq,57,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem Suni,FY 2011,61,Sudan,1,437
+From: 13 Dec 2010,To: 13 Dec 2010,Moslem Suni,FY 2011,61,Uzbekistan,2,437
+From: 13 Dec 2010,To: 13 Dec 2010,Orthodox,FY 2011,12,Iraq,12,437
+From: 13 Dec 2010,To: 13 Dec 2010,Pentecostalist,FY 2011,6,Georgia,6,437
+From: 13 Dec 2010,To: 13 Dec 2010,Protestant,FY 2011,4,Iran,4,437
+

@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Apr 2015,To: 22 Apr 2015,Afghanistan,FY 2015,5,Moslem Shiite,4,315
+From: 22 Apr 2015,To: 22 Apr 2015,Afghanistan,FY 2015,5,Moslem Suni,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Armenia,FY 2015,5,Evangelical Christian,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Armenia,FY 2015,5,Pentecostalist,4,315
+From: 22 Apr 2015,To: 22 Apr 2015,Bhutan,FY 2015,51,Buddhist,15,315
+From: 22 Apr 2015,To: 22 Apr 2015,Bhutan,FY 2015,51,Christian,7,315
+From: 22 Apr 2015,To: 22 Apr 2015,Bhutan,FY 2015,51,Hindu,19,315
+From: 22 Apr 2015,To: 22 Apr 2015,Bhutan,FY 2015,51,Kirat,10,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burma,FY 2015,96,Baptist,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burma,FY 2015,96,Buddhist,18,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burma,FY 2015,96,Christian,58,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burma,FY 2015,96,Moslem,10,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burma,FY 2015,96,Other Religion,8,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burundi,FY 2015,9,Catholic,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Burundi,FY 2015,9,Christian,7,315
+From: 22 Apr 2015,To: 22 Apr 2015,Dem. Rep. Congo,FY 2015,55,Catholic,12,315
+From: 22 Apr 2015,To: 22 Apr 2015,Dem. Rep. Congo,FY 2015,55,Christian,6,315
+From: 22 Apr 2015,To: 22 Apr 2015,Dem. Rep. Congo,FY 2015,55,Pentecostalist,26,315
+From: 22 Apr 2015,To: 22 Apr 2015,Dem. Rep. Congo,FY 2015,55,Protestant,3,315
+From: 22 Apr 2015,To: 22 Apr 2015,Dem. Rep. Congo,FY 2015,55,Seventh Day Adventist,8,315
+From: 22 Apr 2015,To: 22 Apr 2015,Eritrea,FY 2015,3,Catholic,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Eritrea,FY 2015,3,Orthodox,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Iran,FY 2015,1,Bahai,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Iraq,FY 2015,48,Catholic,5,315
+From: 22 Apr 2015,To: 22 Apr 2015,Iraq,FY 2015,48,Moslem Shiite,9,315
+From: 22 Apr 2015,To: 22 Apr 2015,Iraq,FY 2015,48,Moslem Suni,34,315
+From: 22 Apr 2015,To: 22 Apr 2015,Kazakhstan,FY 2015,2,Evangelical Christian,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Palestine,FY 2015,1,Moslem Suni,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Russia,FY 2015,19,Baptist,7,315
+From: 22 Apr 2015,To: 22 Apr 2015,Russia,FY 2015,19,Jewish,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Russia,FY 2015,19,Seventh Day Adventist,10,315
+From: 22 Apr 2015,To: 22 Apr 2015,Somalia,FY 2015,17,Moslem,14,315
+From: 22 Apr 2015,To: 22 Apr 2015,Somalia,FY 2015,17,Moslem Suni,3,315
+From: 22 Apr 2015,To: 22 Apr 2015,Sri Lanka (Ceylon),FY 2015,3,Catholic,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Sri Lanka (Ceylon),FY 2015,3,Hindu,2,315
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Apr 2015,To: 22 Apr 2015,Bahai,FY 2015,1,Iran,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Baptist,FY 2015,9,Burma,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Baptist,FY 2015,9,Russia,7,315
+From: 22 Apr 2015,To: 22 Apr 2015,Buddhist,FY 2015,33,Bhutan,15,315
+From: 22 Apr 2015,To: 22 Apr 2015,Buddhist,FY 2015,33,Burma,18,315
+From: 22 Apr 2015,To: 22 Apr 2015,Catholic,FY 2015,21,Burundi,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Catholic,FY 2015,21,Dem. Rep. Congo,12,315
+From: 22 Apr 2015,To: 22 Apr 2015,Catholic,FY 2015,21,Eritrea,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Catholic,FY 2015,21,Iraq,5,315
+From: 22 Apr 2015,To: 22 Apr 2015,Catholic,FY 2015,21,Sri Lanka (Ceylon),1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Christian,FY 2015,78,Bhutan,7,315
+From: 22 Apr 2015,To: 22 Apr 2015,Christian,FY 2015,78,Burma,58,315
+From: 22 Apr 2015,To: 22 Apr 2015,Christian,FY 2015,78,Burundi,7,315
+From: 22 Apr 2015,To: 22 Apr 2015,Christian,FY 2015,78,Dem. Rep. Congo,6,315
+From: 22 Apr 2015,To: 22 Apr 2015,Evangelical Christian,FY 2015,3,Armenia,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Evangelical Christian,FY 2015,3,Kazakhstan,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Hindu,FY 2015,21,Bhutan,19,315
+From: 22 Apr 2015,To: 22 Apr 2015,Hindu,FY 2015,21,Sri Lanka (Ceylon),2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Jewish,FY 2015,2,Russia,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Kirat,FY 2015,10,Bhutan,10,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem,FY 2015,24,Burma,10,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem,FY 2015,24,Somalia,14,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem Shiite,FY 2015,13,Afghanistan,4,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem Shiite,FY 2015,13,Iraq,9,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem Suni,FY 2015,39,Afghanistan,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem Suni,FY 2015,39,Iraq,34,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem Suni,FY 2015,39,Palestine,1,315
+From: 22 Apr 2015,To: 22 Apr 2015,Moslem Suni,FY 2015,39,Somalia,3,315
+From: 22 Apr 2015,To: 22 Apr 2015,Orthodox,FY 2015,2,Eritrea,2,315
+From: 22 Apr 2015,To: 22 Apr 2015,Other Religion,FY 2015,8,Burma,8,315
+From: 22 Apr 2015,To: 22 Apr 2015,Pentecostalist,FY 2015,30,Armenia,4,315
+From: 22 Apr 2015,To: 22 Apr 2015,Pentecostalist,FY 2015,30,Dem. Rep. Congo,26,315
+From: 22 Apr 2015,To: 22 Apr 2015,Protestant,FY 2015,3,Dem. Rep. Congo,3,315
+From: 22 Apr 2015,To: 22 Apr 2015,Seventh Day Adventist,FY 2015,18,Dem. Rep. Congo,8,315
+From: 22 Apr 2015,To: 22 Apr 2015,Seventh Day Adventist,FY 2015,18,Russia,10,315
+

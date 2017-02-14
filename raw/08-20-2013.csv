@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Aug 2013,To: 20 Aug 2013,Afghanistan,FY 2013,10,Moslem Suni,10,426
+From: 20 Aug 2013,To: 20 Aug 2013,Bhutan,FY 2013,63,Buddhist,13,426
+From: 20 Aug 2013,To: 20 Aug 2013,Bhutan,FY 2013,63,Christian,3,426
+From: 20 Aug 2013,To: 20 Aug 2013,Bhutan,FY 2013,63,Hindu,35,426
+From: 20 Aug 2013,To: 20 Aug 2013,Bhutan,FY 2013,63,Kirat,12,426
+From: 20 Aug 2013,To: 20 Aug 2013,Burma,FY 2013,31,Buddhist,7,426
+From: 20 Aug 2013,To: 20 Aug 2013,Burma,FY 2013,31,Christian,24,426
+From: 20 Aug 2013,To: 20 Aug 2013,Chad,FY 2013,2,Moslem,2,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iran,FY 2013,48,Bahai,14,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iran,FY 2013,48,Christian,25,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iran,FY 2013,48,Jewish,3,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iran,FY 2013,48,Moslem Shiite,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iran,FY 2013,48,No Religion,4,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iran,FY 2013,48,Zoroastrian,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Catholic,22,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Christian,28,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Moslem Shiite,45,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Moslem Suni,97,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Orthodox,16,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Sabeans-Mandean,11,426
+From: 20 Aug 2013,To: 20 Aug 2013,Iraq,FY 2013,220,Yazidi,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Nepal,FY 2013,1,Hindu,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Pakistan,FY 2013,1,Ahmadiyya,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Palestine,FY 2013,5,Moslem Suni,5,426
+From: 20 Aug 2013,To: 20 Aug 2013,Somalia,FY 2013,12,Moslem,4,426
+From: 20 Aug 2013,To: 20 Aug 2013,Somalia,FY 2013,12,Moslem Suni,8,426
+From: 20 Aug 2013,To: 20 Aug 2013,Sudan,FY 2013,15,Moslem,15,426
+From: 20 Aug 2013,To: 20 Aug 2013,Syria,FY 2013,2,Moslem Suni,2,426
+From: 20 Aug 2013,To: 20 Aug 2013,Ukraine,FY 2013,16,Pentecostalist,16,426
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Aug 2013,To: 20 Aug 2013,Ahmadiyya,FY 2013,1,Pakistan,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Bahai,FY 2013,14,Iran,14,426
+From: 20 Aug 2013,To: 20 Aug 2013,Buddhist,FY 2013,20,Bhutan,13,426
+From: 20 Aug 2013,To: 20 Aug 2013,Buddhist,FY 2013,20,Burma,7,426
+From: 20 Aug 2013,To: 20 Aug 2013,Catholic,FY 2013,22,Iraq,22,426
+From: 20 Aug 2013,To: 20 Aug 2013,Christian,FY 2013,80,Bhutan,3,426
+From: 20 Aug 2013,To: 20 Aug 2013,Christian,FY 2013,80,Burma,24,426
+From: 20 Aug 2013,To: 20 Aug 2013,Christian,FY 2013,80,Iran,25,426
+From: 20 Aug 2013,To: 20 Aug 2013,Christian,FY 2013,80,Iraq,28,426
+From: 20 Aug 2013,To: 20 Aug 2013,Hindu,FY 2013,36,Bhutan,35,426
+From: 20 Aug 2013,To: 20 Aug 2013,Hindu,FY 2013,36,Nepal,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Jewish,FY 2013,3,Iran,3,426
+From: 20 Aug 2013,To: 20 Aug 2013,Kirat,FY 2013,12,Bhutan,12,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem,FY 2013,21,Chad,2,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem,FY 2013,21,Somalia,4,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem,FY 2013,21,Sudan,15,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Shiite,FY 2013,46,Iran,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Shiite,FY 2013,46,Iraq,45,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Suni,FY 2013,122,Afghanistan,10,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Suni,FY 2013,122,Iraq,97,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Suni,FY 2013,122,Palestine,5,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Suni,FY 2013,122,Somalia,8,426
+From: 20 Aug 2013,To: 20 Aug 2013,Moslem Suni,FY 2013,122,Syria,2,426
+From: 20 Aug 2013,To: 20 Aug 2013,No Religion,FY 2013,4,Iran,4,426
+From: 20 Aug 2013,To: 20 Aug 2013,Orthodox,FY 2013,16,Iraq,16,426
+From: 20 Aug 2013,To: 20 Aug 2013,Pentecostalist,FY 2013,16,Ukraine,16,426
+From: 20 Aug 2013,To: 20 Aug 2013,Sabeans-Mandean,FY 2013,11,Iraq,11,426
+From: 20 Aug 2013,To: 20 Aug 2013,Yazidi,FY 2013,1,Iraq,1,426
+From: 20 Aug 2013,To: 20 Aug 2013,Zoroastrian,FY 2013,1,Iran,1,426
+

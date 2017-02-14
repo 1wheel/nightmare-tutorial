@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2012,To: 28 Jun 2012,Bhutan,FY 2012,111,Buddhist,42,364
+From: 28 Jun 2012,To: 28 Jun 2012,Bhutan,FY 2012,111,Christian,11,364
+From: 28 Jun 2012,To: 28 Jun 2012,Bhutan,FY 2012,111,Hindu,48,364
+From: 28 Jun 2012,To: 28 Jun 2012,Bhutan,FY 2012,111,Kirat,10,364
+From: 28 Jun 2012,To: 28 Jun 2012,Burma,FY 2012,53,Baptist,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Burma,FY 2012,53,Buddhist,9,364
+From: 28 Jun 2012,To: 28 Jun 2012,Burma,FY 2012,53,Christian,34,364
+From: 28 Jun 2012,To: 28 Jun 2012,Burma,FY 2012,53,Moslem,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Burundi,FY 2012,2,Catholic,2,364
+From: 28 Jun 2012,To: 28 Jun 2012,Cuba,FY 2012,45,Catholic,23,364
+From: 28 Jun 2012,To: 28 Jun 2012,Cuba,FY 2012,45,Christian,1,364
+From: 28 Jun 2012,To: 28 Jun 2012,Cuba,FY 2012,45,Jehovah Witness,9,364
+From: 28 Jun 2012,To: 28 Jun 2012,Cuba,FY 2012,45,No Religion,9,364
+From: 28 Jun 2012,To: 28 Jun 2012,Cuba,FY 2012,45,Seventh Day Adventist,3,364
+From: 28 Jun 2012,To: 28 Jun 2012,Dem. Rep. Congo,FY 2012,6,Christian,6,364
+From: 28 Jun 2012,To: 28 Jun 2012,Eritrea,FY 2012,5,Christian,2,364
+From: 28 Jun 2012,To: 28 Jun 2012,Eritrea,FY 2012,5,Moslem,1,364
+From: 28 Jun 2012,To: 28 Jun 2012,Eritrea,FY 2012,5,Orthodox,2,364
+From: 28 Jun 2012,To: 28 Jun 2012,Ethiopia,FY 2012,1,Moslem,1,364
+From: 28 Jun 2012,To: 28 Jun 2012,Iraq,FY 2012,103,Catholic,8,364
+From: 28 Jun 2012,To: 28 Jun 2012,Iraq,FY 2012,103,Moslem Shiite,38,364
+From: 28 Jun 2012,To: 28 Jun 2012,Iraq,FY 2012,103,Moslem Suni,52,364
+From: 28 Jun 2012,To: 28 Jun 2012,Iraq,FY 2012,103,Sabeans-Mandean,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Somalia,FY 2012,33,Moslem,33,364
+From: 28 Jun 2012,To: 28 Jun 2012,Sudan,FY 2012,5,Christian,5,364
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2012,To: 28 Jun 2012,Baptist,FY 2012,5,Burma,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Buddhist,FY 2012,51,Bhutan,42,364
+From: 28 Jun 2012,To: 28 Jun 2012,Buddhist,FY 2012,51,Burma,9,364
+From: 28 Jun 2012,To: 28 Jun 2012,Catholic,FY 2012,33,Burundi,2,364
+From: 28 Jun 2012,To: 28 Jun 2012,Catholic,FY 2012,33,Cuba,23,364
+From: 28 Jun 2012,To: 28 Jun 2012,Catholic,FY 2012,33,Iraq,8,364
+From: 28 Jun 2012,To: 28 Jun 2012,Christian,FY 2012,59,Bhutan,11,364
+From: 28 Jun 2012,To: 28 Jun 2012,Christian,FY 2012,59,Burma,34,364
+From: 28 Jun 2012,To: 28 Jun 2012,Christian,FY 2012,59,Cuba,1,364
+From: 28 Jun 2012,To: 28 Jun 2012,Christian,FY 2012,59,Dem. Rep. Congo,6,364
+From: 28 Jun 2012,To: 28 Jun 2012,Christian,FY 2012,59,Eritrea,2,364
+From: 28 Jun 2012,To: 28 Jun 2012,Christian,FY 2012,59,Sudan,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Hindu,FY 2012,48,Bhutan,48,364
+From: 28 Jun 2012,To: 28 Jun 2012,Jehovah Witness,FY 2012,9,Cuba,9,364
+From: 28 Jun 2012,To: 28 Jun 2012,Kirat,FY 2012,10,Bhutan,10,364
+From: 28 Jun 2012,To: 28 Jun 2012,Moslem,FY 2012,40,Burma,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Moslem,FY 2012,40,Eritrea,1,364
+From: 28 Jun 2012,To: 28 Jun 2012,Moslem,FY 2012,40,Ethiopia,1,364
+From: 28 Jun 2012,To: 28 Jun 2012,Moslem,FY 2012,40,Somalia,33,364
+From: 28 Jun 2012,To: 28 Jun 2012,Moslem Shiite,FY 2012,38,Iraq,38,364
+From: 28 Jun 2012,To: 28 Jun 2012,Moslem Suni,FY 2012,52,Iraq,52,364
+From: 28 Jun 2012,To: 28 Jun 2012,No Religion,FY 2012,9,Cuba,9,364
+From: 28 Jun 2012,To: 28 Jun 2012,Orthodox,FY 2012,2,Eritrea,2,364
+From: 28 Jun 2012,To: 28 Jun 2012,Sabeans-Mandean,FY 2012,5,Iraq,5,364
+From: 28 Jun 2012,To: 28 Jun 2012,Seventh Day Adventist,FY 2012,3,Cuba,3,364
+

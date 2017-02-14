@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jul 2013,To: 01 Jul 2013,Burma,FY 2013,34,Buddhist,2,85
+From: 01 Jul 2013,To: 01 Jul 2013,Burma,FY 2013,34,Christian,25,85
+From: 01 Jul 2013,To: 01 Jul 2013,Burma,FY 2013,34,Moslem,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Eritrea,FY 2013,1,Orthodox,1,85
+From: 01 Jul 2013,To: 01 Jul 2013,Ethiopia,FY 2013,1,Protestant,1,85
+From: 01 Jul 2013,To: 01 Jul 2013,Iraq,FY 2013,35,Catholic,5,85
+From: 01 Jul 2013,To: 01 Jul 2013,Iraq,FY 2013,35,Moslem Shiite,23,85
+From: 01 Jul 2013,To: 01 Jul 2013,Iraq,FY 2013,35,Moslem Suni,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Somalia,FY 2013,7,Moslem,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Sudan,FY 2013,7,Moslem,7,85
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jul 2013,To: 01 Jul 2013,Buddhist,FY 2013,2,Burma,2,85
+From: 01 Jul 2013,To: 01 Jul 2013,Catholic,FY 2013,5,Iraq,5,85
+From: 01 Jul 2013,To: 01 Jul 2013,Christian,FY 2013,25,Burma,25,85
+From: 01 Jul 2013,To: 01 Jul 2013,Moslem,FY 2013,21,Burma,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Moslem,FY 2013,21,Somalia,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Moslem,FY 2013,21,Sudan,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Moslem Shiite,FY 2013,23,Iraq,23,85
+From: 01 Jul 2013,To: 01 Jul 2013,Moslem Suni,FY 2013,7,Iraq,7,85
+From: 01 Jul 2013,To: 01 Jul 2013,Orthodox,FY 2013,1,Eritrea,1,85
+From: 01 Jul 2013,To: 01 Jul 2013,Protestant,FY 2013,1,Ethiopia,1,85
+

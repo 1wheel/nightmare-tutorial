@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Dec 2002,To: 11 Dec 2002,Afghanistan,FY 2003,69,Moslem,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Afghanistan,FY 2003,69,Moslem Shiite,16,285
+From: 11 Dec 2002,To: 11 Dec 2002,Afghanistan,FY 2003,69,Moslem Suni,50,285
+From: 11 Dec 2002,To: 11 Dec 2002,Belarus,FY 2003,23,Jewish,6,285
+From: 11 Dec 2002,To: 11 Dec 2002,Belarus,FY 2003,23,Lutheran,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Belarus,FY 2003,23,Pentecostalist,15,285
+From: 11 Dec 2002,To: 11 Dec 2002,Bosnia and Herzegovina,FY 2003,12,Moslem,12,285
+From: 11 Dec 2002,To: 11 Dec 2002,Estonia,FY 2003,2,Jewish,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Ethiopia,FY 2003,11,Christian,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Ethiopia,FY 2003,11,Moslem,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Ethiopia,FY 2003,11,Orthodox,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Ethiopia,FY 2003,11,Unknown,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iran,FY 2003,41,Bahai,6,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iran,FY 2003,41,Christian,17,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iran,FY 2003,41,Jewish,16,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iran,FY 2003,41,Zoroastrian,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iraq,FY 2003,28,Chaldean,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iraq,FY 2003,28,Christian,5,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iraq,FY 2003,28,Moslem,13,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iraq,FY 2003,28,Moslem Shiite,8,285
+From: 11 Dec 2002,To: 11 Dec 2002,Iraq,FY 2003,28,Moslem Suni,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moldova,FY 2003,12,Baptist,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moldova,FY 2003,12,Pentecostalist,7,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moldova,FY 2003,12,Seventh Day Adventist,4,285
+From: 11 Dec 2002,To: 11 Dec 2002,Nigeria,FY 2003,1,Christian,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Philippines,FY 2003,1,Protestant,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Russia,FY 2003,9,No Religion,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Russia,FY 2003,9,Pentecostalist,8,285
+From: 11 Dec 2002,To: 11 Dec 2002,Somalia,FY 2003,17,Moslem,17,285
+From: 11 Dec 2002,To: 11 Dec 2002,Vietnam,FY 2003,59,Unknown,59,285
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Dec 2002,To: 11 Dec 2002,Bahai,FY 2003,6,Iran,6,285
+From: 11 Dec 2002,To: 11 Dec 2002,Baptist,FY 2003,1,Moldova,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Chaldean,FY 2003,1,Iraq,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Christian,FY 2003,25,Ethiopia,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Christian,FY 2003,25,Iran,17,285
+From: 11 Dec 2002,To: 11 Dec 2002,Christian,FY 2003,25,Iraq,5,285
+From: 11 Dec 2002,To: 11 Dec 2002,Christian,FY 2003,25,Nigeria,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Jewish,FY 2003,24,Belarus,6,285
+From: 11 Dec 2002,To: 11 Dec 2002,Jewish,FY 2003,24,Estonia,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Jewish,FY 2003,24,Iran,16,285
+From: 11 Dec 2002,To: 11 Dec 2002,Lutheran,FY 2003,2,Belarus,2,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem,FY 2003,48,Afghanistan,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem,FY 2003,48,Bosnia and Herzegovina,12,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem,FY 2003,48,Ethiopia,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem,FY 2003,48,Iraq,13,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem,FY 2003,48,Somalia,17,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem Shiite,FY 2003,24,Afghanistan,16,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem Shiite,FY 2003,24,Iraq,8,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem Suni,FY 2003,51,Afghanistan,50,285
+From: 11 Dec 2002,To: 11 Dec 2002,Moslem Suni,FY 2003,51,Iraq,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,No Religion,FY 2003,1,Russia,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Orthodox,FY 2003,3,Ethiopia,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Pentecostalist,FY 2003,30,Belarus,15,285
+From: 11 Dec 2002,To: 11 Dec 2002,Pentecostalist,FY 2003,30,Moldova,7,285
+From: 11 Dec 2002,To: 11 Dec 2002,Pentecostalist,FY 2003,30,Russia,8,285
+From: 11 Dec 2002,To: 11 Dec 2002,Protestant,FY 2003,1,Philippines,1,285
+From: 11 Dec 2002,To: 11 Dec 2002,Seventh Day Adventist,FY 2003,4,Moldova,4,285
+From: 11 Dec 2002,To: 11 Dec 2002,Unknown,FY 2003,62,Ethiopia,3,285
+From: 11 Dec 2002,To: 11 Dec 2002,Unknown,FY 2003,62,Vietnam,59,285
+From: 11 Dec 2002,To: 11 Dec 2002,Zoroastrian,FY 2003,2,Iran,2,285
+

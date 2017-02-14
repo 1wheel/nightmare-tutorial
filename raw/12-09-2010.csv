@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Dec 2010,To: 09 Dec 2010,Bhutan,FY 2011,162,Buddhist,24,516
+From: 09 Dec 2010,To: 09 Dec 2010,Bhutan,FY 2011,162,Christian,18,516
+From: 09 Dec 2010,To: 09 Dec 2010,Bhutan,FY 2011,162,Hindu,102,516
+From: 09 Dec 2010,To: 09 Dec 2010,Bhutan,FY 2011,162,Kirat,18,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Animist,28,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Baptist,5,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Buddhist,28,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Catholic,13,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Christian,39,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Moslem,3,516
+From: 09 Dec 2010,To: 09 Dec 2010,Burma,FY 2011,122,Other Religion,6,516
+From: 09 Dec 2010,To: 09 Dec 2010,Cuba,FY 2011,45,Baptist,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Cuba,FY 2011,45,Catholic,25,516
+From: 09 Dec 2010,To: 09 Dec 2010,Cuba,FY 2011,45,Christian,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Cuba,FY 2011,45,Jehovah Witness,10,516
+From: 09 Dec 2010,To: 09 Dec 2010,Cuba,FY 2011,45,No Religion,4,516
+From: 09 Dec 2010,To: 09 Dec 2010,Cuba,FY 2011,45,Seventh Day Adventist,4,516
+From: 09 Dec 2010,To: 09 Dec 2010,Dem. Rep. Congo,FY 2011,9,Pentecostalist,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Dem. Rep. Congo,FY 2011,9,Protestant,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Egypt,FY 2011,3,Christian,3,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,Catholic,9,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,Moslem,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,No Religion,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,Orthodox,34,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,Pentecostalist,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,Protestant,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Eritrea,FY 2011,56,Seventh Day Adventist,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Ethiopia,FY 2011,4,Moslem,4,516
+From: 09 Dec 2010,To: 09 Dec 2010,Iran,FY 2011,9,Bahai,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Iran,FY 2011,9,Jewish,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Iran,FY 2011,9,Sabeans-Mandean,5,516
+From: 09 Dec 2010,To: 09 Dec 2010,Iraq,FY 2011,32,Moslem Shiite,10,516
+From: 09 Dec 2010,To: 09 Dec 2010,Iraq,FY 2011,32,Moslem Suni,22,516
+From: 09 Dec 2010,To: 09 Dec 2010,Laos,FY 2011,16,Animist,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Laos,FY 2011,16,Christian,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Somalia,FY 2011,53,Moslem,53,516
+From: 09 Dec 2010,To: 09 Dec 2010,Sudan,FY 2011,2,Moslem,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Vietnam,FY 2011,3,Catholic,3,516
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Dec 2010,To: 09 Dec 2010,Animist,FY 2011,36,Burma,28,516
+From: 09 Dec 2010,To: 09 Dec 2010,Animist,FY 2011,36,Laos,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Bahai,FY 2011,2,Iran,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Baptist,FY 2011,6,Burma,5,516
+From: 09 Dec 2010,To: 09 Dec 2010,Baptist,FY 2011,6,Cuba,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Buddhist,FY 2011,52,Bhutan,24,516
+From: 09 Dec 2010,To: 09 Dec 2010,Buddhist,FY 2011,52,Burma,28,516
+From: 09 Dec 2010,To: 09 Dec 2010,Catholic,FY 2011,50,Burma,13,516
+From: 09 Dec 2010,To: 09 Dec 2010,Catholic,FY 2011,50,Cuba,25,516
+From: 09 Dec 2010,To: 09 Dec 2010,Catholic,FY 2011,50,Eritrea,9,516
+From: 09 Dec 2010,To: 09 Dec 2010,Catholic,FY 2011,50,Vietnam,3,516
+From: 09 Dec 2010,To: 09 Dec 2010,Christian,FY 2011,69,Bhutan,18,516
+From: 09 Dec 2010,To: 09 Dec 2010,Christian,FY 2011,69,Burma,39,516
+From: 09 Dec 2010,To: 09 Dec 2010,Christian,FY 2011,69,Cuba,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Christian,FY 2011,69,Egypt,3,516
+From: 09 Dec 2010,To: 09 Dec 2010,Christian,FY 2011,69,Laos,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Hindu,FY 2011,102,Bhutan,102,516
+From: 09 Dec 2010,To: 09 Dec 2010,Jehovah Witness,FY 2011,10,Cuba,10,516
+From: 09 Dec 2010,To: 09 Dec 2010,Jewish,FY 2011,2,Iran,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Kirat,FY 2011,18,Bhutan,18,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem,FY 2011,70,Burma,3,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem,FY 2011,70,Eritrea,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem,FY 2011,70,Ethiopia,4,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem,FY 2011,70,Somalia,53,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem,FY 2011,70,Sudan,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem Shiite,FY 2011,10,Iraq,10,516
+From: 09 Dec 2010,To: 09 Dec 2010,Moslem Suni,FY 2011,22,Iraq,22,516
+From: 09 Dec 2010,To: 09 Dec 2010,No Religion,FY 2011,5,Cuba,4,516
+From: 09 Dec 2010,To: 09 Dec 2010,No Religion,FY 2011,5,Eritrea,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Orthodox,FY 2011,34,Eritrea,34,516
+From: 09 Dec 2010,To: 09 Dec 2010,Other Religion,FY 2011,6,Burma,6,516
+From: 09 Dec 2010,To: 09 Dec 2010,Pentecostalist,FY 2011,2,Dem. Rep. Congo,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Pentecostalist,FY 2011,2,Eritrea,1,516
+From: 09 Dec 2010,To: 09 Dec 2010,Protestant,FY 2011,10,Dem. Rep. Congo,8,516
+From: 09 Dec 2010,To: 09 Dec 2010,Protestant,FY 2011,10,Eritrea,2,516
+From: 09 Dec 2010,To: 09 Dec 2010,Sabeans-Mandean,FY 2011,5,Iran,5,516
+From: 09 Dec 2010,To: 09 Dec 2010,Seventh Day Adventist,FY 2011,5,Cuba,4,516
+From: 09 Dec 2010,To: 09 Dec 2010,Seventh Day Adventist,FY 2011,5,Eritrea,1,516
+

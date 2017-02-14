@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Sep 2003,To: 10 Sep 2003,Burma,FY 2003,1,Protestant,1,254
+From: 10 Sep 2003,To: 10 Sep 2003,Croatia,FY 2003,9,Orthodox,9,254
+From: 10 Sep 2003,To: 10 Sep 2003,Cuba,FY 2003,35,Baptist,1,254
+From: 10 Sep 2003,To: 10 Sep 2003,Cuba,FY 2003,35,Catholic,12,254
+From: 10 Sep 2003,To: 10 Sep 2003,Cuba,FY 2003,35,Christian,5,254
+From: 10 Sep 2003,To: 10 Sep 2003,Cuba,FY 2003,35,Jehovah Witness,5,254
+From: 10 Sep 2003,To: 10 Sep 2003,Cuba,FY 2003,35,No Religion,12,254
+From: 10 Sep 2003,To: 10 Sep 2003,Dem. Rep. Congo,FY 2003,21,Catholic,9,254
+From: 10 Sep 2003,To: 10 Sep 2003,Dem. Rep. Congo,FY 2003,21,Christian,12,254
+From: 10 Sep 2003,To: 10 Sep 2003,Ethiopia,FY 2003,63,Christian,27,254
+From: 10 Sep 2003,To: 10 Sep 2003,Ethiopia,FY 2003,63,Jehovah Witness,2,254
+From: 10 Sep 2003,To: 10 Sep 2003,Ethiopia,FY 2003,63,Moslem,6,254
+From: 10 Sep 2003,To: 10 Sep 2003,Ethiopia,FY 2003,63,Orthodox,28,254
+From: 10 Sep 2003,To: 10 Sep 2003,Liberia,FY 2003,32,Christian,24,254
+From: 10 Sep 2003,To: 10 Sep 2003,Liberia,FY 2003,32,Moslem,8,254
+From: 10 Sep 2003,To: 10 Sep 2003,Serbia,FY 2003,5,Orthodox,5,254
+From: 10 Sep 2003,To: 10 Sep 2003,Sierra Leone,FY 2003,56,Christian,17,254
+From: 10 Sep 2003,To: 10 Sep 2003,Sierra Leone,FY 2003,56,Methodist,4,254
+From: 10 Sep 2003,To: 10 Sep 2003,Sierra Leone,FY 2003,56,Moslem,35,254
+From: 10 Sep 2003,To: 10 Sep 2003,Somalia,FY 2003,22,Moslem,22,254
+From: 10 Sep 2003,To: 10 Sep 2003,Sudan,FY 2003,7,Christian,7,254
+From: 10 Sep 2003,To: 10 Sep 2003,Vietnam,FY 2003,3,Protestant,3,254
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Sep 2003,To: 10 Sep 2003,Baptist,FY 2003,1,Cuba,1,254
+From: 10 Sep 2003,To: 10 Sep 2003,Catholic,FY 2003,21,Cuba,12,254
+From: 10 Sep 2003,To: 10 Sep 2003,Catholic,FY 2003,21,Dem. Rep. Congo,9,254
+From: 10 Sep 2003,To: 10 Sep 2003,Christian,FY 2003,92,Cuba,5,254
+From: 10 Sep 2003,To: 10 Sep 2003,Christian,FY 2003,92,Dem. Rep. Congo,12,254
+From: 10 Sep 2003,To: 10 Sep 2003,Christian,FY 2003,92,Ethiopia,27,254
+From: 10 Sep 2003,To: 10 Sep 2003,Christian,FY 2003,92,Liberia,24,254
+From: 10 Sep 2003,To: 10 Sep 2003,Christian,FY 2003,92,Sierra Leone,17,254
+From: 10 Sep 2003,To: 10 Sep 2003,Christian,FY 2003,92,Sudan,7,254
+From: 10 Sep 2003,To: 10 Sep 2003,Jehovah Witness,FY 2003,7,Cuba,5,254
+From: 10 Sep 2003,To: 10 Sep 2003,Jehovah Witness,FY 2003,7,Ethiopia,2,254
+From: 10 Sep 2003,To: 10 Sep 2003,Methodist,FY 2003,4,Sierra Leone,4,254
+From: 10 Sep 2003,To: 10 Sep 2003,Moslem,FY 2003,71,Ethiopia,6,254
+From: 10 Sep 2003,To: 10 Sep 2003,Moslem,FY 2003,71,Liberia,8,254
+From: 10 Sep 2003,To: 10 Sep 2003,Moslem,FY 2003,71,Sierra Leone,35,254
+From: 10 Sep 2003,To: 10 Sep 2003,Moslem,FY 2003,71,Somalia,22,254
+From: 10 Sep 2003,To: 10 Sep 2003,No Religion,FY 2003,12,Cuba,12,254
+From: 10 Sep 2003,To: 10 Sep 2003,Orthodox,FY 2003,42,Croatia,9,254
+From: 10 Sep 2003,To: 10 Sep 2003,Orthodox,FY 2003,42,Ethiopia,28,254
+From: 10 Sep 2003,To: 10 Sep 2003,Orthodox,FY 2003,42,Serbia,5,254
+From: 10 Sep 2003,To: 10 Sep 2003,Protestant,FY 2003,4,Burma,1,254
+From: 10 Sep 2003,To: 10 Sep 2003,Protestant,FY 2003,4,Vietnam,3,254
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Aug 2013,To: 22 Aug 2013,Afghanistan,FY 2013,3,Moslem Suni,3,412
+From: 22 Aug 2013,To: 22 Aug 2013,Bhutan,FY 2013,67,Buddhist,15,412
+From: 22 Aug 2013,To: 22 Aug 2013,Bhutan,FY 2013,67,Christian,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Bhutan,FY 2013,67,Hindu,45,412
+From: 22 Aug 2013,To: 22 Aug 2013,Bhutan,FY 2013,67,Kirat,2,412
+From: 22 Aug 2013,To: 22 Aug 2013,Burma,FY 2013,156,Baptist,3,412
+From: 22 Aug 2013,To: 22 Aug 2013,Burma,FY 2013,156,Buddhist,29,412
+From: 22 Aug 2013,To: 22 Aug 2013,Burma,FY 2013,156,Catholic,1,412
+From: 22 Aug 2013,To: 22 Aug 2013,Burma,FY 2013,156,Christian,108,412
+From: 22 Aug 2013,To: 22 Aug 2013,Burma,FY 2013,156,Evangelical Christian,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Burma,FY 2013,156,Moslem,10,412
+From: 22 Aug 2013,To: 22 Aug 2013,Cuba,FY 2013,63,Catholic,23,412
+From: 22 Aug 2013,To: 22 Aug 2013,Cuba,FY 2013,63,Evangelical Christian,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Cuba,FY 2013,63,Jehovah Witness,7,412
+From: 22 Aug 2013,To: 22 Aug 2013,Cuba,FY 2013,63,No Religion,12,412
+From: 22 Aug 2013,To: 22 Aug 2013,Cuba,FY 2013,63,Pentecostalist,6,412
+From: 22 Aug 2013,To: 22 Aug 2013,Cuba,FY 2013,63,Seventh Day Adventist,10,412
+From: 22 Aug 2013,To: 22 Aug 2013,Dem. Rep. Congo,FY 2013,7,Methodist,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Dem. Rep. Congo,FY 2013,7,Protestant,2,412
+From: 22 Aug 2013,To: 22 Aug 2013,Eritrea,FY 2013,4,Christian,4,412
+From: 22 Aug 2013,To: 22 Aug 2013,Ethiopia,FY 2013,5,Moslem,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Iraq,FY 2013,57,Christian,28,412
+From: 22 Aug 2013,To: 22 Aug 2013,Iraq,FY 2013,57,Moslem Shiite,9,412
+From: 22 Aug 2013,To: 22 Aug 2013,Iraq,FY 2013,57,Moslem Suni,20,412
+From: 22 Aug 2013,To: 22 Aug 2013,Republic of South Sudan,FY 2013,8,Protestant,8,412
+From: 22 Aug 2013,To: 22 Aug 2013,Rwanda,FY 2013,6,Catholic,6,412
+From: 22 Aug 2013,To: 22 Aug 2013,Somalia,FY 2013,10,Moslem,9,412
+From: 22 Aug 2013,To: 22 Aug 2013,Somalia,FY 2013,10,Moslem Suni,1,412
+From: 22 Aug 2013,To: 22 Aug 2013,Sudan,FY 2013,26,Moslem,26,412
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Aug 2013,To: 22 Aug 2013,Baptist,FY 2013,3,Burma,3,412
+From: 22 Aug 2013,To: 22 Aug 2013,Buddhist,FY 2013,44,Bhutan,15,412
+From: 22 Aug 2013,To: 22 Aug 2013,Buddhist,FY 2013,44,Burma,29,412
+From: 22 Aug 2013,To: 22 Aug 2013,Catholic,FY 2013,30,Burma,1,412
+From: 22 Aug 2013,To: 22 Aug 2013,Catholic,FY 2013,30,Cuba,23,412
+From: 22 Aug 2013,To: 22 Aug 2013,Catholic,FY 2013,30,Rwanda,6,412
+From: 22 Aug 2013,To: 22 Aug 2013,Christian,FY 2013,145,Bhutan,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Christian,FY 2013,145,Burma,108,412
+From: 22 Aug 2013,To: 22 Aug 2013,Christian,FY 2013,145,Eritrea,4,412
+From: 22 Aug 2013,To: 22 Aug 2013,Christian,FY 2013,145,Iraq,28,412
+From: 22 Aug 2013,To: 22 Aug 2013,Evangelical Christian,FY 2013,10,Burma,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Evangelical Christian,FY 2013,10,Cuba,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Hindu,FY 2013,45,Bhutan,45,412
+From: 22 Aug 2013,To: 22 Aug 2013,Jehovah Witness,FY 2013,7,Cuba,7,412
+From: 22 Aug 2013,To: 22 Aug 2013,Kirat,FY 2013,2,Bhutan,2,412
+From: 22 Aug 2013,To: 22 Aug 2013,Methodist,FY 2013,5,Dem. Rep. Congo,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem,FY 2013,50,Burma,10,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem,FY 2013,50,Ethiopia,5,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem,FY 2013,50,Somalia,9,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem,FY 2013,50,Sudan,26,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem Shiite,FY 2013,9,Iraq,9,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem Suni,FY 2013,24,Afghanistan,3,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem Suni,FY 2013,24,Iraq,20,412
+From: 22 Aug 2013,To: 22 Aug 2013,Moslem Suni,FY 2013,24,Somalia,1,412
+From: 22 Aug 2013,To: 22 Aug 2013,No Religion,FY 2013,12,Cuba,12,412
+From: 22 Aug 2013,To: 22 Aug 2013,Pentecostalist,FY 2013,6,Cuba,6,412
+From: 22 Aug 2013,To: 22 Aug 2013,Protestant,FY 2013,10,Dem. Rep. Congo,2,412
+From: 22 Aug 2013,To: 22 Aug 2013,Protestant,FY 2013,10,Republic of South Sudan,8,412
+From: 22 Aug 2013,To: 22 Aug 2013,Seventh Day Adventist,FY 2013,10,Cuba,10,412
+

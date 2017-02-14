@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 May 2006,To: 17 May 2006,Afghanistan,FY 2006,15,Moslem,8,174
+From: 17 May 2006,To: 17 May 2006,Afghanistan,FY 2006,15,Moslem Shiite,7,174
+From: 17 May 2006,To: 17 May 2006,Burma,FY 2006,4,Christian,4,174
+From: 17 May 2006,To: 17 May 2006,Dem. Rep. Congo,FY 2006,3,Protestant,3,174
+From: 17 May 2006,To: 17 May 2006,Ethiopia,FY 2006,6,Orthodox,6,174
+From: 17 May 2006,To: 17 May 2006,Iran,FY 2006,17,Christian,15,174
+From: 17 May 2006,To: 17 May 2006,Iran,FY 2006,17,Zoroastrian,2,174
+From: 17 May 2006,To: 17 May 2006,Latvia,FY 2006,1,Jewish,1,174
+From: 17 May 2006,To: 17 May 2006,Russia,FY 2006,42,Baptist,13,174
+From: 17 May 2006,To: 17 May 2006,Russia,FY 2006,42,Moslem,25,174
+From: 17 May 2006,To: 17 May 2006,Russia,FY 2006,42,Pentecostalist,4,174
+From: 17 May 2006,To: 17 May 2006,Somalia,FY 2006,62,Moslem,62,174
+From: 17 May 2006,To: 17 May 2006,Sudan,FY 2006,24,Catholic,2,174
+From: 17 May 2006,To: 17 May 2006,Sudan,FY 2006,24,Christian,11,174
+From: 17 May 2006,To: 17 May 2006,Sudan,FY 2006,24,Evangelical Christian,5,174
+From: 17 May 2006,To: 17 May 2006,Sudan,FY 2006,24,Moslem,6,174
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 May 2006,To: 17 May 2006,Baptist,FY 2006,13,Russia,13,174
+From: 17 May 2006,To: 17 May 2006,Catholic,FY 2006,2,Sudan,2,174
+From: 17 May 2006,To: 17 May 2006,Christian,FY 2006,30,Burma,4,174
+From: 17 May 2006,To: 17 May 2006,Christian,FY 2006,30,Iran,15,174
+From: 17 May 2006,To: 17 May 2006,Christian,FY 2006,30,Sudan,11,174
+From: 17 May 2006,To: 17 May 2006,Evangelical Christian,FY 2006,5,Sudan,5,174
+From: 17 May 2006,To: 17 May 2006,Jewish,FY 2006,1,Latvia,1,174
+From: 17 May 2006,To: 17 May 2006,Moslem,FY 2006,101,Afghanistan,8,174
+From: 17 May 2006,To: 17 May 2006,Moslem,FY 2006,101,Russia,25,174
+From: 17 May 2006,To: 17 May 2006,Moslem,FY 2006,101,Somalia,62,174
+From: 17 May 2006,To: 17 May 2006,Moslem,FY 2006,101,Sudan,6,174
+From: 17 May 2006,To: 17 May 2006,Moslem Shiite,FY 2006,7,Afghanistan,7,174
+From: 17 May 2006,To: 17 May 2006,Orthodox,FY 2006,6,Ethiopia,6,174
+From: 17 May 2006,To: 17 May 2006,Pentecostalist,FY 2006,4,Russia,4,174
+From: 17 May 2006,To: 17 May 2006,Protestant,FY 2006,3,Dem. Rep. Congo,3,174
+From: 17 May 2006,To: 17 May 2006,Zoroastrian,FY 2006,2,Iran,2,174
+

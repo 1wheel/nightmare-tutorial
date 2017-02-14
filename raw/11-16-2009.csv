@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Nov 2009,To: 16 Nov 2009,Bhutan,FY 2010,134,Buddhist,6,348
+From: 16 Nov 2009,To: 16 Nov 2009,Bhutan,FY 2010,134,Christian,14,348
+From: 16 Nov 2009,To: 16 Nov 2009,Bhutan,FY 2010,134,Hindu,105,348
+From: 16 Nov 2009,To: 16 Nov 2009,Bhutan,FY 2010,134,Kirat,9,348
+From: 16 Nov 2009,To: 16 Nov 2009,Burma,FY 2010,69,Animist,11,348
+From: 16 Nov 2009,To: 16 Nov 2009,Burma,FY 2010,69,Baptist,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Burma,FY 2010,69,Buddhist,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Burma,FY 2010,69,Catholic,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Burma,FY 2010,69,Christian,51,348
+From: 16 Nov 2009,To: 16 Nov 2009,Burma,FY 2010,69,Moslem,3,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iran,FY 2010,21,Bahai,14,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iran,FY 2010,21,Moslem,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iran,FY 2010,21,Moslem Suni,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iran,FY 2010,21,No Religion,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iran,FY 2010,21,Protestant,3,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Catholic,4,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Christian,43,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Moslem,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Moslem Shiite,6,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Moslem Suni,47,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Other Religion,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Iraq,FY 2010,104,Sabeans-Mandean,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Mauritania,FY 2010,1,Moslem,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Sierra Leone,FY 2010,3,Moslem,3,348
+From: 16 Nov 2009,To: 16 Nov 2009,Somalia,FY 2010,1,Moslem Suni,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Ukraine,FY 2010,15,Baptist,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Ukraine,FY 2010,15,Pentecostalist,9,348
+From: 16 Nov 2009,To: 16 Nov 2009,Ukraine,FY 2010,15,Seventh Day Adventist,4,348
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Nov 2009,To: 16 Nov 2009,Animist,FY 2010,11,Burma,11,348
+From: 16 Nov 2009,To: 16 Nov 2009,Bahai,FY 2010,14,Iran,14,348
+From: 16 Nov 2009,To: 16 Nov 2009,Baptist,FY 2010,3,Burma,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Baptist,FY 2010,3,Ukraine,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Buddhist,FY 2010,8,Bhutan,6,348
+From: 16 Nov 2009,To: 16 Nov 2009,Buddhist,FY 2010,8,Burma,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Catholic,FY 2010,5,Burma,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Catholic,FY 2010,5,Iraq,4,348
+From: 16 Nov 2009,To: 16 Nov 2009,Christian,FY 2010,108,Bhutan,14,348
+From: 16 Nov 2009,To: 16 Nov 2009,Christian,FY 2010,108,Burma,51,348
+From: 16 Nov 2009,To: 16 Nov 2009,Christian,FY 2010,108,Iraq,43,348
+From: 16 Nov 2009,To: 16 Nov 2009,Hindu,FY 2010,105,Bhutan,105,348
+From: 16 Nov 2009,To: 16 Nov 2009,Kirat,FY 2010,9,Bhutan,9,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem,FY 2010,9,Burma,3,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem,FY 2010,9,Iran,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem,FY 2010,9,Iraq,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem,FY 2010,9,Mauritania,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem,FY 2010,9,Sierra Leone,3,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem Shiite,FY 2010,6,Iraq,6,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem Suni,FY 2010,50,Iran,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem Suni,FY 2010,50,Iraq,47,348
+From: 16 Nov 2009,To: 16 Nov 2009,Moslem Suni,FY 2010,50,Somalia,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,No Religion,FY 2010,1,Iran,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Other Religion,FY 2010,1,Iraq,1,348
+From: 16 Nov 2009,To: 16 Nov 2009,Pentecostalist,FY 2010,9,Ukraine,9,348
+From: 16 Nov 2009,To: 16 Nov 2009,Protestant,FY 2010,3,Iran,3,348
+From: 16 Nov 2009,To: 16 Nov 2009,Sabeans-Mandean,FY 2010,2,Iraq,2,348
+From: 16 Nov 2009,To: 16 Nov 2009,Seventh Day Adventist,FY 2010,4,Ukraine,4,348
+

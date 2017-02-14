@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Nov 2003,To: 20 Nov 2003,Afghanistan,FY 2004,13,Moslem,5,297
+From: 20 Nov 2003,To: 20 Nov 2003,Afghanistan,FY 2004,13,Moslem Shiite,3,297
+From: 20 Nov 2003,To: 20 Nov 2003,Afghanistan,FY 2004,13,Moslem Suni,5,297
+From: 20 Nov 2003,To: 20 Nov 2003,Belarus,FY 2004,31,Baptist,9,297
+From: 20 Nov 2003,To: 20 Nov 2003,Belarus,FY 2004,31,Jewish,6,297
+From: 20 Nov 2003,To: 20 Nov 2003,Belarus,FY 2004,31,Pentecostalist,16,297
+From: 20 Nov 2003,To: 20 Nov 2003,Colombia,FY 2004,7,Evangelical Christian,7,297
+From: 20 Nov 2003,To: 20 Nov 2003,Dem. Rep. Congo,FY 2004,9,Christian,9,297
+From: 20 Nov 2003,To: 20 Nov 2003,Ethiopia,FY 2004,56,Christian,18,297
+From: 20 Nov 2003,To: 20 Nov 2003,Ethiopia,FY 2004,56,Moslem,38,297
+From: 20 Nov 2003,To: 20 Nov 2003,Pakistan,FY 2004,3,Christian,3,297
+From: 20 Nov 2003,To: 20 Nov 2003,Russia,FY 2004,34,Baptist,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Russia,FY 2004,34,Jewish,24,297
+From: 20 Nov 2003,To: 20 Nov 2003,Russia,FY 2004,34,Pentecostalist,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Russia,FY 2004,34,Unknown,6,297
+From: 20 Nov 2003,To: 20 Nov 2003,Rwanda,FY 2004,1,Christian,1,297
+From: 20 Nov 2003,To: 20 Nov 2003,Somalia,FY 2004,47,Moslem,47,297
+From: 20 Nov 2003,To: 20 Nov 2003,Sudan,FY 2004,34,Catholic,11,297
+From: 20 Nov 2003,To: 20 Nov 2003,Sudan,FY 2004,34,Christian,12,297
+From: 20 Nov 2003,To: 20 Nov 2003,Sudan,FY 2004,34,Jehovah Witness,1,297
+From: 20 Nov 2003,To: 20 Nov 2003,Sudan,FY 2004,34,Protestant,10,297
+From: 20 Nov 2003,To: 20 Nov 2003,Ukraine,FY 2004,35,Baptist,9,297
+From: 20 Nov 2003,To: 20 Nov 2003,Ukraine,FY 2004,35,Jewish,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Ukraine,FY 2004,35,Pentecostalist,22,297
+From: 20 Nov 2003,To: 20 Nov 2003,Ukraine,FY 2004,35,Seventh Day Adventist,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Vietnam,FY 2004,27,Buddhist,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Vietnam,FY 2004,27,Catholic,12,297
+From: 20 Nov 2003,To: 20 Nov 2003,Vietnam,FY 2004,27,No Religion,7,297
+From: 20 Nov 2003,To: 20 Nov 2003,Vietnam,FY 2004,27,Unknown,6,297
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Nov 2003,To: 20 Nov 2003,Baptist,FY 2004,20,Belarus,9,297
+From: 20 Nov 2003,To: 20 Nov 2003,Baptist,FY 2004,20,Russia,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Baptist,FY 2004,20,Ukraine,9,297
+From: 20 Nov 2003,To: 20 Nov 2003,Buddhist,FY 2004,2,Vietnam,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Catholic,FY 2004,23,Sudan,11,297
+From: 20 Nov 2003,To: 20 Nov 2003,Catholic,FY 2004,23,Vietnam,12,297
+From: 20 Nov 2003,To: 20 Nov 2003,Christian,FY 2004,43,Dem. Rep. Congo,9,297
+From: 20 Nov 2003,To: 20 Nov 2003,Christian,FY 2004,43,Ethiopia,18,297
+From: 20 Nov 2003,To: 20 Nov 2003,Christian,FY 2004,43,Pakistan,3,297
+From: 20 Nov 2003,To: 20 Nov 2003,Christian,FY 2004,43,Rwanda,1,297
+From: 20 Nov 2003,To: 20 Nov 2003,Christian,FY 2004,43,Sudan,12,297
+From: 20 Nov 2003,To: 20 Nov 2003,Evangelical Christian,FY 2004,7,Colombia,7,297
+From: 20 Nov 2003,To: 20 Nov 2003,Jehovah Witness,FY 2004,1,Sudan,1,297
+From: 20 Nov 2003,To: 20 Nov 2003,Jewish,FY 2004,32,Belarus,6,297
+From: 20 Nov 2003,To: 20 Nov 2003,Jewish,FY 2004,32,Russia,24,297
+From: 20 Nov 2003,To: 20 Nov 2003,Jewish,FY 2004,32,Ukraine,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Moslem,FY 2004,90,Afghanistan,5,297
+From: 20 Nov 2003,To: 20 Nov 2003,Moslem,FY 2004,90,Ethiopia,38,297
+From: 20 Nov 2003,To: 20 Nov 2003,Moslem,FY 2004,90,Somalia,47,297
+From: 20 Nov 2003,To: 20 Nov 2003,Moslem Shiite,FY 2004,3,Afghanistan,3,297
+From: 20 Nov 2003,To: 20 Nov 2003,Moslem Suni,FY 2004,5,Afghanistan,5,297
+From: 20 Nov 2003,To: 20 Nov 2003,No Religion,FY 2004,7,Vietnam,7,297
+From: 20 Nov 2003,To: 20 Nov 2003,Pentecostalist,FY 2004,40,Belarus,16,297
+From: 20 Nov 2003,To: 20 Nov 2003,Pentecostalist,FY 2004,40,Russia,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Pentecostalist,FY 2004,40,Ukraine,22,297
+From: 20 Nov 2003,To: 20 Nov 2003,Protestant,FY 2004,10,Sudan,10,297
+From: 20 Nov 2003,To: 20 Nov 2003,Seventh Day Adventist,FY 2004,2,Ukraine,2,297
+From: 20 Nov 2003,To: 20 Nov 2003,Unknown,FY 2004,12,Russia,6,297
+From: 20 Nov 2003,To: 20 Nov 2003,Unknown,FY 2004,12,Vietnam,6,297
+

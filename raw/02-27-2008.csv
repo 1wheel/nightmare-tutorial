@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Feb 2008,To: 27 Feb 2008,Afghanistan,FY 2008,23,Moslem,6,319
+From: 27 Feb 2008,To: 27 Feb 2008,Afghanistan,FY 2008,23,Moslem Ismaici,6,319
+From: 27 Feb 2008,To: 27 Feb 2008,Afghanistan,FY 2008,23,Moslem Suni,11,319
+From: 27 Feb 2008,To: 27 Feb 2008,Azerbaijan,FY 2008,1,Jewish,1,319
+From: 27 Feb 2008,To: 27 Feb 2008,Bhutan,FY 2008,4,Hindu,4,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burma,FY 2008,65,Buddhist,14,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burma,FY 2008,65,Christian,41,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burma,FY 2008,65,Moslem,10,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burundi,FY 2008,35,Catholic,10,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burundi,FY 2008,35,Christian,8,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burundi,FY 2008,35,Methodist,9,319
+From: 27 Feb 2008,To: 27 Feb 2008,Burundi,FY 2008,35,Pentecostalist,8,319
+From: 27 Feb 2008,To: 27 Feb 2008,Cuba,FY 2008,34,Catholic,13,319
+From: 27 Feb 2008,To: 27 Feb 2008,Cuba,FY 2008,34,Jehovah Witness,10,319
+From: 27 Feb 2008,To: 27 Feb 2008,Cuba,FY 2008,34,No Religion,11,319
+From: 27 Feb 2008,To: 27 Feb 2008,Dem. Rep. Congo,FY 2008,3,Catholic,2,319
+From: 27 Feb 2008,To: 27 Feb 2008,Dem. Rep. Congo,FY 2008,3,Protestant,1,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iran,FY 2008,70,Bahai,14,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iran,FY 2008,70,Christian,51,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iran,FY 2008,70,Zoroastrian,5,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iraq,FY 2008,61,Catholic,17,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iraq,FY 2008,61,Christian,3,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iraq,FY 2008,61,Moslem Shiite,2,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iraq,FY 2008,61,Moslem Suni,33,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iraq,FY 2008,61,Orthodox,2,319
+From: 27 Feb 2008,To: 27 Feb 2008,Iraq,FY 2008,61,Sabeans-Mandean,4,319
+From: 27 Feb 2008,To: 27 Feb 2008,Kazakhstan,FY 2008,12,Baptist,11,319
+From: 27 Feb 2008,To: 27 Feb 2008,Kazakhstan,FY 2008,12,Pentecostalist,1,319
+From: 27 Feb 2008,To: 27 Feb 2008,Russia,FY 2008,6,Baptist,6,319
+From: 27 Feb 2008,To: 27 Feb 2008,Uzbekistan,FY 2008,5,Jewish,5,319
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Feb 2008,To: 27 Feb 2008,Bahai,FY 2008,14,Iran,14,319
+From: 27 Feb 2008,To: 27 Feb 2008,Baptist,FY 2008,17,Kazakhstan,11,319
+From: 27 Feb 2008,To: 27 Feb 2008,Baptist,FY 2008,17,Russia,6,319
+From: 27 Feb 2008,To: 27 Feb 2008,Buddhist,FY 2008,14,Burma,14,319
+From: 27 Feb 2008,To: 27 Feb 2008,Catholic,FY 2008,42,Burundi,10,319
+From: 27 Feb 2008,To: 27 Feb 2008,Catholic,FY 2008,42,Cuba,13,319
+From: 27 Feb 2008,To: 27 Feb 2008,Catholic,FY 2008,42,Dem. Rep. Congo,2,319
+From: 27 Feb 2008,To: 27 Feb 2008,Catholic,FY 2008,42,Iraq,17,319
+From: 27 Feb 2008,To: 27 Feb 2008,Christian,FY 2008,103,Burma,41,319
+From: 27 Feb 2008,To: 27 Feb 2008,Christian,FY 2008,103,Burundi,8,319
+From: 27 Feb 2008,To: 27 Feb 2008,Christian,FY 2008,103,Iran,51,319
+From: 27 Feb 2008,To: 27 Feb 2008,Christian,FY 2008,103,Iraq,3,319
+From: 27 Feb 2008,To: 27 Feb 2008,Hindu,FY 2008,4,Bhutan,4,319
+From: 27 Feb 2008,To: 27 Feb 2008,Jehovah Witness,FY 2008,10,Cuba,10,319
+From: 27 Feb 2008,To: 27 Feb 2008,Jewish,FY 2008,6,Azerbaijan,1,319
+From: 27 Feb 2008,To: 27 Feb 2008,Jewish,FY 2008,6,Uzbekistan,5,319
+From: 27 Feb 2008,To: 27 Feb 2008,Methodist,FY 2008,9,Burundi,9,319
+From: 27 Feb 2008,To: 27 Feb 2008,Moslem,FY 2008,16,Afghanistan,6,319
+From: 27 Feb 2008,To: 27 Feb 2008,Moslem,FY 2008,16,Burma,10,319
+From: 27 Feb 2008,To: 27 Feb 2008,Moslem Ismaici,FY 2008,6,Afghanistan,6,319
+From: 27 Feb 2008,To: 27 Feb 2008,Moslem Shiite,FY 2008,2,Iraq,2,319
+From: 27 Feb 2008,To: 27 Feb 2008,Moslem Suni,FY 2008,44,Afghanistan,11,319
+From: 27 Feb 2008,To: 27 Feb 2008,Moslem Suni,FY 2008,44,Iraq,33,319
+From: 27 Feb 2008,To: 27 Feb 2008,No Religion,FY 2008,11,Cuba,11,319
+From: 27 Feb 2008,To: 27 Feb 2008,Orthodox,FY 2008,2,Iraq,2,319
+From: 27 Feb 2008,To: 27 Feb 2008,Pentecostalist,FY 2008,9,Burundi,8,319
+From: 27 Feb 2008,To: 27 Feb 2008,Pentecostalist,FY 2008,9,Kazakhstan,1,319
+From: 27 Feb 2008,To: 27 Feb 2008,Protestant,FY 2008,1,Dem. Rep. Congo,1,319
+From: 27 Feb 2008,To: 27 Feb 2008,Sabeans-Mandean,FY 2008,4,Iraq,4,319
+From: 27 Feb 2008,To: 27 Feb 2008,Zoroastrian,FY 2008,5,Iran,5,319
+

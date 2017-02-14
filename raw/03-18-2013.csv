@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Mar 2013,To: 18 Mar 2013,Bhutan,FY 2013,32,Christian,4,328
+From: 18 Mar 2013,To: 18 Mar 2013,Bhutan,FY 2013,32,Hindu,26,328
+From: 18 Mar 2013,To: 18 Mar 2013,Bhutan,FY 2013,32,Kirat,2,328
+From: 18 Mar 2013,To: 18 Mar 2013,Burma,FY 2013,32,Baptist,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Burma,FY 2013,32,Buddhist,8,328
+From: 18 Mar 2013,To: 18 Mar 2013,Burma,FY 2013,32,Catholic,2,328
+From: 18 Mar 2013,To: 18 Mar 2013,Burma,FY 2013,32,Christian,20,328
+From: 18 Mar 2013,To: 18 Mar 2013,Burma,FY 2013,32,Methodist,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Dem. Rep. Congo,FY 2013,57,Catholic,7,328
+From: 18 Mar 2013,To: 18 Mar 2013,Dem. Rep. Congo,FY 2013,57,Methodist,14,328
+From: 18 Mar 2013,To: 18 Mar 2013,Dem. Rep. Congo,FY 2013,57,Moslem,9,328
+From: 18 Mar 2013,To: 18 Mar 2013,Dem. Rep. Congo,FY 2013,57,Pentecostalist,17,328
+From: 18 Mar 2013,To: 18 Mar 2013,Dem. Rep. Congo,FY 2013,57,Protestant,10,328
+From: 18 Mar 2013,To: 18 Mar 2013,Ethiopia,FY 2013,9,Christian,6,328
+From: 18 Mar 2013,To: 18 Mar 2013,Ethiopia,FY 2013,9,Moslem,3,328
+From: 18 Mar 2013,To: 18 Mar 2013,Iraq,FY 2013,146,Catholic,3,328
+From: 18 Mar 2013,To: 18 Mar 2013,Iraq,FY 2013,146,Christian,43,328
+From: 18 Mar 2013,To: 18 Mar 2013,Iraq,FY 2013,146,Moslem Shiite,49,328
+From: 18 Mar 2013,To: 18 Mar 2013,Iraq,FY 2013,146,Moslem Suni,51,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moldova,FY 2013,10,Baptist,5,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moldova,FY 2013,10,Seventh Day Adventist,5,328
+From: 18 Mar 2013,To: 18 Mar 2013,Palestine,FY 2013,9,Moslem,9,328
+From: 18 Mar 2013,To: 18 Mar 2013,Rwanda,FY 2013,8,Moslem,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Rwanda,FY 2013,8,Pentecostalist,6,328
+From: 18 Mar 2013,To: 18 Mar 2013,Rwanda,FY 2013,8,Seventh Day Adventist,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Somalia,FY 2013,25,Moslem,25,328
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Mar 2013,To: 18 Mar 2013,Baptist,FY 2013,6,Burma,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Baptist,FY 2013,6,Moldova,5,328
+From: 18 Mar 2013,To: 18 Mar 2013,Buddhist,FY 2013,8,Burma,8,328
+From: 18 Mar 2013,To: 18 Mar 2013,Catholic,FY 2013,12,Burma,2,328
+From: 18 Mar 2013,To: 18 Mar 2013,Catholic,FY 2013,12,Dem. Rep. Congo,7,328
+From: 18 Mar 2013,To: 18 Mar 2013,Catholic,FY 2013,12,Iraq,3,328
+From: 18 Mar 2013,To: 18 Mar 2013,Christian,FY 2013,73,Bhutan,4,328
+From: 18 Mar 2013,To: 18 Mar 2013,Christian,FY 2013,73,Burma,20,328
+From: 18 Mar 2013,To: 18 Mar 2013,Christian,FY 2013,73,Ethiopia,6,328
+From: 18 Mar 2013,To: 18 Mar 2013,Christian,FY 2013,73,Iraq,43,328
+From: 18 Mar 2013,To: 18 Mar 2013,Hindu,FY 2013,26,Bhutan,26,328
+From: 18 Mar 2013,To: 18 Mar 2013,Kirat,FY 2013,2,Bhutan,2,328
+From: 18 Mar 2013,To: 18 Mar 2013,Methodist,FY 2013,15,Burma,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Methodist,FY 2013,15,Dem. Rep. Congo,14,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem,FY 2013,47,Dem. Rep. Congo,9,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem,FY 2013,47,Ethiopia,3,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem,FY 2013,47,Palestine,9,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem,FY 2013,47,Rwanda,1,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem,FY 2013,47,Somalia,25,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem Shiite,FY 2013,49,Iraq,49,328
+From: 18 Mar 2013,To: 18 Mar 2013,Moslem Suni,FY 2013,51,Iraq,51,328
+From: 18 Mar 2013,To: 18 Mar 2013,Pentecostalist,FY 2013,23,Dem. Rep. Congo,17,328
+From: 18 Mar 2013,To: 18 Mar 2013,Pentecostalist,FY 2013,23,Rwanda,6,328
+From: 18 Mar 2013,To: 18 Mar 2013,Protestant,FY 2013,10,Dem. Rep. Congo,10,328
+From: 18 Mar 2013,To: 18 Mar 2013,Seventh Day Adventist,FY 2013,6,Moldova,5,328
+From: 18 Mar 2013,To: 18 Mar 2013,Seventh Day Adventist,FY 2013,6,Rwanda,1,328
+

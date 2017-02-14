@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Dec 2004,To: 02 Dec 2004,Bosnia and Herzegovina,FY 2005,17,Orthodox,17,398
+From: 02 Dec 2004,To: 02 Dec 2004,Burma,FY 2005,55,Buddhist,21,398
+From: 02 Dec 2004,To: 02 Dec 2004,Burma,FY 2005,55,Protestant,34,398
+From: 02 Dec 2004,To: 02 Dec 2004,Croatia,FY 2005,11,Orthodox,11,398
+From: 02 Dec 2004,To: 02 Dec 2004,Cuba,FY 2005,69,Catholic,21,398
+From: 02 Dec 2004,To: 02 Dec 2004,Cuba,FY 2005,69,Christian,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Cuba,FY 2005,69,Evangelical Christian,3,398
+From: 02 Dec 2004,To: 02 Dec 2004,Cuba,FY 2005,69,Jehovah Witness,12,398
+From: 02 Dec 2004,To: 02 Dec 2004,Cuba,FY 2005,69,No Religion,29,398
+From: 02 Dec 2004,To: 02 Dec 2004,Cuba,FY 2005,69,Pentecostalist,3,398
+From: 02 Dec 2004,To: 02 Dec 2004,Dem. Rep. Congo,FY 2005,16,Christian,16,398
+From: 02 Dec 2004,To: 02 Dec 2004,Laos,FY 2005,45,Ancestral Worship,41,398
+From: 02 Dec 2004,To: 02 Dec 2004,Laos,FY 2005,45,Christian,4,398
+From: 02 Dec 2004,To: 02 Dec 2004,Senegal,FY 2005,1,Moslem,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Serbia,FY 2005,1,Orthodox,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Sierra Leone,FY 2005,33,Christian,14,398
+From: 02 Dec 2004,To: 02 Dec 2004,Sierra Leone,FY 2005,33,Methodist,4,398
+From: 02 Dec 2004,To: 02 Dec 2004,Sierra Leone,FY 2005,33,Moslem,8,398
+From: 02 Dec 2004,To: 02 Dec 2004,Sierra Leone,FY 2005,33,Pentecostalist,7,398
+From: 02 Dec 2004,To: 02 Dec 2004,Somalia,FY 2005,107,Moslem,107,398
+From: 02 Dec 2004,To: 02 Dec 2004,Sudan,FY 2005,13,Catholic,12,398
+From: 02 Dec 2004,To: 02 Dec 2004,Sudan,FY 2005,13,Christian,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Ukraine,FY 2005,30,Baptist,5,398
+From: 02 Dec 2004,To: 02 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,23,398
+From: 02 Dec 2004,To: 02 Dec 2004,Ukraine,FY 2005,30,Uniate,2,398
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Dec 2004,To: 02 Dec 2004,Ancestral Worship,FY 2005,41,Laos,41,398
+From: 02 Dec 2004,To: 02 Dec 2004,Baptist,FY 2005,5,Ukraine,5,398
+From: 02 Dec 2004,To: 02 Dec 2004,Buddhist,FY 2005,21,Burma,21,398
+From: 02 Dec 2004,To: 02 Dec 2004,Catholic,FY 2005,33,Cuba,21,398
+From: 02 Dec 2004,To: 02 Dec 2004,Catholic,FY 2005,33,Sudan,12,398
+From: 02 Dec 2004,To: 02 Dec 2004,Christian,FY 2005,36,Cuba,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Christian,FY 2005,36,Dem. Rep. Congo,16,398
+From: 02 Dec 2004,To: 02 Dec 2004,Christian,FY 2005,36,Laos,4,398
+From: 02 Dec 2004,To: 02 Dec 2004,Christian,FY 2005,36,Sierra Leone,14,398
+From: 02 Dec 2004,To: 02 Dec 2004,Christian,FY 2005,36,Sudan,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Evangelical Christian,FY 2005,3,Cuba,3,398
+From: 02 Dec 2004,To: 02 Dec 2004,Jehovah Witness,FY 2005,12,Cuba,12,398
+From: 02 Dec 2004,To: 02 Dec 2004,Methodist,FY 2005,4,Sierra Leone,4,398
+From: 02 Dec 2004,To: 02 Dec 2004,Moslem,FY 2005,116,Senegal,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Moslem,FY 2005,116,Sierra Leone,8,398
+From: 02 Dec 2004,To: 02 Dec 2004,Moslem,FY 2005,116,Somalia,107,398
+From: 02 Dec 2004,To: 02 Dec 2004,No Religion,FY 2005,29,Cuba,29,398
+From: 02 Dec 2004,To: 02 Dec 2004,Orthodox,FY 2005,29,Bosnia and Herzegovina,17,398
+From: 02 Dec 2004,To: 02 Dec 2004,Orthodox,FY 2005,29,Croatia,11,398
+From: 02 Dec 2004,To: 02 Dec 2004,Orthodox,FY 2005,29,Serbia,1,398
+From: 02 Dec 2004,To: 02 Dec 2004,Pentecostalist,FY 2005,33,Cuba,3,398
+From: 02 Dec 2004,To: 02 Dec 2004,Pentecostalist,FY 2005,33,Sierra Leone,7,398
+From: 02 Dec 2004,To: 02 Dec 2004,Pentecostalist,FY 2005,33,Ukraine,23,398
+From: 02 Dec 2004,To: 02 Dec 2004,Protestant,FY 2005,34,Burma,34,398
+From: 02 Dec 2004,To: 02 Dec 2004,Uniate,FY 2005,2,Ukraine,2,398
+

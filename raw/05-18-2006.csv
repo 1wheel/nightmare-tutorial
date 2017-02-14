@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 May 2006,To: 18 May 2006,Burma,FY 2006,1,Buddhist,1,145
+From: 18 May 2006,To: 18 May 2006,Colombia,FY 2006,14,Catholic,11,145
+From: 18 May 2006,To: 18 May 2006,Colombia,FY 2006,14,Christian,3,145
+From: 18 May 2006,To: 18 May 2006,Dem. Rep. Congo,FY 2006,10,Catholic,2,145
+From: 18 May 2006,To: 18 May 2006,Dem. Rep. Congo,FY 2006,10,Protestant,8,145
+From: 18 May 2006,To: 18 May 2006,Ethiopia,FY 2006,1,Orthodox,1,145
+From: 18 May 2006,To: 18 May 2006,Iran,FY 2006,11,Christian,8,145
+From: 18 May 2006,To: 18 May 2006,Iran,FY 2006,11,Zoroastrian,3,145
+From: 18 May 2006,To: 18 May 2006,Russia,FY 2006,11,Moslem,11,145
+From: 18 May 2006,To: 18 May 2006,Sierra Leone,FY 2006,9,Moslem,9,145
+From: 18 May 2006,To: 18 May 2006,Somalia,FY 2006,53,Moslem,49,145
+From: 18 May 2006,To: 18 May 2006,Somalia,FY 2006,53,Moslem Suni,3,145
+From: 18 May 2006,To: 18 May 2006,Somalia,FY 2006,53,Unknown,1,145
+From: 18 May 2006,To: 18 May 2006,Sudan,FY 2006,9,Christian,8,145
+From: 18 May 2006,To: 18 May 2006,Sudan,FY 2006,9,Protestant,1,145
+From: 18 May 2006,To: 18 May 2006,Vietnam,FY 2006,26,Buddhist,5,145
+From: 18 May 2006,To: 18 May 2006,Vietnam,FY 2006,26,No Religion,10,145
+From: 18 May 2006,To: 18 May 2006,Vietnam,FY 2006,26,Protestant,11,145
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 May 2006,To: 18 May 2006,Buddhist,FY 2006,6,Burma,1,145
+From: 18 May 2006,To: 18 May 2006,Buddhist,FY 2006,6,Vietnam,5,145
+From: 18 May 2006,To: 18 May 2006,Catholic,FY 2006,13,Colombia,11,145
+From: 18 May 2006,To: 18 May 2006,Catholic,FY 2006,13,Dem. Rep. Congo,2,145
+From: 18 May 2006,To: 18 May 2006,Christian,FY 2006,19,Colombia,3,145
+From: 18 May 2006,To: 18 May 2006,Christian,FY 2006,19,Iran,8,145
+From: 18 May 2006,To: 18 May 2006,Christian,FY 2006,19,Sudan,8,145
+From: 18 May 2006,To: 18 May 2006,Moslem,FY 2006,69,Russia,11,145
+From: 18 May 2006,To: 18 May 2006,Moslem,FY 2006,69,Sierra Leone,9,145
+From: 18 May 2006,To: 18 May 2006,Moslem,FY 2006,69,Somalia,49,145
+From: 18 May 2006,To: 18 May 2006,Moslem Suni,FY 2006,3,Somalia,3,145
+From: 18 May 2006,To: 18 May 2006,No Religion,FY 2006,10,Vietnam,10,145
+From: 18 May 2006,To: 18 May 2006,Orthodox,FY 2006,1,Ethiopia,1,145
+From: 18 May 2006,To: 18 May 2006,Protestant,FY 2006,20,Dem. Rep. Congo,8,145
+From: 18 May 2006,To: 18 May 2006,Protestant,FY 2006,20,Sudan,1,145
+From: 18 May 2006,To: 18 May 2006,Protestant,FY 2006,20,Vietnam,11,145
+From: 18 May 2006,To: 18 May 2006,Unknown,FY 2006,1,Somalia,1,145
+From: 18 May 2006,To: 18 May 2006,Zoroastrian,FY 2006,3,Iran,3,145
+

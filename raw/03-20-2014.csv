@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Mar 2014,To: 20 Mar 2014,Afghanistan,FY 2014,3,Moslem Suni,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Bhutan,FY 2014,39,Buddhist,8,402
+From: 20 Mar 2014,To: 20 Mar 2014,Bhutan,FY 2014,39,Christian,6,402
+From: 20 Mar 2014,To: 20 Mar 2014,Bhutan,FY 2014,39,Hindu,7,402
+From: 20 Mar 2014,To: 20 Mar 2014,Bhutan,FY 2014,39,Kirat,18,402
+From: 20 Mar 2014,To: 20 Mar 2014,Burma,FY 2014,143,Animist,19,402
+From: 20 Mar 2014,To: 20 Mar 2014,Burma,FY 2014,143,Baptist,6,402
+From: 20 Mar 2014,To: 20 Mar 2014,Burma,FY 2014,143,Buddhist,26,402
+From: 20 Mar 2014,To: 20 Mar 2014,Burma,FY 2014,143,Catholic,1,402
+From: 20 Mar 2014,To: 20 Mar 2014,Burma,FY 2014,143,Christian,83,402
+From: 20 Mar 2014,To: 20 Mar 2014,Burma,FY 2014,143,Moslem,8,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Catholic,17,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Christian,4,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Evangelical Christian,4,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Jehovah Witness,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Methodist,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,No Religion,24,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Seventh Day Adventist,6,402
+From: 20 Mar 2014,To: 20 Mar 2014,Cuba,FY 2014,62,Unknown,1,402
+From: 20 Mar 2014,To: 20 Mar 2014,Eritrea,FY 2014,20,Catholic,7,402
+From: 20 Mar 2014,To: 20 Mar 2014,Eritrea,FY 2014,20,Orthodox,13,402
+From: 20 Mar 2014,To: 20 Mar 2014,Ethiopia,FY 2014,3,Moslem,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Iraq,FY 2014,27,Catholic,2,402
+From: 20 Mar 2014,To: 20 Mar 2014,Iraq,FY 2014,27,Moslem,5,402
+From: 20 Mar 2014,To: 20 Mar 2014,Iraq,FY 2014,27,Moslem Shiite,2,402
+From: 20 Mar 2014,To: 20 Mar 2014,Iraq,FY 2014,27,Moslem Suni,18,402
+From: 20 Mar 2014,To: 20 Mar 2014,Somalia,FY 2014,91,Moslem,91,402
+From: 20 Mar 2014,To: 20 Mar 2014,Sudan,FY 2014,14,Moslem,14,402
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Mar 2014,To: 20 Mar 2014,Animist,FY 2014,19,Burma,19,402
+From: 20 Mar 2014,To: 20 Mar 2014,Baptist,FY 2014,6,Burma,6,402
+From: 20 Mar 2014,To: 20 Mar 2014,Buddhist,FY 2014,34,Bhutan,8,402
+From: 20 Mar 2014,To: 20 Mar 2014,Buddhist,FY 2014,34,Burma,26,402
+From: 20 Mar 2014,To: 20 Mar 2014,Catholic,FY 2014,27,Burma,1,402
+From: 20 Mar 2014,To: 20 Mar 2014,Catholic,FY 2014,27,Cuba,17,402
+From: 20 Mar 2014,To: 20 Mar 2014,Catholic,FY 2014,27,Eritrea,7,402
+From: 20 Mar 2014,To: 20 Mar 2014,Catholic,FY 2014,27,Iraq,2,402
+From: 20 Mar 2014,To: 20 Mar 2014,Christian,FY 2014,93,Bhutan,6,402
+From: 20 Mar 2014,To: 20 Mar 2014,Christian,FY 2014,93,Burma,83,402
+From: 20 Mar 2014,To: 20 Mar 2014,Christian,FY 2014,93,Cuba,4,402
+From: 20 Mar 2014,To: 20 Mar 2014,Evangelical Christian,FY 2014,4,Cuba,4,402
+From: 20 Mar 2014,To: 20 Mar 2014,Hindu,FY 2014,7,Bhutan,7,402
+From: 20 Mar 2014,To: 20 Mar 2014,Jehovah Witness,FY 2014,3,Cuba,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Kirat,FY 2014,18,Bhutan,18,402
+From: 20 Mar 2014,To: 20 Mar 2014,Methodist,FY 2014,3,Cuba,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem,FY 2014,121,Burma,8,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem,FY 2014,121,Ethiopia,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem,FY 2014,121,Iraq,5,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem,FY 2014,121,Somalia,91,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem,FY 2014,121,Sudan,14,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem Shiite,FY 2014,2,Iraq,2,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem Suni,FY 2014,21,Afghanistan,3,402
+From: 20 Mar 2014,To: 20 Mar 2014,Moslem Suni,FY 2014,21,Iraq,18,402
+From: 20 Mar 2014,To: 20 Mar 2014,No Religion,FY 2014,24,Cuba,24,402
+From: 20 Mar 2014,To: 20 Mar 2014,Orthodox,FY 2014,13,Eritrea,13,402
+From: 20 Mar 2014,To: 20 Mar 2014,Seventh Day Adventist,FY 2014,6,Cuba,6,402
+From: 20 Mar 2014,To: 20 Mar 2014,Unknown,FY 2014,1,Cuba,1,402
+

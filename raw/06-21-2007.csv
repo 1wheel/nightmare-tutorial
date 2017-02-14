@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jun 2007,To: 21 Jun 2007,Azerbaijan,FY 2007,3,Christian,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burma,FY 2007,124,Baptist,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burma,FY 2007,124,Buddhist,8,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burma,FY 2007,124,Christian,105,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burma,FY 2007,124,Moslem,6,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burma,FY 2007,124,Moslem Suni,4,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burundi,FY 2007,70,Catholic,13,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burundi,FY 2007,70,Pentecostalist,47,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burundi,FY 2007,70,Protestant,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Burundi,FY 2007,70,Seventh Day Adventist,9,283
+From: 21 Jun 2007,To: 21 Jun 2007,Dem. Rep. Congo,FY 2007,4,Protestant,4,283
+From: 21 Jun 2007,To: 21 Jun 2007,Eritrea,FY 2007,6,Moslem,2,283
+From: 21 Jun 2007,To: 21 Jun 2007,Eritrea,FY 2007,6,Orthodox,4,283
+From: 21 Jun 2007,To: 21 Jun 2007,Iran,FY 2007,57,Bahai,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,Iran,FY 2007,57,Christian,36,283
+From: 21 Jun 2007,To: 21 Jun 2007,Iran,FY 2007,57,Jewish,9,283
+From: 21 Jun 2007,To: 21 Jun 2007,Iran,FY 2007,57,Sabeans-Mandean,6,283
+From: 21 Jun 2007,To: 21 Jun 2007,Iran,FY 2007,57,Zoroastrian,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,Russia,FY 2007,13,Baptist,9,283
+From: 21 Jun 2007,To: 21 Jun 2007,Russia,FY 2007,13,Jewish,2,283
+From: 21 Jun 2007,To: 21 Jun 2007,Russia,FY 2007,13,No Religion,2,283
+From: 21 Jun 2007,To: 21 Jun 2007,Rwanda,FY 2007,1,Moslem,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Somalia,FY 2007,3,Moslem Suni,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,Sudan,FY 2007,2,Moslem,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Sudan,FY 2007,2,Protestant,1,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jun 2007,To: 21 Jun 2007,Bahai,FY 2007,3,Iran,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,Baptist,FY 2007,10,Burma,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Baptist,FY 2007,10,Russia,9,283
+From: 21 Jun 2007,To: 21 Jun 2007,Buddhist,FY 2007,8,Burma,8,283
+From: 21 Jun 2007,To: 21 Jun 2007,Catholic,FY 2007,13,Burundi,13,283
+From: 21 Jun 2007,To: 21 Jun 2007,Christian,FY 2007,144,Azerbaijan,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,Christian,FY 2007,144,Burma,105,283
+From: 21 Jun 2007,To: 21 Jun 2007,Christian,FY 2007,144,Iran,36,283
+From: 21 Jun 2007,To: 21 Jun 2007,Jewish,FY 2007,11,Iran,9,283
+From: 21 Jun 2007,To: 21 Jun 2007,Jewish,FY 2007,11,Russia,2,283
+From: 21 Jun 2007,To: 21 Jun 2007,Moslem,FY 2007,10,Burma,6,283
+From: 21 Jun 2007,To: 21 Jun 2007,Moslem,FY 2007,10,Eritrea,2,283
+From: 21 Jun 2007,To: 21 Jun 2007,Moslem,FY 2007,10,Rwanda,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Moslem,FY 2007,10,Sudan,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Moslem Suni,FY 2007,7,Burma,4,283
+From: 21 Jun 2007,To: 21 Jun 2007,Moslem Suni,FY 2007,7,Somalia,3,283
+From: 21 Jun 2007,To: 21 Jun 2007,No Religion,FY 2007,2,Russia,2,283
+From: 21 Jun 2007,To: 21 Jun 2007,Orthodox,FY 2007,4,Eritrea,4,283
+From: 21 Jun 2007,To: 21 Jun 2007,Pentecostalist,FY 2007,47,Burundi,47,283
+From: 21 Jun 2007,To: 21 Jun 2007,Protestant,FY 2007,6,Burundi,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Protestant,FY 2007,6,Dem. Rep. Congo,4,283
+From: 21 Jun 2007,To: 21 Jun 2007,Protestant,FY 2007,6,Sudan,1,283
+From: 21 Jun 2007,To: 21 Jun 2007,Sabeans-Mandean,FY 2007,6,Iran,6,283
+From: 21 Jun 2007,To: 21 Jun 2007,Seventh Day Adventist,FY 2007,9,Burundi,9,283
+From: 21 Jun 2007,To: 21 Jun 2007,Zoroastrian,FY 2007,3,Iran,3,283
+

@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Apr 2013,To: 15 Apr 2013,Afghanistan,FY 2013,7,Moslem Shiite,7,235
+From: 15 Apr 2013,To: 15 Apr 2013,Burma,FY 2013,34,Baptist,2,235
+From: 15 Apr 2013,To: 15 Apr 2013,Burma,FY 2013,34,Buddhist,2,235
+From: 15 Apr 2013,To: 15 Apr 2013,Burma,FY 2013,34,Christian,30,235
+From: 15 Apr 2013,To: 15 Apr 2013,Burundi,FY 2013,8,Catholic,8,235
+From: 15 Apr 2013,To: 15 Apr 2013,Central African Republic,FY 2013,12,Protestant,12,235
+From: 15 Apr 2013,To: 15 Apr 2013,Dem. Rep. Congo,FY 2013,1,Protestant,1,235
+From: 15 Apr 2013,To: 15 Apr 2013,Iraq,FY 2013,161,Catholic,37,235
+From: 15 Apr 2013,To: 15 Apr 2013,Iraq,FY 2013,161,Christian,9,235
+From: 15 Apr 2013,To: 15 Apr 2013,Iraq,FY 2013,161,Moslem,3,235
+From: 15 Apr 2013,To: 15 Apr 2013,Iraq,FY 2013,161,Moslem Shiite,52,235
+From: 15 Apr 2013,To: 15 Apr 2013,Iraq,FY 2013,161,Moslem Suni,60,235
+From: 15 Apr 2013,To: 15 Apr 2013,Somalia,FY 2013,12,Moslem,3,235
+From: 15 Apr 2013,To: 15 Apr 2013,Somalia,FY 2013,12,Moslem Suni,9,235
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Apr 2013,To: 15 Apr 2013,Baptist,FY 2013,2,Burma,2,235
+From: 15 Apr 2013,To: 15 Apr 2013,Buddhist,FY 2013,2,Burma,2,235
+From: 15 Apr 2013,To: 15 Apr 2013,Catholic,FY 2013,45,Burundi,8,235
+From: 15 Apr 2013,To: 15 Apr 2013,Catholic,FY 2013,45,Iraq,37,235
+From: 15 Apr 2013,To: 15 Apr 2013,Christian,FY 2013,39,Burma,30,235
+From: 15 Apr 2013,To: 15 Apr 2013,Christian,FY 2013,39,Iraq,9,235
+From: 15 Apr 2013,To: 15 Apr 2013,Moslem,FY 2013,6,Iraq,3,235
+From: 15 Apr 2013,To: 15 Apr 2013,Moslem,FY 2013,6,Somalia,3,235
+From: 15 Apr 2013,To: 15 Apr 2013,Moslem Shiite,FY 2013,59,Afghanistan,7,235
+From: 15 Apr 2013,To: 15 Apr 2013,Moslem Shiite,FY 2013,59,Iraq,52,235
+From: 15 Apr 2013,To: 15 Apr 2013,Moslem Suni,FY 2013,69,Iraq,60,235
+From: 15 Apr 2013,To: 15 Apr 2013,Moslem Suni,FY 2013,69,Somalia,9,235
+From: 15 Apr 2013,To: 15 Apr 2013,Protestant,FY 2013,13,Central African Republic,12,235
+From: 15 Apr 2013,To: 15 Apr 2013,Protestant,FY 2013,13,Dem. Rep. Congo,1,235
+

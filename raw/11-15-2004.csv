@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Nov 2004,To: 15 Nov 2004,Ethiopia,FY 2005,17,Moslem,12,152
+From: 15 Nov 2004,To: 15 Nov 2004,Ethiopia,FY 2005,17,Orthodox,5,152
+From: 15 Nov 2004,To: 15 Nov 2004,Iran,FY 2005,12,Catholic,3,152
+From: 15 Nov 2004,To: 15 Nov 2004,Iran,FY 2005,12,Christian,1,152
+From: 15 Nov 2004,To: 15 Nov 2004,Iran,FY 2005,12,Jewish,8,152
+From: 15 Nov 2004,To: 15 Nov 2004,Laos,FY 2005,105,Ancestral Worship,104,152
+From: 15 Nov 2004,To: 15 Nov 2004,Laos,FY 2005,105,Buddhist,1,152
+From: 15 Nov 2004,To: 15 Nov 2004,Somalia,FY 2005,18,Moslem,18,152
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Nov 2004,To: 15 Nov 2004,Ancestral Worship,FY 2005,104,Laos,104,152
+From: 15 Nov 2004,To: 15 Nov 2004,Buddhist,FY 2005,1,Laos,1,152
+From: 15 Nov 2004,To: 15 Nov 2004,Catholic,FY 2005,3,Iran,3,152
+From: 15 Nov 2004,To: 15 Nov 2004,Christian,FY 2005,1,Iran,1,152
+From: 15 Nov 2004,To: 15 Nov 2004,Jewish,FY 2005,8,Iran,8,152
+From: 15 Nov 2004,To: 15 Nov 2004,Moslem,FY 2005,30,Ethiopia,12,152
+From: 15 Nov 2004,To: 15 Nov 2004,Moslem,FY 2005,30,Somalia,18,152
+From: 15 Nov 2004,To: 15 Nov 2004,Orthodox,FY 2005,5,Ethiopia,5,152
+

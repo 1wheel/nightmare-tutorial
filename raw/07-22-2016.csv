@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jul 2016,To: 22 Jul 2016,Burma,FY 2016,7,Christian,7,150
+From: 22 Jul 2016,To: 22 Jul 2016,Dem. Rep. Congo,FY 2016,25,Catholic,4,150
+From: 22 Jul 2016,To: 22 Jul 2016,Dem. Rep. Congo,FY 2016,25,Jehovah Witness,6,150
+From: 22 Jul 2016,To: 22 Jul 2016,Dem. Rep. Congo,FY 2016,25,Pentecostalist,6,150
+From: 22 Jul 2016,To: 22 Jul 2016,Dem. Rep. Congo,FY 2016,25,Protestant,9,150
+From: 22 Jul 2016,To: 22 Jul 2016,Iraq,FY 2016,58,Catholic,1,150
+From: 22 Jul 2016,To: 22 Jul 2016,Iraq,FY 2016,58,Christian,1,150
+From: 22 Jul 2016,To: 22 Jul 2016,Iraq,FY 2016,58,Moslem Shiite,18,150
+From: 22 Jul 2016,To: 22 Jul 2016,Iraq,FY 2016,58,Moslem Suni,29,150
+From: 22 Jul 2016,To: 22 Jul 2016,Iraq,FY 2016,58,Yazidi,9,150
+From: 22 Jul 2016,To: 22 Jul 2016,Palestine,FY 2016,5,Moslem Suni,5,150
+From: 22 Jul 2016,To: 22 Jul 2016,Syria,FY 2016,55,Moslem Suni,55,150
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jul 2016,To: 22 Jul 2016,Catholic,FY 2016,5,Dem. Rep. Congo,4,150
+From: 22 Jul 2016,To: 22 Jul 2016,Catholic,FY 2016,5,Iraq,1,150
+From: 22 Jul 2016,To: 22 Jul 2016,Christian,FY 2016,8,Burma,7,150
+From: 22 Jul 2016,To: 22 Jul 2016,Christian,FY 2016,8,Iraq,1,150
+From: 22 Jul 2016,To: 22 Jul 2016,Jehovah Witness,FY 2016,6,Dem. Rep. Congo,6,150
+From: 22 Jul 2016,To: 22 Jul 2016,Moslem Shiite,FY 2016,18,Iraq,18,150
+From: 22 Jul 2016,To: 22 Jul 2016,Moslem Suni,FY 2016,89,Iraq,29,150
+From: 22 Jul 2016,To: 22 Jul 2016,Moslem Suni,FY 2016,89,Palestine,5,150
+From: 22 Jul 2016,To: 22 Jul 2016,Moslem Suni,FY 2016,89,Syria,55,150
+From: 22 Jul 2016,To: 22 Jul 2016,Pentecostalist,FY 2016,6,Dem. Rep. Congo,6,150
+From: 22 Jul 2016,To: 22 Jul 2016,Protestant,FY 2016,9,Dem. Rep. Congo,9,150
+From: 22 Jul 2016,To: 22 Jul 2016,Yazidi,FY 2016,9,Iraq,9,150
+

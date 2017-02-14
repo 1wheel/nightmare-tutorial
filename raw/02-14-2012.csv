@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Feb 2012,To: 14 Feb 2012,Afghanistan,FY 2012,9,Moslem Shiite,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Afghanistan,FY 2012,9,Moslem Suni,8,256
+From: 14 Feb 2012,To: 14 Feb 2012,Armenia,FY 2012,8,Pentecostalist,8,256
+From: 14 Feb 2012,To: 14 Feb 2012,Bhutan,FY 2012,109,Buddhist,30,256
+From: 14 Feb 2012,To: 14 Feb 2012,Bhutan,FY 2012,109,Christian,21,256
+From: 14 Feb 2012,To: 14 Feb 2012,Bhutan,FY 2012,109,Hindu,45,256
+From: 14 Feb 2012,To: 14 Feb 2012,Bhutan,FY 2012,109,Kirat,13,256
+From: 14 Feb 2012,To: 14 Feb 2012,Burma,FY 2012,93,Baptist,16,256
+From: 14 Feb 2012,To: 14 Feb 2012,Burma,FY 2012,93,Buddhist,24,256
+From: 14 Feb 2012,To: 14 Feb 2012,Burma,FY 2012,93,Catholic,3,256
+From: 14 Feb 2012,To: 14 Feb 2012,Burma,FY 2012,93,Christian,48,256
+From: 14 Feb 2012,To: 14 Feb 2012,Burma,FY 2012,93,Methodist,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Burma,FY 2012,93,Seventh Day Adventist,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Cuba,FY 2012,1,No Religion,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Dem. Rep. Congo,FY 2012,4,Pentecostalist,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,Eritrea,FY 2012,1,Christian,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Iraq,FY 2012,4,Moslem Suni,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,Liberia,FY 2012,3,Christian,3,256
+From: 14 Feb 2012,To: 14 Feb 2012,Nepal,FY 2012,1,Buddhist,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Pakistan,FY 2012,4,Ahmadiyya,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,Russia,FY 2012,12,Baptist,6,256
+From: 14 Feb 2012,To: 14 Feb 2012,Russia,FY 2012,12,Jewish,2,256
+From: 14 Feb 2012,To: 14 Feb 2012,Russia,FY 2012,12,Seventh Day Adventist,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,Somalia,FY 2012,7,Moslem,7,256
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Feb 2012,To: 14 Feb 2012,Ahmadiyya,FY 2012,4,Pakistan,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,Baptist,FY 2012,22,Burma,16,256
+From: 14 Feb 2012,To: 14 Feb 2012,Baptist,FY 2012,22,Russia,6,256
+From: 14 Feb 2012,To: 14 Feb 2012,Buddhist,FY 2012,55,Bhutan,30,256
+From: 14 Feb 2012,To: 14 Feb 2012,Buddhist,FY 2012,55,Burma,24,256
+From: 14 Feb 2012,To: 14 Feb 2012,Buddhist,FY 2012,55,Nepal,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Catholic,FY 2012,3,Burma,3,256
+From: 14 Feb 2012,To: 14 Feb 2012,Christian,FY 2012,73,Bhutan,21,256
+From: 14 Feb 2012,To: 14 Feb 2012,Christian,FY 2012,73,Burma,48,256
+From: 14 Feb 2012,To: 14 Feb 2012,Christian,FY 2012,73,Eritrea,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Christian,FY 2012,73,Liberia,3,256
+From: 14 Feb 2012,To: 14 Feb 2012,Hindu,FY 2012,45,Bhutan,45,256
+From: 14 Feb 2012,To: 14 Feb 2012,Jewish,FY 2012,2,Russia,2,256
+From: 14 Feb 2012,To: 14 Feb 2012,Kirat,FY 2012,13,Bhutan,13,256
+From: 14 Feb 2012,To: 14 Feb 2012,Methodist,FY 2012,1,Burma,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Moslem,FY 2012,7,Somalia,7,256
+From: 14 Feb 2012,To: 14 Feb 2012,Moslem Shiite,FY 2012,1,Afghanistan,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Moslem Suni,FY 2012,12,Afghanistan,8,256
+From: 14 Feb 2012,To: 14 Feb 2012,Moslem Suni,FY 2012,12,Iraq,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,No Religion,FY 2012,1,Cuba,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Pentecostalist,FY 2012,12,Armenia,8,256
+From: 14 Feb 2012,To: 14 Feb 2012,Pentecostalist,FY 2012,12,Dem. Rep. Congo,4,256
+From: 14 Feb 2012,To: 14 Feb 2012,Seventh Day Adventist,FY 2012,5,Burma,1,256
+From: 14 Feb 2012,To: 14 Feb 2012,Seventh Day Adventist,FY 2012,5,Russia,4,256
+

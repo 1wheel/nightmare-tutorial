@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Mar 2015,To: 09 Mar 2015,Bhutan,FY 2015,16,Christian,6,100
+From: 09 Mar 2015,To: 09 Mar 2015,Bhutan,FY 2015,16,Hindu,5,100
+From: 09 Mar 2015,To: 09 Mar 2015,Bhutan,FY 2015,16,Kirat,5,100
+From: 09 Mar 2015,To: 09 Mar 2015,Burma,FY 2015,19,Christian,13,100
+From: 09 Mar 2015,To: 09 Mar 2015,Burma,FY 2015,19,Hindu,1,100
+From: 09 Mar 2015,To: 09 Mar 2015,Burma,FY 2015,19,Moslem,5,100
+From: 09 Mar 2015,To: 09 Mar 2015,Iraq,FY 2015,65,Catholic,16,100
+From: 09 Mar 2015,To: 09 Mar 2015,Iraq,FY 2015,65,Christian,1,100
+From: 09 Mar 2015,To: 09 Mar 2015,Iraq,FY 2015,65,Moslem Shiite,21,100
+From: 09 Mar 2015,To: 09 Mar 2015,Iraq,FY 2015,65,Moslem Suni,23,100
+From: 09 Mar 2015,To: 09 Mar 2015,Iraq,FY 2015,65,Sabeans-Mandean,4,100
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Mar 2015,To: 09 Mar 2015,Catholic,FY 2015,16,Iraq,16,100
+From: 09 Mar 2015,To: 09 Mar 2015,Christian,FY 2015,20,Bhutan,6,100
+From: 09 Mar 2015,To: 09 Mar 2015,Christian,FY 2015,20,Burma,13,100
+From: 09 Mar 2015,To: 09 Mar 2015,Christian,FY 2015,20,Iraq,1,100
+From: 09 Mar 2015,To: 09 Mar 2015,Hindu,FY 2015,6,Bhutan,5,100
+From: 09 Mar 2015,To: 09 Mar 2015,Hindu,FY 2015,6,Burma,1,100
+From: 09 Mar 2015,To: 09 Mar 2015,Kirat,FY 2015,5,Bhutan,5,100
+From: 09 Mar 2015,To: 09 Mar 2015,Moslem,FY 2015,5,Burma,5,100
+From: 09 Mar 2015,To: 09 Mar 2015,Moslem Shiite,FY 2015,21,Iraq,21,100
+From: 09 Mar 2015,To: 09 Mar 2015,Moslem Suni,FY 2015,23,Iraq,23,100
+From: 09 Mar 2015,To: 09 Mar 2015,Sabeans-Mandean,FY 2015,4,Iraq,4,100
+

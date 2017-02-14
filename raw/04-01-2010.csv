@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Apr 2010,To: 01 Apr 2010,Burma,FY 2010,29,Animist,14,100
+From: 01 Apr 2010,To: 01 Apr 2010,Burma,FY 2010,29,Catholic,10,100
+From: 01 Apr 2010,To: 01 Apr 2010,Burma,FY 2010,29,Christian,5,100
+From: 01 Apr 2010,To: 01 Apr 2010,Colombia,FY 2010,1,Catholic,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Dem. Rep. Congo,FY 2010,1,Christian,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Eritrea,FY 2010,5,Catholic,2,100
+From: 01 Apr 2010,To: 01 Apr 2010,Eritrea,FY 2010,5,Orthodox,3,100
+From: 01 Apr 2010,To: 01 Apr 2010,Iraq,FY 2010,44,Catholic,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Iraq,FY 2010,44,Christian,5,100
+From: 01 Apr 2010,To: 01 Apr 2010,Iraq,FY 2010,44,Moslem,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Iraq,FY 2010,44,Moslem Shiite,16,100
+From: 01 Apr 2010,To: 01 Apr 2010,Iraq,FY 2010,44,Moslem Suni,20,100
+From: 01 Apr 2010,To: 01 Apr 2010,Iraq,FY 2010,44,Sabeans-Mandean,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Senegal,FY 2010,1,Moslem,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Somalia,FY 2010,8,Moslem,8,100
+From: 01 Apr 2010,To: 01 Apr 2010,Sudan,FY 2010,11,Moslem,11,100
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Apr 2010,To: 01 Apr 2010,Animist,FY 2010,14,Burma,14,100
+From: 01 Apr 2010,To: 01 Apr 2010,Catholic,FY 2010,14,Burma,10,100
+From: 01 Apr 2010,To: 01 Apr 2010,Catholic,FY 2010,14,Colombia,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Catholic,FY 2010,14,Eritrea,2,100
+From: 01 Apr 2010,To: 01 Apr 2010,Catholic,FY 2010,14,Iraq,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Christian,FY 2010,11,Burma,5,100
+From: 01 Apr 2010,To: 01 Apr 2010,Christian,FY 2010,11,Dem. Rep. Congo,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Christian,FY 2010,11,Iraq,5,100
+From: 01 Apr 2010,To: 01 Apr 2010,Moslem,FY 2010,21,Iraq,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Moslem,FY 2010,21,Senegal,1,100
+From: 01 Apr 2010,To: 01 Apr 2010,Moslem,FY 2010,21,Somalia,8,100
+From: 01 Apr 2010,To: 01 Apr 2010,Moslem,FY 2010,21,Sudan,11,100
+From: 01 Apr 2010,To: 01 Apr 2010,Moslem Shiite,FY 2010,16,Iraq,16,100
+From: 01 Apr 2010,To: 01 Apr 2010,Moslem Suni,FY 2010,20,Iraq,20,100
+From: 01 Apr 2010,To: 01 Apr 2010,Orthodox,FY 2010,3,Eritrea,3,100
+From: 01 Apr 2010,To: 01 Apr 2010,Sabeans-Mandean,FY 2010,1,Iraq,1,100
+

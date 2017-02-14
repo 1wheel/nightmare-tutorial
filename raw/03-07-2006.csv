@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Mar 2006,To: 07 Mar 2006,Angola,FY 2006,3,Catholic,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Congo,FY 2006,2,Christian,2,234
+From: 07 Mar 2006,To: 07 Mar 2006,Cuba,FY 2006,26,Catholic,21,234
+From: 07 Mar 2006,To: 07 Mar 2006,Cuba,FY 2006,26,Christian,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Cuba,FY 2006,26,Evangelical Christian,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Cuba,FY 2006,26,Pentecostalist,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Eritrea,FY 2006,1,Jehovah Witness,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Ethiopia,FY 2006,7,Christian,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Ethiopia,FY 2006,7,Moslem,4,234
+From: 07 Mar 2006,To: 07 Mar 2006,Liberia,FY 2006,35,Christian,26,234
+From: 07 Mar 2006,To: 07 Mar 2006,Liberia,FY 2006,35,Lutheran,6,234
+From: 07 Mar 2006,To: 07 Mar 2006,Liberia,FY 2006,35,Pentecostalist,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Russia,FY 2006,14,Baptist,6,234
+From: 07 Mar 2006,To: 07 Mar 2006,Russia,FY 2006,14,Jewish,5,234
+From: 07 Mar 2006,To: 07 Mar 2006,Russia,FY 2006,14,Orthodox,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Somalia,FY 2006,110,Moslem,110,234
+From: 07 Mar 2006,To: 07 Mar 2006,Sudan,FY 2006,11,Catholic,2,234
+From: 07 Mar 2006,To: 07 Mar 2006,Sudan,FY 2006,11,Christian,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Sudan,FY 2006,11,Moslem,8,234
+From: 07 Mar 2006,To: 07 Mar 2006,Vietnam,FY 2006,25,Ancestral Worship,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Vietnam,FY 2006,25,Buddhist,12,234
+From: 07 Mar 2006,To: 07 Mar 2006,Vietnam,FY 2006,25,Catholic,11,234
+From: 07 Mar 2006,To: 07 Mar 2006,Vietnam,FY 2006,25,Other Religion,1,234
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Mar 2006,To: 07 Mar 2006,Ancestral Worship,FY 2006,1,Vietnam,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Baptist,FY 2006,6,Russia,6,234
+From: 07 Mar 2006,To: 07 Mar 2006,Buddhist,FY 2006,12,Vietnam,12,234
+From: 07 Mar 2006,To: 07 Mar 2006,Catholic,FY 2006,37,Angola,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Catholic,FY 2006,37,Cuba,21,234
+From: 07 Mar 2006,To: 07 Mar 2006,Catholic,FY 2006,37,Sudan,2,234
+From: 07 Mar 2006,To: 07 Mar 2006,Catholic,FY 2006,37,Vietnam,11,234
+From: 07 Mar 2006,To: 07 Mar 2006,Christian,FY 2006,33,Congo,2,234
+From: 07 Mar 2006,To: 07 Mar 2006,Christian,FY 2006,33,Cuba,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Christian,FY 2006,33,Ethiopia,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Christian,FY 2006,33,Liberia,26,234
+From: 07 Mar 2006,To: 07 Mar 2006,Christian,FY 2006,33,Sudan,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Evangelical Christian,FY 2006,1,Cuba,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Jehovah Witness,FY 2006,1,Eritrea,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Jewish,FY 2006,5,Russia,5,234
+From: 07 Mar 2006,To: 07 Mar 2006,Lutheran,FY 2006,6,Liberia,6,234
+From: 07 Mar 2006,To: 07 Mar 2006,Moslem,FY 2006,122,Ethiopia,4,234
+From: 07 Mar 2006,To: 07 Mar 2006,Moslem,FY 2006,122,Somalia,110,234
+From: 07 Mar 2006,To: 07 Mar 2006,Moslem,FY 2006,122,Sudan,8,234
+From: 07 Mar 2006,To: 07 Mar 2006,Orthodox,FY 2006,3,Russia,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Other Religion,FY 2006,1,Vietnam,1,234
+From: 07 Mar 2006,To: 07 Mar 2006,Pentecostalist,FY 2006,6,Cuba,3,234
+From: 07 Mar 2006,To: 07 Mar 2006,Pentecostalist,FY 2006,6,Liberia,3,234
+

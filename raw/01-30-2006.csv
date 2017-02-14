@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jan 2006,To: 30 Jan 2006,Belarus,FY 2006,11,Jewish,3,131
+From: 30 Jan 2006,To: 30 Jan 2006,Belarus,FY 2006,11,Pentecostalist,8,131
+From: 30 Jan 2006,To: 30 Jan 2006,Eritrea,FY 2006,3,Jehovah Witness,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Eritrea,FY 2006,3,Moslem,2,131
+From: 30 Jan 2006,To: 30 Jan 2006,Ethiopia,FY 2006,1,Orthodox,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moldova,FY 2006,11,Baptist,3,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moldova,FY 2006,11,Jehovah Witness,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moldova,FY 2006,11,Pentecostalist,7,131
+From: 30 Jan 2006,To: 30 Jan 2006,Somalia,FY 2006,10,Moslem,2,131
+From: 30 Jan 2006,To: 30 Jan 2006,Somalia,FY 2006,10,Moslem Suni,8,131
+From: 30 Jan 2006,To: 30 Jan 2006,Sudan,FY 2006,30,Catholic,18,131
+From: 30 Jan 2006,To: 30 Jan 2006,Sudan,FY 2006,30,Christian,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Sudan,FY 2006,30,Moslem,7,131
+From: 30 Jan 2006,To: 30 Jan 2006,Sudan,FY 2006,30,Protestant,4,131
+From: 30 Jan 2006,To: 30 Jan 2006,Ukraine,FY 2006,30,Baptist,11,131
+From: 30 Jan 2006,To: 30 Jan 2006,Ukraine,FY 2006,30,Pentecostalist,15,131
+From: 30 Jan 2006,To: 30 Jan 2006,Ukraine,FY 2006,30,Seventh Day Adventist,4,131
+From: 30 Jan 2006,To: 30 Jan 2006,Uzbekistan,FY 2006,35,Moslem,33,131
+From: 30 Jan 2006,To: 30 Jan 2006,Uzbekistan,FY 2006,35,Moslem Suni,2,131
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jan 2006,To: 30 Jan 2006,Baptist,FY 2006,14,Moldova,3,131
+From: 30 Jan 2006,To: 30 Jan 2006,Baptist,FY 2006,14,Ukraine,11,131
+From: 30 Jan 2006,To: 30 Jan 2006,Catholic,FY 2006,18,Sudan,18,131
+From: 30 Jan 2006,To: 30 Jan 2006,Christian,FY 2006,1,Sudan,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Jehovah Witness,FY 2006,2,Eritrea,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Jehovah Witness,FY 2006,2,Moldova,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Jewish,FY 2006,3,Belarus,3,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moslem,FY 2006,44,Eritrea,2,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moslem,FY 2006,44,Somalia,2,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moslem,FY 2006,44,Sudan,7,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moslem,FY 2006,44,Uzbekistan,33,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moslem Suni,FY 2006,10,Somalia,8,131
+From: 30 Jan 2006,To: 30 Jan 2006,Moslem Suni,FY 2006,10,Uzbekistan,2,131
+From: 30 Jan 2006,To: 30 Jan 2006,Orthodox,FY 2006,1,Ethiopia,1,131
+From: 30 Jan 2006,To: 30 Jan 2006,Pentecostalist,FY 2006,30,Belarus,8,131
+From: 30 Jan 2006,To: 30 Jan 2006,Pentecostalist,FY 2006,30,Moldova,7,131
+From: 30 Jan 2006,To: 30 Jan 2006,Pentecostalist,FY 2006,30,Ukraine,15,131
+From: 30 Jan 2006,To: 30 Jan 2006,Protestant,FY 2006,4,Sudan,4,131
+From: 30 Jan 2006,To: 30 Jan 2006,Seventh Day Adventist,FY 2006,4,Ukraine,4,131
+

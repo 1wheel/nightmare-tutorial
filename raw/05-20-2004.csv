@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 May 2004,To: 20 May 2004,Burma,FY 2004,1,Baptist,1,104
+From: 20 May 2004,To: 20 May 2004,Colombia,FY 2004,30,Catholic,21,104
+From: 20 May 2004,To: 20 May 2004,Colombia,FY 2004,30,Christian,4,104
+From: 20 May 2004,To: 20 May 2004,Colombia,FY 2004,30,Evangelical Christian,5,104
+From: 20 May 2004,To: 20 May 2004,Djibouti,FY 2004,4,Moslem,4,104
+From: 20 May 2004,To: 20 May 2004,Ethiopia,FY 2004,22,Christian,5,104
+From: 20 May 2004,To: 20 May 2004,Ethiopia,FY 2004,22,Moslem,13,104
+From: 20 May 2004,To: 20 May 2004,Ethiopia,FY 2004,22,Orthodox,4,104
+From: 20 May 2004,To: 20 May 2004,Nepal,FY 2004,1,Christian,1,104
+From: 20 May 2004,To: 20 May 2004,Pakistan,FY 2004,3,Moslem,3,104
+From: 20 May 2004,To: 20 May 2004,Somalia,FY 2004,43,Moslem,43,104
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 May 2004,To: 20 May 2004,Baptist,FY 2004,1,Burma,1,104
+From: 20 May 2004,To: 20 May 2004,Catholic,FY 2004,21,Colombia,21,104
+From: 20 May 2004,To: 20 May 2004,Christian,FY 2004,10,Colombia,4,104
+From: 20 May 2004,To: 20 May 2004,Christian,FY 2004,10,Ethiopia,5,104
+From: 20 May 2004,To: 20 May 2004,Christian,FY 2004,10,Nepal,1,104
+From: 20 May 2004,To: 20 May 2004,Evangelical Christian,FY 2004,5,Colombia,5,104
+From: 20 May 2004,To: 20 May 2004,Moslem,FY 2004,63,Djibouti,4,104
+From: 20 May 2004,To: 20 May 2004,Moslem,FY 2004,63,Ethiopia,13,104
+From: 20 May 2004,To: 20 May 2004,Moslem,FY 2004,63,Pakistan,3,104
+From: 20 May 2004,To: 20 May 2004,Moslem,FY 2004,63,Somalia,43,104
+From: 20 May 2004,To: 20 May 2004,Orthodox,FY 2004,4,Ethiopia,4,104
+

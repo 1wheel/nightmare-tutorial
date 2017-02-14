@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jun 2009,To: 17 Jun 2009,Afghanistan,FY 2009,4,Moslem Suni,4,546
+From: 17 Jun 2009,To: 17 Jun 2009,Bhutan,FY 2009,48,Hindu,46,546
+From: 17 Jun 2009,To: 17 Jun 2009,Bhutan,FY 2009,48,Kirat,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Burma,FY 2009,197,Animist,52,546
+From: 17 Jun 2009,To: 17 Jun 2009,Burma,FY 2009,197,Buddhist,27,546
+From: 17 Jun 2009,To: 17 Jun 2009,Burma,FY 2009,197,Catholic,28,546
+From: 17 Jun 2009,To: 17 Jun 2009,Burma,FY 2009,197,Christian,90,546
+From: 17 Jun 2009,To: 17 Jun 2009,China,FY 2009,1,Other Religion,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,Baptist,4,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,Catholic,21,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,Greek Orthodox,3,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,Jehovah Witness,24,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,No Religion,10,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,Pentecostalist,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Cuba,FY 2009,68,Seventh Day Adventist,4,546
+From: 17 Jun 2009,To: 17 Jun 2009,Dem. Rep. Congo,FY 2009,2,Jehovah Witness,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Ethiopia,FY 2009,1,Orthodox,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iran,FY 2009,35,Christian,28,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iran,FY 2009,35,Jewish,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iran,FY 2009,35,Zoroastrian,5,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iraq,FY 2009,102,Christian,57,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iraq,FY 2009,102,Moslem Shiite,12,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iraq,FY 2009,102,Moslem Suni,20,546
+From: 17 Jun 2009,To: 17 Jun 2009,Iraq,FY 2009,102,Sabeans-Mandean,13,546
+From: 17 Jun 2009,To: 17 Jun 2009,Russia,FY 2009,12,Moslem,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Russia,FY 2009,12,Pentecostalist,10,546
+From: 17 Jun 2009,To: 17 Jun 2009,Somalia,FY 2009,33,Moslem,30,546
+From: 17 Jun 2009,To: 17 Jun 2009,Somalia,FY 2009,33,Moslem Suni,3,546
+From: 17 Jun 2009,To: 17 Jun 2009,Sri Lanka (Ceylon),FY 2009,1,Christian,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Sudan,FY 2009,1,Moslem,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Uzbekistan,FY 2009,6,Moslem Suni,6,546
+From: 17 Jun 2009,To: 17 Jun 2009,Vietnam,FY 2009,35,Buddhist,6,546
+From: 17 Jun 2009,To: 17 Jun 2009,Vietnam,FY 2009,35,Catholic,5,546
+From: 17 Jun 2009,To: 17 Jun 2009,Vietnam,FY 2009,35,No Religion,14,546
+From: 17 Jun 2009,To: 17 Jun 2009,Vietnam,FY 2009,35,Protestant,10,546
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jun 2009,To: 17 Jun 2009,Animist,FY 2009,52,Burma,52,546
+From: 17 Jun 2009,To: 17 Jun 2009,Baptist,FY 2009,4,Cuba,4,546
+From: 17 Jun 2009,To: 17 Jun 2009,Buddhist,FY 2009,33,Burma,27,546
+From: 17 Jun 2009,To: 17 Jun 2009,Buddhist,FY 2009,33,Vietnam,6,546
+From: 17 Jun 2009,To: 17 Jun 2009,Catholic,FY 2009,54,Burma,28,546
+From: 17 Jun 2009,To: 17 Jun 2009,Catholic,FY 2009,54,Cuba,21,546
+From: 17 Jun 2009,To: 17 Jun 2009,Catholic,FY 2009,54,Vietnam,5,546
+From: 17 Jun 2009,To: 17 Jun 2009,Christian,FY 2009,176,Burma,90,546
+From: 17 Jun 2009,To: 17 Jun 2009,Christian,FY 2009,176,Iran,28,546
+From: 17 Jun 2009,To: 17 Jun 2009,Christian,FY 2009,176,Iraq,57,546
+From: 17 Jun 2009,To: 17 Jun 2009,Christian,FY 2009,176,Sri Lanka (Ceylon),1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Greek Orthodox,FY 2009,3,Cuba,3,546
+From: 17 Jun 2009,To: 17 Jun 2009,Hindu,FY 2009,46,Bhutan,46,546
+From: 17 Jun 2009,To: 17 Jun 2009,Jehovah Witness,FY 2009,26,Cuba,24,546
+From: 17 Jun 2009,To: 17 Jun 2009,Jehovah Witness,FY 2009,26,Dem. Rep. Congo,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Jewish,FY 2009,2,Iran,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Kirat,FY 2009,2,Bhutan,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem,FY 2009,33,Russia,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem,FY 2009,33,Somalia,30,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem,FY 2009,33,Sudan,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem Shiite,FY 2009,12,Iraq,12,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem Suni,FY 2009,33,Afghanistan,4,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem Suni,FY 2009,33,Iraq,20,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem Suni,FY 2009,33,Somalia,3,546
+From: 17 Jun 2009,To: 17 Jun 2009,Moslem Suni,FY 2009,33,Uzbekistan,6,546
+From: 17 Jun 2009,To: 17 Jun 2009,No Religion,FY 2009,24,Cuba,10,546
+From: 17 Jun 2009,To: 17 Jun 2009,No Religion,FY 2009,24,Vietnam,14,546
+From: 17 Jun 2009,To: 17 Jun 2009,Orthodox,FY 2009,1,Ethiopia,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Other Religion,FY 2009,1,China,1,546
+From: 17 Jun 2009,To: 17 Jun 2009,Pentecostalist,FY 2009,12,Cuba,2,546
+From: 17 Jun 2009,To: 17 Jun 2009,Pentecostalist,FY 2009,12,Russia,10,546
+From: 17 Jun 2009,To: 17 Jun 2009,Protestant,FY 2009,10,Vietnam,10,546
+From: 17 Jun 2009,To: 17 Jun 2009,Sabeans-Mandean,FY 2009,13,Iraq,13,546
+From: 17 Jun 2009,To: 17 Jun 2009,Seventh Day Adventist,FY 2009,4,Cuba,4,546
+From: 17 Jun 2009,To: 17 Jun 2009,Zoroastrian,FY 2009,5,Iran,5,546
+

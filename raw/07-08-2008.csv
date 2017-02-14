@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jul 2008,To: 08 Jul 2008,Afghanistan,FY 2008,12,Moslem Suni,11,661
+From: 08 Jul 2008,To: 08 Jul 2008,Afghanistan,FY 2008,12,No Religion,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Bhutan,FY 2008,70,Christian,7,661
+From: 08 Jul 2008,To: 08 Jul 2008,Bhutan,FY 2008,70,Hindu,63,661
+From: 08 Jul 2008,To: 08 Jul 2008,Burma,FY 2008,251,Buddhist,69,661
+From: 08 Jul 2008,To: 08 Jul 2008,Burma,FY 2008,251,Catholic,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Burma,FY 2008,251,Christian,131,661
+From: 08 Jul 2008,To: 08 Jul 2008,Burma,FY 2008,251,Hindu,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Burma,FY 2008,251,Moslem,49,661
+From: 08 Jul 2008,To: 08 Jul 2008,Cuba,FY 2008,3,Catholic,3,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iran,FY 2008,26,Bahai,24,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iran,FY 2008,26,No Religion,2,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iraq,FY 2008,245,Catholic,28,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iraq,FY 2008,245,Christian,99,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iraq,FY 2008,245,Moslem Shiite,27,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iraq,FY 2008,245,Moslem Suni,64,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iraq,FY 2008,245,Orthodox,11,661
+From: 08 Jul 2008,To: 08 Jul 2008,Iraq,FY 2008,245,Sabeans-Mandean,16,661
+From: 08 Jul 2008,To: 08 Jul 2008,"Korea, North",FY 2008,5,Protestant,5,661
+From: 08 Jul 2008,To: 08 Jul 2008,Liberia,FY 2008,2,Christian,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Liberia,FY 2008,2,Moslem,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Nigeria,FY 2008,10,Christian,9,661
+From: 08 Jul 2008,To: 08 Jul 2008,Nigeria,FY 2008,10,Methodist,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Russia,FY 2008,16,Baptist,6,661
+From: 08 Jul 2008,To: 08 Jul 2008,Russia,FY 2008,16,Jewish,9,661
+From: 08 Jul 2008,To: 08 Jul 2008,Russia,FY 2008,16,Moslem,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Syria,FY 2008,1,Moslem Suni,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Togo,FY 2008,20,Baptist,6,661
+From: 08 Jul 2008,To: 08 Jul 2008,Togo,FY 2008,20,Christian,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Togo,FY 2008,20,Jehovah Witness,5,661
+From: 08 Jul 2008,To: 08 Jul 2008,Togo,FY 2008,20,Pentecostalist,7,661
+From: 08 Jul 2008,To: 08 Jul 2008,Togo,FY 2008,20,Unknown,1,661
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jul 2008,To: 08 Jul 2008,Bahai,FY 2008,24,Iran,24,661
+From: 08 Jul 2008,To: 08 Jul 2008,Baptist,FY 2008,12,Russia,6,661
+From: 08 Jul 2008,To: 08 Jul 2008,Baptist,FY 2008,12,Togo,6,661
+From: 08 Jul 2008,To: 08 Jul 2008,Buddhist,FY 2008,69,Burma,69,661
+From: 08 Jul 2008,To: 08 Jul 2008,Catholic,FY 2008,32,Burma,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Catholic,FY 2008,32,Cuba,3,661
+From: 08 Jul 2008,To: 08 Jul 2008,Catholic,FY 2008,32,Iraq,28,661
+From: 08 Jul 2008,To: 08 Jul 2008,Christian,FY 2008,248,Bhutan,7,661
+From: 08 Jul 2008,To: 08 Jul 2008,Christian,FY 2008,248,Burma,131,661
+From: 08 Jul 2008,To: 08 Jul 2008,Christian,FY 2008,248,Iraq,99,661
+From: 08 Jul 2008,To: 08 Jul 2008,Christian,FY 2008,248,Liberia,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Christian,FY 2008,248,Nigeria,9,661
+From: 08 Jul 2008,To: 08 Jul 2008,Christian,FY 2008,248,Togo,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Hindu,FY 2008,64,Bhutan,63,661
+From: 08 Jul 2008,To: 08 Jul 2008,Hindu,FY 2008,64,Burma,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Jehovah Witness,FY 2008,5,Togo,5,661
+From: 08 Jul 2008,To: 08 Jul 2008,Jewish,FY 2008,9,Russia,9,661
+From: 08 Jul 2008,To: 08 Jul 2008,Methodist,FY 2008,1,Nigeria,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem,FY 2008,51,Burma,49,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem,FY 2008,51,Liberia,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem,FY 2008,51,Russia,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem Shiite,FY 2008,27,Iraq,27,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem Suni,FY 2008,76,Afghanistan,11,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem Suni,FY 2008,76,Iraq,64,661
+From: 08 Jul 2008,To: 08 Jul 2008,Moslem Suni,FY 2008,76,Syria,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,No Religion,FY 2008,3,Afghanistan,1,661
+From: 08 Jul 2008,To: 08 Jul 2008,No Religion,FY 2008,3,Iran,2,661
+From: 08 Jul 2008,To: 08 Jul 2008,Orthodox,FY 2008,11,Iraq,11,661
+From: 08 Jul 2008,To: 08 Jul 2008,Pentecostalist,FY 2008,7,Togo,7,661
+From: 08 Jul 2008,To: 08 Jul 2008,Protestant,FY 2008,5,"Korea, North",5,661
+From: 08 Jul 2008,To: 08 Jul 2008,Sabeans-Mandean,FY 2008,16,Iraq,16,661
+From: 08 Jul 2008,To: 08 Jul 2008,Unknown,FY 2008,1,Togo,1,661
+

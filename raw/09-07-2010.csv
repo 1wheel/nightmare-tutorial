@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Sep 2010,To: 07 Sep 2010,Bhutan,FY 2010,83,Buddhist,28,606
+From: 07 Sep 2010,To: 07 Sep 2010,Bhutan,FY 2010,83,Christian,7,606
+From: 07 Sep 2010,To: 07 Sep 2010,Bhutan,FY 2010,83,Hindu,45,606
+From: 07 Sep 2010,To: 07 Sep 2010,Bhutan,FY 2010,83,Kirat,3,606
+From: 07 Sep 2010,To: 07 Sep 2010,Burma,FY 2010,181,Baptist,36,606
+From: 07 Sep 2010,To: 07 Sep 2010,Burma,FY 2010,181,Buddhist,21,606
+From: 07 Sep 2010,To: 07 Sep 2010,Burma,FY 2010,181,Catholic,17,606
+From: 07 Sep 2010,To: 07 Sep 2010,Burma,FY 2010,181,Christian,96,606
+From: 07 Sep 2010,To: 07 Sep 2010,Burma,FY 2010,181,Moslem,11,606
+From: 07 Sep 2010,To: 07 Sep 2010,Colombia,FY 2010,10,Christian,3,606
+From: 07 Sep 2010,To: 07 Sep 2010,Colombia,FY 2010,10,Jehovah Witness,5,606
+From: 07 Sep 2010,To: 07 Sep 2010,Colombia,FY 2010,10,Other Religion,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Colombia,FY 2010,10,Unknown,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Dem. Rep. Congo,FY 2010,40,Catholic,9,606
+From: 07 Sep 2010,To: 07 Sep 2010,Dem. Rep. Congo,FY 2010,40,Christian,4,606
+From: 07 Sep 2010,To: 07 Sep 2010,Dem. Rep. Congo,FY 2010,40,Pentecostalist,27,606
+From: 07 Sep 2010,To: 07 Sep 2010,Eritrea,FY 2010,32,Catholic,2,606
+From: 07 Sep 2010,To: 07 Sep 2010,Eritrea,FY 2010,32,Jehovah Witness,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Eritrea,FY 2010,32,Moslem,2,606
+From: 07 Sep 2010,To: 07 Sep 2010,Eritrea,FY 2010,32,Orthodox,27,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iran,FY 2010,35,Bahai,2,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iran,FY 2010,35,Christian,32,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iran,FY 2010,35,Sabeans-Mandean,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iraq,FY 2010,92,Christian,5,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iraq,FY 2010,92,Moslem Shiite,45,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iraq,FY 2010,92,Moslem Suni,35,606
+From: 07 Sep 2010,To: 07 Sep 2010,Iraq,FY 2010,92,Sabeans-Mandean,7,606
+From: 07 Sep 2010,To: 07 Sep 2010,Somalia,FY 2010,127,Moslem,127,606
+From: 07 Sep 2010,To: 07 Sep 2010,Sudan,FY 2010,6,Christian,6,606
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Sep 2010,To: 07 Sep 2010,Bahai,FY 2010,2,Iran,2,606
+From: 07 Sep 2010,To: 07 Sep 2010,Baptist,FY 2010,36,Burma,36,606
+From: 07 Sep 2010,To: 07 Sep 2010,Buddhist,FY 2010,49,Bhutan,28,606
+From: 07 Sep 2010,To: 07 Sep 2010,Buddhist,FY 2010,49,Burma,21,606
+From: 07 Sep 2010,To: 07 Sep 2010,Catholic,FY 2010,28,Burma,17,606
+From: 07 Sep 2010,To: 07 Sep 2010,Catholic,FY 2010,28,Dem. Rep. Congo,9,606
+From: 07 Sep 2010,To: 07 Sep 2010,Catholic,FY 2010,28,Eritrea,2,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Bhutan,7,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Burma,96,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Colombia,3,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Dem. Rep. Congo,4,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Iran,32,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Iraq,5,606
+From: 07 Sep 2010,To: 07 Sep 2010,Christian,FY 2010,153,Sudan,6,606
+From: 07 Sep 2010,To: 07 Sep 2010,Hindu,FY 2010,45,Bhutan,45,606
+From: 07 Sep 2010,To: 07 Sep 2010,Jehovah Witness,FY 2010,6,Colombia,5,606
+From: 07 Sep 2010,To: 07 Sep 2010,Jehovah Witness,FY 2010,6,Eritrea,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Kirat,FY 2010,3,Bhutan,3,606
+From: 07 Sep 2010,To: 07 Sep 2010,Moslem,FY 2010,140,Burma,11,606
+From: 07 Sep 2010,To: 07 Sep 2010,Moslem,FY 2010,140,Eritrea,2,606
+From: 07 Sep 2010,To: 07 Sep 2010,Moslem,FY 2010,140,Somalia,127,606
+From: 07 Sep 2010,To: 07 Sep 2010,Moslem Shiite,FY 2010,45,Iraq,45,606
+From: 07 Sep 2010,To: 07 Sep 2010,Moslem Suni,FY 2010,35,Iraq,35,606
+From: 07 Sep 2010,To: 07 Sep 2010,Orthodox,FY 2010,27,Eritrea,27,606
+From: 07 Sep 2010,To: 07 Sep 2010,Other Religion,FY 2010,1,Colombia,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Pentecostalist,FY 2010,27,Dem. Rep. Congo,27,606
+From: 07 Sep 2010,To: 07 Sep 2010,Sabeans-Mandean,FY 2010,8,Iran,1,606
+From: 07 Sep 2010,To: 07 Sep 2010,Sabeans-Mandean,FY 2010,8,Iraq,7,606
+From: 07 Sep 2010,To: 07 Sep 2010,Unknown,FY 2010,1,Colombia,1,606
+

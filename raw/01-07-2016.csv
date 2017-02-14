@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jan 2016,To: 07 Jan 2016,Afghanistan,FY 2016,28,Moslem Shiite,24,232
+From: 07 Jan 2016,To: 07 Jan 2016,Afghanistan,FY 2016,28,Moslem Suni,4,232
+From: 07 Jan 2016,To: 07 Jan 2016,Burma,FY 2016,91,Baptist,7,232
+From: 07 Jan 2016,To: 07 Jan 2016,Burma,FY 2016,91,Buddhist,6,232
+From: 07 Jan 2016,To: 07 Jan 2016,Burma,FY 2016,91,Christian,57,232
+From: 07 Jan 2016,To: 07 Jan 2016,Burma,FY 2016,91,Moslem,21,232
+From: 07 Jan 2016,To: 07 Jan 2016,Dem. Rep. Congo,FY 2016,9,Christian,9,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iran,FY 2016,12,Bahai,2,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iran,FY 2016,12,Moslem Shiite,1,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iran,FY 2016,12,No Religion,7,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iran,FY 2016,12,Protestant,2,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Catholic,6,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Chaldean,1,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Kaaka'i,4,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Moslem,3,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Moslem Suni,24,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Orthodox,3,232
+From: 07 Jan 2016,To: 07 Jan 2016,Iraq,FY 2016,52,Yazidi,11,232
+From: 07 Jan 2016,To: 07 Jan 2016,Somalia,FY 2016,30,Moslem,30,232
+From: 07 Jan 2016,To: 07 Jan 2016,Syria,FY 2016,10,Moslem Suni,10,232
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jan 2016,To: 07 Jan 2016,Bahai,FY 2016,2,Iran,2,232
+From: 07 Jan 2016,To: 07 Jan 2016,Baptist,FY 2016,7,Burma,7,232
+From: 07 Jan 2016,To: 07 Jan 2016,Buddhist,FY 2016,6,Burma,6,232
+From: 07 Jan 2016,To: 07 Jan 2016,Catholic,FY 2016,6,Iraq,6,232
+From: 07 Jan 2016,To: 07 Jan 2016,Chaldean,FY 2016,1,Iraq,1,232
+From: 07 Jan 2016,To: 07 Jan 2016,Christian,FY 2016,66,Burma,57,232
+From: 07 Jan 2016,To: 07 Jan 2016,Christian,FY 2016,66,Dem. Rep. Congo,9,232
+From: 07 Jan 2016,To: 07 Jan 2016,Kaaka'i,FY 2016,4,Iraq,4,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem,FY 2016,54,Burma,21,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem,FY 2016,54,Iraq,3,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem,FY 2016,54,Somalia,30,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem Shiite,FY 2016,25,Afghanistan,24,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem Shiite,FY 2016,25,Iran,1,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem Suni,FY 2016,38,Afghanistan,4,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem Suni,FY 2016,38,Iraq,24,232
+From: 07 Jan 2016,To: 07 Jan 2016,Moslem Suni,FY 2016,38,Syria,10,232
+From: 07 Jan 2016,To: 07 Jan 2016,No Religion,FY 2016,7,Iran,7,232
+From: 07 Jan 2016,To: 07 Jan 2016,Orthodox,FY 2016,3,Iraq,3,232
+From: 07 Jan 2016,To: 07 Jan 2016,Protestant,FY 2016,2,Iran,2,232
+From: 07 Jan 2016,To: 07 Jan 2016,Yazidi,FY 2016,11,Iraq,11,232
+

@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 May 2012,To: 22 May 2012,Afghanistan,FY 2012,1,Moslem,1,446
+From: 22 May 2012,To: 22 May 2012,Bhutan,FY 2012,102,Buddhist,19,446
+From: 22 May 2012,To: 22 May 2012,Bhutan,FY 2012,102,Christian,15,446
+From: 22 May 2012,To: 22 May 2012,Bhutan,FY 2012,102,Hindu,53,446
+From: 22 May 2012,To: 22 May 2012,Bhutan,FY 2012,102,Kirat,15,446
+From: 22 May 2012,To: 22 May 2012,Burma,FY 2012,139,Animist,7,446
+From: 22 May 2012,To: 22 May 2012,Burma,FY 2012,139,Baptist,4,446
+From: 22 May 2012,To: 22 May 2012,Burma,FY 2012,139,Buddhist,26,446
+From: 22 May 2012,To: 22 May 2012,Burma,FY 2012,139,Catholic,8,446
+From: 22 May 2012,To: 22 May 2012,Burma,FY 2012,139,Christian,88,446
+From: 22 May 2012,To: 22 May 2012,Burma,FY 2012,139,Moslem,6,446
+From: 22 May 2012,To: 22 May 2012,Cuba,FY 2012,30,Catholic,14,446
+From: 22 May 2012,To: 22 May 2012,Cuba,FY 2012,30,Jehovah Witness,14,446
+From: 22 May 2012,To: 22 May 2012,Cuba,FY 2012,30,Unknown,2,446
+From: 22 May 2012,To: 22 May 2012,Dem. Rep. Congo,FY 2012,30,Catholic,17,446
+From: 22 May 2012,To: 22 May 2012,Dem. Rep. Congo,FY 2012,30,Protestant,10,446
+From: 22 May 2012,To: 22 May 2012,Dem. Rep. Congo,FY 2012,30,Seventh Day Adventist,3,446
+From: 22 May 2012,To: 22 May 2012,Eritrea,FY 2012,1,Moslem,1,446
+From: 22 May 2012,To: 22 May 2012,Iran,FY 2012,1,Pentecostalist,1,446
+From: 22 May 2012,To: 22 May 2012,Iraq,FY 2012,89,Catholic,30,446
+From: 22 May 2012,To: 22 May 2012,Iraq,FY 2012,89,Christian,40,446
+From: 22 May 2012,To: 22 May 2012,Iraq,FY 2012,89,Moslem,5,446
+From: 22 May 2012,To: 22 May 2012,Iraq,FY 2012,89,Moslem Shiite,9,446
+From: 22 May 2012,To: 22 May 2012,Iraq,FY 2012,89,Moslem Suni,4,446
+From: 22 May 2012,To: 22 May 2012,Iraq,FY 2012,89,Orthodox,1,446
+From: 22 May 2012,To: 22 May 2012,Rwanda,FY 2012,1,Christian,1,446
+From: 22 May 2012,To: 22 May 2012,Somalia,FY 2012,32,Moslem,32,446
+From: 22 May 2012,To: 22 May 2012,Sri Lanka (Ceylon),FY 2012,4,Christian,4,446
+From: 22 May 2012,To: 22 May 2012,Sudan,FY 2012,12,Moslem,12,446
+From: 22 May 2012,To: 22 May 2012,Vietnam,FY 2012,4,Catholic,4,446
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 May 2012,To: 22 May 2012,Animist,FY 2012,7,Burma,7,446
+From: 22 May 2012,To: 22 May 2012,Baptist,FY 2012,4,Burma,4,446
+From: 22 May 2012,To: 22 May 2012,Buddhist,FY 2012,45,Bhutan,19,446
+From: 22 May 2012,To: 22 May 2012,Buddhist,FY 2012,45,Burma,26,446
+From: 22 May 2012,To: 22 May 2012,Catholic,FY 2012,73,Burma,8,446
+From: 22 May 2012,To: 22 May 2012,Catholic,FY 2012,73,Cuba,14,446
+From: 22 May 2012,To: 22 May 2012,Catholic,FY 2012,73,Dem. Rep. Congo,17,446
+From: 22 May 2012,To: 22 May 2012,Catholic,FY 2012,73,Iraq,30,446
+From: 22 May 2012,To: 22 May 2012,Catholic,FY 2012,73,Vietnam,4,446
+From: 22 May 2012,To: 22 May 2012,Christian,FY 2012,148,Bhutan,15,446
+From: 22 May 2012,To: 22 May 2012,Christian,FY 2012,148,Burma,88,446
+From: 22 May 2012,To: 22 May 2012,Christian,FY 2012,148,Iraq,40,446
+From: 22 May 2012,To: 22 May 2012,Christian,FY 2012,148,Rwanda,1,446
+From: 22 May 2012,To: 22 May 2012,Christian,FY 2012,148,Sri Lanka (Ceylon),4,446
+From: 22 May 2012,To: 22 May 2012,Hindu,FY 2012,53,Bhutan,53,446
+From: 22 May 2012,To: 22 May 2012,Jehovah Witness,FY 2012,14,Cuba,14,446
+From: 22 May 2012,To: 22 May 2012,Kirat,FY 2012,15,Bhutan,15,446
+From: 22 May 2012,To: 22 May 2012,Moslem,FY 2012,57,Afghanistan,1,446
+From: 22 May 2012,To: 22 May 2012,Moslem,FY 2012,57,Burma,6,446
+From: 22 May 2012,To: 22 May 2012,Moslem,FY 2012,57,Eritrea,1,446
+From: 22 May 2012,To: 22 May 2012,Moslem,FY 2012,57,Iraq,5,446
+From: 22 May 2012,To: 22 May 2012,Moslem,FY 2012,57,Somalia,32,446
+From: 22 May 2012,To: 22 May 2012,Moslem,FY 2012,57,Sudan,12,446
+From: 22 May 2012,To: 22 May 2012,Moslem Shiite,FY 2012,9,Iraq,9,446
+From: 22 May 2012,To: 22 May 2012,Moslem Suni,FY 2012,4,Iraq,4,446
+From: 22 May 2012,To: 22 May 2012,Orthodox,FY 2012,1,Iraq,1,446
+From: 22 May 2012,To: 22 May 2012,Pentecostalist,FY 2012,1,Iran,1,446
+From: 22 May 2012,To: 22 May 2012,Protestant,FY 2012,10,Dem. Rep. Congo,10,446
+From: 22 May 2012,To: 22 May 2012,Seventh Day Adventist,FY 2012,3,Dem. Rep. Congo,3,446
+From: 22 May 2012,To: 22 May 2012,Unknown,FY 2012,2,Cuba,2,446
+

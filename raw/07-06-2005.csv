@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jul 2005,To: 06 Jul 2005,Afghanistan,FY 2005,19,Moslem,12,623
+From: 06 Jul 2005,To: 06 Jul 2005,Afghanistan,FY 2005,19,Moslem Shiite,6,623
+From: 06 Jul 2005,To: 06 Jul 2005,Afghanistan,FY 2005,19,Moslem Suni,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Cuba,FY 2005,69,Baptist,2,623
+From: 06 Jul 2005,To: 06 Jul 2005,Cuba,FY 2005,69,Catholic,21,623
+From: 06 Jul 2005,To: 06 Jul 2005,Cuba,FY 2005,69,Evangelical Christian,2,623
+From: 06 Jul 2005,To: 06 Jul 2005,Cuba,FY 2005,69,Jehovah Witness,34,623
+From: 06 Jul 2005,To: 06 Jul 2005,Cuba,FY 2005,69,No Religion,10,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ethiopia,FY 2005,11,Moslem,10,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ethiopia,FY 2005,11,Protestant,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Germany,FY 2005,1,Moslem,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Iran,FY 2005,37,Bahai,32,623
+From: 06 Jul 2005,To: 06 Jul 2005,Iran,FY 2005,37,Christian,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Iran,FY 2005,37,Evangelical Christian,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Iran,FY 2005,37,Moslem Shiite,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Iran,FY 2005,37,Pentecostalist,2,623
+From: 06 Jul 2005,To: 06 Jul 2005,Laos,FY 2005,191,Ancestral Worship,187,623
+From: 06 Jul 2005,To: 06 Jul 2005,Laos,FY 2005,191,Christian,4,623
+From: 06 Jul 2005,To: 06 Jul 2005,Liberia,FY 2005,60,Christian,34,623
+From: 06 Jul 2005,To: 06 Jul 2005,Liberia,FY 2005,60,Jehovah Witness,5,623
+From: 06 Jul 2005,To: 06 Jul 2005,Liberia,FY 2005,60,Methodist,11,623
+From: 06 Jul 2005,To: 06 Jul 2005,Liberia,FY 2005,60,Moslem,7,623
+From: 06 Jul 2005,To: 06 Jul 2005,Liberia,FY 2005,60,Pentecostalist,3,623
+From: 06 Jul 2005,To: 06 Jul 2005,Pakistan,FY 2005,7,Moslem Suni,7,623
+From: 06 Jul 2005,To: 06 Jul 2005,Russia,FY 2005,105,Moslem,105,623
+From: 06 Jul 2005,To: 06 Jul 2005,Somalia,FY 2005,83,Moslem,83,623
+From: 06 Jul 2005,To: 06 Jul 2005,Sudan,FY 2005,11,Catholic,8,623
+From: 06 Jul 2005,To: 06 Jul 2005,Sudan,FY 2005,11,Christian,3,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ukraine,FY 2005,29,Baptist,4,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ukraine,FY 2005,29,Jewish,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ukraine,FY 2005,29,Pentecostalist,20,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ukraine,FY 2005,29,Seventh Day Adventist,3,623
+From: 06 Jul 2005,To: 06 Jul 2005,Ukraine,FY 2005,29,Uniate,1,623
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jul 2005,To: 06 Jul 2005,Ancestral Worship,FY 2005,187,Laos,187,623
+From: 06 Jul 2005,To: 06 Jul 2005,Bahai,FY 2005,32,Iran,32,623
+From: 06 Jul 2005,To: 06 Jul 2005,Baptist,FY 2005,6,Cuba,2,623
+From: 06 Jul 2005,To: 06 Jul 2005,Baptist,FY 2005,6,Ukraine,4,623
+From: 06 Jul 2005,To: 06 Jul 2005,Catholic,FY 2005,29,Cuba,21,623
+From: 06 Jul 2005,To: 06 Jul 2005,Catholic,FY 2005,29,Sudan,8,623
+From: 06 Jul 2005,To: 06 Jul 2005,Christian,FY 2005,42,Iran,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Christian,FY 2005,42,Laos,4,623
+From: 06 Jul 2005,To: 06 Jul 2005,Christian,FY 2005,42,Liberia,34,623
+From: 06 Jul 2005,To: 06 Jul 2005,Christian,FY 2005,42,Sudan,3,623
+From: 06 Jul 2005,To: 06 Jul 2005,Evangelical Christian,FY 2005,3,Cuba,2,623
+From: 06 Jul 2005,To: 06 Jul 2005,Evangelical Christian,FY 2005,3,Iran,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Jehovah Witness,FY 2005,39,Cuba,34,623
+From: 06 Jul 2005,To: 06 Jul 2005,Jehovah Witness,FY 2005,39,Liberia,5,623
+From: 06 Jul 2005,To: 06 Jul 2005,Jewish,FY 2005,1,Ukraine,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Methodist,FY 2005,11,Liberia,11,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem,FY 2005,218,Afghanistan,12,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem,FY 2005,218,Ethiopia,10,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem,FY 2005,218,Germany,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem,FY 2005,218,Liberia,7,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem,FY 2005,218,Russia,105,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem,FY 2005,218,Somalia,83,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem Shiite,FY 2005,7,Afghanistan,6,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem Shiite,FY 2005,7,Iran,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem Suni,FY 2005,8,Afghanistan,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Moslem Suni,FY 2005,8,Pakistan,7,623
+From: 06 Jul 2005,To: 06 Jul 2005,No Religion,FY 2005,10,Cuba,10,623
+From: 06 Jul 2005,To: 06 Jul 2005,Pentecostalist,FY 2005,25,Iran,2,623
+From: 06 Jul 2005,To: 06 Jul 2005,Pentecostalist,FY 2005,25,Liberia,3,623
+From: 06 Jul 2005,To: 06 Jul 2005,Pentecostalist,FY 2005,25,Ukraine,20,623
+From: 06 Jul 2005,To: 06 Jul 2005,Protestant,FY 2005,1,Ethiopia,1,623
+From: 06 Jul 2005,To: 06 Jul 2005,Seventh Day Adventist,FY 2005,3,Ukraine,3,623
+From: 06 Jul 2005,To: 06 Jul 2005,Uniate,FY 2005,1,Ukraine,1,623
+

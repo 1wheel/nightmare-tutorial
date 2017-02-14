@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Oct 2009,To: 22 Oct 2009,Bhutan,FY 2010,127,Buddhist,12,459
+From: 22 Oct 2009,To: 22 Oct 2009,Bhutan,FY 2010,127,Christian,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Bhutan,FY 2010,127,Hindu,113,459
+From: 22 Oct 2009,To: 22 Oct 2009,Bhutan,FY 2010,127,Kirat,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Burma,FY 2010,127,Animist,12,459
+From: 22 Oct 2009,To: 22 Oct 2009,Burma,FY 2010,127,Baptist,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Burma,FY 2010,127,Buddhist,20,459
+From: 22 Oct 2009,To: 22 Oct 2009,Burma,FY 2010,127,Catholic,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Burma,FY 2010,127,Christian,88,459
+From: 22 Oct 2009,To: 22 Oct 2009,Burma,FY 2010,127,Moslem,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Cambodia,FY 2010,1,Christian,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Cuba,FY 2010,69,Catholic,20,459
+From: 22 Oct 2009,To: 22 Oct 2009,Cuba,FY 2010,69,Evangelical Christian,9,459
+From: 22 Oct 2009,To: 22 Oct 2009,Cuba,FY 2010,69,Jehovah Witness,25,459
+From: 22 Oct 2009,To: 22 Oct 2009,Cuba,FY 2010,69,No Religion,13,459
+From: 22 Oct 2009,To: 22 Oct 2009,Cuba,FY 2010,69,Seventh Day Adventist,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Dem. Rep. Congo,FY 2010,10,Protestant,10,459
+From: 22 Oct 2009,To: 22 Oct 2009,Ethiopia,FY 2010,2,Christian,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Ethiopia,FY 2010,2,Protestant,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Iran,FY 2010,4,Bahai,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Iraq,FY 2010,25,Catholic,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Iraq,FY 2010,25,Christian,9,459
+From: 22 Oct 2009,To: 22 Oct 2009,Iraq,FY 2010,25,Moslem Suni,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Iraq,FY 2010,25,Orthodox,6,459
+From: 22 Oct 2009,To: 22 Oct 2009,Iraq,FY 2010,25,Sabeans-Mandean,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Rwanda,FY 2010,2,Catholic,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Somalia,FY 2010,42,Moslem,42,459
+From: 22 Oct 2009,To: 22 Oct 2009,Sudan,FY 2010,28,Moslem,28,459
+From: 22 Oct 2009,To: 22 Oct 2009,Vietnam,FY 2010,22,Ancestral Worship,6,459
+From: 22 Oct 2009,To: 22 Oct 2009,Vietnam,FY 2010,22,Buddhist,9,459
+From: 22 Oct 2009,To: 22 Oct 2009,Vietnam,FY 2010,22,Hindu,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Vietnam,FY 2010,22,No Religion,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Vietnam,FY 2010,22,Protestant,2,459
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Oct 2009,To: 22 Oct 2009,Ancestral Worship,FY 2010,6,Vietnam,6,459
+From: 22 Oct 2009,To: 22 Oct 2009,Animist,FY 2010,12,Burma,12,459
+From: 22 Oct 2009,To: 22 Oct 2009,Bahai,FY 2010,4,Iran,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Baptist,FY 2010,2,Burma,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Buddhist,FY 2010,41,Bhutan,12,459
+From: 22 Oct 2009,To: 22 Oct 2009,Buddhist,FY 2010,41,Burma,20,459
+From: 22 Oct 2009,To: 22 Oct 2009,Buddhist,FY 2010,41,Vietnam,9,459
+From: 22 Oct 2009,To: 22 Oct 2009,Catholic,FY 2010,30,Burma,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Catholic,FY 2010,30,Cuba,20,459
+From: 22 Oct 2009,To: 22 Oct 2009,Catholic,FY 2010,30,Iraq,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Catholic,FY 2010,30,Rwanda,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Christian,FY 2010,100,Bhutan,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Christian,FY 2010,100,Burma,88,459
+From: 22 Oct 2009,To: 22 Oct 2009,Christian,FY 2010,100,Cambodia,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Christian,FY 2010,100,Ethiopia,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Christian,FY 2010,100,Iraq,9,459
+From: 22 Oct 2009,To: 22 Oct 2009,Evangelical Christian,FY 2010,9,Cuba,9,459
+From: 22 Oct 2009,To: 22 Oct 2009,Hindu,FY 2010,114,Bhutan,113,459
+From: 22 Oct 2009,To: 22 Oct 2009,Hindu,FY 2010,114,Vietnam,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Jehovah Witness,FY 2010,25,Cuba,25,459
+From: 22 Oct 2009,To: 22 Oct 2009,Kirat,FY 2010,1,Bhutan,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Moslem,FY 2010,71,Burma,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Moslem,FY 2010,71,Somalia,42,459
+From: 22 Oct 2009,To: 22 Oct 2009,Moslem,FY 2010,71,Sudan,28,459
+From: 22 Oct 2009,To: 22 Oct 2009,Moslem Suni,FY 2010,4,Iraq,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,No Religion,FY 2010,17,Cuba,13,459
+From: 22 Oct 2009,To: 22 Oct 2009,No Religion,FY 2010,17,Vietnam,4,459
+From: 22 Oct 2009,To: 22 Oct 2009,Orthodox,FY 2010,6,Iraq,6,459
+From: 22 Oct 2009,To: 22 Oct 2009,Protestant,FY 2010,13,Dem. Rep. Congo,10,459
+From: 22 Oct 2009,To: 22 Oct 2009,Protestant,FY 2010,13,Ethiopia,1,459
+From: 22 Oct 2009,To: 22 Oct 2009,Protestant,FY 2010,13,Vietnam,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Sabeans-Mandean,FY 2010,2,Iraq,2,459
+From: 22 Oct 2009,To: 22 Oct 2009,Seventh Day Adventist,FY 2010,2,Cuba,2,459
+

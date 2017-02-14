@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jul 2016,To: 05 Jul 2016,Burma,FY 2016,35,Christian,15,102
+From: 05 Jul 2016,To: 05 Jul 2016,Burma,FY 2016,35,Moslem,16,102
+From: 05 Jul 2016,To: 05 Jul 2016,Burma,FY 2016,35,Other Religion,4,102
+From: 05 Jul 2016,To: 05 Jul 2016,Cambodia,FY 2016,2,Buddhist,2,102
+From: 05 Jul 2016,To: 05 Jul 2016,Iraq,FY 2016,6,Moslem Shiite,5,102
+From: 05 Jul 2016,To: 05 Jul 2016,Iraq,FY 2016,6,Moslem Suni,1,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moldova,FY 2016,30,Baptist,25,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moldova,FY 2016,30,Pentecostalist,5,102
+From: 05 Jul 2016,To: 05 Jul 2016,Pakistan,FY 2016,5,Ahmadiyya,3,102
+From: 05 Jul 2016,To: 05 Jul 2016,Pakistan,FY 2016,5,Moslem Suni,2,102
+From: 05 Jul 2016,To: 05 Jul 2016,Syria,FY 2016,24,Moslem Suni,24,102
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jul 2016,To: 05 Jul 2016,Ahmadiyya,FY 2016,3,Pakistan,3,102
+From: 05 Jul 2016,To: 05 Jul 2016,Baptist,FY 2016,25,Moldova,25,102
+From: 05 Jul 2016,To: 05 Jul 2016,Buddhist,FY 2016,2,Cambodia,2,102
+From: 05 Jul 2016,To: 05 Jul 2016,Christian,FY 2016,15,Burma,15,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moslem,FY 2016,16,Burma,16,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moslem Shiite,FY 2016,5,Iraq,5,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moslem Suni,FY 2016,27,Iraq,1,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moslem Suni,FY 2016,27,Pakistan,2,102
+From: 05 Jul 2016,To: 05 Jul 2016,Moslem Suni,FY 2016,27,Syria,24,102
+From: 05 Jul 2016,To: 05 Jul 2016,Other Religion,FY 2016,4,Burma,4,102
+From: 05 Jul 2016,To: 05 Jul 2016,Pentecostalist,FY 2016,5,Moldova,5,102
+

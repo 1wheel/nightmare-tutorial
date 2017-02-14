@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jan 2003,To: 23 Jan 2003,Azerbaijan,FY 2003,1,Jewish,1,117
+From: 23 Jan 2003,To: 23 Jan 2003,Russia,FY 2003,27,Baptist,11,117
+From: 23 Jan 2003,To: 23 Jan 2003,Russia,FY 2003,27,Jewish,8,117
+From: 23 Jan 2003,To: 23 Jan 2003,Russia,FY 2003,27,No Religion,5,117
+From: 23 Jan 2003,To: 23 Jan 2003,Russia,FY 2003,27,Pentecostalist,2,117
+From: 23 Jan 2003,To: 23 Jan 2003,Russia,FY 2003,27,Unknown,1,117
+From: 23 Jan 2003,To: 23 Jan 2003,Serbia,FY 2003,19,Orthodox,19,117
+From: 23 Jan 2003,To: 23 Jan 2003,Ukraine,FY 2003,35,Baptist,16,117
+From: 23 Jan 2003,To: 23 Jan 2003,Ukraine,FY 2003,35,Pentecostalist,19,117
+From: 23 Jan 2003,To: 23 Jan 2003,Vietnam,FY 2003,35,Unknown,35,117
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jan 2003,To: 23 Jan 2003,Baptist,FY 2003,27,Russia,11,117
+From: 23 Jan 2003,To: 23 Jan 2003,Baptist,FY 2003,27,Ukraine,16,117
+From: 23 Jan 2003,To: 23 Jan 2003,Jewish,FY 2003,9,Azerbaijan,1,117
+From: 23 Jan 2003,To: 23 Jan 2003,Jewish,FY 2003,9,Russia,8,117
+From: 23 Jan 2003,To: 23 Jan 2003,No Religion,FY 2003,5,Russia,5,117
+From: 23 Jan 2003,To: 23 Jan 2003,Orthodox,FY 2003,19,Serbia,19,117
+From: 23 Jan 2003,To: 23 Jan 2003,Pentecostalist,FY 2003,21,Russia,2,117
+From: 23 Jan 2003,To: 23 Jan 2003,Pentecostalist,FY 2003,21,Ukraine,19,117
+From: 23 Jan 2003,To: 23 Jan 2003,Unknown,FY 2003,36,Russia,1,117
+From: 23 Jan 2003,To: 23 Jan 2003,Unknown,FY 2003,36,Vietnam,35,117
+

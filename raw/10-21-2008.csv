@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Oct 2008,To: 21 Oct 2008,Belarus,FY 2009,3,Baptist,2,368
+From: 21 Oct 2008,To: 21 Oct 2008,Belarus,FY 2009,3,Pentecostalist,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Bhutan,FY 2009,93,Buddhist,19,368
+From: 21 Oct 2008,To: 21 Oct 2008,Bhutan,FY 2009,93,Christian,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Bhutan,FY 2009,93,Hindu,73,368
+From: 21 Oct 2008,To: 21 Oct 2008,Burma,FY 2009,100,Buddhist,28,368
+From: 21 Oct 2008,To: 21 Oct 2008,Burma,FY 2009,100,Catholic,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Burma,FY 2009,100,Christian,58,368
+From: 21 Oct 2008,To: 21 Oct 2008,Burma,FY 2009,100,Moslem,13,368
+From: 21 Oct 2008,To: 21 Oct 2008,Cuba,FY 2009,35,Catholic,10,368
+From: 21 Oct 2008,To: 21 Oct 2008,Cuba,FY 2009,35,Jehovah Witness,10,368
+From: 21 Oct 2008,To: 21 Oct 2008,Cuba,FY 2009,35,No Religion,15,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iran,FY 2009,75,Christian,67,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iran,FY 2009,75,Zoroastrian,8,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iraq,FY 2009,53,Catholic,8,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iraq,FY 2009,53,Christian,16,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iraq,FY 2009,53,Moslem,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iraq,FY 2009,53,Moslem Shiite,4,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iraq,FY 2009,53,Moslem Suni,22,368
+From: 21 Oct 2008,To: 21 Oct 2008,Iraq,FY 2009,53,Orthodox,2,368
+From: 21 Oct 2008,To: 21 Oct 2008,Somalia,FY 2009,9,Moslem,9,368
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Oct 2008,To: 21 Oct 2008,Baptist,FY 2009,2,Belarus,2,368
+From: 21 Oct 2008,To: 21 Oct 2008,Buddhist,FY 2009,47,Bhutan,19,368
+From: 21 Oct 2008,To: 21 Oct 2008,Buddhist,FY 2009,47,Burma,28,368
+From: 21 Oct 2008,To: 21 Oct 2008,Catholic,FY 2009,19,Burma,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Catholic,FY 2009,19,Cuba,10,368
+From: 21 Oct 2008,To: 21 Oct 2008,Catholic,FY 2009,19,Iraq,8,368
+From: 21 Oct 2008,To: 21 Oct 2008,Christian,FY 2009,142,Bhutan,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Christian,FY 2009,142,Burma,58,368
+From: 21 Oct 2008,To: 21 Oct 2008,Christian,FY 2009,142,Iran,67,368
+From: 21 Oct 2008,To: 21 Oct 2008,Christian,FY 2009,142,Iraq,16,368
+From: 21 Oct 2008,To: 21 Oct 2008,Hindu,FY 2009,73,Bhutan,73,368
+From: 21 Oct 2008,To: 21 Oct 2008,Jehovah Witness,FY 2009,10,Cuba,10,368
+From: 21 Oct 2008,To: 21 Oct 2008,Moslem,FY 2009,23,Burma,13,368
+From: 21 Oct 2008,To: 21 Oct 2008,Moslem,FY 2009,23,Iraq,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Moslem,FY 2009,23,Somalia,9,368
+From: 21 Oct 2008,To: 21 Oct 2008,Moslem Shiite,FY 2009,4,Iraq,4,368
+From: 21 Oct 2008,To: 21 Oct 2008,Moslem Suni,FY 2009,22,Iraq,22,368
+From: 21 Oct 2008,To: 21 Oct 2008,No Religion,FY 2009,15,Cuba,15,368
+From: 21 Oct 2008,To: 21 Oct 2008,Orthodox,FY 2009,2,Iraq,2,368
+From: 21 Oct 2008,To: 21 Oct 2008,Pentecostalist,FY 2009,1,Belarus,1,368
+From: 21 Oct 2008,To: 21 Oct 2008,Zoroastrian,FY 2009,8,Iran,8,368
+

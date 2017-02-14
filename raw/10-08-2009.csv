@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Oct 2009,To: 08 Oct 2009,Bhutan,FY 2010,129,Buddhist,24,302
+From: 08 Oct 2009,To: 08 Oct 2009,Bhutan,FY 2010,129,Christian,11,302
+From: 08 Oct 2009,To: 08 Oct 2009,Bhutan,FY 2010,129,Hindu,84,302
+From: 08 Oct 2009,To: 08 Oct 2009,Bhutan,FY 2010,129,Kirat,10,302
+From: 08 Oct 2009,To: 08 Oct 2009,Burma,FY 2010,56,Animist,10,302
+From: 08 Oct 2009,To: 08 Oct 2009,Burma,FY 2010,56,Baptist,2,302
+From: 08 Oct 2009,To: 08 Oct 2009,Burma,FY 2010,56,Buddhist,2,302
+From: 08 Oct 2009,To: 08 Oct 2009,Burma,FY 2010,56,Christian,42,302
+From: 08 Oct 2009,To: 08 Oct 2009,Dem. Rep. Congo,FY 2010,2,Catholic,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Dem. Rep. Congo,FY 2010,2,Protestant,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Eritrea,FY 2010,44,Catholic,17,302
+From: 08 Oct 2009,To: 08 Oct 2009,Eritrea,FY 2010,44,Moslem,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Eritrea,FY 2010,44,Orthodox,20,302
+From: 08 Oct 2009,To: 08 Oct 2009,Eritrea,FY 2010,44,Protestant,6,302
+From: 08 Oct 2009,To: 08 Oct 2009,Iraq,FY 2010,27,Catholic,4,302
+From: 08 Oct 2009,To: 08 Oct 2009,Iraq,FY 2010,27,Moslem,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Iraq,FY 2010,27,Moslem Shiite,18,302
+From: 08 Oct 2009,To: 08 Oct 2009,Iraq,FY 2010,27,Moslem Suni,3,302
+From: 08 Oct 2009,To: 08 Oct 2009,Iraq,FY 2010,27,Orthodox,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Somalia,FY 2010,44,Moslem,44,302
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Oct 2009,To: 08 Oct 2009,Animist,FY 2010,10,Burma,10,302
+From: 08 Oct 2009,To: 08 Oct 2009,Baptist,FY 2010,2,Burma,2,302
+From: 08 Oct 2009,To: 08 Oct 2009,Buddhist,FY 2010,26,Bhutan,24,302
+From: 08 Oct 2009,To: 08 Oct 2009,Buddhist,FY 2010,26,Burma,2,302
+From: 08 Oct 2009,To: 08 Oct 2009,Catholic,FY 2010,22,Dem. Rep. Congo,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Catholic,FY 2010,22,Eritrea,17,302
+From: 08 Oct 2009,To: 08 Oct 2009,Catholic,FY 2010,22,Iraq,4,302
+From: 08 Oct 2009,To: 08 Oct 2009,Christian,FY 2010,53,Bhutan,11,302
+From: 08 Oct 2009,To: 08 Oct 2009,Christian,FY 2010,53,Burma,42,302
+From: 08 Oct 2009,To: 08 Oct 2009,Hindu,FY 2010,84,Bhutan,84,302
+From: 08 Oct 2009,To: 08 Oct 2009,Kirat,FY 2010,10,Bhutan,10,302
+From: 08 Oct 2009,To: 08 Oct 2009,Moslem,FY 2010,46,Eritrea,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Moslem,FY 2010,46,Iraq,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Moslem,FY 2010,46,Somalia,44,302
+From: 08 Oct 2009,To: 08 Oct 2009,Moslem Shiite,FY 2010,18,Iraq,18,302
+From: 08 Oct 2009,To: 08 Oct 2009,Moslem Suni,FY 2010,3,Iraq,3,302
+From: 08 Oct 2009,To: 08 Oct 2009,Orthodox,FY 2010,21,Eritrea,20,302
+From: 08 Oct 2009,To: 08 Oct 2009,Orthodox,FY 2010,21,Iraq,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Protestant,FY 2010,7,Dem. Rep. Congo,1,302
+From: 08 Oct 2009,To: 08 Oct 2009,Protestant,FY 2010,7,Eritrea,6,302
+

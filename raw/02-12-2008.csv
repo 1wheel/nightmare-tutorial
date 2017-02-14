@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Feb 2008,To: 12 Feb 2008,Belarus,FY 2008,2,Pentecostalist,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burma,FY 2008,63,Buddhist,11,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burma,FY 2008,63,Christian,37,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burma,FY 2008,63,Moslem,15,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burundi,FY 2008,105,Catholic,25,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burundi,FY 2008,105,Christian,5,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burundi,FY 2008,105,Methodist,14,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burundi,FY 2008,105,Pentecostalist,54,361
+From: 12 Feb 2008,To: 12 Feb 2008,Burundi,FY 2008,105,Seventh Day Adventist,7,361
+From: 12 Feb 2008,To: 12 Feb 2008,Cuba,FY 2008,70,Catholic,42,361
+From: 12 Feb 2008,To: 12 Feb 2008,Cuba,FY 2008,70,Evangelical Christian,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Cuba,FY 2008,70,Jehovah Witness,13,361
+From: 12 Feb 2008,To: 12 Feb 2008,Cuba,FY 2008,70,No Religion,13,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iran,FY 2008,74,Bahai,4,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iran,FY 2008,74,Christian,68,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iran,FY 2008,74,Zoroastrian,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iraq,FY 2008,21,Catholic,3,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iraq,FY 2008,21,Christian,4,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iraq,FY 2008,21,Moslem Shiite,7,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iraq,FY 2008,21,Moslem Suni,6,361
+From: 12 Feb 2008,To: 12 Feb 2008,Iraq,FY 2008,21,Orthodox,1,361
+From: 12 Feb 2008,To: 12 Feb 2008,Ivory Coast,FY 2008,3,Christian,3,361
+From: 12 Feb 2008,To: 12 Feb 2008,Laos,FY 2008,1,Ancestral Worship,1,361
+From: 12 Feb 2008,To: 12 Feb 2008,Liberia,FY 2008,5,Christian,4,361
+From: 12 Feb 2008,To: 12 Feb 2008,Liberia,FY 2008,5,Moslem,1,361
+From: 12 Feb 2008,To: 12 Feb 2008,Syria,FY 2008,5,Yazidi,5,361
+From: 12 Feb 2008,To: 12 Feb 2008,Ukraine,FY 2008,12,Baptist,7,361
+From: 12 Feb 2008,To: 12 Feb 2008,Ukraine,FY 2008,12,Pentecostalist,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Ukraine,FY 2008,12,Uniate,3,361
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Feb 2008,To: 12 Feb 2008,Ancestral Worship,FY 2008,1,Laos,1,361
+From: 12 Feb 2008,To: 12 Feb 2008,Bahai,FY 2008,4,Iran,4,361
+From: 12 Feb 2008,To: 12 Feb 2008,Baptist,FY 2008,7,Ukraine,7,361
+From: 12 Feb 2008,To: 12 Feb 2008,Buddhist,FY 2008,11,Burma,11,361
+From: 12 Feb 2008,To: 12 Feb 2008,Catholic,FY 2008,70,Burundi,25,361
+From: 12 Feb 2008,To: 12 Feb 2008,Catholic,FY 2008,70,Cuba,42,361
+From: 12 Feb 2008,To: 12 Feb 2008,Catholic,FY 2008,70,Iraq,3,361
+From: 12 Feb 2008,To: 12 Feb 2008,Christian,FY 2008,121,Burma,37,361
+From: 12 Feb 2008,To: 12 Feb 2008,Christian,FY 2008,121,Burundi,5,361
+From: 12 Feb 2008,To: 12 Feb 2008,Christian,FY 2008,121,Iran,68,361
+From: 12 Feb 2008,To: 12 Feb 2008,Christian,FY 2008,121,Iraq,4,361
+From: 12 Feb 2008,To: 12 Feb 2008,Christian,FY 2008,121,Ivory Coast,3,361
+From: 12 Feb 2008,To: 12 Feb 2008,Christian,FY 2008,121,Liberia,4,361
+From: 12 Feb 2008,To: 12 Feb 2008,Evangelical Christian,FY 2008,2,Cuba,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Jehovah Witness,FY 2008,13,Cuba,13,361
+From: 12 Feb 2008,To: 12 Feb 2008,Methodist,FY 2008,14,Burundi,14,361
+From: 12 Feb 2008,To: 12 Feb 2008,Moslem,FY 2008,16,Burma,15,361
+From: 12 Feb 2008,To: 12 Feb 2008,Moslem,FY 2008,16,Liberia,1,361
+From: 12 Feb 2008,To: 12 Feb 2008,Moslem Shiite,FY 2008,7,Iraq,7,361
+From: 12 Feb 2008,To: 12 Feb 2008,Moslem Suni,FY 2008,6,Iraq,6,361
+From: 12 Feb 2008,To: 12 Feb 2008,No Religion,FY 2008,13,Cuba,13,361
+From: 12 Feb 2008,To: 12 Feb 2008,Orthodox,FY 2008,1,Iraq,1,361
+From: 12 Feb 2008,To: 12 Feb 2008,Pentecostalist,FY 2008,58,Belarus,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Pentecostalist,FY 2008,58,Burundi,54,361
+From: 12 Feb 2008,To: 12 Feb 2008,Pentecostalist,FY 2008,58,Ukraine,2,361
+From: 12 Feb 2008,To: 12 Feb 2008,Seventh Day Adventist,FY 2008,7,Burundi,7,361
+From: 12 Feb 2008,To: 12 Feb 2008,Uniate,FY 2008,3,Ukraine,3,361
+From: 12 Feb 2008,To: 12 Feb 2008,Yazidi,FY 2008,5,Syria,5,361
+From: 12 Feb 2008,To: 12 Feb 2008,Zoroastrian,FY 2008,2,Iran,2,361
+

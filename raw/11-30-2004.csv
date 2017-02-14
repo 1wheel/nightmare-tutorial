@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Nov 2004,To: 30 Nov 2004,Afghanistan,FY 2005,20,Moslem Suni,20,370
+From: 30 Nov 2004,To: 30 Nov 2004,Angola,FY 2005,4,Christian,4,370
+From: 30 Nov 2004,To: 30 Nov 2004,Azerbaijan,FY 2005,3,Unknown,3,370
+From: 30 Nov 2004,To: 30 Nov 2004,Burma,FY 2005,68,Buddhist,27,370
+From: 30 Nov 2004,To: 30 Nov 2004,Burma,FY 2005,68,Protestant,41,370
+From: 30 Nov 2004,To: 30 Nov 2004,Cuba,FY 2005,70,Baptist,3,370
+From: 30 Nov 2004,To: 30 Nov 2004,Cuba,FY 2005,70,Catholic,25,370
+From: 30 Nov 2004,To: 30 Nov 2004,Cuba,FY 2005,70,Christian,5,370
+From: 30 Nov 2004,To: 30 Nov 2004,Cuba,FY 2005,70,Jehovah Witness,6,370
+From: 30 Nov 2004,To: 30 Nov 2004,Cuba,FY 2005,70,No Religion,31,370
+From: 30 Nov 2004,To: 30 Nov 2004,Dem. Rep. Congo,FY 2005,31,Catholic,6,370
+From: 30 Nov 2004,To: 30 Nov 2004,Dem. Rep. Congo,FY 2005,31,Christian,24,370
+From: 30 Nov 2004,To: 30 Nov 2004,Dem. Rep. Congo,FY 2005,31,Unknown,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Ethiopia,FY 2005,1,Orthodox,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Iran,FY 2005,1,Moslem Shiite,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Iraq,FY 2005,1,Orthodox,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Laos,FY 2005,35,Ancestral Worship,32,370
+From: 30 Nov 2004,To: 30 Nov 2004,Laos,FY 2005,35,Christian,3,370
+From: 30 Nov 2004,To: 30 Nov 2004,Russia,FY 2005,7,Baptist,4,370
+From: 30 Nov 2004,To: 30 Nov 2004,Russia,FY 2005,7,Jewish,2,370
+From: 30 Nov 2004,To: 30 Nov 2004,Russia,FY 2005,7,Pentecostalist,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Rwanda,FY 2005,8,Christian,8,370
+From: 30 Nov 2004,To: 30 Nov 2004,Somalia,FY 2005,85,Moslem,85,370
+From: 30 Nov 2004,To: 30 Nov 2004,Sudan,FY 2005,5,Christian,5,370
+From: 30 Nov 2004,To: 30 Nov 2004,Ukraine,FY 2005,31,Baptist,5,370
+From: 30 Nov 2004,To: 30 Nov 2004,Ukraine,FY 2005,31,Pentecostalist,23,370
+From: 30 Nov 2004,To: 30 Nov 2004,Ukraine,FY 2005,31,Unknown,3,370
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Nov 2004,To: 30 Nov 2004,Ancestral Worship,FY 2005,32,Laos,32,370
+From: 30 Nov 2004,To: 30 Nov 2004,Baptist,FY 2005,12,Cuba,3,370
+From: 30 Nov 2004,To: 30 Nov 2004,Baptist,FY 2005,12,Russia,4,370
+From: 30 Nov 2004,To: 30 Nov 2004,Baptist,FY 2005,12,Ukraine,5,370
+From: 30 Nov 2004,To: 30 Nov 2004,Buddhist,FY 2005,27,Burma,27,370
+From: 30 Nov 2004,To: 30 Nov 2004,Catholic,FY 2005,31,Cuba,25,370
+From: 30 Nov 2004,To: 30 Nov 2004,Catholic,FY 2005,31,Dem. Rep. Congo,6,370
+From: 30 Nov 2004,To: 30 Nov 2004,Christian,FY 2005,49,Angola,4,370
+From: 30 Nov 2004,To: 30 Nov 2004,Christian,FY 2005,49,Cuba,5,370
+From: 30 Nov 2004,To: 30 Nov 2004,Christian,FY 2005,49,Dem. Rep. Congo,24,370
+From: 30 Nov 2004,To: 30 Nov 2004,Christian,FY 2005,49,Laos,3,370
+From: 30 Nov 2004,To: 30 Nov 2004,Christian,FY 2005,49,Rwanda,8,370
+From: 30 Nov 2004,To: 30 Nov 2004,Christian,FY 2005,49,Sudan,5,370
+From: 30 Nov 2004,To: 30 Nov 2004,Jehovah Witness,FY 2005,6,Cuba,6,370
+From: 30 Nov 2004,To: 30 Nov 2004,Jewish,FY 2005,2,Russia,2,370
+From: 30 Nov 2004,To: 30 Nov 2004,Moslem,FY 2005,85,Somalia,85,370
+From: 30 Nov 2004,To: 30 Nov 2004,Moslem Shiite,FY 2005,1,Iran,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Moslem Suni,FY 2005,20,Afghanistan,20,370
+From: 30 Nov 2004,To: 30 Nov 2004,No Religion,FY 2005,31,Cuba,31,370
+From: 30 Nov 2004,To: 30 Nov 2004,Orthodox,FY 2005,2,Ethiopia,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Orthodox,FY 2005,2,Iraq,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Pentecostalist,FY 2005,24,Russia,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Pentecostalist,FY 2005,24,Ukraine,23,370
+From: 30 Nov 2004,To: 30 Nov 2004,Protestant,FY 2005,41,Burma,41,370
+From: 30 Nov 2004,To: 30 Nov 2004,Unknown,FY 2005,7,Azerbaijan,3,370
+From: 30 Nov 2004,To: 30 Nov 2004,Unknown,FY 2005,7,Dem. Rep. Congo,1,370
+From: 30 Nov 2004,To: 30 Nov 2004,Unknown,FY 2005,7,Ukraine,3,370
+

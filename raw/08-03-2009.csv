@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Aug 2009,To: 03 Aug 2009,Bhutan,FY 2009,105,Buddhist,3,289
+From: 03 Aug 2009,To: 03 Aug 2009,Bhutan,FY 2009,105,Christian,4,289
+From: 03 Aug 2009,To: 03 Aug 2009,Bhutan,FY 2009,105,Hindu,98,289
+From: 03 Aug 2009,To: 03 Aug 2009,Burma,FY 2009,1,Buddhist,1,289
+From: 03 Aug 2009,To: 03 Aug 2009,Ethiopia,FY 2009,1,Orthodox,1,289
+From: 03 Aug 2009,To: 03 Aug 2009,Iraq,FY 2009,150,Catholic,9,289
+From: 03 Aug 2009,To: 03 Aug 2009,Iraq,FY 2009,150,Christian,67,289
+From: 03 Aug 2009,To: 03 Aug 2009,Iraq,FY 2009,150,Moslem,3,289
+From: 03 Aug 2009,To: 03 Aug 2009,Iraq,FY 2009,150,Moslem Shiite,18,289
+From: 03 Aug 2009,To: 03 Aug 2009,Iraq,FY 2009,150,Moslem Suni,43,289
+From: 03 Aug 2009,To: 03 Aug 2009,Iraq,FY 2009,150,Orthodox,10,289
+From: 03 Aug 2009,To: 03 Aug 2009,Somalia,FY 2009,32,Moslem,32,289
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Aug 2009,To: 03 Aug 2009,Buddhist,FY 2009,4,Bhutan,3,289
+From: 03 Aug 2009,To: 03 Aug 2009,Buddhist,FY 2009,4,Burma,1,289
+From: 03 Aug 2009,To: 03 Aug 2009,Catholic,FY 2009,9,Iraq,9,289
+From: 03 Aug 2009,To: 03 Aug 2009,Christian,FY 2009,71,Bhutan,4,289
+From: 03 Aug 2009,To: 03 Aug 2009,Christian,FY 2009,71,Iraq,67,289
+From: 03 Aug 2009,To: 03 Aug 2009,Hindu,FY 2009,98,Bhutan,98,289
+From: 03 Aug 2009,To: 03 Aug 2009,Moslem,FY 2009,35,Iraq,3,289
+From: 03 Aug 2009,To: 03 Aug 2009,Moslem,FY 2009,35,Somalia,32,289
+From: 03 Aug 2009,To: 03 Aug 2009,Moslem Shiite,FY 2009,18,Iraq,18,289
+From: 03 Aug 2009,To: 03 Aug 2009,Moslem Suni,FY 2009,43,Iraq,43,289
+From: 03 Aug 2009,To: 03 Aug 2009,Orthodox,FY 2009,11,Ethiopia,1,289
+From: 03 Aug 2009,To: 03 Aug 2009,Orthodox,FY 2009,11,Iraq,10,289
+

@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Nov 2007,To: 07 Nov 2007,Burma,FY 2008,63,Buddhist,5,193
+From: 07 Nov 2007,To: 07 Nov 2007,Burma,FY 2008,63,Christian,58,193
+From: 07 Nov 2007,To: 07 Nov 2007,Cuba,FY 2008,1,No Religion,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Ethiopia,FY 2008,5,Christian,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Ethiopia,FY 2008,5,Moslem,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Ethiopia,FY 2008,5,Orthodox,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iran,FY 2008,33,Christian,28,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iran,FY 2008,33,Sabeans-Mandean,4,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iran,FY 2008,33,Zoroastrian,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iraq,FY 2008,28,Christian,3,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iraq,FY 2008,28,Moslem Shiite,7,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iraq,FY 2008,28,Moslem Suni,4,193
+From: 07 Nov 2007,To: 07 Nov 2007,Iraq,FY 2008,28,Sabeans-Mandean,14,193
+From: 07 Nov 2007,To: 07 Nov 2007,Somalia,FY 2008,32,Moslem,32,193
+From: 07 Nov 2007,To: 07 Nov 2007,Sudan,FY 2008,3,Christian,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Sudan,FY 2008,3,Protestant,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Uganda,FY 2008,1,Protestant,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Vietnam,FY 2008,27,Ancestral Worship,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Vietnam,FY 2008,27,Buddhist,10,193
+From: 07 Nov 2007,To: 07 Nov 2007,Vietnam,FY 2008,27,No Religion,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Vietnam,FY 2008,27,Protestant,14,193
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Nov 2007,To: 07 Nov 2007,Ancestral Worship,FY 2008,1,Vietnam,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Buddhist,FY 2008,15,Burma,5,193
+From: 07 Nov 2007,To: 07 Nov 2007,Buddhist,FY 2008,15,Vietnam,10,193
+From: 07 Nov 2007,To: 07 Nov 2007,Christian,FY 2008,91,Burma,58,193
+From: 07 Nov 2007,To: 07 Nov 2007,Christian,FY 2008,91,Ethiopia,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Christian,FY 2008,91,Iran,28,193
+From: 07 Nov 2007,To: 07 Nov 2007,Christian,FY 2008,91,Iraq,3,193
+From: 07 Nov 2007,To: 07 Nov 2007,Christian,FY 2008,91,Sudan,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Moslem,FY 2008,34,Ethiopia,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Moslem,FY 2008,34,Somalia,32,193
+From: 07 Nov 2007,To: 07 Nov 2007,Moslem Shiite,FY 2008,7,Iraq,7,193
+From: 07 Nov 2007,To: 07 Nov 2007,Moslem Suni,FY 2008,4,Iraq,4,193
+From: 07 Nov 2007,To: 07 Nov 2007,No Religion,FY 2008,3,Cuba,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,No Religion,FY 2008,3,Vietnam,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Orthodox,FY 2008,2,Ethiopia,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Protestant,FY 2008,17,Sudan,2,193
+From: 07 Nov 2007,To: 07 Nov 2007,Protestant,FY 2008,17,Uganda,1,193
+From: 07 Nov 2007,To: 07 Nov 2007,Protestant,FY 2008,17,Vietnam,14,193
+From: 07 Nov 2007,To: 07 Nov 2007,Sabeans-Mandean,FY 2008,18,Iran,4,193
+From: 07 Nov 2007,To: 07 Nov 2007,Sabeans-Mandean,FY 2008,18,Iraq,14,193
+From: 07 Nov 2007,To: 07 Nov 2007,Zoroastrian,FY 2008,1,Iran,1,193
+

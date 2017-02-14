@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jul 2013,To: 02 Jul 2013,Bhutan,FY 2013,41,Buddhist,11,324
+From: 02 Jul 2013,To: 02 Jul 2013,Bhutan,FY 2013,41,Hindu,25,324
+From: 02 Jul 2013,To: 02 Jul 2013,Bhutan,FY 2013,41,Kirat,5,324
+From: 02 Jul 2013,To: 02 Jul 2013,Burma,FY 2013,94,Baptist,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Burma,FY 2013,94,Buddhist,37,324
+From: 02 Jul 2013,To: 02 Jul 2013,Burma,FY 2013,94,Christian,44,324
+From: 02 Jul 2013,To: 02 Jul 2013,Burma,FY 2013,94,Moslem,10,324
+From: 02 Jul 2013,To: 02 Jul 2013,Burma,FY 2013,94,Seventh Day Adventist,1,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,Baptist,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,Catholic,1,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,Evangelical Christian,5,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,Jehovah Witness,9,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,No Religion,11,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,Pentecostalist,4,324
+From: 02 Jul 2013,To: 02 Jul 2013,Cuba,FY 2013,34,Seventh Day Adventist,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Dem. Rep. Congo,FY 2013,10,Catholic,10,324
+From: 02 Jul 2013,To: 02 Jul 2013,Iran,FY 2013,2,Moslem,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Iraq,FY 2013,79,Catholic,9,324
+From: 02 Jul 2013,To: 02 Jul 2013,Iraq,FY 2013,79,Moslem,6,324
+From: 02 Jul 2013,To: 02 Jul 2013,Iraq,FY 2013,79,Moslem Shiite,15,324
+From: 02 Jul 2013,To: 02 Jul 2013,Iraq,FY 2013,79,Moslem Suni,49,324
+From: 02 Jul 2013,To: 02 Jul 2013,Somalia,FY 2013,19,Moslem,16,324
+From: 02 Jul 2013,To: 02 Jul 2013,Somalia,FY 2013,19,Moslem Suni,3,324
+From: 02 Jul 2013,To: 02 Jul 2013,Sudan,FY 2013,45,Catholic,4,324
+From: 02 Jul 2013,To: 02 Jul 2013,Sudan,FY 2013,45,Moslem,41,324
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jul 2013,To: 02 Jul 2013,Baptist,FY 2013,4,Burma,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Baptist,FY 2013,4,Cuba,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Buddhist,FY 2013,48,Bhutan,11,324
+From: 02 Jul 2013,To: 02 Jul 2013,Buddhist,FY 2013,48,Burma,37,324
+From: 02 Jul 2013,To: 02 Jul 2013,Catholic,FY 2013,24,Cuba,1,324
+From: 02 Jul 2013,To: 02 Jul 2013,Catholic,FY 2013,24,Dem. Rep. Congo,10,324
+From: 02 Jul 2013,To: 02 Jul 2013,Catholic,FY 2013,24,Iraq,9,324
+From: 02 Jul 2013,To: 02 Jul 2013,Catholic,FY 2013,24,Sudan,4,324
+From: 02 Jul 2013,To: 02 Jul 2013,Christian,FY 2013,44,Burma,44,324
+From: 02 Jul 2013,To: 02 Jul 2013,Evangelical Christian,FY 2013,5,Cuba,5,324
+From: 02 Jul 2013,To: 02 Jul 2013,Hindu,FY 2013,25,Bhutan,25,324
+From: 02 Jul 2013,To: 02 Jul 2013,Jehovah Witness,FY 2013,9,Cuba,9,324
+From: 02 Jul 2013,To: 02 Jul 2013,Kirat,FY 2013,5,Bhutan,5,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem,FY 2013,75,Burma,10,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem,FY 2013,75,Iran,2,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem,FY 2013,75,Iraq,6,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem,FY 2013,75,Somalia,16,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem,FY 2013,75,Sudan,41,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem Shiite,FY 2013,15,Iraq,15,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem Suni,FY 2013,52,Iraq,49,324
+From: 02 Jul 2013,To: 02 Jul 2013,Moslem Suni,FY 2013,52,Somalia,3,324
+From: 02 Jul 2013,To: 02 Jul 2013,No Religion,FY 2013,11,Cuba,11,324
+From: 02 Jul 2013,To: 02 Jul 2013,Pentecostalist,FY 2013,4,Cuba,4,324
+From: 02 Jul 2013,To: 02 Jul 2013,Seventh Day Adventist,FY 2013,3,Burma,1,324
+From: 02 Jul 2013,To: 02 Jul 2013,Seventh Day Adventist,FY 2013,3,Cuba,2,324
+

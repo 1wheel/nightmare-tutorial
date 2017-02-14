@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 May 2005,To: 12 May 2005,Afghanistan,FY 2005,1,Moslem,1,156
+From: 12 May 2005,To: 12 May 2005,Cuba,FY 2005,70,Baptist,4,156
+From: 12 May 2005,To: 12 May 2005,Cuba,FY 2005,70,Catholic,19,156
+From: 12 May 2005,To: 12 May 2005,Cuba,FY 2005,70,Evangelical Christian,8,156
+From: 12 May 2005,To: 12 May 2005,Cuba,FY 2005,70,Jehovah Witness,10,156
+From: 12 May 2005,To: 12 May 2005,Cuba,FY 2005,70,No Religion,29,156
+From: 12 May 2005,To: 12 May 2005,Dem. Rep. Congo,FY 2005,6,Christian,6,156
+From: 12 May 2005,To: 12 May 2005,Ethiopia,FY 2005,10,Moslem,10,156
+From: 12 May 2005,To: 12 May 2005,Laos,FY 2005,25,Ancestral Worship,16,156
+From: 12 May 2005,To: 12 May 2005,Laos,FY 2005,25,Christian,9,156
+From: 12 May 2005,To: 12 May 2005,Somalia,FY 2005,40,Moslem,40,156
+From: 12 May 2005,To: 12 May 2005,Vietnam,FY 2005,4,Protestant,4,156
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 May 2005,To: 12 May 2005,Ancestral Worship,FY 2005,16,Laos,16,156
+From: 12 May 2005,To: 12 May 2005,Baptist,FY 2005,4,Cuba,4,156
+From: 12 May 2005,To: 12 May 2005,Catholic,FY 2005,19,Cuba,19,156
+From: 12 May 2005,To: 12 May 2005,Christian,FY 2005,15,Dem. Rep. Congo,6,156
+From: 12 May 2005,To: 12 May 2005,Christian,FY 2005,15,Laos,9,156
+From: 12 May 2005,To: 12 May 2005,Evangelical Christian,FY 2005,8,Cuba,8,156
+From: 12 May 2005,To: 12 May 2005,Jehovah Witness,FY 2005,10,Cuba,10,156
+From: 12 May 2005,To: 12 May 2005,Moslem,FY 2005,51,Afghanistan,1,156
+From: 12 May 2005,To: 12 May 2005,Moslem,FY 2005,51,Ethiopia,10,156
+From: 12 May 2005,To: 12 May 2005,Moslem,FY 2005,51,Somalia,40,156
+From: 12 May 2005,To: 12 May 2005,No Religion,FY 2005,29,Cuba,29,156
+From: 12 May 2005,To: 12 May 2005,Protestant,FY 2005,4,Vietnam,4,156
+

@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jan 2016,To: 06 Jan 2016,Bhutan,FY 2016,7,Kirat,7,82
+From: 06 Jan 2016,To: 06 Jan 2016,Burma,FY 2016,9,Christian,9,82
+From: 06 Jan 2016,To: 06 Jan 2016,Eritrea,FY 2016,5,Protestant,5,82
+From: 06 Jan 2016,To: 06 Jan 2016,Ethiopia,FY 2016,1,Christian,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iran,FY 2016,6,Atheist,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iran,FY 2016,6,Christian,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iran,FY 2016,6,Kaaka'i,2,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iran,FY 2016,6,Protestant,2,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iraq,FY 2016,44,Moslem,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iraq,FY 2016,44,Moslem Shiite,21,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iraq,FY 2016,44,Moslem Suni,17,82
+From: 06 Jan 2016,To: 06 Jan 2016,Iraq,FY 2016,44,Yazidi,5,82
+From: 06 Jan 2016,To: 06 Jan 2016,Somalia,FY 2016,9,Moslem,9,82
+From: 06 Jan 2016,To: 06 Jan 2016,Syria,FY 2016,1,Moslem,1,82
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jan 2016,To: 06 Jan 2016,Atheist,FY 2016,1,Iran,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Christian,FY 2016,11,Burma,9,82
+From: 06 Jan 2016,To: 06 Jan 2016,Christian,FY 2016,11,Ethiopia,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Christian,FY 2016,11,Iran,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Kaaka'i,FY 2016,2,Iran,2,82
+From: 06 Jan 2016,To: 06 Jan 2016,Kirat,FY 2016,7,Bhutan,7,82
+From: 06 Jan 2016,To: 06 Jan 2016,Moslem,FY 2016,11,Iraq,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Moslem,FY 2016,11,Somalia,9,82
+From: 06 Jan 2016,To: 06 Jan 2016,Moslem,FY 2016,11,Syria,1,82
+From: 06 Jan 2016,To: 06 Jan 2016,Moslem Shiite,FY 2016,21,Iraq,21,82
+From: 06 Jan 2016,To: 06 Jan 2016,Moslem Suni,FY 2016,17,Iraq,17,82
+From: 06 Jan 2016,To: 06 Jan 2016,Protestant,FY 2016,7,Eritrea,5,82
+From: 06 Jan 2016,To: 06 Jan 2016,Protestant,FY 2016,7,Iran,2,82
+From: 06 Jan 2016,To: 06 Jan 2016,Yazidi,FY 2016,5,Iraq,5,82
+

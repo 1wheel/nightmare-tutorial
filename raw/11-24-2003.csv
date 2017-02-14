@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Nov 2003,To: 24 Nov 2003,Armenia,FY 2004,2,Pentecostalist,2,205
+From: 24 Nov 2003,To: 24 Nov 2003,Estonia,FY 2004,9,Baptist,9,205
+From: 24 Nov 2003,To: 24 Nov 2003,Liberia,FY 2004,29,Baptist,3,205
+From: 24 Nov 2003,To: 24 Nov 2003,Liberia,FY 2004,29,Christian,21,205
+From: 24 Nov 2003,To: 24 Nov 2003,Liberia,FY 2004,29,Lutheran,4,205
+From: 24 Nov 2003,To: 24 Nov 2003,Liberia,FY 2004,29,Methodist,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Moldova,FY 2004,35,Baptist,12,205
+From: 24 Nov 2003,To: 24 Nov 2003,Moldova,FY 2004,35,Jewish,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Moldova,FY 2004,35,Pentecostalist,22,205
+From: 24 Nov 2003,To: 24 Nov 2003,Nigeria,FY 2004,4,Christian,3,205
+From: 24 Nov 2003,To: 24 Nov 2003,Nigeria,FY 2004,4,Unknown,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Russia,FY 2004,25,Baptist,2,205
+From: 24 Nov 2003,To: 24 Nov 2003,Russia,FY 2004,25,Jewish,11,205
+From: 24 Nov 2003,To: 24 Nov 2003,Russia,FY 2004,25,No Religion,3,205
+From: 24 Nov 2003,To: 24 Nov 2003,Russia,FY 2004,25,Pentecostalist,5,205
+From: 24 Nov 2003,To: 24 Nov 2003,Russia,FY 2004,25,Seventh Day Adventist,4,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sierra Leone,FY 2004,36,Christian,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sierra Leone,FY 2004,36,Methodist,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sierra Leone,FY 2004,36,Moslem,33,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sierra Leone,FY 2004,36,Pentecostalist,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Somalia,FY 2004,23,Moslem,23,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sudan,FY 2004,34,Catholic,11,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sudan,FY 2004,34,Christian,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sudan,FY 2004,34,Moslem,14,205
+From: 24 Nov 2003,To: 24 Nov 2003,Sudan,FY 2004,34,Protestant,8,205
+From: 24 Nov 2003,To: 24 Nov 2003,Togo,FY 2004,8,Christian,5,205
+From: 24 Nov 2003,To: 24 Nov 2003,Togo,FY 2004,8,Unknown,3,205
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Nov 2003,To: 24 Nov 2003,Baptist,FY 2004,26,Estonia,9,205
+From: 24 Nov 2003,To: 24 Nov 2003,Baptist,FY 2004,26,Liberia,3,205
+From: 24 Nov 2003,To: 24 Nov 2003,Baptist,FY 2004,26,Moldova,12,205
+From: 24 Nov 2003,To: 24 Nov 2003,Baptist,FY 2004,26,Russia,2,205
+From: 24 Nov 2003,To: 24 Nov 2003,Catholic,FY 2004,11,Sudan,11,205
+From: 24 Nov 2003,To: 24 Nov 2003,Christian,FY 2004,31,Liberia,21,205
+From: 24 Nov 2003,To: 24 Nov 2003,Christian,FY 2004,31,Nigeria,3,205
+From: 24 Nov 2003,To: 24 Nov 2003,Christian,FY 2004,31,Sierra Leone,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Christian,FY 2004,31,Sudan,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Christian,FY 2004,31,Togo,5,205
+From: 24 Nov 2003,To: 24 Nov 2003,Jewish,FY 2004,12,Moldova,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Jewish,FY 2004,12,Russia,11,205
+From: 24 Nov 2003,To: 24 Nov 2003,Lutheran,FY 2004,4,Liberia,4,205
+From: 24 Nov 2003,To: 24 Nov 2003,Methodist,FY 2004,2,Liberia,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Methodist,FY 2004,2,Sierra Leone,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Moslem,FY 2004,70,Sierra Leone,33,205
+From: 24 Nov 2003,To: 24 Nov 2003,Moslem,FY 2004,70,Somalia,23,205
+From: 24 Nov 2003,To: 24 Nov 2003,Moslem,FY 2004,70,Sudan,14,205
+From: 24 Nov 2003,To: 24 Nov 2003,No Religion,FY 2004,3,Russia,3,205
+From: 24 Nov 2003,To: 24 Nov 2003,Pentecostalist,FY 2004,30,Armenia,2,205
+From: 24 Nov 2003,To: 24 Nov 2003,Pentecostalist,FY 2004,30,Moldova,22,205
+From: 24 Nov 2003,To: 24 Nov 2003,Pentecostalist,FY 2004,30,Russia,5,205
+From: 24 Nov 2003,To: 24 Nov 2003,Pentecostalist,FY 2004,30,Sierra Leone,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Protestant,FY 2004,8,Sudan,8,205
+From: 24 Nov 2003,To: 24 Nov 2003,Seventh Day Adventist,FY 2004,4,Russia,4,205
+From: 24 Nov 2003,To: 24 Nov 2003,Unknown,FY 2004,4,Nigeria,1,205
+From: 24 Nov 2003,To: 24 Nov 2003,Unknown,FY 2004,4,Togo,3,205
+

@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jul 2013,To: 18 Jul 2013,Afghanistan,FY 2013,5,Moslem Suni,5,541
+From: 18 Jul 2013,To: 18 Jul 2013,Bhutan,FY 2013,96,Buddhist,46,541
+From: 18 Jul 2013,To: 18 Jul 2013,Bhutan,FY 2013,96,Christian,5,541
+From: 18 Jul 2013,To: 18 Jul 2013,Bhutan,FY 2013,96,Hindu,41,541
+From: 18 Jul 2013,To: 18 Jul 2013,Bhutan,FY 2013,96,Kirat,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,Baptist,6,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,Buddhist,12,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,Catholic,5,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,Christian,114,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,Moslem,10,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,No Religion,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Burma,FY 2013,149,Protestant,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,China,FY 2013,2,No Religion,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,Baptist,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,Catholic,29,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,Evangelical Christian,3,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,Jehovah Witness,7,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,No Religion,20,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,Pentecostalist,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Cuba,FY 2013,66,Seventh Day Adventist,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Eritrea,FY 2013,3,Christian,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Eritrea,FY 2013,3,Moslem Suni,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Eritrea,FY 2013,3,Orthodox,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Ethiopia,FY 2013,1,Moslem,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iran,FY 2013,32,Bahai,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iran,FY 2013,32,Christian,16,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iran,FY 2013,32,Jewish,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iran,FY 2013,32,Moslem Shiite,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iran,FY 2013,32,Zoroastrian,6,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iraq,FY 2013,100,Catholic,20,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iraq,FY 2013,100,Moslem Shiite,41,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iraq,FY 2013,100,Moslem Suni,36,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iraq,FY 2013,100,Orthodox,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Iraq,FY 2013,100,Protestant,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Palestine,FY 2013,1,Moslem Suni,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Somalia,FY 2013,83,Moslem,82,541
+From: 18 Jul 2013,To: 18 Jul 2013,Somalia,FY 2013,83,Moslem Suni,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Sudan,FY 2013,3,Moslem,3,541
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jul 2013,To: 18 Jul 2013,Bahai,FY 2013,4,Iran,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Baptist,FY 2013,7,Burma,6,541
+From: 18 Jul 2013,To: 18 Jul 2013,Baptist,FY 2013,7,Cuba,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Buddhist,FY 2013,58,Bhutan,46,541
+From: 18 Jul 2013,To: 18 Jul 2013,Buddhist,FY 2013,58,Burma,12,541
+From: 18 Jul 2013,To: 18 Jul 2013,Catholic,FY 2013,54,Burma,5,541
+From: 18 Jul 2013,To: 18 Jul 2013,Catholic,FY 2013,54,Cuba,29,541
+From: 18 Jul 2013,To: 18 Jul 2013,Catholic,FY 2013,54,Iraq,20,541
+From: 18 Jul 2013,To: 18 Jul 2013,Christian,FY 2013,136,Bhutan,5,541
+From: 18 Jul 2013,To: 18 Jul 2013,Christian,FY 2013,136,Burma,114,541
+From: 18 Jul 2013,To: 18 Jul 2013,Christian,FY 2013,136,Eritrea,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Christian,FY 2013,136,Iran,16,541
+From: 18 Jul 2013,To: 18 Jul 2013,Evangelical Christian,FY 2013,3,Cuba,3,541
+From: 18 Jul 2013,To: 18 Jul 2013,Hindu,FY 2013,41,Bhutan,41,541
+From: 18 Jul 2013,To: 18 Jul 2013,Jehovah Witness,FY 2013,7,Cuba,7,541
+From: 18 Jul 2013,To: 18 Jul 2013,Jewish,FY 2013,2,Iran,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Kirat,FY 2013,4,Bhutan,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem,FY 2013,96,Burma,10,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem,FY 2013,96,Ethiopia,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem,FY 2013,96,Somalia,82,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem,FY 2013,96,Sudan,3,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Shiite,FY 2013,45,Iran,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Shiite,FY 2013,45,Iraq,41,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Suni,FY 2013,44,Afghanistan,5,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Suni,FY 2013,44,Eritrea,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Suni,FY 2013,44,Iraq,36,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Suni,FY 2013,44,Palestine,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Moslem Suni,FY 2013,44,Somalia,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,No Religion,FY 2013,23,Burma,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,No Religion,FY 2013,23,China,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,No Religion,FY 2013,23,Cuba,20,541
+From: 18 Jul 2013,To: 18 Jul 2013,Orthodox,FY 2013,3,Eritrea,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Orthodox,FY 2013,3,Iraq,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Pentecostalist,FY 2013,2,Cuba,2,541
+From: 18 Jul 2013,To: 18 Jul 2013,Protestant,FY 2013,2,Burma,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Protestant,FY 2013,2,Iraq,1,541
+From: 18 Jul 2013,To: 18 Jul 2013,Seventh Day Adventist,FY 2013,4,Cuba,4,541
+From: 18 Jul 2013,To: 18 Jul 2013,Zoroastrian,FY 2013,6,Iran,6,541
+

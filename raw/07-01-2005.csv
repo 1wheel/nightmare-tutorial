@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jul 2005,To: 01 Jul 2005,Burma,FY 2005,35,Buddhist,26,138
+From: 01 Jul 2005,To: 01 Jul 2005,Burma,FY 2005,35,Protestant,9,138
+From: 01 Jul 2005,To: 01 Jul 2005,Cuba,FY 2005,42,Catholic,16,138
+From: 01 Jul 2005,To: 01 Jul 2005,Cuba,FY 2005,42,Jehovah Witness,11,138
+From: 01 Jul 2005,To: 01 Jul 2005,Cuba,FY 2005,42,No Religion,15,138
+From: 01 Jul 2005,To: 01 Jul 2005,Laos,FY 2005,26,Ancestral Worship,26,138
+From: 01 Jul 2005,To: 01 Jul 2005,Russia,FY 2005,35,Moslem,35,138
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jul 2005,To: 01 Jul 2005,Ancestral Worship,FY 2005,26,Laos,26,138
+From: 01 Jul 2005,To: 01 Jul 2005,Buddhist,FY 2005,26,Burma,26,138
+From: 01 Jul 2005,To: 01 Jul 2005,Catholic,FY 2005,16,Cuba,16,138
+From: 01 Jul 2005,To: 01 Jul 2005,Jehovah Witness,FY 2005,11,Cuba,11,138
+From: 01 Jul 2005,To: 01 Jul 2005,Moslem,FY 2005,35,Russia,35,138
+From: 01 Jul 2005,To: 01 Jul 2005,No Religion,FY 2005,15,Cuba,15,138
+From: 01 Jul 2005,To: 01 Jul 2005,Protestant,FY 2005,9,Burma,9,138
+

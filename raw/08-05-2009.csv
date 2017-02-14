@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Aug 2009,To: 05 Aug 2009,Bhutan,FY 2009,97,Buddhist,23,399
+From: 05 Aug 2009,To: 05 Aug 2009,Bhutan,FY 2009,97,Hindu,67,399
+From: 05 Aug 2009,To: 05 Aug 2009,Bhutan,FY 2009,97,Kirat,7,399
+From: 05 Aug 2009,To: 05 Aug 2009,Burma,FY 2009,155,Animist,7,399
+From: 05 Aug 2009,To: 05 Aug 2009,Burma,FY 2009,155,Buddhist,45,399
+From: 05 Aug 2009,To: 05 Aug 2009,Burma,FY 2009,155,Catholic,6,399
+From: 05 Aug 2009,To: 05 Aug 2009,Burma,FY 2009,155,Christian,84,399
+From: 05 Aug 2009,To: 05 Aug 2009,Burma,FY 2009,155,Moslem,13,399
+From: 05 Aug 2009,To: 05 Aug 2009,Burundi,FY 2009,1,Catholic,1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Iran,FY 2009,11,Bahai,11,399
+From: 05 Aug 2009,To: 05 Aug 2009,Iraq,FY 2009,75,Catholic,11,399
+From: 05 Aug 2009,To: 05 Aug 2009,Iraq,FY 2009,75,Christian,26,399
+From: 05 Aug 2009,To: 05 Aug 2009,Iraq,FY 2009,75,Moslem Shiite,8,399
+From: 05 Aug 2009,To: 05 Aug 2009,Iraq,FY 2009,75,Moslem Suni,30,399
+From: 05 Aug 2009,To: 05 Aug 2009,Kazakhstan,FY 2009,4,Pentecostalist,4,399
+From: 05 Aug 2009,To: 05 Aug 2009,"Korea, North",FY 2009,1,Other Religion,1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Palestine,FY 2009,5,Moslem Suni,5,399
+From: 05 Aug 2009,To: 05 Aug 2009,Russia,FY 2009,14,Baptist,8,399
+From: 05 Aug 2009,To: 05 Aug 2009,Russia,FY 2009,14,Jewish,1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Russia,FY 2009,14,Moslem,2,399
+From: 05 Aug 2009,To: 05 Aug 2009,Russia,FY 2009,14,Seventh Day Adventist,3,399
+From: 05 Aug 2009,To: 05 Aug 2009,Somalia,FY 2009,30,Moslem,30,399
+From: 05 Aug 2009,To: 05 Aug 2009,Syria,FY 2009,5,Christian,2,399
+From: 05 Aug 2009,To: 05 Aug 2009,Syria,FY 2009,5,Jehovah Witness,3,399
+From: 05 Aug 2009,To: 05 Aug 2009,Uzbekistan,FY 2009,1,Orthodox,1,399
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Aug 2009,To: 05 Aug 2009,Animist,FY 2009,7,Burma,7,399
+From: 05 Aug 2009,To: 05 Aug 2009,Bahai,FY 2009,11,Iran,11,399
+From: 05 Aug 2009,To: 05 Aug 2009,Baptist,FY 2009,8,Russia,8,399
+From: 05 Aug 2009,To: 05 Aug 2009,Buddhist,FY 2009,68,Bhutan,23,399
+From: 05 Aug 2009,To: 05 Aug 2009,Buddhist,FY 2009,68,Burma,45,399
+From: 05 Aug 2009,To: 05 Aug 2009,Catholic,FY 2009,18,Burma,6,399
+From: 05 Aug 2009,To: 05 Aug 2009,Catholic,FY 2009,18,Burundi,1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Catholic,FY 2009,18,Iraq,11,399
+From: 05 Aug 2009,To: 05 Aug 2009,Christian,FY 2009,112,Burma,84,399
+From: 05 Aug 2009,To: 05 Aug 2009,Christian,FY 2009,112,Iraq,26,399
+From: 05 Aug 2009,To: 05 Aug 2009,Christian,FY 2009,112,Syria,2,399
+From: 05 Aug 2009,To: 05 Aug 2009,Hindu,FY 2009,67,Bhutan,67,399
+From: 05 Aug 2009,To: 05 Aug 2009,Jehovah Witness,FY 2009,3,Syria,3,399
+From: 05 Aug 2009,To: 05 Aug 2009,Jewish,FY 2009,1,Russia,1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Kirat,FY 2009,7,Bhutan,7,399
+From: 05 Aug 2009,To: 05 Aug 2009,Moslem,FY 2009,45,Burma,13,399
+From: 05 Aug 2009,To: 05 Aug 2009,Moslem,FY 2009,45,Russia,2,399
+From: 05 Aug 2009,To: 05 Aug 2009,Moslem,FY 2009,45,Somalia,30,399
+From: 05 Aug 2009,To: 05 Aug 2009,Moslem Shiite,FY 2009,8,Iraq,8,399
+From: 05 Aug 2009,To: 05 Aug 2009,Moslem Suni,FY 2009,35,Iraq,30,399
+From: 05 Aug 2009,To: 05 Aug 2009,Moslem Suni,FY 2009,35,Palestine,5,399
+From: 05 Aug 2009,To: 05 Aug 2009,Orthodox,FY 2009,1,Uzbekistan,1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Other Religion,FY 2009,1,"Korea, North",1,399
+From: 05 Aug 2009,To: 05 Aug 2009,Pentecostalist,FY 2009,4,Kazakhstan,4,399
+From: 05 Aug 2009,To: 05 Aug 2009,Seventh Day Adventist,FY 2009,3,Russia,3,399
+

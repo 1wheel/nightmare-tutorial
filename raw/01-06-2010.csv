@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jan 2010,To: 06 Jan 2010,Afghanistan,FY 2010,2,Moslem Suni,2,169
+From: 06 Jan 2010,To: 06 Jan 2010,Congo,FY 2010,13,Catholic,5,169
+From: 06 Jan 2010,To: 06 Jan 2010,Congo,FY 2010,13,Christian,8,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iran,FY 2010,19,Bahai,16,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iran,FY 2010,19,Moslem,2,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iran,FY 2010,19,Moslem Shiite,1,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iraq,FY 2010,132,Catholic,15,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iraq,FY 2010,132,Christian,28,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iraq,FY 2010,132,Moslem Shiite,32,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iraq,FY 2010,132,Moslem Suni,51,169
+From: 06 Jan 2010,To: 06 Jan 2010,Iraq,FY 2010,132,Orthodox,6,169
+From: 06 Jan 2010,To: 06 Jan 2010,Somalia,FY 2010,3,Moslem,3,169
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jan 2010,To: 06 Jan 2010,Bahai,FY 2010,16,Iran,16,169
+From: 06 Jan 2010,To: 06 Jan 2010,Catholic,FY 2010,20,Congo,5,169
+From: 06 Jan 2010,To: 06 Jan 2010,Catholic,FY 2010,20,Iraq,15,169
+From: 06 Jan 2010,To: 06 Jan 2010,Christian,FY 2010,36,Congo,8,169
+From: 06 Jan 2010,To: 06 Jan 2010,Christian,FY 2010,36,Iraq,28,169
+From: 06 Jan 2010,To: 06 Jan 2010,Moslem,FY 2010,5,Iran,2,169
+From: 06 Jan 2010,To: 06 Jan 2010,Moslem,FY 2010,5,Somalia,3,169
+From: 06 Jan 2010,To: 06 Jan 2010,Moslem Shiite,FY 2010,33,Iran,1,169
+From: 06 Jan 2010,To: 06 Jan 2010,Moslem Shiite,FY 2010,33,Iraq,32,169
+From: 06 Jan 2010,To: 06 Jan 2010,Moslem Suni,FY 2010,53,Afghanistan,2,169
+From: 06 Jan 2010,To: 06 Jan 2010,Moslem Suni,FY 2010,53,Iraq,51,169
+From: 06 Jan 2010,To: 06 Jan 2010,Orthodox,FY 2010,6,Iraq,6,169
+

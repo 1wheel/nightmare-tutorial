@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Dec 2006,To: 12 Dec 2006,Burma,FY 2007,21,Buddhist,3,256
+From: 12 Dec 2006,To: 12 Dec 2006,Burma,FY 2007,21,Christian,18,256
+From: 12 Dec 2006,To: 12 Dec 2006,China,FY 2007,5,Other Religion,5,256
+From: 12 Dec 2006,To: 12 Dec 2006,Iran,FY 2007,30,Christian,18,256
+From: 12 Dec 2006,To: 12 Dec 2006,Iran,FY 2007,30,Sabeans-Mandean,12,256
+From: 12 Dec 2006,To: 12 Dec 2006,Liberia,FY 2007,17,Baptist,1,256
+From: 12 Dec 2006,To: 12 Dec 2006,Liberia,FY 2007,17,Catholic,1,256
+From: 12 Dec 2006,To: 12 Dec 2006,Liberia,FY 2007,17,Christian,13,256
+From: 12 Dec 2006,To: 12 Dec 2006,Liberia,FY 2007,17,Protestant,2,256
+From: 12 Dec 2006,To: 12 Dec 2006,Rwanda,FY 2007,3,Catholic,3,256
+From: 12 Dec 2006,To: 12 Dec 2006,Somalia,FY 2007,137,Moslem,137,256
+From: 12 Dec 2006,To: 12 Dec 2006,Sudan,FY 2007,4,Catholic,4,256
+From: 12 Dec 2006,To: 12 Dec 2006,Togo,FY 2007,4,Christian,4,256
+From: 12 Dec 2006,To: 12 Dec 2006,Ukraine,FY 2007,35,Baptist,8,256
+From: 12 Dec 2006,To: 12 Dec 2006,Ukraine,FY 2007,35,Pentecostalist,25,256
+From: 12 Dec 2006,To: 12 Dec 2006,Ukraine,FY 2007,35,Uniate,2,256
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Dec 2006,To: 12 Dec 2006,Baptist,FY 2007,9,Liberia,1,256
+From: 12 Dec 2006,To: 12 Dec 2006,Baptist,FY 2007,9,Ukraine,8,256
+From: 12 Dec 2006,To: 12 Dec 2006,Buddhist,FY 2007,3,Burma,3,256
+From: 12 Dec 2006,To: 12 Dec 2006,Catholic,FY 2007,8,Liberia,1,256
+From: 12 Dec 2006,To: 12 Dec 2006,Catholic,FY 2007,8,Rwanda,3,256
+From: 12 Dec 2006,To: 12 Dec 2006,Catholic,FY 2007,8,Sudan,4,256
+From: 12 Dec 2006,To: 12 Dec 2006,Christian,FY 2007,53,Burma,18,256
+From: 12 Dec 2006,To: 12 Dec 2006,Christian,FY 2007,53,Iran,18,256
+From: 12 Dec 2006,To: 12 Dec 2006,Christian,FY 2007,53,Liberia,13,256
+From: 12 Dec 2006,To: 12 Dec 2006,Christian,FY 2007,53,Togo,4,256
+From: 12 Dec 2006,To: 12 Dec 2006,Moslem,FY 2007,137,Somalia,137,256
+From: 12 Dec 2006,To: 12 Dec 2006,Other Religion,FY 2007,5,China,5,256
+From: 12 Dec 2006,To: 12 Dec 2006,Pentecostalist,FY 2007,25,Ukraine,25,256
+From: 12 Dec 2006,To: 12 Dec 2006,Protestant,FY 2007,2,Liberia,2,256
+From: 12 Dec 2006,To: 12 Dec 2006,Sabeans-Mandean,FY 2007,12,Iran,12,256
+From: 12 Dec 2006,To: 12 Dec 2006,Uniate,FY 2007,2,Ukraine,2,256
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Sep 2006,To: 25 Sep 2006,Azerbaijan,FY 2006,1,Moslem,1,173
+From: 25 Sep 2006,To: 25 Sep 2006,Belarus,FY 2006,13,Atheist,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Belarus,FY 2006,13,Jewish,2,173
+From: 25 Sep 2006,To: 25 Sep 2006,Belarus,FY 2006,13,Orthodox,1,173
+From: 25 Sep 2006,To: 25 Sep 2006,Belarus,FY 2006,13,Pentecostalist,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Iran,FY 2006,41,Bahai,4,173
+From: 25 Sep 2006,To: 25 Sep 2006,Iran,FY 2006,41,Christian,22,173
+From: 25 Sep 2006,To: 25 Sep 2006,Iran,FY 2006,41,Jewish,5,173
+From: 25 Sep 2006,To: 25 Sep 2006,Iran,FY 2006,41,Sabeans-Mandean,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Iran,FY 2006,41,Zoroastrian,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Liberia,FY 2006,4,Moslem,4,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moldova,FY 2006,32,Baptist,12,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moldova,FY 2006,32,Pentecostalist,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moldova,FY 2006,32,Seventh Day Adventist,13,173
+From: 25 Sep 2006,To: 25 Sep 2006,Russia,FY 2006,9,Moslem,9,173
+From: 25 Sep 2006,To: 25 Sep 2006,Sierra Leone,FY 2006,11,Christian,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Sierra Leone,FY 2006,11,Moslem,8,173
+From: 25 Sep 2006,To: 25 Sep 2006,Ukraine,FY 2006,29,Baptist,14,173
+From: 25 Sep 2006,To: 25 Sep 2006,Ukraine,FY 2006,29,Pentecostalist,13,173
+From: 25 Sep 2006,To: 25 Sep 2006,Ukraine,FY 2006,29,Uniate,2,173
+From: 25 Sep 2006,To: 25 Sep 2006,Vietnam,FY 2006,33,Ancestral Worship,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Vietnam,FY 2006,33,Buddhist,16,173
+From: 25 Sep 2006,To: 25 Sep 2006,Vietnam,FY 2006,33,Catholic,4,173
+From: 25 Sep 2006,To: 25 Sep 2006,Vietnam,FY 2006,33,No Religion,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Vietnam,FY 2006,33,Protestant,3,173
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Sep 2006,To: 25 Sep 2006,Ancestral Worship,FY 2006,7,Vietnam,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Atheist,FY 2006,3,Belarus,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Bahai,FY 2006,4,Iran,4,173
+From: 25 Sep 2006,To: 25 Sep 2006,Baptist,FY 2006,26,Moldova,12,173
+From: 25 Sep 2006,To: 25 Sep 2006,Baptist,FY 2006,26,Ukraine,14,173
+From: 25 Sep 2006,To: 25 Sep 2006,Buddhist,FY 2006,16,Vietnam,16,173
+From: 25 Sep 2006,To: 25 Sep 2006,Catholic,FY 2006,4,Vietnam,4,173
+From: 25 Sep 2006,To: 25 Sep 2006,Christian,FY 2006,25,Iran,22,173
+From: 25 Sep 2006,To: 25 Sep 2006,Christian,FY 2006,25,Sierra Leone,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Jewish,FY 2006,7,Belarus,2,173
+From: 25 Sep 2006,To: 25 Sep 2006,Jewish,FY 2006,7,Iran,5,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moslem,FY 2006,22,Azerbaijan,1,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moslem,FY 2006,22,Liberia,4,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moslem,FY 2006,22,Russia,9,173
+From: 25 Sep 2006,To: 25 Sep 2006,Moslem,FY 2006,22,Sierra Leone,8,173
+From: 25 Sep 2006,To: 25 Sep 2006,No Religion,FY 2006,3,Vietnam,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Orthodox,FY 2006,1,Belarus,1,173
+From: 25 Sep 2006,To: 25 Sep 2006,Pentecostalist,FY 2006,27,Belarus,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Pentecostalist,FY 2006,27,Moldova,7,173
+From: 25 Sep 2006,To: 25 Sep 2006,Pentecostalist,FY 2006,27,Ukraine,13,173
+From: 25 Sep 2006,To: 25 Sep 2006,Protestant,FY 2006,3,Vietnam,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Sabeans-Mandean,FY 2006,3,Iran,3,173
+From: 25 Sep 2006,To: 25 Sep 2006,Seventh Day Adventist,FY 2006,13,Moldova,13,173
+From: 25 Sep 2006,To: 25 Sep 2006,Uniate,FY 2006,2,Ukraine,2,173
+From: 25 Sep 2006,To: 25 Sep 2006,Zoroastrian,FY 2006,7,Iran,7,173
+

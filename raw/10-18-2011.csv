@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Oct 2011,To: 18 Oct 2011,Afghanistan,FY 2012,15,Moslem Shiite,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Afghanistan,FY 2012,15,Moslem Suni,9,348
+From: 18 Oct 2011,To: 18 Oct 2011,Belarus,FY 2012,5,Evangelical Christian,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Belarus,FY 2012,5,Pentecostalist,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Bhutan,FY 2012,108,Buddhist,29,348
+From: 18 Oct 2011,To: 18 Oct 2011,Bhutan,FY 2012,108,Christian,23,348
+From: 18 Oct 2011,To: 18 Oct 2011,Bhutan,FY 2012,108,Hindu,46,348
+From: 18 Oct 2011,To: 18 Oct 2011,Bhutan,FY 2012,108,Kirat,10,348
+From: 18 Oct 2011,To: 18 Oct 2011,Burma,FY 2012,65,Baptist,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Burma,FY 2012,65,Buddhist,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Burma,FY 2012,65,Christian,58,348
+From: 18 Oct 2011,To: 18 Oct 2011,Central African Republic,FY 2012,1,Christian,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Congo,FY 2012,2,Christian,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Cuba,FY 2012,16,Catholic,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Cuba,FY 2012,16,No Religion,7,348
+From: 18 Oct 2011,To: 18 Oct 2011,Cuba,FY 2012,16,Pentecostalist,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Eritrea,FY 2012,1,Christian,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Ethiopia,FY 2012,1,Orthodox,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iran,FY 2012,42,Bahai,32,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iran,FY 2012,42,Buddhist,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iran,FY 2012,42,Christian,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iran,FY 2012,42,Moslem,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iran,FY 2012,42,Moslem Shiite,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iraq,FY 2012,56,Catholic,22,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iraq,FY 2012,56,Christian,5,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iraq,FY 2012,56,Moslem Shiite,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iraq,FY 2012,56,Moslem Suni,18,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iraq,FY 2012,56,Orthodox,4,348
+From: 18 Oct 2011,To: 18 Oct 2011,Iraq,FY 2012,56,Sabeans-Mandean,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Pakistan,FY 2012,3,Catholic,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Somalia,FY 2012,12,Moslem,12,348
+From: 18 Oct 2011,To: 18 Oct 2011,Sudan,FY 2012,18,Moslem,18,348
+From: 18 Oct 2011,To: 18 Oct 2011,Ukraine,FY 2012,3,Jewish,3,348
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Oct 2011,To: 18 Oct 2011,Bahai,FY 2012,32,Iran,32,348
+From: 18 Oct 2011,To: 18 Oct 2011,Baptist,FY 2012,1,Burma,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Buddhist,FY 2012,37,Bhutan,29,348
+From: 18 Oct 2011,To: 18 Oct 2011,Buddhist,FY 2012,37,Burma,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Buddhist,FY 2012,37,Iran,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Catholic,FY 2012,31,Cuba,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Catholic,FY 2012,31,Iraq,22,348
+From: 18 Oct 2011,To: 18 Oct 2011,Catholic,FY 2012,31,Pakistan,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Bhutan,23,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Burma,58,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Central African Republic,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Congo,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Eritrea,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Iran,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Christian,FY 2012,93,Iraq,5,348
+From: 18 Oct 2011,To: 18 Oct 2011,Evangelical Christian,FY 2012,2,Belarus,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Hindu,FY 2012,46,Bhutan,46,348
+From: 18 Oct 2011,To: 18 Oct 2011,Jewish,FY 2012,3,Ukraine,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Kirat,FY 2012,10,Bhutan,10,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem,FY 2012,32,Iran,2,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem,FY 2012,32,Somalia,12,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem,FY 2012,32,Sudan,18,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem Shiite,FY 2012,15,Afghanistan,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem Shiite,FY 2012,15,Iran,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem Shiite,FY 2012,15,Iraq,6,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem Suni,FY 2012,27,Afghanistan,9,348
+From: 18 Oct 2011,To: 18 Oct 2011,Moslem Suni,FY 2012,27,Iraq,18,348
+From: 18 Oct 2011,To: 18 Oct 2011,No Religion,FY 2012,7,Cuba,7,348
+From: 18 Oct 2011,To: 18 Oct 2011,Orthodox,FY 2012,5,Ethiopia,1,348
+From: 18 Oct 2011,To: 18 Oct 2011,Orthodox,FY 2012,5,Iraq,4,348
+From: 18 Oct 2011,To: 18 Oct 2011,Pentecostalist,FY 2012,6,Belarus,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Pentecostalist,FY 2012,6,Cuba,3,348
+From: 18 Oct 2011,To: 18 Oct 2011,Sabeans-Mandean,FY 2012,1,Iraq,1,348
+

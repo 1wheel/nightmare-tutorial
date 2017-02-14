@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2006,To: 28 Jun 2006,Eritrea,FY 2006,25,Catholic,1,155
+From: 28 Jun 2006,To: 28 Jun 2006,Eritrea,FY 2006,25,Moslem,5,155
+From: 28 Jun 2006,To: 28 Jun 2006,Eritrea,FY 2006,25,Orthodox,19,155
+From: 28 Jun 2006,To: 28 Jun 2006,Iran,FY 2006,53,Bahai,13,155
+From: 28 Jun 2006,To: 28 Jun 2006,Iran,FY 2006,53,Christian,29,155
+From: 28 Jun 2006,To: 28 Jun 2006,Iran,FY 2006,53,Jewish,4,155
+From: 28 Jun 2006,To: 28 Jun 2006,Iran,FY 2006,53,Sabeans-Mandean,7,155
+From: 28 Jun 2006,To: 28 Jun 2006,Liberia,FY 2006,10,Methodist,9,155
+From: 28 Jun 2006,To: 28 Jun 2006,Liberia,FY 2006,10,Pentecostalist,1,155
+From: 28 Jun 2006,To: 28 Jun 2006,Russia,FY 2006,39,Moslem,39,155
+From: 28 Jun 2006,To: 28 Jun 2006,Somalia,FY 2006,28,Moslem,28,155
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2006,To: 28 Jun 2006,Bahai,FY 2006,13,Iran,13,155
+From: 28 Jun 2006,To: 28 Jun 2006,Catholic,FY 2006,1,Eritrea,1,155
+From: 28 Jun 2006,To: 28 Jun 2006,Christian,FY 2006,29,Iran,29,155
+From: 28 Jun 2006,To: 28 Jun 2006,Jewish,FY 2006,4,Iran,4,155
+From: 28 Jun 2006,To: 28 Jun 2006,Methodist,FY 2006,9,Liberia,9,155
+From: 28 Jun 2006,To: 28 Jun 2006,Moslem,FY 2006,72,Eritrea,5,155
+From: 28 Jun 2006,To: 28 Jun 2006,Moslem,FY 2006,72,Russia,39,155
+From: 28 Jun 2006,To: 28 Jun 2006,Moslem,FY 2006,72,Somalia,28,155
+From: 28 Jun 2006,To: 28 Jun 2006,Orthodox,FY 2006,19,Eritrea,19,155
+From: 28 Jun 2006,To: 28 Jun 2006,Pentecostalist,FY 2006,1,Liberia,1,155
+From: 28 Jun 2006,To: 28 Jun 2006,Sabeans-Mandean,FY 2006,7,Iran,7,155
+

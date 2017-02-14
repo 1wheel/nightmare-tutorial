@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jan 2016,To: 18 Jan 2016,Afghanistan,FY 2016,5,Moslem Shiite,4,73
+From: 18 Jan 2016,To: 18 Jan 2016,Afghanistan,FY 2016,5,No Religion,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Dem. Rep. Congo,FY 2016,14,Catholic,8,73
+From: 18 Jan 2016,To: 18 Jan 2016,Dem. Rep. Congo,FY 2016,14,Christian,6,73
+From: 18 Jan 2016,To: 18 Jan 2016,Egypt,FY 2016,4,Orthodox,4,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iran,FY 2016,12,Bahai,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iran,FY 2016,12,Moslem Shiite,5,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iran,FY 2016,12,Protestant,6,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iraq,FY 2016,20,Catholic,11,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iraq,FY 2016,20,Chaldean,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iraq,FY 2016,20,Moslem Suni,7,73
+From: 18 Jan 2016,To: 18 Jan 2016,Iraq,FY 2016,20,Orthodox,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Somalia,FY 2016,8,Moslem,8,73
+From: 18 Jan 2016,To: 18 Jan 2016,Sudan,FY 2016,1,Moslem,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Syria,FY 2016,7,Moslem Suni,7,73
+From: 18 Jan 2016,To: 18 Jan 2016,Uganda,FY 2016,2,Christian,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Uganda,FY 2016,2,Protestant,1,73
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jan 2016,To: 18 Jan 2016,Bahai,FY 2016,1,Iran,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Catholic,FY 2016,19,Dem. Rep. Congo,8,73
+From: 18 Jan 2016,To: 18 Jan 2016,Catholic,FY 2016,19,Iraq,11,73
+From: 18 Jan 2016,To: 18 Jan 2016,Chaldean,FY 2016,1,Iraq,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Christian,FY 2016,7,Dem. Rep. Congo,6,73
+From: 18 Jan 2016,To: 18 Jan 2016,Christian,FY 2016,7,Uganda,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Moslem,FY 2016,9,Somalia,8,73
+From: 18 Jan 2016,To: 18 Jan 2016,Moslem,FY 2016,9,Sudan,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Moslem Shiite,FY 2016,9,Afghanistan,4,73
+From: 18 Jan 2016,To: 18 Jan 2016,Moslem Shiite,FY 2016,9,Iran,5,73
+From: 18 Jan 2016,To: 18 Jan 2016,Moslem Suni,FY 2016,14,Iraq,7,73
+From: 18 Jan 2016,To: 18 Jan 2016,Moslem Suni,FY 2016,14,Syria,7,73
+From: 18 Jan 2016,To: 18 Jan 2016,No Religion,FY 2016,1,Afghanistan,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Orthodox,FY 2016,5,Egypt,4,73
+From: 18 Jan 2016,To: 18 Jan 2016,Orthodox,FY 2016,5,Iraq,1,73
+From: 18 Jan 2016,To: 18 Jan 2016,Protestant,FY 2016,7,Iran,6,73
+From: 18 Jan 2016,To: 18 Jan 2016,Protestant,FY 2016,7,Uganda,1,73
+

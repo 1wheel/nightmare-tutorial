@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Nov 2008,To: 12 Nov 2008,Bhutan,FY 2009,98,Buddhist,2,404
+From: 12 Nov 2008,To: 12 Nov 2008,Bhutan,FY 2009,98,Hindu,91,404
+From: 12 Nov 2008,To: 12 Nov 2008,Bhutan,FY 2009,98,Kirat,5,404
+From: 12 Nov 2008,To: 12 Nov 2008,Burma,FY 2009,161,Buddhist,30,404
+From: 12 Nov 2008,To: 12 Nov 2008,Burma,FY 2009,161,Catholic,3,404
+From: 12 Nov 2008,To: 12 Nov 2008,Burma,FY 2009,161,Christian,85,404
+From: 12 Nov 2008,To: 12 Nov 2008,Burma,FY 2009,161,Hindu,4,404
+From: 12 Nov 2008,To: 12 Nov 2008,Burma,FY 2009,161,Moslem,39,404
+From: 12 Nov 2008,To: 12 Nov 2008,Burundi,FY 2009,7,Pentecostalist,7,404
+From: 12 Nov 2008,To: 12 Nov 2008,Ethiopia,FY 2009,1,Moslem,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iran,FY 2009,3,Jewish,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iran,FY 2009,3,Zoroastrian,2,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iraq,FY 2009,55,Catholic,11,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iraq,FY 2009,55,Christian,6,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iraq,FY 2009,55,Moslem,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iraq,FY 2009,55,Moslem Shiite,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Iraq,FY 2009,55,Moslem Suni,36,404
+From: 12 Nov 2008,To: 12 Nov 2008,Russia,FY 2009,8,Pentecostalist,6,404
+From: 12 Nov 2008,To: 12 Nov 2008,Russia,FY 2009,8,Seventh Day Adventist,2,404
+From: 12 Nov 2008,To: 12 Nov 2008,Somalia,FY 2009,40,Moslem,40,404
+From: 12 Nov 2008,To: 12 Nov 2008,Vietnam,FY 2009,31,Ancestral Worship,4,404
+From: 12 Nov 2008,To: 12 Nov 2008,Vietnam,FY 2009,31,Buddhist,9,404
+From: 12 Nov 2008,To: 12 Nov 2008,Vietnam,FY 2009,31,Catholic,5,404
+From: 12 Nov 2008,To: 12 Nov 2008,Vietnam,FY 2009,31,Hoa Hao,6,404
+From: 12 Nov 2008,To: 12 Nov 2008,Vietnam,FY 2009,31,No Religion,5,404
+From: 12 Nov 2008,To: 12 Nov 2008,Vietnam,FY 2009,31,Protestant,2,404
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Nov 2008,To: 12 Nov 2008,Ancestral Worship,FY 2009,4,Vietnam,4,404
+From: 12 Nov 2008,To: 12 Nov 2008,Buddhist,FY 2009,41,Bhutan,2,404
+From: 12 Nov 2008,To: 12 Nov 2008,Buddhist,FY 2009,41,Burma,30,404
+From: 12 Nov 2008,To: 12 Nov 2008,Buddhist,FY 2009,41,Vietnam,9,404
+From: 12 Nov 2008,To: 12 Nov 2008,Catholic,FY 2009,19,Burma,3,404
+From: 12 Nov 2008,To: 12 Nov 2008,Catholic,FY 2009,19,Iraq,11,404
+From: 12 Nov 2008,To: 12 Nov 2008,Catholic,FY 2009,19,Vietnam,5,404
+From: 12 Nov 2008,To: 12 Nov 2008,Christian,FY 2009,91,Burma,85,404
+From: 12 Nov 2008,To: 12 Nov 2008,Christian,FY 2009,91,Iraq,6,404
+From: 12 Nov 2008,To: 12 Nov 2008,Hindu,FY 2009,95,Bhutan,91,404
+From: 12 Nov 2008,To: 12 Nov 2008,Hindu,FY 2009,95,Burma,4,404
+From: 12 Nov 2008,To: 12 Nov 2008,Hoa Hao,FY 2009,6,Vietnam,6,404
+From: 12 Nov 2008,To: 12 Nov 2008,Jewish,FY 2009,1,Iran,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Kirat,FY 2009,5,Bhutan,5,404
+From: 12 Nov 2008,To: 12 Nov 2008,Moslem,FY 2009,81,Burma,39,404
+From: 12 Nov 2008,To: 12 Nov 2008,Moslem,FY 2009,81,Ethiopia,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Moslem,FY 2009,81,Iraq,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Moslem,FY 2009,81,Somalia,40,404
+From: 12 Nov 2008,To: 12 Nov 2008,Moslem Shiite,FY 2009,1,Iraq,1,404
+From: 12 Nov 2008,To: 12 Nov 2008,Moslem Suni,FY 2009,36,Iraq,36,404
+From: 12 Nov 2008,To: 12 Nov 2008,No Religion,FY 2009,5,Vietnam,5,404
+From: 12 Nov 2008,To: 12 Nov 2008,Pentecostalist,FY 2009,13,Burundi,7,404
+From: 12 Nov 2008,To: 12 Nov 2008,Pentecostalist,FY 2009,13,Russia,6,404
+From: 12 Nov 2008,To: 12 Nov 2008,Protestant,FY 2009,2,Vietnam,2,404
+From: 12 Nov 2008,To: 12 Nov 2008,Seventh Day Adventist,FY 2009,2,Russia,2,404
+From: 12 Nov 2008,To: 12 Nov 2008,Zoroastrian,FY 2009,2,Iran,2,404
+

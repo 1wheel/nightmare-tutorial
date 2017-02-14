@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jun 2009,To: 29 Jun 2009,Afghanistan,FY 2009,5,Moslem Suni,5,490
+From: 29 Jun 2009,To: 29 Jun 2009,Bhutan,FY 2009,71,Buddhist,1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Bhutan,FY 2009,71,Hindu,70,490
+From: 29 Jun 2009,To: 29 Jun 2009,Burma,FY 2009,220,Animist,21,490
+From: 29 Jun 2009,To: 29 Jun 2009,Burma,FY 2009,220,Buddhist,42,490
+From: 29 Jun 2009,To: 29 Jun 2009,Burma,FY 2009,220,Catholic,14,490
+From: 29 Jun 2009,To: 29 Jun 2009,Burma,FY 2009,220,Christian,135,490
+From: 29 Jun 2009,To: 29 Jun 2009,Burma,FY 2009,220,Moslem,8,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iran,FY 2009,14,Bahai,13,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iran,FY 2009,14,Christian,1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Catholic,30,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Christian,42,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Moslem,4,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Moslem Shiite,23,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Moslem Suni,52,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Orthodox,13,490
+From: 29 Jun 2009,To: 29 Jun 2009,Iraq,FY 2009,165,Protestant,1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Somalia,FY 2009,4,Moslem Suni,4,490
+From: 29 Jun 2009,To: 29 Jun 2009,Sri Lanka (Ceylon),FY 2009,3,Catholic,2,490
+From: 29 Jun 2009,To: 29 Jun 2009,Sri Lanka (Ceylon),FY 2009,3,Hindu,1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Sudan,FY 2009,8,Moslem,2,490
+From: 29 Jun 2009,To: 29 Jun 2009,Sudan,FY 2009,8,Moslem Suni,6,490
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jun 2009,To: 29 Jun 2009,Animist,FY 2009,21,Burma,21,490
+From: 29 Jun 2009,To: 29 Jun 2009,Bahai,FY 2009,13,Iran,13,490
+From: 29 Jun 2009,To: 29 Jun 2009,Buddhist,FY 2009,43,Bhutan,1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Buddhist,FY 2009,43,Burma,42,490
+From: 29 Jun 2009,To: 29 Jun 2009,Catholic,FY 2009,46,Burma,14,490
+From: 29 Jun 2009,To: 29 Jun 2009,Catholic,FY 2009,46,Iraq,30,490
+From: 29 Jun 2009,To: 29 Jun 2009,Catholic,FY 2009,46,Sri Lanka (Ceylon),2,490
+From: 29 Jun 2009,To: 29 Jun 2009,Christian,FY 2009,178,Burma,135,490
+From: 29 Jun 2009,To: 29 Jun 2009,Christian,FY 2009,178,Iran,1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Christian,FY 2009,178,Iraq,42,490
+From: 29 Jun 2009,To: 29 Jun 2009,Hindu,FY 2009,71,Bhutan,70,490
+From: 29 Jun 2009,To: 29 Jun 2009,Hindu,FY 2009,71,Sri Lanka (Ceylon),1,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem,FY 2009,14,Burma,8,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem,FY 2009,14,Iraq,4,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem,FY 2009,14,Sudan,2,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem Shiite,FY 2009,23,Iraq,23,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem Suni,FY 2009,67,Afghanistan,5,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem Suni,FY 2009,67,Iraq,52,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem Suni,FY 2009,67,Somalia,4,490
+From: 29 Jun 2009,To: 29 Jun 2009,Moslem Suni,FY 2009,67,Sudan,6,490
+From: 29 Jun 2009,To: 29 Jun 2009,Orthodox,FY 2009,13,Iraq,13,490
+From: 29 Jun 2009,To: 29 Jun 2009,Protestant,FY 2009,1,Iraq,1,490
+

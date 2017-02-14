@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jul 2006,To: 14 Jul 2006,Iran,FY 2006,4,Bahai,3,19
+From: 14 Jul 2006,To: 14 Jul 2006,Iran,FY 2006,4,Moslem,1,19
+From: 14 Jul 2006,To: 14 Jul 2006,Sudan,FY 2006,1,Moslem,1,19
+From: 14 Jul 2006,To: 14 Jul 2006,Ukraine,FY 2006,14,Baptist,8,19
+From: 14 Jul 2006,To: 14 Jul 2006,Ukraine,FY 2006,14,No Religion,1,19
+From: 14 Jul 2006,To: 14 Jul 2006,Ukraine,FY 2006,14,Pentecostalist,5,19
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jul 2006,To: 14 Jul 2006,Bahai,FY 2006,3,Iran,3,19
+From: 14 Jul 2006,To: 14 Jul 2006,Baptist,FY 2006,8,Ukraine,8,19
+From: 14 Jul 2006,To: 14 Jul 2006,Moslem,FY 2006,2,Iran,1,19
+From: 14 Jul 2006,To: 14 Jul 2006,Moslem,FY 2006,2,Sudan,1,19
+From: 14 Jul 2006,To: 14 Jul 2006,No Religion,FY 2006,1,Ukraine,1,19
+From: 14 Jul 2006,To: 14 Jul 2006,Pentecostalist,FY 2006,5,Ukraine,5,19
+

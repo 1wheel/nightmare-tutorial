@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Mar 2016,To: 01 Mar 2016,Afghanistan,FY 2016,14,Moslem Shiite,7,222
+From: 01 Mar 2016,To: 01 Mar 2016,Afghanistan,FY 2016,14,Moslem Suni,4,222
+From: 01 Mar 2016,To: 01 Mar 2016,Afghanistan,FY 2016,14,Other Religion,3,222
+From: 01 Mar 2016,To: 01 Mar 2016,Burma,FY 2016,4,Christian,4,222
+From: 01 Mar 2016,To: 01 Mar 2016,Burundi,FY 2016,8,Baptist,4,222
+From: 01 Mar 2016,To: 01 Mar 2016,Burundi,FY 2016,8,Catholic,3,222
+From: 01 Mar 2016,To: 01 Mar 2016,Burundi,FY 2016,8,Pentecostalist,1,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Catholic,9,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Christian,5,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Jehovah Witness,5,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Methodist,7,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Moslem,6,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Pentecostalist,2,222
+From: 01 Mar 2016,To: 01 Mar 2016,Dem. Rep. Congo,FY 2016,48,Protestant,14,222
+From: 01 Mar 2016,To: 01 Mar 2016,Eritrea,FY 2016,7,Orthodox,6,222
+From: 01 Mar 2016,To: 01 Mar 2016,Eritrea,FY 2016,7,Protestant,1,222
+From: 01 Mar 2016,To: 01 Mar 2016,Ethiopia,FY 2016,6,Moslem,6,222
+From: 01 Mar 2016,To: 01 Mar 2016,Iran,FY 2016,5,Bahai,2,222
+From: 01 Mar 2016,To: 01 Mar 2016,Iran,FY 2016,5,Moslem Shiite,3,222
+From: 01 Mar 2016,To: 01 Mar 2016,Iraq,FY 2016,33,Moslem Shiite,14,222
+From: 01 Mar 2016,To: 01 Mar 2016,Iraq,FY 2016,33,Moslem Suni,18,222
+From: 01 Mar 2016,To: 01 Mar 2016,Iraq,FY 2016,33,Yazidi,1,222
+From: 01 Mar 2016,To: 01 Mar 2016,Republic of South Sudan,FY 2016,10,Christian,10,222
+From: 01 Mar 2016,To: 01 Mar 2016,Somalia,FY 2016,71,Moslem,71,222
+From: 01 Mar 2016,To: 01 Mar 2016,Ukraine,FY 2016,16,Pentecostalist,16,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Mar 2016,To: 01 Mar 2016,Bahai,FY 2016,2,Iran,2,222
+From: 01 Mar 2016,To: 01 Mar 2016,Baptist,FY 2016,4,Burundi,4,222
+From: 01 Mar 2016,To: 01 Mar 2016,Catholic,FY 2016,12,Burundi,3,222
+From: 01 Mar 2016,To: 01 Mar 2016,Catholic,FY 2016,12,Dem. Rep. Congo,9,222
+From: 01 Mar 2016,To: 01 Mar 2016,Christian,FY 2016,19,Burma,4,222
+From: 01 Mar 2016,To: 01 Mar 2016,Christian,FY 2016,19,Dem. Rep. Congo,5,222
+From: 01 Mar 2016,To: 01 Mar 2016,Christian,FY 2016,19,Republic of South Sudan,10,222
+From: 01 Mar 2016,To: 01 Mar 2016,Jehovah Witness,FY 2016,5,Dem. Rep. Congo,5,222
+From: 01 Mar 2016,To: 01 Mar 2016,Methodist,FY 2016,7,Dem. Rep. Congo,7,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem,FY 2016,83,Dem. Rep. Congo,6,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem,FY 2016,83,Ethiopia,6,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem,FY 2016,83,Somalia,71,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem Shiite,FY 2016,24,Afghanistan,7,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem Shiite,FY 2016,24,Iran,3,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem Shiite,FY 2016,24,Iraq,14,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem Suni,FY 2016,22,Afghanistan,4,222
+From: 01 Mar 2016,To: 01 Mar 2016,Moslem Suni,FY 2016,22,Iraq,18,222
+From: 01 Mar 2016,To: 01 Mar 2016,Orthodox,FY 2016,6,Eritrea,6,222
+From: 01 Mar 2016,To: 01 Mar 2016,Other Religion,FY 2016,3,Afghanistan,3,222
+From: 01 Mar 2016,To: 01 Mar 2016,Pentecostalist,FY 2016,19,Burundi,1,222
+From: 01 Mar 2016,To: 01 Mar 2016,Pentecostalist,FY 2016,19,Dem. Rep. Congo,2,222
+From: 01 Mar 2016,To: 01 Mar 2016,Pentecostalist,FY 2016,19,Ukraine,16,222
+From: 01 Mar 2016,To: 01 Mar 2016,Protestant,FY 2016,15,Dem. Rep. Congo,14,222
+From: 01 Mar 2016,To: 01 Mar 2016,Protestant,FY 2016,15,Eritrea,1,222
+From: 01 Mar 2016,To: 01 Mar 2016,Yazidi,FY 2016,1,Iraq,1,222
+

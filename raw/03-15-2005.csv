@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Mar 2005,To: 15 Mar 2005,Cuba,FY 2005,70,Baptist,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Cuba,FY 2005,70,Catholic,34,278
+From: 15 Mar 2005,To: 15 Mar 2005,Cuba,FY 2005,70,Christian,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Cuba,FY 2005,70,Evangelical Christian,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Cuba,FY 2005,70,Jehovah Witness,9,278
+From: 15 Mar 2005,To: 15 Mar 2005,Cuba,FY 2005,70,No Religion,18,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Catholic,1,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Christian,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Evangelical Christian,1,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Moslem,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Orthodox,18,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Pentecostalist,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Eritrea,FY 2005,31,Protestant,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Ethiopia,FY 2005,9,Christian,5,278
+From: 15 Mar 2005,To: 15 Mar 2005,Ethiopia,FY 2005,9,Moslem,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Iran,FY 2005,14,Bahai,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Iran,FY 2005,14,Jewish,6,278
+From: 15 Mar 2005,To: 15 Mar 2005,Iran,FY 2005,14,Sabeans-Mandean,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Iran,FY 2005,14,Zoroastrian,1,278
+From: 15 Mar 2005,To: 15 Mar 2005,Laos,FY 2005,27,Ancestral Worship,22,278
+From: 15 Mar 2005,To: 15 Mar 2005,Laos,FY 2005,27,Christian,5,278
+From: 15 Mar 2005,To: 15 Mar 2005,Liberia,FY 2005,5,Christian,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Liberia,FY 2005,5,Lutheran,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Moldova,FY 2005,35,Baptist,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Moldova,FY 2005,35,Seventh Day Adventist,31,278
+From: 15 Mar 2005,To: 15 Mar 2005,Somalia,FY 2005,73,Moslem,67,278
+From: 15 Mar 2005,To: 15 Mar 2005,Somalia,FY 2005,73,Moslem Suni,6,278
+From: 15 Mar 2005,To: 15 Mar 2005,Sudan,FY 2005,14,Catholic,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Sudan,FY 2005,14,Christian,12,278
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Mar 2005,To: 15 Mar 2005,Ancestral Worship,FY 2005,22,Laos,22,278
+From: 15 Mar 2005,To: 15 Mar 2005,Bahai,FY 2005,4,Iran,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Baptist,FY 2005,6,Cuba,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Baptist,FY 2005,6,Moldova,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Catholic,FY 2005,37,Cuba,34,278
+From: 15 Mar 2005,To: 15 Mar 2005,Catholic,FY 2005,37,Eritrea,1,278
+From: 15 Mar 2005,To: 15 Mar 2005,Catholic,FY 2005,37,Sudan,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Christian,FY 2005,32,Cuba,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Christian,FY 2005,32,Eritrea,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Christian,FY 2005,32,Ethiopia,5,278
+From: 15 Mar 2005,To: 15 Mar 2005,Christian,FY 2005,32,Laos,5,278
+From: 15 Mar 2005,To: 15 Mar 2005,Christian,FY 2005,32,Liberia,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Christian,FY 2005,32,Sudan,12,278
+From: 15 Mar 2005,To: 15 Mar 2005,Evangelical Christian,FY 2005,4,Cuba,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Evangelical Christian,FY 2005,4,Eritrea,1,278
+From: 15 Mar 2005,To: 15 Mar 2005,Jehovah Witness,FY 2005,9,Cuba,9,278
+From: 15 Mar 2005,To: 15 Mar 2005,Jewish,FY 2005,6,Iran,6,278
+From: 15 Mar 2005,To: 15 Mar 2005,Lutheran,FY 2005,2,Liberia,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Moslem,FY 2005,73,Eritrea,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Moslem,FY 2005,73,Ethiopia,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Moslem,FY 2005,73,Somalia,67,278
+From: 15 Mar 2005,To: 15 Mar 2005,Moslem Suni,FY 2005,6,Somalia,6,278
+From: 15 Mar 2005,To: 15 Mar 2005,No Religion,FY 2005,18,Cuba,18,278
+From: 15 Mar 2005,To: 15 Mar 2005,Orthodox,FY 2005,18,Eritrea,18,278
+From: 15 Mar 2005,To: 15 Mar 2005,Pentecostalist,FY 2005,2,Eritrea,2,278
+From: 15 Mar 2005,To: 15 Mar 2005,Protestant,FY 2005,4,Eritrea,4,278
+From: 15 Mar 2005,To: 15 Mar 2005,Sabeans-Mandean,FY 2005,3,Iran,3,278
+From: 15 Mar 2005,To: 15 Mar 2005,Seventh Day Adventist,FY 2005,31,Moldova,31,278
+From: 15 Mar 2005,To: 15 Mar 2005,Zoroastrian,FY 2005,1,Iran,1,278
+

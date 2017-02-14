@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jul 2011,To: 12 Jul 2011,Bhutan,FY 2011,63,Buddhist,11,489
+From: 12 Jul 2011,To: 12 Jul 2011,Bhutan,FY 2011,63,Christian,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Bhutan,FY 2011,63,Hindu,43,489
+From: 12 Jul 2011,To: 12 Jul 2011,Bhutan,FY 2011,63,Kirat,8,489
+From: 12 Jul 2011,To: 12 Jul 2011,Burma,FY 2011,237,Animist,8,489
+From: 12 Jul 2011,To: 12 Jul 2011,Burma,FY 2011,237,Baptist,18,489
+From: 12 Jul 2011,To: 12 Jul 2011,Burma,FY 2011,237,Buddhist,45,489
+From: 12 Jul 2011,To: 12 Jul 2011,Burma,FY 2011,237,Catholic,5,489
+From: 12 Jul 2011,To: 12 Jul 2011,Burma,FY 2011,237,Christian,147,489
+From: 12 Jul 2011,To: 12 Jul 2011,Burma,FY 2011,237,Moslem,14,489
+From: 12 Jul 2011,To: 12 Jul 2011,Cuba,FY 2011,14,Catholic,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Cuba,FY 2011,14,Jehovah Witness,9,489
+From: 12 Jul 2011,To: 12 Jul 2011,Cuba,FY 2011,14,No Religion,4,489
+From: 12 Jul 2011,To: 12 Jul 2011,Eritrea,FY 2011,24,Catholic,3,489
+From: 12 Jul 2011,To: 12 Jul 2011,Eritrea,FY 2011,24,Christian,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Eritrea,FY 2011,24,Orthodox,19,489
+From: 12 Jul 2011,To: 12 Jul 2011,Eritrea,FY 2011,24,Pentecostalist,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iran,FY 2011,25,Bahai,10,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iran,FY 2011,25,Christian,10,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iran,FY 2011,25,No Religion,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iran,FY 2011,25,Protestant,4,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iraq,FY 2011,75,Catholic,26,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iraq,FY 2011,75,Christian,31,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iraq,FY 2011,75,Moslem Shiite,7,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iraq,FY 2011,75,Moslem Suni,9,489
+From: 12 Jul 2011,To: 12 Jul 2011,Iraq,FY 2011,75,Orthodox,2,489
+From: 12 Jul 2011,To: 12 Jul 2011,Somalia,FY 2011,35,Moslem,35,489
+From: 12 Jul 2011,To: 12 Jul 2011,Sudan,FY 2011,12,Moslem,12,489
+From: 12 Jul 2011,To: 12 Jul 2011,Ukraine,FY 2011,4,Uniate,4,489
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jul 2011,To: 12 Jul 2011,Animist,FY 2011,8,Burma,8,489
+From: 12 Jul 2011,To: 12 Jul 2011,Bahai,FY 2011,10,Iran,10,489
+From: 12 Jul 2011,To: 12 Jul 2011,Baptist,FY 2011,18,Burma,18,489
+From: 12 Jul 2011,To: 12 Jul 2011,Buddhist,FY 2011,56,Bhutan,11,489
+From: 12 Jul 2011,To: 12 Jul 2011,Buddhist,FY 2011,56,Burma,45,489
+From: 12 Jul 2011,To: 12 Jul 2011,Catholic,FY 2011,35,Burma,5,489
+From: 12 Jul 2011,To: 12 Jul 2011,Catholic,FY 2011,35,Cuba,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Catholic,FY 2011,35,Eritrea,3,489
+From: 12 Jul 2011,To: 12 Jul 2011,Catholic,FY 2011,35,Iraq,26,489
+From: 12 Jul 2011,To: 12 Jul 2011,Christian,FY 2011,190,Bhutan,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Christian,FY 2011,190,Burma,147,489
+From: 12 Jul 2011,To: 12 Jul 2011,Christian,FY 2011,190,Eritrea,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Christian,FY 2011,190,Iran,10,489
+From: 12 Jul 2011,To: 12 Jul 2011,Christian,FY 2011,190,Iraq,31,489
+From: 12 Jul 2011,To: 12 Jul 2011,Hindu,FY 2011,43,Bhutan,43,489
+From: 12 Jul 2011,To: 12 Jul 2011,Jehovah Witness,FY 2011,9,Cuba,9,489
+From: 12 Jul 2011,To: 12 Jul 2011,Kirat,FY 2011,8,Bhutan,8,489
+From: 12 Jul 2011,To: 12 Jul 2011,Moslem,FY 2011,61,Burma,14,489
+From: 12 Jul 2011,To: 12 Jul 2011,Moslem,FY 2011,61,Somalia,35,489
+From: 12 Jul 2011,To: 12 Jul 2011,Moslem,FY 2011,61,Sudan,12,489
+From: 12 Jul 2011,To: 12 Jul 2011,Moslem Shiite,FY 2011,7,Iraq,7,489
+From: 12 Jul 2011,To: 12 Jul 2011,Moslem Suni,FY 2011,9,Iraq,9,489
+From: 12 Jul 2011,To: 12 Jul 2011,No Religion,FY 2011,5,Cuba,4,489
+From: 12 Jul 2011,To: 12 Jul 2011,No Religion,FY 2011,5,Iran,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Orthodox,FY 2011,21,Eritrea,19,489
+From: 12 Jul 2011,To: 12 Jul 2011,Orthodox,FY 2011,21,Iraq,2,489
+From: 12 Jul 2011,To: 12 Jul 2011,Pentecostalist,FY 2011,1,Eritrea,1,489
+From: 12 Jul 2011,To: 12 Jul 2011,Protestant,FY 2011,4,Iran,4,489
+From: 12 Jul 2011,To: 12 Jul 2011,Uniate,FY 2011,4,Ukraine,4,489
+

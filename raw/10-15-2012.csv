@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Oct 2012,To: 15 Oct 2012,Afghanistan,FY 2013,14,Moslem Shiite,13,283
+From: 15 Oct 2012,To: 15 Oct 2012,Afghanistan,FY 2013,14,Moslem Suni,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Bhutan,FY 2013,4,Kirat,4,283
+From: 15 Oct 2012,To: 15 Oct 2012,Burma,FY 2013,35,Baptist,8,283
+From: 15 Oct 2012,To: 15 Oct 2012,Burma,FY 2013,35,Buddhist,10,283
+From: 15 Oct 2012,To: 15 Oct 2012,Burma,FY 2013,35,Christian,16,283
+From: 15 Oct 2012,To: 15 Oct 2012,Burma,FY 2013,35,Methodist,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Chad,FY 2013,1,Moslem,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Catholic,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Christian,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Moslem,5,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Moslem Suni,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Orthodox,19,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Pentecostalist,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Eritrea,FY 2013,31,Protestant,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Ethiopia,FY 2013,4,Moslem,4,283
+From: 15 Oct 2012,To: 15 Oct 2012,Gambia,FY 2013,2,Moslem,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iran,FY 2013,20,Bahai,5,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iran,FY 2013,20,Moslem Shiite,13,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iran,FY 2013,20,No Religion,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iraq,FY 2013,119,Catholic,16,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iraq,FY 2013,119,Christian,12,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iraq,FY 2013,119,Moslem,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iraq,FY 2013,119,Moslem Shiite,9,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iraq,FY 2013,119,Moslem Suni,60,283
+From: 15 Oct 2012,To: 15 Oct 2012,Iraq,FY 2013,119,Orthodox,21,283
+From: 15 Oct 2012,To: 15 Oct 2012,Somalia,FY 2013,36,Moslem,36,283
+From: 15 Oct 2012,To: 15 Oct 2012,Sudan,FY 2013,17,Moslem,17,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Oct 2012,To: 15 Oct 2012,Bahai,FY 2013,5,Iran,5,283
+From: 15 Oct 2012,To: 15 Oct 2012,Baptist,FY 2013,8,Burma,8,283
+From: 15 Oct 2012,To: 15 Oct 2012,Buddhist,FY 2013,10,Burma,10,283
+From: 15 Oct 2012,To: 15 Oct 2012,Catholic,FY 2013,17,Eritrea,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Catholic,FY 2013,17,Iraq,16,283
+From: 15 Oct 2012,To: 15 Oct 2012,Christian,FY 2013,30,Burma,16,283
+From: 15 Oct 2012,To: 15 Oct 2012,Christian,FY 2013,30,Eritrea,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Christian,FY 2013,30,Iraq,12,283
+From: 15 Oct 2012,To: 15 Oct 2012,Kirat,FY 2013,4,Bhutan,4,283
+From: 15 Oct 2012,To: 15 Oct 2012,Methodist,FY 2013,1,Burma,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Chad,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Eritrea,5,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Ethiopia,4,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Gambia,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Iraq,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Somalia,36,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem,FY 2013,66,Sudan,17,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem Shiite,FY 2013,35,Afghanistan,13,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem Shiite,FY 2013,35,Iran,13,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem Shiite,FY 2013,35,Iraq,9,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem Suni,FY 2013,62,Afghanistan,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem Suni,FY 2013,62,Eritrea,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Moslem Suni,FY 2013,62,Iraq,60,283
+From: 15 Oct 2012,To: 15 Oct 2012,No Religion,FY 2013,2,Iran,2,283
+From: 15 Oct 2012,To: 15 Oct 2012,Orthodox,FY 2013,40,Eritrea,19,283
+From: 15 Oct 2012,To: 15 Oct 2012,Orthodox,FY 2013,40,Iraq,21,283
+From: 15 Oct 2012,To: 15 Oct 2012,Pentecostalist,FY 2013,1,Eritrea,1,283
+From: 15 Oct 2012,To: 15 Oct 2012,Protestant,FY 2013,2,Eritrea,2,283
+

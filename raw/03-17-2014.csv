@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Mar 2014,To: 17 Mar 2014,Burma,FY 2014,60,Buddhist,7,268
+From: 17 Mar 2014,To: 17 Mar 2014,Burma,FY 2014,60,Christian,44,268
+From: 17 Mar 2014,To: 17 Mar 2014,Burma,FY 2014,60,Moslem,9,268
+From: 17 Mar 2014,To: 17 Mar 2014,Dem. Rep. Congo,FY 2014,9,Moslem,9,268
+From: 17 Mar 2014,To: 17 Mar 2014,Eritrea,FY 2014,1,Orthodox,1,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iran,FY 2014,5,Bahai,2,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iran,FY 2014,5,Protestant,3,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iraq,FY 2014,121,Catholic,13,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iraq,FY 2014,121,Chaldean,1,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iraq,FY 2014,121,Christian,5,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iraq,FY 2014,121,Moslem Shiite,47,268
+From: 17 Mar 2014,To: 17 Mar 2014,Iraq,FY 2014,121,Moslem Suni,55,268
+From: 17 Mar 2014,To: 17 Mar 2014,Somalia,FY 2014,68,Moslem,29,268
+From: 17 Mar 2014,To: 17 Mar 2014,Somalia,FY 2014,68,Moslem Suni,39,268
+From: 17 Mar 2014,To: 17 Mar 2014,Sudan,FY 2014,4,Moslem,4,268
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Mar 2014,To: 17 Mar 2014,Bahai,FY 2014,2,Iran,2,268
+From: 17 Mar 2014,To: 17 Mar 2014,Buddhist,FY 2014,7,Burma,7,268
+From: 17 Mar 2014,To: 17 Mar 2014,Catholic,FY 2014,13,Iraq,13,268
+From: 17 Mar 2014,To: 17 Mar 2014,Chaldean,FY 2014,1,Iraq,1,268
+From: 17 Mar 2014,To: 17 Mar 2014,Christian,FY 2014,49,Burma,44,268
+From: 17 Mar 2014,To: 17 Mar 2014,Christian,FY 2014,49,Iraq,5,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem,FY 2014,51,Burma,9,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem,FY 2014,51,Dem. Rep. Congo,9,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem,FY 2014,51,Somalia,29,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem,FY 2014,51,Sudan,4,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem Shiite,FY 2014,47,Iraq,47,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem Suni,FY 2014,94,Iraq,55,268
+From: 17 Mar 2014,To: 17 Mar 2014,Moslem Suni,FY 2014,94,Somalia,39,268
+From: 17 Mar 2014,To: 17 Mar 2014,Orthodox,FY 2014,1,Eritrea,1,268
+From: 17 Mar 2014,To: 17 Mar 2014,Protestant,FY 2014,3,Iran,3,268
+

@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Dec 2006,To: 11 Dec 2006,Colombia,FY 2007,3,Catholic,3,167
+From: 11 Dec 2006,To: 11 Dec 2006,Eritrea,FY 2007,1,Protestant,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Ethiopia,FY 2007,13,Moslem,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Ethiopia,FY 2007,13,Orthodox,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Ethiopia,FY 2007,13,Other Religion,10,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Bahai,4,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Catholic,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Christian,30,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Jewish,4,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Moslem Suni,5,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Sabeans-Mandean,7,167
+From: 11 Dec 2006,To: 11 Dec 2006,Iran,FY 2007,58,Zoroastrian,6,167
+From: 11 Dec 2006,To: 11 Dec 2006,Liberia,FY 2007,2,Christian,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Russia,FY 2007,12,Baptist,3,167
+From: 11 Dec 2006,To: 11 Dec 2006,Russia,FY 2007,12,Seventh Day Adventist,9,167
+From: 11 Dec 2006,To: 11 Dec 2006,Rwanda,FY 2007,2,Catholic,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Somalia,FY 2007,40,Moslem,40,167
+From: 11 Dec 2006,To: 11 Dec 2006,Sudan,FY 2007,14,Catholic,10,167
+From: 11 Dec 2006,To: 11 Dec 2006,Sudan,FY 2007,14,Moslem,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Sudan,FY 2007,14,Protestant,3,167
+From: 11 Dec 2006,To: 11 Dec 2006,Ukraine,FY 2007,22,Baptist,13,167
+From: 11 Dec 2006,To: 11 Dec 2006,Ukraine,FY 2007,22,Pentecostalist,8,167
+From: 11 Dec 2006,To: 11 Dec 2006,Ukraine,FY 2007,22,Seventh Day Adventist,1,167
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Dec 2006,To: 11 Dec 2006,Bahai,FY 2007,4,Iran,4,167
+From: 11 Dec 2006,To: 11 Dec 2006,Baptist,FY 2007,16,Russia,3,167
+From: 11 Dec 2006,To: 11 Dec 2006,Baptist,FY 2007,16,Ukraine,13,167
+From: 11 Dec 2006,To: 11 Dec 2006,Catholic,FY 2007,17,Colombia,3,167
+From: 11 Dec 2006,To: 11 Dec 2006,Catholic,FY 2007,17,Iran,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Catholic,FY 2007,17,Rwanda,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Catholic,FY 2007,17,Sudan,10,167
+From: 11 Dec 2006,To: 11 Dec 2006,Christian,FY 2007,32,Iran,30,167
+From: 11 Dec 2006,To: 11 Dec 2006,Christian,FY 2007,32,Liberia,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Jewish,FY 2007,4,Iran,4,167
+From: 11 Dec 2006,To: 11 Dec 2006,Moslem,FY 2007,42,Ethiopia,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Moslem,FY 2007,42,Somalia,40,167
+From: 11 Dec 2006,To: 11 Dec 2006,Moslem,FY 2007,42,Sudan,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Moslem Suni,FY 2007,5,Iran,5,167
+From: 11 Dec 2006,To: 11 Dec 2006,Orthodox,FY 2007,2,Ethiopia,2,167
+From: 11 Dec 2006,To: 11 Dec 2006,Other Religion,FY 2007,10,Ethiopia,10,167
+From: 11 Dec 2006,To: 11 Dec 2006,Pentecostalist,FY 2007,8,Ukraine,8,167
+From: 11 Dec 2006,To: 11 Dec 2006,Protestant,FY 2007,4,Eritrea,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Protestant,FY 2007,4,Sudan,3,167
+From: 11 Dec 2006,To: 11 Dec 2006,Sabeans-Mandean,FY 2007,7,Iran,7,167
+From: 11 Dec 2006,To: 11 Dec 2006,Seventh Day Adventist,FY 2007,10,Russia,9,167
+From: 11 Dec 2006,To: 11 Dec 2006,Seventh Day Adventist,FY 2007,10,Ukraine,1,167
+From: 11 Dec 2006,To: 11 Dec 2006,Zoroastrian,FY 2007,6,Iran,6,167
+

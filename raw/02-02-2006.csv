@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Feb 2006,To: 02 Feb 2006,Afghanistan,FY 2006,1,Unknown,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Angola,FY 2006,4,Protestant,4,157
+From: 02 Feb 2006,To: 02 Feb 2006,Ethiopia,FY 2006,29,Christian,3,157
+From: 02 Feb 2006,To: 02 Feb 2006,Ethiopia,FY 2006,29,Moslem,10,157
+From: 02 Feb 2006,To: 02 Feb 2006,Ethiopia,FY 2006,29,Orthodox,15,157
+From: 02 Feb 2006,To: 02 Feb 2006,Ethiopia,FY 2006,29,Protestant,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Laos,FY 2006,32,Ancestral Worship,32,157
+From: 02 Feb 2006,To: 02 Feb 2006,Liberia,FY 2006,35,Baptist,6,157
+From: 02 Feb 2006,To: 02 Feb 2006,Liberia,FY 2006,35,Christian,25,157
+From: 02 Feb 2006,To: 02 Feb 2006,Liberia,FY 2006,35,Jehovah Witness,4,157
+From: 02 Feb 2006,To: 02 Feb 2006,Russia,FY 2006,4,Jewish,4,157
+From: 02 Feb 2006,To: 02 Feb 2006,Somalia,FY 2006,14,Moslem,13,157
+From: 02 Feb 2006,To: 02 Feb 2006,Somalia,FY 2006,14,Moslem Suni,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Sudan,FY 2006,4,Catholic,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Sudan,FY 2006,4,Moslem,3,157
+From: 02 Feb 2006,To: 02 Feb 2006,Uzbekistan,FY 2006,34,Moslem,31,157
+From: 02 Feb 2006,To: 02 Feb 2006,Uzbekistan,FY 2006,34,Moslem Suni,3,157
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Feb 2006,To: 02 Feb 2006,Ancestral Worship,FY 2006,32,Laos,32,157
+From: 02 Feb 2006,To: 02 Feb 2006,Baptist,FY 2006,6,Liberia,6,157
+From: 02 Feb 2006,To: 02 Feb 2006,Catholic,FY 2006,1,Sudan,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Christian,FY 2006,28,Ethiopia,3,157
+From: 02 Feb 2006,To: 02 Feb 2006,Christian,FY 2006,28,Liberia,25,157
+From: 02 Feb 2006,To: 02 Feb 2006,Jehovah Witness,FY 2006,4,Liberia,4,157
+From: 02 Feb 2006,To: 02 Feb 2006,Jewish,FY 2006,4,Russia,4,157
+From: 02 Feb 2006,To: 02 Feb 2006,Moslem,FY 2006,57,Ethiopia,10,157
+From: 02 Feb 2006,To: 02 Feb 2006,Moslem,FY 2006,57,Somalia,13,157
+From: 02 Feb 2006,To: 02 Feb 2006,Moslem,FY 2006,57,Sudan,3,157
+From: 02 Feb 2006,To: 02 Feb 2006,Moslem,FY 2006,57,Uzbekistan,31,157
+From: 02 Feb 2006,To: 02 Feb 2006,Moslem Suni,FY 2006,4,Somalia,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Moslem Suni,FY 2006,4,Uzbekistan,3,157
+From: 02 Feb 2006,To: 02 Feb 2006,Orthodox,FY 2006,15,Ethiopia,15,157
+From: 02 Feb 2006,To: 02 Feb 2006,Protestant,FY 2006,5,Angola,4,157
+From: 02 Feb 2006,To: 02 Feb 2006,Protestant,FY 2006,5,Ethiopia,1,157
+From: 02 Feb 2006,To: 02 Feb 2006,Unknown,FY 2006,1,Afghanistan,1,157
+

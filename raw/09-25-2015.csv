@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Animist,4,266
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Baptist,13,266
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Buddhist,8,266
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Christian,121,266
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Evangelical Christian,3,266
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Moslem,103,266
+From: 25 Sep 2015,To: 25 Sep 2015,Burma,FY 2015,257,Seventh Day Adventist,5,266
+From: 25 Sep 2015,To: 25 Sep 2015,Eritrea,FY 2015,1,Orthodox,1,266
+From: 25 Sep 2015,To: 25 Sep 2015,Sri Lanka (Ceylon),FY 2015,3,Hindu,3,266
+From: 25 Sep 2015,To: 25 Sep 2015,Sudan,FY 2015,5,Moslem,5,266
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Sep 2015,To: 25 Sep 2015,Animist,FY 2015,4,Burma,4,266
+From: 25 Sep 2015,To: 25 Sep 2015,Baptist,FY 2015,13,Burma,13,266
+From: 25 Sep 2015,To: 25 Sep 2015,Buddhist,FY 2015,8,Burma,8,266
+From: 25 Sep 2015,To: 25 Sep 2015,Christian,FY 2015,121,Burma,121,266
+From: 25 Sep 2015,To: 25 Sep 2015,Evangelical Christian,FY 2015,3,Burma,3,266
+From: 25 Sep 2015,To: 25 Sep 2015,Hindu,FY 2015,3,Sri Lanka (Ceylon),3,266
+From: 25 Sep 2015,To: 25 Sep 2015,Moslem,FY 2015,108,Burma,103,266
+From: 25 Sep 2015,To: 25 Sep 2015,Moslem,FY 2015,108,Sudan,5,266
+From: 25 Sep 2015,To: 25 Sep 2015,Orthodox,FY 2015,1,Eritrea,1,266
+From: 25 Sep 2015,To: 25 Sep 2015,Seventh Day Adventist,FY 2015,5,Burma,5,266
+

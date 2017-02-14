@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Sep 2016,To: 09 Sep 2016,Afghanistan,FY 2016,7,Moslem Shiite,5,188
+From: 09 Sep 2016,To: 09 Sep 2016,Afghanistan,FY 2016,7,Moslem Suni,2,188
+From: 09 Sep 2016,To: 09 Sep 2016,Armenia,FY 2016,6,Jehovah Witness,6,188
+From: 09 Sep 2016,To: 09 Sep 2016,Burma,FY 2016,31,Buddhist,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Burma,FY 2016,31,Christian,7,188
+From: 09 Sep 2016,To: 09 Sep 2016,Burma,FY 2016,31,Moslem,23,188
+From: 09 Sep 2016,To: 09 Sep 2016,Central African Republic,FY 2016,6,Moslem,6,188
+From: 09 Sep 2016,To: 09 Sep 2016,Dem. Rep. Congo,FY 2016,22,Moslem,3,188
+From: 09 Sep 2016,To: 09 Sep 2016,Dem. Rep. Congo,FY 2016,22,Pentecostalist,4,188
+From: 09 Sep 2016,To: 09 Sep 2016,Dem. Rep. Congo,FY 2016,22,Protestant,15,188
+From: 09 Sep 2016,To: 09 Sep 2016,Eritrea,FY 2016,6,Moslem,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Eritrea,FY 2016,6,Pentecostalist,5,188
+From: 09 Sep 2016,To: 09 Sep 2016,Iran,FY 2016,8,Christian,7,188
+From: 09 Sep 2016,To: 09 Sep 2016,Iran,FY 2016,8,No Religion,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Iraq,FY 2016,61,Moslem,3,188
+From: 09 Sep 2016,To: 09 Sep 2016,Iraq,FY 2016,61,Moslem Shiite,41,188
+From: 09 Sep 2016,To: 09 Sep 2016,Iraq,FY 2016,61,Moslem Suni,17,188
+From: 09 Sep 2016,To: 09 Sep 2016,Pakistan,FY 2016,6,Ahmadiyya,6,188
+From: 09 Sep 2016,To: 09 Sep 2016,Palestine,FY 2016,1,Moslem,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Somalia,FY 2016,1,Moslem,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Syria,FY 2016,22,Moslem Suni,22,188
+From: 09 Sep 2016,To: 09 Sep 2016,Ukraine,FY 2016,11,Seventh Day Adventist,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Ukraine,FY 2016,11,Uniate,10,188
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Sep 2016,To: 09 Sep 2016,Ahmadiyya,FY 2016,6,Pakistan,6,188
+From: 09 Sep 2016,To: 09 Sep 2016,Buddhist,FY 2016,1,Burma,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Christian,FY 2016,14,Burma,7,188
+From: 09 Sep 2016,To: 09 Sep 2016,Christian,FY 2016,14,Iran,7,188
+From: 09 Sep 2016,To: 09 Sep 2016,Jehovah Witness,FY 2016,6,Armenia,6,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Burma,23,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Central African Republic,6,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Dem. Rep. Congo,3,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Eritrea,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Iraq,3,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Palestine,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem,FY 2016,38,Somalia,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem Shiite,FY 2016,46,Afghanistan,5,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem Shiite,FY 2016,46,Iraq,41,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem Suni,FY 2016,41,Afghanistan,2,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem Suni,FY 2016,41,Iraq,17,188
+From: 09 Sep 2016,To: 09 Sep 2016,Moslem Suni,FY 2016,41,Syria,22,188
+From: 09 Sep 2016,To: 09 Sep 2016,No Religion,FY 2016,1,Iran,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Pentecostalist,FY 2016,9,Dem. Rep. Congo,4,188
+From: 09 Sep 2016,To: 09 Sep 2016,Pentecostalist,FY 2016,9,Eritrea,5,188
+From: 09 Sep 2016,To: 09 Sep 2016,Protestant,FY 2016,15,Dem. Rep. Congo,15,188
+From: 09 Sep 2016,To: 09 Sep 2016,Seventh Day Adventist,FY 2016,1,Ukraine,1,188
+From: 09 Sep 2016,To: 09 Sep 2016,Uniate,FY 2016,10,Ukraine,10,188
+

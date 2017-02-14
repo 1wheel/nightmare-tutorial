@@ -1,0 +1,95 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Sep 2005,To: 26 Sep 2005,Afghanistan,FY 2005,1,Moslem,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Burma,FY 2005,30,Buddhist,12,778
+From: 26 Sep 2005,To: 26 Sep 2005,Burma,FY 2005,30,Christian,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Burma,FY 2005,30,Moslem,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Burma,FY 2005,30,Protestant,10,778
+From: 26 Sep 2005,To: 26 Sep 2005,Cuba,FY 2005,17,Catholic,8,778
+From: 26 Sep 2005,To: 26 Sep 2005,Cuba,FY 2005,17,No Religion,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Cuba,FY 2005,17,Pentecostalist,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Eritrea,FY 2005,11,Jehovah Witness,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Eritrea,FY 2005,11,Orthodox,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Eritrea,FY 2005,11,Protestant,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Ethiopia,FY 2005,20,Moslem,13,778
+From: 26 Sep 2005,To: 26 Sep 2005,Ethiopia,FY 2005,20,Orthodox,7,778
+From: 26 Sep 2005,To: 26 Sep 2005,Iraq,FY 2005,4,Moslem,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Liberia,FY 2005,96,Catholic,7,778
+From: 26 Sep 2005,To: 26 Sep 2005,Liberia,FY 2005,96,Christian,44,778
+From: 26 Sep 2005,To: 26 Sep 2005,Liberia,FY 2005,96,Moslem,42,778
+From: 26 Sep 2005,To: 26 Sep 2005,Liberia,FY 2005,96,Pentecostalist,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Russia,FY 2005,96,Baptist,14,778
+From: 26 Sep 2005,To: 26 Sep 2005,Russia,FY 2005,96,Jewish,16,778
+From: 26 Sep 2005,To: 26 Sep 2005,Russia,FY 2005,96,Moslem,66,778
+From: 26 Sep 2005,To: 26 Sep 2005,Rwanda,FY 2005,6,Christian,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sierra Leone,FY 2005,21,Catholic,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sierra Leone,FY 2005,21,Christian,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sierra Leone,FY 2005,21,Moslem,16,778
+From: 26 Sep 2005,To: 26 Sep 2005,Somalia,FY 2005,134,Moslem,134,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sudan,FY 2005,44,Catholic,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sudan,FY 2005,44,Christian,37,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sudan,FY 2005,44,Moslem,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sudan,FY 2005,44,Orthodox,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Sudan,FY 2005,44,Protestant,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Ukraine,FY 2005,35,Baptist,5,778
+From: 26 Sep 2005,To: 26 Sep 2005,Ukraine,FY 2005,35,Jewish,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Ukraine,FY 2005,35,No Religion,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Ukraine,FY 2005,35,Pentecostalist,26,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Ancestral Worship,15,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Baptist,5,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Buddhist,111,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Cao Dai,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Catholic,94,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Christian,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,No Religion,7,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Other Religion,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Vietnam,FY 2005,263,Protestant,19,778
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Sep 2005,To: 26 Sep 2005,Ancestral Worship,FY 2005,15,Vietnam,15,778
+From: 26 Sep 2005,To: 26 Sep 2005,Baptist,FY 2005,24,Russia,14,778
+From: 26 Sep 2005,To: 26 Sep 2005,Baptist,FY 2005,24,Ukraine,5,778
+From: 26 Sep 2005,To: 26 Sep 2005,Baptist,FY 2005,24,Vietnam,5,778
+From: 26 Sep 2005,To: 26 Sep 2005,Buddhist,FY 2005,123,Burma,12,778
+From: 26 Sep 2005,To: 26 Sep 2005,Buddhist,FY 2005,123,Vietnam,111,778
+From: 26 Sep 2005,To: 26 Sep 2005,Cao Dai,FY 2005,6,Vietnam,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Catholic,FY 2005,113,Cuba,8,778
+From: 26 Sep 2005,To: 26 Sep 2005,Catholic,FY 2005,113,Liberia,7,778
+From: 26 Sep 2005,To: 26 Sep 2005,Catholic,FY 2005,113,Sierra Leone,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Catholic,FY 2005,113,Sudan,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Catholic,FY 2005,113,Vietnam,94,778
+From: 26 Sep 2005,To: 26 Sep 2005,Christian,FY 2005,98,Burma,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Christian,FY 2005,98,Liberia,44,778
+From: 26 Sep 2005,To: 26 Sep 2005,Christian,FY 2005,98,Rwanda,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Christian,FY 2005,98,Sierra Leone,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Christian,FY 2005,98,Sudan,37,778
+From: 26 Sep 2005,To: 26 Sep 2005,Christian,FY 2005,98,Vietnam,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Jehovah Witness,FY 2005,1,Eritrea,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Jewish,FY 2005,18,Russia,16,778
+From: 26 Sep 2005,To: 26 Sep 2005,Jewish,FY 2005,18,Ukraine,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Afghanistan,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Burma,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Ethiopia,13,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Iraq,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Liberia,42,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Russia,66,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Sierra Leone,16,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Somalia,134,778
+From: 26 Sep 2005,To: 26 Sep 2005,Moslem,FY 2005,281,Sudan,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,No Religion,FY 2005,15,Cuba,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,No Religion,FY 2005,15,Ukraine,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,No Religion,FY 2005,15,Vietnam,7,778
+From: 26 Sep 2005,To: 26 Sep 2005,Orthodox,FY 2005,14,Eritrea,4,778
+From: 26 Sep 2005,To: 26 Sep 2005,Orthodox,FY 2005,14,Ethiopia,7,778
+From: 26 Sep 2005,To: 26 Sep 2005,Orthodox,FY 2005,14,Sudan,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Other Religion,FY 2005,2,Vietnam,2,778
+From: 26 Sep 2005,To: 26 Sep 2005,Pentecostalist,FY 2005,32,Cuba,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Pentecostalist,FY 2005,32,Liberia,3,778
+From: 26 Sep 2005,To: 26 Sep 2005,Pentecostalist,FY 2005,32,Ukraine,26,778
+From: 26 Sep 2005,To: 26 Sep 2005,Protestant,FY 2005,36,Burma,10,778
+From: 26 Sep 2005,To: 26 Sep 2005,Protestant,FY 2005,36,Eritrea,6,778
+From: 26 Sep 2005,To: 26 Sep 2005,Protestant,FY 2005,36,Sudan,1,778
+From: 26 Sep 2005,To: 26 Sep 2005,Protestant,FY 2005,36,Vietnam,19,778
+

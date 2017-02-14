@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 May 2004,To: 10 May 2004,Afghanistan,FY 2004,29,Moslem,5,301
+From: 10 May 2004,To: 10 May 2004,Afghanistan,FY 2004,29,Moslem Shiite,13,301
+From: 10 May 2004,To: 10 May 2004,Afghanistan,FY 2004,29,Moslem Suni,11,301
+From: 10 May 2004,To: 10 May 2004,Armenia,FY 2004,4,Pentecostalist,4,301
+From: 10 May 2004,To: 10 May 2004,Azerbaijan,FY 2004,3,Christian,1,301
+From: 10 May 2004,To: 10 May 2004,Azerbaijan,FY 2004,3,Jewish,2,301
+From: 10 May 2004,To: 10 May 2004,Burundi,FY 2004,12,Catholic,3,301
+From: 10 May 2004,To: 10 May 2004,Burundi,FY 2004,12,Christian,9,301
+From: 10 May 2004,To: 10 May 2004,Dem. Rep. Congo,FY 2004,17,Christian,12,301
+From: 10 May 2004,To: 10 May 2004,Dem. Rep. Congo,FY 2004,17,Pentecostalist,5,301
+From: 10 May 2004,To: 10 May 2004,Eritrea,FY 2004,2,Christian,2,301
+From: 10 May 2004,To: 10 May 2004,Ethiopia,FY 2004,34,Christian,12,301
+From: 10 May 2004,To: 10 May 2004,Ethiopia,FY 2004,34,Moslem,22,301
+From: 10 May 2004,To: 10 May 2004,Liberia,FY 2004,24,Christian,24,301
+From: 10 May 2004,To: 10 May 2004,Moldova,FY 2004,70,Baptist,48,301
+From: 10 May 2004,To: 10 May 2004,Moldova,FY 2004,70,Jewish,3,301
+From: 10 May 2004,To: 10 May 2004,Moldova,FY 2004,70,Pentecostalist,19,301
+From: 10 May 2004,To: 10 May 2004,Rwanda,FY 2004,1,Seventh Day Adventist,1,301
+From: 10 May 2004,To: 10 May 2004,Somalia,FY 2004,72,Moslem,66,301
+From: 10 May 2004,To: 10 May 2004,Somalia,FY 2004,72,Moslem Suni,6,301
+From: 10 May 2004,To: 10 May 2004,Sudan,FY 2004,4,Catholic,2,301
+From: 10 May 2004,To: 10 May 2004,Sudan,FY 2004,4,Christian,2,301
+From: 10 May 2004,To: 10 May 2004,Uzbekistan,FY 2004,29,Baptist,8,301
+From: 10 May 2004,To: 10 May 2004,Uzbekistan,FY 2004,29,Jewish,15,301
+From: 10 May 2004,To: 10 May 2004,Uzbekistan,FY 2004,29,No Religion,5,301
+From: 10 May 2004,To: 10 May 2004,Uzbekistan,FY 2004,29,Pentecostalist,1,301
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 May 2004,To: 10 May 2004,Baptist,FY 2004,56,Moldova,48,301
+From: 10 May 2004,To: 10 May 2004,Baptist,FY 2004,56,Uzbekistan,8,301
+From: 10 May 2004,To: 10 May 2004,Catholic,FY 2004,5,Burundi,3,301
+From: 10 May 2004,To: 10 May 2004,Catholic,FY 2004,5,Sudan,2,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Azerbaijan,1,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Burundi,9,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Dem. Rep. Congo,12,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Eritrea,2,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Ethiopia,12,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Liberia,24,301
+From: 10 May 2004,To: 10 May 2004,Christian,FY 2004,62,Sudan,2,301
+From: 10 May 2004,To: 10 May 2004,Jewish,FY 2004,20,Azerbaijan,2,301
+From: 10 May 2004,To: 10 May 2004,Jewish,FY 2004,20,Moldova,3,301
+From: 10 May 2004,To: 10 May 2004,Jewish,FY 2004,20,Uzbekistan,15,301
+From: 10 May 2004,To: 10 May 2004,Moslem,FY 2004,93,Afghanistan,5,301
+From: 10 May 2004,To: 10 May 2004,Moslem,FY 2004,93,Ethiopia,22,301
+From: 10 May 2004,To: 10 May 2004,Moslem,FY 2004,93,Somalia,66,301
+From: 10 May 2004,To: 10 May 2004,Moslem Shiite,FY 2004,13,Afghanistan,13,301
+From: 10 May 2004,To: 10 May 2004,Moslem Suni,FY 2004,17,Afghanistan,11,301
+From: 10 May 2004,To: 10 May 2004,Moslem Suni,FY 2004,17,Somalia,6,301
+From: 10 May 2004,To: 10 May 2004,No Religion,FY 2004,5,Uzbekistan,5,301
+From: 10 May 2004,To: 10 May 2004,Pentecostalist,FY 2004,29,Armenia,4,301
+From: 10 May 2004,To: 10 May 2004,Pentecostalist,FY 2004,29,Dem. Rep. Congo,5,301
+From: 10 May 2004,To: 10 May 2004,Pentecostalist,FY 2004,29,Moldova,19,301
+From: 10 May 2004,To: 10 May 2004,Pentecostalist,FY 2004,29,Uzbekistan,1,301
+From: 10 May 2004,To: 10 May 2004,Seventh Day Adventist,FY 2004,1,Rwanda,1,301
+

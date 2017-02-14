@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jan 2010,To: 11 Jan 2010,Afghanistan,FY 2010,3,Moslem,3,156
+From: 11 Jan 2010,To: 11 Jan 2010,Burundi,FY 2010,6,Pentecostalist,6,156
+From: 11 Jan 2010,To: 11 Jan 2010,Dem. Rep. Congo,FY 2010,24,Catholic,7,156
+From: 11 Jan 2010,To: 11 Jan 2010,Dem. Rep. Congo,FY 2010,24,Christian,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Dem. Rep. Congo,FY 2010,24,Methodist,11,156
+From: 11 Jan 2010,To: 11 Jan 2010,Dem. Rep. Congo,FY 2010,24,Pentecostalist,5,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iran,FY 2010,2,Christian,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iran,FY 2010,2,Moslem,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iraq,FY 2010,118,Catholic,11,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iraq,FY 2010,118,Christian,27,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iraq,FY 2010,118,Moslem,2,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iraq,FY 2010,118,Moslem Shiite,15,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iraq,FY 2010,118,Moslem Suni,56,156
+From: 11 Jan 2010,To: 11 Jan 2010,Iraq,FY 2010,118,Yazidi,7,156
+From: 11 Jan 2010,To: 11 Jan 2010,Somalia,FY 2010,2,Moslem,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Somalia,FY 2010,2,Moslem Suni,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Sudan,FY 2010,1,Moslem,1,156
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jan 2010,To: 11 Jan 2010,Catholic,FY 2010,18,Dem. Rep. Congo,7,156
+From: 11 Jan 2010,To: 11 Jan 2010,Catholic,FY 2010,18,Iraq,11,156
+From: 11 Jan 2010,To: 11 Jan 2010,Christian,FY 2010,29,Dem. Rep. Congo,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Christian,FY 2010,29,Iran,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Christian,FY 2010,29,Iraq,27,156
+From: 11 Jan 2010,To: 11 Jan 2010,Methodist,FY 2010,11,Dem. Rep. Congo,11,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem,FY 2010,8,Afghanistan,3,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem,FY 2010,8,Iran,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem,FY 2010,8,Iraq,2,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem,FY 2010,8,Somalia,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem,FY 2010,8,Sudan,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem Shiite,FY 2010,15,Iraq,15,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem Suni,FY 2010,57,Iraq,56,156
+From: 11 Jan 2010,To: 11 Jan 2010,Moslem Suni,FY 2010,57,Somalia,1,156
+From: 11 Jan 2010,To: 11 Jan 2010,Pentecostalist,FY 2010,11,Burundi,6,156
+From: 11 Jan 2010,To: 11 Jan 2010,Pentecostalist,FY 2010,11,Dem. Rep. Congo,5,156
+From: 11 Jan 2010,To: 11 Jan 2010,Yazidi,FY 2010,7,Iraq,7,156
+

@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Mar 2004,To: 02 Mar 2004,Burundi,FY 2004,1,Catholic,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Central African Republic,FY 2004,2,Catholic,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Central African Republic,FY 2004,2,Evangelical Christian,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Congo,FY 2004,4,Protestant,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Dem. Rep. Congo,FY 2004,4,Catholic,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Ethiopia,FY 2004,14,Christian,7,140
+From: 02 Mar 2004,To: 02 Mar 2004,Ethiopia,FY 2004,14,Moslem,5,140
+From: 02 Mar 2004,To: 02 Mar 2004,Ethiopia,FY 2004,14,Other Religion,2,140
+From: 02 Mar 2004,To: 02 Mar 2004,Iran,FY 2004,8,Christian,3,140
+From: 02 Mar 2004,To: 02 Mar 2004,Iran,FY 2004,8,Jewish,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Iran,FY 2004,8,Sabeans-Mandean,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Liberia,FY 2004,56,Baptist,7,140
+From: 02 Mar 2004,To: 02 Mar 2004,Liberia,FY 2004,56,Christian,40,140
+From: 02 Mar 2004,To: 02 Mar 2004,Liberia,FY 2004,56,Evangelical Christian,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Liberia,FY 2004,56,Methodist,3,140
+From: 02 Mar 2004,To: 02 Mar 2004,Liberia,FY 2004,56,Pentecostalist,2,140
+From: 02 Mar 2004,To: 02 Mar 2004,Somalia,FY 2004,18,Moslem,18,140
+From: 02 Mar 2004,To: 02 Mar 2004,Sudan,FY 2004,33,Catholic,13,140
+From: 02 Mar 2004,To: 02 Mar 2004,Sudan,FY 2004,33,Christian,9,140
+From: 02 Mar 2004,To: 02 Mar 2004,Sudan,FY 2004,33,Evangelical Christian,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Sudan,FY 2004,33,Moslem,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Sudan,FY 2004,33,Protestant,6,140
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Mar 2004,To: 02 Mar 2004,Baptist,FY 2004,7,Liberia,7,140
+From: 02 Mar 2004,To: 02 Mar 2004,Catholic,FY 2004,19,Burundi,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Catholic,FY 2004,19,Central African Republic,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Catholic,FY 2004,19,Dem. Rep. Congo,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Catholic,FY 2004,19,Sudan,13,140
+From: 02 Mar 2004,To: 02 Mar 2004,Christian,FY 2004,59,Ethiopia,7,140
+From: 02 Mar 2004,To: 02 Mar 2004,Christian,FY 2004,59,Iran,3,140
+From: 02 Mar 2004,To: 02 Mar 2004,Christian,FY 2004,59,Liberia,40,140
+From: 02 Mar 2004,To: 02 Mar 2004,Christian,FY 2004,59,Sudan,9,140
+From: 02 Mar 2004,To: 02 Mar 2004,Evangelical Christian,FY 2004,9,Central African Republic,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Evangelical Christian,FY 2004,9,Liberia,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Evangelical Christian,FY 2004,9,Sudan,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Jewish,FY 2004,1,Iran,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Methodist,FY 2004,3,Liberia,3,140
+From: 02 Mar 2004,To: 02 Mar 2004,Moslem,FY 2004,24,Ethiopia,5,140
+From: 02 Mar 2004,To: 02 Mar 2004,Moslem,FY 2004,24,Somalia,18,140
+From: 02 Mar 2004,To: 02 Mar 2004,Moslem,FY 2004,24,Sudan,1,140
+From: 02 Mar 2004,To: 02 Mar 2004,Other Religion,FY 2004,2,Ethiopia,2,140
+From: 02 Mar 2004,To: 02 Mar 2004,Pentecostalist,FY 2004,2,Liberia,2,140
+From: 02 Mar 2004,To: 02 Mar 2004,Protestant,FY 2004,10,Congo,4,140
+From: 02 Mar 2004,To: 02 Mar 2004,Protestant,FY 2004,10,Sudan,6,140
+From: 02 Mar 2004,To: 02 Mar 2004,Sabeans-Mandean,FY 2004,4,Iran,4,140
+

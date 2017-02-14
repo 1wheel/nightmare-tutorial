@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Nov 2006,To: 27 Nov 2006,Afghanistan,FY 2007,6,Moslem Suni,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Azerbaijan,FY 2007,5,Jewish,5,136
+From: 27 Nov 2006,To: 27 Nov 2006,Colombia,FY 2007,1,Unknown,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Eritrea,FY 2007,1,Jehovah Witness,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Ethiopia,FY 2007,1,Orthodox,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Iran,FY 2007,55,Christian,32,136
+From: 27 Nov 2006,To: 27 Nov 2006,Iran,FY 2007,55,Jewish,14,136
+From: 27 Nov 2006,To: 27 Nov 2006,Iran,FY 2007,55,Sabeans-Mandean,3,136
+From: 27 Nov 2006,To: 27 Nov 2006,Iran,FY 2007,55,Zoroastrian,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Mauritania,FY 2007,6,Moslem,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Russia,FY 2007,21,Baptist,10,136
+From: 27 Nov 2006,To: 27 Nov 2006,Russia,FY 2007,21,Christian,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Russia,FY 2007,21,Jewish,3,136
+From: 27 Nov 2006,To: 27 Nov 2006,Russia,FY 2007,21,Moslem,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Russia,FY 2007,21,Pentecostalist,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Sierra Leone,FY 2007,2,Christian,2,136
+From: 27 Nov 2006,To: 27 Nov 2006,Somalia,FY 2007,12,Moslem,12,136
+From: 27 Nov 2006,To: 27 Nov 2006,Sudan,FY 2007,26,Catholic,15,136
+From: 27 Nov 2006,To: 27 Nov 2006,Sudan,FY 2007,26,Evangelical Christian,4,136
+From: 27 Nov 2006,To: 27 Nov 2006,Sudan,FY 2007,26,Moslem,7,136
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Nov 2006,To: 27 Nov 2006,Baptist,FY 2007,10,Russia,10,136
+From: 27 Nov 2006,To: 27 Nov 2006,Catholic,FY 2007,15,Sudan,15,136
+From: 27 Nov 2006,To: 27 Nov 2006,Christian,FY 2007,40,Iran,32,136
+From: 27 Nov 2006,To: 27 Nov 2006,Christian,FY 2007,40,Russia,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Christian,FY 2007,40,Sierra Leone,2,136
+From: 27 Nov 2006,To: 27 Nov 2006,Evangelical Christian,FY 2007,4,Sudan,4,136
+From: 27 Nov 2006,To: 27 Nov 2006,Jehovah Witness,FY 2007,1,Eritrea,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Jewish,FY 2007,22,Azerbaijan,5,136
+From: 27 Nov 2006,To: 27 Nov 2006,Jewish,FY 2007,22,Iran,14,136
+From: 27 Nov 2006,To: 27 Nov 2006,Jewish,FY 2007,22,Russia,3,136
+From: 27 Nov 2006,To: 27 Nov 2006,Moslem,FY 2007,26,Mauritania,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Moslem,FY 2007,26,Russia,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Moslem,FY 2007,26,Somalia,12,136
+From: 27 Nov 2006,To: 27 Nov 2006,Moslem,FY 2007,26,Sudan,7,136
+From: 27 Nov 2006,To: 27 Nov 2006,Moslem Suni,FY 2007,6,Afghanistan,6,136
+From: 27 Nov 2006,To: 27 Nov 2006,Orthodox,FY 2007,1,Ethiopia,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Pentecostalist,FY 2007,1,Russia,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Sabeans-Mandean,FY 2007,3,Iran,3,136
+From: 27 Nov 2006,To: 27 Nov 2006,Unknown,FY 2007,1,Colombia,1,136
+From: 27 Nov 2006,To: 27 Nov 2006,Zoroastrian,FY 2007,6,Iran,6,136
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Mar 2004,To: 23 Mar 2004,Afghanistan,FY 2004,18,Moslem,5,219
+From: 23 Mar 2004,To: 23 Mar 2004,Afghanistan,FY 2004,18,Moslem Shiite,11,219
+From: 23 Mar 2004,To: 23 Mar 2004,Afghanistan,FY 2004,18,Moslem Suni,2,219
+From: 23 Mar 2004,To: 23 Mar 2004,Belarus,FY 2004,34,Baptist,18,219
+From: 23 Mar 2004,To: 23 Mar 2004,Belarus,FY 2004,34,Jewish,10,219
+From: 23 Mar 2004,To: 23 Mar 2004,Belarus,FY 2004,34,Pentecostalist,6,219
+From: 23 Mar 2004,To: 23 Mar 2004,Bosnia and Herzegovina,FY 2004,14,Atheist,4,219
+From: 23 Mar 2004,To: 23 Mar 2004,Bosnia and Herzegovina,FY 2004,14,Moslem,1,219
+From: 23 Mar 2004,To: 23 Mar 2004,Bosnia and Herzegovina,FY 2004,14,No Religion,2,219
+From: 23 Mar 2004,To: 23 Mar 2004,Bosnia and Herzegovina,FY 2004,14,Orthodox,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Croatia,FY 2004,3,Orthodox,3,219
+From: 23 Mar 2004,To: 23 Mar 2004,Dem. Rep. Congo,FY 2004,3,Unknown,3,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ethiopia,FY 2004,12,Christian,5,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ethiopia,FY 2004,12,Moslem,1,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ethiopia,FY 2004,12,Protestant,6,219
+From: 23 Mar 2004,To: 23 Mar 2004,Liberia,FY 2004,70,Baptist,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Liberia,FY 2004,70,Catholic,4,219
+From: 23 Mar 2004,To: 23 Mar 2004,Liberia,FY 2004,70,Christian,47,219
+From: 23 Mar 2004,To: 23 Mar 2004,Liberia,FY 2004,70,Jehovah Witness,1,219
+From: 23 Mar 2004,To: 23 Mar 2004,Liberia,FY 2004,70,Lutheran,6,219
+From: 23 Mar 2004,To: 23 Mar 2004,Liberia,FY 2004,70,Pentecostalist,5,219
+From: 23 Mar 2004,To: 23 Mar 2004,Russia,FY 2004,7,Seventh Day Adventist,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Serbia,FY 2004,7,Orthodox,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Somalia,FY 2004,9,Moslem,9,219
+From: 23 Mar 2004,To: 23 Mar 2004,Sudan,FY 2004,12,Christian,12,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ukraine,FY 2004,30,Baptist,9,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ukraine,FY 2004,30,Jewish,2,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ukraine,FY 2004,30,Pentecostalist,16,219
+From: 23 Mar 2004,To: 23 Mar 2004,Ukraine,FY 2004,30,Seventh Day Adventist,3,219
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Mar 2004,To: 23 Mar 2004,Atheist,FY 2004,4,Bosnia and Herzegovina,4,219
+From: 23 Mar 2004,To: 23 Mar 2004,Baptist,FY 2004,34,Belarus,18,219
+From: 23 Mar 2004,To: 23 Mar 2004,Baptist,FY 2004,34,Liberia,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Baptist,FY 2004,34,Ukraine,9,219
+From: 23 Mar 2004,To: 23 Mar 2004,Catholic,FY 2004,4,Liberia,4,219
+From: 23 Mar 2004,To: 23 Mar 2004,Christian,FY 2004,64,Ethiopia,5,219
+From: 23 Mar 2004,To: 23 Mar 2004,Christian,FY 2004,64,Liberia,47,219
+From: 23 Mar 2004,To: 23 Mar 2004,Christian,FY 2004,64,Sudan,12,219
+From: 23 Mar 2004,To: 23 Mar 2004,Jehovah Witness,FY 2004,1,Liberia,1,219
+From: 23 Mar 2004,To: 23 Mar 2004,Jewish,FY 2004,12,Belarus,10,219
+From: 23 Mar 2004,To: 23 Mar 2004,Jewish,FY 2004,12,Ukraine,2,219
+From: 23 Mar 2004,To: 23 Mar 2004,Lutheran,FY 2004,6,Liberia,6,219
+From: 23 Mar 2004,To: 23 Mar 2004,Moslem,FY 2004,16,Afghanistan,5,219
+From: 23 Mar 2004,To: 23 Mar 2004,Moslem,FY 2004,16,Bosnia and Herzegovina,1,219
+From: 23 Mar 2004,To: 23 Mar 2004,Moslem,FY 2004,16,Ethiopia,1,219
+From: 23 Mar 2004,To: 23 Mar 2004,Moslem,FY 2004,16,Somalia,9,219
+From: 23 Mar 2004,To: 23 Mar 2004,Moslem Shiite,FY 2004,11,Afghanistan,11,219
+From: 23 Mar 2004,To: 23 Mar 2004,Moslem Suni,FY 2004,2,Afghanistan,2,219
+From: 23 Mar 2004,To: 23 Mar 2004,No Religion,FY 2004,2,Bosnia and Herzegovina,2,219
+From: 23 Mar 2004,To: 23 Mar 2004,Orthodox,FY 2004,17,Bosnia and Herzegovina,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Orthodox,FY 2004,17,Croatia,3,219
+From: 23 Mar 2004,To: 23 Mar 2004,Orthodox,FY 2004,17,Serbia,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Pentecostalist,FY 2004,27,Belarus,6,219
+From: 23 Mar 2004,To: 23 Mar 2004,Pentecostalist,FY 2004,27,Liberia,5,219
+From: 23 Mar 2004,To: 23 Mar 2004,Pentecostalist,FY 2004,27,Ukraine,16,219
+From: 23 Mar 2004,To: 23 Mar 2004,Protestant,FY 2004,6,Ethiopia,6,219
+From: 23 Mar 2004,To: 23 Mar 2004,Seventh Day Adventist,FY 2004,10,Russia,7,219
+From: 23 Mar 2004,To: 23 Mar 2004,Seventh Day Adventist,FY 2004,10,Ukraine,3,219
+From: 23 Mar 2004,To: 23 Mar 2004,Unknown,FY 2004,3,Dem. Rep. Congo,3,219
+

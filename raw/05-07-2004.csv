@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 May 2004,To: 07 May 2004,Cuba,FY 2004,31,Baptist,2,66
+From: 07 May 2004,To: 07 May 2004,Cuba,FY 2004,31,Catholic,8,66
+From: 07 May 2004,To: 07 May 2004,Cuba,FY 2004,31,Christian,2,66
+From: 07 May 2004,To: 07 May 2004,Cuba,FY 2004,31,Jehovah Witness,9,66
+From: 07 May 2004,To: 07 May 2004,Cuba,FY 2004,31,No Religion,10,66
+From: 07 May 2004,To: 07 May 2004,Vietnam,FY 2004,35,Buddhist,22,66
+From: 07 May 2004,To: 07 May 2004,Vietnam,FY 2004,35,Catholic,4,66
+From: 07 May 2004,To: 07 May 2004,Vietnam,FY 2004,35,No Religion,8,66
+From: 07 May 2004,To: 07 May 2004,Vietnam,FY 2004,35,Unknown,1,66
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 May 2004,To: 07 May 2004,Baptist,FY 2004,2,Cuba,2,66
+From: 07 May 2004,To: 07 May 2004,Buddhist,FY 2004,22,Vietnam,22,66
+From: 07 May 2004,To: 07 May 2004,Catholic,FY 2004,12,Cuba,8,66
+From: 07 May 2004,To: 07 May 2004,Catholic,FY 2004,12,Vietnam,4,66
+From: 07 May 2004,To: 07 May 2004,Christian,FY 2004,2,Cuba,2,66
+From: 07 May 2004,To: 07 May 2004,Jehovah Witness,FY 2004,9,Cuba,9,66
+From: 07 May 2004,To: 07 May 2004,No Religion,FY 2004,18,Cuba,10,66
+From: 07 May 2004,To: 07 May 2004,No Religion,FY 2004,18,Vietnam,8,66
+From: 07 May 2004,To: 07 May 2004,Unknown,FY 2004,1,Vietnam,1,66
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Feb 2007,To: 13 Feb 2007,Belarus,FY 2007,14,Baptist,2,80
+From: 13 Feb 2007,To: 13 Feb 2007,Belarus,FY 2007,14,Pentecostalist,12,80
+From: 13 Feb 2007,To: 13 Feb 2007,Colombia,FY 2007,22,Catholic,11,80
+From: 13 Feb 2007,To: 13 Feb 2007,Colombia,FY 2007,22,Christian,7,80
+From: 13 Feb 2007,To: 13 Feb 2007,Colombia,FY 2007,22,Evangelical Christian,4,80
+From: 13 Feb 2007,To: 13 Feb 2007,Ethiopia,FY 2007,7,Christian,1,80
+From: 13 Feb 2007,To: 13 Feb 2007,Ethiopia,FY 2007,7,Moslem,4,80
+From: 13 Feb 2007,To: 13 Feb 2007,Ethiopia,FY 2007,7,Orthodox,2,80
+From: 13 Feb 2007,To: 13 Feb 2007,Iran,FY 2007,15,Christian,8,80
+From: 13 Feb 2007,To: 13 Feb 2007,Iran,FY 2007,15,Sabeans-Mandean,7,80
+From: 13 Feb 2007,To: 13 Feb 2007,Somalia,FY 2007,18,Moslem,18,80
+From: 13 Feb 2007,To: 13 Feb 2007,Vietnam,FY 2007,4,Catholic,4,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Feb 2007,To: 13 Feb 2007,Baptist,FY 2007,2,Belarus,2,80
+From: 13 Feb 2007,To: 13 Feb 2007,Catholic,FY 2007,15,Colombia,11,80
+From: 13 Feb 2007,To: 13 Feb 2007,Catholic,FY 2007,15,Vietnam,4,80
+From: 13 Feb 2007,To: 13 Feb 2007,Christian,FY 2007,16,Colombia,7,80
+From: 13 Feb 2007,To: 13 Feb 2007,Christian,FY 2007,16,Ethiopia,1,80
+From: 13 Feb 2007,To: 13 Feb 2007,Christian,FY 2007,16,Iran,8,80
+From: 13 Feb 2007,To: 13 Feb 2007,Evangelical Christian,FY 2007,4,Colombia,4,80
+From: 13 Feb 2007,To: 13 Feb 2007,Moslem,FY 2007,22,Ethiopia,4,80
+From: 13 Feb 2007,To: 13 Feb 2007,Moslem,FY 2007,22,Somalia,18,80
+From: 13 Feb 2007,To: 13 Feb 2007,Orthodox,FY 2007,2,Ethiopia,2,80
+From: 13 Feb 2007,To: 13 Feb 2007,Pentecostalist,FY 2007,12,Belarus,12,80
+From: 13 Feb 2007,To: 13 Feb 2007,Sabeans-Mandean,FY 2007,7,Iran,7,80
+

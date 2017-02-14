@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 May 2008,To: 28 May 2008,Bhutan,FY 2008,35,Buddhist,4,449
+From: 28 May 2008,To: 28 May 2008,Bhutan,FY 2008,35,Christian,7,449
+From: 28 May 2008,To: 28 May 2008,Bhutan,FY 2008,35,Hindu,24,449
+From: 28 May 2008,To: 28 May 2008,Burma,FY 2008,224,Buddhist,32,449
+From: 28 May 2008,To: 28 May 2008,Burma,FY 2008,224,Christian,158,449
+From: 28 May 2008,To: 28 May 2008,Burma,FY 2008,224,Moslem,34,449
+From: 28 May 2008,To: 28 May 2008,Eritrea,FY 2008,5,Catholic,3,449
+From: 28 May 2008,To: 28 May 2008,Eritrea,FY 2008,5,Orthodox,2,449
+From: 28 May 2008,To: 28 May 2008,Ethiopia,FY 2008,4,Pentecostalist,4,449
+From: 28 May 2008,To: 28 May 2008,Iran,FY 2008,4,Bahai,3,449
+From: 28 May 2008,To: 28 May 2008,Iran,FY 2008,4,Moslem Shiite,1,449
+From: 28 May 2008,To: 28 May 2008,Iraq,FY 2008,76,Catholic,5,449
+From: 28 May 2008,To: 28 May 2008,Iraq,FY 2008,76,Christian,13,449
+From: 28 May 2008,To: 28 May 2008,Iraq,FY 2008,76,Moslem,6,449
+From: 28 May 2008,To: 28 May 2008,Iraq,FY 2008,76,Moslem Shiite,8,449
+From: 28 May 2008,To: 28 May 2008,Iraq,FY 2008,76,Moslem Suni,38,449
+From: 28 May 2008,To: 28 May 2008,Iraq,FY 2008,76,Sabeans-Mandean,6,449
+From: 28 May 2008,To: 28 May 2008,Somalia,FY 2008,71,Catholic,1,449
+From: 28 May 2008,To: 28 May 2008,Somalia,FY 2008,71,Moslem,66,449
+From: 28 May 2008,To: 28 May 2008,Somalia,FY 2008,71,Moslem Suni,4,449
+From: 28 May 2008,To: 28 May 2008,Sudan,FY 2008,3,Moslem,3,449
+From: 28 May 2008,To: 28 May 2008,Vietnam,FY 2008,27,Ancestral Worship,1,449
+From: 28 May 2008,To: 28 May 2008,Vietnam,FY 2008,27,Buddhist,5,449
+From: 28 May 2008,To: 28 May 2008,Vietnam,FY 2008,27,Catholic,9,449
+From: 28 May 2008,To: 28 May 2008,Vietnam,FY 2008,27,No Religion,10,449
+From: 28 May 2008,To: 28 May 2008,Vietnam,FY 2008,27,Protestant,2,449
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 May 2008,To: 28 May 2008,Ancestral Worship,FY 2008,1,Vietnam,1,449
+From: 28 May 2008,To: 28 May 2008,Bahai,FY 2008,3,Iran,3,449
+From: 28 May 2008,To: 28 May 2008,Buddhist,FY 2008,41,Bhutan,4,449
+From: 28 May 2008,To: 28 May 2008,Buddhist,FY 2008,41,Burma,32,449
+From: 28 May 2008,To: 28 May 2008,Buddhist,FY 2008,41,Vietnam,5,449
+From: 28 May 2008,To: 28 May 2008,Catholic,FY 2008,18,Eritrea,3,449
+From: 28 May 2008,To: 28 May 2008,Catholic,FY 2008,18,Iraq,5,449
+From: 28 May 2008,To: 28 May 2008,Catholic,FY 2008,18,Somalia,1,449
+From: 28 May 2008,To: 28 May 2008,Catholic,FY 2008,18,Vietnam,9,449
+From: 28 May 2008,To: 28 May 2008,Christian,FY 2008,178,Bhutan,7,449
+From: 28 May 2008,To: 28 May 2008,Christian,FY 2008,178,Burma,158,449
+From: 28 May 2008,To: 28 May 2008,Christian,FY 2008,178,Iraq,13,449
+From: 28 May 2008,To: 28 May 2008,Hindu,FY 2008,24,Bhutan,24,449
+From: 28 May 2008,To: 28 May 2008,Moslem,FY 2008,109,Burma,34,449
+From: 28 May 2008,To: 28 May 2008,Moslem,FY 2008,109,Iraq,6,449
+From: 28 May 2008,To: 28 May 2008,Moslem,FY 2008,109,Somalia,66,449
+From: 28 May 2008,To: 28 May 2008,Moslem,FY 2008,109,Sudan,3,449
+From: 28 May 2008,To: 28 May 2008,Moslem Shiite,FY 2008,9,Iran,1,449
+From: 28 May 2008,To: 28 May 2008,Moslem Shiite,FY 2008,9,Iraq,8,449
+From: 28 May 2008,To: 28 May 2008,Moslem Suni,FY 2008,42,Iraq,38,449
+From: 28 May 2008,To: 28 May 2008,Moslem Suni,FY 2008,42,Somalia,4,449
+From: 28 May 2008,To: 28 May 2008,No Religion,FY 2008,10,Vietnam,10,449
+From: 28 May 2008,To: 28 May 2008,Orthodox,FY 2008,2,Eritrea,2,449
+From: 28 May 2008,To: 28 May 2008,Pentecostalist,FY 2008,4,Ethiopia,4,449
+From: 28 May 2008,To: 28 May 2008,Protestant,FY 2008,2,Vietnam,2,449
+From: 28 May 2008,To: 28 May 2008,Sabeans-Mandean,FY 2008,6,Iraq,6,449
+

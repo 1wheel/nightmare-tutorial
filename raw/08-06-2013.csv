@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Aug 2013,To: 06 Aug 2013,Bhutan,FY 2013,28,Buddhist,10,443
+From: 06 Aug 2013,To: 06 Aug 2013,Bhutan,FY 2013,28,Christian,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Bhutan,FY 2013,28,Hindu,14,443
+From: 06 Aug 2013,To: 06 Aug 2013,Burma,FY 2013,107,Baptist,5,443
+From: 06 Aug 2013,To: 06 Aug 2013,Burma,FY 2013,107,Buddhist,9,443
+From: 06 Aug 2013,To: 06 Aug 2013,Burma,FY 2013,107,Catholic,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Burma,FY 2013,107,Christian,82,443
+From: 06 Aug 2013,To: 06 Aug 2013,Burma,FY 2013,107,Moslem,10,443
+From: 06 Aug 2013,To: 06 Aug 2013,Cuba,FY 2013,48,Catholic,14,443
+From: 06 Aug 2013,To: 06 Aug 2013,Cuba,FY 2013,48,Jehovah Witness,14,443
+From: 06 Aug 2013,To: 06 Aug 2013,Cuba,FY 2013,48,No Religion,20,443
+From: 06 Aug 2013,To: 06 Aug 2013,Ethiopia,FY 2013,2,Moslem,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Ethiopia,FY 2013,2,Protestant,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Catholic,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Christian,25,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Moslem,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Moslem Shiite,86,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Moslem Suni,80,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Orthodox,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Iraq,FY 2013,204,Sabeans-Mandean,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Nepal,FY 2013,4,Hindu,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Somalia,FY 2013,38,Moslem,30,443
+From: 06 Aug 2013,To: 06 Aug 2013,Somalia,FY 2013,38,Moslem Suni,8,443
+From: 06 Aug 2013,To: 06 Aug 2013,Sudan,FY 2013,12,Moslem,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Sudan,FY 2013,12,Moslem Suni,8,443
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Aug 2013,To: 06 Aug 2013,Baptist,FY 2013,5,Burma,5,443
+From: 06 Aug 2013,To: 06 Aug 2013,Buddhist,FY 2013,19,Bhutan,10,443
+From: 06 Aug 2013,To: 06 Aug 2013,Buddhist,FY 2013,19,Burma,9,443
+From: 06 Aug 2013,To: 06 Aug 2013,Catholic,FY 2013,19,Burma,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Catholic,FY 2013,19,Cuba,14,443
+From: 06 Aug 2013,To: 06 Aug 2013,Catholic,FY 2013,19,Iraq,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Christian,FY 2013,111,Bhutan,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Christian,FY 2013,111,Burma,82,443
+From: 06 Aug 2013,To: 06 Aug 2013,Christian,FY 2013,111,Iraq,25,443
+From: 06 Aug 2013,To: 06 Aug 2013,Hindu,FY 2013,18,Bhutan,14,443
+From: 06 Aug 2013,To: 06 Aug 2013,Hindu,FY 2013,18,Nepal,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Jehovah Witness,FY 2013,14,Cuba,14,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem,FY 2013,46,Burma,10,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem,FY 2013,46,Ethiopia,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem,FY 2013,46,Iraq,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem,FY 2013,46,Somalia,30,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem,FY 2013,46,Sudan,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem Shiite,FY 2013,86,Iraq,86,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem Suni,FY 2013,96,Iraq,80,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem Suni,FY 2013,96,Somalia,8,443
+From: 06 Aug 2013,To: 06 Aug 2013,Moslem Suni,FY 2013,96,Sudan,8,443
+From: 06 Aug 2013,To: 06 Aug 2013,No Religion,FY 2013,20,Cuba,20,443
+From: 06 Aug 2013,To: 06 Aug 2013,Orthodox,FY 2013,4,Iraq,4,443
+From: 06 Aug 2013,To: 06 Aug 2013,Protestant,FY 2013,1,Ethiopia,1,443
+From: 06 Aug 2013,To: 06 Aug 2013,Sabeans-Mandean,FY 2013,4,Iraq,4,443
+

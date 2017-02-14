@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Nov 2009,To: 05 Nov 2009,Bhutan,FY 2010,100,Buddhist,19,476
+From: 05 Nov 2009,To: 05 Nov 2009,Bhutan,FY 2010,100,Hindu,81,476
+From: 05 Nov 2009,To: 05 Nov 2009,Burma,FY 2010,183,Animist,12,476
+From: 05 Nov 2009,To: 05 Nov 2009,Burma,FY 2010,183,Baptist,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Burma,FY 2010,183,Buddhist,27,476
+From: 05 Nov 2009,To: 05 Nov 2009,Burma,FY 2010,183,Catholic,6,476
+From: 05 Nov 2009,To: 05 Nov 2009,Burma,FY 2010,183,Christian,131,476
+From: 05 Nov 2009,To: 05 Nov 2009,Burma,FY 2010,183,Moslem,3,476
+From: 05 Nov 2009,To: 05 Nov 2009,Colombia,FY 2010,6,Christian,5,476
+From: 05 Nov 2009,To: 05 Nov 2009,Colombia,FY 2010,6,Unknown,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Cuba,FY 2010,70,Catholic,31,476
+From: 05 Nov 2009,To: 05 Nov 2009,Cuba,FY 2010,70,Evangelical Christian,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Cuba,FY 2010,70,Jehovah Witness,15,476
+From: 05 Nov 2009,To: 05 Nov 2009,Cuba,FY 2010,70,No Religion,15,476
+From: 05 Nov 2009,To: 05 Nov 2009,Cuba,FY 2010,70,Protestant,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Cuba,FY 2010,70,Unknown,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Ethiopia,FY 2010,2,Moslem,2,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iran,FY 2010,66,Bahai,18,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iran,FY 2010,66,Christian,37,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iran,FY 2010,66,Moslem,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iran,FY 2010,66,No Religion,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iran,FY 2010,66,Sabeans-Mandean,5,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iran,FY 2010,66,Zoroastrian,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iraq,FY 2010,19,Catholic,9,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iraq,FY 2010,19,Christian,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iraq,FY 2010,19,Orthodox,2,476
+From: 05 Nov 2009,To: 05 Nov 2009,Iraq,FY 2010,19,Protestant,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Liberia,FY 2010,3,Christian,3,476
+From: 05 Nov 2009,To: 05 Nov 2009,Somalia,FY 2010,23,Moslem,23,476
+From: 05 Nov 2009,To: 05 Nov 2009,Sudan,FY 2010,4,Moslem,4,476
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Nov 2009,To: 05 Nov 2009,Animist,FY 2010,12,Burma,12,476
+From: 05 Nov 2009,To: 05 Nov 2009,Bahai,FY 2010,18,Iran,18,476
+From: 05 Nov 2009,To: 05 Nov 2009,Baptist,FY 2010,4,Burma,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Buddhist,FY 2010,46,Bhutan,19,476
+From: 05 Nov 2009,To: 05 Nov 2009,Buddhist,FY 2010,46,Burma,27,476
+From: 05 Nov 2009,To: 05 Nov 2009,Catholic,FY 2010,46,Burma,6,476
+From: 05 Nov 2009,To: 05 Nov 2009,Catholic,FY 2010,46,Cuba,31,476
+From: 05 Nov 2009,To: 05 Nov 2009,Catholic,FY 2010,46,Iraq,9,476
+From: 05 Nov 2009,To: 05 Nov 2009,Christian,FY 2010,180,Burma,131,476
+From: 05 Nov 2009,To: 05 Nov 2009,Christian,FY 2010,180,Colombia,5,476
+From: 05 Nov 2009,To: 05 Nov 2009,Christian,FY 2010,180,Iran,37,476
+From: 05 Nov 2009,To: 05 Nov 2009,Christian,FY 2010,180,Iraq,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Christian,FY 2010,180,Liberia,3,476
+From: 05 Nov 2009,To: 05 Nov 2009,Evangelical Christian,FY 2010,4,Cuba,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Hindu,FY 2010,81,Bhutan,81,476
+From: 05 Nov 2009,To: 05 Nov 2009,Jehovah Witness,FY 2010,15,Cuba,15,476
+From: 05 Nov 2009,To: 05 Nov 2009,Moslem,FY 2010,36,Burma,3,476
+From: 05 Nov 2009,To: 05 Nov 2009,Moslem,FY 2010,36,Ethiopia,2,476
+From: 05 Nov 2009,To: 05 Nov 2009,Moslem,FY 2010,36,Iran,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Moslem,FY 2010,36,Somalia,23,476
+From: 05 Nov 2009,To: 05 Nov 2009,Moslem,FY 2010,36,Sudan,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,No Religion,FY 2010,16,Cuba,15,476
+From: 05 Nov 2009,To: 05 Nov 2009,No Religion,FY 2010,16,Iran,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Orthodox,FY 2010,2,Iraq,2,476
+From: 05 Nov 2009,To: 05 Nov 2009,Protestant,FY 2010,8,Cuba,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Protestant,FY 2010,8,Iraq,4,476
+From: 05 Nov 2009,To: 05 Nov 2009,Sabeans-Mandean,FY 2010,5,Iran,5,476
+From: 05 Nov 2009,To: 05 Nov 2009,Unknown,FY 2010,2,Colombia,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Unknown,FY 2010,2,Cuba,1,476
+From: 05 Nov 2009,To: 05 Nov 2009,Zoroastrian,FY 2010,1,Iran,1,476
+

@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jan 2010,To: 25 Jan 2010,Afghanistan,FY 2010,1,Moslem,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Burma,FY 2010,96,Animist,11,423
+From: 25 Jan 2010,To: 25 Jan 2010,Burma,FY 2010,96,Baptist,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Burma,FY 2010,96,Christian,84,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Catholic,4,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Christian,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Jehovah Witness,5,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Lutheran,5,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Methodist,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Moslem,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Pentecostalist,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Dem. Rep. Congo,FY 2010,39,Protestant,19,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iran,FY 2010,9,Bahai,4,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iran,FY 2010,9,Christian,3,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iran,FY 2010,9,Moslem Shiite,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iraq,FY 2010,187,Catholic,15,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iraq,FY 2010,187,Christian,51,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iraq,FY 2010,187,Moslem Shiite,23,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iraq,FY 2010,187,Moslem Suni,84,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iraq,FY 2010,187,Orthodox,8,423
+From: 25 Jan 2010,To: 25 Jan 2010,Iraq,FY 2010,187,Sabeans-Mandean,6,423
+From: 25 Jan 2010,To: 25 Jan 2010,Mauritania,FY 2010,23,Moslem,23,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moldova,FY 2010,30,Baptist,21,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moldova,FY 2010,30,Jehovah Witness,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moldova,FY 2010,30,Pentecostalist,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moldova,FY 2010,30,Seventh Day Adventist,6,423
+From: 25 Jan 2010,To: 25 Jan 2010,Palestine,FY 2010,21,Moslem,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Palestine,FY 2010,21,Moslem Suni,19,423
+From: 25 Jan 2010,To: 25 Jan 2010,Sierra Leone,FY 2010,7,Christian,6,423
+From: 25 Jan 2010,To: 25 Jan 2010,Sierra Leone,FY 2010,7,Moslem,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Somalia,FY 2010,10,Moslem,9,423
+From: 25 Jan 2010,To: 25 Jan 2010,Somalia,FY 2010,10,Moslem Suni,1,423
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jan 2010,To: 25 Jan 2010,Animist,FY 2010,11,Burma,11,423
+From: 25 Jan 2010,To: 25 Jan 2010,Bahai,FY 2010,4,Iran,4,423
+From: 25 Jan 2010,To: 25 Jan 2010,Baptist,FY 2010,22,Burma,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Baptist,FY 2010,22,Moldova,21,423
+From: 25 Jan 2010,To: 25 Jan 2010,Catholic,FY 2010,19,Dem. Rep. Congo,4,423
+From: 25 Jan 2010,To: 25 Jan 2010,Catholic,FY 2010,19,Iraq,15,423
+From: 25 Jan 2010,To: 25 Jan 2010,Christian,FY 2010,146,Burma,84,423
+From: 25 Jan 2010,To: 25 Jan 2010,Christian,FY 2010,146,Dem. Rep. Congo,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Christian,FY 2010,146,Iran,3,423
+From: 25 Jan 2010,To: 25 Jan 2010,Christian,FY 2010,146,Iraq,51,423
+From: 25 Jan 2010,To: 25 Jan 2010,Christian,FY 2010,146,Sierra Leone,6,423
+From: 25 Jan 2010,To: 25 Jan 2010,Jehovah Witness,FY 2010,7,Dem. Rep. Congo,5,423
+From: 25 Jan 2010,To: 25 Jan 2010,Jehovah Witness,FY 2010,7,Moldova,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Lutheran,FY 2010,5,Dem. Rep. Congo,5,423
+From: 25 Jan 2010,To: 25 Jan 2010,Methodist,FY 2010,1,Dem. Rep. Congo,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem,FY 2010,37,Afghanistan,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem,FY 2010,37,Dem. Rep. Congo,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem,FY 2010,37,Mauritania,23,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem,FY 2010,37,Palestine,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem,FY 2010,37,Sierra Leone,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem,FY 2010,37,Somalia,9,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem Shiite,FY 2010,25,Iran,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem Shiite,FY 2010,25,Iraq,23,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem Suni,FY 2010,104,Iraq,84,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem Suni,FY 2010,104,Palestine,19,423
+From: 25 Jan 2010,To: 25 Jan 2010,Moslem Suni,FY 2010,104,Somalia,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Orthodox,FY 2010,8,Iraq,8,423
+From: 25 Jan 2010,To: 25 Jan 2010,Pentecostalist,FY 2010,3,Dem. Rep. Congo,2,423
+From: 25 Jan 2010,To: 25 Jan 2010,Pentecostalist,FY 2010,3,Moldova,1,423
+From: 25 Jan 2010,To: 25 Jan 2010,Protestant,FY 2010,19,Dem. Rep. Congo,19,423
+From: 25 Jan 2010,To: 25 Jan 2010,Sabeans-Mandean,FY 2010,6,Iraq,6,423
+From: 25 Jan 2010,To: 25 Jan 2010,Seventh Day Adventist,FY 2010,6,Moldova,6,423
+

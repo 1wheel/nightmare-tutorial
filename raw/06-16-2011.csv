@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jun 2011,To: 16 Jun 2011,Bhutan,FY 2011,89,Buddhist,10,292
+From: 16 Jun 2011,To: 16 Jun 2011,Bhutan,FY 2011,89,Christian,17,292
+From: 16 Jun 2011,To: 16 Jun 2011,Bhutan,FY 2011,89,Hindu,49,292
+From: 16 Jun 2011,To: 16 Jun 2011,Bhutan,FY 2011,89,Kirat,13,292
+From: 16 Jun 2011,To: 16 Jun 2011,Burma,FY 2011,40,Baptist,5,292
+From: 16 Jun 2011,To: 16 Jun 2011,Burma,FY 2011,40,Buddhist,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Burma,FY 2011,40,Christian,33,292
+From: 16 Jun 2011,To: 16 Jun 2011,Cuba,FY 2011,51,Catholic,15,292
+From: 16 Jun 2011,To: 16 Jun 2011,Cuba,FY 2011,51,Evangelical Christian,4,292
+From: 16 Jun 2011,To: 16 Jun 2011,Cuba,FY 2011,51,Jehovah Witness,18,292
+From: 16 Jun 2011,To: 16 Jun 2011,Cuba,FY 2011,51,No Religion,12,292
+From: 16 Jun 2011,To: 16 Jun 2011,Cuba,FY 2011,51,Seventh Day Adventist,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Dem. Rep. Congo,FY 2011,10,Pentecostalist,9,292
+From: 16 Jun 2011,To: 16 Jun 2011,Dem. Rep. Congo,FY 2011,10,Protestant,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Eritrea,FY 2011,17,Catholic,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Eritrea,FY 2011,17,Moslem,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Eritrea,FY 2011,17,Orthodox,12,292
+From: 16 Jun 2011,To: 16 Jun 2011,Eritrea,FY 2011,17,Pentecostalist,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iran,FY 2011,47,Bahai,18,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iran,FY 2011,47,Catholic,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iran,FY 2011,47,Christian,19,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iran,FY 2011,47,Moslem Shiite,5,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iran,FY 2011,47,Protestant,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iran,FY 2011,47,Zoroastrian,3,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iraq,FY 2011,5,Christian,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Iraq,FY 2011,5,Moslem Suni,3,292
+From: 16 Jun 2011,To: 16 Jun 2011,Moldova,FY 2011,4,Pentecostalist,4,292
+From: 16 Jun 2011,To: 16 Jun 2011,Somalia,FY 2011,24,Moslem,21,292
+From: 16 Jun 2011,To: 16 Jun 2011,Somalia,FY 2011,24,Moslem Suni,3,292
+From: 16 Jun 2011,To: 16 Jun 2011,Ukraine,FY 2011,5,Baptist,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Ukraine,FY 2011,5,Seventh Day Adventist,4,292
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jun 2011,To: 16 Jun 2011,Bahai,FY 2011,18,Iran,18,292
+From: 16 Jun 2011,To: 16 Jun 2011,Baptist,FY 2011,6,Burma,5,292
+From: 16 Jun 2011,To: 16 Jun 2011,Baptist,FY 2011,6,Ukraine,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Buddhist,FY 2011,12,Bhutan,10,292
+From: 16 Jun 2011,To: 16 Jun 2011,Buddhist,FY 2011,12,Burma,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Catholic,FY 2011,18,Cuba,15,292
+From: 16 Jun 2011,To: 16 Jun 2011,Catholic,FY 2011,18,Eritrea,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Catholic,FY 2011,18,Iran,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Christian,FY 2011,71,Bhutan,17,292
+From: 16 Jun 2011,To: 16 Jun 2011,Christian,FY 2011,71,Burma,33,292
+From: 16 Jun 2011,To: 16 Jun 2011,Christian,FY 2011,71,Iran,19,292
+From: 16 Jun 2011,To: 16 Jun 2011,Christian,FY 2011,71,Iraq,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Evangelical Christian,FY 2011,4,Cuba,4,292
+From: 16 Jun 2011,To: 16 Jun 2011,Hindu,FY 2011,49,Bhutan,49,292
+From: 16 Jun 2011,To: 16 Jun 2011,Jehovah Witness,FY 2011,18,Cuba,18,292
+From: 16 Jun 2011,To: 16 Jun 2011,Kirat,FY 2011,13,Bhutan,13,292
+From: 16 Jun 2011,To: 16 Jun 2011,Moslem,FY 2011,22,Eritrea,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Moslem,FY 2011,22,Somalia,21,292
+From: 16 Jun 2011,To: 16 Jun 2011,Moslem Shiite,FY 2011,5,Iran,5,292
+From: 16 Jun 2011,To: 16 Jun 2011,Moslem Suni,FY 2011,6,Iraq,3,292
+From: 16 Jun 2011,To: 16 Jun 2011,Moslem Suni,FY 2011,6,Somalia,3,292
+From: 16 Jun 2011,To: 16 Jun 2011,No Religion,FY 2011,12,Cuba,12,292
+From: 16 Jun 2011,To: 16 Jun 2011,Orthodox,FY 2011,12,Eritrea,12,292
+From: 16 Jun 2011,To: 16 Jun 2011,Pentecostalist,FY 2011,15,Dem. Rep. Congo,9,292
+From: 16 Jun 2011,To: 16 Jun 2011,Pentecostalist,FY 2011,15,Eritrea,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Pentecostalist,FY 2011,15,Moldova,4,292
+From: 16 Jun 2011,To: 16 Jun 2011,Protestant,FY 2011,2,Dem. Rep. Congo,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Protestant,FY 2011,2,Iran,1,292
+From: 16 Jun 2011,To: 16 Jun 2011,Seventh Day Adventist,FY 2011,6,Cuba,2,292
+From: 16 Jun 2011,To: 16 Jun 2011,Seventh Day Adventist,FY 2011,6,Ukraine,4,292
+From: 16 Jun 2011,To: 16 Jun 2011,Zoroastrian,FY 2011,3,Iran,3,292
+

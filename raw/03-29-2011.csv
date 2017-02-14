@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Mar 2011,To: 29 Mar 2011,Bhutan,FY 2011,23,Buddhist,5,41
+From: 29 Mar 2011,To: 29 Mar 2011,Bhutan,FY 2011,23,Hindu,18,41
+From: 29 Mar 2011,To: 29 Mar 2011,Burma,FY 2011,6,Catholic,1,41
+From: 29 Mar 2011,To: 29 Mar 2011,Burma,FY 2011,6,Christian,5,41
+From: 29 Mar 2011,To: 29 Mar 2011,"Korea, North",FY 2011,1,Unknown,1,41
+From: 29 Mar 2011,To: 29 Mar 2011,Liberia,FY 2011,7,Christian,7,41
+From: 29 Mar 2011,To: 29 Mar 2011,Vietnam,FY 2011,4,Protestant,4,41
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Mar 2011,To: 29 Mar 2011,Buddhist,FY 2011,5,Bhutan,5,41
+From: 29 Mar 2011,To: 29 Mar 2011,Catholic,FY 2011,1,Burma,1,41
+From: 29 Mar 2011,To: 29 Mar 2011,Christian,FY 2011,12,Burma,5,41
+From: 29 Mar 2011,To: 29 Mar 2011,Christian,FY 2011,12,Liberia,7,41
+From: 29 Mar 2011,To: 29 Mar 2011,Hindu,FY 2011,18,Bhutan,18,41
+From: 29 Mar 2011,To: 29 Mar 2011,Protestant,FY 2011,4,Vietnam,4,41
+From: 29 Mar 2011,To: 29 Mar 2011,Unknown,FY 2011,1,"Korea, North",1,41
+

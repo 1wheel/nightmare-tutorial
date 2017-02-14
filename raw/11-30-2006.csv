@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Nov 2006,To: 30 Nov 2006,Burma,FY 2007,58,Buddhist,7,179
+From: 30 Nov 2006,To: 30 Nov 2006,Burma,FY 2007,58,Christian,51,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ethiopia,FY 2007,23,Christian,1,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ethiopia,FY 2007,23,Moslem,11,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ethiopia,FY 2007,23,Orthodox,6,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ethiopia,FY 2007,23,Protestant,5,179
+From: 30 Nov 2006,To: 30 Nov 2006,Iran,FY 2007,30,Christian,20,179
+From: 30 Nov 2006,To: 30 Nov 2006,Iran,FY 2007,30,Sabeans-Mandean,8,179
+From: 30 Nov 2006,To: 30 Nov 2006,Iran,FY 2007,30,Zoroastrian,2,179
+From: 30 Nov 2006,To: 30 Nov 2006,Laos,FY 2007,1,Ancestral Worship,1,179
+From: 30 Nov 2006,To: 30 Nov 2006,Somalia,FY 2007,34,Moslem,34,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ukraine,FY 2007,33,Baptist,24,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ukraine,FY 2007,33,Jewish,2,179
+From: 30 Nov 2006,To: 30 Nov 2006,Ukraine,FY 2007,33,Pentecostalist,7,179
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Nov 2006,To: 30 Nov 2006,Ancestral Worship,FY 2007,1,Laos,1,179
+From: 30 Nov 2006,To: 30 Nov 2006,Baptist,FY 2007,24,Ukraine,24,179
+From: 30 Nov 2006,To: 30 Nov 2006,Buddhist,FY 2007,7,Burma,7,179
+From: 30 Nov 2006,To: 30 Nov 2006,Christian,FY 2007,72,Burma,51,179
+From: 30 Nov 2006,To: 30 Nov 2006,Christian,FY 2007,72,Ethiopia,1,179
+From: 30 Nov 2006,To: 30 Nov 2006,Christian,FY 2007,72,Iran,20,179
+From: 30 Nov 2006,To: 30 Nov 2006,Jewish,FY 2007,2,Ukraine,2,179
+From: 30 Nov 2006,To: 30 Nov 2006,Moslem,FY 2007,45,Ethiopia,11,179
+From: 30 Nov 2006,To: 30 Nov 2006,Moslem,FY 2007,45,Somalia,34,179
+From: 30 Nov 2006,To: 30 Nov 2006,Orthodox,FY 2007,6,Ethiopia,6,179
+From: 30 Nov 2006,To: 30 Nov 2006,Pentecostalist,FY 2007,7,Ukraine,7,179
+From: 30 Nov 2006,To: 30 Nov 2006,Protestant,FY 2007,5,Ethiopia,5,179
+From: 30 Nov 2006,To: 30 Nov 2006,Sabeans-Mandean,FY 2007,8,Iran,8,179
+From: 30 Nov 2006,To: 30 Nov 2006,Zoroastrian,FY 2007,2,Iran,2,179
+

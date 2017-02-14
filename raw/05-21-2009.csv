@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 May 2009,To: 21 May 2009,Bhutan,FY 2009,55,Buddhist,3,450
+From: 21 May 2009,To: 21 May 2009,Bhutan,FY 2009,55,Christian,7,450
+From: 21 May 2009,To: 21 May 2009,Bhutan,FY 2009,55,Hindu,45,450
+From: 21 May 2009,To: 21 May 2009,Burma,FY 2009,249,Animist,36,450
+From: 21 May 2009,To: 21 May 2009,Burma,FY 2009,249,Baptist,6,450
+From: 21 May 2009,To: 21 May 2009,Burma,FY 2009,249,Buddhist,18,450
+From: 21 May 2009,To: 21 May 2009,Burma,FY 2009,249,Catholic,33,450
+From: 21 May 2009,To: 21 May 2009,Burma,FY 2009,249,Christian,155,450
+From: 21 May 2009,To: 21 May 2009,Burma,FY 2009,249,Protestant,1,450
+From: 21 May 2009,To: 21 May 2009,Cuba,FY 2009,69,Baptist,4,450
+From: 21 May 2009,To: 21 May 2009,Cuba,FY 2009,69,Catholic,23,450
+From: 21 May 2009,To: 21 May 2009,Cuba,FY 2009,69,Jehovah Witness,13,450
+From: 21 May 2009,To: 21 May 2009,Cuba,FY 2009,69,Methodist,2,450
+From: 21 May 2009,To: 21 May 2009,Cuba,FY 2009,69,No Religion,27,450
+From: 21 May 2009,To: 21 May 2009,Iraq,FY 2009,34,Catholic,5,450
+From: 21 May 2009,To: 21 May 2009,Iraq,FY 2009,34,Christian,1,450
+From: 21 May 2009,To: 21 May 2009,Iraq,FY 2009,34,Moslem Shiite,12,450
+From: 21 May 2009,To: 21 May 2009,Iraq,FY 2009,34,Moslem Suni,12,450
+From: 21 May 2009,To: 21 May 2009,Iraq,FY 2009,34,Orthodox,4,450
+From: 21 May 2009,To: 21 May 2009,Sudan,FY 2009,25,Moslem,9,450
+From: 21 May 2009,To: 21 May 2009,Sudan,FY 2009,25,Moslem Suni,15,450
+From: 21 May 2009,To: 21 May 2009,Sudan,FY 2009,25,Seventh Day Adventist,1,450
+From: 21 May 2009,To: 21 May 2009,Ukraine,FY 2009,18,Baptist,7,450
+From: 21 May 2009,To: 21 May 2009,Ukraine,FY 2009,18,Jewish,1,450
+From: 21 May 2009,To: 21 May 2009,Ukraine,FY 2009,18,Pentecostalist,10,450
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 May 2009,To: 21 May 2009,Animist,FY 2009,36,Burma,36,450
+From: 21 May 2009,To: 21 May 2009,Baptist,FY 2009,17,Burma,6,450
+From: 21 May 2009,To: 21 May 2009,Baptist,FY 2009,17,Cuba,4,450
+From: 21 May 2009,To: 21 May 2009,Baptist,FY 2009,17,Ukraine,7,450
+From: 21 May 2009,To: 21 May 2009,Buddhist,FY 2009,21,Bhutan,3,450
+From: 21 May 2009,To: 21 May 2009,Buddhist,FY 2009,21,Burma,18,450
+From: 21 May 2009,To: 21 May 2009,Catholic,FY 2009,61,Burma,33,450
+From: 21 May 2009,To: 21 May 2009,Catholic,FY 2009,61,Cuba,23,450
+From: 21 May 2009,To: 21 May 2009,Catholic,FY 2009,61,Iraq,5,450
+From: 21 May 2009,To: 21 May 2009,Christian,FY 2009,163,Bhutan,7,450
+From: 21 May 2009,To: 21 May 2009,Christian,FY 2009,163,Burma,155,450
+From: 21 May 2009,To: 21 May 2009,Christian,FY 2009,163,Iraq,1,450
+From: 21 May 2009,To: 21 May 2009,Hindu,FY 2009,45,Bhutan,45,450
+From: 21 May 2009,To: 21 May 2009,Jehovah Witness,FY 2009,13,Cuba,13,450
+From: 21 May 2009,To: 21 May 2009,Jewish,FY 2009,1,Ukraine,1,450
+From: 21 May 2009,To: 21 May 2009,Methodist,FY 2009,2,Cuba,2,450
+From: 21 May 2009,To: 21 May 2009,Moslem,FY 2009,9,Sudan,9,450
+From: 21 May 2009,To: 21 May 2009,Moslem Shiite,FY 2009,12,Iraq,12,450
+From: 21 May 2009,To: 21 May 2009,Moslem Suni,FY 2009,27,Iraq,12,450
+From: 21 May 2009,To: 21 May 2009,Moslem Suni,FY 2009,27,Sudan,15,450
+From: 21 May 2009,To: 21 May 2009,No Religion,FY 2009,27,Cuba,27,450
+From: 21 May 2009,To: 21 May 2009,Orthodox,FY 2009,4,Iraq,4,450
+From: 21 May 2009,To: 21 May 2009,Pentecostalist,FY 2009,10,Ukraine,10,450
+From: 21 May 2009,To: 21 May 2009,Protestant,FY 2009,1,Burma,1,450
+From: 21 May 2009,To: 21 May 2009,Seventh Day Adventist,FY 2009,1,Sudan,1,450
+

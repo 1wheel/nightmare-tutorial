@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 May 2008,To: 20 May 2008,Bhutan,FY 2008,29,Christian,3,410
+From: 20 May 2008,To: 20 May 2008,Bhutan,FY 2008,29,Hindu,26,410
+From: 20 May 2008,To: 20 May 2008,Burma,FY 2008,189,Buddhist,36,410
+From: 20 May 2008,To: 20 May 2008,Burma,FY 2008,189,Christian,125,410
+From: 20 May 2008,To: 20 May 2008,Burma,FY 2008,189,Moslem,28,410
+From: 20 May 2008,To: 20 May 2008,Congo,FY 2008,5,Christian,5,410
+From: 20 May 2008,To: 20 May 2008,Cuba,FY 2008,67,Catholic,35,410
+From: 20 May 2008,To: 20 May 2008,Cuba,FY 2008,67,Evangelical Christian,3,410
+From: 20 May 2008,To: 20 May 2008,Cuba,FY 2008,67,Jehovah Witness,6,410
+From: 20 May 2008,To: 20 May 2008,Cuba,FY 2008,67,No Religion,23,410
+From: 20 May 2008,To: 20 May 2008,Dem. Rep. Congo,FY 2008,9,Catholic,5,410
+From: 20 May 2008,To: 20 May 2008,Dem. Rep. Congo,FY 2008,9,Pentecostalist,4,410
+From: 20 May 2008,To: 20 May 2008,Iran,FY 2008,35,Christian,32,410
+From: 20 May 2008,To: 20 May 2008,Iran,FY 2008,35,Zoroastrian,3,410
+From: 20 May 2008,To: 20 May 2008,Iraq,FY 2008,44,Catholic,6,410
+From: 20 May 2008,To: 20 May 2008,Iraq,FY 2008,44,Christian,10,410
+From: 20 May 2008,To: 20 May 2008,Iraq,FY 2008,44,Moslem Shiite,1,410
+From: 20 May 2008,To: 20 May 2008,Iraq,FY 2008,44,Moslem Suni,24,410
+From: 20 May 2008,To: 20 May 2008,Iraq,FY 2008,44,Orthodox,1,410
+From: 20 May 2008,To: 20 May 2008,Iraq,FY 2008,44,Sabeans-Mandean,2,410
+From: 20 May 2008,To: 20 May 2008,Nigeria,FY 2008,4,Christian,3,410
+From: 20 May 2008,To: 20 May 2008,Nigeria,FY 2008,4,Methodist,1,410
+From: 20 May 2008,To: 20 May 2008,Somalia,FY 2008,1,Christian,1,410
+From: 20 May 2008,To: 20 May 2008,Sudan,FY 2008,7,Catholic,7,410
+From: 20 May 2008,To: 20 May 2008,Togo,FY 2008,20,Catholic,10,410
+From: 20 May 2008,To: 20 May 2008,Togo,FY 2008,20,Christian,2,410
+From: 20 May 2008,To: 20 May 2008,Togo,FY 2008,20,Moslem,5,410
+From: 20 May 2008,To: 20 May 2008,Togo,FY 2008,20,Pentecostalist,3,410
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 May 2008,To: 20 May 2008,Buddhist,FY 2008,36,Burma,36,410
+From: 20 May 2008,To: 20 May 2008,Catholic,FY 2008,63,Cuba,35,410
+From: 20 May 2008,To: 20 May 2008,Catholic,FY 2008,63,Dem. Rep. Congo,5,410
+From: 20 May 2008,To: 20 May 2008,Catholic,FY 2008,63,Iraq,6,410
+From: 20 May 2008,To: 20 May 2008,Catholic,FY 2008,63,Sudan,7,410
+From: 20 May 2008,To: 20 May 2008,Catholic,FY 2008,63,Togo,10,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Bhutan,3,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Burma,125,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Congo,5,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Iran,32,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Iraq,10,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Nigeria,3,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Somalia,1,410
+From: 20 May 2008,To: 20 May 2008,Christian,FY 2008,181,Togo,2,410
+From: 20 May 2008,To: 20 May 2008,Evangelical Christian,FY 2008,3,Cuba,3,410
+From: 20 May 2008,To: 20 May 2008,Hindu,FY 2008,26,Bhutan,26,410
+From: 20 May 2008,To: 20 May 2008,Jehovah Witness,FY 2008,6,Cuba,6,410
+From: 20 May 2008,To: 20 May 2008,Methodist,FY 2008,1,Nigeria,1,410
+From: 20 May 2008,To: 20 May 2008,Moslem,FY 2008,33,Burma,28,410
+From: 20 May 2008,To: 20 May 2008,Moslem,FY 2008,33,Togo,5,410
+From: 20 May 2008,To: 20 May 2008,Moslem Shiite,FY 2008,1,Iraq,1,410
+From: 20 May 2008,To: 20 May 2008,Moslem Suni,FY 2008,24,Iraq,24,410
+From: 20 May 2008,To: 20 May 2008,No Religion,FY 2008,23,Cuba,23,410
+From: 20 May 2008,To: 20 May 2008,Orthodox,FY 2008,1,Iraq,1,410
+From: 20 May 2008,To: 20 May 2008,Pentecostalist,FY 2008,7,Dem. Rep. Congo,4,410
+From: 20 May 2008,To: 20 May 2008,Pentecostalist,FY 2008,7,Togo,3,410
+From: 20 May 2008,To: 20 May 2008,Sabeans-Mandean,FY 2008,2,Iraq,2,410
+From: 20 May 2008,To: 20 May 2008,Zoroastrian,FY 2008,3,Iran,3,410
+

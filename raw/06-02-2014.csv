@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jun 2014,To: 02 Jun 2014,Eritrea,FY 2014,7,Orthodox,7,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iran,FY 2014,35,Bahai,7,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iran,FY 2014,35,Christian,19,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iran,FY 2014,35,Moslem Shiite,2,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iran,FY 2014,35,Protestant,1,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iran,FY 2014,35,Zoroastrian,6,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iraq,FY 2014,88,Catholic,10,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iraq,FY 2014,88,Moslem Shiite,34,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iraq,FY 2014,88,Moslem Suni,36,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iraq,FY 2014,88,Orthodox,3,161
+From: 02 Jun 2014,To: 02 Jun 2014,Iraq,FY 2014,88,Sabeans-Mandean,5,161
+From: 02 Jun 2014,To: 02 Jun 2014,Kazakhstan,FY 2014,3,Pentecostalist,3,161
+From: 02 Jun 2014,To: 02 Jun 2014,Somalia,FY 2014,26,Moslem,4,161
+From: 02 Jun 2014,To: 02 Jun 2014,Somalia,FY 2014,26,Moslem Suni,22,161
+From: 02 Jun 2014,To: 02 Jun 2014,Sudan,FY 2014,2,Moslem Suni,2,161
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jun 2014,To: 02 Jun 2014,Bahai,FY 2014,7,Iran,7,161
+From: 02 Jun 2014,To: 02 Jun 2014,Catholic,FY 2014,10,Iraq,10,161
+From: 02 Jun 2014,To: 02 Jun 2014,Christian,FY 2014,19,Iran,19,161
+From: 02 Jun 2014,To: 02 Jun 2014,Moslem,FY 2014,4,Somalia,4,161
+From: 02 Jun 2014,To: 02 Jun 2014,Moslem Shiite,FY 2014,36,Iran,2,161
+From: 02 Jun 2014,To: 02 Jun 2014,Moslem Shiite,FY 2014,36,Iraq,34,161
+From: 02 Jun 2014,To: 02 Jun 2014,Moslem Suni,FY 2014,60,Iraq,36,161
+From: 02 Jun 2014,To: 02 Jun 2014,Moslem Suni,FY 2014,60,Somalia,22,161
+From: 02 Jun 2014,To: 02 Jun 2014,Moslem Suni,FY 2014,60,Sudan,2,161
+From: 02 Jun 2014,To: 02 Jun 2014,Orthodox,FY 2014,10,Eritrea,7,161
+From: 02 Jun 2014,To: 02 Jun 2014,Orthodox,FY 2014,10,Iraq,3,161
+From: 02 Jun 2014,To: 02 Jun 2014,Pentecostalist,FY 2014,3,Kazakhstan,3,161
+From: 02 Jun 2014,To: 02 Jun 2014,Protestant,FY 2014,1,Iran,1,161
+From: 02 Jun 2014,To: 02 Jun 2014,Sabeans-Mandean,FY 2014,5,Iraq,5,161
+From: 02 Jun 2014,To: 02 Jun 2014,Zoroastrian,FY 2014,6,Iran,6,161
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jan 2004,To: 21 Jan 2004,Azerbaijan,FY 2004,1,Unknown,1,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,Catholic,12,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,Christian,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,Evangelical Christian,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,Jehovah Witness,5,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,Methodist,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,No Religion,6,221
+From: 21 Jan 2004,To: 21 Jan 2004,Cuba,FY 2004,35,Seventh Day Adventist,2,221
+From: 21 Jan 2004,To: 21 Jan 2004,Ethiopia,FY 2004,14,Christian,14,221
+From: 21 Jan 2004,To: 21 Jan 2004,Latvia,FY 2004,1,Unknown,1,221
+From: 21 Jan 2004,To: 21 Jan 2004,Liberia,FY 2004,16,Christian,5,221
+From: 21 Jan 2004,To: 21 Jan 2004,Liberia,FY 2004,16,Lutheran,6,221
+From: 21 Jan 2004,To: 21 Jan 2004,Liberia,FY 2004,16,Moslem,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Liberia,FY 2004,16,Pentecostalist,2,221
+From: 21 Jan 2004,To: 21 Jan 2004,Russia,FY 2004,29,Baptist,7,221
+From: 21 Jan 2004,To: 21 Jan 2004,Russia,FY 2004,29,Jewish,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Russia,FY 2004,29,Orthodox,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Russia,FY 2004,29,Pentecostalist,11,221
+From: 21 Jan 2004,To: 21 Jan 2004,Russia,FY 2004,29,Unknown,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Sierra Leone,FY 2004,22,Baptist,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Sierra Leone,FY 2004,22,Christian,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Sierra Leone,FY 2004,22,Methodist,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Sierra Leone,FY 2004,22,Moslem,12,221
+From: 21 Jan 2004,To: 21 Jan 2004,Somalia,FY 2004,50,Moslem,50,221
+From: 21 Jan 2004,To: 21 Jan 2004,Sudan,FY 2004,26,Catholic,17,221
+From: 21 Jan 2004,To: 21 Jan 2004,Sudan,FY 2004,26,Moslem,9,221
+From: 21 Jan 2004,To: 21 Jan 2004,Ukraine,FY 2004,27,Baptist,12,221
+From: 21 Jan 2004,To: 21 Jan 2004,Ukraine,FY 2004,27,Jewish,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Ukraine,FY 2004,27,Pentecostalist,11,221
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jan 2004,To: 21 Jan 2004,Baptist,FY 2004,22,Russia,7,221
+From: 21 Jan 2004,To: 21 Jan 2004,Baptist,FY 2004,22,Sierra Leone,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Baptist,FY 2004,22,Ukraine,12,221
+From: 21 Jan 2004,To: 21 Jan 2004,Catholic,FY 2004,29,Cuba,12,221
+From: 21 Jan 2004,To: 21 Jan 2004,Catholic,FY 2004,29,Sudan,17,221
+From: 21 Jan 2004,To: 21 Jan 2004,Christian,FY 2004,27,Cuba,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Christian,FY 2004,27,Ethiopia,14,221
+From: 21 Jan 2004,To: 21 Jan 2004,Christian,FY 2004,27,Liberia,5,221
+From: 21 Jan 2004,To: 21 Jan 2004,Christian,FY 2004,27,Sierra Leone,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Evangelical Christian,FY 2004,3,Cuba,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Jehovah Witness,FY 2004,5,Cuba,5,221
+From: 21 Jan 2004,To: 21 Jan 2004,Jewish,FY 2004,8,Russia,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Jewish,FY 2004,8,Ukraine,4,221
+From: 21 Jan 2004,To: 21 Jan 2004,Lutheran,FY 2004,6,Liberia,6,221
+From: 21 Jan 2004,To: 21 Jan 2004,Methodist,FY 2004,6,Cuba,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Methodist,FY 2004,6,Sierra Leone,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Moslem,FY 2004,74,Liberia,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Moslem,FY 2004,74,Sierra Leone,12,221
+From: 21 Jan 2004,To: 21 Jan 2004,Moslem,FY 2004,74,Somalia,50,221
+From: 21 Jan 2004,To: 21 Jan 2004,Moslem,FY 2004,74,Sudan,9,221
+From: 21 Jan 2004,To: 21 Jan 2004,No Religion,FY 2004,6,Cuba,6,221
+From: 21 Jan 2004,To: 21 Jan 2004,Orthodox,FY 2004,3,Russia,3,221
+From: 21 Jan 2004,To: 21 Jan 2004,Pentecostalist,FY 2004,24,Liberia,2,221
+From: 21 Jan 2004,To: 21 Jan 2004,Pentecostalist,FY 2004,24,Russia,11,221
+From: 21 Jan 2004,To: 21 Jan 2004,Pentecostalist,FY 2004,24,Ukraine,11,221
+From: 21 Jan 2004,To: 21 Jan 2004,Seventh Day Adventist,FY 2004,2,Cuba,2,221
+From: 21 Jan 2004,To: 21 Jan 2004,Unknown,FY 2004,6,Azerbaijan,1,221
+From: 21 Jan 2004,To: 21 Jan 2004,Unknown,FY 2004,6,Latvia,1,221
+From: 21 Jan 2004,To: 21 Jan 2004,Unknown,FY 2004,6,Russia,4,221
+

@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jul 2016,To: 25 Jul 2016,Afghanistan,FY 2016,1,Moslem Shiite,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Bhutan,FY 2016,49,Buddhist,9,501
+From: 25 Jul 2016,To: 25 Jul 2016,Bhutan,FY 2016,49,Christian,29,501
+From: 25 Jul 2016,To: 25 Jul 2016,Bhutan,FY 2016,49,Hindu,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Bhutan,FY 2016,49,Kirat,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Burundi,FY 2016,2,Pentecostalist,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Dem. Rep. Congo,FY 2016,60,Catholic,16,501
+From: 25 Jul 2016,To: 25 Jul 2016,Dem. Rep. Congo,FY 2016,60,Christian,21,501
+From: 25 Jul 2016,To: 25 Jul 2016,Dem. Rep. Congo,FY 2016,60,Jehovah Witness,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Dem. Rep. Congo,FY 2016,60,Methodist,13,501
+From: 25 Jul 2016,To: 25 Jul 2016,Dem. Rep. Congo,FY 2016,60,Protestant,7,501
+From: 25 Jul 2016,To: 25 Jul 2016,Ethiopia,FY 2016,2,Protestant,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iran,FY 2016,11,Moslem Shiite,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iran,FY 2016,11,Protestant,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iraq,FY 2016,50,Christian,5,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iraq,FY 2016,50,Moslem,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iraq,FY 2016,50,Moslem Shiite,10,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iraq,FY 2016,50,Moslem Suni,31,501
+From: 25 Jul 2016,To: 25 Jul 2016,Iraq,FY 2016,50,Orthodox,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Russia,FY 2016,16,Baptist,4,501
+From: 25 Jul 2016,To: 25 Jul 2016,Russia,FY 2016,16,Evangelical Christian,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Russia,FY 2016,16,Jehovah Witness,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Russia,FY 2016,16,Jewish,4,501
+From: 25 Jul 2016,To: 25 Jul 2016,Russia,FY 2016,16,Pentecostalist,6,501
+From: 25 Jul 2016,To: 25 Jul 2016,Somalia,FY 2016,74,Moslem,60,501
+From: 25 Jul 2016,To: 25 Jul 2016,Somalia,FY 2016,74,Moslem Suni,14,501
+From: 25 Jul 2016,To: 25 Jul 2016,Sudan,FY 2016,9,Evangelical Christian,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Sudan,FY 2016,9,Moslem,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Syria,FY 2016,183,Moslem Shiite,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Syria,FY 2016,183,Moslem Suni,180,501
+From: 25 Jul 2016,To: 25 Jul 2016,Ukraine,FY 2016,42,Baptist,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Ukraine,FY 2016,42,Pentecostalist,28,501
+From: 25 Jul 2016,To: 25 Jul 2016,Ukraine,FY 2016,42,Uniate,6,501
+From: 25 Jul 2016,To: 25 Jul 2016,Uzbekistan,FY 2016,2,Evangelical Christian,2,501
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jul 2016,To: 25 Jul 2016,Baptist,FY 2016,12,Russia,4,501
+From: 25 Jul 2016,To: 25 Jul 2016,Baptist,FY 2016,12,Ukraine,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Buddhist,FY 2016,9,Bhutan,9,501
+From: 25 Jul 2016,To: 25 Jul 2016,Catholic,FY 2016,16,Dem. Rep. Congo,16,501
+From: 25 Jul 2016,To: 25 Jul 2016,Christian,FY 2016,55,Bhutan,29,501
+From: 25 Jul 2016,To: 25 Jul 2016,Christian,FY 2016,55,Dem. Rep. Congo,21,501
+From: 25 Jul 2016,To: 25 Jul 2016,Christian,FY 2016,55,Iraq,5,501
+From: 25 Jul 2016,To: 25 Jul 2016,Evangelical Christian,FY 2016,4,Russia,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Evangelical Christian,FY 2016,4,Sudan,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Evangelical Christian,FY 2016,4,Uzbekistan,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Hindu,FY 2016,3,Bhutan,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Jehovah Witness,FY 2016,4,Dem. Rep. Congo,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Jehovah Witness,FY 2016,4,Russia,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Jewish,FY 2016,4,Russia,4,501
+From: 25 Jul 2016,To: 25 Jul 2016,Kirat,FY 2016,8,Bhutan,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Methodist,FY 2016,13,Dem. Rep. Congo,13,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem,FY 2016,70,Iraq,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem,FY 2016,70,Somalia,60,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem,FY 2016,70,Sudan,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Shiite,FY 2016,17,Afghanistan,1,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Shiite,FY 2016,17,Iran,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Shiite,FY 2016,17,Iraq,10,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Shiite,FY 2016,17,Syria,3,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Suni,FY 2016,225,Iraq,31,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Suni,FY 2016,225,Somalia,14,501
+From: 25 Jul 2016,To: 25 Jul 2016,Moslem Suni,FY 2016,225,Syria,180,501
+From: 25 Jul 2016,To: 25 Jul 2016,Orthodox,FY 2016,2,Iraq,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Pentecostalist,FY 2016,36,Burundi,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Pentecostalist,FY 2016,36,Russia,6,501
+From: 25 Jul 2016,To: 25 Jul 2016,Pentecostalist,FY 2016,36,Ukraine,28,501
+From: 25 Jul 2016,To: 25 Jul 2016,Protestant,FY 2016,17,Dem. Rep. Congo,7,501
+From: 25 Jul 2016,To: 25 Jul 2016,Protestant,FY 2016,17,Ethiopia,2,501
+From: 25 Jul 2016,To: 25 Jul 2016,Protestant,FY 2016,17,Iran,8,501
+From: 25 Jul 2016,To: 25 Jul 2016,Uniate,FY 2016,6,Ukraine,6,501
+

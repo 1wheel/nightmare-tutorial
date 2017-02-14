@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Oct 2008,To: 16 Oct 2008,Bhutan,FY 2009,27,Buddhist,6,313
+From: 16 Oct 2008,To: 16 Oct 2008,Bhutan,FY 2009,27,Christian,5,313
+From: 16 Oct 2008,To: 16 Oct 2008,Bhutan,FY 2009,27,Hindu,15,313
+From: 16 Oct 2008,To: 16 Oct 2008,Bhutan,FY 2009,27,Kirat,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Burma,FY 2009,66,Baptist,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Burma,FY 2009,66,Buddhist,9,313
+From: 16 Oct 2008,To: 16 Oct 2008,Burma,FY 2009,66,Christian,52,313
+From: 16 Oct 2008,To: 16 Oct 2008,Burma,FY 2009,66,Moslem,3,313
+From: 16 Oct 2008,To: 16 Oct 2008,Cuba,FY 2009,68,Catholic,24,313
+From: 16 Oct 2008,To: 16 Oct 2008,Cuba,FY 2009,68,Evangelical Christian,10,313
+From: 16 Oct 2008,To: 16 Oct 2008,Cuba,FY 2009,68,Jehovah Witness,10,313
+From: 16 Oct 2008,To: 16 Oct 2008,Cuba,FY 2009,68,No Religion,24,313
+From: 16 Oct 2008,To: 16 Oct 2008,Dem. Rep. Congo,FY 2009,3,Pentecostalist,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Dem. Rep. Congo,FY 2009,3,Protestant,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Ethiopia,FY 2009,7,Christian,3,313
+From: 16 Oct 2008,To: 16 Oct 2008,Ethiopia,FY 2009,7,Moslem,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Ethiopia,FY 2009,7,Orthodox,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iran,FY 2009,70,Bahai,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iran,FY 2009,70,Christian,67,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iran,FY 2009,70,Zoroastrian,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iraq,FY 2009,60,Catholic,5,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iraq,FY 2009,60,Christian,19,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iraq,FY 2009,60,Moslem Shiite,11,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iraq,FY 2009,60,Moslem Suni,20,313
+From: 16 Oct 2008,To: 16 Oct 2008,Iraq,FY 2009,60,Orthodox,5,313
+From: 16 Oct 2008,To: 16 Oct 2008,Somalia,FY 2009,8,Christian,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Somalia,FY 2009,8,Moslem,6,313
+From: 16 Oct 2008,To: 16 Oct 2008,Somalia,FY 2009,8,Moslem Suni,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Sudan,FY 2009,4,Catholic,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Sudan,FY 2009,4,Christian,2,313
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Oct 2008,To: 16 Oct 2008,Bahai,FY 2009,2,Iran,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Baptist,FY 2009,2,Burma,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Buddhist,FY 2009,15,Bhutan,6,313
+From: 16 Oct 2008,To: 16 Oct 2008,Buddhist,FY 2009,15,Burma,9,313
+From: 16 Oct 2008,To: 16 Oct 2008,Catholic,FY 2009,31,Cuba,24,313
+From: 16 Oct 2008,To: 16 Oct 2008,Catholic,FY 2009,31,Iraq,5,313
+From: 16 Oct 2008,To: 16 Oct 2008,Catholic,FY 2009,31,Sudan,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Bhutan,5,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Burma,52,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Ethiopia,3,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Iran,67,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Iraq,19,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Somalia,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Christian,FY 2009,149,Sudan,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Evangelical Christian,FY 2009,10,Cuba,10,313
+From: 16 Oct 2008,To: 16 Oct 2008,Hindu,FY 2009,15,Bhutan,15,313
+From: 16 Oct 2008,To: 16 Oct 2008,Jehovah Witness,FY 2009,10,Cuba,10,313
+From: 16 Oct 2008,To: 16 Oct 2008,Kirat,FY 2009,1,Bhutan,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Moslem,FY 2009,11,Burma,3,313
+From: 16 Oct 2008,To: 16 Oct 2008,Moslem,FY 2009,11,Ethiopia,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Moslem,FY 2009,11,Somalia,6,313
+From: 16 Oct 2008,To: 16 Oct 2008,Moslem Shiite,FY 2009,11,Iraq,11,313
+From: 16 Oct 2008,To: 16 Oct 2008,Moslem Suni,FY 2009,21,Iraq,20,313
+From: 16 Oct 2008,To: 16 Oct 2008,Moslem Suni,FY 2009,21,Somalia,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,No Religion,FY 2009,24,Cuba,24,313
+From: 16 Oct 2008,To: 16 Oct 2008,Orthodox,FY 2009,7,Ethiopia,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Orthodox,FY 2009,7,Iraq,5,313
+From: 16 Oct 2008,To: 16 Oct 2008,Pentecostalist,FY 2009,1,Dem. Rep. Congo,1,313
+From: 16 Oct 2008,To: 16 Oct 2008,Protestant,FY 2009,2,Dem. Rep. Congo,2,313
+From: 16 Oct 2008,To: 16 Oct 2008,Zoroastrian,FY 2009,1,Iran,1,313
+

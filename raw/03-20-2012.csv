@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Mar 2012,To: 20 Mar 2012,Afghanistan,FY 2012,5,Moslem Suni,5,140
+From: 20 Mar 2012,To: 20 Mar 2012,Azerbaijan,FY 2012,6,Jewish,6,140
+From: 20 Mar 2012,To: 20 Mar 2012,Bhutan,FY 2012,35,Buddhist,10,140
+From: 20 Mar 2012,To: 20 Mar 2012,Bhutan,FY 2012,35,Christian,2,140
+From: 20 Mar 2012,To: 20 Mar 2012,Bhutan,FY 2012,35,Hindu,23,140
+From: 20 Mar 2012,To: 20 Mar 2012,Burma,FY 2012,34,Animist,9,140
+From: 20 Mar 2012,To: 20 Mar 2012,Burma,FY 2012,34,Buddhist,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Burma,FY 2012,34,Catholic,4,140
+From: 20 Mar 2012,To: 20 Mar 2012,Burma,FY 2012,34,Christian,20,140
+From: 20 Mar 2012,To: 20 Mar 2012,China,FY 2012,1,Unknown,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Dem. Rep. Congo,FY 2012,3,Catholic,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Dem. Rep. Congo,FY 2012,3,Protestant,2,140
+From: 20 Mar 2012,To: 20 Mar 2012,Iraq,FY 2012,40,Christian,25,140
+From: 20 Mar 2012,To: 20 Mar 2012,Iraq,FY 2012,40,Moslem Shiite,11,140
+From: 20 Mar 2012,To: 20 Mar 2012,Iraq,FY 2012,40,Moslem Suni,4,140
+From: 20 Mar 2012,To: 20 Mar 2012,Jordan,FY 2012,1,Moslem Suni,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Palestine,FY 2012,3,Moslem Suni,3,140
+From: 20 Mar 2012,To: 20 Mar 2012,Somalia,FY 2012,12,Moslem,12,140
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Mar 2012,To: 20 Mar 2012,Animist,FY 2012,9,Burma,9,140
+From: 20 Mar 2012,To: 20 Mar 2012,Buddhist,FY 2012,11,Bhutan,10,140
+From: 20 Mar 2012,To: 20 Mar 2012,Buddhist,FY 2012,11,Burma,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Catholic,FY 2012,5,Burma,4,140
+From: 20 Mar 2012,To: 20 Mar 2012,Catholic,FY 2012,5,Dem. Rep. Congo,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Christian,FY 2012,47,Bhutan,2,140
+From: 20 Mar 2012,To: 20 Mar 2012,Christian,FY 2012,47,Burma,20,140
+From: 20 Mar 2012,To: 20 Mar 2012,Christian,FY 2012,47,Iraq,25,140
+From: 20 Mar 2012,To: 20 Mar 2012,Hindu,FY 2012,23,Bhutan,23,140
+From: 20 Mar 2012,To: 20 Mar 2012,Jewish,FY 2012,6,Azerbaijan,6,140
+From: 20 Mar 2012,To: 20 Mar 2012,Moslem,FY 2012,12,Somalia,12,140
+From: 20 Mar 2012,To: 20 Mar 2012,Moslem Shiite,FY 2012,11,Iraq,11,140
+From: 20 Mar 2012,To: 20 Mar 2012,Moslem Suni,FY 2012,13,Afghanistan,5,140
+From: 20 Mar 2012,To: 20 Mar 2012,Moslem Suni,FY 2012,13,Iraq,4,140
+From: 20 Mar 2012,To: 20 Mar 2012,Moslem Suni,FY 2012,13,Jordan,1,140
+From: 20 Mar 2012,To: 20 Mar 2012,Moslem Suni,FY 2012,13,Palestine,3,140
+From: 20 Mar 2012,To: 20 Mar 2012,Protestant,FY 2012,2,Dem. Rep. Congo,2,140
+From: 20 Mar 2012,To: 20 Mar 2012,Unknown,FY 2012,1,China,1,140
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Feb 2008,To: 26 Feb 2008,Burma,FY 2008,166,Baptist,4,356
+From: 26 Feb 2008,To: 26 Feb 2008,Burma,FY 2008,166,Buddhist,31,356
+From: 26 Feb 2008,To: 26 Feb 2008,Burma,FY 2008,166,Christian,105,356
+From: 26 Feb 2008,To: 26 Feb 2008,Burma,FY 2008,166,Moslem,26,356
+From: 26 Feb 2008,To: 26 Feb 2008,Cuba,FY 2008,34,Baptist,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Cuba,FY 2008,34,Catholic,19,356
+From: 26 Feb 2008,To: 26 Feb 2008,Cuba,FY 2008,34,Jehovah Witness,5,356
+From: 26 Feb 2008,To: 26 Feb 2008,Cuba,FY 2008,34,No Religion,7,356
+From: 26 Feb 2008,To: 26 Feb 2008,Eritrea,FY 2008,14,Catholic,13,356
+From: 26 Feb 2008,To: 26 Feb 2008,Eritrea,FY 2008,14,Orthodox,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Ethiopia,FY 2008,3,Christian,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iran,FY 2008,70,Bahai,2,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iran,FY 2008,70,Christian,65,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iran,FY 2008,70,Sabeans-Mandean,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iraq,FY 2008,55,Catholic,21,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iraq,FY 2008,55,Christian,7,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iraq,FY 2008,55,Moslem Shiite,4,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iraq,FY 2008,55,Moslem Suni,18,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iraq,FY 2008,55,Orthodox,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Iraq,FY 2008,55,Sabeans-Mandean,4,356
+From: 26 Feb 2008,To: 26 Feb 2008,Ivory Coast,FY 2008,9,Christian,9,356
+From: 26 Feb 2008,To: 26 Feb 2008,Liberia,FY 2008,1,Christian,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Somalia,FY 2008,1,Moslem,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Togo,FY 2008,3,Christian,3,356
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Feb 2008,To: 26 Feb 2008,Bahai,FY 2008,2,Iran,2,356
+From: 26 Feb 2008,To: 26 Feb 2008,Baptist,FY 2008,7,Burma,4,356
+From: 26 Feb 2008,To: 26 Feb 2008,Baptist,FY 2008,7,Cuba,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Buddhist,FY 2008,31,Burma,31,356
+From: 26 Feb 2008,To: 26 Feb 2008,Catholic,FY 2008,53,Cuba,19,356
+From: 26 Feb 2008,To: 26 Feb 2008,Catholic,FY 2008,53,Eritrea,13,356
+From: 26 Feb 2008,To: 26 Feb 2008,Catholic,FY 2008,53,Iraq,21,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Burma,105,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Ethiopia,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Iran,65,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Iraq,7,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Ivory Coast,9,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Liberia,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Christian,FY 2008,193,Togo,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Jehovah Witness,FY 2008,5,Cuba,5,356
+From: 26 Feb 2008,To: 26 Feb 2008,Moslem,FY 2008,27,Burma,26,356
+From: 26 Feb 2008,To: 26 Feb 2008,Moslem,FY 2008,27,Somalia,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Moslem Shiite,FY 2008,4,Iraq,4,356
+From: 26 Feb 2008,To: 26 Feb 2008,Moslem Suni,FY 2008,18,Iraq,18,356
+From: 26 Feb 2008,To: 26 Feb 2008,No Religion,FY 2008,7,Cuba,7,356
+From: 26 Feb 2008,To: 26 Feb 2008,Orthodox,FY 2008,2,Eritrea,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Orthodox,FY 2008,2,Iraq,1,356
+From: 26 Feb 2008,To: 26 Feb 2008,Sabeans-Mandean,FY 2008,7,Iran,3,356
+From: 26 Feb 2008,To: 26 Feb 2008,Sabeans-Mandean,FY 2008,7,Iraq,4,356
+

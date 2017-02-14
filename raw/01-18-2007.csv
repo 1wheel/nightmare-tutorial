@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jan 2007,To: 18 Jan 2007,Burma,FY 2007,24,Christian,24,364
+From: 18 Jan 2007,To: 18 Jan 2007,Cuba,FY 2007,70,Catholic,27,364
+From: 18 Jan 2007,To: 18 Jan 2007,Cuba,FY 2007,70,Jehovah Witness,4,364
+From: 18 Jan 2007,To: 18 Jan 2007,Cuba,FY 2007,70,No Religion,36,364
+From: 18 Jan 2007,To: 18 Jan 2007,Cuba,FY 2007,70,Pentecostalist,3,364
+From: 18 Jan 2007,To: 18 Jan 2007,Ethiopia,FY 2007,1,Protestant,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Iran,FY 2007,70,Bahai,3,364
+From: 18 Jan 2007,To: 18 Jan 2007,Iran,FY 2007,70,Christian,57,364
+From: 18 Jan 2007,To: 18 Jan 2007,Iran,FY 2007,70,Jewish,6,364
+From: 18 Jan 2007,To: 18 Jan 2007,Iran,FY 2007,70,Zoroastrian,4,364
+From: 18 Jan 2007,To: 18 Jan 2007,Liberia,FY 2007,36,Baptist,6,364
+From: 18 Jan 2007,To: 18 Jan 2007,Liberia,FY 2007,36,Christian,14,364
+From: 18 Jan 2007,To: 18 Jan 2007,Liberia,FY 2007,36,Lutheran,7,364
+From: 18 Jan 2007,To: 18 Jan 2007,Liberia,FY 2007,36,Pentecostalist,9,364
+From: 18 Jan 2007,To: 18 Jan 2007,Nigeria,FY 2007,8,Christian,8,364
+From: 18 Jan 2007,To: 18 Jan 2007,Russia,FY 2007,33,Moslem,33,364
+From: 18 Jan 2007,To: 18 Jan 2007,Rwanda,FY 2007,29,Catholic,17,364
+From: 18 Jan 2007,To: 18 Jan 2007,Rwanda,FY 2007,29,Evangelical Christian,4,364
+From: 18 Jan 2007,To: 18 Jan 2007,Rwanda,FY 2007,29,Moslem,2,364
+From: 18 Jan 2007,To: 18 Jan 2007,Rwanda,FY 2007,29,Protestant,5,364
+From: 18 Jan 2007,To: 18 Jan 2007,Rwanda,FY 2007,29,Seventh Day Adventist,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Somalia,FY 2007,42,Moslem,42,364
+From: 18 Jan 2007,To: 18 Jan 2007,Togo,FY 2007,1,Catholic,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Ukraine,FY 2007,27,Baptist,9,364
+From: 18 Jan 2007,To: 18 Jan 2007,Ukraine,FY 2007,27,Pentecostalist,18,364
+From: 18 Jan 2007,To: 18 Jan 2007,Vietnam,FY 2007,23,Ancestral Worship,6,364
+From: 18 Jan 2007,To: 18 Jan 2007,Vietnam,FY 2007,23,Buddhist,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Vietnam,FY 2007,23,Cao Dai,5,364
+From: 18 Jan 2007,To: 18 Jan 2007,Vietnam,FY 2007,23,Catholic,10,364
+From: 18 Jan 2007,To: 18 Jan 2007,Vietnam,FY 2007,23,No Religion,1,364
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jan 2007,To: 18 Jan 2007,Ancestral Worship,FY 2007,6,Vietnam,6,364
+From: 18 Jan 2007,To: 18 Jan 2007,Bahai,FY 2007,3,Iran,3,364
+From: 18 Jan 2007,To: 18 Jan 2007,Baptist,FY 2007,15,Liberia,6,364
+From: 18 Jan 2007,To: 18 Jan 2007,Baptist,FY 2007,15,Ukraine,9,364
+From: 18 Jan 2007,To: 18 Jan 2007,Buddhist,FY 2007,1,Vietnam,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Cao Dai,FY 2007,5,Vietnam,5,364
+From: 18 Jan 2007,To: 18 Jan 2007,Catholic,FY 2007,55,Cuba,27,364
+From: 18 Jan 2007,To: 18 Jan 2007,Catholic,FY 2007,55,Rwanda,17,364
+From: 18 Jan 2007,To: 18 Jan 2007,Catholic,FY 2007,55,Togo,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Catholic,FY 2007,55,Vietnam,10,364
+From: 18 Jan 2007,To: 18 Jan 2007,Christian,FY 2007,103,Burma,24,364
+From: 18 Jan 2007,To: 18 Jan 2007,Christian,FY 2007,103,Iran,57,364
+From: 18 Jan 2007,To: 18 Jan 2007,Christian,FY 2007,103,Liberia,14,364
+From: 18 Jan 2007,To: 18 Jan 2007,Christian,FY 2007,103,Nigeria,8,364
+From: 18 Jan 2007,To: 18 Jan 2007,Evangelical Christian,FY 2007,4,Rwanda,4,364
+From: 18 Jan 2007,To: 18 Jan 2007,Jehovah Witness,FY 2007,4,Cuba,4,364
+From: 18 Jan 2007,To: 18 Jan 2007,Jewish,FY 2007,6,Iran,6,364
+From: 18 Jan 2007,To: 18 Jan 2007,Lutheran,FY 2007,7,Liberia,7,364
+From: 18 Jan 2007,To: 18 Jan 2007,Moslem,FY 2007,77,Russia,33,364
+From: 18 Jan 2007,To: 18 Jan 2007,Moslem,FY 2007,77,Rwanda,2,364
+From: 18 Jan 2007,To: 18 Jan 2007,Moslem,FY 2007,77,Somalia,42,364
+From: 18 Jan 2007,To: 18 Jan 2007,No Religion,FY 2007,37,Cuba,36,364
+From: 18 Jan 2007,To: 18 Jan 2007,No Religion,FY 2007,37,Vietnam,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Pentecostalist,FY 2007,30,Cuba,3,364
+From: 18 Jan 2007,To: 18 Jan 2007,Pentecostalist,FY 2007,30,Liberia,9,364
+From: 18 Jan 2007,To: 18 Jan 2007,Pentecostalist,FY 2007,30,Ukraine,18,364
+From: 18 Jan 2007,To: 18 Jan 2007,Protestant,FY 2007,6,Ethiopia,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Protestant,FY 2007,6,Rwanda,5,364
+From: 18 Jan 2007,To: 18 Jan 2007,Seventh Day Adventist,FY 2007,1,Rwanda,1,364
+From: 18 Jan 2007,To: 18 Jan 2007,Zoroastrian,FY 2007,4,Iran,4,364
+

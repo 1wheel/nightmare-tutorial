@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 May 2005,To: 03 May 2005,Dem. Rep. Congo,FY 2005,4,Unknown,4,71
+From: 03 May 2005,To: 03 May 2005,Eritrea,FY 2005,5,Moslem,5,71
+From: 03 May 2005,To: 03 May 2005,Laos,FY 2005,26,Ancestral Worship,25,71
+From: 03 May 2005,To: 03 May 2005,Laos,FY 2005,26,Christian,1,71
+From: 03 May 2005,To: 03 May 2005,Liberia,FY 2005,7,Catholic,1,71
+From: 03 May 2005,To: 03 May 2005,Liberia,FY 2005,7,Christian,6,71
+From: 03 May 2005,To: 03 May 2005,Rwanda,FY 2005,5,Christian,5,71
+From: 03 May 2005,To: 03 May 2005,Somalia,FY 2005,24,Moslem,24,71
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 May 2005,To: 03 May 2005,Ancestral Worship,FY 2005,25,Laos,25,71
+From: 03 May 2005,To: 03 May 2005,Catholic,FY 2005,1,Liberia,1,71
+From: 03 May 2005,To: 03 May 2005,Christian,FY 2005,12,Laos,1,71
+From: 03 May 2005,To: 03 May 2005,Christian,FY 2005,12,Liberia,6,71
+From: 03 May 2005,To: 03 May 2005,Christian,FY 2005,12,Rwanda,5,71
+From: 03 May 2005,To: 03 May 2005,Moslem,FY 2005,29,Eritrea,5,71
+From: 03 May 2005,To: 03 May 2005,Moslem,FY 2005,29,Somalia,24,71
+From: 03 May 2005,To: 03 May 2005,Unknown,FY 2005,4,Dem. Rep. Congo,4,71
+

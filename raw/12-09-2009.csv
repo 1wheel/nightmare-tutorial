@@ -1,0 +1,89 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Dec 2009,To: 09 Dec 2009,Afghanistan,FY 2010,5,Moslem Shiite,5,635
+From: 09 Dec 2009,To: 09 Dec 2009,Azerbaijan,FY 2010,4,Christian,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Bhutan,FY 2010,69,Buddhist,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Bhutan,FY 2010,69,Christian,7,635
+From: 09 Dec 2009,To: 09 Dec 2009,Bhutan,FY 2010,69,Hindu,51,635
+From: 09 Dec 2009,To: 09 Dec 2009,Burma,FY 2010,118,Buddhist,32,635
+From: 09 Dec 2009,To: 09 Dec 2009,Burma,FY 2010,118,Catholic,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Burma,FY 2010,118,Christian,77,635
+From: 09 Dec 2009,To: 09 Dec 2009,Burma,FY 2010,118,Moslem,6,635
+From: 09 Dec 2009,To: 09 Dec 2009,Cuba,FY 2010,6,No Religion,6,635
+From: 09 Dec 2009,To: 09 Dec 2009,Dem. Rep. Congo,FY 2010,6,Pentecostalist,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Dem. Rep. Congo,FY 2010,6,Protestant,5,635
+From: 09 Dec 2009,To: 09 Dec 2009,Ethiopia,FY 2010,4,Moslem,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iran,FY 2010,89,Bahai,22,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iran,FY 2010,89,Christian,60,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iran,FY 2010,89,Jewish,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iran,FY 2010,89,Zoroastrian,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Catholic,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Christian,57,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Moslem,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Moslem Shiite,30,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Moslem Suni,99,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Orthodox,8,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Protestant,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Iraq,FY 2010,213,Sabeans-Mandean,6,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moldova,FY 2010,30,Baptist,15,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moldova,FY 2010,30,Evangelical Christian,2,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moldova,FY 2010,30,Jehovah Witness,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moldova,FY 2010,30,Pentecostalist,12,635
+From: 09 Dec 2009,To: 09 Dec 2009,Rwanda,FY 2010,5,Catholic,5,635
+From: 09 Dec 2009,To: 09 Dec 2009,Somalia,FY 2010,26,Moslem,26,635
+From: 09 Dec 2009,To: 09 Dec 2009,Sudan,FY 2010,14,Christian,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Sudan,FY 2010,14,Moslem,10,635
+From: 09 Dec 2009,To: 09 Dec 2009,Ukraine,FY 2010,14,Baptist,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Ukraine,FY 2010,14,Evangelical Christian,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Ukraine,FY 2010,14,Pentecostalist,2,635
+From: 09 Dec 2009,To: 09 Dec 2009,Vietnam,FY 2010,32,Buddhist,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Vietnam,FY 2010,32,Catholic,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Vietnam,FY 2010,32,No Religion,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Vietnam,FY 2010,32,Protestant,12,635
+From: 09 Dec 2009,To: 09 Dec 2009,Vietnam,FY 2010,32,Unknown,3,635
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Dec 2009,To: 09 Dec 2009,Bahai,FY 2010,22,Iran,22,635
+From: 09 Dec 2009,To: 09 Dec 2009,Baptist,FY 2010,26,Moldova,15,635
+From: 09 Dec 2009,To: 09 Dec 2009,Baptist,FY 2010,26,Ukraine,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Buddhist,FY 2010,46,Bhutan,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Buddhist,FY 2010,46,Burma,32,635
+From: 09 Dec 2009,To: 09 Dec 2009,Buddhist,FY 2010,46,Vietnam,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Catholic,FY 2010,30,Burma,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Catholic,FY 2010,30,Iraq,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Catholic,FY 2010,30,Rwanda,5,635
+From: 09 Dec 2009,To: 09 Dec 2009,Catholic,FY 2010,30,Vietnam,11,635
+From: 09 Dec 2009,To: 09 Dec 2009,Christian,FY 2010,209,Azerbaijan,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Christian,FY 2010,209,Bhutan,7,635
+From: 09 Dec 2009,To: 09 Dec 2009,Christian,FY 2010,209,Burma,77,635
+From: 09 Dec 2009,To: 09 Dec 2009,Christian,FY 2010,209,Iran,60,635
+From: 09 Dec 2009,To: 09 Dec 2009,Christian,FY 2010,209,Iraq,57,635
+From: 09 Dec 2009,To: 09 Dec 2009,Christian,FY 2010,209,Sudan,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Evangelical Christian,FY 2010,3,Moldova,2,635
+From: 09 Dec 2009,To: 09 Dec 2009,Evangelical Christian,FY 2010,3,Ukraine,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Hindu,FY 2010,51,Bhutan,51,635
+From: 09 Dec 2009,To: 09 Dec 2009,Jehovah Witness,FY 2010,1,Moldova,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Jewish,FY 2010,3,Iran,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem,FY 2010,47,Burma,6,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem,FY 2010,47,Ethiopia,4,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem,FY 2010,47,Iraq,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem,FY 2010,47,Somalia,26,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem,FY 2010,47,Sudan,10,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem Shiite,FY 2010,35,Afghanistan,5,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem Shiite,FY 2010,35,Iraq,30,635
+From: 09 Dec 2009,To: 09 Dec 2009,Moslem Suni,FY 2010,99,Iraq,99,635
+From: 09 Dec 2009,To: 09 Dec 2009,No Religion,FY 2010,9,Cuba,6,635
+From: 09 Dec 2009,To: 09 Dec 2009,No Religion,FY 2010,9,Vietnam,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Orthodox,FY 2010,8,Iraq,8,635
+From: 09 Dec 2009,To: 09 Dec 2009,Pentecostalist,FY 2010,15,Dem. Rep. Congo,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Pentecostalist,FY 2010,15,Moldova,12,635
+From: 09 Dec 2009,To: 09 Dec 2009,Pentecostalist,FY 2010,15,Ukraine,2,635
+From: 09 Dec 2009,To: 09 Dec 2009,Protestant,FY 2010,18,Dem. Rep. Congo,5,635
+From: 09 Dec 2009,To: 09 Dec 2009,Protestant,FY 2010,18,Iraq,1,635
+From: 09 Dec 2009,To: 09 Dec 2009,Protestant,FY 2010,18,Vietnam,12,635
+From: 09 Dec 2009,To: 09 Dec 2009,Sabeans-Mandean,FY 2010,6,Iraq,6,635
+From: 09 Dec 2009,To: 09 Dec 2009,Unknown,FY 2010,3,Vietnam,3,635
+From: 09 Dec 2009,To: 09 Dec 2009,Zoroastrian,FY 2010,4,Iran,4,635
+

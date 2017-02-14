@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Apr 2015,To: 29 Apr 2015,Afghanistan,FY 2015,5,Moslem Shiite,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Afghanistan,FY 2015,5,Moslem Suni,2,250
+From: 29 Apr 2015,To: 29 Apr 2015,Bhutan,FY 2015,45,Buddhist,19,250
+From: 29 Apr 2015,To: 29 Apr 2015,Bhutan,FY 2015,45,Christian,15,250
+From: 29 Apr 2015,To: 29 Apr 2015,Bhutan,FY 2015,45,Hindu,8,250
+From: 29 Apr 2015,To: 29 Apr 2015,Bhutan,FY 2015,45,Kirat,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Burma,FY 2015,85,Buddhist,17,250
+From: 29 Apr 2015,To: 29 Apr 2015,Burma,FY 2015,85,Catholic,4,250
+From: 29 Apr 2015,To: 29 Apr 2015,Burma,FY 2015,85,Christian,49,250
+From: 29 Apr 2015,To: 29 Apr 2015,Burma,FY 2015,85,Hindu,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Burma,FY 2015,85,Moslem,14,250
+From: 29 Apr 2015,To: 29 Apr 2015,Central African Republic,FY 2015,1,Protestant,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Dem. Rep. Congo,FY 2015,19,Methodist,8,250
+From: 29 Apr 2015,To: 29 Apr 2015,Dem. Rep. Congo,FY 2015,19,Pentecostalist,11,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iran,FY 2015,30,Bahai,6,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iran,FY 2015,30,Christian,13,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iran,FY 2015,30,Jewish,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iran,FY 2015,30,Protestant,2,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iran,FY 2015,30,Sabeans-Mandean,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iran,FY 2015,30,Zoroastrian,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iraq,FY 2015,26,Moslem,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iraq,FY 2015,26,Moslem Shiite,10,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iraq,FY 2015,26,Moslem Suni,9,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iraq,FY 2015,26,Orthodox,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Iraq,FY 2015,26,Sabeans-Mandean,5,250
+From: 29 Apr 2015,To: 29 Apr 2015,Nepal,FY 2015,1,Hindu,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Pakistan,FY 2015,7,Christian,6,250
+From: 29 Apr 2015,To: 29 Apr 2015,Pakistan,FY 2015,7,Moslem Shiite,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Somalia,FY 2015,15,Moslem,15,250
+From: 29 Apr 2015,To: 29 Apr 2015,Sudan,FY 2015,8,Catholic,8,250
+From: 29 Apr 2015,To: 29 Apr 2015,Syria,FY 2015,4,Moslem Suni,4,250
+From: 29 Apr 2015,To: 29 Apr 2015,Vietnam,FY 2015,4,Catholic,4,250
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Apr 2015,To: 29 Apr 2015,Bahai,FY 2015,6,Iran,6,250
+From: 29 Apr 2015,To: 29 Apr 2015,Buddhist,FY 2015,36,Bhutan,19,250
+From: 29 Apr 2015,To: 29 Apr 2015,Buddhist,FY 2015,36,Burma,17,250
+From: 29 Apr 2015,To: 29 Apr 2015,Catholic,FY 2015,16,Burma,4,250
+From: 29 Apr 2015,To: 29 Apr 2015,Catholic,FY 2015,16,Sudan,8,250
+From: 29 Apr 2015,To: 29 Apr 2015,Catholic,FY 2015,16,Vietnam,4,250
+From: 29 Apr 2015,To: 29 Apr 2015,Christian,FY 2015,83,Bhutan,15,250
+From: 29 Apr 2015,To: 29 Apr 2015,Christian,FY 2015,83,Burma,49,250
+From: 29 Apr 2015,To: 29 Apr 2015,Christian,FY 2015,83,Iran,13,250
+From: 29 Apr 2015,To: 29 Apr 2015,Christian,FY 2015,83,Pakistan,6,250
+From: 29 Apr 2015,To: 29 Apr 2015,Hindu,FY 2015,10,Bhutan,8,250
+From: 29 Apr 2015,To: 29 Apr 2015,Hindu,FY 2015,10,Burma,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Hindu,FY 2015,10,Nepal,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Jewish,FY 2015,3,Iran,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Kirat,FY 2015,3,Bhutan,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Methodist,FY 2015,8,Dem. Rep. Congo,8,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem,FY 2015,30,Burma,14,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem,FY 2015,30,Iraq,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem,FY 2015,30,Somalia,15,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem Shiite,FY 2015,14,Afghanistan,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem Shiite,FY 2015,14,Iraq,10,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem Shiite,FY 2015,14,Pakistan,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem Suni,FY 2015,15,Afghanistan,2,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem Suni,FY 2015,15,Iraq,9,250
+From: 29 Apr 2015,To: 29 Apr 2015,Moslem Suni,FY 2015,15,Syria,4,250
+From: 29 Apr 2015,To: 29 Apr 2015,Orthodox,FY 2015,1,Iraq,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Pentecostalist,FY 2015,11,Dem. Rep. Congo,11,250
+From: 29 Apr 2015,To: 29 Apr 2015,Protestant,FY 2015,3,Central African Republic,1,250
+From: 29 Apr 2015,To: 29 Apr 2015,Protestant,FY 2015,3,Iran,2,250
+From: 29 Apr 2015,To: 29 Apr 2015,Sabeans-Mandean,FY 2015,8,Iran,3,250
+From: 29 Apr 2015,To: 29 Apr 2015,Sabeans-Mandean,FY 2015,8,Iraq,5,250
+From: 29 Apr 2015,To: 29 Apr 2015,Zoroastrian,FY 2015,3,Iran,3,250
+

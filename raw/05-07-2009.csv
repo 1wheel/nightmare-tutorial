@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 May 2009,To: 07 May 2009,Afghanistan,FY 2009,7,Moslem Suni,7,485
+From: 07 May 2009,To: 07 May 2009,Angola,FY 2009,3,Protestant,3,485
+From: 07 May 2009,To: 07 May 2009,Bhutan,FY 2009,88,Buddhist,7,485
+From: 07 May 2009,To: 07 May 2009,Bhutan,FY 2009,88,Hindu,76,485
+From: 07 May 2009,To: 07 May 2009,Bhutan,FY 2009,88,Kirat,5,485
+From: 07 May 2009,To: 07 May 2009,Burma,FY 2009,89,Animist,27,485
+From: 07 May 2009,To: 07 May 2009,Burma,FY 2009,89,Baptist,1,485
+From: 07 May 2009,To: 07 May 2009,Burma,FY 2009,89,Buddhist,7,485
+From: 07 May 2009,To: 07 May 2009,Burma,FY 2009,89,Catholic,3,485
+From: 07 May 2009,To: 07 May 2009,Burma,FY 2009,89,Christian,51,485
+From: 07 May 2009,To: 07 May 2009,Cambodia,FY 2009,4,Buddhist,4,485
+From: 07 May 2009,To: 07 May 2009,China,FY 2009,1,Other Religion,1,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,Baptist,4,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,Catholic,14,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,Jehovah Witness,9,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,No Religion,15,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,Pentecostalist,8,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,Protestant,2,485
+From: 07 May 2009,To: 07 May 2009,Cuba,FY 2009,55,Seventh Day Adventist,3,485
+From: 07 May 2009,To: 07 May 2009,Ethiopia,FY 2009,4,Moslem,4,485
+From: 07 May 2009,To: 07 May 2009,Iran,FY 2009,89,Bahai,19,485
+From: 07 May 2009,To: 07 May 2009,Iran,FY 2009,89,Christian,63,485
+From: 07 May 2009,To: 07 May 2009,Iran,FY 2009,89,Zoroastrian,7,485
+From: 07 May 2009,To: 07 May 2009,Iraq,FY 2009,77,Catholic,21,485
+From: 07 May 2009,To: 07 May 2009,Iraq,FY 2009,77,Christian,18,485
+From: 07 May 2009,To: 07 May 2009,Iraq,FY 2009,77,Moslem Shiite,13,485
+From: 07 May 2009,To: 07 May 2009,Iraq,FY 2009,77,Moslem Suni,11,485
+From: 07 May 2009,To: 07 May 2009,Iraq,FY 2009,77,Orthodox,6,485
+From: 07 May 2009,To: 07 May 2009,Iraq,FY 2009,77,Sabeans-Mandean,8,485
+From: 07 May 2009,To: 07 May 2009,Somalia,FY 2009,27,Moslem,27,485
+From: 07 May 2009,To: 07 May 2009,Sri Lanka (Ceylon),FY 2009,1,Hindu,1,485
+From: 07 May 2009,To: 07 May 2009,Vietnam,FY 2009,34,Ancestral Worship,4,485
+From: 07 May 2009,To: 07 May 2009,Vietnam,FY 2009,34,Buddhist,11,485
+From: 07 May 2009,To: 07 May 2009,Vietnam,FY 2009,34,Catholic,6,485
+From: 07 May 2009,To: 07 May 2009,Vietnam,FY 2009,34,No Religion,9,485
+From: 07 May 2009,To: 07 May 2009,Vietnam,FY 2009,34,Protestant,4,485
+From: 07 May 2009,To: 07 May 2009,Zimbabwe,FY 2009,6,Methodist,6,485
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 May 2009,To: 07 May 2009,Ancestral Worship,FY 2009,4,Vietnam,4,485
+From: 07 May 2009,To: 07 May 2009,Animist,FY 2009,27,Burma,27,485
+From: 07 May 2009,To: 07 May 2009,Bahai,FY 2009,19,Iran,19,485
+From: 07 May 2009,To: 07 May 2009,Baptist,FY 2009,5,Burma,1,485
+From: 07 May 2009,To: 07 May 2009,Baptist,FY 2009,5,Cuba,4,485
+From: 07 May 2009,To: 07 May 2009,Buddhist,FY 2009,29,Bhutan,7,485
+From: 07 May 2009,To: 07 May 2009,Buddhist,FY 2009,29,Burma,7,485
+From: 07 May 2009,To: 07 May 2009,Buddhist,FY 2009,29,Cambodia,4,485
+From: 07 May 2009,To: 07 May 2009,Buddhist,FY 2009,29,Vietnam,11,485
+From: 07 May 2009,To: 07 May 2009,Catholic,FY 2009,44,Burma,3,485
+From: 07 May 2009,To: 07 May 2009,Catholic,FY 2009,44,Cuba,14,485
+From: 07 May 2009,To: 07 May 2009,Catholic,FY 2009,44,Iraq,21,485
+From: 07 May 2009,To: 07 May 2009,Catholic,FY 2009,44,Vietnam,6,485
+From: 07 May 2009,To: 07 May 2009,Christian,FY 2009,132,Burma,51,485
+From: 07 May 2009,To: 07 May 2009,Christian,FY 2009,132,Iran,63,485
+From: 07 May 2009,To: 07 May 2009,Christian,FY 2009,132,Iraq,18,485
+From: 07 May 2009,To: 07 May 2009,Hindu,FY 2009,77,Bhutan,76,485
+From: 07 May 2009,To: 07 May 2009,Hindu,FY 2009,77,Sri Lanka (Ceylon),1,485
+From: 07 May 2009,To: 07 May 2009,Jehovah Witness,FY 2009,9,Cuba,9,485
+From: 07 May 2009,To: 07 May 2009,Kirat,FY 2009,5,Bhutan,5,485
+From: 07 May 2009,To: 07 May 2009,Methodist,FY 2009,6,Zimbabwe,6,485
+From: 07 May 2009,To: 07 May 2009,Moslem,FY 2009,31,Ethiopia,4,485
+From: 07 May 2009,To: 07 May 2009,Moslem,FY 2009,31,Somalia,27,485
+From: 07 May 2009,To: 07 May 2009,Moslem Shiite,FY 2009,13,Iraq,13,485
+From: 07 May 2009,To: 07 May 2009,Moslem Suni,FY 2009,18,Afghanistan,7,485
+From: 07 May 2009,To: 07 May 2009,Moslem Suni,FY 2009,18,Iraq,11,485
+From: 07 May 2009,To: 07 May 2009,No Religion,FY 2009,24,Cuba,15,485
+From: 07 May 2009,To: 07 May 2009,No Religion,FY 2009,24,Vietnam,9,485
+From: 07 May 2009,To: 07 May 2009,Orthodox,FY 2009,6,Iraq,6,485
+From: 07 May 2009,To: 07 May 2009,Other Religion,FY 2009,1,China,1,485
+From: 07 May 2009,To: 07 May 2009,Pentecostalist,FY 2009,8,Cuba,8,485
+From: 07 May 2009,To: 07 May 2009,Protestant,FY 2009,9,Angola,3,485
+From: 07 May 2009,To: 07 May 2009,Protestant,FY 2009,9,Cuba,2,485
+From: 07 May 2009,To: 07 May 2009,Protestant,FY 2009,9,Vietnam,4,485
+From: 07 May 2009,To: 07 May 2009,Sabeans-Mandean,FY 2009,8,Iraq,8,485
+From: 07 May 2009,To: 07 May 2009,Seventh Day Adventist,FY 2009,3,Cuba,3,485
+From: 07 May 2009,To: 07 May 2009,Zoroastrian,FY 2009,7,Iran,7,485
+

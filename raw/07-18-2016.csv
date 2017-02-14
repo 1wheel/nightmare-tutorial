@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jul 2016,To: 18 Jul 2016,Bhutan,FY 2016,82,Buddhist,18,410
+From: 18 Jul 2016,To: 18 Jul 2016,Bhutan,FY 2016,82,Christian,17,410
+From: 18 Jul 2016,To: 18 Jul 2016,Bhutan,FY 2016,82,Hindu,39,410
+From: 18 Jul 2016,To: 18 Jul 2016,Bhutan,FY 2016,82,Kirat,8,410
+From: 18 Jul 2016,To: 18 Jul 2016,Burma,FY 2016,28,Christian,25,410
+From: 18 Jul 2016,To: 18 Jul 2016,Burma,FY 2016,28,Moslem,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Burundi,FY 2016,11,Catholic,7,410
+From: 18 Jul 2016,To: 18 Jul 2016,Burundi,FY 2016,11,Pentecostalist,4,410
+From: 18 Jul 2016,To: 18 Jul 2016,Dem. Rep. Congo,FY 2016,58,Catholic,8,410
+From: 18 Jul 2016,To: 18 Jul 2016,Dem. Rep. Congo,FY 2016,58,Christian,28,410
+From: 18 Jul 2016,To: 18 Jul 2016,Dem. Rep. Congo,FY 2016,58,Methodist,7,410
+From: 18 Jul 2016,To: 18 Jul 2016,Dem. Rep. Congo,FY 2016,58,Pentecostalist,6,410
+From: 18 Jul 2016,To: 18 Jul 2016,Dem. Rep. Congo,FY 2016,58,Protestant,9,410
+From: 18 Jul 2016,To: 18 Jul 2016,Iraq,FY 2016,19,Moslem Shiite,13,410
+From: 18 Jul 2016,To: 18 Jul 2016,Iraq,FY 2016,19,Moslem Suni,6,410
+From: 18 Jul 2016,To: 18 Jul 2016,Nepal,FY 2016,1,Buddhist,1,410
+From: 18 Jul 2016,To: 18 Jul 2016,Somalia,FY 2016,3,Moslem,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Syria,FY 2016,172,Moslem,6,410
+From: 18 Jul 2016,To: 18 Jul 2016,Syria,FY 2016,172,Moslem Suni,166,410
+From: 18 Jul 2016,To: 18 Jul 2016,Ukraine,FY 2016,36,Baptist,5,410
+From: 18 Jul 2016,To: 18 Jul 2016,Ukraine,FY 2016,36,Evangelical Christian,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Ukraine,FY 2016,36,Pentecostalist,19,410
+From: 18 Jul 2016,To: 18 Jul 2016,Ukraine,FY 2016,36,Seventh Day Adventist,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Ukraine,FY 2016,36,Uniate,6,410
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jul 2016,To: 18 Jul 2016,Baptist,FY 2016,5,Ukraine,5,410
+From: 18 Jul 2016,To: 18 Jul 2016,Buddhist,FY 2016,19,Bhutan,18,410
+From: 18 Jul 2016,To: 18 Jul 2016,Buddhist,FY 2016,19,Nepal,1,410
+From: 18 Jul 2016,To: 18 Jul 2016,Catholic,FY 2016,15,Burundi,7,410
+From: 18 Jul 2016,To: 18 Jul 2016,Catholic,FY 2016,15,Dem. Rep. Congo,8,410
+From: 18 Jul 2016,To: 18 Jul 2016,Christian,FY 2016,70,Bhutan,17,410
+From: 18 Jul 2016,To: 18 Jul 2016,Christian,FY 2016,70,Burma,25,410
+From: 18 Jul 2016,To: 18 Jul 2016,Christian,FY 2016,70,Dem. Rep. Congo,28,410
+From: 18 Jul 2016,To: 18 Jul 2016,Evangelical Christian,FY 2016,3,Ukraine,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Hindu,FY 2016,39,Bhutan,39,410
+From: 18 Jul 2016,To: 18 Jul 2016,Kirat,FY 2016,8,Bhutan,8,410
+From: 18 Jul 2016,To: 18 Jul 2016,Methodist,FY 2016,7,Dem. Rep. Congo,7,410
+From: 18 Jul 2016,To: 18 Jul 2016,Moslem,FY 2016,12,Burma,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Moslem,FY 2016,12,Somalia,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Moslem,FY 2016,12,Syria,6,410
+From: 18 Jul 2016,To: 18 Jul 2016,Moslem Shiite,FY 2016,13,Iraq,13,410
+From: 18 Jul 2016,To: 18 Jul 2016,Moslem Suni,FY 2016,172,Iraq,6,410
+From: 18 Jul 2016,To: 18 Jul 2016,Moslem Suni,FY 2016,172,Syria,166,410
+From: 18 Jul 2016,To: 18 Jul 2016,Pentecostalist,FY 2016,29,Burundi,4,410
+From: 18 Jul 2016,To: 18 Jul 2016,Pentecostalist,FY 2016,29,Dem. Rep. Congo,6,410
+From: 18 Jul 2016,To: 18 Jul 2016,Pentecostalist,FY 2016,29,Ukraine,19,410
+From: 18 Jul 2016,To: 18 Jul 2016,Protestant,FY 2016,9,Dem. Rep. Congo,9,410
+From: 18 Jul 2016,To: 18 Jul 2016,Seventh Day Adventist,FY 2016,3,Ukraine,3,410
+From: 18 Jul 2016,To: 18 Jul 2016,Uniate,FY 2016,6,Ukraine,6,410
+

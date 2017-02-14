@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Aug 2010,To: 05 Aug 2010,Bhutan,FY 2010,71,Buddhist,14,273
+From: 05 Aug 2010,To: 05 Aug 2010,Bhutan,FY 2010,71,Hindu,50,273
+From: 05 Aug 2010,To: 05 Aug 2010,Bhutan,FY 2010,71,Kirat,7,273
+From: 05 Aug 2010,To: 05 Aug 2010,Burma,FY 2010,98,Animist,8,273
+From: 05 Aug 2010,To: 05 Aug 2010,Burma,FY 2010,98,Baptist,4,273
+From: 05 Aug 2010,To: 05 Aug 2010,Burma,FY 2010,98,Buddhist,18,273
+From: 05 Aug 2010,To: 05 Aug 2010,Burma,FY 2010,98,Catholic,8,273
+From: 05 Aug 2010,To: 05 Aug 2010,Burma,FY 2010,98,Christian,60,273
+From: 05 Aug 2010,To: 05 Aug 2010,Eritrea,FY 2010,2,Moslem,2,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iran,FY 2010,34,Bahai,6,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iran,FY 2010,34,Christian,12,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iran,FY 2010,34,Jewish,2,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iran,FY 2010,34,Sabeans-Mandean,4,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iran,FY 2010,34,Zoroastrian,10,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iraq,FY 2010,39,Catholic,3,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iraq,FY 2010,39,Christian,12,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iraq,FY 2010,39,Moslem Shiite,4,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iraq,FY 2010,39,Moslem Suni,14,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iraq,FY 2010,39,Orthodox,1,273
+From: 05 Aug 2010,To: 05 Aug 2010,Iraq,FY 2010,39,Sabeans-Mandean,5,273
+From: 05 Aug 2010,To: 05 Aug 2010,Somalia,FY 2010,16,Moslem,16,273
+From: 05 Aug 2010,To: 05 Aug 2010,Uganda,FY 2010,1,Christian,1,273
+From: 05 Aug 2010,To: 05 Aug 2010,Ukraine,FY 2010,12,Orthodox,1,273
+From: 05 Aug 2010,To: 05 Aug 2010,Ukraine,FY 2010,12,Pentecostalist,11,273
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Aug 2010,To: 05 Aug 2010,Animist,FY 2010,8,Burma,8,273
+From: 05 Aug 2010,To: 05 Aug 2010,Bahai,FY 2010,6,Iran,6,273
+From: 05 Aug 2010,To: 05 Aug 2010,Baptist,FY 2010,4,Burma,4,273
+From: 05 Aug 2010,To: 05 Aug 2010,Buddhist,FY 2010,32,Bhutan,14,273
+From: 05 Aug 2010,To: 05 Aug 2010,Buddhist,FY 2010,32,Burma,18,273
+From: 05 Aug 2010,To: 05 Aug 2010,Catholic,FY 2010,11,Burma,8,273
+From: 05 Aug 2010,To: 05 Aug 2010,Catholic,FY 2010,11,Iraq,3,273
+From: 05 Aug 2010,To: 05 Aug 2010,Christian,FY 2010,85,Burma,60,273
+From: 05 Aug 2010,To: 05 Aug 2010,Christian,FY 2010,85,Iran,12,273
+From: 05 Aug 2010,To: 05 Aug 2010,Christian,FY 2010,85,Iraq,12,273
+From: 05 Aug 2010,To: 05 Aug 2010,Christian,FY 2010,85,Uganda,1,273
+From: 05 Aug 2010,To: 05 Aug 2010,Hindu,FY 2010,50,Bhutan,50,273
+From: 05 Aug 2010,To: 05 Aug 2010,Jewish,FY 2010,2,Iran,2,273
+From: 05 Aug 2010,To: 05 Aug 2010,Kirat,FY 2010,7,Bhutan,7,273
+From: 05 Aug 2010,To: 05 Aug 2010,Moslem,FY 2010,18,Eritrea,2,273
+From: 05 Aug 2010,To: 05 Aug 2010,Moslem,FY 2010,18,Somalia,16,273
+From: 05 Aug 2010,To: 05 Aug 2010,Moslem Shiite,FY 2010,4,Iraq,4,273
+From: 05 Aug 2010,To: 05 Aug 2010,Moslem Suni,FY 2010,14,Iraq,14,273
+From: 05 Aug 2010,To: 05 Aug 2010,Orthodox,FY 2010,2,Iraq,1,273
+From: 05 Aug 2010,To: 05 Aug 2010,Orthodox,FY 2010,2,Ukraine,1,273
+From: 05 Aug 2010,To: 05 Aug 2010,Pentecostalist,FY 2010,11,Ukraine,11,273
+From: 05 Aug 2010,To: 05 Aug 2010,Sabeans-Mandean,FY 2010,9,Iran,4,273
+From: 05 Aug 2010,To: 05 Aug 2010,Sabeans-Mandean,FY 2010,9,Iraq,5,273
+From: 05 Aug 2010,To: 05 Aug 2010,Zoroastrian,FY 2010,10,Iran,10,273
+

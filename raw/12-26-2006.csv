@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Dec 2006,To: 26 Dec 2006,Afghanistan,FY 2007,6,Moslem Shiite,6,20
+From: 26 Dec 2006,To: 26 Dec 2006,Iraq,FY 2007,5,Moslem Shiite,5,20
+From: 26 Dec 2006,To: 26 Dec 2006,Somalia,FY 2007,6,Moslem,6,20
+From: 26 Dec 2006,To: 26 Dec 2006,Sudan,FY 2007,3,Protestant,3,20
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Dec 2006,To: 26 Dec 2006,Moslem,FY 2007,6,Somalia,6,20
+From: 26 Dec 2006,To: 26 Dec 2006,Moslem Shiite,FY 2007,11,Afghanistan,6,20
+From: 26 Dec 2006,To: 26 Dec 2006,Moslem Shiite,FY 2007,11,Iraq,5,20
+From: 26 Dec 2006,To: 26 Dec 2006,Protestant,FY 2007,3,Sudan,3,20
+

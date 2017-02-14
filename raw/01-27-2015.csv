@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jan 2015,To: 27 Jan 2015,Afghanistan,FY 2015,11,Moslem Shiite,5,300
+From: 27 Jan 2015,To: 27 Jan 2015,Afghanistan,FY 2015,11,Moslem Suni,6,300
+From: 27 Jan 2015,To: 27 Jan 2015,Bhutan,FY 2015,56,Buddhist,6,300
+From: 27 Jan 2015,To: 27 Jan 2015,Bhutan,FY 2015,56,Christian,4,300
+From: 27 Jan 2015,To: 27 Jan 2015,Bhutan,FY 2015,56,Hindu,32,300
+From: 27 Jan 2015,To: 27 Jan 2015,Bhutan,FY 2015,56,Kirat,13,300
+From: 27 Jan 2015,To: 27 Jan 2015,Bhutan,FY 2015,56,Unknown,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Burma,FY 2015,88,Buddhist,16,300
+From: 27 Jan 2015,To: 27 Jan 2015,Burma,FY 2015,88,Christian,62,300
+From: 27 Jan 2015,To: 27 Jan 2015,Burma,FY 2015,88,Moslem,10,300
+From: 27 Jan 2015,To: 27 Jan 2015,Eritrea,FY 2015,21,Orthodox,20,300
+From: 27 Jan 2015,To: 27 Jan 2015,Eritrea,FY 2015,21,Protestant,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Iran,FY 2015,3,No Religion,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Iran,FY 2015,3,Protestant,2,300
+From: 27 Jan 2015,To: 27 Jan 2015,Iraq,FY 2015,37,Christian,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Iraq,FY 2015,37,Moslem Shiite,10,300
+From: 27 Jan 2015,To: 27 Jan 2015,Iraq,FY 2015,37,Moslem Suni,26,300
+From: 27 Jan 2015,To: 27 Jan 2015,Kazakhstan,FY 2015,4,Jehovah Witness,4,300
+From: 27 Jan 2015,To: 27 Jan 2015,Somalia,FY 2015,68,Moslem,68,300
+From: 27 Jan 2015,To: 27 Jan 2015,Syria,FY 2015,8,Moslem Suni,8,300
+From: 27 Jan 2015,To: 27 Jan 2015,Turkey,FY 2015,2,Moslem,2,300
+From: 27 Jan 2015,To: 27 Jan 2015,Uganda,FY 2015,1,Pentecostalist,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Vietnam,FY 2015,1,Catholic,1,300
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jan 2015,To: 27 Jan 2015,Buddhist,FY 2015,22,Bhutan,6,300
+From: 27 Jan 2015,To: 27 Jan 2015,Buddhist,FY 2015,22,Burma,16,300
+From: 27 Jan 2015,To: 27 Jan 2015,Catholic,FY 2015,1,Vietnam,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Christian,FY 2015,67,Bhutan,4,300
+From: 27 Jan 2015,To: 27 Jan 2015,Christian,FY 2015,67,Burma,62,300
+From: 27 Jan 2015,To: 27 Jan 2015,Christian,FY 2015,67,Iraq,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Hindu,FY 2015,32,Bhutan,32,300
+From: 27 Jan 2015,To: 27 Jan 2015,Jehovah Witness,FY 2015,4,Kazakhstan,4,300
+From: 27 Jan 2015,To: 27 Jan 2015,Kirat,FY 2015,13,Bhutan,13,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem,FY 2015,80,Burma,10,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem,FY 2015,80,Somalia,68,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem,FY 2015,80,Turkey,2,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem Shiite,FY 2015,15,Afghanistan,5,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem Shiite,FY 2015,15,Iraq,10,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem Suni,FY 2015,40,Afghanistan,6,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem Suni,FY 2015,40,Iraq,26,300
+From: 27 Jan 2015,To: 27 Jan 2015,Moslem Suni,FY 2015,40,Syria,8,300
+From: 27 Jan 2015,To: 27 Jan 2015,No Religion,FY 2015,1,Iran,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Orthodox,FY 2015,20,Eritrea,20,300
+From: 27 Jan 2015,To: 27 Jan 2015,Pentecostalist,FY 2015,1,Uganda,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Protestant,FY 2015,3,Eritrea,1,300
+From: 27 Jan 2015,To: 27 Jan 2015,Protestant,FY 2015,3,Iran,2,300
+From: 27 Jan 2015,To: 27 Jan 2015,Unknown,FY 2015,1,Bhutan,1,300
+

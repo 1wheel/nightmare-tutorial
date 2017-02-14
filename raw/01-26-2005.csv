@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jan 2005,To: 26 Jan 2005,Afghanistan,FY 2005,1,Moslem Shiite,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Burma,FY 2005,13,Moslem Suni,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Burma,FY 2005,13,Protestant,12,370
+From: 26 Jan 2005,To: 26 Jan 2005,Burundi,FY 2005,1,Protestant,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Colombia,FY 2005,2,Catholic,2,370
+From: 26 Jan 2005,To: 26 Jan 2005,Cuba,FY 2005,65,Catholic,29,370
+From: 26 Jan 2005,To: 26 Jan 2005,Cuba,FY 2005,65,Jehovah Witness,20,370
+From: 26 Jan 2005,To: 26 Jan 2005,Cuba,FY 2005,65,No Religion,16,370
+From: 26 Jan 2005,To: 26 Jan 2005,Ethiopia,FY 2005,27,Christian,2,370
+From: 26 Jan 2005,To: 26 Jan 2005,Ethiopia,FY 2005,27,Moslem,25,370
+From: 26 Jan 2005,To: 26 Jan 2005,Iran,FY 2005,23,Bahai,20,370
+From: 26 Jan 2005,To: 26 Jan 2005,Iran,FY 2005,23,Moslem Shiite,3,370
+From: 26 Jan 2005,To: 26 Jan 2005,Liberia,FY 2005,18,Christian,9,370
+From: 26 Jan 2005,To: 26 Jan 2005,Liberia,FY 2005,18,Pentecostalist,9,370
+From: 26 Jan 2005,To: 26 Jan 2005,Pakistan,FY 2005,1,Moslem Suni,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Russia,FY 2005,26,Moslem,26,370
+From: 26 Jan 2005,To: 26 Jan 2005,Rwanda,FY 2005,1,Catholic,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Sierra Leone,FY 2005,2,Catholic,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Sierra Leone,FY 2005,2,Moslem,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Somalia,FY 2005,185,Moslem,185,370
+From: 26 Jan 2005,To: 26 Jan 2005,Sudan,FY 2005,5,Catholic,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Sudan,FY 2005,5,Christian,4,370
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jan 2005,To: 26 Jan 2005,Bahai,FY 2005,20,Iran,20,370
+From: 26 Jan 2005,To: 26 Jan 2005,Catholic,FY 2005,34,Colombia,2,370
+From: 26 Jan 2005,To: 26 Jan 2005,Catholic,FY 2005,34,Cuba,29,370
+From: 26 Jan 2005,To: 26 Jan 2005,Catholic,FY 2005,34,Rwanda,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Catholic,FY 2005,34,Sierra Leone,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Catholic,FY 2005,34,Sudan,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Christian,FY 2005,15,Ethiopia,2,370
+From: 26 Jan 2005,To: 26 Jan 2005,Christian,FY 2005,15,Liberia,9,370
+From: 26 Jan 2005,To: 26 Jan 2005,Christian,FY 2005,15,Sudan,4,370
+From: 26 Jan 2005,To: 26 Jan 2005,Jehovah Witness,FY 2005,20,Cuba,20,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem,FY 2005,237,Ethiopia,25,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem,FY 2005,237,Russia,26,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem,FY 2005,237,Sierra Leone,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem,FY 2005,237,Somalia,185,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem Shiite,FY 2005,4,Afghanistan,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem Shiite,FY 2005,4,Iran,3,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem Suni,FY 2005,2,Burma,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,Moslem Suni,FY 2005,2,Pakistan,1,370
+From: 26 Jan 2005,To: 26 Jan 2005,No Religion,FY 2005,16,Cuba,16,370
+From: 26 Jan 2005,To: 26 Jan 2005,Pentecostalist,FY 2005,9,Liberia,9,370
+From: 26 Jan 2005,To: 26 Jan 2005,Protestant,FY 2005,13,Burma,12,370
+From: 26 Jan 2005,To: 26 Jan 2005,Protestant,FY 2005,13,Burundi,1,370
+

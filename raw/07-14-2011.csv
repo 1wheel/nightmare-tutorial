@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jul 2011,To: 14 Jul 2011,Afghanistan,FY 2011,4,Moslem Shiite,4,326
+From: 14 Jul 2011,To: 14 Jul 2011,Bhutan,FY 2011,70,Buddhist,13,326
+From: 14 Jul 2011,To: 14 Jul 2011,Bhutan,FY 2011,70,Christian,10,326
+From: 14 Jul 2011,To: 14 Jul 2011,Bhutan,FY 2011,70,Hindu,47,326
+From: 14 Jul 2011,To: 14 Jul 2011,Burma,FY 2011,101,Animist,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Burma,FY 2011,101,Baptist,19,326
+From: 14 Jul 2011,To: 14 Jul 2011,Burma,FY 2011,101,Buddhist,10,326
+From: 14 Jul 2011,To: 14 Jul 2011,Burma,FY 2011,101,Catholic,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Burma,FY 2011,101,Christian,58,326
+From: 14 Jul 2011,To: 14 Jul 2011,Cuba,FY 2011,24,Catholic,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Cuba,FY 2011,24,Jehovah Witness,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Cuba,FY 2011,24,No Religion,10,326
+From: 14 Jul 2011,To: 14 Jul 2011,Dem. Rep. Congo,FY 2011,11,Catholic,5,326
+From: 14 Jul 2011,To: 14 Jul 2011,Dem. Rep. Congo,FY 2011,11,Christian,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Dem. Rep. Congo,FY 2011,11,Pentecostalist,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Dem. Rep. Congo,FY 2011,11,Protestant,4,326
+From: 14 Jul 2011,To: 14 Jul 2011,Ethiopia,FY 2011,10,Baptist,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Ethiopia,FY 2011,10,Moslem,6,326
+From: 14 Jul 2011,To: 14 Jul 2011,Ethiopia,FY 2011,10,Protestant,3,326
+From: 14 Jul 2011,To: 14 Jul 2011,Iraq,FY 2011,89,Catholic,2,326
+From: 14 Jul 2011,To: 14 Jul 2011,Iraq,FY 2011,89,Christian,31,326
+From: 14 Jul 2011,To: 14 Jul 2011,Iraq,FY 2011,89,Moslem Shiite,14,326
+From: 14 Jul 2011,To: 14 Jul 2011,Iraq,FY 2011,89,Moslem Suni,33,326
+From: 14 Jul 2011,To: 14 Jul 2011,Iraq,FY 2011,89,Sabeans-Mandean,9,326
+From: 14 Jul 2011,To: 14 Jul 2011,Somalia,FY 2011,16,Moslem,16,326
+From: 14 Jul 2011,To: 14 Jul 2011,Thailand,FY 2011,1,Buddhist,1,326
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jul 2011,To: 14 Jul 2011,Animist,FY 2011,7,Burma,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Baptist,FY 2011,20,Burma,19,326
+From: 14 Jul 2011,To: 14 Jul 2011,Baptist,FY 2011,20,Ethiopia,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Buddhist,FY 2011,24,Bhutan,13,326
+From: 14 Jul 2011,To: 14 Jul 2011,Buddhist,FY 2011,24,Burma,10,326
+From: 14 Jul 2011,To: 14 Jul 2011,Buddhist,FY 2011,24,Thailand,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Catholic,FY 2011,21,Burma,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Catholic,FY 2011,21,Cuba,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Catholic,FY 2011,21,Dem. Rep. Congo,5,326
+From: 14 Jul 2011,To: 14 Jul 2011,Catholic,FY 2011,21,Iraq,2,326
+From: 14 Jul 2011,To: 14 Jul 2011,Christian,FY 2011,100,Bhutan,10,326
+From: 14 Jul 2011,To: 14 Jul 2011,Christian,FY 2011,100,Burma,58,326
+From: 14 Jul 2011,To: 14 Jul 2011,Christian,FY 2011,100,Dem. Rep. Congo,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Christian,FY 2011,100,Iraq,31,326
+From: 14 Jul 2011,To: 14 Jul 2011,Hindu,FY 2011,47,Bhutan,47,326
+From: 14 Jul 2011,To: 14 Jul 2011,Jehovah Witness,FY 2011,7,Cuba,7,326
+From: 14 Jul 2011,To: 14 Jul 2011,Moslem,FY 2011,22,Ethiopia,6,326
+From: 14 Jul 2011,To: 14 Jul 2011,Moslem,FY 2011,22,Somalia,16,326
+From: 14 Jul 2011,To: 14 Jul 2011,Moslem Shiite,FY 2011,18,Afghanistan,4,326
+From: 14 Jul 2011,To: 14 Jul 2011,Moslem Shiite,FY 2011,18,Iraq,14,326
+From: 14 Jul 2011,To: 14 Jul 2011,Moslem Suni,FY 2011,33,Iraq,33,326
+From: 14 Jul 2011,To: 14 Jul 2011,No Religion,FY 2011,10,Cuba,10,326
+From: 14 Jul 2011,To: 14 Jul 2011,Pentecostalist,FY 2011,1,Dem. Rep. Congo,1,326
+From: 14 Jul 2011,To: 14 Jul 2011,Protestant,FY 2011,7,Dem. Rep. Congo,4,326
+From: 14 Jul 2011,To: 14 Jul 2011,Protestant,FY 2011,7,Ethiopia,3,326
+From: 14 Jul 2011,To: 14 Jul 2011,Sabeans-Mandean,FY 2011,9,Iraq,9,326
+

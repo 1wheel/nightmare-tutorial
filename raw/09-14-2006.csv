@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Sep 2006,To: 14 Sep 2006,Burma,FY 2006,14,Buddhist,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Burma,FY 2006,14,Christian,13,314
+From: 14 Sep 2006,To: 14 Sep 2006,Colombia,FY 2006,4,Catholic,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,Catholic,17,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,Evangelical Christian,12,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,Jehovah Witness,15,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,Jewish,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,Methodist,2,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,No Religion,15,314
+From: 14 Sep 2006,To: 14 Sep 2006,Cuba,FY 2006,69,Pentecostalist,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Dem. Rep. Congo,FY 2006,2,Other Religion,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Dem. Rep. Congo,FY 2006,2,Pentecostalist,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Ethiopia,FY 2006,35,Christian,3,314
+From: 14 Sep 2006,To: 14 Sep 2006,Ethiopia,FY 2006,35,Moslem,24,314
+From: 14 Sep 2006,To: 14 Sep 2006,Ethiopia,FY 2006,35,Orthodox,8,314
+From: 14 Sep 2006,To: 14 Sep 2006,Iran,FY 2006,15,Catholic,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Iran,FY 2006,15,Christian,10,314
+From: 14 Sep 2006,To: 14 Sep 2006,Iran,FY 2006,15,Zoroastrian,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Liberia,FY 2006,1,Christian,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Somalia,FY 2006,142,Moslem,142,314
+From: 14 Sep 2006,To: 14 Sep 2006,Vietnam,FY 2006,32,Ancestral Worship,2,314
+From: 14 Sep 2006,To: 14 Sep 2006,Vietnam,FY 2006,32,Buddhist,3,314
+From: 14 Sep 2006,To: 14 Sep 2006,Vietnam,FY 2006,32,Catholic,8,314
+From: 14 Sep 2006,To: 14 Sep 2006,Vietnam,FY 2006,32,No Religion,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Vietnam,FY 2006,32,Protestant,15,314
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Sep 2006,To: 14 Sep 2006,Ancestral Worship,FY 2006,2,Vietnam,2,314
+From: 14 Sep 2006,To: 14 Sep 2006,Buddhist,FY 2006,4,Burma,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Buddhist,FY 2006,4,Vietnam,3,314
+From: 14 Sep 2006,To: 14 Sep 2006,Catholic,FY 2006,30,Colombia,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Catholic,FY 2006,30,Cuba,17,314
+From: 14 Sep 2006,To: 14 Sep 2006,Catholic,FY 2006,30,Iran,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Catholic,FY 2006,30,Vietnam,8,314
+From: 14 Sep 2006,To: 14 Sep 2006,Christian,FY 2006,27,Burma,13,314
+From: 14 Sep 2006,To: 14 Sep 2006,Christian,FY 2006,27,Ethiopia,3,314
+From: 14 Sep 2006,To: 14 Sep 2006,Christian,FY 2006,27,Iran,10,314
+From: 14 Sep 2006,To: 14 Sep 2006,Christian,FY 2006,27,Liberia,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Evangelical Christian,FY 2006,12,Cuba,12,314
+From: 14 Sep 2006,To: 14 Sep 2006,Jehovah Witness,FY 2006,15,Cuba,15,314
+From: 14 Sep 2006,To: 14 Sep 2006,Jewish,FY 2006,4,Cuba,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Methodist,FY 2006,2,Cuba,2,314
+From: 14 Sep 2006,To: 14 Sep 2006,Moslem,FY 2006,166,Ethiopia,24,314
+From: 14 Sep 2006,To: 14 Sep 2006,Moslem,FY 2006,166,Somalia,142,314
+From: 14 Sep 2006,To: 14 Sep 2006,No Religion,FY 2006,19,Cuba,15,314
+From: 14 Sep 2006,To: 14 Sep 2006,No Religion,FY 2006,19,Vietnam,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Orthodox,FY 2006,8,Ethiopia,8,314
+From: 14 Sep 2006,To: 14 Sep 2006,Other Religion,FY 2006,1,Dem. Rep. Congo,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Pentecostalist,FY 2006,5,Cuba,4,314
+From: 14 Sep 2006,To: 14 Sep 2006,Pentecostalist,FY 2006,5,Dem. Rep. Congo,1,314
+From: 14 Sep 2006,To: 14 Sep 2006,Protestant,FY 2006,15,Vietnam,15,314
+From: 14 Sep 2006,To: 14 Sep 2006,Zoroastrian,FY 2006,4,Iran,4,314
+

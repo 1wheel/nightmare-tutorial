@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jul 2014,To: 03 Jul 2014,Burma,FY 2014,61,Baptist,7,151
+From: 03 Jul 2014,To: 03 Jul 2014,Burma,FY 2014,61,Buddhist,9,151
+From: 03 Jul 2014,To: 03 Jul 2014,Burma,FY 2014,61,Christian,38,151
+From: 03 Jul 2014,To: 03 Jul 2014,Burma,FY 2014,61,Evangelical Christian,4,151
+From: 03 Jul 2014,To: 03 Jul 2014,Burma,FY 2014,61,Moslem,3,151
+From: 03 Jul 2014,To: 03 Jul 2014,Ethiopia,FY 2014,2,Orthodox,2,151
+From: 03 Jul 2014,To: 03 Jul 2014,Iran,FY 2014,1,Zoroastrian,1,151
+From: 03 Jul 2014,To: 03 Jul 2014,Iraq,FY 2014,46,Catholic,11,151
+From: 03 Jul 2014,To: 03 Jul 2014,Iraq,FY 2014,46,Chaldean,4,151
+From: 03 Jul 2014,To: 03 Jul 2014,Iraq,FY 2014,46,Christian,4,151
+From: 03 Jul 2014,To: 03 Jul 2014,Iraq,FY 2014,46,Moslem Shiite,17,151
+From: 03 Jul 2014,To: 03 Jul 2014,Iraq,FY 2014,46,Moslem Suni,10,151
+From: 03 Jul 2014,To: 03 Jul 2014,Somalia,FY 2014,30,Moslem,30,151
+From: 03 Jul 2014,To: 03 Jul 2014,Sri Lanka (Ceylon),FY 2014,1,Hindu,1,151
+From: 03 Jul 2014,To: 03 Jul 2014,Sudan,FY 2014,3,Moslem,3,151
+From: 03 Jul 2014,To: 03 Jul 2014,Ukraine,FY 2014,7,Baptist,5,151
+From: 03 Jul 2014,To: 03 Jul 2014,Ukraine,FY 2014,7,Pentecostalist,2,151
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jul 2014,To: 03 Jul 2014,Baptist,FY 2014,12,Burma,7,151
+From: 03 Jul 2014,To: 03 Jul 2014,Baptist,FY 2014,12,Ukraine,5,151
+From: 03 Jul 2014,To: 03 Jul 2014,Buddhist,FY 2014,9,Burma,9,151
+From: 03 Jul 2014,To: 03 Jul 2014,Catholic,FY 2014,11,Iraq,11,151
+From: 03 Jul 2014,To: 03 Jul 2014,Chaldean,FY 2014,4,Iraq,4,151
+From: 03 Jul 2014,To: 03 Jul 2014,Christian,FY 2014,42,Burma,38,151
+From: 03 Jul 2014,To: 03 Jul 2014,Christian,FY 2014,42,Iraq,4,151
+From: 03 Jul 2014,To: 03 Jul 2014,Evangelical Christian,FY 2014,4,Burma,4,151
+From: 03 Jul 2014,To: 03 Jul 2014,Hindu,FY 2014,1,Sri Lanka (Ceylon),1,151
+From: 03 Jul 2014,To: 03 Jul 2014,Moslem,FY 2014,36,Burma,3,151
+From: 03 Jul 2014,To: 03 Jul 2014,Moslem,FY 2014,36,Somalia,30,151
+From: 03 Jul 2014,To: 03 Jul 2014,Moslem,FY 2014,36,Sudan,3,151
+From: 03 Jul 2014,To: 03 Jul 2014,Moslem Shiite,FY 2014,17,Iraq,17,151
+From: 03 Jul 2014,To: 03 Jul 2014,Moslem Suni,FY 2014,10,Iraq,10,151
+From: 03 Jul 2014,To: 03 Jul 2014,Orthodox,FY 2014,2,Ethiopia,2,151
+From: 03 Jul 2014,To: 03 Jul 2014,Pentecostalist,FY 2014,2,Ukraine,2,151
+From: 03 Jul 2014,To: 03 Jul 2014,Zoroastrian,FY 2014,1,Iran,1,151
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Dec 2002,To: 02 Dec 2002,Dem. Rep. Congo,FY 2003,3,Unknown,3,97
+From: 02 Dec 2002,To: 02 Dec 2002,Liberia,FY 2003,17,Baptist,2,97
+From: 02 Dec 2002,To: 02 Dec 2002,Liberia,FY 2003,17,Catholic,1,97
+From: 02 Dec 2002,To: 02 Dec 2002,Liberia,FY 2003,17,Christian,12,97
+From: 02 Dec 2002,To: 02 Dec 2002,Liberia,FY 2003,17,Pentecostalist,2,97
+From: 02 Dec 2002,To: 02 Dec 2002,Moldova,FY 2003,22,Baptist,4,97
+From: 02 Dec 2002,To: 02 Dec 2002,Moldova,FY 2003,22,Pentecostalist,18,97
+From: 02 Dec 2002,To: 02 Dec 2002,Serbia,FY 2003,13,Moslem,13,97
+From: 02 Dec 2002,To: 02 Dec 2002,Somalia,FY 2003,7,Moslem,7,97
+From: 02 Dec 2002,To: 02 Dec 2002,Ukraine,FY 2003,35,Baptist,8,97
+From: 02 Dec 2002,To: 02 Dec 2002,Ukraine,FY 2003,35,Jewish,3,97
+From: 02 Dec 2002,To: 02 Dec 2002,Ukraine,FY 2003,35,Pentecostalist,24,97
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Dec 2002,To: 02 Dec 2002,Baptist,FY 2003,14,Liberia,2,97
+From: 02 Dec 2002,To: 02 Dec 2002,Baptist,FY 2003,14,Moldova,4,97
+From: 02 Dec 2002,To: 02 Dec 2002,Baptist,FY 2003,14,Ukraine,8,97
+From: 02 Dec 2002,To: 02 Dec 2002,Catholic,FY 2003,1,Liberia,1,97
+From: 02 Dec 2002,To: 02 Dec 2002,Christian,FY 2003,12,Liberia,12,97
+From: 02 Dec 2002,To: 02 Dec 2002,Jewish,FY 2003,3,Ukraine,3,97
+From: 02 Dec 2002,To: 02 Dec 2002,Moslem,FY 2003,20,Serbia,13,97
+From: 02 Dec 2002,To: 02 Dec 2002,Moslem,FY 2003,20,Somalia,7,97
+From: 02 Dec 2002,To: 02 Dec 2002,Pentecostalist,FY 2003,44,Liberia,2,97
+From: 02 Dec 2002,To: 02 Dec 2002,Pentecostalist,FY 2003,44,Moldova,18,97
+From: 02 Dec 2002,To: 02 Dec 2002,Pentecostalist,FY 2003,44,Ukraine,24,97
+From: 02 Dec 2002,To: 02 Dec 2002,Unknown,FY 2003,3,Dem. Rep. Congo,3,97
+

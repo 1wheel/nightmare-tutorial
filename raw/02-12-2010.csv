@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Feb 2010,To: 12 Feb 2010,Afghanistan,FY 2010,5,Moslem Shiite,5,12
+From: 12 Feb 2010,To: 12 Feb 2010,Iraq,FY 2010,1,Catholic,1,12
+From: 12 Feb 2010,To: 12 Feb 2010,Liberia,FY 2010,4,Christian,4,12
+From: 12 Feb 2010,To: 12 Feb 2010,Somalia,FY 2010,2,Moslem,2,12
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Feb 2010,To: 12 Feb 2010,Catholic,FY 2010,1,Iraq,1,12
+From: 12 Feb 2010,To: 12 Feb 2010,Christian,FY 2010,4,Liberia,4,12
+From: 12 Feb 2010,To: 12 Feb 2010,Moslem,FY 2010,2,Somalia,2,12
+From: 12 Feb 2010,To: 12 Feb 2010,Moslem Shiite,FY 2010,5,Afghanistan,5,12
+

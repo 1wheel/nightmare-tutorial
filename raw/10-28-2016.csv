@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Oct 2016,To: 28 Oct 2016,Burma,FY 2017,3,Christian,3,44
+From: 28 Oct 2016,To: 28 Oct 2016,Central African Republic,FY 2017,12,Baptist,7,44
+From: 28 Oct 2016,To: 28 Oct 2016,Central African Republic,FY 2017,12,Catholic,5,44
+From: 28 Oct 2016,To: 28 Oct 2016,Dem. Rep. Congo,FY 2017,10,Christian,10,44
+From: 28 Oct 2016,To: 28 Oct 2016,Eritrea,FY 2017,9,Moslem,9,44
+From: 28 Oct 2016,To: 28 Oct 2016,Somalia,FY 2017,10,Moslem,10,44
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Oct 2016,To: 28 Oct 2016,Baptist,FY 2017,7,Central African Republic,7,44
+From: 28 Oct 2016,To: 28 Oct 2016,Catholic,FY 2017,5,Central African Republic,5,44
+From: 28 Oct 2016,To: 28 Oct 2016,Christian,FY 2017,13,Burma,3,44
+From: 28 Oct 2016,To: 28 Oct 2016,Christian,FY 2017,13,Dem. Rep. Congo,10,44
+From: 28 Oct 2016,To: 28 Oct 2016,Moslem,FY 2017,19,Eritrea,9,44
+From: 28 Oct 2016,To: 28 Oct 2016,Moslem,FY 2017,19,Somalia,10,44
+

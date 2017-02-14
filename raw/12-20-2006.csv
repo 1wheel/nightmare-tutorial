@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Dec 2006,To: 20 Dec 2006,Burma,FY 2007,20,Christian,20,120
+From: 20 Dec 2006,To: 20 Dec 2006,Chad,FY 2007,1,Moslem,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Ethiopia,FY 2007,10,Christian,2,120
+From: 20 Dec 2006,To: 20 Dec 2006,Ethiopia,FY 2007,10,Moslem,7,120
+From: 20 Dec 2006,To: 20 Dec 2006,Ethiopia,FY 2007,10,Orthodox,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Iran,FY 2007,34,Christian,18,120
+From: 20 Dec 2006,To: 20 Dec 2006,Iran,FY 2007,34,Jewish,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Iran,FY 2007,34,Sabeans-Mandean,15,120
+From: 20 Dec 2006,To: 20 Dec 2006,Laos,FY 2007,4,Ancestral Worship,4,120
+From: 20 Dec 2006,To: 20 Dec 2006,Liberia,FY 2007,1,Christian,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Russia,FY 2007,12,Moslem,12,120
+From: 20 Dec 2006,To: 20 Dec 2006,Somalia,FY 2007,37,Moslem,37,120
+From: 20 Dec 2006,To: 20 Dec 2006,Sudan,FY 2007,1,Catholic,1,120
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Dec 2006,To: 20 Dec 2006,Ancestral Worship,FY 2007,4,Laos,4,120
+From: 20 Dec 2006,To: 20 Dec 2006,Catholic,FY 2007,1,Sudan,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Christian,FY 2007,41,Burma,20,120
+From: 20 Dec 2006,To: 20 Dec 2006,Christian,FY 2007,41,Ethiopia,2,120
+From: 20 Dec 2006,To: 20 Dec 2006,Christian,FY 2007,41,Iran,18,120
+From: 20 Dec 2006,To: 20 Dec 2006,Christian,FY 2007,41,Liberia,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Jewish,FY 2007,1,Iran,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Moslem,FY 2007,57,Chad,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Moslem,FY 2007,57,Ethiopia,7,120
+From: 20 Dec 2006,To: 20 Dec 2006,Moslem,FY 2007,57,Russia,12,120
+From: 20 Dec 2006,To: 20 Dec 2006,Moslem,FY 2007,57,Somalia,37,120
+From: 20 Dec 2006,To: 20 Dec 2006,Orthodox,FY 2007,1,Ethiopia,1,120
+From: 20 Dec 2006,To: 20 Dec 2006,Sabeans-Mandean,FY 2007,15,Iran,15,120
+

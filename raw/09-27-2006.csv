@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Sep 2006,To: 27 Sep 2006,Afghanistan,FY 2006,1,Moslem,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Bangladesh,FY 2006,1,Hindu,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Bhutan,FY 2006,3,Christian,3,443
+From: 27 Sep 2006,To: 27 Sep 2006,Burma,FY 2006,99,Buddhist,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Burma,FY 2006,99,Christian,97,443
+From: 27 Sep 2006,To: 27 Sep 2006,Colombia,FY 2006,26,Catholic,23,443
+From: 27 Sep 2006,To: 27 Sep 2006,Colombia,FY 2006,26,Seventh Day Adventist,3,443
+From: 27 Sep 2006,To: 27 Sep 2006,Congo,FY 2006,33,Buddhist,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Congo,FY 2006,33,Catholic,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Congo,FY 2006,33,Christian,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Congo,FY 2006,33,Protestant,22,443
+From: 27 Sep 2006,To: 27 Sep 2006,Dem. Rep. Congo,FY 2006,16,Catholic,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Dem. Rep. Congo,FY 2006,16,Christian,10,443
+From: 27 Sep 2006,To: 27 Sep 2006,Dem. Rep. Congo,FY 2006,16,Pentecostalist,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Equatorial Guinea,FY 2006,6,Catholic,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Ethiopia,FY 2006,13,Christian,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Ethiopia,FY 2006,13,Moslem,12,443
+From: 27 Sep 2006,To: 27 Sep 2006,Iran,FY 2006,34,Bahai,34,443
+From: 27 Sep 2006,To: 27 Sep 2006,Iraq,FY 2006,1,Moslem Shiite,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Liberia,FY 2006,18,Christian,17,443
+From: 27 Sep 2006,To: 27 Sep 2006,Liberia,FY 2006,18,Moslem,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Russia,FY 2006,23,Baptist,17,443
+From: 27 Sep 2006,To: 27 Sep 2006,Russia,FY 2006,23,Jewish,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Rwanda,FY 2006,6,Catholic,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Sierra Leone,FY 2006,23,Christian,5,443
+From: 27 Sep 2006,To: 27 Sep 2006,Sierra Leone,FY 2006,23,Moslem,18,443
+From: 27 Sep 2006,To: 27 Sep 2006,Somalia,FY 2006,84,Moslem,83,443
+From: 27 Sep 2006,To: 27 Sep 2006,Somalia,FY 2006,84,Moslem Suni,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Sudan,FY 2006,21,Catholic,14,443
+From: 27 Sep 2006,To: 27 Sep 2006,Sudan,FY 2006,21,Moslem,3,443
+From: 27 Sep 2006,To: 27 Sep 2006,Sudan,FY 2006,21,Seventh Day Adventist,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Vietnam,FY 2006,26,Ancestral Worship,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Vietnam,FY 2006,26,Buddhist,16,443
+From: 27 Sep 2006,To: 27 Sep 2006,Vietnam,FY 2006,26,Cao Dai,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Vietnam,FY 2006,26,Catholic,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Vietnam,FY 2006,26,No Religion,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Vietnam,FY 2006,26,Protestant,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Zimbabwe,FY 2006,9,Christian,9,443
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Sep 2006,To: 27 Sep 2006,Ancestral Worship,FY 2006,1,Vietnam,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Bahai,FY 2006,34,Iran,34,443
+From: 27 Sep 2006,To: 27 Sep 2006,Baptist,FY 2006,17,Russia,17,443
+From: 27 Sep 2006,To: 27 Sep 2006,Buddhist,FY 2006,22,Burma,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Buddhist,FY 2006,22,Congo,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Buddhist,FY 2006,22,Vietnam,16,443
+From: 27 Sep 2006,To: 27 Sep 2006,Cao Dai,FY 2006,1,Vietnam,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Colombia,23,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Congo,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Dem. Rep. Congo,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Equatorial Guinea,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Rwanda,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Sudan,14,443
+From: 27 Sep 2006,To: 27 Sep 2006,Catholic,FY 2006,54,Vietnam,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Bhutan,3,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Burma,97,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Congo,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Dem. Rep. Congo,10,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Ethiopia,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Liberia,17,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Sierra Leone,5,443
+From: 27 Sep 2006,To: 27 Sep 2006,Christian,FY 2006,148,Zimbabwe,9,443
+From: 27 Sep 2006,To: 27 Sep 2006,Hindu,FY 2006,1,Bangladesh,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Jewish,FY 2006,6,Russia,6,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem,FY 2006,118,Afghanistan,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem,FY 2006,118,Ethiopia,12,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem,FY 2006,118,Liberia,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem,FY 2006,118,Sierra Leone,18,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem,FY 2006,118,Somalia,83,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem,FY 2006,118,Sudan,3,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem Shiite,FY 2006,1,Iraq,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,Moslem Suni,FY 2006,1,Somalia,1,443
+From: 27 Sep 2006,To: 27 Sep 2006,No Religion,FY 2006,4,Vietnam,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Pentecostalist,FY 2006,4,Dem. Rep. Congo,4,443
+From: 27 Sep 2006,To: 27 Sep 2006,Protestant,FY 2006,24,Congo,22,443
+From: 27 Sep 2006,To: 27 Sep 2006,Protestant,FY 2006,24,Vietnam,2,443
+From: 27 Sep 2006,To: 27 Sep 2006,Seventh Day Adventist,FY 2006,7,Colombia,3,443
+From: 27 Sep 2006,To: 27 Sep 2006,Seventh Day Adventist,FY 2006,7,Sudan,4,443
+

@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Feb 2009,To: 12 Feb 2009,Belarus,FY 2009,4,Baptist,4,263
+From: 12 Feb 2009,To: 12 Feb 2009,Bhutan,FY 2009,67,Buddhist,5,263
+From: 12 Feb 2009,To: 12 Feb 2009,Bhutan,FY 2009,67,Hindu,62,263
+From: 12 Feb 2009,To: 12 Feb 2009,Burma,FY 2009,52,Buddhist,1,263
+From: 12 Feb 2009,To: 12 Feb 2009,Burma,FY 2009,52,Christian,51,263
+From: 12 Feb 2009,To: 12 Feb 2009,Burundi,FY 2009,28,Catholic,4,263
+From: 12 Feb 2009,To: 12 Feb 2009,Burundi,FY 2009,28,Methodist,2,263
+From: 12 Feb 2009,To: 12 Feb 2009,Burundi,FY 2009,28,Pentecostalist,17,263
+From: 12 Feb 2009,To: 12 Feb 2009,Burundi,FY 2009,28,Seventh Day Adventist,5,263
+From: 12 Feb 2009,To: 12 Feb 2009,Cuba,FY 2009,70,Baptist,1,263
+From: 12 Feb 2009,To: 12 Feb 2009,Cuba,FY 2009,70,Catholic,22,263
+From: 12 Feb 2009,To: 12 Feb 2009,Cuba,FY 2009,70,Evangelical Christian,4,263
+From: 12 Feb 2009,To: 12 Feb 2009,Cuba,FY 2009,70,Jehovah Witness,27,263
+From: 12 Feb 2009,To: 12 Feb 2009,Cuba,FY 2009,70,No Religion,11,263
+From: 12 Feb 2009,To: 12 Feb 2009,Cuba,FY 2009,70,Seventh Day Adventist,5,263
+From: 12 Feb 2009,To: 12 Feb 2009,Iraq,FY 2009,3,Moslem Suni,3,263
+From: 12 Feb 2009,To: 12 Feb 2009,Liberia,FY 2009,4,Baptist,2,263
+From: 12 Feb 2009,To: 12 Feb 2009,Liberia,FY 2009,4,Catholic,2,263
+From: 12 Feb 2009,To: 12 Feb 2009,Somalia,FY 2009,11,Moslem,11,263
+From: 12 Feb 2009,To: 12 Feb 2009,Turkmenistan,FY 2009,1,Christian,1,263
+From: 12 Feb 2009,To: 12 Feb 2009,Ukraine,FY 2009,23,Baptist,12,263
+From: 12 Feb 2009,To: 12 Feb 2009,Ukraine,FY 2009,23,Pentecostalist,11,263
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Feb 2009,To: 12 Feb 2009,Baptist,FY 2009,19,Belarus,4,263
+From: 12 Feb 2009,To: 12 Feb 2009,Baptist,FY 2009,19,Cuba,1,263
+From: 12 Feb 2009,To: 12 Feb 2009,Baptist,FY 2009,19,Liberia,2,263
+From: 12 Feb 2009,To: 12 Feb 2009,Baptist,FY 2009,19,Ukraine,12,263
+From: 12 Feb 2009,To: 12 Feb 2009,Buddhist,FY 2009,6,Bhutan,5,263
+From: 12 Feb 2009,To: 12 Feb 2009,Buddhist,FY 2009,6,Burma,1,263
+From: 12 Feb 2009,To: 12 Feb 2009,Catholic,FY 2009,28,Burundi,4,263
+From: 12 Feb 2009,To: 12 Feb 2009,Catholic,FY 2009,28,Cuba,22,263
+From: 12 Feb 2009,To: 12 Feb 2009,Catholic,FY 2009,28,Liberia,2,263
+From: 12 Feb 2009,To: 12 Feb 2009,Christian,FY 2009,52,Burma,51,263
+From: 12 Feb 2009,To: 12 Feb 2009,Christian,FY 2009,52,Turkmenistan,1,263
+From: 12 Feb 2009,To: 12 Feb 2009,Evangelical Christian,FY 2009,4,Cuba,4,263
+From: 12 Feb 2009,To: 12 Feb 2009,Hindu,FY 2009,62,Bhutan,62,263
+From: 12 Feb 2009,To: 12 Feb 2009,Jehovah Witness,FY 2009,27,Cuba,27,263
+From: 12 Feb 2009,To: 12 Feb 2009,Methodist,FY 2009,2,Burundi,2,263
+From: 12 Feb 2009,To: 12 Feb 2009,Moslem,FY 2009,11,Somalia,11,263
+From: 12 Feb 2009,To: 12 Feb 2009,Moslem Suni,FY 2009,3,Iraq,3,263
+From: 12 Feb 2009,To: 12 Feb 2009,No Religion,FY 2009,11,Cuba,11,263
+From: 12 Feb 2009,To: 12 Feb 2009,Pentecostalist,FY 2009,28,Burundi,17,263
+From: 12 Feb 2009,To: 12 Feb 2009,Pentecostalist,FY 2009,28,Ukraine,11,263
+From: 12 Feb 2009,To: 12 Feb 2009,Seventh Day Adventist,FY 2009,10,Burundi,5,263
+From: 12 Feb 2009,To: 12 Feb 2009,Seventh Day Adventist,FY 2009,10,Cuba,5,263
+

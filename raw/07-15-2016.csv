@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jul 2016,To: 15 Jul 2016,Afghanistan,FY 2016,6,Moslem Shiite,6,145
+From: 15 Jul 2016,To: 15 Jul 2016,Burma,FY 2016,7,Animist,3,145
+From: 15 Jul 2016,To: 15 Jul 2016,Burma,FY 2016,7,Christian,4,145
+From: 15 Jul 2016,To: 15 Jul 2016,El Salvador,FY 2016,5,Catholic,4,145
+From: 15 Jul 2016,To: 15 Jul 2016,El Salvador,FY 2016,5,Christian,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Iran,FY 2016,3,Moslem Shiite,3,145
+From: 15 Jul 2016,To: 15 Jul 2016,Iraq,FY 2016,33,Catholic,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Iraq,FY 2016,33,Christian,6,145
+From: 15 Jul 2016,To: 15 Jul 2016,Iraq,FY 2016,33,Moslem Shiite,4,145
+From: 15 Jul 2016,To: 15 Jul 2016,Iraq,FY 2016,33,Moslem Suni,14,145
+From: 15 Jul 2016,To: 15 Jul 2016,Iraq,FY 2016,33,Orthodox,8,145
+From: 15 Jul 2016,To: 15 Jul 2016,Republic of South Sudan,FY 2016,7,Christian,7,145
+From: 15 Jul 2016,To: 15 Jul 2016,Sudan,FY 2016,2,Moslem,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Sudan,FY 2016,2,Moslem Suni,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Syria,FY 2016,82,Christian,3,145
+From: 15 Jul 2016,To: 15 Jul 2016,Syria,FY 2016,82,Moslem,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Syria,FY 2016,82,Moslem Suni,78,145
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jul 2016,To: 15 Jul 2016,Animist,FY 2016,3,Burma,3,145
+From: 15 Jul 2016,To: 15 Jul 2016,Catholic,FY 2016,5,El Salvador,4,145
+From: 15 Jul 2016,To: 15 Jul 2016,Catholic,FY 2016,5,Iraq,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Christian,FY 2016,21,Burma,4,145
+From: 15 Jul 2016,To: 15 Jul 2016,Christian,FY 2016,21,El Salvador,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Christian,FY 2016,21,Iraq,6,145
+From: 15 Jul 2016,To: 15 Jul 2016,Christian,FY 2016,21,Republic of South Sudan,7,145
+From: 15 Jul 2016,To: 15 Jul 2016,Christian,FY 2016,21,Syria,3,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem,FY 2016,2,Sudan,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem,FY 2016,2,Syria,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem Shiite,FY 2016,13,Afghanistan,6,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem Shiite,FY 2016,13,Iran,3,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem Shiite,FY 2016,13,Iraq,4,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem Suni,FY 2016,93,Iraq,14,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem Suni,FY 2016,93,Sudan,1,145
+From: 15 Jul 2016,To: 15 Jul 2016,Moslem Suni,FY 2016,93,Syria,78,145
+From: 15 Jul 2016,To: 15 Jul 2016,Orthodox,FY 2016,8,Iraq,8,145
+

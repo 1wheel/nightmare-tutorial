@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Oct 2010,To: 13 Oct 2010,Afghanistan,FY 2011,12,Moslem Shiite,3,564
+From: 13 Oct 2010,To: 13 Oct 2010,Afghanistan,FY 2011,12,Moslem Suni,9,564
+From: 13 Oct 2010,To: 13 Oct 2010,Bhutan,FY 2011,91,Buddhist,23,564
+From: 13 Oct 2010,To: 13 Oct 2010,Bhutan,FY 2011,91,Christian,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Bhutan,FY 2011,91,Hindu,48,564
+From: 13 Oct 2010,To: 13 Oct 2010,Bhutan,FY 2011,91,Kirat,13,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Animist,13,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Baptist,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Buddhist,33,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Catholic,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Christian,190,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Protestant,4,564
+From: 13 Oct 2010,To: 13 Oct 2010,Burma,FY 2011,253,Unknown,5,564
+From: 13 Oct 2010,To: 13 Oct 2010,Congo,FY 2011,1,Protestant,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Dem. Rep. Congo,FY 2011,22,Catholic,5,564
+From: 13 Oct 2010,To: 13 Oct 2010,Dem. Rep. Congo,FY 2011,22,Other Religion,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Dem. Rep. Congo,FY 2011,22,Pentecostalist,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Dem. Rep. Congo,FY 2011,22,Protestant,8,564
+From: 13 Oct 2010,To: 13 Oct 2010,Dem. Rep. Congo,FY 2011,22,Seventh Day Adventist,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Eritrea,FY 2011,2,Pentecostalist,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Ethiopia,FY 2011,7,Moslem,4,564
+From: 13 Oct 2010,To: 13 Oct 2010,Ethiopia,FY 2011,7,Pentecostalist,3,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Catholic,19,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Christian,44,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Moslem,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Moslem Shiite,21,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Moslem Suni,47,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Orthodox,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Protestant,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Sabeans-Mandean,5,564
+From: 13 Oct 2010,To: 13 Oct 2010,Iraq,FY 2011,149,Yazidi,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Laos,FY 2011,6,Animist,6,564
+From: 13 Oct 2010,To: 13 Oct 2010,Somalia,FY 2011,12,Baptist,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Somalia,FY 2011,12,Moslem,10,564
+From: 13 Oct 2010,To: 13 Oct 2010,Sudan,FY 2011,9,Catholic,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Sudan,FY 2011,9,Moslem,6,564
+From: 13 Oct 2010,To: 13 Oct 2010,Sudan,FY 2011,9,Moslem Suni,1,564
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Oct 2010,To: 13 Oct 2010,Animist,FY 2011,19,Burma,13,564
+From: 13 Oct 2010,To: 13 Oct 2010,Animist,FY 2011,19,Laos,6,564
+From: 13 Oct 2010,To: 13 Oct 2010,Baptist,FY 2011,3,Burma,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Baptist,FY 2011,3,Somalia,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Buddhist,FY 2011,56,Bhutan,23,564
+From: 13 Oct 2010,To: 13 Oct 2010,Buddhist,FY 2011,56,Burma,33,564
+From: 13 Oct 2010,To: 13 Oct 2010,Catholic,FY 2011,33,Burma,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Catholic,FY 2011,33,Dem. Rep. Congo,5,564
+From: 13 Oct 2010,To: 13 Oct 2010,Catholic,FY 2011,33,Iraq,19,564
+From: 13 Oct 2010,To: 13 Oct 2010,Catholic,FY 2011,33,Sudan,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Christian,FY 2011,241,Bhutan,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Christian,FY 2011,241,Burma,190,564
+From: 13 Oct 2010,To: 13 Oct 2010,Christian,FY 2011,241,Iraq,44,564
+From: 13 Oct 2010,To: 13 Oct 2010,Hindu,FY 2011,48,Bhutan,48,564
+From: 13 Oct 2010,To: 13 Oct 2010,Kirat,FY 2011,13,Bhutan,13,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem,FY 2011,22,Ethiopia,4,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem,FY 2011,22,Iraq,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem,FY 2011,22,Somalia,10,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem,FY 2011,22,Sudan,6,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem Shiite,FY 2011,24,Afghanistan,3,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem Shiite,FY 2011,24,Iraq,21,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem Suni,FY 2011,57,Afghanistan,9,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem Suni,FY 2011,57,Iraq,47,564
+From: 13 Oct 2010,To: 13 Oct 2010,Moslem Suni,FY 2011,57,Sudan,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Orthodox,FY 2011,7,Iraq,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Other Religion,FY 2011,1,Dem. Rep. Congo,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Pentecostalist,FY 2011,12,Dem. Rep. Congo,7,564
+From: 13 Oct 2010,To: 13 Oct 2010,Pentecostalist,FY 2011,12,Eritrea,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Pentecostalist,FY 2011,12,Ethiopia,3,564
+From: 13 Oct 2010,To: 13 Oct 2010,Protestant,FY 2011,15,Burma,4,564
+From: 13 Oct 2010,To: 13 Oct 2010,Protestant,FY 2011,15,Congo,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Protestant,FY 2011,15,Dem. Rep. Congo,8,564
+From: 13 Oct 2010,To: 13 Oct 2010,Protestant,FY 2011,15,Iraq,2,564
+From: 13 Oct 2010,To: 13 Oct 2010,Sabeans-Mandean,FY 2011,5,Iraq,5,564
+From: 13 Oct 2010,To: 13 Oct 2010,Seventh Day Adventist,FY 2011,1,Dem. Rep. Congo,1,564
+From: 13 Oct 2010,To: 13 Oct 2010,Unknown,FY 2011,5,Burma,5,564
+From: 13 Oct 2010,To: 13 Oct 2010,Yazidi,FY 2011,2,Iraq,2,564
+

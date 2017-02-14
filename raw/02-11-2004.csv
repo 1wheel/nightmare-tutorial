@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Feb 2004,To: 11 Feb 2004,Afghanistan,FY 2004,14,Moslem,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Belarus,FY 2004,28,Baptist,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Belarus,FY 2004,28,Jewish,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Belarus,FY 2004,28,No Religion,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Belarus,FY 2004,28,Pentecostalist,5,176
+From: 11 Feb 2004,To: 11 Feb 2004,Belarus,FY 2004,28,Unknown,4,176
+From: 11 Feb 2004,To: 11 Feb 2004,China,FY 2004,1,Moslem,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,Baptist,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,Catholic,10,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,Christian,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,Evangelical Christian,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,Jehovah Witness,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,No Religion,13,176
+From: 11 Feb 2004,To: 11 Feb 2004,Cuba,FY 2004,34,Other Religion,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Dem. Rep. Congo,FY 2004,1,Christian,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Ethiopia,FY 2004,14,Moslem,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Iran,FY 2004,24,Bahai,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Iran,FY 2004,24,Christian,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Iran,FY 2004,24,Jewish,8,176
+From: 11 Feb 2004,To: 11 Feb 2004,Somalia,FY 2004,17,Moslem,17,176
+From: 11 Feb 2004,To: 11 Feb 2004,Sudan,FY 2004,39,Catholic,11,176
+From: 11 Feb 2004,To: 11 Feb 2004,Sudan,FY 2004,39,Christian,23,176
+From: 11 Feb 2004,To: 11 Feb 2004,Sudan,FY 2004,39,Jehovah Witness,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Sudan,FY 2004,39,Moslem,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Sudan,FY 2004,39,Protestant,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Uzbekistan,FY 2004,4,Moslem,4,176
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Feb 2004,To: 11 Feb 2004,Bahai,FY 2004,14,Iran,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Baptist,FY 2004,4,Belarus,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Baptist,FY 2004,4,Cuba,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Catholic,FY 2004,21,Cuba,10,176
+From: 11 Feb 2004,To: 11 Feb 2004,Catholic,FY 2004,21,Sudan,11,176
+From: 11 Feb 2004,To: 11 Feb 2004,Christian,FY 2004,28,Cuba,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Christian,FY 2004,28,Dem. Rep. Congo,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Christian,FY 2004,28,Iran,2,176
+From: 11 Feb 2004,To: 11 Feb 2004,Christian,FY 2004,28,Sudan,23,176
+From: 11 Feb 2004,To: 11 Feb 2004,Evangelical Christian,FY 2004,1,Cuba,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Jehovah Witness,FY 2004,4,Cuba,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Jehovah Witness,FY 2004,4,Sudan,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Jewish,FY 2004,22,Belarus,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Jewish,FY 2004,22,Iran,8,176
+From: 11 Feb 2004,To: 11 Feb 2004,Moslem,FY 2004,53,Afghanistan,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Moslem,FY 2004,53,China,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Moslem,FY 2004,53,Ethiopia,14,176
+From: 11 Feb 2004,To: 11 Feb 2004,Moslem,FY 2004,53,Somalia,17,176
+From: 11 Feb 2004,To: 11 Feb 2004,Moslem,FY 2004,53,Sudan,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Moslem,FY 2004,53,Uzbekistan,4,176
+From: 11 Feb 2004,To: 11 Feb 2004,No Religion,FY 2004,16,Belarus,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,No Religion,FY 2004,16,Cuba,13,176
+From: 11 Feb 2004,To: 11 Feb 2004,Other Religion,FY 2004,3,Cuba,3,176
+From: 11 Feb 2004,To: 11 Feb 2004,Pentecostalist,FY 2004,5,Belarus,5,176
+From: 11 Feb 2004,To: 11 Feb 2004,Protestant,FY 2004,1,Sudan,1,176
+From: 11 Feb 2004,To: 11 Feb 2004,Unknown,FY 2004,4,Belarus,4,176
+

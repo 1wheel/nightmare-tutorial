@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Apr 2016,To: 18 Apr 2016,Bhutan,FY 2016,13,Buddhist,8,170
+From: 18 Apr 2016,To: 18 Apr 2016,Bhutan,FY 2016,13,Christian,4,170
+From: 18 Apr 2016,To: 18 Apr 2016,Bhutan,FY 2016,13,Hindu,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Burma,FY 2016,41,Baptist,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Burma,FY 2016,41,Christian,20,170
+From: 18 Apr 2016,To: 18 Apr 2016,Burma,FY 2016,41,Moslem,19,170
+From: 18 Apr 2016,To: 18 Apr 2016,Cameroon,FY 2016,1,Catholic,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Dem. Rep. Congo,FY 2016,1,Christian,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Eritrea,FY 2016,2,Orthodox,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Ethiopia,FY 2016,3,Christian,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Ethiopia,FY 2016,3,Orthodox,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iran,FY 2016,3,Moslem Shiite,3,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iraq,FY 2016,68,Catholic,3,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iraq,FY 2016,68,Moslem,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iraq,FY 2016,68,Moslem Shiite,25,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iraq,FY 2016,68,Moslem Suni,31,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iraq,FY 2016,68,Orthodox,5,170
+From: 18 Apr 2016,To: 18 Apr 2016,Iraq,FY 2016,68,Yazidi,3,170
+From: 18 Apr 2016,To: 18 Apr 2016,Somalia,FY 2016,12,Moslem,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Somalia,FY 2016,12,Moslem Suni,10,170
+From: 18 Apr 2016,To: 18 Apr 2016,Syria,FY 2016,26,Moslem Suni,21,170
+From: 18 Apr 2016,To: 18 Apr 2016,Syria,FY 2016,26,Yazidi,5,170
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Apr 2016,To: 18 Apr 2016,Baptist,FY 2016,2,Burma,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Buddhist,FY 2016,8,Bhutan,8,170
+From: 18 Apr 2016,To: 18 Apr 2016,Catholic,FY 2016,4,Cameroon,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Catholic,FY 2016,4,Iraq,3,170
+From: 18 Apr 2016,To: 18 Apr 2016,Christian,FY 2016,27,Bhutan,4,170
+From: 18 Apr 2016,To: 18 Apr 2016,Christian,FY 2016,27,Burma,20,170
+From: 18 Apr 2016,To: 18 Apr 2016,Christian,FY 2016,27,Dem. Rep. Congo,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Christian,FY 2016,27,Ethiopia,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Hindu,FY 2016,1,Bhutan,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem,FY 2016,22,Burma,19,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem,FY 2016,22,Iraq,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem,FY 2016,22,Somalia,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem Shiite,FY 2016,28,Iran,3,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem Shiite,FY 2016,28,Iraq,25,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem Suni,FY 2016,62,Iraq,31,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem Suni,FY 2016,62,Somalia,10,170
+From: 18 Apr 2016,To: 18 Apr 2016,Moslem Suni,FY 2016,62,Syria,21,170
+From: 18 Apr 2016,To: 18 Apr 2016,Orthodox,FY 2016,8,Eritrea,2,170
+From: 18 Apr 2016,To: 18 Apr 2016,Orthodox,FY 2016,8,Ethiopia,1,170
+From: 18 Apr 2016,To: 18 Apr 2016,Orthodox,FY 2016,8,Iraq,5,170
+From: 18 Apr 2016,To: 18 Apr 2016,Yazidi,FY 2016,8,Iraq,3,170
+From: 18 Apr 2016,To: 18 Apr 2016,Yazidi,FY 2016,8,Syria,5,170
+

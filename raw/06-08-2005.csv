@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jun 2005,To: 08 Jun 2005,Azerbaijan,FY 2005,5,Jewish,5,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ethiopia,FY 2005,16,Christian,6,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ethiopia,FY 2005,16,Moslem,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ethiopia,FY 2005,16,Protestant,3,343
+From: 08 Jun 2005,To: 08 Jun 2005,Iran,FY 2005,2,Moslem Shiite,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Laos,FY 2005,104,Ancestral Worship,104,343
+From: 08 Jun 2005,To: 08 Jun 2005,Liberia,FY 2005,57,Christian,38,343
+From: 08 Jun 2005,To: 08 Jun 2005,Liberia,FY 2005,57,Jehovah Witness,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Liberia,FY 2005,57,Methodist,10,343
+From: 08 Jun 2005,To: 08 Jun 2005,Liberia,FY 2005,57,Moslem,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Russia,FY 2005,53,Baptist,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Russia,FY 2005,53,Jewish,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Russia,FY 2005,53,Moslem,35,343
+From: 08 Jun 2005,To: 08 Jun 2005,Russia,FY 2005,53,No Religion,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Russia,FY 2005,53,Pentecostalist,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Rwanda,FY 2005,1,Catholic,1,343
+From: 08 Jun 2005,To: 08 Jun 2005,Sierra Leone,FY 2005,3,Christian,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Sierra Leone,FY 2005,3,Moslem,1,343
+From: 08 Jun 2005,To: 08 Jun 2005,Somalia,FY 2005,48,Moslem,48,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ukraine,FY 2005,29,Baptist,11,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ukraine,FY 2005,29,Jewish,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ukraine,FY 2005,29,Pentecostalist,14,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ukraine,FY 2005,29,Seventh Day Adventist,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Vietnam,FY 2005,25,Ancestral Worship,3,343
+From: 08 Jun 2005,To: 08 Jun 2005,Vietnam,FY 2005,25,Buddhist,6,343
+From: 08 Jun 2005,To: 08 Jun 2005,Vietnam,FY 2005,25,Cao Dai,1,343
+From: 08 Jun 2005,To: 08 Jun 2005,Vietnam,FY 2005,25,Hoa Hao,3,343
+From: 08 Jun 2005,To: 08 Jun 2005,Vietnam,FY 2005,25,No Religion,12,343
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jun 2005,To: 08 Jun 2005,Ancestral Worship,FY 2005,107,Laos,104,343
+From: 08 Jun 2005,To: 08 Jun 2005,Ancestral Worship,FY 2005,107,Vietnam,3,343
+From: 08 Jun 2005,To: 08 Jun 2005,Baptist,FY 2005,18,Russia,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Baptist,FY 2005,18,Ukraine,11,343
+From: 08 Jun 2005,To: 08 Jun 2005,Buddhist,FY 2005,6,Vietnam,6,343
+From: 08 Jun 2005,To: 08 Jun 2005,Cao Dai,FY 2005,1,Vietnam,1,343
+From: 08 Jun 2005,To: 08 Jun 2005,Catholic,FY 2005,1,Rwanda,1,343
+From: 08 Jun 2005,To: 08 Jun 2005,Christian,FY 2005,46,Ethiopia,6,343
+From: 08 Jun 2005,To: 08 Jun 2005,Christian,FY 2005,46,Liberia,38,343
+From: 08 Jun 2005,To: 08 Jun 2005,Christian,FY 2005,46,Sierra Leone,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Hoa Hao,FY 2005,3,Vietnam,3,343
+From: 08 Jun 2005,To: 08 Jun 2005,Jehovah Witness,FY 2005,2,Liberia,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Jewish,FY 2005,14,Azerbaijan,5,343
+From: 08 Jun 2005,To: 08 Jun 2005,Jewish,FY 2005,14,Russia,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Jewish,FY 2005,14,Ukraine,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Methodist,FY 2005,10,Liberia,10,343
+From: 08 Jun 2005,To: 08 Jun 2005,Moslem,FY 2005,98,Ethiopia,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Moslem,FY 2005,98,Liberia,7,343
+From: 08 Jun 2005,To: 08 Jun 2005,Moslem,FY 2005,98,Russia,35,343
+From: 08 Jun 2005,To: 08 Jun 2005,Moslem,FY 2005,98,Sierra Leone,1,343
+From: 08 Jun 2005,To: 08 Jun 2005,Moslem,FY 2005,98,Somalia,48,343
+From: 08 Jun 2005,To: 08 Jun 2005,Moslem Shiite,FY 2005,2,Iran,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,No Religion,FY 2005,14,Russia,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,No Religion,FY 2005,14,Vietnam,12,343
+From: 08 Jun 2005,To: 08 Jun 2005,Pentecostalist,FY 2005,16,Russia,2,343
+From: 08 Jun 2005,To: 08 Jun 2005,Pentecostalist,FY 2005,16,Ukraine,14,343
+From: 08 Jun 2005,To: 08 Jun 2005,Protestant,FY 2005,3,Ethiopia,3,343
+From: 08 Jun 2005,To: 08 Jun 2005,Seventh Day Adventist,FY 2005,2,Ukraine,2,343
+

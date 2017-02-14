@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Dec 2011,To: 01 Dec 2011,Bhutan,FY 2012,104,Buddhist,32,382
+From: 01 Dec 2011,To: 01 Dec 2011,Bhutan,FY 2012,104,Christian,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Bhutan,FY 2012,104,Hindu,53,382
+From: 01 Dec 2011,To: 01 Dec 2011,Bhutan,FY 2012,104,Kirat,12,382
+From: 01 Dec 2011,To: 01 Dec 2011,Burma,FY 2012,137,Animist,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Burma,FY 2012,137,Baptist,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Burma,FY 2012,137,Buddhist,36,382
+From: 01 Dec 2011,To: 01 Dec 2011,Burma,FY 2012,137,Christian,82,382
+From: 01 Dec 2011,To: 01 Dec 2011,Burma,FY 2012,137,Moslem,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Cuba,FY 2012,22,Catholic,9,382
+From: 01 Dec 2011,To: 01 Dec 2011,Cuba,FY 2012,22,Evangelical Christian,8,382
+From: 01 Dec 2011,To: 01 Dec 2011,Cuba,FY 2012,22,Jehovah Witness,4,382
+From: 01 Dec 2011,To: 01 Dec 2011,Cuba,FY 2012,22,No Religion,1,382
+From: 01 Dec 2011,To: 01 Dec 2011,Eritrea,FY 2012,15,Catholic,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Eritrea,FY 2012,15,Moslem,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Eritrea,FY 2012,15,Orthodox,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Ethiopia,FY 2012,1,Moslem,1,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iran,FY 2012,20,Bahai,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iran,FY 2012,20,Christian,10,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iran,FY 2012,20,Sabeans-Mandean,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iran,FY 2012,20,Zoroastrian,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iraq,FY 2012,12,Christian,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iraq,FY 2012,12,Moslem Shiite,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iraq,FY 2012,12,Moslem Suni,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Iraq,FY 2012,12,Sabeans-Mandean,1,382
+From: 01 Dec 2011,To: 01 Dec 2011,Somalia,FY 2012,48,Moslem,48,382
+From: 01 Dec 2011,To: 01 Dec 2011,Sudan,FY 2012,16,Moslem,16,382
+From: 01 Dec 2011,To: 01 Dec 2011,Vietnam,FY 2012,7,No Religion,7,382
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Dec 2011,To: 01 Dec 2011,Animist,FY 2012,6,Burma,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Bahai,FY 2012,6,Iran,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Baptist,FY 2012,7,Burma,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Buddhist,FY 2012,68,Bhutan,32,382
+From: 01 Dec 2011,To: 01 Dec 2011,Buddhist,FY 2012,68,Burma,36,382
+From: 01 Dec 2011,To: 01 Dec 2011,Catholic,FY 2012,15,Cuba,9,382
+From: 01 Dec 2011,To: 01 Dec 2011,Catholic,FY 2012,15,Eritrea,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Christian,FY 2012,101,Bhutan,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Christian,FY 2012,101,Burma,82,382
+From: 01 Dec 2011,To: 01 Dec 2011,Christian,FY 2012,101,Iran,10,382
+From: 01 Dec 2011,To: 01 Dec 2011,Christian,FY 2012,101,Iraq,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Evangelical Christian,FY 2012,8,Cuba,8,382
+From: 01 Dec 2011,To: 01 Dec 2011,Hindu,FY 2012,53,Bhutan,53,382
+From: 01 Dec 2011,To: 01 Dec 2011,Jehovah Witness,FY 2012,4,Cuba,4,382
+From: 01 Dec 2011,To: 01 Dec 2011,Kirat,FY 2012,12,Bhutan,12,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem,FY 2012,73,Burma,6,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem,FY 2012,73,Eritrea,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem,FY 2012,73,Ethiopia,1,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem,FY 2012,73,Somalia,48,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem,FY 2012,73,Sudan,16,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem Shiite,FY 2012,7,Iraq,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Moslem Suni,FY 2012,2,Iraq,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,No Religion,FY 2012,8,Cuba,1,382
+From: 01 Dec 2011,To: 01 Dec 2011,No Religion,FY 2012,8,Vietnam,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Orthodox,FY 2012,7,Eritrea,7,382
+From: 01 Dec 2011,To: 01 Dec 2011,Sabeans-Mandean,FY 2012,3,Iran,2,382
+From: 01 Dec 2011,To: 01 Dec 2011,Sabeans-Mandean,FY 2012,3,Iraq,1,382
+From: 01 Dec 2011,To: 01 Dec 2011,Zoroastrian,FY 2012,2,Iran,2,382
+

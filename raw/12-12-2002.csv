@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Dec 2002,To: 12 Dec 2002,Afghanistan,FY 2003,11,Moslem Shiite,5,124
+From: 12 Dec 2002,To: 12 Dec 2002,Afghanistan,FY 2003,11,Moslem Suni,6,124
+From: 12 Dec 2002,To: 12 Dec 2002,Bosnia and Herzegovina,FY 2003,15,Moslem,11,124
+From: 12 Dec 2002,To: 12 Dec 2002,Bosnia and Herzegovina,FY 2003,15,Unknown,4,124
+From: 12 Dec 2002,To: 12 Dec 2002,Ethiopia,FY 2003,7,Christian,7,124
+From: 12 Dec 2002,To: 12 Dec 2002,Iran,FY 2003,1,Evangelical Christian,1,124
+From: 12 Dec 2002,To: 12 Dec 2002,Liberia,FY 2003,6,Christian,6,124
+From: 12 Dec 2002,To: 12 Dec 2002,Pakistan,FY 2003,1,Moslem,1,124
+From: 12 Dec 2002,To: 12 Dec 2002,Russia,FY 2003,6,No Religion,3,124
+From: 12 Dec 2002,To: 12 Dec 2002,Russia,FY 2003,6,Unknown,3,124
+From: 12 Dec 2002,To: 12 Dec 2002,Ukraine,FY 2003,70,Baptist,39,124
+From: 12 Dec 2002,To: 12 Dec 2002,Ukraine,FY 2003,70,Jewish,3,124
+From: 12 Dec 2002,To: 12 Dec 2002,Ukraine,FY 2003,70,Pentecostalist,26,124
+From: 12 Dec 2002,To: 12 Dec 2002,Ukraine,FY 2003,70,Unknown,2,124
+From: 12 Dec 2002,To: 12 Dec 2002,Vietnam,FY 2003,7,Unknown,7,124
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Dec 2002,To: 12 Dec 2002,Baptist,FY 2003,39,Ukraine,39,124
+From: 12 Dec 2002,To: 12 Dec 2002,Christian,FY 2003,13,Ethiopia,7,124
+From: 12 Dec 2002,To: 12 Dec 2002,Christian,FY 2003,13,Liberia,6,124
+From: 12 Dec 2002,To: 12 Dec 2002,Evangelical Christian,FY 2003,1,Iran,1,124
+From: 12 Dec 2002,To: 12 Dec 2002,Jewish,FY 2003,3,Ukraine,3,124
+From: 12 Dec 2002,To: 12 Dec 2002,Moslem,FY 2003,12,Bosnia and Herzegovina,11,124
+From: 12 Dec 2002,To: 12 Dec 2002,Moslem,FY 2003,12,Pakistan,1,124
+From: 12 Dec 2002,To: 12 Dec 2002,Moslem Shiite,FY 2003,5,Afghanistan,5,124
+From: 12 Dec 2002,To: 12 Dec 2002,Moslem Suni,FY 2003,6,Afghanistan,6,124
+From: 12 Dec 2002,To: 12 Dec 2002,No Religion,FY 2003,3,Russia,3,124
+From: 12 Dec 2002,To: 12 Dec 2002,Pentecostalist,FY 2003,26,Ukraine,26,124
+From: 12 Dec 2002,To: 12 Dec 2002,Unknown,FY 2003,16,Bosnia and Herzegovina,4,124
+From: 12 Dec 2002,To: 12 Dec 2002,Unknown,FY 2003,16,Russia,3,124
+From: 12 Dec 2002,To: 12 Dec 2002,Unknown,FY 2003,16,Ukraine,2,124
+From: 12 Dec 2002,To: 12 Dec 2002,Unknown,FY 2003,16,Vietnam,7,124
+

@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Dec 2005,To: 05 Dec 2005,Afghanistan,FY 2006,11,Moslem Suni,11,352
+From: 05 Dec 2005,To: 05 Dec 2005,Belarus,FY 2006,21,Jewish,10,352
+From: 05 Dec 2005,To: 05 Dec 2005,Belarus,FY 2006,21,Pentecostalist,8,352
+From: 05 Dec 2005,To: 05 Dec 2005,Belarus,FY 2006,21,Seventh Day Adventist,3,352
+From: 05 Dec 2005,To: 05 Dec 2005,Ghana,FY 2006,1,Christian,1,352
+From: 05 Dec 2005,To: 05 Dec 2005,Iran,FY 2006,14,Christian,9,352
+From: 05 Dec 2005,To: 05 Dec 2005,Iran,FY 2006,14,Zoroastrian,5,352
+From: 05 Dec 2005,To: 05 Dec 2005,Liberia,FY 2006,44,Christian,22,352
+From: 05 Dec 2005,To: 05 Dec 2005,Liberia,FY 2006,44,Moslem,22,352
+From: 05 Dec 2005,To: 05 Dec 2005,Moldova,FY 2006,37,Baptist,23,352
+From: 05 Dec 2005,To: 05 Dec 2005,Moldova,FY 2006,37,Pentecostalist,14,352
+From: 05 Dec 2005,To: 05 Dec 2005,Russia,FY 2006,86,Baptist,12,352
+From: 05 Dec 2005,To: 05 Dec 2005,Russia,FY 2006,86,Catholic,2,352
+From: 05 Dec 2005,To: 05 Dec 2005,Russia,FY 2006,86,Jewish,4,352
+From: 05 Dec 2005,To: 05 Dec 2005,Russia,FY 2006,86,Moslem,55,352
+From: 05 Dec 2005,To: 05 Dec 2005,Russia,FY 2006,86,Pentecostalist,5,352
+From: 05 Dec 2005,To: 05 Dec 2005,Russia,FY 2006,86,Seventh Day Adventist,8,352
+From: 05 Dec 2005,To: 05 Dec 2005,Somalia,FY 2006,27,Moslem,27,352
+From: 05 Dec 2005,To: 05 Dec 2005,Ukraine,FY 2006,35,Baptist,10,352
+From: 05 Dec 2005,To: 05 Dec 2005,Ukraine,FY 2006,35,Jewish,1,352
+From: 05 Dec 2005,To: 05 Dec 2005,Ukraine,FY 2006,35,Pentecostalist,24,352
+From: 05 Dec 2005,To: 05 Dec 2005,Uzbekistan,FY 2006,6,Jewish,6,352
+From: 05 Dec 2005,To: 05 Dec 2005,Vietnam,FY 2006,70,Ancestral Worship,1,352
+From: 05 Dec 2005,To: 05 Dec 2005,Vietnam,FY 2006,70,Buddhist,54,352
+From: 05 Dec 2005,To: 05 Dec 2005,Vietnam,FY 2006,70,Catholic,13,352
+From: 05 Dec 2005,To: 05 Dec 2005,Vietnam,FY 2006,70,Christian,2,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Dec 2005,To: 05 Dec 2005,Ancestral Worship,FY 2006,1,Vietnam,1,352
+From: 05 Dec 2005,To: 05 Dec 2005,Baptist,FY 2006,45,Moldova,23,352
+From: 05 Dec 2005,To: 05 Dec 2005,Baptist,FY 2006,45,Russia,12,352
+From: 05 Dec 2005,To: 05 Dec 2005,Baptist,FY 2006,45,Ukraine,10,352
+From: 05 Dec 2005,To: 05 Dec 2005,Buddhist,FY 2006,54,Vietnam,54,352
+From: 05 Dec 2005,To: 05 Dec 2005,Catholic,FY 2006,15,Russia,2,352
+From: 05 Dec 2005,To: 05 Dec 2005,Catholic,FY 2006,15,Vietnam,13,352
+From: 05 Dec 2005,To: 05 Dec 2005,Christian,FY 2006,34,Ghana,1,352
+From: 05 Dec 2005,To: 05 Dec 2005,Christian,FY 2006,34,Iran,9,352
+From: 05 Dec 2005,To: 05 Dec 2005,Christian,FY 2006,34,Liberia,22,352
+From: 05 Dec 2005,To: 05 Dec 2005,Christian,FY 2006,34,Vietnam,2,352
+From: 05 Dec 2005,To: 05 Dec 2005,Jewish,FY 2006,21,Belarus,10,352
+From: 05 Dec 2005,To: 05 Dec 2005,Jewish,FY 2006,21,Russia,4,352
+From: 05 Dec 2005,To: 05 Dec 2005,Jewish,FY 2006,21,Ukraine,1,352
+From: 05 Dec 2005,To: 05 Dec 2005,Jewish,FY 2006,21,Uzbekistan,6,352
+From: 05 Dec 2005,To: 05 Dec 2005,Moslem,FY 2006,104,Liberia,22,352
+From: 05 Dec 2005,To: 05 Dec 2005,Moslem,FY 2006,104,Russia,55,352
+From: 05 Dec 2005,To: 05 Dec 2005,Moslem,FY 2006,104,Somalia,27,352
+From: 05 Dec 2005,To: 05 Dec 2005,Moslem Suni,FY 2006,11,Afghanistan,11,352
+From: 05 Dec 2005,To: 05 Dec 2005,Pentecostalist,FY 2006,51,Belarus,8,352
+From: 05 Dec 2005,To: 05 Dec 2005,Pentecostalist,FY 2006,51,Moldova,14,352
+From: 05 Dec 2005,To: 05 Dec 2005,Pentecostalist,FY 2006,51,Russia,5,352
+From: 05 Dec 2005,To: 05 Dec 2005,Pentecostalist,FY 2006,51,Ukraine,24,352
+From: 05 Dec 2005,To: 05 Dec 2005,Seventh Day Adventist,FY 2006,11,Belarus,3,352
+From: 05 Dec 2005,To: 05 Dec 2005,Seventh Day Adventist,FY 2006,11,Russia,8,352
+From: 05 Dec 2005,To: 05 Dec 2005,Zoroastrian,FY 2006,5,Iran,5,352
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Feb 2011,To: 09 Feb 2011,Bhutan,FY 2011,135,Buddhist,52,454
+From: 09 Feb 2011,To: 09 Feb 2011,Bhutan,FY 2011,135,Christian,9,454
+From: 09 Feb 2011,To: 09 Feb 2011,Bhutan,FY 2011,135,Hindu,67,454
+From: 09 Feb 2011,To: 09 Feb 2011,Bhutan,FY 2011,135,Kirat,7,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Baptist,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Buddhist,50,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Catholic,6,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Christian,100,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Methodist,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Moslem,21,454
+From: 09 Feb 2011,To: 09 Feb 2011,Burma,FY 2011,185,Pentecostalist,6,454
+From: 09 Feb 2011,To: 09 Feb 2011,Eritrea,FY 2011,5,Orthodox,5,454
+From: 09 Feb 2011,To: 09 Feb 2011,Iraq,FY 2011,46,Catholic,2,454
+From: 09 Feb 2011,To: 09 Feb 2011,Iraq,FY 2011,46,Christian,17,454
+From: 09 Feb 2011,To: 09 Feb 2011,Iraq,FY 2011,46,Moslem Shiite,2,454
+From: 09 Feb 2011,To: 09 Feb 2011,Iraq,FY 2011,46,Moslem Suni,25,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moldova,FY 2011,25,Baptist,18,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moldova,FY 2011,25,Jehovah Witness,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moldova,FY 2011,25,Pentecostalist,5,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moldova,FY 2011,25,Seventh Day Adventist,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Russia,FY 2011,7,Baptist,5,454
+From: 09 Feb 2011,To: 09 Feb 2011,Russia,FY 2011,7,No Religion,2,454
+From: 09 Feb 2011,To: 09 Feb 2011,Somalia,FY 2011,51,Moslem,48,454
+From: 09 Feb 2011,To: 09 Feb 2011,Somalia,FY 2011,51,Moslem Suni,3,454
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Feb 2011,To: 09 Feb 2011,Baptist,FY 2011,24,Burma,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Baptist,FY 2011,24,Moldova,18,454
+From: 09 Feb 2011,To: 09 Feb 2011,Baptist,FY 2011,24,Russia,5,454
+From: 09 Feb 2011,To: 09 Feb 2011,Buddhist,FY 2011,102,Bhutan,52,454
+From: 09 Feb 2011,To: 09 Feb 2011,Buddhist,FY 2011,102,Burma,50,454
+From: 09 Feb 2011,To: 09 Feb 2011,Catholic,FY 2011,8,Burma,6,454
+From: 09 Feb 2011,To: 09 Feb 2011,Catholic,FY 2011,8,Iraq,2,454
+From: 09 Feb 2011,To: 09 Feb 2011,Christian,FY 2011,126,Bhutan,9,454
+From: 09 Feb 2011,To: 09 Feb 2011,Christian,FY 2011,126,Burma,100,454
+From: 09 Feb 2011,To: 09 Feb 2011,Christian,FY 2011,126,Iraq,17,454
+From: 09 Feb 2011,To: 09 Feb 2011,Hindu,FY 2011,67,Bhutan,67,454
+From: 09 Feb 2011,To: 09 Feb 2011,Jehovah Witness,FY 2011,1,Moldova,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Kirat,FY 2011,7,Bhutan,7,454
+From: 09 Feb 2011,To: 09 Feb 2011,Methodist,FY 2011,1,Burma,1,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moslem,FY 2011,69,Burma,21,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moslem,FY 2011,69,Somalia,48,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moslem Shiite,FY 2011,2,Iraq,2,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moslem Suni,FY 2011,28,Iraq,25,454
+From: 09 Feb 2011,To: 09 Feb 2011,Moslem Suni,FY 2011,28,Somalia,3,454
+From: 09 Feb 2011,To: 09 Feb 2011,No Religion,FY 2011,2,Russia,2,454
+From: 09 Feb 2011,To: 09 Feb 2011,Orthodox,FY 2011,5,Eritrea,5,454
+From: 09 Feb 2011,To: 09 Feb 2011,Pentecostalist,FY 2011,11,Burma,6,454
+From: 09 Feb 2011,To: 09 Feb 2011,Pentecostalist,FY 2011,11,Moldova,5,454
+From: 09 Feb 2011,To: 09 Feb 2011,Seventh Day Adventist,FY 2011,1,Moldova,1,454
+

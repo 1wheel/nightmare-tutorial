@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Apr 2015,To: 27 Apr 2015,Afghanistan,FY 2015,11,Christian,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Afghanistan,FY 2015,11,Moslem Shiite,9,251
+From: 27 Apr 2015,To: 27 Apr 2015,Afghanistan,FY 2015,11,Moslem Suni,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Burma,FY 2015,69,Baptist,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Burma,FY 2015,69,Buddhist,8,251
+From: 27 Apr 2015,To: 27 Apr 2015,Burma,FY 2015,69,Christian,34,251
+From: 27 Apr 2015,To: 27 Apr 2015,Burma,FY 2015,69,Moslem,26,251
+From: 27 Apr 2015,To: 27 Apr 2015,Dem. Rep. Congo,FY 2015,43,Bahai,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Dem. Rep. Congo,FY 2015,43,Catholic,13,251
+From: 27 Apr 2015,To: 27 Apr 2015,Dem. Rep. Congo,FY 2015,43,Moslem,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Dem. Rep. Congo,FY 2015,43,Pentecostalist,14,251
+From: 27 Apr 2015,To: 27 Apr 2015,Dem. Rep. Congo,FY 2015,43,Protestant,8,251
+From: 27 Apr 2015,To: 27 Apr 2015,Georgia,FY 2015,1,Atheist,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Iran,FY 2015,2,Bahai,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Iran,FY 2015,2,No Religion,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Iraq,FY 2015,68,Catholic,19,251
+From: 27 Apr 2015,To: 27 Apr 2015,Iraq,FY 2015,68,Moslem Shiite,27,251
+From: 27 Apr 2015,To: 27 Apr 2015,Iraq,FY 2015,68,Moslem Suni,18,251
+From: 27 Apr 2015,To: 27 Apr 2015,Iraq,FY 2015,68,Orthodox,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Somalia,FY 2015,13,Moslem Suni,13,251
+From: 27 Apr 2015,To: 27 Apr 2015,Sri Lanka (Ceylon),FY 2015,1,Christian,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Sudan,FY 2015,9,Moslem,9,251
+From: 27 Apr 2015,To: 27 Apr 2015,Syria,FY 2015,4,Moslem,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Ukraine,FY 2015,30,Baptist,10,251
+From: 27 Apr 2015,To: 27 Apr 2015,Ukraine,FY 2015,30,Christian,2,251
+From: 27 Apr 2015,To: 27 Apr 2015,Ukraine,FY 2015,30,Evangelical Christian,2,251
+From: 27 Apr 2015,To: 27 Apr 2015,Ukraine,FY 2015,30,Pentecostalist,12,251
+From: 27 Apr 2015,To: 27 Apr 2015,Ukraine,FY 2015,30,Uniate,4,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Apr 2015,To: 27 Apr 2015,Atheist,FY 2015,1,Georgia,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Bahai,FY 2015,5,Dem. Rep. Congo,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Bahai,FY 2015,5,Iran,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Baptist,FY 2015,11,Burma,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Baptist,FY 2015,11,Ukraine,10,251
+From: 27 Apr 2015,To: 27 Apr 2015,Buddhist,FY 2015,8,Burma,8,251
+From: 27 Apr 2015,To: 27 Apr 2015,Catholic,FY 2015,32,Dem. Rep. Congo,13,251
+From: 27 Apr 2015,To: 27 Apr 2015,Catholic,FY 2015,32,Iraq,19,251
+From: 27 Apr 2015,To: 27 Apr 2015,Christian,FY 2015,38,Afghanistan,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Christian,FY 2015,38,Burma,34,251
+From: 27 Apr 2015,To: 27 Apr 2015,Christian,FY 2015,38,Sri Lanka (Ceylon),1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Christian,FY 2015,38,Ukraine,2,251
+From: 27 Apr 2015,To: 27 Apr 2015,Evangelical Christian,FY 2015,2,Ukraine,2,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem,FY 2015,43,Burma,26,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem,FY 2015,43,Dem. Rep. Congo,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem,FY 2015,43,Sudan,9,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem,FY 2015,43,Syria,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem Shiite,FY 2015,36,Afghanistan,9,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem Shiite,FY 2015,36,Iraq,27,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem Suni,FY 2015,32,Afghanistan,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem Suni,FY 2015,32,Iraq,18,251
+From: 27 Apr 2015,To: 27 Apr 2015,Moslem Suni,FY 2015,32,Somalia,13,251
+From: 27 Apr 2015,To: 27 Apr 2015,No Religion,FY 2015,1,Iran,1,251
+From: 27 Apr 2015,To: 27 Apr 2015,Orthodox,FY 2015,4,Iraq,4,251
+From: 27 Apr 2015,To: 27 Apr 2015,Pentecostalist,FY 2015,26,Dem. Rep. Congo,14,251
+From: 27 Apr 2015,To: 27 Apr 2015,Pentecostalist,FY 2015,26,Ukraine,12,251
+From: 27 Apr 2015,To: 27 Apr 2015,Protestant,FY 2015,8,Dem. Rep. Congo,8,251
+From: 27 Apr 2015,To: 27 Apr 2015,Uniate,FY 2015,4,Ukraine,4,251
+

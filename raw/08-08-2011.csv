@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Aug 2011,To: 08 Aug 2011,Bhutan,FY 2011,140,Buddhist,22,261
+From: 08 Aug 2011,To: 08 Aug 2011,Bhutan,FY 2011,140,Christian,6,261
+From: 08 Aug 2011,To: 08 Aug 2011,Bhutan,FY 2011,140,Hindu,105,261
+From: 08 Aug 2011,To: 08 Aug 2011,Bhutan,FY 2011,140,Kirat,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Burma,FY 2011,37,Baptist,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Burma,FY 2011,37,Buddhist,5,261
+From: 08 Aug 2011,To: 08 Aug 2011,Burma,FY 2011,37,Christian,30,261
+From: 08 Aug 2011,To: 08 Aug 2011,Central African Republic,FY 2011,15,Catholic,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Central African Republic,FY 2011,15,Protestant,8,261
+From: 08 Aug 2011,To: 08 Aug 2011,Eritrea,FY 2011,33,Catholic,4,261
+From: 08 Aug 2011,To: 08 Aug 2011,Eritrea,FY 2011,33,Christian,8,261
+From: 08 Aug 2011,To: 08 Aug 2011,Eritrea,FY 2011,33,Jehovah Witness,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Eritrea,FY 2011,33,Moslem,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Eritrea,FY 2011,33,Orthodox,18,261
+From: 08 Aug 2011,To: 08 Aug 2011,Eritrea,FY 2011,33,Protestant,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Ethiopia,FY 2011,9,Moslem,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Ethiopia,FY 2011,9,Orthodox,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Iran,FY 2011,9,Christian,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Iran,FY 2011,9,Zoroastrian,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Iraq,FY 2011,5,Christian,3,261
+From: 08 Aug 2011,To: 08 Aug 2011,Iraq,FY 2011,5,Moslem,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Iraq,FY 2011,5,Sabeans-Mandean,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Liberia,FY 2011,3,Christian,3,261
+From: 08 Aug 2011,To: 08 Aug 2011,Netherlands,FY 2011,1,Moslem,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Somalia,FY 2011,2,Moslem,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Sudan,FY 2011,7,Christian,7,261
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Aug 2011,To: 08 Aug 2011,Baptist,FY 2011,2,Burma,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Buddhist,FY 2011,27,Bhutan,22,261
+From: 08 Aug 2011,To: 08 Aug 2011,Buddhist,FY 2011,27,Burma,5,261
+From: 08 Aug 2011,To: 08 Aug 2011,Catholic,FY 2011,11,Central African Republic,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Catholic,FY 2011,11,Eritrea,4,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Bhutan,6,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Burma,30,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Eritrea,8,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Iran,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Iraq,3,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Liberia,3,261
+From: 08 Aug 2011,To: 08 Aug 2011,Christian,FY 2011,64,Sudan,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Hindu,FY 2011,105,Bhutan,105,261
+From: 08 Aug 2011,To: 08 Aug 2011,Jehovah Witness,FY 2011,1,Eritrea,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Kirat,FY 2011,7,Bhutan,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Moslem,FY 2011,12,Eritrea,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Moslem,FY 2011,12,Ethiopia,7,261
+From: 08 Aug 2011,To: 08 Aug 2011,Moslem,FY 2011,12,Iraq,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Moslem,FY 2011,12,Netherlands,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Moslem,FY 2011,12,Somalia,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Orthodox,FY 2011,20,Eritrea,18,261
+From: 08 Aug 2011,To: 08 Aug 2011,Orthodox,FY 2011,20,Ethiopia,2,261
+From: 08 Aug 2011,To: 08 Aug 2011,Protestant,FY 2011,9,Central African Republic,8,261
+From: 08 Aug 2011,To: 08 Aug 2011,Protestant,FY 2011,9,Eritrea,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Sabeans-Mandean,FY 2011,1,Iraq,1,261
+From: 08 Aug 2011,To: 08 Aug 2011,Zoroastrian,FY 2011,2,Iran,2,261
+

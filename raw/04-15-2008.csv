@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Apr 2008,To: 15 Apr 2008,Burma,FY 2008,33,Buddhist,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Burma,FY 2008,33,Christian,30,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,Baptist,4,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,Catholic,29,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,Evangelical Christian,2,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,Jehovah Witness,8,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,No Religion,18,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,Other Religion,1,275
+From: 15 Apr 2008,To: 15 Apr 2008,Cuba,FY 2008,70,Pentecostalist,8,275
+From: 15 Apr 2008,To: 15 Apr 2008,Eritrea,FY 2008,2,Christian,2,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iran,FY 2008,54,Bahai,8,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iran,FY 2008,54,Christian,24,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iran,FY 2008,54,Jewish,12,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iran,FY 2008,54,Sabeans-Mandean,7,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iran,FY 2008,54,Zoroastrian,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iraq,FY 2008,73,Catholic,7,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iraq,FY 2008,73,Christian,29,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iraq,FY 2008,73,Moslem Shiite,1,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iraq,FY 2008,73,Moslem Suni,33,275
+From: 15 Apr 2008,To: 15 Apr 2008,Iraq,FY 2008,73,Sabeans-Mandean,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Liberia,FY 2008,11,Christian,5,275
+From: 15 Apr 2008,To: 15 Apr 2008,Liberia,FY 2008,11,Pentecostalist,6,275
+From: 15 Apr 2008,To: 15 Apr 2008,Morocco,FY 2008,3,Christian,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Sierra Leone,FY 2008,6,Moslem,6,275
+From: 15 Apr 2008,To: 15 Apr 2008,Sudan,FY 2008,5,Unknown,5,275
+From: 15 Apr 2008,To: 15 Apr 2008,Ukraine,FY 2008,18,Baptist,13,275
+From: 15 Apr 2008,To: 15 Apr 2008,Ukraine,FY 2008,18,Jewish,1,275
+From: 15 Apr 2008,To: 15 Apr 2008,Ukraine,FY 2008,18,Pentecostalist,4,275
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Apr 2008,To: 15 Apr 2008,Bahai,FY 2008,8,Iran,8,275
+From: 15 Apr 2008,To: 15 Apr 2008,Baptist,FY 2008,17,Cuba,4,275
+From: 15 Apr 2008,To: 15 Apr 2008,Baptist,FY 2008,17,Ukraine,13,275
+From: 15 Apr 2008,To: 15 Apr 2008,Buddhist,FY 2008,3,Burma,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Catholic,FY 2008,36,Cuba,29,275
+From: 15 Apr 2008,To: 15 Apr 2008,Catholic,FY 2008,36,Iraq,7,275
+From: 15 Apr 2008,To: 15 Apr 2008,Christian,FY 2008,93,Burma,30,275
+From: 15 Apr 2008,To: 15 Apr 2008,Christian,FY 2008,93,Eritrea,2,275
+From: 15 Apr 2008,To: 15 Apr 2008,Christian,FY 2008,93,Iran,24,275
+From: 15 Apr 2008,To: 15 Apr 2008,Christian,FY 2008,93,Iraq,29,275
+From: 15 Apr 2008,To: 15 Apr 2008,Christian,FY 2008,93,Liberia,5,275
+From: 15 Apr 2008,To: 15 Apr 2008,Christian,FY 2008,93,Morocco,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Evangelical Christian,FY 2008,2,Cuba,2,275
+From: 15 Apr 2008,To: 15 Apr 2008,Jehovah Witness,FY 2008,8,Cuba,8,275
+From: 15 Apr 2008,To: 15 Apr 2008,Jewish,FY 2008,13,Iran,12,275
+From: 15 Apr 2008,To: 15 Apr 2008,Jewish,FY 2008,13,Ukraine,1,275
+From: 15 Apr 2008,To: 15 Apr 2008,Moslem,FY 2008,6,Sierra Leone,6,275
+From: 15 Apr 2008,To: 15 Apr 2008,Moslem Shiite,FY 2008,1,Iraq,1,275
+From: 15 Apr 2008,To: 15 Apr 2008,Moslem Suni,FY 2008,33,Iraq,33,275
+From: 15 Apr 2008,To: 15 Apr 2008,No Religion,FY 2008,18,Cuba,18,275
+From: 15 Apr 2008,To: 15 Apr 2008,Other Religion,FY 2008,1,Cuba,1,275
+From: 15 Apr 2008,To: 15 Apr 2008,Pentecostalist,FY 2008,18,Cuba,8,275
+From: 15 Apr 2008,To: 15 Apr 2008,Pentecostalist,FY 2008,18,Liberia,6,275
+From: 15 Apr 2008,To: 15 Apr 2008,Pentecostalist,FY 2008,18,Ukraine,4,275
+From: 15 Apr 2008,To: 15 Apr 2008,Sabeans-Mandean,FY 2008,10,Iran,7,275
+From: 15 Apr 2008,To: 15 Apr 2008,Sabeans-Mandean,FY 2008,10,Iraq,3,275
+From: 15 Apr 2008,To: 15 Apr 2008,Unknown,FY 2008,5,Sudan,5,275
+From: 15 Apr 2008,To: 15 Apr 2008,Zoroastrian,FY 2008,3,Iran,3,275
+

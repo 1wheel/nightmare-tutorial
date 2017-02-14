@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Sep 2011,To: 07 Sep 2011,Afghanistan,FY 2011,2,Moslem,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Belarus,FY 2011,5,Evangelical Christian,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Belarus,FY 2011,5,Pentecostalist,4,396
+From: 07 Sep 2011,To: 07 Sep 2011,Bhutan,FY 2011,140,Buddhist,34,396
+From: 07 Sep 2011,To: 07 Sep 2011,Bhutan,FY 2011,140,Christian,5,396
+From: 07 Sep 2011,To: 07 Sep 2011,Bhutan,FY 2011,140,Hindu,89,396
+From: 07 Sep 2011,To: 07 Sep 2011,Bhutan,FY 2011,140,Kirat,12,396
+From: 07 Sep 2011,To: 07 Sep 2011,Burma,FY 2011,63,Buddhist,5,396
+From: 07 Sep 2011,To: 07 Sep 2011,Burma,FY 2011,63,Christian,58,396
+From: 07 Sep 2011,To: 07 Sep 2011,Dem. Rep. Congo,FY 2011,1,Catholic,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Eritrea,FY 2011,43,Catholic,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Eritrea,FY 2011,43,Moslem,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Eritrea,FY 2011,43,Orthodox,36,396
+From: 07 Sep 2011,To: 07 Sep 2011,Eritrea,FY 2011,43,Pentecostalist,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Eritrea,FY 2011,43,Protestant,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Ethiopia,FY 2011,11,Moslem,8,396
+From: 07 Sep 2011,To: 07 Sep 2011,Ethiopia,FY 2011,11,Orthodox,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Iraq,FY 2011,5,Catholic,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Iraq,FY 2011,5,Christian,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Iraq,FY 2011,5,Moslem Shiite,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Liberia,FY 2011,13,Baptist,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Liberia,FY 2011,13,Christian,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Liberia,FY 2011,13,Moslem,11,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moldova,FY 2011,23,Baptist,14,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moldova,FY 2011,23,Evangelical Christian,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moldova,FY 2011,23,Pentecostalist,5,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moldova,FY 2011,23,Seventh Day Adventist,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Palestine,FY 2011,3,Moslem,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Somalia,FY 2011,74,Moslem,74,396
+From: 07 Sep 2011,To: 07 Sep 2011,Sudan,FY 2011,13,Moslem,13,396
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Sep 2011,To: 07 Sep 2011,Baptist,FY 2011,15,Liberia,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Baptist,FY 2011,15,Moldova,14,396
+From: 07 Sep 2011,To: 07 Sep 2011,Buddhist,FY 2011,39,Bhutan,34,396
+From: 07 Sep 2011,To: 07 Sep 2011,Buddhist,FY 2011,39,Burma,5,396
+From: 07 Sep 2011,To: 07 Sep 2011,Catholic,FY 2011,5,Dem. Rep. Congo,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Catholic,FY 2011,5,Eritrea,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Catholic,FY 2011,5,Iraq,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Christian,FY 2011,65,Bhutan,5,396
+From: 07 Sep 2011,To: 07 Sep 2011,Christian,FY 2011,65,Burma,58,396
+From: 07 Sep 2011,To: 07 Sep 2011,Christian,FY 2011,65,Iraq,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Christian,FY 2011,65,Liberia,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Evangelical Christian,FY 2011,2,Belarus,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Evangelical Christian,FY 2011,2,Moldova,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Hindu,FY 2011,89,Bhutan,89,396
+From: 07 Sep 2011,To: 07 Sep 2011,Kirat,FY 2011,12,Bhutan,12,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Afghanistan,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Eritrea,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Ethiopia,8,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Liberia,11,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Palestine,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Somalia,74,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem,FY 2011,112,Sudan,13,396
+From: 07 Sep 2011,To: 07 Sep 2011,Moslem Shiite,FY 2011,2,Iraq,2,396
+From: 07 Sep 2011,To: 07 Sep 2011,Orthodox,FY 2011,39,Eritrea,36,396
+From: 07 Sep 2011,To: 07 Sep 2011,Orthodox,FY 2011,39,Ethiopia,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Pentecostalist,FY 2011,12,Belarus,4,396
+From: 07 Sep 2011,To: 07 Sep 2011,Pentecostalist,FY 2011,12,Eritrea,3,396
+From: 07 Sep 2011,To: 07 Sep 2011,Pentecostalist,FY 2011,12,Moldova,5,396
+From: 07 Sep 2011,To: 07 Sep 2011,Protestant,FY 2011,1,Eritrea,1,396
+From: 07 Sep 2011,To: 07 Sep 2011,Seventh Day Adventist,FY 2011,3,Moldova,3,396
+

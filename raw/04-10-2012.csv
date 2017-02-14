@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Apr 2012,To: 10 Apr 2012,Bhutan,FY 2012,100,Buddhist,39,228
+From: 10 Apr 2012,To: 10 Apr 2012,Bhutan,FY 2012,100,Christian,7,228
+From: 10 Apr 2012,To: 10 Apr 2012,Bhutan,FY 2012,100,Hindu,45,228
+From: 10 Apr 2012,To: 10 Apr 2012,Bhutan,FY 2012,100,Kirat,9,228
+From: 10 Apr 2012,To: 10 Apr 2012,Burma,FY 2012,49,Animist,12,228
+From: 10 Apr 2012,To: 10 Apr 2012,Burma,FY 2012,49,Buddhist,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Burma,FY 2012,49,Catholic,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Burma,FY 2012,49,Christian,34,228
+From: 10 Apr 2012,To: 10 Apr 2012,Cambodia,FY 2012,1,Buddhist,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Dem. Rep. Congo,FY 2012,2,Christian,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Ethiopia,FY 2012,1,Orthodox,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Iran,FY 2012,6,Christian,6,228
+From: 10 Apr 2012,To: 10 Apr 2012,Iraq,FY 2012,31,Catholic,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Iraq,FY 2012,31,Christian,14,228
+From: 10 Apr 2012,To: 10 Apr 2012,Iraq,FY 2012,31,Moslem Shiite,10,228
+From: 10 Apr 2012,To: 10 Apr 2012,Iraq,FY 2012,31,Moslem Suni,5,228
+From: 10 Apr 2012,To: 10 Apr 2012,Somalia,FY 2012,16,Moslem,15,228
+From: 10 Apr 2012,To: 10 Apr 2012,Somalia,FY 2012,16,Moslem Suni,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Sudan,FY 2012,20,Christian,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Sudan,FY 2012,20,Moslem,17,228
+From: 10 Apr 2012,To: 10 Apr 2012,Sudan,FY 2012,20,Moslem Suni,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Syria,FY 2012,2,Jehovah Witness,2,228
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Apr 2012,To: 10 Apr 2012,Animist,FY 2012,12,Burma,12,228
+From: 10 Apr 2012,To: 10 Apr 2012,Buddhist,FY 2012,41,Bhutan,39,228
+From: 10 Apr 2012,To: 10 Apr 2012,Buddhist,FY 2012,41,Burma,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Buddhist,FY 2012,41,Cambodia,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Catholic,FY 2012,4,Burma,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Catholic,FY 2012,4,Iraq,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Christian,FY 2012,64,Bhutan,7,228
+From: 10 Apr 2012,To: 10 Apr 2012,Christian,FY 2012,64,Burma,34,228
+From: 10 Apr 2012,To: 10 Apr 2012,Christian,FY 2012,64,Dem. Rep. Congo,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Christian,FY 2012,64,Iran,6,228
+From: 10 Apr 2012,To: 10 Apr 2012,Christian,FY 2012,64,Iraq,14,228
+From: 10 Apr 2012,To: 10 Apr 2012,Christian,FY 2012,64,Sudan,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Hindu,FY 2012,45,Bhutan,45,228
+From: 10 Apr 2012,To: 10 Apr 2012,Jehovah Witness,FY 2012,2,Syria,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Kirat,FY 2012,9,Bhutan,9,228
+From: 10 Apr 2012,To: 10 Apr 2012,Moslem,FY 2012,32,Somalia,15,228
+From: 10 Apr 2012,To: 10 Apr 2012,Moslem,FY 2012,32,Sudan,17,228
+From: 10 Apr 2012,To: 10 Apr 2012,Moslem Shiite,FY 2012,10,Iraq,10,228
+From: 10 Apr 2012,To: 10 Apr 2012,Moslem Suni,FY 2012,8,Iraq,5,228
+From: 10 Apr 2012,To: 10 Apr 2012,Moslem Suni,FY 2012,8,Somalia,1,228
+From: 10 Apr 2012,To: 10 Apr 2012,Moslem Suni,FY 2012,8,Sudan,2,228
+From: 10 Apr 2012,To: 10 Apr 2012,Orthodox,FY 2012,1,Ethiopia,1,228
+

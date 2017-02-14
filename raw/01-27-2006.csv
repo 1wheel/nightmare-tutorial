@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jan 2006,To: 27 Jan 2006,China,FY 2006,1,Other Religion,1,205
+From: 27 Jan 2006,To: 27 Jan 2006,Cuba,FY 2006,26,Catholic,11,205
+From: 27 Jan 2006,To: 27 Jan 2006,Cuba,FY 2006,26,Jehovah Witness,12,205
+From: 27 Jan 2006,To: 27 Jan 2006,Cuba,FY 2006,26,No Religion,2,205
+From: 27 Jan 2006,To: 27 Jan 2006,Cuba,FY 2006,26,Seventh Day Adventist,1,205
+From: 27 Jan 2006,To: 27 Jan 2006,Liberia,FY 2006,40,Catholic,9,205
+From: 27 Jan 2006,To: 27 Jan 2006,Liberia,FY 2006,40,Christian,31,205
+From: 27 Jan 2006,To: 27 Jan 2006,Russia,FY 2006,105,Moslem,105,205
+From: 27 Jan 2006,To: 27 Jan 2006,Somalia,FY 2006,18,Moslem,18,205
+From: 27 Jan 2006,To: 27 Jan 2006,Sudan,FY 2006,9,Christian,9,205
+From: 27 Jan 2006,To: 27 Jan 2006,Uganda,FY 2006,6,Christian,6,205
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jan 2006,To: 27 Jan 2006,Catholic,FY 2006,20,Cuba,11,205
+From: 27 Jan 2006,To: 27 Jan 2006,Catholic,FY 2006,20,Liberia,9,205
+From: 27 Jan 2006,To: 27 Jan 2006,Christian,FY 2006,46,Liberia,31,205
+From: 27 Jan 2006,To: 27 Jan 2006,Christian,FY 2006,46,Sudan,9,205
+From: 27 Jan 2006,To: 27 Jan 2006,Christian,FY 2006,46,Uganda,6,205
+From: 27 Jan 2006,To: 27 Jan 2006,Jehovah Witness,FY 2006,12,Cuba,12,205
+From: 27 Jan 2006,To: 27 Jan 2006,Moslem,FY 2006,123,Russia,105,205
+From: 27 Jan 2006,To: 27 Jan 2006,Moslem,FY 2006,123,Somalia,18,205
+From: 27 Jan 2006,To: 27 Jan 2006,No Religion,FY 2006,2,Cuba,2,205
+From: 27 Jan 2006,To: 27 Jan 2006,Other Religion,FY 2006,1,China,1,205
+From: 27 Jan 2006,To: 27 Jan 2006,Seventh Day Adventist,FY 2006,1,Cuba,1,205
+

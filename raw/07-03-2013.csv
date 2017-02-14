@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jul 2013,To: 03 Jul 2013,Burundi,FY 2013,4,Seventh Day Adventist,4,79
+From: 03 Jul 2013,To: 03 Jul 2013,Dem. Rep. Congo,FY 2013,12,Catholic,4,79
+From: 03 Jul 2013,To: 03 Jul 2013,Dem. Rep. Congo,FY 2013,12,Pentecostalist,8,79
+From: 03 Jul 2013,To: 03 Jul 2013,Ethiopia,FY 2013,6,Orthodox,6,79
+From: 03 Jul 2013,To: 03 Jul 2013,Iraq,FY 2013,10,Moslem,1,79
+From: 03 Jul 2013,To: 03 Jul 2013,Iraq,FY 2013,10,Moslem Shiite,3,79
+From: 03 Jul 2013,To: 03 Jul 2013,Iraq,FY 2013,10,Moslem Suni,6,79
+From: 03 Jul 2013,To: 03 Jul 2013,Rwanda,FY 2013,4,Pentecostalist,4,79
+From: 03 Jul 2013,To: 03 Jul 2013,Somalia,FY 2013,43,Moslem,43,79
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jul 2013,To: 03 Jul 2013,Catholic,FY 2013,4,Dem. Rep. Congo,4,79
+From: 03 Jul 2013,To: 03 Jul 2013,Moslem,FY 2013,44,Iraq,1,79
+From: 03 Jul 2013,To: 03 Jul 2013,Moslem,FY 2013,44,Somalia,43,79
+From: 03 Jul 2013,To: 03 Jul 2013,Moslem Shiite,FY 2013,3,Iraq,3,79
+From: 03 Jul 2013,To: 03 Jul 2013,Moslem Suni,FY 2013,6,Iraq,6,79
+From: 03 Jul 2013,To: 03 Jul 2013,Orthodox,FY 2013,6,Ethiopia,6,79
+From: 03 Jul 2013,To: 03 Jul 2013,Pentecostalist,FY 2013,12,Dem. Rep. Congo,8,79
+From: 03 Jul 2013,To: 03 Jul 2013,Pentecostalist,FY 2013,12,Rwanda,4,79
+From: 03 Jul 2013,To: 03 Jul 2013,Seventh Day Adventist,FY 2013,4,Burundi,4,79
+

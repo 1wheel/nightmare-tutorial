@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Nov 2006,To: 21 Nov 2006,Burma,FY 2007,64,Buddhist,6,241
+From: 21 Nov 2006,To: 21 Nov 2006,Burma,FY 2007,64,Christian,58,241
+From: 21 Nov 2006,To: 21 Nov 2006,Cuba,FY 2007,70,Baptist,1,241
+From: 21 Nov 2006,To: 21 Nov 2006,Cuba,FY 2007,70,Catholic,37,241
+From: 21 Nov 2006,To: 21 Nov 2006,Cuba,FY 2007,70,Evangelical Christian,6,241
+From: 21 Nov 2006,To: 21 Nov 2006,Cuba,FY 2007,70,Jehovah Witness,4,241
+From: 21 Nov 2006,To: 21 Nov 2006,Cuba,FY 2007,70,Methodist,1,241
+From: 21 Nov 2006,To: 21 Nov 2006,Cuba,FY 2007,70,No Religion,21,241
+From: 21 Nov 2006,To: 21 Nov 2006,Eritrea,FY 2007,16,Moslem,5,241
+From: 21 Nov 2006,To: 21 Nov 2006,Eritrea,FY 2007,16,Orthodox,8,241
+From: 21 Nov 2006,To: 21 Nov 2006,Eritrea,FY 2007,16,Pentecostalist,3,241
+From: 21 Nov 2006,To: 21 Nov 2006,Iran,FY 2007,30,Christian,15,241
+From: 21 Nov 2006,To: 21 Nov 2006,Iran,FY 2007,30,Sabeans-Mandean,15,241
+From: 21 Nov 2006,To: 21 Nov 2006,Russia,FY 2007,34,Moslem,34,241
+From: 21 Nov 2006,To: 21 Nov 2006,Somalia,FY 2007,27,Moslem,27,241
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Nov 2006,To: 21 Nov 2006,Baptist,FY 2007,1,Cuba,1,241
+From: 21 Nov 2006,To: 21 Nov 2006,Buddhist,FY 2007,6,Burma,6,241
+From: 21 Nov 2006,To: 21 Nov 2006,Catholic,FY 2007,37,Cuba,37,241
+From: 21 Nov 2006,To: 21 Nov 2006,Christian,FY 2007,73,Burma,58,241
+From: 21 Nov 2006,To: 21 Nov 2006,Christian,FY 2007,73,Iran,15,241
+From: 21 Nov 2006,To: 21 Nov 2006,Evangelical Christian,FY 2007,6,Cuba,6,241
+From: 21 Nov 2006,To: 21 Nov 2006,Jehovah Witness,FY 2007,4,Cuba,4,241
+From: 21 Nov 2006,To: 21 Nov 2006,Methodist,FY 2007,1,Cuba,1,241
+From: 21 Nov 2006,To: 21 Nov 2006,Moslem,FY 2007,66,Eritrea,5,241
+From: 21 Nov 2006,To: 21 Nov 2006,Moslem,FY 2007,66,Russia,34,241
+From: 21 Nov 2006,To: 21 Nov 2006,Moslem,FY 2007,66,Somalia,27,241
+From: 21 Nov 2006,To: 21 Nov 2006,No Religion,FY 2007,21,Cuba,21,241
+From: 21 Nov 2006,To: 21 Nov 2006,Orthodox,FY 2007,8,Eritrea,8,241
+From: 21 Nov 2006,To: 21 Nov 2006,Pentecostalist,FY 2007,3,Eritrea,3,241
+From: 21 Nov 2006,To: 21 Nov 2006,Sabeans-Mandean,FY 2007,15,Iran,15,241
+

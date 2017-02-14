@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jun 2005,To: 16 Jun 2005,Bosnia and Herzegovina,FY 2005,1,Moslem,1,123
+From: 16 Jun 2005,To: 16 Jun 2005,Colombia,FY 2005,3,Unknown,3,123
+From: 16 Jun 2005,To: 16 Jun 2005,Laos,FY 2005,23,Ancestral Worship,23,123
+From: 16 Jun 2005,To: 16 Jun 2005,Liberia,FY 2005,31,Catholic,2,123
+From: 16 Jun 2005,To: 16 Jun 2005,Liberia,FY 2005,31,Christian,28,123
+From: 16 Jun 2005,To: 16 Jun 2005,Liberia,FY 2005,31,Moslem,1,123
+From: 16 Jun 2005,To: 16 Jun 2005,Somalia,FY 2005,64,Moslem,64,123
+From: 16 Jun 2005,To: 16 Jun 2005,Sudan,FY 2005,1,Christian,1,123
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jun 2005,To: 16 Jun 2005,Ancestral Worship,FY 2005,23,Laos,23,123
+From: 16 Jun 2005,To: 16 Jun 2005,Catholic,FY 2005,2,Liberia,2,123
+From: 16 Jun 2005,To: 16 Jun 2005,Christian,FY 2005,29,Liberia,28,123
+From: 16 Jun 2005,To: 16 Jun 2005,Christian,FY 2005,29,Sudan,1,123
+From: 16 Jun 2005,To: 16 Jun 2005,Moslem,FY 2005,66,Bosnia and Herzegovina,1,123
+From: 16 Jun 2005,To: 16 Jun 2005,Moslem,FY 2005,66,Liberia,1,123
+From: 16 Jun 2005,To: 16 Jun 2005,Moslem,FY 2005,66,Somalia,64,123
+From: 16 Jun 2005,To: 16 Jun 2005,Unknown,FY 2005,3,Colombia,3,123
+

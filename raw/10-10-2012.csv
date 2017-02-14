@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Oct 2012,To: 10 Oct 2012,Afghanistan,FY 2013,2,Moslem Suni,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Bhutan,FY 2013,101,Buddhist,27,609
+From: 10 Oct 2012,To: 10 Oct 2012,Bhutan,FY 2013,101,Christian,10,609
+From: 10 Oct 2012,To: 10 Oct 2012,Bhutan,FY 2013,101,Hindu,52,609
+From: 10 Oct 2012,To: 10 Oct 2012,Bhutan,FY 2013,101,Kirat,12,609
+From: 10 Oct 2012,To: 10 Oct 2012,Burma,FY 2013,187,Baptist,15,609
+From: 10 Oct 2012,To: 10 Oct 2012,Burma,FY 2013,187,Buddhist,62,609
+From: 10 Oct 2012,To: 10 Oct 2012,Burma,FY 2013,187,Catholic,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Burma,FY 2013,187,Christian,97,609
+From: 10 Oct 2012,To: 10 Oct 2012,Burma,FY 2013,187,Moslem,12,609
+From: 10 Oct 2012,To: 10 Oct 2012,Eritrea,FY 2013,20,Catholic,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Eritrea,FY 2013,20,Moslem,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Eritrea,FY 2013,20,Orthodox,16,609
+From: 10 Oct 2012,To: 10 Oct 2012,Eritrea,FY 2013,20,Protestant,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iran,FY 2013,13,Bahai,5,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iran,FY 2013,13,Christian,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iran,FY 2013,13,Sabeans-Mandean,4,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iran,FY 2013,13,Zoroastrian,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Catholic,25,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Christian,24,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Moslem,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Moslem Shiite,34,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Moslem Suni,73,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Orthodox,9,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Sabeans-Mandean,9,609
+From: 10 Oct 2012,To: 10 Oct 2012,Iraq,FY 2013,181,Yazidi,6,609
+From: 10 Oct 2012,To: 10 Oct 2012,Russia,FY 2013,3,Jewish,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Russia,FY 2013,3,No Religion,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Somalia,FY 2013,98,Moslem,98,609
+From: 10 Oct 2012,To: 10 Oct 2012,Vietnam,FY 2013,4,No Religion,4,609
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Oct 2012,To: 10 Oct 2012,Bahai,FY 2013,5,Iran,5,609
+From: 10 Oct 2012,To: 10 Oct 2012,Baptist,FY 2013,15,Burma,15,609
+From: 10 Oct 2012,To: 10 Oct 2012,Buddhist,FY 2013,89,Bhutan,27,609
+From: 10 Oct 2012,To: 10 Oct 2012,Buddhist,FY 2013,89,Burma,62,609
+From: 10 Oct 2012,To: 10 Oct 2012,Catholic,FY 2013,27,Burma,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Catholic,FY 2013,27,Eritrea,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Catholic,FY 2013,27,Iraq,25,609
+From: 10 Oct 2012,To: 10 Oct 2012,Christian,FY 2013,133,Bhutan,10,609
+From: 10 Oct 2012,To: 10 Oct 2012,Christian,FY 2013,133,Burma,97,609
+From: 10 Oct 2012,To: 10 Oct 2012,Christian,FY 2013,133,Iran,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Christian,FY 2013,133,Iraq,24,609
+From: 10 Oct 2012,To: 10 Oct 2012,Hindu,FY 2013,52,Bhutan,52,609
+From: 10 Oct 2012,To: 10 Oct 2012,Jewish,FY 2013,2,Russia,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Kirat,FY 2013,12,Bhutan,12,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem,FY 2013,112,Burma,12,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem,FY 2013,112,Eritrea,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem,FY 2013,112,Iraq,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem,FY 2013,112,Somalia,98,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem Shiite,FY 2013,34,Iraq,34,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem Suni,FY 2013,75,Afghanistan,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Moslem Suni,FY 2013,75,Iraq,73,609
+From: 10 Oct 2012,To: 10 Oct 2012,No Religion,FY 2013,5,Russia,1,609
+From: 10 Oct 2012,To: 10 Oct 2012,No Religion,FY 2013,5,Vietnam,4,609
+From: 10 Oct 2012,To: 10 Oct 2012,Orthodox,FY 2013,25,Eritrea,16,609
+From: 10 Oct 2012,To: 10 Oct 2012,Orthodox,FY 2013,25,Iraq,9,609
+From: 10 Oct 2012,To: 10 Oct 2012,Protestant,FY 2013,2,Eritrea,2,609
+From: 10 Oct 2012,To: 10 Oct 2012,Sabeans-Mandean,FY 2013,13,Iran,4,609
+From: 10 Oct 2012,To: 10 Oct 2012,Sabeans-Mandean,FY 2013,13,Iraq,9,609
+From: 10 Oct 2012,To: 10 Oct 2012,Yazidi,FY 2013,6,Iraq,6,609
+From: 10 Oct 2012,To: 10 Oct 2012,Zoroastrian,FY 2013,2,Iran,2,609
+

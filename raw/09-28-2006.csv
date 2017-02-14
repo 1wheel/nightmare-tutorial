@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Sep 2006,To: 28 Sep 2006,Burma,FY 2006,103,Buddhist,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Burma,FY 2006,103,Christian,99,352
+From: 28 Sep 2006,To: 28 Sep 2006,Burundi,FY 2006,1,Catholic,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Colombia,FY 2006,9,Catholic,7,352
+From: 28 Sep 2006,To: 28 Sep 2006,Colombia,FY 2006,9,Christian,2,352
+From: 28 Sep 2006,To: 28 Sep 2006,Eritrea,FY 2006,13,Christian,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Eritrea,FY 2006,13,Orthodox,12,352
+From: 28 Sep 2006,To: 28 Sep 2006,Ethiopia,FY 2006,36,Christian,2,352
+From: 28 Sep 2006,To: 28 Sep 2006,Ethiopia,FY 2006,36,Moslem,21,352
+From: 28 Sep 2006,To: 28 Sep 2006,Ethiopia,FY 2006,36,Orthodox,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Ethiopia,FY 2006,36,Protestant,5,352
+From: 28 Sep 2006,To: 28 Sep 2006,Ethiopia,FY 2006,36,Seventh Day Adventist,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Gambia,FY 2006,6,Moslem,6,352
+From: 28 Sep 2006,To: 28 Sep 2006,Iran,FY 2006,30,Christian,30,352
+From: 28 Sep 2006,To: 28 Sep 2006,Kenya,FY 2006,5,Catholic,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Kenya,FY 2006,5,Christian,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Laos,FY 2006,7,Ancestral Worship,7,352
+From: 28 Sep 2006,To: 28 Sep 2006,Liberia,FY 2006,3,Christian,3,352
+From: 28 Sep 2006,To: 28 Sep 2006,Sierra Leone,FY 2006,5,Moslem,5,352
+From: 28 Sep 2006,To: 28 Sep 2006,Somalia,FY 2006,129,Moslem,129,352
+From: 28 Sep 2006,To: 28 Sep 2006,Sudan,FY 2006,1,Christian,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Uganda,FY 2006,1,Christian,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Ukraine,FY 2006,3,Baptist,3,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Sep 2006,To: 28 Sep 2006,Ancestral Worship,FY 2006,7,Laos,7,352
+From: 28 Sep 2006,To: 28 Sep 2006,Baptist,FY 2006,3,Ukraine,3,352
+From: 28 Sep 2006,To: 28 Sep 2006,Buddhist,FY 2006,4,Burma,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Catholic,FY 2006,9,Burundi,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Catholic,FY 2006,9,Colombia,7,352
+From: 28 Sep 2006,To: 28 Sep 2006,Catholic,FY 2006,9,Kenya,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Burma,99,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Colombia,2,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Eritrea,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Ethiopia,2,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Iran,30,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Kenya,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Liberia,3,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Sudan,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Christian,FY 2006,143,Uganda,1,352
+From: 28 Sep 2006,To: 28 Sep 2006,Moslem,FY 2006,161,Ethiopia,21,352
+From: 28 Sep 2006,To: 28 Sep 2006,Moslem,FY 2006,161,Gambia,6,352
+From: 28 Sep 2006,To: 28 Sep 2006,Moslem,FY 2006,161,Sierra Leone,5,352
+From: 28 Sep 2006,To: 28 Sep 2006,Moslem,FY 2006,161,Somalia,129,352
+From: 28 Sep 2006,To: 28 Sep 2006,Orthodox,FY 2006,16,Eritrea,12,352
+From: 28 Sep 2006,To: 28 Sep 2006,Orthodox,FY 2006,16,Ethiopia,4,352
+From: 28 Sep 2006,To: 28 Sep 2006,Protestant,FY 2006,5,Ethiopia,5,352
+From: 28 Sep 2006,To: 28 Sep 2006,Seventh Day Adventist,FY 2006,4,Ethiopia,4,352
+

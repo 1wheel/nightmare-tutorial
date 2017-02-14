@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Dec 2013,To: 04 Dec 2013,Bhutan,FY 2014,80,Buddhist,23,441
+From: 04 Dec 2013,To: 04 Dec 2013,Bhutan,FY 2014,80,Christian,11,441
+From: 04 Dec 2013,To: 04 Dec 2013,Bhutan,FY 2014,80,Hindu,27,441
+From: 04 Dec 2013,To: 04 Dec 2013,Bhutan,FY 2014,80,Kirat,19,441
+From: 04 Dec 2013,To: 04 Dec 2013,Burma,FY 2014,130,Animist,6,441
+From: 04 Dec 2013,To: 04 Dec 2013,Burma,FY 2014,130,Baptist,9,441
+From: 04 Dec 2013,To: 04 Dec 2013,Burma,FY 2014,130,Buddhist,12,441
+From: 04 Dec 2013,To: 04 Dec 2013,Burma,FY 2014,130,Catholic,6,441
+From: 04 Dec 2013,To: 04 Dec 2013,Burma,FY 2014,130,Christian,70,441
+From: 04 Dec 2013,To: 04 Dec 2013,Burma,FY 2014,130,Moslem,27,441
+From: 04 Dec 2013,To: 04 Dec 2013,Dem. Rep. Congo,FY 2014,34,Pentecostalist,11,441
+From: 04 Dec 2013,To: 04 Dec 2013,Dem. Rep. Congo,FY 2014,34,Protestant,1,441
+From: 04 Dec 2013,To: 04 Dec 2013,Dem. Rep. Congo,FY 2014,34,Seventh Day Adventist,22,441
+From: 04 Dec 2013,To: 04 Dec 2013,Eritrea,FY 2014,4,Pentecostalist,4,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iran,FY 2014,16,Bahai,9,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iran,FY 2014,16,Christian,3,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iran,FY 2014,16,No Religion,4,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iraq,FY 2014,124,Catholic,17,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iraq,FY 2014,124,Christian,5,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iraq,FY 2014,124,Moslem Shiite,31,441
+From: 04 Dec 2013,To: 04 Dec 2013,Iraq,FY 2014,124,Moslem Suni,71,441
+From: 04 Dec 2013,To: 04 Dec 2013,Somalia,FY 2014,6,Moslem,3,441
+From: 04 Dec 2013,To: 04 Dec 2013,Somalia,FY 2014,6,Moslem Suni,3,441
+From: 04 Dec 2013,To: 04 Dec 2013,Sudan,FY 2014,46,Christian,5,441
+From: 04 Dec 2013,To: 04 Dec 2013,Sudan,FY 2014,46,Moslem,34,441
+From: 04 Dec 2013,To: 04 Dec 2013,Sudan,FY 2014,46,Moslem Suni,7,441
+From: 04 Dec 2013,To: 04 Dec 2013,Uzbekistan,FY 2014,1,Jewish,1,441
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Dec 2013,To: 04 Dec 2013,Animist,FY 2014,6,Burma,6,441
+From: 04 Dec 2013,To: 04 Dec 2013,Bahai,FY 2014,9,Iran,9,441
+From: 04 Dec 2013,To: 04 Dec 2013,Baptist,FY 2014,9,Burma,9,441
+From: 04 Dec 2013,To: 04 Dec 2013,Buddhist,FY 2014,35,Bhutan,23,441
+From: 04 Dec 2013,To: 04 Dec 2013,Buddhist,FY 2014,35,Burma,12,441
+From: 04 Dec 2013,To: 04 Dec 2013,Catholic,FY 2014,23,Burma,6,441
+From: 04 Dec 2013,To: 04 Dec 2013,Catholic,FY 2014,23,Iraq,17,441
+From: 04 Dec 2013,To: 04 Dec 2013,Christian,FY 2014,94,Bhutan,11,441
+From: 04 Dec 2013,To: 04 Dec 2013,Christian,FY 2014,94,Burma,70,441
+From: 04 Dec 2013,To: 04 Dec 2013,Christian,FY 2014,94,Iran,3,441
+From: 04 Dec 2013,To: 04 Dec 2013,Christian,FY 2014,94,Iraq,5,441
+From: 04 Dec 2013,To: 04 Dec 2013,Christian,FY 2014,94,Sudan,5,441
+From: 04 Dec 2013,To: 04 Dec 2013,Hindu,FY 2014,27,Bhutan,27,441
+From: 04 Dec 2013,To: 04 Dec 2013,Jewish,FY 2014,1,Uzbekistan,1,441
+From: 04 Dec 2013,To: 04 Dec 2013,Kirat,FY 2014,19,Bhutan,19,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem,FY 2014,64,Burma,27,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem,FY 2014,64,Somalia,3,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem,FY 2014,64,Sudan,34,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem Shiite,FY 2014,31,Iraq,31,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem Suni,FY 2014,81,Iraq,71,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem Suni,FY 2014,81,Somalia,3,441
+From: 04 Dec 2013,To: 04 Dec 2013,Moslem Suni,FY 2014,81,Sudan,7,441
+From: 04 Dec 2013,To: 04 Dec 2013,No Religion,FY 2014,4,Iran,4,441
+From: 04 Dec 2013,To: 04 Dec 2013,Pentecostalist,FY 2014,15,Dem. Rep. Congo,11,441
+From: 04 Dec 2013,To: 04 Dec 2013,Pentecostalist,FY 2014,15,Eritrea,4,441
+From: 04 Dec 2013,To: 04 Dec 2013,Protestant,FY 2014,1,Dem. Rep. Congo,1,441
+From: 04 Dec 2013,To: 04 Dec 2013,Seventh Day Adventist,FY 2014,22,Dem. Rep. Congo,22,441
+

@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jan 2007,To: 24 Jan 2007,Afghanistan,FY 2007,7,Moslem Suni,7,212
+From: 24 Jan 2007,To: 24 Jan 2007,Azerbaijan,FY 2007,2,Jewish,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Burma,FY 2007,22,Buddhist,3,212
+From: 24 Jan 2007,To: 24 Jan 2007,Burma,FY 2007,22,Christian,19,212
+From: 24 Jan 2007,To: 24 Jan 2007,Eritrea,FY 2007,14,Catholic,6,212
+From: 24 Jan 2007,To: 24 Jan 2007,Eritrea,FY 2007,14,Christian,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Eritrea,FY 2007,14,Moslem,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Eritrea,FY 2007,14,Orthodox,3,212
+From: 24 Jan 2007,To: 24 Jan 2007,Eritrea,FY 2007,14,Pentecostalist,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Iran,FY 2007,36,Christian,22,212
+From: 24 Jan 2007,To: 24 Jan 2007,Iran,FY 2007,36,Jewish,3,212
+From: 24 Jan 2007,To: 24 Jan 2007,Iran,FY 2007,36,Sabeans-Mandean,6,212
+From: 24 Jan 2007,To: 24 Jan 2007,Iran,FY 2007,36,Zoroastrian,5,212
+From: 24 Jan 2007,To: 24 Jan 2007,Ivory Coast,FY 2007,1,Catholic,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,"Korea, North",FY 2007,1,Buddhist,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Liberia,FY 2007,35,Baptist,4,212
+From: 24 Jan 2007,To: 24 Jan 2007,Liberia,FY 2007,35,Catholic,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Liberia,FY 2007,35,Christian,22,212
+From: 24 Jan 2007,To: 24 Jan 2007,Liberia,FY 2007,35,Jehovah Witness,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Liberia,FY 2007,35,Other Religion,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Liberia,FY 2007,35,Pentecostalist,5,212
+From: 24 Jan 2007,To: 24 Jan 2007,Russia,FY 2007,17,Baptist,7,212
+From: 24 Jan 2007,To: 24 Jan 2007,Russia,FY 2007,17,Jewish,10,212
+From: 24 Jan 2007,To: 24 Jan 2007,Somalia,FY 2007,16,Moslem,15,212
+From: 24 Jan 2007,To: 24 Jan 2007,Somalia,FY 2007,16,Moslem Suni,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Sudan,FY 2007,26,Catholic,13,212
+From: 24 Jan 2007,To: 24 Jan 2007,Sudan,FY 2007,26,Moslem,13,212
+From: 24 Jan 2007,To: 24 Jan 2007,Vietnam,FY 2007,35,Buddhist,8,212
+From: 24 Jan 2007,To: 24 Jan 2007,Vietnam,FY 2007,35,Cao Dai,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Vietnam,FY 2007,35,Catholic,14,212
+From: 24 Jan 2007,To: 24 Jan 2007,Vietnam,FY 2007,35,Protestant,11,212
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jan 2007,To: 24 Jan 2007,Baptist,FY 2007,11,Liberia,4,212
+From: 24 Jan 2007,To: 24 Jan 2007,Baptist,FY 2007,11,Russia,7,212
+From: 24 Jan 2007,To: 24 Jan 2007,Buddhist,FY 2007,12,Burma,3,212
+From: 24 Jan 2007,To: 24 Jan 2007,Buddhist,FY 2007,12,"Korea, North",1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Buddhist,FY 2007,12,Vietnam,8,212
+From: 24 Jan 2007,To: 24 Jan 2007,Cao Dai,FY 2007,2,Vietnam,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Catholic,FY 2007,35,Eritrea,6,212
+From: 24 Jan 2007,To: 24 Jan 2007,Catholic,FY 2007,35,Ivory Coast,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Catholic,FY 2007,35,Liberia,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Catholic,FY 2007,35,Sudan,13,212
+From: 24 Jan 2007,To: 24 Jan 2007,Catholic,FY 2007,35,Vietnam,14,212
+From: 24 Jan 2007,To: 24 Jan 2007,Christian,FY 2007,65,Burma,19,212
+From: 24 Jan 2007,To: 24 Jan 2007,Christian,FY 2007,65,Eritrea,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Christian,FY 2007,65,Iran,22,212
+From: 24 Jan 2007,To: 24 Jan 2007,Christian,FY 2007,65,Liberia,22,212
+From: 24 Jan 2007,To: 24 Jan 2007,Jehovah Witness,FY 2007,1,Liberia,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Jewish,FY 2007,15,Azerbaijan,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Jewish,FY 2007,15,Iran,3,212
+From: 24 Jan 2007,To: 24 Jan 2007,Jewish,FY 2007,15,Russia,10,212
+From: 24 Jan 2007,To: 24 Jan 2007,Moslem,FY 2007,29,Eritrea,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Moslem,FY 2007,29,Somalia,15,212
+From: 24 Jan 2007,To: 24 Jan 2007,Moslem,FY 2007,29,Sudan,13,212
+From: 24 Jan 2007,To: 24 Jan 2007,Moslem Suni,FY 2007,8,Afghanistan,7,212
+From: 24 Jan 2007,To: 24 Jan 2007,Moslem Suni,FY 2007,8,Somalia,1,212
+From: 24 Jan 2007,To: 24 Jan 2007,Orthodox,FY 2007,3,Eritrea,3,212
+From: 24 Jan 2007,To: 24 Jan 2007,Other Religion,FY 2007,2,Liberia,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Pentecostalist,FY 2007,7,Eritrea,2,212
+From: 24 Jan 2007,To: 24 Jan 2007,Pentecostalist,FY 2007,7,Liberia,5,212
+From: 24 Jan 2007,To: 24 Jan 2007,Protestant,FY 2007,11,Vietnam,11,212
+From: 24 Jan 2007,To: 24 Jan 2007,Sabeans-Mandean,FY 2007,6,Iran,6,212
+From: 24 Jan 2007,To: 24 Jan 2007,Zoroastrian,FY 2007,5,Iran,5,212
+

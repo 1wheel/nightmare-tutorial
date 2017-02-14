@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Dec 2005,To: 06 Dec 2005,Burma,FY 2006,30,Christian,14,349
+From: 06 Dec 2005,To: 06 Dec 2005,Burma,FY 2006,30,Protestant,16,349
+From: 06 Dec 2005,To: 06 Dec 2005,Costa Rica,FY 2006,2,Christian,2,349
+From: 06 Dec 2005,To: 06 Dec 2005,Cuba,FY 2006,62,Catholic,33,349
+From: 06 Dec 2005,To: 06 Dec 2005,Cuba,FY 2006,62,Evangelical Christian,2,349
+From: 06 Dec 2005,To: 06 Dec 2005,Cuba,FY 2006,62,No Religion,24,349
+From: 06 Dec 2005,To: 06 Dec 2005,Cuba,FY 2006,62,Seventh Day Adventist,3,349
+From: 06 Dec 2005,To: 06 Dec 2005,Liberia,FY 2006,32,Christian,30,349
+From: 06 Dec 2005,To: 06 Dec 2005,Liberia,FY 2006,32,Lutheran,2,349
+From: 06 Dec 2005,To: 06 Dec 2005,Russia,FY 2006,35,Moslem,35,349
+From: 06 Dec 2005,To: 06 Dec 2005,Somalia,FY 2006,122,Moslem,122,349
+From: 06 Dec 2005,To: 06 Dec 2005,Vietnam,FY 2006,66,Buddhist,43,349
+From: 06 Dec 2005,To: 06 Dec 2005,Vietnam,FY 2006,66,Catholic,15,349
+From: 06 Dec 2005,To: 06 Dec 2005,Vietnam,FY 2006,66,Protestant,8,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Dec 2005,To: 06 Dec 2005,Buddhist,FY 2006,43,Vietnam,43,349
+From: 06 Dec 2005,To: 06 Dec 2005,Catholic,FY 2006,48,Cuba,33,349
+From: 06 Dec 2005,To: 06 Dec 2005,Catholic,FY 2006,48,Vietnam,15,349
+From: 06 Dec 2005,To: 06 Dec 2005,Christian,FY 2006,46,Burma,14,349
+From: 06 Dec 2005,To: 06 Dec 2005,Christian,FY 2006,46,Costa Rica,2,349
+From: 06 Dec 2005,To: 06 Dec 2005,Christian,FY 2006,46,Liberia,30,349
+From: 06 Dec 2005,To: 06 Dec 2005,Evangelical Christian,FY 2006,2,Cuba,2,349
+From: 06 Dec 2005,To: 06 Dec 2005,Lutheran,FY 2006,2,Liberia,2,349
+From: 06 Dec 2005,To: 06 Dec 2005,Moslem,FY 2006,157,Russia,35,349
+From: 06 Dec 2005,To: 06 Dec 2005,Moslem,FY 2006,157,Somalia,122,349
+From: 06 Dec 2005,To: 06 Dec 2005,No Religion,FY 2006,24,Cuba,24,349
+From: 06 Dec 2005,To: 06 Dec 2005,Protestant,FY 2006,24,Burma,16,349
+From: 06 Dec 2005,To: 06 Dec 2005,Protestant,FY 2006,24,Vietnam,8,349
+From: 06 Dec 2005,To: 06 Dec 2005,Seventh Day Adventist,FY 2006,3,Cuba,3,349
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Oct 2005,To: 25 Oct 2005,Burma,FY 2006,9,Baptist,9,243
+From: 25 Oct 2005,To: 25 Oct 2005,Ethiopia,FY 2006,10,Christian,1,243
+From: 25 Oct 2005,To: 25 Oct 2005,Ethiopia,FY 2006,10,Moslem,8,243
+From: 25 Oct 2005,To: 25 Oct 2005,Ethiopia,FY 2006,10,Protestant,1,243
+From: 25 Oct 2005,To: 25 Oct 2005,Georgia,FY 2006,4,Pentecostalist,4,243
+From: 25 Oct 2005,To: 25 Oct 2005,Laos,FY 2006,15,Ancestral Worship,15,243
+From: 25 Oct 2005,To: 25 Oct 2005,Russia,FY 2006,23,Baptist,12,243
+From: 25 Oct 2005,To: 25 Oct 2005,Russia,FY 2006,23,Jewish,2,243
+From: 25 Oct 2005,To: 25 Oct 2005,Russia,FY 2006,23,Pentecostalist,9,243
+From: 25 Oct 2005,To: 25 Oct 2005,Somalia,FY 2006,152,Moslem,152,243
+From: 25 Oct 2005,To: 25 Oct 2005,Ukraine,FY 2006,30,Atheist,1,243
+From: 25 Oct 2005,To: 25 Oct 2005,Ukraine,FY 2006,30,Pentecostalist,29,243
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Oct 2005,To: 25 Oct 2005,Ancestral Worship,FY 2006,15,Laos,15,243
+From: 25 Oct 2005,To: 25 Oct 2005,Atheist,FY 2006,1,Ukraine,1,243
+From: 25 Oct 2005,To: 25 Oct 2005,Baptist,FY 2006,21,Burma,9,243
+From: 25 Oct 2005,To: 25 Oct 2005,Baptist,FY 2006,21,Russia,12,243
+From: 25 Oct 2005,To: 25 Oct 2005,Christian,FY 2006,1,Ethiopia,1,243
+From: 25 Oct 2005,To: 25 Oct 2005,Jewish,FY 2006,2,Russia,2,243
+From: 25 Oct 2005,To: 25 Oct 2005,Moslem,FY 2006,160,Ethiopia,8,243
+From: 25 Oct 2005,To: 25 Oct 2005,Moslem,FY 2006,160,Somalia,152,243
+From: 25 Oct 2005,To: 25 Oct 2005,Pentecostalist,FY 2006,42,Georgia,4,243
+From: 25 Oct 2005,To: 25 Oct 2005,Pentecostalist,FY 2006,42,Russia,9,243
+From: 25 Oct 2005,To: 25 Oct 2005,Pentecostalist,FY 2006,42,Ukraine,29,243
+From: 25 Oct 2005,To: 25 Oct 2005,Protestant,FY 2006,1,Ethiopia,1,243
+

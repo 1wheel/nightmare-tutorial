@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Nov 2015,To: 04 Nov 2015,Afghanistan,FY 2016,10,Moslem,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Afghanistan,FY 2016,10,Moslem Shiite,9,342
+From: 04 Nov 2015,To: 04 Nov 2015,Bhutan,FY 2016,37,Buddhist,10,342
+From: 04 Nov 2015,To: 04 Nov 2015,Bhutan,FY 2016,37,Christian,18,342
+From: 04 Nov 2015,To: 04 Nov 2015,Bhutan,FY 2016,37,Hindu,7,342
+From: 04 Nov 2015,To: 04 Nov 2015,Bhutan,FY 2016,37,Kirat,2,342
+From: 04 Nov 2015,To: 04 Nov 2015,Burma,FY 2016,135,Baptist,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Burma,FY 2016,135,Buddhist,19,342
+From: 04 Nov 2015,To: 04 Nov 2015,Burma,FY 2016,135,Christian,82,342
+From: 04 Nov 2015,To: 04 Nov 2015,Burma,FY 2016,135,Moslem,24,342
+From: 04 Nov 2015,To: 04 Nov 2015,Burma,FY 2016,135,Pentecostalist,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,China,FY 2016,3,Other Religion,3,342
+From: 04 Nov 2015,To: 04 Nov 2015,Dem. Rep. Congo,FY 2016,41,Catholic,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Dem. Rep. Congo,FY 2016,41,Christian,3,342
+From: 04 Nov 2015,To: 04 Nov 2015,Dem. Rep. Congo,FY 2016,41,Jehovah Witness,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Dem. Rep. Congo,FY 2016,41,Pentecostalist,7,342
+From: 04 Nov 2015,To: 04 Nov 2015,Dem. Rep. Congo,FY 2016,41,Protestant,12,342
+From: 04 Nov 2015,To: 04 Nov 2015,Dem. Rep. Congo,FY 2016,41,Seventh Day Adventist,9,342
+From: 04 Nov 2015,To: 04 Nov 2015,Ethiopia,FY 2016,4,Seventh Day Adventist,4,342
+From: 04 Nov 2015,To: 04 Nov 2015,Iran,FY 2016,3,Bahai,2,342
+From: 04 Nov 2015,To: 04 Nov 2015,Iran,FY 2016,3,No Religion,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Iraq,FY 2016,37,Moslem Shiite,22,342
+From: 04 Nov 2015,To: 04 Nov 2015,Iraq,FY 2016,37,Moslem Suni,15,342
+From: 04 Nov 2015,To: 04 Nov 2015,Kuwait,FY 2016,1,Moslem,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Somalia,FY 2016,32,Moslem,15,342
+From: 04 Nov 2015,To: 04 Nov 2015,Somalia,FY 2016,32,Moslem Suni,17,342
+From: 04 Nov 2015,To: 04 Nov 2015,Sudan,FY 2016,14,Catholic,7,342
+From: 04 Nov 2015,To: 04 Nov 2015,Sudan,FY 2016,14,Moslem,6,342
+From: 04 Nov 2015,To: 04 Nov 2015,Sudan,FY 2016,14,Moslem Suni,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Syria,FY 2016,23,Moslem Suni,23,342
+From: 04 Nov 2015,To: 04 Nov 2015,Yemen,FY 2016,2,Christian,2,342
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Nov 2015,To: 04 Nov 2015,Bahai,FY 2016,2,Iran,2,342
+From: 04 Nov 2015,To: 04 Nov 2015,Baptist,FY 2016,5,Burma,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Buddhist,FY 2016,29,Bhutan,10,342
+From: 04 Nov 2015,To: 04 Nov 2015,Buddhist,FY 2016,29,Burma,19,342
+From: 04 Nov 2015,To: 04 Nov 2015,Catholic,FY 2016,12,Dem. Rep. Congo,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Catholic,FY 2016,12,Sudan,7,342
+From: 04 Nov 2015,To: 04 Nov 2015,Christian,FY 2016,105,Bhutan,18,342
+From: 04 Nov 2015,To: 04 Nov 2015,Christian,FY 2016,105,Burma,82,342
+From: 04 Nov 2015,To: 04 Nov 2015,Christian,FY 2016,105,Dem. Rep. Congo,3,342
+From: 04 Nov 2015,To: 04 Nov 2015,Christian,FY 2016,105,Yemen,2,342
+From: 04 Nov 2015,To: 04 Nov 2015,Hindu,FY 2016,7,Bhutan,7,342
+From: 04 Nov 2015,To: 04 Nov 2015,Jehovah Witness,FY 2016,5,Dem. Rep. Congo,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Kirat,FY 2016,2,Bhutan,2,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem,FY 2016,47,Afghanistan,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem,FY 2016,47,Burma,24,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem,FY 2016,47,Kuwait,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem,FY 2016,47,Somalia,15,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem,FY 2016,47,Sudan,6,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem Shiite,FY 2016,31,Afghanistan,9,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem Shiite,FY 2016,31,Iraq,22,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem Suni,FY 2016,56,Iraq,15,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem Suni,FY 2016,56,Somalia,17,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem Suni,FY 2016,56,Sudan,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Moslem Suni,FY 2016,56,Syria,23,342
+From: 04 Nov 2015,To: 04 Nov 2015,No Religion,FY 2016,1,Iran,1,342
+From: 04 Nov 2015,To: 04 Nov 2015,Other Religion,FY 2016,3,China,3,342
+From: 04 Nov 2015,To: 04 Nov 2015,Pentecostalist,FY 2016,12,Burma,5,342
+From: 04 Nov 2015,To: 04 Nov 2015,Pentecostalist,FY 2016,12,Dem. Rep. Congo,7,342
+From: 04 Nov 2015,To: 04 Nov 2015,Protestant,FY 2016,12,Dem. Rep. Congo,12,342
+From: 04 Nov 2015,To: 04 Nov 2015,Seventh Day Adventist,FY 2016,13,Dem. Rep. Congo,9,342
+From: 04 Nov 2015,To: 04 Nov 2015,Seventh Day Adventist,FY 2016,13,Ethiopia,4,342
+

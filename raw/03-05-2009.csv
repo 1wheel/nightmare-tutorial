@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Mar 2009,To: 05 Mar 2009,Bhutan,FY 2009,35,Christian,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Bhutan,FY 2009,35,Hindu,23,481
+From: 05 Mar 2009,To: 05 Mar 2009,Bhutan,FY 2009,35,Kirat,9,481
+From: 05 Mar 2009,To: 05 Mar 2009,Burma,FY 2009,204,Animist,12,481
+From: 05 Mar 2009,To: 05 Mar 2009,Burma,FY 2009,204,Buddhist,36,481
+From: 05 Mar 2009,To: 05 Mar 2009,Burma,FY 2009,204,Christian,120,481
+From: 05 Mar 2009,To: 05 Mar 2009,Burma,FY 2009,204,Moslem,36,481
+From: 05 Mar 2009,To: 05 Mar 2009,Cuba,FY 2009,9,Catholic,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Cuba,FY 2009,9,Jehovah Witness,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Eritrea,FY 2009,6,Orthodox,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iran,FY 2009,55,Christian,43,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iran,FY 2009,55,Sabeans-Mandean,8,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iran,FY 2009,55,Zoroastrian,4,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iraq,FY 2009,120,Catholic,12,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iraq,FY 2009,120,Christian,57,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iraq,FY 2009,120,Moslem Shiite,12,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iraq,FY 2009,120,Moslem Suni,33,481
+From: 05 Mar 2009,To: 05 Mar 2009,Iraq,FY 2009,120,Sabeans-Mandean,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Somalia,FY 2009,35,Christian,1,481
+From: 05 Mar 2009,To: 05 Mar 2009,Somalia,FY 2009,35,Moslem,34,481
+From: 05 Mar 2009,To: 05 Mar 2009,Sri Lanka (Ceylon),FY 2009,1,Hindu,1,481
+From: 05 Mar 2009,To: 05 Mar 2009,Ukraine,FY 2009,16,Baptist,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Ukraine,FY 2009,16,Orthodox,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Ukraine,FY 2009,16,Pentecostalist,4,481
+From: 05 Mar 2009,To: 05 Mar 2009,Ukraine,FY 2009,16,Seventh Day Adventist,3,481
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Mar 2009,To: 05 Mar 2009,Animist,FY 2009,12,Burma,12,481
+From: 05 Mar 2009,To: 05 Mar 2009,Baptist,FY 2009,6,Ukraine,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Buddhist,FY 2009,36,Burma,36,481
+From: 05 Mar 2009,To: 05 Mar 2009,Catholic,FY 2009,15,Cuba,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Catholic,FY 2009,15,Iraq,12,481
+From: 05 Mar 2009,To: 05 Mar 2009,Christian,FY 2009,224,Bhutan,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Christian,FY 2009,224,Burma,120,481
+From: 05 Mar 2009,To: 05 Mar 2009,Christian,FY 2009,224,Iran,43,481
+From: 05 Mar 2009,To: 05 Mar 2009,Christian,FY 2009,224,Iraq,57,481
+From: 05 Mar 2009,To: 05 Mar 2009,Christian,FY 2009,224,Somalia,1,481
+From: 05 Mar 2009,To: 05 Mar 2009,Hindu,FY 2009,24,Bhutan,23,481
+From: 05 Mar 2009,To: 05 Mar 2009,Hindu,FY 2009,24,Sri Lanka (Ceylon),1,481
+From: 05 Mar 2009,To: 05 Mar 2009,Jehovah Witness,FY 2009,6,Cuba,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Kirat,FY 2009,9,Bhutan,9,481
+From: 05 Mar 2009,To: 05 Mar 2009,Moslem,FY 2009,70,Burma,36,481
+From: 05 Mar 2009,To: 05 Mar 2009,Moslem,FY 2009,70,Somalia,34,481
+From: 05 Mar 2009,To: 05 Mar 2009,Moslem Shiite,FY 2009,12,Iraq,12,481
+From: 05 Mar 2009,To: 05 Mar 2009,Moslem Suni,FY 2009,33,Iraq,33,481
+From: 05 Mar 2009,To: 05 Mar 2009,Orthodox,FY 2009,9,Eritrea,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Orthodox,FY 2009,9,Ukraine,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Pentecostalist,FY 2009,4,Ukraine,4,481
+From: 05 Mar 2009,To: 05 Mar 2009,Sabeans-Mandean,FY 2009,14,Iran,8,481
+From: 05 Mar 2009,To: 05 Mar 2009,Sabeans-Mandean,FY 2009,14,Iraq,6,481
+From: 05 Mar 2009,To: 05 Mar 2009,Seventh Day Adventist,FY 2009,3,Ukraine,3,481
+From: 05 Mar 2009,To: 05 Mar 2009,Zoroastrian,FY 2009,4,Iran,4,481
+

@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Mar 2010,To: 15 Mar 2010,Afghanistan,FY 2010,13,Moslem,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Afghanistan,FY 2010,13,Moslem Suni,9,85
+From: 15 Mar 2010,To: 15 Mar 2010,Burma,FY 2010,3,Christian,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Dem. Rep. Congo,FY 2010,1,Moslem Suni,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iran,FY 2010,3,Bahai,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,FY 2010,63,Catholic,10,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,FY 2010,63,Christian,9,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,FY 2010,63,Moslem Shiite,8,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,FY 2010,63,Moslem Suni,25,85
+From: 15 Mar 2010,To: 15 Mar 2010,Iraq,FY 2010,63,Orthodox,11,85
+From: 15 Mar 2010,To: 15 Mar 2010,Somalia,FY 2010,2,Moslem,2,85
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Mar 2010,To: 15 Mar 2010,Bahai,FY 2010,3,Iran,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Catholic,FY 2010,10,Iraq,10,85
+From: 15 Mar 2010,To: 15 Mar 2010,Christian,FY 2010,12,Burma,3,85
+From: 15 Mar 2010,To: 15 Mar 2010,Christian,FY 2010,12,Iraq,9,85
+From: 15 Mar 2010,To: 15 Mar 2010,Moslem,FY 2010,6,Afghanistan,4,85
+From: 15 Mar 2010,To: 15 Mar 2010,Moslem,FY 2010,6,Somalia,2,85
+From: 15 Mar 2010,To: 15 Mar 2010,Moslem Shiite,FY 2010,8,Iraq,8,85
+From: 15 Mar 2010,To: 15 Mar 2010,Moslem Suni,FY 2010,35,Afghanistan,9,85
+From: 15 Mar 2010,To: 15 Mar 2010,Moslem Suni,FY 2010,35,Dem. Rep. Congo,1,85
+From: 15 Mar 2010,To: 15 Mar 2010,Moslem Suni,FY 2010,35,Iraq,25,85
+From: 15 Mar 2010,To: 15 Mar 2010,Orthodox,FY 2010,11,Iraq,11,85
+

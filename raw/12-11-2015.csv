@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Dec 2015,To: 11 Dec 2015,Afghanistan,FY 2016,5,Moslem Suni,5,56
+From: 11 Dec 2015,To: 11 Dec 2015,Armenia,FY 2016,2,Pentecostalist,2,56
+From: 11 Dec 2015,To: 11 Dec 2015,Belarus,FY 2016,6,Jewish,1,56
+From: 11 Dec 2015,To: 11 Dec 2015,Belarus,FY 2016,6,Pentecostalist,5,56
+From: 11 Dec 2015,To: 11 Dec 2015,Eritrea,FY 2016,19,Christian,1,56
+From: 11 Dec 2015,To: 11 Dec 2015,Eritrea,FY 2016,19,Orthodox,14,56
+From: 11 Dec 2015,To: 11 Dec 2015,Eritrea,FY 2016,19,Protestant,4,56
+From: 11 Dec 2015,To: 11 Dec 2015,Somalia,FY 2016,24,Moslem,24,56
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Dec 2015,To: 11 Dec 2015,Christian,FY 2016,1,Eritrea,1,56
+From: 11 Dec 2015,To: 11 Dec 2015,Jewish,FY 2016,1,Belarus,1,56
+From: 11 Dec 2015,To: 11 Dec 2015,Moslem,FY 2016,24,Somalia,24,56
+From: 11 Dec 2015,To: 11 Dec 2015,Moslem Suni,FY 2016,5,Afghanistan,5,56
+From: 11 Dec 2015,To: 11 Dec 2015,Orthodox,FY 2016,14,Eritrea,14,56
+From: 11 Dec 2015,To: 11 Dec 2015,Pentecostalist,FY 2016,7,Armenia,2,56
+From: 11 Dec 2015,To: 11 Dec 2015,Pentecostalist,FY 2016,7,Belarus,5,56
+From: 11 Dec 2015,To: 11 Dec 2015,Protestant,FY 2016,4,Eritrea,4,56
+

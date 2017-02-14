@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jun 2010,To: 14 Jun 2010,Burma,FY 2010,61,Buddhist,7,121
+From: 14 Jun 2010,To: 14 Jun 2010,Burma,FY 2010,61,Christian,53,121
+From: 14 Jun 2010,To: 14 Jun 2010,Burma,FY 2010,61,Moslem,1,121
+From: 14 Jun 2010,To: 14 Jun 2010,Iraq,FY 2010,42,Christian,34,121
+From: 14 Jun 2010,To: 14 Jun 2010,Iraq,FY 2010,42,Moslem Suni,6,121
+From: 14 Jun 2010,To: 14 Jun 2010,Iraq,FY 2010,42,Sabeans-Mandean,2,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moldova,FY 2010,13,Baptist,5,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moldova,FY 2010,13,Evangelical Christian,1,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moldova,FY 2010,13,Pentecostalist,5,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moldova,FY 2010,13,Seventh Day Adventist,2,121
+From: 14 Jun 2010,To: 14 Jun 2010,Sudan,FY 2010,5,Moslem,5,121
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jun 2010,To: 14 Jun 2010,Baptist,FY 2010,5,Moldova,5,121
+From: 14 Jun 2010,To: 14 Jun 2010,Buddhist,FY 2010,7,Burma,7,121
+From: 14 Jun 2010,To: 14 Jun 2010,Christian,FY 2010,87,Burma,53,121
+From: 14 Jun 2010,To: 14 Jun 2010,Christian,FY 2010,87,Iraq,34,121
+From: 14 Jun 2010,To: 14 Jun 2010,Evangelical Christian,FY 2010,1,Moldova,1,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moslem,FY 2010,6,Burma,1,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moslem,FY 2010,6,Sudan,5,121
+From: 14 Jun 2010,To: 14 Jun 2010,Moslem Suni,FY 2010,6,Iraq,6,121
+From: 14 Jun 2010,To: 14 Jun 2010,Pentecostalist,FY 2010,5,Moldova,5,121
+From: 14 Jun 2010,To: 14 Jun 2010,Sabeans-Mandean,FY 2010,2,Iraq,2,121
+From: 14 Jun 2010,To: 14 Jun 2010,Seventh Day Adventist,FY 2010,2,Moldova,2,121
+

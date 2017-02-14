@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Jun 2004,To: 04 Jun 2004,Burma,FY 2004,35,Baptist,15,125
+From: 04 Jun 2004,To: 04 Jun 2004,Burma,FY 2004,35,Protestant,20,125
+From: 04 Jun 2004,To: 04 Jun 2004,Cuba,FY 2004,35,Catholic,17,125
+From: 04 Jun 2004,To: 04 Jun 2004,Cuba,FY 2004,35,Jehovah Witness,5,125
+From: 04 Jun 2004,To: 04 Jun 2004,Cuba,FY 2004,35,No Religion,13,125
+From: 04 Jun 2004,To: 04 Jun 2004,Somalia,FY 2004,35,Moslem,35,125
+From: 04 Jun 2004,To: 04 Jun 2004,Sudan,FY 2004,20,Catholic,6,125
+From: 04 Jun 2004,To: 04 Jun 2004,Sudan,FY 2004,20,Christian,4,125
+From: 04 Jun 2004,To: 04 Jun 2004,Sudan,FY 2004,20,Jehovah Witness,3,125
+From: 04 Jun 2004,To: 04 Jun 2004,Sudan,FY 2004,20,Moslem,6,125
+From: 04 Jun 2004,To: 04 Jun 2004,Sudan,FY 2004,20,Seventh Day Adventist,1,125
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Jun 2004,To: 04 Jun 2004,Baptist,FY 2004,15,Burma,15,125
+From: 04 Jun 2004,To: 04 Jun 2004,Catholic,FY 2004,23,Cuba,17,125
+From: 04 Jun 2004,To: 04 Jun 2004,Catholic,FY 2004,23,Sudan,6,125
+From: 04 Jun 2004,To: 04 Jun 2004,Christian,FY 2004,4,Sudan,4,125
+From: 04 Jun 2004,To: 04 Jun 2004,Jehovah Witness,FY 2004,8,Cuba,5,125
+From: 04 Jun 2004,To: 04 Jun 2004,Jehovah Witness,FY 2004,8,Sudan,3,125
+From: 04 Jun 2004,To: 04 Jun 2004,Moslem,FY 2004,41,Somalia,35,125
+From: 04 Jun 2004,To: 04 Jun 2004,Moslem,FY 2004,41,Sudan,6,125
+From: 04 Jun 2004,To: 04 Jun 2004,No Religion,FY 2004,13,Cuba,13,125
+From: 04 Jun 2004,To: 04 Jun 2004,Protestant,FY 2004,20,Burma,20,125
+From: 04 Jun 2004,To: 04 Jun 2004,Seventh Day Adventist,FY 2004,1,Sudan,1,125
+

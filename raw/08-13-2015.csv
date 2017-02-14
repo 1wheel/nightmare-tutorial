@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Aug 2015,To: 13 Aug 2015,Afghanistan,FY 2015,9,Moslem Shiite,8,301
+From: 13 Aug 2015,To: 13 Aug 2015,Afghanistan,FY 2015,9,Moslem Suni,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Bhutan,FY 2015,32,Buddhist,6,301
+From: 13 Aug 2015,To: 13 Aug 2015,Bhutan,FY 2015,32,Christian,9,301
+From: 13 Aug 2015,To: 13 Aug 2015,Bhutan,FY 2015,32,Hindu,15,301
+From: 13 Aug 2015,To: 13 Aug 2015,Bhutan,FY 2015,32,Kirat,2,301
+From: 13 Aug 2015,To: 13 Aug 2015,Burma,FY 2015,82,Buddhist,2,301
+From: 13 Aug 2015,To: 13 Aug 2015,Burma,FY 2015,82,Catholic,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Burma,FY 2015,82,Christian,49,301
+From: 13 Aug 2015,To: 13 Aug 2015,Burma,FY 2015,82,Moslem,30,301
+From: 13 Aug 2015,To: 13 Aug 2015,Burundi,FY 2015,1,Catholic,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Dem. Rep. Congo,FY 2015,32,Catholic,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Dem. Rep. Congo,FY 2015,32,Methodist,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Dem. Rep. Congo,FY 2015,32,Pentecostalist,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Dem. Rep. Congo,FY 2015,32,Protestant,16,301
+From: 13 Aug 2015,To: 13 Aug 2015,Dem. Rep. Congo,FY 2015,32,Seventh Day Adventist,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Eritrea,FY 2015,7,Moslem,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iran,FY 2015,41,Bahai,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iran,FY 2015,41,Christian,24,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iran,FY 2015,41,Jewish,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iran,FY 2015,41,Moslem Shiite,2,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iran,FY 2015,41,Sabeans-Mandean,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iran,FY 2015,41,Zoroastrian,6,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iraq,FY 2015,51,Catholic,5,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iraq,FY 2015,51,Moslem,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iraq,FY 2015,51,Moslem Shiite,15,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iraq,FY 2015,51,Moslem Suni,20,301
+From: 13 Aug 2015,To: 13 Aug 2015,Iraq,FY 2015,51,Orthodox,10,301
+From: 13 Aug 2015,To: 13 Aug 2015,Somalia,FY 2015,14,Moslem,14,301
+From: 13 Aug 2015,To: 13 Aug 2015,Sudan,FY 2015,27,Christian,13,301
+From: 13 Aug 2015,To: 13 Aug 2015,Sudan,FY 2015,27,Moslem,14,301
+From: 13 Aug 2015,To: 13 Aug 2015,Syria,FY 2015,5,Moslem Suni,5,301
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Aug 2015,To: 13 Aug 2015,Bahai,FY 2015,1,Iran,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Buddhist,FY 2015,8,Bhutan,6,301
+From: 13 Aug 2015,To: 13 Aug 2015,Buddhist,FY 2015,8,Burma,2,301
+From: 13 Aug 2015,To: 13 Aug 2015,Catholic,FY 2015,14,Burma,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Catholic,FY 2015,14,Burundi,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Catholic,FY 2015,14,Dem. Rep. Congo,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Catholic,FY 2015,14,Iraq,5,301
+From: 13 Aug 2015,To: 13 Aug 2015,Christian,FY 2015,95,Bhutan,9,301
+From: 13 Aug 2015,To: 13 Aug 2015,Christian,FY 2015,95,Burma,49,301
+From: 13 Aug 2015,To: 13 Aug 2015,Christian,FY 2015,95,Iran,24,301
+From: 13 Aug 2015,To: 13 Aug 2015,Christian,FY 2015,95,Sudan,13,301
+From: 13 Aug 2015,To: 13 Aug 2015,Hindu,FY 2015,15,Bhutan,15,301
+From: 13 Aug 2015,To: 13 Aug 2015,Jewish,FY 2015,1,Iran,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Kirat,FY 2015,2,Bhutan,2,301
+From: 13 Aug 2015,To: 13 Aug 2015,Methodist,FY 2015,1,Dem. Rep. Congo,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem,FY 2015,66,Burma,30,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem,FY 2015,66,Eritrea,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem,FY 2015,66,Iraq,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem,FY 2015,66,Somalia,14,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem,FY 2015,66,Sudan,14,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem Shiite,FY 2015,25,Afghanistan,8,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem Shiite,FY 2015,25,Iran,2,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem Shiite,FY 2015,25,Iraq,15,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem Suni,FY 2015,26,Afghanistan,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem Suni,FY 2015,26,Iraq,20,301
+From: 13 Aug 2015,To: 13 Aug 2015,Moslem Suni,FY 2015,26,Syria,5,301
+From: 13 Aug 2015,To: 13 Aug 2015,Orthodox,FY 2015,10,Iraq,10,301
+From: 13 Aug 2015,To: 13 Aug 2015,Pentecostalist,FY 2015,7,Dem. Rep. Congo,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Protestant,FY 2015,16,Dem. Rep. Congo,16,301
+From: 13 Aug 2015,To: 13 Aug 2015,Sabeans-Mandean,FY 2015,7,Iran,7,301
+From: 13 Aug 2015,To: 13 Aug 2015,Seventh Day Adventist,FY 2015,1,Dem. Rep. Congo,1,301
+From: 13 Aug 2015,To: 13 Aug 2015,Zoroastrian,FY 2015,6,Iran,6,301
+

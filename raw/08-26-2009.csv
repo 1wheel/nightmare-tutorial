@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Aug 2009,To: 26 Aug 2009,Afghanistan,FY 2009,1,Moslem Shiite,1,541
+From: 26 Aug 2009,To: 26 Aug 2009,Bhutan,FY 2009,103,Buddhist,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Bhutan,FY 2009,103,Christian,7,541
+From: 26 Aug 2009,To: 26 Aug 2009,Bhutan,FY 2009,103,Hindu,78,541
+From: 26 Aug 2009,To: 26 Aug 2009,Bhutan,FY 2009,103,Kirat,13,541
+From: 26 Aug 2009,To: 26 Aug 2009,Burma,FY 2009,116,Animist,11,541
+From: 26 Aug 2009,To: 26 Aug 2009,Burma,FY 2009,116,Buddhist,37,541
+From: 26 Aug 2009,To: 26 Aug 2009,Burma,FY 2009,116,Christian,64,541
+From: 26 Aug 2009,To: 26 Aug 2009,Burma,FY 2009,116,Moslem,4,541
+From: 26 Aug 2009,To: 26 Aug 2009,Cuba,FY 2009,70,Baptist,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Cuba,FY 2009,70,Catholic,24,541
+From: 26 Aug 2009,To: 26 Aug 2009,Cuba,FY 2009,70,Evangelical Christian,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Cuba,FY 2009,70,Jehovah Witness,9,541
+From: 26 Aug 2009,To: 26 Aug 2009,Cuba,FY 2009,70,No Religion,21,541
+From: 26 Aug 2009,To: 26 Aug 2009,Cuba,FY 2009,70,Pentecostalist,6,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iran,FY 2009,78,Bahai,15,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iran,FY 2009,78,Christian,50,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iran,FY 2009,78,Jewish,3,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iran,FY 2009,78,Zoroastrian,10,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iraq,FY 2009,135,Catholic,20,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iraq,FY 2009,135,Christian,53,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iraq,FY 2009,135,Moslem Shiite,19,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iraq,FY 2009,135,Moslem Suni,27,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iraq,FY 2009,135,Orthodox,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Iraq,FY 2009,135,Sabeans-Mandean,11,541
+From: 26 Aug 2009,To: 26 Aug 2009,Liberia,FY 2009,4,Moslem,4,541
+From: 26 Aug 2009,To: 26 Aug 2009,Pakistan,FY 2009,5,Other Religion,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Russia,FY 2009,29,Jewish,9,541
+From: 26 Aug 2009,To: 26 Aug 2009,Russia,FY 2009,29,No Religion,2,541
+From: 26 Aug 2009,To: 26 Aug 2009,Russia,FY 2009,29,Orthodox,2,541
+From: 26 Aug 2009,To: 26 Aug 2009,Russia,FY 2009,29,Pentecostalist,16,541
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Aug 2009,To: 26 Aug 2009,Animist,FY 2009,11,Burma,11,541
+From: 26 Aug 2009,To: 26 Aug 2009,Bahai,FY 2009,15,Iran,15,541
+From: 26 Aug 2009,To: 26 Aug 2009,Baptist,FY 2009,5,Cuba,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Buddhist,FY 2009,42,Bhutan,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Buddhist,FY 2009,42,Burma,37,541
+From: 26 Aug 2009,To: 26 Aug 2009,Catholic,FY 2009,44,Cuba,24,541
+From: 26 Aug 2009,To: 26 Aug 2009,Catholic,FY 2009,44,Iraq,20,541
+From: 26 Aug 2009,To: 26 Aug 2009,Christian,FY 2009,174,Bhutan,7,541
+From: 26 Aug 2009,To: 26 Aug 2009,Christian,FY 2009,174,Burma,64,541
+From: 26 Aug 2009,To: 26 Aug 2009,Christian,FY 2009,174,Iran,50,541
+From: 26 Aug 2009,To: 26 Aug 2009,Christian,FY 2009,174,Iraq,53,541
+From: 26 Aug 2009,To: 26 Aug 2009,Evangelical Christian,FY 2009,5,Cuba,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Hindu,FY 2009,78,Bhutan,78,541
+From: 26 Aug 2009,To: 26 Aug 2009,Jehovah Witness,FY 2009,9,Cuba,9,541
+From: 26 Aug 2009,To: 26 Aug 2009,Jewish,FY 2009,12,Iran,3,541
+From: 26 Aug 2009,To: 26 Aug 2009,Jewish,FY 2009,12,Russia,9,541
+From: 26 Aug 2009,To: 26 Aug 2009,Kirat,FY 2009,13,Bhutan,13,541
+From: 26 Aug 2009,To: 26 Aug 2009,Moslem,FY 2009,8,Burma,4,541
+From: 26 Aug 2009,To: 26 Aug 2009,Moslem,FY 2009,8,Liberia,4,541
+From: 26 Aug 2009,To: 26 Aug 2009,Moslem Shiite,FY 2009,20,Afghanistan,1,541
+From: 26 Aug 2009,To: 26 Aug 2009,Moslem Shiite,FY 2009,20,Iraq,19,541
+From: 26 Aug 2009,To: 26 Aug 2009,Moslem Suni,FY 2009,27,Iraq,27,541
+From: 26 Aug 2009,To: 26 Aug 2009,No Religion,FY 2009,23,Cuba,21,541
+From: 26 Aug 2009,To: 26 Aug 2009,No Religion,FY 2009,23,Russia,2,541
+From: 26 Aug 2009,To: 26 Aug 2009,Orthodox,FY 2009,7,Iraq,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Orthodox,FY 2009,7,Russia,2,541
+From: 26 Aug 2009,To: 26 Aug 2009,Other Religion,FY 2009,5,Pakistan,5,541
+From: 26 Aug 2009,To: 26 Aug 2009,Pentecostalist,FY 2009,22,Cuba,6,541
+From: 26 Aug 2009,To: 26 Aug 2009,Pentecostalist,FY 2009,22,Russia,16,541
+From: 26 Aug 2009,To: 26 Aug 2009,Sabeans-Mandean,FY 2009,11,Iraq,11,541
+From: 26 Aug 2009,To: 26 Aug 2009,Zoroastrian,FY 2009,10,Iran,10,541
+

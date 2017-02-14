@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Feb 2006,To: 13 Feb 2006,Afghanistan,FY 2006,4,Moslem Suni,4,72
+From: 13 Feb 2006,To: 13 Feb 2006,Eritrea,FY 2006,5,Jehovah Witness,5,72
+From: 13 Feb 2006,To: 13 Feb 2006,Somalia,FY 2006,8,Moslem,8,72
+From: 13 Feb 2006,To: 13 Feb 2006,Sudan,FY 2006,22,Catholic,3,72
+From: 13 Feb 2006,To: 13 Feb 2006,Sudan,FY 2006,22,Moslem,16,72
+From: 13 Feb 2006,To: 13 Feb 2006,Sudan,FY 2006,22,Protestant,3,72
+From: 13 Feb 2006,To: 13 Feb 2006,Ukraine,FY 2006,27,Baptist,10,72
+From: 13 Feb 2006,To: 13 Feb 2006,Ukraine,FY 2006,27,No Religion,2,72
+From: 13 Feb 2006,To: 13 Feb 2006,Ukraine,FY 2006,27,Pentecostalist,15,72
+From: 13 Feb 2006,To: 13 Feb 2006,Uzbekistan,FY 2006,6,Jewish,5,72
+From: 13 Feb 2006,To: 13 Feb 2006,Uzbekistan,FY 2006,6,Orthodox,1,72
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Feb 2006,To: 13 Feb 2006,Baptist,FY 2006,10,Ukraine,10,72
+From: 13 Feb 2006,To: 13 Feb 2006,Catholic,FY 2006,3,Sudan,3,72
+From: 13 Feb 2006,To: 13 Feb 2006,Jehovah Witness,FY 2006,5,Eritrea,5,72
+From: 13 Feb 2006,To: 13 Feb 2006,Jewish,FY 2006,5,Uzbekistan,5,72
+From: 13 Feb 2006,To: 13 Feb 2006,Moslem,FY 2006,24,Somalia,8,72
+From: 13 Feb 2006,To: 13 Feb 2006,Moslem,FY 2006,24,Sudan,16,72
+From: 13 Feb 2006,To: 13 Feb 2006,Moslem Suni,FY 2006,4,Afghanistan,4,72
+From: 13 Feb 2006,To: 13 Feb 2006,No Religion,FY 2006,2,Ukraine,2,72
+From: 13 Feb 2006,To: 13 Feb 2006,Orthodox,FY 2006,1,Uzbekistan,1,72
+From: 13 Feb 2006,To: 13 Feb 2006,Pentecostalist,FY 2006,15,Ukraine,15,72
+From: 13 Feb 2006,To: 13 Feb 2006,Protestant,FY 2006,3,Sudan,3,72
+

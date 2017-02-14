@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Nov 2007,To: 08 Nov 2007,Burma,FY 2008,27,Christian,27,222
+From: 08 Nov 2007,To: 08 Nov 2007,Cuba,FY 2008,70,Catholic,24,222
+From: 08 Nov 2007,To: 08 Nov 2007,Cuba,FY 2008,70,Evangelical Christian,7,222
+From: 08 Nov 2007,To: 08 Nov 2007,Cuba,FY 2008,70,Jehovah Witness,16,222
+From: 08 Nov 2007,To: 08 Nov 2007,Cuba,FY 2008,70,No Religion,23,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iran,FY 2008,35,Bahai,1,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iran,FY 2008,35,Catholic,3,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iran,FY 2008,35,Christian,30,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iran,FY 2008,35,Jewish,1,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iraq,FY 2008,27,Catholic,5,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iraq,FY 2008,27,Christian,6,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iraq,FY 2008,27,Moslem Shiite,10,222
+From: 08 Nov 2007,To: 08 Nov 2007,Iraq,FY 2008,27,Moslem Suni,6,222
+From: 08 Nov 2007,To: 08 Nov 2007,Liberia,FY 2008,39,Catholic,4,222
+From: 08 Nov 2007,To: 08 Nov 2007,Liberia,FY 2008,39,Christian,23,222
+From: 08 Nov 2007,To: 08 Nov 2007,Liberia,FY 2008,39,Methodist,2,222
+From: 08 Nov 2007,To: 08 Nov 2007,Liberia,FY 2008,39,Moslem,8,222
+From: 08 Nov 2007,To: 08 Nov 2007,Liberia,FY 2008,39,Pentecostalist,2,222
+From: 08 Nov 2007,To: 08 Nov 2007,Somalia,FY 2008,2,Moslem,2,222
+From: 08 Nov 2007,To: 08 Nov 2007,Ukraine,FY 2008,19,Baptist,4,222
+From: 08 Nov 2007,To: 08 Nov 2007,Ukraine,FY 2008,19,Pentecostalist,15,222
+From: 08 Nov 2007,To: 08 Nov 2007,Vietnam,FY 2008,3,Christian,3,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Nov 2007,To: 08 Nov 2007,Bahai,FY 2008,1,Iran,1,222
+From: 08 Nov 2007,To: 08 Nov 2007,Baptist,FY 2008,4,Ukraine,4,222
+From: 08 Nov 2007,To: 08 Nov 2007,Catholic,FY 2008,36,Cuba,24,222
+From: 08 Nov 2007,To: 08 Nov 2007,Catholic,FY 2008,36,Iran,3,222
+From: 08 Nov 2007,To: 08 Nov 2007,Catholic,FY 2008,36,Iraq,5,222
+From: 08 Nov 2007,To: 08 Nov 2007,Catholic,FY 2008,36,Liberia,4,222
+From: 08 Nov 2007,To: 08 Nov 2007,Christian,FY 2008,89,Burma,27,222
+From: 08 Nov 2007,To: 08 Nov 2007,Christian,FY 2008,89,Iran,30,222
+From: 08 Nov 2007,To: 08 Nov 2007,Christian,FY 2008,89,Iraq,6,222
+From: 08 Nov 2007,To: 08 Nov 2007,Christian,FY 2008,89,Liberia,23,222
+From: 08 Nov 2007,To: 08 Nov 2007,Christian,FY 2008,89,Vietnam,3,222
+From: 08 Nov 2007,To: 08 Nov 2007,Evangelical Christian,FY 2008,7,Cuba,7,222
+From: 08 Nov 2007,To: 08 Nov 2007,Jehovah Witness,FY 2008,16,Cuba,16,222
+From: 08 Nov 2007,To: 08 Nov 2007,Jewish,FY 2008,1,Iran,1,222
+From: 08 Nov 2007,To: 08 Nov 2007,Methodist,FY 2008,2,Liberia,2,222
+From: 08 Nov 2007,To: 08 Nov 2007,Moslem,FY 2008,10,Liberia,8,222
+From: 08 Nov 2007,To: 08 Nov 2007,Moslem,FY 2008,10,Somalia,2,222
+From: 08 Nov 2007,To: 08 Nov 2007,Moslem Shiite,FY 2008,10,Iraq,10,222
+From: 08 Nov 2007,To: 08 Nov 2007,Moslem Suni,FY 2008,6,Iraq,6,222
+From: 08 Nov 2007,To: 08 Nov 2007,No Religion,FY 2008,23,Cuba,23,222
+From: 08 Nov 2007,To: 08 Nov 2007,Pentecostalist,FY 2008,17,Liberia,2,222
+From: 08 Nov 2007,To: 08 Nov 2007,Pentecostalist,FY 2008,17,Ukraine,15,222
+

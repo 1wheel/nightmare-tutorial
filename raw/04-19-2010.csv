@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2010,To: 19 Apr 2010,Afghanistan,FY 2010,1,Moslem,1,171
+From: 19 Apr 2010,To: 19 Apr 2010,Burma,FY 2010,117,Baptist,8,171
+From: 19 Apr 2010,To: 19 Apr 2010,Burma,FY 2010,117,Buddhist,10,171
+From: 19 Apr 2010,To: 19 Apr 2010,Burma,FY 2010,117,Catholic,19,171
+From: 19 Apr 2010,To: 19 Apr 2010,Burma,FY 2010,117,Christian,80,171
+From: 19 Apr 2010,To: 19 Apr 2010,Iran,FY 2010,6,Bahai,6,171
+From: 19 Apr 2010,To: 19 Apr 2010,Iraq,FY 2010,43,Catholic,6,171
+From: 19 Apr 2010,To: 19 Apr 2010,Iraq,FY 2010,43,Christian,4,171
+From: 19 Apr 2010,To: 19 Apr 2010,Iraq,FY 2010,43,Moslem Shiite,6,171
+From: 19 Apr 2010,To: 19 Apr 2010,Iraq,FY 2010,43,Moslem Suni,23,171
+From: 19 Apr 2010,To: 19 Apr 2010,Iraq,FY 2010,43,Orthodox,4,171
+From: 19 Apr 2010,To: 19 Apr 2010,Somalia,FY 2010,4,Moslem,4,171
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2010,To: 19 Apr 2010,Bahai,FY 2010,6,Iran,6,171
+From: 19 Apr 2010,To: 19 Apr 2010,Baptist,FY 2010,8,Burma,8,171
+From: 19 Apr 2010,To: 19 Apr 2010,Buddhist,FY 2010,10,Burma,10,171
+From: 19 Apr 2010,To: 19 Apr 2010,Catholic,FY 2010,25,Burma,19,171
+From: 19 Apr 2010,To: 19 Apr 2010,Catholic,FY 2010,25,Iraq,6,171
+From: 19 Apr 2010,To: 19 Apr 2010,Christian,FY 2010,84,Burma,80,171
+From: 19 Apr 2010,To: 19 Apr 2010,Christian,FY 2010,84,Iraq,4,171
+From: 19 Apr 2010,To: 19 Apr 2010,Moslem,FY 2010,5,Afghanistan,1,171
+From: 19 Apr 2010,To: 19 Apr 2010,Moslem,FY 2010,5,Somalia,4,171
+From: 19 Apr 2010,To: 19 Apr 2010,Moslem Shiite,FY 2010,6,Iraq,6,171
+From: 19 Apr 2010,To: 19 Apr 2010,Moslem Suni,FY 2010,23,Iraq,23,171
+From: 19 Apr 2010,To: 19 Apr 2010,Orthodox,FY 2010,4,Iraq,4,171
+

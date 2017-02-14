@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Oct 2003,To: 30 Oct 2003,Afghanistan,FY 2004,10,Moslem,6,246
+From: 30 Oct 2003,To: 30 Oct 2003,Afghanistan,FY 2004,10,Moslem Suni,4,246
+From: 30 Oct 2003,To: 30 Oct 2003,Azerbaijan,FY 2004,10,Unknown,10,246
+From: 30 Oct 2003,To: 30 Oct 2003,Ethiopia,FY 2004,28,Moslem,25,246
+From: 30 Oct 2003,To: 30 Oct 2003,Ethiopia,FY 2004,28,Orthodox,3,246
+From: 30 Oct 2003,To: 30 Oct 2003,Kazakhstan,FY 2004,24,Baptist,24,246
+From: 30 Oct 2003,To: 30 Oct 2003,Russia,FY 2004,5,Jewish,3,246
+From: 30 Oct 2003,To: 30 Oct 2003,Russia,FY 2004,5,No Religion,2,246
+From: 30 Oct 2003,To: 30 Oct 2003,Somalia,FY 2004,76,Moslem,76,246
+From: 30 Oct 2003,To: 30 Oct 2003,Ukraine,FY 2004,40,Baptist,17,246
+From: 30 Oct 2003,To: 30 Oct 2003,Ukraine,FY 2004,40,Pentecostalist,23,246
+From: 30 Oct 2003,To: 30 Oct 2003,Vietnam,FY 2004,53,Ancestral Worship,5,246
+From: 30 Oct 2003,To: 30 Oct 2003,Vietnam,FY 2004,53,Buddhist,22,246
+From: 30 Oct 2003,To: 30 Oct 2003,Vietnam,FY 2004,53,Cao Dai,6,246
+From: 30 Oct 2003,To: 30 Oct 2003,Vietnam,FY 2004,53,Catholic,3,246
+From: 30 Oct 2003,To: 30 Oct 2003,Vietnam,FY 2004,53,No Religion,14,246
+From: 30 Oct 2003,To: 30 Oct 2003,Vietnam,FY 2004,53,Unknown,3,246
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Oct 2003,To: 30 Oct 2003,Ancestral Worship,FY 2004,5,Vietnam,5,246
+From: 30 Oct 2003,To: 30 Oct 2003,Baptist,FY 2004,41,Kazakhstan,24,246
+From: 30 Oct 2003,To: 30 Oct 2003,Baptist,FY 2004,41,Ukraine,17,246
+From: 30 Oct 2003,To: 30 Oct 2003,Buddhist,FY 2004,22,Vietnam,22,246
+From: 30 Oct 2003,To: 30 Oct 2003,Cao Dai,FY 2004,6,Vietnam,6,246
+From: 30 Oct 2003,To: 30 Oct 2003,Catholic,FY 2004,3,Vietnam,3,246
+From: 30 Oct 2003,To: 30 Oct 2003,Jewish,FY 2004,3,Russia,3,246
+From: 30 Oct 2003,To: 30 Oct 2003,Moslem,FY 2004,107,Afghanistan,6,246
+From: 30 Oct 2003,To: 30 Oct 2003,Moslem,FY 2004,107,Ethiopia,25,246
+From: 30 Oct 2003,To: 30 Oct 2003,Moslem,FY 2004,107,Somalia,76,246
+From: 30 Oct 2003,To: 30 Oct 2003,Moslem Suni,FY 2004,4,Afghanistan,4,246
+From: 30 Oct 2003,To: 30 Oct 2003,No Religion,FY 2004,16,Russia,2,246
+From: 30 Oct 2003,To: 30 Oct 2003,No Religion,FY 2004,16,Vietnam,14,246
+From: 30 Oct 2003,To: 30 Oct 2003,Orthodox,FY 2004,3,Ethiopia,3,246
+From: 30 Oct 2003,To: 30 Oct 2003,Pentecostalist,FY 2004,23,Ukraine,23,246
+From: 30 Oct 2003,To: 30 Oct 2003,Unknown,FY 2004,13,Azerbaijan,10,246
+From: 30 Oct 2003,To: 30 Oct 2003,Unknown,FY 2004,13,Vietnam,3,246
+

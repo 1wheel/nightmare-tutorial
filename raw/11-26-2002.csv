@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Nov 2002,To: 26 Nov 2002,Afghanistan,FY 2003,24,Moslem,22,183
+From: 26 Nov 2002,To: 26 Nov 2002,Afghanistan,FY 2003,24,Moslem Suni,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Belarus,FY 2003,14,Baptist,3,183
+From: 26 Nov 2002,To: 26 Nov 2002,Belarus,FY 2003,14,Jewish,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Belarus,FY 2003,14,Pentecostalist,10,183
+From: 26 Nov 2002,To: 26 Nov 2002,Bosnia and Herzegovina,FY 2003,19,Moslem,19,183
+From: 26 Nov 2002,To: 26 Nov 2002,Colombia,FY 2003,7,Catholic,7,183
+From: 26 Nov 2002,To: 26 Nov 2002,Congo,FY 2003,4,Christian,4,183
+From: 26 Nov 2002,To: 26 Nov 2002,Dem. Rep. Congo,FY 2003,1,Catholic,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Iran,FY 2003,3,Christian,3,183
+From: 26 Nov 2002,To: 26 Nov 2002,Israel,FY 2003,1,Jewish,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Liberia,FY 2003,8,Christian,7,183
+From: 26 Nov 2002,To: 26 Nov 2002,Liberia,FY 2003,8,Pentecostalist,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Russia,FY 2003,11,Baptist,7,183
+From: 26 Nov 2002,To: 26 Nov 2002,Russia,FY 2003,11,Jewish,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Russia,FY 2003,11,Unknown,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Serbia,FY 2003,50,No Religion,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Serbia,FY 2003,50,Orthodox,48,183
+From: 26 Nov 2002,To: 26 Nov 2002,Sierra Leone,FY 2003,1,Christian,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Somalia,FY 2003,2,Moslem,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Sri Lanka (Ceylon),FY 2003,5,Unknown,5,183
+From: 26 Nov 2002,To: 26 Nov 2002,Ukraine,FY 2003,33,Baptist,10,183
+From: 26 Nov 2002,To: 26 Nov 2002,Ukraine,FY 2003,33,Jewish,6,183
+From: 26 Nov 2002,To: 26 Nov 2002,Ukraine,FY 2003,33,Pentecostalist,16,183
+From: 26 Nov 2002,To: 26 Nov 2002,Ukraine,FY 2003,33,Unknown,1,183
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Nov 2002,To: 26 Nov 2002,Baptist,FY 2003,20,Belarus,3,183
+From: 26 Nov 2002,To: 26 Nov 2002,Baptist,FY 2003,20,Russia,7,183
+From: 26 Nov 2002,To: 26 Nov 2002,Baptist,FY 2003,20,Ukraine,10,183
+From: 26 Nov 2002,To: 26 Nov 2002,Catholic,FY 2003,8,Colombia,7,183
+From: 26 Nov 2002,To: 26 Nov 2002,Catholic,FY 2003,8,Dem. Rep. Congo,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Christian,FY 2003,15,Congo,4,183
+From: 26 Nov 2002,To: 26 Nov 2002,Christian,FY 2003,15,Iran,3,183
+From: 26 Nov 2002,To: 26 Nov 2002,Christian,FY 2003,15,Liberia,7,183
+From: 26 Nov 2002,To: 26 Nov 2002,Christian,FY 2003,15,Sierra Leone,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Jewish,FY 2003,10,Belarus,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Jewish,FY 2003,10,Israel,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Jewish,FY 2003,10,Russia,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Jewish,FY 2003,10,Ukraine,6,183
+From: 26 Nov 2002,To: 26 Nov 2002,Moslem,FY 2003,43,Afghanistan,22,183
+From: 26 Nov 2002,To: 26 Nov 2002,Moslem,FY 2003,43,Bosnia and Herzegovina,19,183
+From: 26 Nov 2002,To: 26 Nov 2002,Moslem,FY 2003,43,Somalia,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Moslem Suni,FY 2003,2,Afghanistan,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,No Religion,FY 2003,2,Serbia,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Orthodox,FY 2003,48,Serbia,48,183
+From: 26 Nov 2002,To: 26 Nov 2002,Pentecostalist,FY 2003,27,Belarus,10,183
+From: 26 Nov 2002,To: 26 Nov 2002,Pentecostalist,FY 2003,27,Liberia,1,183
+From: 26 Nov 2002,To: 26 Nov 2002,Pentecostalist,FY 2003,27,Ukraine,16,183
+From: 26 Nov 2002,To: 26 Nov 2002,Unknown,FY 2003,8,Russia,2,183
+From: 26 Nov 2002,To: 26 Nov 2002,Unknown,FY 2003,8,Sri Lanka (Ceylon),5,183
+From: 26 Nov 2002,To: 26 Nov 2002,Unknown,FY 2003,8,Ukraine,1,183
+

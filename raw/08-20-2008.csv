@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Aug 2008,To: 20 Aug 2008,Afghanistan,FY 2008,5,Moslem Suni,5,262
+From: 20 Aug 2008,To: 20 Aug 2008,Burma,FY 2008,144,Buddhist,18,262
+From: 20 Aug 2008,To: 20 Aug 2008,Burma,FY 2008,144,Christian,89,262
+From: 20 Aug 2008,To: 20 Aug 2008,Burma,FY 2008,144,Moslem,37,262
+From: 20 Aug 2008,To: 20 Aug 2008,Eritrea,FY 2008,9,Catholic,1,262
+From: 20 Aug 2008,To: 20 Aug 2008,Eritrea,FY 2008,9,Jehovah Witness,4,262
+From: 20 Aug 2008,To: 20 Aug 2008,Eritrea,FY 2008,9,Moslem Suni,1,262
+From: 20 Aug 2008,To: 20 Aug 2008,Eritrea,FY 2008,9,Orthodox,2,262
+From: 20 Aug 2008,To: 20 Aug 2008,Eritrea,FY 2008,9,Pentecostalist,1,262
+From: 20 Aug 2008,To: 20 Aug 2008,Ethiopia,FY 2008,4,Catholic,4,262
+From: 20 Aug 2008,To: 20 Aug 2008,Iran,FY 2008,10,Christian,10,262
+From: 20 Aug 2008,To: 20 Aug 2008,Iraq,FY 2008,80,Christian,29,262
+From: 20 Aug 2008,To: 20 Aug 2008,Iraq,FY 2008,80,Moslem Shiite,17,262
+From: 20 Aug 2008,To: 20 Aug 2008,Iraq,FY 2008,80,Moslem Suni,29,262
+From: 20 Aug 2008,To: 20 Aug 2008,Iraq,FY 2008,80,Sabeans-Mandean,5,262
+From: 20 Aug 2008,To: 20 Aug 2008,Somalia,FY 2008,10,Moslem,8,262
+From: 20 Aug 2008,To: 20 Aug 2008,Somalia,FY 2008,10,Moslem Suni,2,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Aug 2008,To: 20 Aug 2008,Buddhist,FY 2008,18,Burma,18,262
+From: 20 Aug 2008,To: 20 Aug 2008,Catholic,FY 2008,5,Eritrea,1,262
+From: 20 Aug 2008,To: 20 Aug 2008,Catholic,FY 2008,5,Ethiopia,4,262
+From: 20 Aug 2008,To: 20 Aug 2008,Christian,FY 2008,128,Burma,89,262
+From: 20 Aug 2008,To: 20 Aug 2008,Christian,FY 2008,128,Iran,10,262
+From: 20 Aug 2008,To: 20 Aug 2008,Christian,FY 2008,128,Iraq,29,262
+From: 20 Aug 2008,To: 20 Aug 2008,Jehovah Witness,FY 2008,4,Eritrea,4,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem,FY 2008,45,Burma,37,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem,FY 2008,45,Somalia,8,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem Shiite,FY 2008,17,Iraq,17,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem Suni,FY 2008,37,Afghanistan,5,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem Suni,FY 2008,37,Eritrea,1,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem Suni,FY 2008,37,Iraq,29,262
+From: 20 Aug 2008,To: 20 Aug 2008,Moslem Suni,FY 2008,37,Somalia,2,262
+From: 20 Aug 2008,To: 20 Aug 2008,Orthodox,FY 2008,2,Eritrea,2,262
+From: 20 Aug 2008,To: 20 Aug 2008,Pentecostalist,FY 2008,1,Eritrea,1,262
+From: 20 Aug 2008,To: 20 Aug 2008,Sabeans-Mandean,FY 2008,5,Iraq,5,262
+

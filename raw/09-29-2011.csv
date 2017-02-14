@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Sep 2011,To: 29 Sep 2011,Bhutan,FY 2011,105,Buddhist,33,477
+From: 29 Sep 2011,To: 29 Sep 2011,Bhutan,FY 2011,105,Christian,4,477
+From: 29 Sep 2011,To: 29 Sep 2011,Bhutan,FY 2011,105,Hindu,54,477
+From: 29 Sep 2011,To: 29 Sep 2011,Bhutan,FY 2011,105,Kirat,14,477
+From: 29 Sep 2011,To: 29 Sep 2011,Burma,FY 2011,132,Animist,10,477
+From: 29 Sep 2011,To: 29 Sep 2011,Burma,FY 2011,132,Baptist,9,477
+From: 29 Sep 2011,To: 29 Sep 2011,Burma,FY 2011,132,Buddhist,9,477
+From: 29 Sep 2011,To: 29 Sep 2011,Burma,FY 2011,132,Christian,95,477
+From: 29 Sep 2011,To: 29 Sep 2011,Burma,FY 2011,132,Moslem,8,477
+From: 29 Sep 2011,To: 29 Sep 2011,Burma,FY 2011,132,Pentecostalist,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,China,FY 2011,1,Unknown,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Cuba,FY 2011,9,Catholic,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Cuba,FY 2011,9,Jehovah Witness,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Cuba,FY 2011,9,No Religion,6,477
+From: 29 Sep 2011,To: 29 Sep 2011,Dem. Rep. Congo,FY 2011,11,Christian,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Dem. Rep. Congo,FY 2011,11,Protestant,9,477
+From: 29 Sep 2011,To: 29 Sep 2011,Eritrea,FY 2011,69,Catholic,12,477
+From: 29 Sep 2011,To: 29 Sep 2011,Eritrea,FY 2011,69,Christian,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Eritrea,FY 2011,69,Moslem,17,477
+From: 29 Sep 2011,To: 29 Sep 2011,Eritrea,FY 2011,69,Orthodox,37,477
+From: 29 Sep 2011,To: 29 Sep 2011,Eritrea,FY 2011,69,Pentecostalist,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Ethiopia,FY 2011,2,Orthodox,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Indonesia,FY 2011,1,Christian,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iran,FY 2011,9,Bahai,7,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iran,FY 2011,9,Moslem Suni,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iraq,FY 2011,47,Christian,20,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iraq,FY 2011,47,Moslem,3,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iraq,FY 2011,47,Moslem Shiite,15,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iraq,FY 2011,47,Moslem Suni,4,477
+From: 29 Sep 2011,To: 29 Sep 2011,Iraq,FY 2011,47,Sabeans-Mandean,5,477
+From: 29 Sep 2011,To: 29 Sep 2011,Nepal,FY 2011,1,Baptist,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Somalia,FY 2011,82,Moslem,76,477
+From: 29 Sep 2011,To: 29 Sep 2011,Somalia,FY 2011,82,Moslem Suni,6,477
+From: 29 Sep 2011,To: 29 Sep 2011,Sri Lanka (Ceylon),FY 2011,7,Christian,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Sri Lanka (Ceylon),FY 2011,7,Other Religion,6,477
+From: 29 Sep 2011,To: 29 Sep 2011,Sudan,FY 2011,1,Moslem,1,477
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Sep 2011,To: 29 Sep 2011,Animist,FY 2011,10,Burma,10,477
+From: 29 Sep 2011,To: 29 Sep 2011,Bahai,FY 2011,7,Iran,7,477
+From: 29 Sep 2011,To: 29 Sep 2011,Baptist,FY 2011,10,Burma,9,477
+From: 29 Sep 2011,To: 29 Sep 2011,Baptist,FY 2011,10,Nepal,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Buddhist,FY 2011,42,Bhutan,33,477
+From: 29 Sep 2011,To: 29 Sep 2011,Buddhist,FY 2011,42,Burma,9,477
+From: 29 Sep 2011,To: 29 Sep 2011,Catholic,FY 2011,13,Cuba,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Catholic,FY 2011,13,Eritrea,12,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Bhutan,4,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Burma,95,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Dem. Rep. Congo,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Eritrea,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Indonesia,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Iraq,20,477
+From: 29 Sep 2011,To: 29 Sep 2011,Christian,FY 2011,125,Sri Lanka (Ceylon),1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Hindu,FY 2011,54,Bhutan,54,477
+From: 29 Sep 2011,To: 29 Sep 2011,Jehovah Witness,FY 2011,2,Cuba,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Kirat,FY 2011,14,Bhutan,14,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem,FY 2011,105,Burma,8,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem,FY 2011,105,Eritrea,17,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem,FY 2011,105,Iraq,3,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem,FY 2011,105,Somalia,76,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem,FY 2011,105,Sudan,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem Shiite,FY 2011,15,Iraq,15,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem Suni,FY 2011,12,Iran,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem Suni,FY 2011,12,Iraq,4,477
+From: 29 Sep 2011,To: 29 Sep 2011,Moslem Suni,FY 2011,12,Somalia,6,477
+From: 29 Sep 2011,To: 29 Sep 2011,No Religion,FY 2011,6,Cuba,6,477
+From: 29 Sep 2011,To: 29 Sep 2011,Orthodox,FY 2011,39,Eritrea,37,477
+From: 29 Sep 2011,To: 29 Sep 2011,Orthodox,FY 2011,39,Ethiopia,2,477
+From: 29 Sep 2011,To: 29 Sep 2011,Other Religion,FY 2011,6,Sri Lanka (Ceylon),6,477
+From: 29 Sep 2011,To: 29 Sep 2011,Pentecostalist,FY 2011,2,Burma,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Pentecostalist,FY 2011,2,Eritrea,1,477
+From: 29 Sep 2011,To: 29 Sep 2011,Protestant,FY 2011,9,Dem. Rep. Congo,9,477
+From: 29 Sep 2011,To: 29 Sep 2011,Sabeans-Mandean,FY 2011,5,Iraq,5,477
+From: 29 Sep 2011,To: 29 Sep 2011,Unknown,FY 2011,1,China,1,477
+

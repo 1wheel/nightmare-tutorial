@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jul 2015,To: 06 Jul 2015,Dem. Rep. Congo,FY 2015,21,Catholic,12,177
+From: 06 Jul 2015,To: 06 Jul 2015,Dem. Rep. Congo,FY 2015,21,Moslem,3,177
+From: 06 Jul 2015,To: 06 Jul 2015,Dem. Rep. Congo,FY 2015,21,Protestant,6,177
+From: 06 Jul 2015,To: 06 Jul 2015,Ethiopia,FY 2015,12,Christian,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Ethiopia,FY 2015,12,Moslem,11,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iran,FY 2015,6,Bahai,2,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iran,FY 2015,6,Moslem,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iran,FY 2015,6,Protestant,3,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iraq,FY 2015,64,Catholic,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iraq,FY 2015,64,Christian,5,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iraq,FY 2015,64,Moslem Shiite,22,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iraq,FY 2015,64,Moslem Suni,26,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iraq,FY 2015,64,Orthodox,4,177
+From: 06 Jul 2015,To: 06 Jul 2015,Iraq,FY 2015,64,Yazidi,6,177
+From: 06 Jul 2015,To: 06 Jul 2015,Somalia,FY 2015,42,Moslem,41,177
+From: 06 Jul 2015,To: 06 Jul 2015,Somalia,FY 2015,42,Moslem Suni,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Sudan,FY 2015,2,Moslem,2,177
+From: 06 Jul 2015,To: 06 Jul 2015,Syria,FY 2015,28,Moslem Suni,28,177
+From: 06 Jul 2015,To: 06 Jul 2015,Uganda,FY 2015,2,Catholic,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Uganda,FY 2015,2,Protestant,1,177
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jul 2015,To: 06 Jul 2015,Bahai,FY 2015,2,Iran,2,177
+From: 06 Jul 2015,To: 06 Jul 2015,Catholic,FY 2015,14,Dem. Rep. Congo,12,177
+From: 06 Jul 2015,To: 06 Jul 2015,Catholic,FY 2015,14,Iraq,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Catholic,FY 2015,14,Uganda,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Christian,FY 2015,6,Ethiopia,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Christian,FY 2015,6,Iraq,5,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem,FY 2015,58,Dem. Rep. Congo,3,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem,FY 2015,58,Ethiopia,11,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem,FY 2015,58,Iran,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem,FY 2015,58,Somalia,41,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem,FY 2015,58,Sudan,2,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem Shiite,FY 2015,22,Iraq,22,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem Suni,FY 2015,55,Iraq,26,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem Suni,FY 2015,55,Somalia,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Moslem Suni,FY 2015,55,Syria,28,177
+From: 06 Jul 2015,To: 06 Jul 2015,Orthodox,FY 2015,4,Iraq,4,177
+From: 06 Jul 2015,To: 06 Jul 2015,Protestant,FY 2015,10,Dem. Rep. Congo,6,177
+From: 06 Jul 2015,To: 06 Jul 2015,Protestant,FY 2015,10,Iran,3,177
+From: 06 Jul 2015,To: 06 Jul 2015,Protestant,FY 2015,10,Uganda,1,177
+From: 06 Jul 2015,To: 06 Jul 2015,Yazidi,FY 2015,6,Iraq,6,177
+

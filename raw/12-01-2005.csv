@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Dec 2005,To: 01 Dec 2005,Azerbaijan,FY 2006,1,Unknown,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Belarus,FY 2006,3,No Religion,3,238
+From: 01 Dec 2005,To: 01 Dec 2005,Burma,FY 2006,22,Buddhist,20,238
+From: 01 Dec 2005,To: 01 Dec 2005,Burma,FY 2006,22,Moslem,2,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,Catholic,21,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,Christian,3,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,Evangelical Christian,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,Jehovah Witness,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,Methodist,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,No Religion,29,238
+From: 01 Dec 2005,To: 01 Dec 2005,Cuba,FY 2006,66,Seventh Day Adventist,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Eritrea,FY 2006,29,Catholic,5,238
+From: 01 Dec 2005,To: 01 Dec 2005,Eritrea,FY 2006,29,Christian,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Eritrea,FY 2006,29,Moslem,5,238
+From: 01 Dec 2005,To: 01 Dec 2005,Eritrea,FY 2006,29,Orthodox,15,238
+From: 01 Dec 2005,To: 01 Dec 2005,Eritrea,FY 2006,29,Pentecostalist,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Eritrea,FY 2006,29,Protestant,2,238
+From: 01 Dec 2005,To: 01 Dec 2005,Iran,FY 2006,6,Christian,6,238
+From: 01 Dec 2005,To: 01 Dec 2005,Russia,FY 2006,5,Baptist,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Russia,FY 2006,5,Pentecostalist,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Somalia,FY 2006,31,Moslem,31,238
+From: 01 Dec 2005,To: 01 Dec 2005,Ukraine,FY 2006,29,Baptist,3,238
+From: 01 Dec 2005,To: 01 Dec 2005,Ukraine,FY 2006,29,Pentecostalist,26,238
+From: 01 Dec 2005,To: 01 Dec 2005,Vietnam,FY 2006,46,Catholic,7,238
+From: 01 Dec 2005,To: 01 Dec 2005,Vietnam,FY 2006,46,Christian,11,238
+From: 01 Dec 2005,To: 01 Dec 2005,Vietnam,FY 2006,46,No Religion,5,238
+From: 01 Dec 2005,To: 01 Dec 2005,Vietnam,FY 2006,46,Protestant,23,238
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Dec 2005,To: 01 Dec 2005,Baptist,FY 2006,4,Russia,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Baptist,FY 2006,4,Ukraine,3,238
+From: 01 Dec 2005,To: 01 Dec 2005,Buddhist,FY 2006,20,Burma,20,238
+From: 01 Dec 2005,To: 01 Dec 2005,Catholic,FY 2006,33,Cuba,21,238
+From: 01 Dec 2005,To: 01 Dec 2005,Catholic,FY 2006,33,Eritrea,5,238
+From: 01 Dec 2005,To: 01 Dec 2005,Catholic,FY 2006,33,Vietnam,7,238
+From: 01 Dec 2005,To: 01 Dec 2005,Christian,FY 2006,21,Cuba,3,238
+From: 01 Dec 2005,To: 01 Dec 2005,Christian,FY 2006,21,Eritrea,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Christian,FY 2006,21,Iran,6,238
+From: 01 Dec 2005,To: 01 Dec 2005,Christian,FY 2006,21,Vietnam,11,238
+From: 01 Dec 2005,To: 01 Dec 2005,Evangelical Christian,FY 2006,4,Cuba,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Jehovah Witness,FY 2006,4,Cuba,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Methodist,FY 2006,1,Cuba,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Moslem,FY 2006,38,Burma,2,238
+From: 01 Dec 2005,To: 01 Dec 2005,Moslem,FY 2006,38,Eritrea,5,238
+From: 01 Dec 2005,To: 01 Dec 2005,Moslem,FY 2006,38,Somalia,31,238
+From: 01 Dec 2005,To: 01 Dec 2005,No Religion,FY 2006,37,Belarus,3,238
+From: 01 Dec 2005,To: 01 Dec 2005,No Religion,FY 2006,37,Cuba,29,238
+From: 01 Dec 2005,To: 01 Dec 2005,No Religion,FY 2006,37,Vietnam,5,238
+From: 01 Dec 2005,To: 01 Dec 2005,Orthodox,FY 2006,15,Eritrea,15,238
+From: 01 Dec 2005,To: 01 Dec 2005,Pentecostalist,FY 2006,31,Eritrea,1,238
+From: 01 Dec 2005,To: 01 Dec 2005,Pentecostalist,FY 2006,31,Russia,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Pentecostalist,FY 2006,31,Ukraine,26,238
+From: 01 Dec 2005,To: 01 Dec 2005,Protestant,FY 2006,25,Eritrea,2,238
+From: 01 Dec 2005,To: 01 Dec 2005,Protestant,FY 2006,25,Vietnam,23,238
+From: 01 Dec 2005,To: 01 Dec 2005,Seventh Day Adventist,FY 2006,4,Cuba,4,238
+From: 01 Dec 2005,To: 01 Dec 2005,Unknown,FY 2006,1,Azerbaijan,1,238
+

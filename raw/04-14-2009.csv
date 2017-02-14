@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Apr 2009,To: 14 Apr 2009,Bhutan,FY 2009,75,Buddhist,9,386
+From: 14 Apr 2009,To: 14 Apr 2009,Bhutan,FY 2009,75,Christian,5,386
+From: 14 Apr 2009,To: 14 Apr 2009,Bhutan,FY 2009,75,Hindu,52,386
+From: 14 Apr 2009,To: 14 Apr 2009,Bhutan,FY 2009,75,Kirat,9,386
+From: 14 Apr 2009,To: 14 Apr 2009,Burma,FY 2009,64,Buddhist,4,386
+From: 14 Apr 2009,To: 14 Apr 2009,Burma,FY 2009,64,Christian,60,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iran,FY 2009,61,Bahai,26,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iran,FY 2009,61,Christian,34,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iran,FY 2009,61,Sabeans-Mandean,1,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iraq,FY 2009,124,Catholic,15,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iraq,FY 2009,124,Christian,59,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iraq,FY 2009,124,Moslem,2,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iraq,FY 2009,124,Moslem Shiite,13,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iraq,FY 2009,124,Moslem Suni,34,386
+From: 14 Apr 2009,To: 14 Apr 2009,Iraq,FY 2009,124,Orthodox,1,386
+From: 14 Apr 2009,To: 14 Apr 2009,Somalia,FY 2009,45,Moslem,45,386
+From: 14 Apr 2009,To: 14 Apr 2009,Uzbekistan,FY 2009,17,Moslem,17,386
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Apr 2009,To: 14 Apr 2009,Bahai,FY 2009,26,Iran,26,386
+From: 14 Apr 2009,To: 14 Apr 2009,Buddhist,FY 2009,13,Bhutan,9,386
+From: 14 Apr 2009,To: 14 Apr 2009,Buddhist,FY 2009,13,Burma,4,386
+From: 14 Apr 2009,To: 14 Apr 2009,Catholic,FY 2009,15,Iraq,15,386
+From: 14 Apr 2009,To: 14 Apr 2009,Christian,FY 2009,158,Bhutan,5,386
+From: 14 Apr 2009,To: 14 Apr 2009,Christian,FY 2009,158,Burma,60,386
+From: 14 Apr 2009,To: 14 Apr 2009,Christian,FY 2009,158,Iran,34,386
+From: 14 Apr 2009,To: 14 Apr 2009,Christian,FY 2009,158,Iraq,59,386
+From: 14 Apr 2009,To: 14 Apr 2009,Hindu,FY 2009,52,Bhutan,52,386
+From: 14 Apr 2009,To: 14 Apr 2009,Kirat,FY 2009,9,Bhutan,9,386
+From: 14 Apr 2009,To: 14 Apr 2009,Moslem,FY 2009,64,Iraq,2,386
+From: 14 Apr 2009,To: 14 Apr 2009,Moslem,FY 2009,64,Somalia,45,386
+From: 14 Apr 2009,To: 14 Apr 2009,Moslem,FY 2009,64,Uzbekistan,17,386
+From: 14 Apr 2009,To: 14 Apr 2009,Moslem Shiite,FY 2009,13,Iraq,13,386
+From: 14 Apr 2009,To: 14 Apr 2009,Moslem Suni,FY 2009,34,Iraq,34,386
+From: 14 Apr 2009,To: 14 Apr 2009,Orthodox,FY 2009,1,Iraq,1,386
+From: 14 Apr 2009,To: 14 Apr 2009,Sabeans-Mandean,FY 2009,1,Iran,1,386
+

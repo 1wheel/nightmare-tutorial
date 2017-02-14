@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Mar 2005,To: 03 Mar 2005,Azerbaijan,FY 2005,10,Unknown,10,149
+From: 03 Mar 2005,To: 03 Mar 2005,Cuba,FY 2005,67,Catholic,27,149
+From: 03 Mar 2005,To: 03 Mar 2005,Cuba,FY 2005,67,Jehovah Witness,5,149
+From: 03 Mar 2005,To: 03 Mar 2005,Cuba,FY 2005,67,No Religion,34,149
+From: 03 Mar 2005,To: 03 Mar 2005,Cuba,FY 2005,67,Pentecostalist,1,149
+From: 03 Mar 2005,To: 03 Mar 2005,Iran,FY 2005,16,Christian,9,149
+From: 03 Mar 2005,To: 03 Mar 2005,Iran,FY 2005,16,Jewish,3,149
+From: 03 Mar 2005,To: 03 Mar 2005,Iran,FY 2005,16,Zoroastrian,4,149
+From: 03 Mar 2005,To: 03 Mar 2005,Laos,FY 2005,13,Ancestral Worship,13,149
+From: 03 Mar 2005,To: 03 Mar 2005,Russia,FY 2005,10,Baptist,2,149
+From: 03 Mar 2005,To: 03 Mar 2005,Russia,FY 2005,10,Jewish,3,149
+From: 03 Mar 2005,To: 03 Mar 2005,Russia,FY 2005,10,Seventh Day Adventist,5,149
+From: 03 Mar 2005,To: 03 Mar 2005,Somalia,FY 2005,32,Moslem,32,149
+From: 03 Mar 2005,To: 03 Mar 2005,Ukraine,FY 2005,1,Seventh Day Adventist,1,149
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Mar 2005,To: 03 Mar 2005,Ancestral Worship,FY 2005,13,Laos,13,149
+From: 03 Mar 2005,To: 03 Mar 2005,Baptist,FY 2005,2,Russia,2,149
+From: 03 Mar 2005,To: 03 Mar 2005,Catholic,FY 2005,27,Cuba,27,149
+From: 03 Mar 2005,To: 03 Mar 2005,Christian,FY 2005,9,Iran,9,149
+From: 03 Mar 2005,To: 03 Mar 2005,Jehovah Witness,FY 2005,5,Cuba,5,149
+From: 03 Mar 2005,To: 03 Mar 2005,Jewish,FY 2005,6,Iran,3,149
+From: 03 Mar 2005,To: 03 Mar 2005,Jewish,FY 2005,6,Russia,3,149
+From: 03 Mar 2005,To: 03 Mar 2005,Moslem,FY 2005,32,Somalia,32,149
+From: 03 Mar 2005,To: 03 Mar 2005,No Religion,FY 2005,34,Cuba,34,149
+From: 03 Mar 2005,To: 03 Mar 2005,Pentecostalist,FY 2005,1,Cuba,1,149
+From: 03 Mar 2005,To: 03 Mar 2005,Seventh Day Adventist,FY 2005,6,Russia,5,149
+From: 03 Mar 2005,To: 03 Mar 2005,Seventh Day Adventist,FY 2005,6,Ukraine,1,149
+From: 03 Mar 2005,To: 03 Mar 2005,Unknown,FY 2005,10,Azerbaijan,10,149
+From: 03 Mar 2005,To: 03 Mar 2005,Zoroastrian,FY 2005,4,Iran,4,149
+

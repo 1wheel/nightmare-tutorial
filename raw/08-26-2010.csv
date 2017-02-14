@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Aug 2010,To: 26 Aug 2010,Belarus,FY 2010,2,Jewish,2,335
+From: 26 Aug 2010,To: 26 Aug 2010,Bhutan,FY 2010,44,Buddhist,13,335
+From: 26 Aug 2010,To: 26 Aug 2010,Bhutan,FY 2010,44,Hindu,31,335
+From: 26 Aug 2010,To: 26 Aug 2010,Burma,FY 2010,87,Baptist,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Burma,FY 2010,87,Buddhist,16,335
+From: 26 Aug 2010,To: 26 Aug 2010,Burma,FY 2010,87,Christian,61,335
+From: 26 Aug 2010,To: 26 Aug 2010,Burma,FY 2010,87,Moslem,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Dem. Rep. Congo,FY 2010,2,Catholic,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Dem. Rep. Congo,FY 2010,2,Protestant,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Eritrea,FY 2010,10,Moslem,2,335
+From: 26 Aug 2010,To: 26 Aug 2010,Eritrea,FY 2010,10,Orthodox,7,335
+From: 26 Aug 2010,To: 26 Aug 2010,Eritrea,FY 2010,10,Pentecostalist,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Ethiopia,FY 2010,4,Moslem,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Ethiopia,FY 2010,4,Orthodox,3,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iran,FY 2010,10,Bahai,7,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iran,FY 2010,10,Christian,3,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Catholic,11,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Christian,8,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Kaaka'i,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Moslem,3,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Moslem Shiite,19,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Moslem Suni,20,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Orthodox,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Sabeans-Mandean,6,335
+From: 26 Aug 2010,To: 26 Aug 2010,Iraq,FY 2010,73,Yazidi,4,335
+From: 26 Aug 2010,To: 26 Aug 2010,Palestine,FY 2010,7,Moslem Suni,7,335
+From: 26 Aug 2010,To: 26 Aug 2010,Somalia,FY 2010,77,Moslem,77,335
+From: 26 Aug 2010,To: 26 Aug 2010,Sudan,FY 2010,5,Moslem,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Ukraine,FY 2010,14,Pentecostalist,9,335
+From: 26 Aug 2010,To: 26 Aug 2010,Ukraine,FY 2010,14,Uniate,5,335
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Aug 2010,To: 26 Aug 2010,Bahai,FY 2010,7,Iran,7,335
+From: 26 Aug 2010,To: 26 Aug 2010,Baptist,FY 2010,5,Burma,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Buddhist,FY 2010,29,Bhutan,13,335
+From: 26 Aug 2010,To: 26 Aug 2010,Buddhist,FY 2010,29,Burma,16,335
+From: 26 Aug 2010,To: 26 Aug 2010,Catholic,FY 2010,12,Dem. Rep. Congo,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Catholic,FY 2010,12,Iraq,11,335
+From: 26 Aug 2010,To: 26 Aug 2010,Christian,FY 2010,72,Burma,61,335
+From: 26 Aug 2010,To: 26 Aug 2010,Christian,FY 2010,72,Iran,3,335
+From: 26 Aug 2010,To: 26 Aug 2010,Christian,FY 2010,72,Iraq,8,335
+From: 26 Aug 2010,To: 26 Aug 2010,Hindu,FY 2010,31,Bhutan,31,335
+From: 26 Aug 2010,To: 26 Aug 2010,Jewish,FY 2010,2,Belarus,2,335
+From: 26 Aug 2010,To: 26 Aug 2010,Kaaka'i,FY 2010,1,Iraq,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem,FY 2010,93,Burma,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem,FY 2010,93,Eritrea,2,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem,FY 2010,93,Ethiopia,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem,FY 2010,93,Iraq,3,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem,FY 2010,93,Somalia,77,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem,FY 2010,93,Sudan,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem Shiite,FY 2010,19,Iraq,19,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem Suni,FY 2010,27,Iraq,20,335
+From: 26 Aug 2010,To: 26 Aug 2010,Moslem Suni,FY 2010,27,Palestine,7,335
+From: 26 Aug 2010,To: 26 Aug 2010,Orthodox,FY 2010,11,Eritrea,7,335
+From: 26 Aug 2010,To: 26 Aug 2010,Orthodox,FY 2010,11,Ethiopia,3,335
+From: 26 Aug 2010,To: 26 Aug 2010,Orthodox,FY 2010,11,Iraq,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Pentecostalist,FY 2010,10,Eritrea,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Pentecostalist,FY 2010,10,Ukraine,9,335
+From: 26 Aug 2010,To: 26 Aug 2010,Protestant,FY 2010,1,Dem. Rep. Congo,1,335
+From: 26 Aug 2010,To: 26 Aug 2010,Sabeans-Mandean,FY 2010,6,Iraq,6,335
+From: 26 Aug 2010,To: 26 Aug 2010,Uniate,FY 2010,5,Ukraine,5,335
+From: 26 Aug 2010,To: 26 Aug 2010,Yazidi,FY 2010,4,Iraq,4,335
+

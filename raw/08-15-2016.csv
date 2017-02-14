@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Aug 2016,To: 15 Aug 2016,Bhutan,FY 2016,68,Buddhist,26,394
+From: 15 Aug 2016,To: 15 Aug 2016,Bhutan,FY 2016,68,Christian,12,394
+From: 15 Aug 2016,To: 15 Aug 2016,Bhutan,FY 2016,68,Hindu,16,394
+From: 15 Aug 2016,To: 15 Aug 2016,Bhutan,FY 2016,68,Kirat,14,394
+From: 15 Aug 2016,To: 15 Aug 2016,Dem. Rep. Congo,FY 2016,81,Christian,56,394
+From: 15 Aug 2016,To: 15 Aug 2016,Dem. Rep. Congo,FY 2016,81,Methodist,8,394
+From: 15 Aug 2016,To: 15 Aug 2016,Dem. Rep. Congo,FY 2016,81,Moslem,13,394
+From: 15 Aug 2016,To: 15 Aug 2016,Dem. Rep. Congo,FY 2016,81,Protestant,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Eritrea,FY 2016,8,Catholic,3,394
+From: 15 Aug 2016,To: 15 Aug 2016,Eritrea,FY 2016,8,Moslem,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Eritrea,FY 2016,8,Moslem Suni,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Eritrea,FY 2016,8,Protestant,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Ethiopia,FY 2016,8,Moslem,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Ethiopia,FY 2016,8,Protestant,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,Atheist,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,Bahai,5,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,Christian,18,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,Moslem Shiite,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,Moslem Suni,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,No Religion,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iran,FY 2016,32,Protestant,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iraq,FY 2016,18,Christian,6,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iraq,FY 2016,18,Moslem Shiite,8,394
+From: 15 Aug 2016,To: 15 Aug 2016,Iraq,FY 2016,18,Moslem Suni,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Palestine,FY 2016,1,Moslem Suni,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Somalia,FY 2016,54,Moslem,49,394
+From: 15 Aug 2016,To: 15 Aug 2016,Somalia,FY 2016,54,Moslem Suni,5,394
+From: 15 Aug 2016,To: 15 Aug 2016,Sudan,FY 2016,13,Christian,6,394
+From: 15 Aug 2016,To: 15 Aug 2016,Sudan,FY 2016,13,Moslem,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Sudan,FY 2016,13,Protestant,5,394
+From: 15 Aug 2016,To: 15 Aug 2016,Syria,FY 2016,86,Moslem Suni,86,394
+From: 15 Aug 2016,To: 15 Aug 2016,Ukraine,FY 2016,25,Baptist,8,394
+From: 15 Aug 2016,To: 15 Aug 2016,Ukraine,FY 2016,25,Pentecostalist,17,394
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Aug 2016,To: 15 Aug 2016,Atheist,FY 2016,1,Iran,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Bahai,FY 2016,5,Iran,5,394
+From: 15 Aug 2016,To: 15 Aug 2016,Baptist,FY 2016,8,Ukraine,8,394
+From: 15 Aug 2016,To: 15 Aug 2016,Buddhist,FY 2016,26,Bhutan,26,394
+From: 15 Aug 2016,To: 15 Aug 2016,Catholic,FY 2016,3,Eritrea,3,394
+From: 15 Aug 2016,To: 15 Aug 2016,Christian,FY 2016,98,Bhutan,12,394
+From: 15 Aug 2016,To: 15 Aug 2016,Christian,FY 2016,98,Dem. Rep. Congo,56,394
+From: 15 Aug 2016,To: 15 Aug 2016,Christian,FY 2016,98,Iran,18,394
+From: 15 Aug 2016,To: 15 Aug 2016,Christian,FY 2016,98,Iraq,6,394
+From: 15 Aug 2016,To: 15 Aug 2016,Christian,FY 2016,98,Sudan,6,394
+From: 15 Aug 2016,To: 15 Aug 2016,Hindu,FY 2016,16,Bhutan,16,394
+From: 15 Aug 2016,To: 15 Aug 2016,Kirat,FY 2016,14,Bhutan,14,394
+From: 15 Aug 2016,To: 15 Aug 2016,Methodist,FY 2016,8,Dem. Rep. Congo,8,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem,FY 2016,70,Dem. Rep. Congo,13,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem,FY 2016,70,Eritrea,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem,FY 2016,70,Ethiopia,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem,FY 2016,70,Somalia,49,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem,FY 2016,70,Sudan,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Shiite,FY 2016,9,Iran,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Shiite,FY 2016,9,Iraq,8,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Suni,FY 2016,101,Eritrea,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Suni,FY 2016,101,Iran,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Suni,FY 2016,101,Iraq,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Suni,FY 2016,101,Palestine,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Suni,FY 2016,101,Somalia,5,394
+From: 15 Aug 2016,To: 15 Aug 2016,Moslem Suni,FY 2016,101,Syria,86,394
+From: 15 Aug 2016,To: 15 Aug 2016,No Religion,FY 2016,2,Iran,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Pentecostalist,FY 2016,17,Ukraine,17,394
+From: 15 Aug 2016,To: 15 Aug 2016,Protestant,FY 2016,16,Dem. Rep. Congo,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Protestant,FY 2016,16,Eritrea,2,394
+From: 15 Aug 2016,To: 15 Aug 2016,Protestant,FY 2016,16,Ethiopia,4,394
+From: 15 Aug 2016,To: 15 Aug 2016,Protestant,FY 2016,16,Iran,1,394
+From: 15 Aug 2016,To: 15 Aug 2016,Protestant,FY 2016,16,Sudan,5,394
+

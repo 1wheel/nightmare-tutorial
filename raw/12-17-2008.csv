@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Dec 2008,To: 17 Dec 2008,Bhutan,FY 2009,39,Buddhist,2,155
+From: 17 Dec 2008,To: 17 Dec 2008,Bhutan,FY 2009,39,Hindu,26,155
+From: 17 Dec 2008,To: 17 Dec 2008,Bhutan,FY 2009,39,Kirat,11,155
+From: 17 Dec 2008,To: 17 Dec 2008,Burma,FY 2009,3,Christian,3,155
+From: 17 Dec 2008,To: 17 Dec 2008,Burundi,FY 2009,2,Protestant,2,155
+From: 17 Dec 2008,To: 17 Dec 2008,Eritrea,FY 2009,1,Pentecostalist,1,155
+From: 17 Dec 2008,To: 17 Dec 2008,Iraq,FY 2009,55,Catholic,6,155
+From: 17 Dec 2008,To: 17 Dec 2008,Iraq,FY 2009,55,Christian,22,155
+From: 17 Dec 2008,To: 17 Dec 2008,Iraq,FY 2009,55,Moslem,5,155
+From: 17 Dec 2008,To: 17 Dec 2008,Iraq,FY 2009,55,Moslem Shiite,2,155
+From: 17 Dec 2008,To: 17 Dec 2008,Iraq,FY 2009,55,Moslem Suni,20,155
+From: 17 Dec 2008,To: 17 Dec 2008,Somalia,FY 2009,55,Moslem,55,155
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Dec 2008,To: 17 Dec 2008,Buddhist,FY 2009,2,Bhutan,2,155
+From: 17 Dec 2008,To: 17 Dec 2008,Catholic,FY 2009,6,Iraq,6,155
+From: 17 Dec 2008,To: 17 Dec 2008,Christian,FY 2009,25,Burma,3,155
+From: 17 Dec 2008,To: 17 Dec 2008,Christian,FY 2009,25,Iraq,22,155
+From: 17 Dec 2008,To: 17 Dec 2008,Hindu,FY 2009,26,Bhutan,26,155
+From: 17 Dec 2008,To: 17 Dec 2008,Kirat,FY 2009,11,Bhutan,11,155
+From: 17 Dec 2008,To: 17 Dec 2008,Moslem,FY 2009,60,Iraq,5,155
+From: 17 Dec 2008,To: 17 Dec 2008,Moslem,FY 2009,60,Somalia,55,155
+From: 17 Dec 2008,To: 17 Dec 2008,Moslem Shiite,FY 2009,2,Iraq,2,155
+From: 17 Dec 2008,To: 17 Dec 2008,Moslem Suni,FY 2009,20,Iraq,20,155
+From: 17 Dec 2008,To: 17 Dec 2008,Pentecostalist,FY 2009,1,Eritrea,1,155
+From: 17 Dec 2008,To: 17 Dec 2008,Protestant,FY 2009,2,Burundi,2,155
+

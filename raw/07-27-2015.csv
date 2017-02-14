@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jul 2015,To: 27 Jul 2015,Afghanistan,FY 2015,12,Moslem Shiite,12,173
+From: 27 Jul 2015,To: 27 Jul 2015,Bhutan,FY 2015,30,Buddhist,19,173
+From: 27 Jul 2015,To: 27 Jul 2015,Bhutan,FY 2015,30,Christian,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Bhutan,FY 2015,30,Hindu,7,173
+From: 27 Jul 2015,To: 27 Jul 2015,Bhutan,FY 2015,30,Kirat,3,173
+From: 27 Jul 2015,To: 27 Jul 2015,Burma,FY 2015,3,Christian,3,173
+From: 27 Jul 2015,To: 27 Jul 2015,Dem. Rep. Congo,FY 2015,9,Christian,7,173
+From: 27 Jul 2015,To: 27 Jul 2015,Dem. Rep. Congo,FY 2015,9,Pentecostalist,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Ethiopia,FY 2015,12,Catholic,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Ethiopia,FY 2015,12,Lutheran,6,173
+From: 27 Jul 2015,To: 27 Jul 2015,Ethiopia,FY 2015,12,Moslem,3,173
+From: 27 Jul 2015,To: 27 Jul 2015,Ethiopia,FY 2015,12,Orthodox,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iran,FY 2015,6,Bahai,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iran,FY 2015,6,Moslem Shiite,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iran,FY 2015,6,No Religion,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iran,FY 2015,6,Protestant,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iraq,FY 2015,63,Catholic,7,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iraq,FY 2015,63,Moslem,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iraq,FY 2015,63,Moslem Shiite,38,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iraq,FY 2015,63,Moslem Suni,12,173
+From: 27 Jul 2015,To: 27 Jul 2015,Iraq,FY 2015,63,Orthodox,5,173
+From: 27 Jul 2015,To: 27 Jul 2015,Somalia,FY 2015,20,Moslem,20,173
+From: 27 Jul 2015,To: 27 Jul 2015,Syria,FY 2015,18,Moslem Suni,18,173
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jul 2015,To: 27 Jul 2015,Bahai,FY 2015,2,Iran,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Buddhist,FY 2015,19,Bhutan,19,173
+From: 27 Jul 2015,To: 27 Jul 2015,Catholic,FY 2015,8,Ethiopia,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Catholic,FY 2015,8,Iraq,7,173
+From: 27 Jul 2015,To: 27 Jul 2015,Christian,FY 2015,11,Bhutan,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Christian,FY 2015,11,Burma,3,173
+From: 27 Jul 2015,To: 27 Jul 2015,Christian,FY 2015,11,Dem. Rep. Congo,7,173
+From: 27 Jul 2015,To: 27 Jul 2015,Hindu,FY 2015,7,Bhutan,7,173
+From: 27 Jul 2015,To: 27 Jul 2015,Kirat,FY 2015,3,Bhutan,3,173
+From: 27 Jul 2015,To: 27 Jul 2015,Lutheran,FY 2015,6,Ethiopia,6,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem,FY 2015,24,Ethiopia,3,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem,FY 2015,24,Iraq,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem,FY 2015,24,Somalia,20,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem Shiite,FY 2015,52,Afghanistan,12,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem Shiite,FY 2015,52,Iran,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem Shiite,FY 2015,52,Iraq,38,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem Suni,FY 2015,30,Iraq,12,173
+From: 27 Jul 2015,To: 27 Jul 2015,Moslem Suni,FY 2015,30,Syria,18,173
+From: 27 Jul 2015,To: 27 Jul 2015,No Religion,FY 2015,1,Iran,1,173
+From: 27 Jul 2015,To: 27 Jul 2015,Orthodox,FY 2015,7,Ethiopia,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Orthodox,FY 2015,7,Iraq,5,173
+From: 27 Jul 2015,To: 27 Jul 2015,Pentecostalist,FY 2015,2,Dem. Rep. Congo,2,173
+From: 27 Jul 2015,To: 27 Jul 2015,Protestant,FY 2015,1,Iran,1,173
+

@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Mar 2005,To: 29 Mar 2005,Burma,FY 2005,23,Buddhist,14,160
+From: 29 Mar 2005,To: 29 Mar 2005,Burma,FY 2005,23,Moslem,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Burma,FY 2005,23,Protestant,8,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,Baptist,2,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,Catholic,17,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,Evangelical Christian,8,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,Jehovah Witness,10,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,Methodist,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,No Religion,29,160
+From: 29 Mar 2005,To: 29 Mar 2005,Cuba,FY 2005,70,Seventh Day Adventist,3,160
+From: 29 Mar 2005,To: 29 Mar 2005,Ethiopia,FY 2005,20,Christian,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Ethiopia,FY 2005,20,Moslem,13,160
+From: 29 Mar 2005,To: 29 Mar 2005,Ethiopia,FY 2005,20,Orthodox,6,160
+From: 29 Mar 2005,To: 29 Mar 2005,Sierra Leone,FY 2005,3,Christian,3,160
+From: 29 Mar 2005,To: 29 Mar 2005,Somalia,FY 2005,7,Moslem,6,160
+From: 29 Mar 2005,To: 29 Mar 2005,Somalia,FY 2005,7,Moslem Suni,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Uganda,FY 2005,1,Christian,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Ukraine,FY 2005,17,Jewish,3,160
+From: 29 Mar 2005,To: 29 Mar 2005,Ukraine,FY 2005,17,Pentecostalist,14,160
+From: 29 Mar 2005,To: 29 Mar 2005,Vietnam,FY 2005,19,Protestant,19,160
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Mar 2005,To: 29 Mar 2005,Baptist,FY 2005,2,Cuba,2,160
+From: 29 Mar 2005,To: 29 Mar 2005,Buddhist,FY 2005,14,Burma,14,160
+From: 29 Mar 2005,To: 29 Mar 2005,Catholic,FY 2005,17,Cuba,17,160
+From: 29 Mar 2005,To: 29 Mar 2005,Christian,FY 2005,5,Ethiopia,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Christian,FY 2005,5,Sierra Leone,3,160
+From: 29 Mar 2005,To: 29 Mar 2005,Christian,FY 2005,5,Uganda,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Evangelical Christian,FY 2005,8,Cuba,8,160
+From: 29 Mar 2005,To: 29 Mar 2005,Jehovah Witness,FY 2005,10,Cuba,10,160
+From: 29 Mar 2005,To: 29 Mar 2005,Jewish,FY 2005,3,Ukraine,3,160
+From: 29 Mar 2005,To: 29 Mar 2005,Methodist,FY 2005,1,Cuba,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Moslem,FY 2005,20,Burma,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,Moslem,FY 2005,20,Ethiopia,13,160
+From: 29 Mar 2005,To: 29 Mar 2005,Moslem,FY 2005,20,Somalia,6,160
+From: 29 Mar 2005,To: 29 Mar 2005,Moslem Suni,FY 2005,1,Somalia,1,160
+From: 29 Mar 2005,To: 29 Mar 2005,No Religion,FY 2005,29,Cuba,29,160
+From: 29 Mar 2005,To: 29 Mar 2005,Orthodox,FY 2005,6,Ethiopia,6,160
+From: 29 Mar 2005,To: 29 Mar 2005,Pentecostalist,FY 2005,14,Ukraine,14,160
+From: 29 Mar 2005,To: 29 Mar 2005,Protestant,FY 2005,27,Burma,8,160
+From: 29 Mar 2005,To: 29 Mar 2005,Protestant,FY 2005,27,Vietnam,19,160
+From: 29 Mar 2005,To: 29 Mar 2005,Seventh Day Adventist,FY 2005,3,Cuba,3,160
+

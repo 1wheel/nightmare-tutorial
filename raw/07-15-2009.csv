@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jul 2009,To: 15 Jul 2009,Bhutan,FY 2009,51,Buddhist,7,423
+From: 15 Jul 2009,To: 15 Jul 2009,Bhutan,FY 2009,51,Christian,5,423
+From: 15 Jul 2009,To: 15 Jul 2009,Bhutan,FY 2009,51,Hindu,39,423
+From: 15 Jul 2009,To: 15 Jul 2009,Burma,FY 2009,101,Animist,12,423
+From: 15 Jul 2009,To: 15 Jul 2009,Burma,FY 2009,101,Buddhist,13,423
+From: 15 Jul 2009,To: 15 Jul 2009,Burma,FY 2009,101,Christian,70,423
+From: 15 Jul 2009,To: 15 Jul 2009,Burma,FY 2009,101,Moslem,6,423
+From: 15 Jul 2009,To: 15 Jul 2009,Burundi,FY 2009,6,Pentecostalist,6,423
+From: 15 Jul 2009,To: 15 Jul 2009,China,FY 2009,1,Other Religion,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Cuba,FY 2009,2,Seventh Day Adventist,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Dem. Rep. Congo,FY 2009,20,Catholic,3,423
+From: 15 Jul 2009,To: 15 Jul 2009,Dem. Rep. Congo,FY 2009,20,Pentecostalist,11,423
+From: 15 Jul 2009,To: 15 Jul 2009,Dem. Rep. Congo,FY 2009,20,Protestant,6,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iran,FY 2009,71,Christian,69,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iran,FY 2009,71,Zoroastrian,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iraq,FY 2009,84,Catholic,13,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iraq,FY 2009,84,Christian,37,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iraq,FY 2009,84,Moslem Suni,26,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iraq,FY 2009,84,Orthodox,3,423
+From: 15 Jul 2009,To: 15 Jul 2009,Iraq,FY 2009,84,Sabeans-Mandean,5,423
+From: 15 Jul 2009,To: 15 Jul 2009,Liberia,FY 2009,3,Christian,3,423
+From: 15 Jul 2009,To: 15 Jul 2009,Pakistan,FY 2009,4,Other Religion,4,423
+From: 15 Jul 2009,To: 15 Jul 2009,Russia,FY 2009,2,Baptist,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Russia,FY 2009,2,No Religion,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Somalia,FY 2009,43,Moslem,43,423
+From: 15 Jul 2009,To: 15 Jul 2009,Sudan,FY 2009,3,Catholic,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Sudan,FY 2009,3,Moslem,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Vietnam,FY 2009,32,Ancestral Worship,5,423
+From: 15 Jul 2009,To: 15 Jul 2009,Vietnam,FY 2009,32,Buddhist,9,423
+From: 15 Jul 2009,To: 15 Jul 2009,Vietnam,FY 2009,32,Cao Dai,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Vietnam,FY 2009,32,No Religion,9,423
+From: 15 Jul 2009,To: 15 Jul 2009,Vietnam,FY 2009,32,Protestant,7,423
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jul 2009,To: 15 Jul 2009,Ancestral Worship,FY 2009,5,Vietnam,5,423
+From: 15 Jul 2009,To: 15 Jul 2009,Animist,FY 2009,12,Burma,12,423
+From: 15 Jul 2009,To: 15 Jul 2009,Baptist,FY 2009,1,Russia,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Buddhist,FY 2009,29,Bhutan,7,423
+From: 15 Jul 2009,To: 15 Jul 2009,Buddhist,FY 2009,29,Burma,13,423
+From: 15 Jul 2009,To: 15 Jul 2009,Buddhist,FY 2009,29,Vietnam,9,423
+From: 15 Jul 2009,To: 15 Jul 2009,Cao Dai,FY 2009,2,Vietnam,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Catholic,FY 2009,17,Dem. Rep. Congo,3,423
+From: 15 Jul 2009,To: 15 Jul 2009,Catholic,FY 2009,17,Iraq,13,423
+From: 15 Jul 2009,To: 15 Jul 2009,Catholic,FY 2009,17,Sudan,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Christian,FY 2009,184,Bhutan,5,423
+From: 15 Jul 2009,To: 15 Jul 2009,Christian,FY 2009,184,Burma,70,423
+From: 15 Jul 2009,To: 15 Jul 2009,Christian,FY 2009,184,Iran,69,423
+From: 15 Jul 2009,To: 15 Jul 2009,Christian,FY 2009,184,Iraq,37,423
+From: 15 Jul 2009,To: 15 Jul 2009,Christian,FY 2009,184,Liberia,3,423
+From: 15 Jul 2009,To: 15 Jul 2009,Hindu,FY 2009,39,Bhutan,39,423
+From: 15 Jul 2009,To: 15 Jul 2009,Moslem,FY 2009,51,Burma,6,423
+From: 15 Jul 2009,To: 15 Jul 2009,Moslem,FY 2009,51,Somalia,43,423
+From: 15 Jul 2009,To: 15 Jul 2009,Moslem,FY 2009,51,Sudan,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Moslem Suni,FY 2009,26,Iraq,26,423
+From: 15 Jul 2009,To: 15 Jul 2009,No Religion,FY 2009,10,Russia,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,No Religion,FY 2009,10,Vietnam,9,423
+From: 15 Jul 2009,To: 15 Jul 2009,Orthodox,FY 2009,3,Iraq,3,423
+From: 15 Jul 2009,To: 15 Jul 2009,Other Religion,FY 2009,5,China,1,423
+From: 15 Jul 2009,To: 15 Jul 2009,Other Religion,FY 2009,5,Pakistan,4,423
+From: 15 Jul 2009,To: 15 Jul 2009,Pentecostalist,FY 2009,17,Burundi,6,423
+From: 15 Jul 2009,To: 15 Jul 2009,Pentecostalist,FY 2009,17,Dem. Rep. Congo,11,423
+From: 15 Jul 2009,To: 15 Jul 2009,Protestant,FY 2009,13,Dem. Rep. Congo,6,423
+From: 15 Jul 2009,To: 15 Jul 2009,Protestant,FY 2009,13,Vietnam,7,423
+From: 15 Jul 2009,To: 15 Jul 2009,Sabeans-Mandean,FY 2009,5,Iraq,5,423
+From: 15 Jul 2009,To: 15 Jul 2009,Seventh Day Adventist,FY 2009,2,Cuba,2,423
+From: 15 Jul 2009,To: 15 Jul 2009,Zoroastrian,FY 2009,2,Iran,2,423
+

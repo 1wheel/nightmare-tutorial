@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jun 2011,To: 22 Jun 2011,Afghanistan,FY 2011,6,Moslem Shiite,2,286
+From: 22 Jun 2011,To: 22 Jun 2011,Afghanistan,FY 2011,6,Moslem Suni,4,286
+From: 22 Jun 2011,To: 22 Jun 2011,Belarus,FY 2011,3,Orthodox,3,286
+From: 22 Jun 2011,To: 22 Jun 2011,Bhutan,FY 2011,65,Buddhist,12,286
+From: 22 Jun 2011,To: 22 Jun 2011,Bhutan,FY 2011,65,Christian,14,286
+From: 22 Jun 2011,To: 22 Jun 2011,Bhutan,FY 2011,65,Hindu,29,286
+From: 22 Jun 2011,To: 22 Jun 2011,Bhutan,FY 2011,65,Kirat,10,286
+From: 22 Jun 2011,To: 22 Jun 2011,Burma,FY 2011,157,Baptist,9,286
+From: 22 Jun 2011,To: 22 Jun 2011,Burma,FY 2011,157,Buddhist,52,286
+From: 22 Jun 2011,To: 22 Jun 2011,Burma,FY 2011,157,Catholic,10,286
+From: 22 Jun 2011,To: 22 Jun 2011,Burma,FY 2011,157,Christian,85,286
+From: 22 Jun 2011,To: 22 Jun 2011,Burma,FY 2011,157,Moslem,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Eritrea,FY 2011,18,Christian,6,286
+From: 22 Jun 2011,To: 22 Jun 2011,Eritrea,FY 2011,18,No Religion,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Eritrea,FY 2011,18,Orthodox,7,286
+From: 22 Jun 2011,To: 22 Jun 2011,Eritrea,FY 2011,18,Seventh Day Adventist,4,286
+From: 22 Jun 2011,To: 22 Jun 2011,Iraq,FY 2011,14,Catholic,9,286
+From: 22 Jun 2011,To: 22 Jun 2011,Iraq,FY 2011,14,Christian,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Iraq,FY 2011,14,Moslem,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Iraq,FY 2011,14,Moslem Shiite,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Iraq,FY 2011,14,Orthodox,2,286
+From: 22 Jun 2011,To: 22 Jun 2011,Russia,FY 2011,5,Evangelical Christian,5,286
+From: 22 Jun 2011,To: 22 Jun 2011,Somalia,FY 2011,17,Moslem,17,286
+From: 22 Jun 2011,To: 22 Jun 2011,Syria,FY 2011,1,Moslem Suni,1,286
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jun 2011,To: 22 Jun 2011,Baptist,FY 2011,9,Burma,9,286
+From: 22 Jun 2011,To: 22 Jun 2011,Buddhist,FY 2011,64,Bhutan,12,286
+From: 22 Jun 2011,To: 22 Jun 2011,Buddhist,FY 2011,64,Burma,52,286
+From: 22 Jun 2011,To: 22 Jun 2011,Catholic,FY 2011,19,Burma,10,286
+From: 22 Jun 2011,To: 22 Jun 2011,Catholic,FY 2011,19,Iraq,9,286
+From: 22 Jun 2011,To: 22 Jun 2011,Christian,FY 2011,106,Bhutan,14,286
+From: 22 Jun 2011,To: 22 Jun 2011,Christian,FY 2011,106,Burma,85,286
+From: 22 Jun 2011,To: 22 Jun 2011,Christian,FY 2011,106,Eritrea,6,286
+From: 22 Jun 2011,To: 22 Jun 2011,Christian,FY 2011,106,Iraq,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Evangelical Christian,FY 2011,5,Russia,5,286
+From: 22 Jun 2011,To: 22 Jun 2011,Hindu,FY 2011,29,Bhutan,29,286
+From: 22 Jun 2011,To: 22 Jun 2011,Kirat,FY 2011,10,Bhutan,10,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem,FY 2011,19,Burma,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem,FY 2011,19,Iraq,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem,FY 2011,19,Somalia,17,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem Shiite,FY 2011,3,Afghanistan,2,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem Shiite,FY 2011,3,Iraq,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem Suni,FY 2011,5,Afghanistan,4,286
+From: 22 Jun 2011,To: 22 Jun 2011,Moslem Suni,FY 2011,5,Syria,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,No Religion,FY 2011,1,Eritrea,1,286
+From: 22 Jun 2011,To: 22 Jun 2011,Orthodox,FY 2011,12,Belarus,3,286
+From: 22 Jun 2011,To: 22 Jun 2011,Orthodox,FY 2011,12,Eritrea,7,286
+From: 22 Jun 2011,To: 22 Jun 2011,Orthodox,FY 2011,12,Iraq,2,286
+From: 22 Jun 2011,To: 22 Jun 2011,Seventh Day Adventist,FY 2011,4,Eritrea,4,286
+

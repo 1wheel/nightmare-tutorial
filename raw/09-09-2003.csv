@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Sep 2003,To: 09 Sep 2003,Afghanistan,FY 2003,20,Moslem,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Afghanistan,FY 2003,20,Moslem Shiite,14,193
+From: 09 Sep 2003,To: 09 Sep 2003,Afghanistan,FY 2003,20,Moslem Suni,4,193
+From: 09 Sep 2003,To: 09 Sep 2003,Azerbaijan,FY 2003,9,Christian,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Azerbaijan,FY 2003,9,Unknown,6,193
+From: 09 Sep 2003,To: 09 Sep 2003,Congo,FY 2003,1,Christian,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Croatia,FY 2003,9,Orthodox,9,193
+From: 09 Sep 2003,To: 09 Sep 2003,Dem. Rep. Congo,FY 2003,1,Unknown,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ethiopia,FY 2003,29,Christian,6,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ethiopia,FY 2003,29,Moslem,21,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ethiopia,FY 2003,29,Orthodox,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Georgia,FY 2003,1,Jewish,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Iran,FY 2003,18,Bahai,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Iran,FY 2003,18,Christian,11,193
+From: 09 Sep 2003,To: 09 Sep 2003,Iran,FY 2003,18,Jewish,6,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,Baptist,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,Christian,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,Jewish,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,No Religion,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,Pentecostalist,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,Seventh Day Adventist,4,193
+From: 09 Sep 2003,To: 09 Sep 2003,Russia,FY 2003,17,Unknown,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Serbia,FY 2003,5,Orthodox,5,193
+From: 09 Sep 2003,To: 09 Sep 2003,Somalia,FY 2003,16,Moslem,16,193
+From: 09 Sep 2003,To: 09 Sep 2003,Sudan,FY 2003,31,Catholic,24,193
+From: 09 Sep 2003,To: 09 Sep 2003,Sudan,FY 2003,31,Christian,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Sudan,FY 2003,31,Moslem,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Sudan,FY 2003,31,Protestant,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Sudan,FY 2003,31,Unknown,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ukraine,FY 2003,36,Baptist,7,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ukraine,FY 2003,36,Jewish,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ukraine,FY 2003,36,No Religion,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ukraine,FY 2003,36,Pentecostalist,24,193
+From: 09 Sep 2003,To: 09 Sep 2003,Ukraine,FY 2003,36,Unknown,1,193
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Sep 2003,To: 09 Sep 2003,Bahai,FY 2003,1,Iran,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Baptist,FY 2003,9,Russia,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Baptist,FY 2003,9,Ukraine,7,193
+From: 09 Sep 2003,To: 09 Sep 2003,Catholic,FY 2003,24,Sudan,24,193
+From: 09 Sep 2003,To: 09 Sep 2003,Christian,FY 2003,25,Azerbaijan,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Christian,FY 2003,25,Congo,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Christian,FY 2003,25,Ethiopia,6,193
+From: 09 Sep 2003,To: 09 Sep 2003,Christian,FY 2003,25,Iran,11,193
+From: 09 Sep 2003,To: 09 Sep 2003,Christian,FY 2003,25,Russia,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Christian,FY 2003,25,Sudan,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Jewish,FY 2003,12,Georgia,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Jewish,FY 2003,12,Iran,6,193
+From: 09 Sep 2003,To: 09 Sep 2003,Jewish,FY 2003,12,Russia,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Jewish,FY 2003,12,Ukraine,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Moslem,FY 2003,42,Afghanistan,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Moslem,FY 2003,42,Ethiopia,21,193
+From: 09 Sep 2003,To: 09 Sep 2003,Moslem,FY 2003,42,Somalia,16,193
+From: 09 Sep 2003,To: 09 Sep 2003,Moslem,FY 2003,42,Sudan,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Moslem Shiite,FY 2003,14,Afghanistan,14,193
+From: 09 Sep 2003,To: 09 Sep 2003,Moslem Suni,FY 2003,4,Afghanistan,4,193
+From: 09 Sep 2003,To: 09 Sep 2003,No Religion,FY 2003,4,Russia,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,No Religion,FY 2003,4,Ukraine,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Orthodox,FY 2003,16,Croatia,9,193
+From: 09 Sep 2003,To: 09 Sep 2003,Orthodox,FY 2003,16,Ethiopia,2,193
+From: 09 Sep 2003,To: 09 Sep 2003,Orthodox,FY 2003,16,Serbia,5,193
+From: 09 Sep 2003,To: 09 Sep 2003,Pentecostalist,FY 2003,27,Russia,3,193
+From: 09 Sep 2003,To: 09 Sep 2003,Pentecostalist,FY 2003,27,Ukraine,24,193
+From: 09 Sep 2003,To: 09 Sep 2003,Protestant,FY 2003,1,Sudan,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Seventh Day Adventist,FY 2003,4,Russia,4,193
+From: 09 Sep 2003,To: 09 Sep 2003,Unknown,FY 2003,10,Azerbaijan,6,193
+From: 09 Sep 2003,To: 09 Sep 2003,Unknown,FY 2003,10,Dem. Rep. Congo,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Unknown,FY 2003,10,Russia,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Unknown,FY 2003,10,Sudan,1,193
+From: 09 Sep 2003,To: 09 Sep 2003,Unknown,FY 2003,10,Ukraine,1,193
+

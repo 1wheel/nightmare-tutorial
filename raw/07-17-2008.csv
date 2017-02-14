@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jul 2008,To: 17 Jul 2008,Afghanistan,FY 2008,25,Moslem Shiite,7,381
+From: 17 Jul 2008,To: 17 Jul 2008,Afghanistan,FY 2008,25,Moslem Suni,18,381
+From: 17 Jul 2008,To: 17 Jul 2008,Bhutan,FY 2008,65,Buddhist,5,381
+From: 17 Jul 2008,To: 17 Jul 2008,Bhutan,FY 2008,65,Hindu,60,381
+From: 17 Jul 2008,To: 17 Jul 2008,Burma,FY 2008,126,Buddhist,30,381
+From: 17 Jul 2008,To: 17 Jul 2008,Burma,FY 2008,126,Christian,84,381
+From: 17 Jul 2008,To: 17 Jul 2008,Burma,FY 2008,126,Moslem,12,381
+From: 17 Jul 2008,To: 17 Jul 2008,Cuba,FY 2008,69,Catholic,34,381
+From: 17 Jul 2008,To: 17 Jul 2008,Cuba,FY 2008,69,Jehovah Witness,17,381
+From: 17 Jul 2008,To: 17 Jul 2008,Cuba,FY 2008,69,No Religion,18,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iran,FY 2008,4,Bahai,1,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iran,FY 2008,4,Protestant,3,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iraq,FY 2008,86,Christian,17,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iraq,FY 2008,86,Moslem Shiite,17,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iraq,FY 2008,86,Moslem Suni,37,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iraq,FY 2008,86,Sabeans-Mandean,7,381
+From: 17 Jul 2008,To: 17 Jul 2008,Iraq,FY 2008,86,Yazidi,8,381
+From: 17 Jul 2008,To: 17 Jul 2008,Pakistan,FY 2008,5,Other Religion,5,381
+From: 17 Jul 2008,To: 17 Jul 2008,Sierra Leone,FY 2008,1,Moslem,1,381
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jul 2008,To: 17 Jul 2008,Bahai,FY 2008,1,Iran,1,381
+From: 17 Jul 2008,To: 17 Jul 2008,Buddhist,FY 2008,35,Bhutan,5,381
+From: 17 Jul 2008,To: 17 Jul 2008,Buddhist,FY 2008,35,Burma,30,381
+From: 17 Jul 2008,To: 17 Jul 2008,Catholic,FY 2008,34,Cuba,34,381
+From: 17 Jul 2008,To: 17 Jul 2008,Christian,FY 2008,101,Burma,84,381
+From: 17 Jul 2008,To: 17 Jul 2008,Christian,FY 2008,101,Iraq,17,381
+From: 17 Jul 2008,To: 17 Jul 2008,Hindu,FY 2008,60,Bhutan,60,381
+From: 17 Jul 2008,To: 17 Jul 2008,Jehovah Witness,FY 2008,17,Cuba,17,381
+From: 17 Jul 2008,To: 17 Jul 2008,Moslem,FY 2008,13,Burma,12,381
+From: 17 Jul 2008,To: 17 Jul 2008,Moslem,FY 2008,13,Sierra Leone,1,381
+From: 17 Jul 2008,To: 17 Jul 2008,Moslem Shiite,FY 2008,24,Afghanistan,7,381
+From: 17 Jul 2008,To: 17 Jul 2008,Moslem Shiite,FY 2008,24,Iraq,17,381
+From: 17 Jul 2008,To: 17 Jul 2008,Moslem Suni,FY 2008,55,Afghanistan,18,381
+From: 17 Jul 2008,To: 17 Jul 2008,Moslem Suni,FY 2008,55,Iraq,37,381
+From: 17 Jul 2008,To: 17 Jul 2008,No Religion,FY 2008,18,Cuba,18,381
+From: 17 Jul 2008,To: 17 Jul 2008,Other Religion,FY 2008,5,Pakistan,5,381
+From: 17 Jul 2008,To: 17 Jul 2008,Protestant,FY 2008,3,Iran,3,381
+From: 17 Jul 2008,To: 17 Jul 2008,Sabeans-Mandean,FY 2008,7,Iraq,7,381
+From: 17 Jul 2008,To: 17 Jul 2008,Yazidi,FY 2008,8,Iraq,8,381
+

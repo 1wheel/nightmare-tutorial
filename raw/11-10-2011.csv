@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Nov 2011,To: 10 Nov 2011,Bhutan,FY 2012,104,Buddhist,25,174
+From: 10 Nov 2011,To: 10 Nov 2011,Bhutan,FY 2012,104,Christian,7,174
+From: 10 Nov 2011,To: 10 Nov 2011,Bhutan,FY 2012,104,Hindu,56,174
+From: 10 Nov 2011,To: 10 Nov 2011,Bhutan,FY 2012,104,Kirat,16,174
+From: 10 Nov 2011,To: 10 Nov 2011,Eritrea,FY 2012,10,Catholic,4,174
+From: 10 Nov 2011,To: 10 Nov 2011,Eritrea,FY 2012,10,Orthodox,6,174
+From: 10 Nov 2011,To: 10 Nov 2011,Ethiopia,FY 2012,13,Moslem,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Ethiopia,FY 2012,13,Orthodox,12,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iran,FY 2012,24,Bahai,2,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iran,FY 2012,24,Christian,14,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iran,FY 2012,24,Jewish,2,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iran,FY 2012,24,Sabeans-Mandean,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iran,FY 2012,24,Zoroastrian,5,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iraq,FY 2012,6,Christian,3,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iraq,FY 2012,6,Moslem Shiite,2,174
+From: 10 Nov 2011,To: 10 Nov 2011,Iraq,FY 2012,6,Moslem Suni,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Liberia,FY 2012,1,Christian,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Somalia,FY 2012,8,Moslem,8,174
+From: 10 Nov 2011,To: 10 Nov 2011,Sudan,FY 2012,8,Catholic,7,174
+From: 10 Nov 2011,To: 10 Nov 2011,Sudan,FY 2012,8,Moslem Suni,1,174
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Nov 2011,To: 10 Nov 2011,Bahai,FY 2012,2,Iran,2,174
+From: 10 Nov 2011,To: 10 Nov 2011,Buddhist,FY 2012,25,Bhutan,25,174
+From: 10 Nov 2011,To: 10 Nov 2011,Catholic,FY 2012,11,Eritrea,4,174
+From: 10 Nov 2011,To: 10 Nov 2011,Catholic,FY 2012,11,Sudan,7,174
+From: 10 Nov 2011,To: 10 Nov 2011,Christian,FY 2012,25,Bhutan,7,174
+From: 10 Nov 2011,To: 10 Nov 2011,Christian,FY 2012,25,Iran,14,174
+From: 10 Nov 2011,To: 10 Nov 2011,Christian,FY 2012,25,Iraq,3,174
+From: 10 Nov 2011,To: 10 Nov 2011,Christian,FY 2012,25,Liberia,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Hindu,FY 2012,56,Bhutan,56,174
+From: 10 Nov 2011,To: 10 Nov 2011,Jewish,FY 2012,2,Iran,2,174
+From: 10 Nov 2011,To: 10 Nov 2011,Kirat,FY 2012,16,Bhutan,16,174
+From: 10 Nov 2011,To: 10 Nov 2011,Moslem,FY 2012,9,Ethiopia,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Moslem,FY 2012,9,Somalia,8,174
+From: 10 Nov 2011,To: 10 Nov 2011,Moslem Shiite,FY 2012,2,Iraq,2,174
+From: 10 Nov 2011,To: 10 Nov 2011,Moslem Suni,FY 2012,2,Iraq,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Moslem Suni,FY 2012,2,Sudan,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Orthodox,FY 2012,18,Eritrea,6,174
+From: 10 Nov 2011,To: 10 Nov 2011,Orthodox,FY 2012,18,Ethiopia,12,174
+From: 10 Nov 2011,To: 10 Nov 2011,Sabeans-Mandean,FY 2012,1,Iran,1,174
+From: 10 Nov 2011,To: 10 Nov 2011,Zoroastrian,FY 2012,5,Iran,5,174
+

@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Feb 2010,To: 25 Feb 2010,Afghanistan,FY 2010,6,Moslem Shiite,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Afghanistan,FY 2010,6,Moslem Suni,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Bhutan,FY 2010,102,Buddhist,11,414
+From: 25 Feb 2010,To: 25 Feb 2010,Bhutan,FY 2010,102,Christian,3,414
+From: 25 Feb 2010,To: 25 Feb 2010,Bhutan,FY 2010,102,Hindu,88,414
+From: 25 Feb 2010,To: 25 Feb 2010,Burma,FY 2010,116,Baptist,7,414
+From: 25 Feb 2010,To: 25 Feb 2010,Burma,FY 2010,116,Buddhist,24,414
+From: 25 Feb 2010,To: 25 Feb 2010,Burma,FY 2010,116,Catholic,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Burma,FY 2010,116,Christian,84,414
+From: 25 Feb 2010,To: 25 Feb 2010,Colombia,FY 2010,3,Catholic,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Colombia,FY 2010,3,Christian,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Ethiopia,FY 2010,2,Protestant,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Iran,FY 2010,1,Moslem Shiite,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Iraq,FY 2010,106,Catholic,11,414
+From: 25 Feb 2010,To: 25 Feb 2010,Iraq,FY 2010,106,Christian,26,414
+From: 25 Feb 2010,To: 25 Feb 2010,Iraq,FY 2010,106,Moslem Shiite,40,414
+From: 25 Feb 2010,To: 25 Feb 2010,Iraq,FY 2010,106,Moslem Suni,27,414
+From: 25 Feb 2010,To: 25 Feb 2010,Iraq,FY 2010,106,Other Religion,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Palestine,FY 2010,5,Moslem Suni,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Russia,FY 2010,1,No Religion,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Rwanda,FY 2010,9,Protestant,9,414
+From: 25 Feb 2010,To: 25 Feb 2010,Somalia,FY 2010,26,Moslem,26,414
+From: 25 Feb 2010,To: 25 Feb 2010,Sri Lanka (Ceylon),FY 2010,5,Christian,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Sudan,FY 2010,3,Christian,3,414
+From: 25 Feb 2010,To: 25 Feb 2010,Vietnam,FY 2010,29,Ancestral Worship,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Vietnam,FY 2010,29,Buddhist,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Vietnam,FY 2010,29,Catholic,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Vietnam,FY 2010,29,No Religion,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Vietnam,FY 2010,29,Protestant,17,414
+From: 25 Feb 2010,To: 25 Feb 2010,Vietnam,FY 2010,29,Unknown,3,414
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Feb 2010,To: 25 Feb 2010,Ancestral Worship,FY 2010,2,Vietnam,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Baptist,FY 2010,7,Burma,7,414
+From: 25 Feb 2010,To: 25 Feb 2010,Buddhist,FY 2010,36,Bhutan,11,414
+From: 25 Feb 2010,To: 25 Feb 2010,Buddhist,FY 2010,36,Burma,24,414
+From: 25 Feb 2010,To: 25 Feb 2010,Buddhist,FY 2010,36,Vietnam,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Catholic,FY 2010,19,Burma,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Catholic,FY 2010,19,Colombia,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Catholic,FY 2010,19,Iraq,11,414
+From: 25 Feb 2010,To: 25 Feb 2010,Catholic,FY 2010,19,Vietnam,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Christian,FY 2010,122,Bhutan,3,414
+From: 25 Feb 2010,To: 25 Feb 2010,Christian,FY 2010,122,Burma,84,414
+From: 25 Feb 2010,To: 25 Feb 2010,Christian,FY 2010,122,Colombia,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Christian,FY 2010,122,Iraq,26,414
+From: 25 Feb 2010,To: 25 Feb 2010,Christian,FY 2010,122,Sri Lanka (Ceylon),5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Christian,FY 2010,122,Sudan,3,414
+From: 25 Feb 2010,To: 25 Feb 2010,Hindu,FY 2010,88,Bhutan,88,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem,FY 2010,26,Somalia,26,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem Shiite,FY 2010,42,Afghanistan,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem Shiite,FY 2010,42,Iran,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem Shiite,FY 2010,42,Iraq,40,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem Suni,FY 2010,37,Afghanistan,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem Suni,FY 2010,37,Iraq,27,414
+From: 25 Feb 2010,To: 25 Feb 2010,Moslem Suni,FY 2010,37,Palestine,5,414
+From: 25 Feb 2010,To: 25 Feb 2010,No Religion,FY 2010,2,Russia,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,No Religion,FY 2010,2,Vietnam,1,414
+From: 25 Feb 2010,To: 25 Feb 2010,Other Religion,FY 2010,2,Iraq,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Protestant,FY 2010,28,Ethiopia,2,414
+From: 25 Feb 2010,To: 25 Feb 2010,Protestant,FY 2010,28,Rwanda,9,414
+From: 25 Feb 2010,To: 25 Feb 2010,Protestant,FY 2010,28,Vietnam,17,414
+From: 25 Feb 2010,To: 25 Feb 2010,Unknown,FY 2010,3,Vietnam,3,414
+

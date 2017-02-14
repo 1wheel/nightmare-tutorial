@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 May 2013,To: 01 May 2013,Burma,FY 2013,24,Buddhist,1,61
+From: 01 May 2013,To: 01 May 2013,Burma,FY 2013,24,Catholic,5,61
+From: 01 May 2013,To: 01 May 2013,Burma,FY 2013,24,Christian,17,61
+From: 01 May 2013,To: 01 May 2013,Burma,FY 2013,24,Moslem,1,61
+From: 01 May 2013,To: 01 May 2013,Dem. Rep. Congo,FY 2013,5,Protestant,5,61
+From: 01 May 2013,To: 01 May 2013,Ethiopia,FY 2013,11,Christian,5,61
+From: 01 May 2013,To: 01 May 2013,Ethiopia,FY 2013,11,Moslem,4,61
+From: 01 May 2013,To: 01 May 2013,Ethiopia,FY 2013,11,Orthodox,1,61
+From: 01 May 2013,To: 01 May 2013,Ethiopia,FY 2013,11,Protestant,1,61
+From: 01 May 2013,To: 01 May 2013,Somalia,FY 2013,21,Moslem,21,61
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 May 2013,To: 01 May 2013,Buddhist,FY 2013,1,Burma,1,61
+From: 01 May 2013,To: 01 May 2013,Catholic,FY 2013,5,Burma,5,61
+From: 01 May 2013,To: 01 May 2013,Christian,FY 2013,22,Burma,17,61
+From: 01 May 2013,To: 01 May 2013,Christian,FY 2013,22,Ethiopia,5,61
+From: 01 May 2013,To: 01 May 2013,Moslem,FY 2013,26,Burma,1,61
+From: 01 May 2013,To: 01 May 2013,Moslem,FY 2013,26,Ethiopia,4,61
+From: 01 May 2013,To: 01 May 2013,Moslem,FY 2013,26,Somalia,21,61
+From: 01 May 2013,To: 01 May 2013,Orthodox,FY 2013,1,Ethiopia,1,61
+From: 01 May 2013,To: 01 May 2013,Protestant,FY 2013,6,Dem. Rep. Congo,5,61
+From: 01 May 2013,To: 01 May 2013,Protestant,FY 2013,6,Ethiopia,1,61
+

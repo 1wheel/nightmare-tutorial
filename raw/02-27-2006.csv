@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Feb 2006,To: 27 Feb 2006,Belarus,FY 2006,1,Seventh Day Adventist,1,125
+From: 27 Feb 2006,To: 27 Feb 2006,Ethiopia,FY 2006,10,Moslem,2,125
+From: 27 Feb 2006,To: 27 Feb 2006,Ethiopia,FY 2006,10,Orthodox,8,125
+From: 27 Feb 2006,To: 27 Feb 2006,Russia,FY 2006,46,Moslem,46,125
+From: 27 Feb 2006,To: 27 Feb 2006,Somalia,FY 2006,10,Moslem,10,125
+From: 27 Feb 2006,To: 27 Feb 2006,Ukraine,FY 2006,28,Jewish,4,125
+From: 27 Feb 2006,To: 27 Feb 2006,Ukraine,FY 2006,28,Pentecostalist,24,125
+From: 27 Feb 2006,To: 27 Feb 2006,Vietnam,FY 2006,30,Buddhist,9,125
+From: 27 Feb 2006,To: 27 Feb 2006,Vietnam,FY 2006,30,Cao Dai,5,125
+From: 27 Feb 2006,To: 27 Feb 2006,Vietnam,FY 2006,30,Catholic,12,125
+From: 27 Feb 2006,To: 27 Feb 2006,Vietnam,FY 2006,30,Other Religion,2,125
+From: 27 Feb 2006,To: 27 Feb 2006,Vietnam,FY 2006,30,Protestant,2,125
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Feb 2006,To: 27 Feb 2006,Buddhist,FY 2006,9,Vietnam,9,125
+From: 27 Feb 2006,To: 27 Feb 2006,Cao Dai,FY 2006,5,Vietnam,5,125
+From: 27 Feb 2006,To: 27 Feb 2006,Catholic,FY 2006,12,Vietnam,12,125
+From: 27 Feb 2006,To: 27 Feb 2006,Jewish,FY 2006,4,Ukraine,4,125
+From: 27 Feb 2006,To: 27 Feb 2006,Moslem,FY 2006,58,Ethiopia,2,125
+From: 27 Feb 2006,To: 27 Feb 2006,Moslem,FY 2006,58,Russia,46,125
+From: 27 Feb 2006,To: 27 Feb 2006,Moslem,FY 2006,58,Somalia,10,125
+From: 27 Feb 2006,To: 27 Feb 2006,Orthodox,FY 2006,8,Ethiopia,8,125
+From: 27 Feb 2006,To: 27 Feb 2006,Other Religion,FY 2006,2,Vietnam,2,125
+From: 27 Feb 2006,To: 27 Feb 2006,Pentecostalist,FY 2006,24,Ukraine,24,125
+From: 27 Feb 2006,To: 27 Feb 2006,Protestant,FY 2006,2,Vietnam,2,125
+From: 27 Feb 2006,To: 27 Feb 2006,Seventh Day Adventist,FY 2006,1,Belarus,1,125
+

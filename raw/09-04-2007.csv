@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Sep 2007,To: 04 Sep 2007,Burma,FY 2007,169,Buddhist,42,493
+From: 04 Sep 2007,To: 04 Sep 2007,Burma,FY 2007,169,Christian,88,493
+From: 04 Sep 2007,To: 04 Sep 2007,Burma,FY 2007,169,Moslem,39,493
+From: 04 Sep 2007,To: 04 Sep 2007,Burundi,FY 2007,32,Catholic,24,493
+From: 04 Sep 2007,To: 04 Sep 2007,Burundi,FY 2007,32,Methodist,8,493
+From: 04 Sep 2007,To: 04 Sep 2007,Congo,FY 2007,2,Protestant,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Eritrea,FY 2007,69,Catholic,34,493
+From: 04 Sep 2007,To: 04 Sep 2007,Eritrea,FY 2007,69,Christian,22,493
+From: 04 Sep 2007,To: 04 Sep 2007,Eritrea,FY 2007,69,Moslem,10,493
+From: 04 Sep 2007,To: 04 Sep 2007,Eritrea,FY 2007,69,Other Religion,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Eritrea,FY 2007,69,Protestant,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iran,FY 2007,34,Christian,18,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iran,FY 2007,34,Jewish,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iran,FY 2007,34,Zoroastrian,12,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iraq,FY 2007,11,Catholic,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iraq,FY 2007,11,Christian,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iraq,FY 2007,11,Moslem Shiite,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Iraq,FY 2007,11,Orthodox,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Liberia,FY 2007,29,Baptist,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Liberia,FY 2007,29,Catholic,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Liberia,FY 2007,29,Christian,17,493
+From: 04 Sep 2007,To: 04 Sep 2007,Liberia,FY 2007,29,Lutheran,8,493
+From: 04 Sep 2007,To: 04 Sep 2007,Liberia,FY 2007,29,Pentecostalist,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Rwanda,FY 2007,5,Catholic,5,493
+From: 04 Sep 2007,To: 04 Sep 2007,Somalia,FY 2007,105,Moslem,105,493
+From: 04 Sep 2007,To: 04 Sep 2007,Togo,FY 2007,5,Baptist,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Togo,FY 2007,5,Christian,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Ukraine,FY 2007,32,Jewish,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Ukraine,FY 2007,32,Pentecostalist,27,493
+From: 04 Sep 2007,To: 04 Sep 2007,Ukraine,FY 2007,32,Seventh Day Adventist,3,493
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Sep 2007,To: 04 Sep 2007,Baptist,FY 2007,5,Liberia,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Baptist,FY 2007,5,Togo,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Buddhist,FY 2007,42,Burma,42,493
+From: 04 Sep 2007,To: 04 Sep 2007,Catholic,FY 2007,67,Burundi,24,493
+From: 04 Sep 2007,To: 04 Sep 2007,Catholic,FY 2007,67,Eritrea,34,493
+From: 04 Sep 2007,To: 04 Sep 2007,Catholic,FY 2007,67,Iraq,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Catholic,FY 2007,67,Liberia,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Catholic,FY 2007,67,Rwanda,5,493
+From: 04 Sep 2007,To: 04 Sep 2007,Christian,FY 2007,150,Burma,88,493
+From: 04 Sep 2007,To: 04 Sep 2007,Christian,FY 2007,150,Eritrea,22,493
+From: 04 Sep 2007,To: 04 Sep 2007,Christian,FY 2007,150,Iran,18,493
+From: 04 Sep 2007,To: 04 Sep 2007,Christian,FY 2007,150,Iraq,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Christian,FY 2007,150,Liberia,17,493
+From: 04 Sep 2007,To: 04 Sep 2007,Christian,FY 2007,150,Togo,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Jewish,FY 2007,6,Iran,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Jewish,FY 2007,6,Ukraine,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Lutheran,FY 2007,8,Liberia,8,493
+From: 04 Sep 2007,To: 04 Sep 2007,Methodist,FY 2007,8,Burundi,8,493
+From: 04 Sep 2007,To: 04 Sep 2007,Moslem,FY 2007,154,Burma,39,493
+From: 04 Sep 2007,To: 04 Sep 2007,Moslem,FY 2007,154,Eritrea,10,493
+From: 04 Sep 2007,To: 04 Sep 2007,Moslem,FY 2007,154,Somalia,105,493
+From: 04 Sep 2007,To: 04 Sep 2007,Moslem Shiite,FY 2007,1,Iraq,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Orthodox,FY 2007,4,Iraq,4,493
+From: 04 Sep 2007,To: 04 Sep 2007,Other Religion,FY 2007,2,Eritrea,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Pentecostalist,FY 2007,28,Liberia,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Pentecostalist,FY 2007,28,Ukraine,27,493
+From: 04 Sep 2007,To: 04 Sep 2007,Protestant,FY 2007,3,Congo,2,493
+From: 04 Sep 2007,To: 04 Sep 2007,Protestant,FY 2007,3,Eritrea,1,493
+From: 04 Sep 2007,To: 04 Sep 2007,Seventh Day Adventist,FY 2007,3,Ukraine,3,493
+From: 04 Sep 2007,To: 04 Sep 2007,Zoroastrian,FY 2007,12,Iran,12,493
+

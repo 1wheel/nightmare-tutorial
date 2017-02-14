@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Oct 2009,To: 19 Oct 2009,Bhutan,FY 2010,97,Christian,5,256
+From: 19 Oct 2009,To: 19 Oct 2009,Bhutan,FY 2010,97,Hindu,92,256
+From: 19 Oct 2009,To: 19 Oct 2009,Burma,FY 2010,32,Baptist,4,256
+From: 19 Oct 2009,To: 19 Oct 2009,Burma,FY 2010,32,Buddhist,17,256
+From: 19 Oct 2009,To: 19 Oct 2009,Burma,FY 2010,32,Christian,11,256
+From: 19 Oct 2009,To: 19 Oct 2009,Burundi,FY 2010,4,Christian,4,256
+From: 19 Oct 2009,To: 19 Oct 2009,Congo,FY 2010,24,Catholic,14,256
+From: 19 Oct 2009,To: 19 Oct 2009,Congo,FY 2010,24,Christian,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Congo,FY 2010,24,Protestant,9,256
+From: 19 Oct 2009,To: 19 Oct 2009,Egypt,FY 2010,1,Protestant,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Iran,FY 2010,3,Christian,3,256
+From: 19 Oct 2009,To: 19 Oct 2009,Iraq,FY 2010,67,Catholic,22,256
+From: 19 Oct 2009,To: 19 Oct 2009,Iraq,FY 2010,67,Christian,12,256
+From: 19 Oct 2009,To: 19 Oct 2009,Iraq,FY 2010,67,Moslem,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Iraq,FY 2010,67,Moslem Shiite,13,256
+From: 19 Oct 2009,To: 19 Oct 2009,Iraq,FY 2010,67,Moslem Suni,19,256
+From: 19 Oct 2009,To: 19 Oct 2009,Lebanon,FY 2010,2,Moslem,2,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moldova,FY 2010,14,Baptist,11,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moldova,FY 2010,14,Pentecostalist,3,256
+From: 19 Oct 2009,To: 19 Oct 2009,Sierra Leone,FY 2010,1,Christian,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Sudan,FY 2010,11,Moslem,7,256
+From: 19 Oct 2009,To: 19 Oct 2009,Sudan,FY 2010,11,Protestant,4,256
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Oct 2009,To: 19 Oct 2009,Baptist,FY 2010,15,Burma,4,256
+From: 19 Oct 2009,To: 19 Oct 2009,Baptist,FY 2010,15,Moldova,11,256
+From: 19 Oct 2009,To: 19 Oct 2009,Buddhist,FY 2010,17,Burma,17,256
+From: 19 Oct 2009,To: 19 Oct 2009,Catholic,FY 2010,36,Congo,14,256
+From: 19 Oct 2009,To: 19 Oct 2009,Catholic,FY 2010,36,Iraq,22,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Bhutan,5,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Burma,11,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Burundi,4,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Congo,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Iran,3,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Iraq,12,256
+From: 19 Oct 2009,To: 19 Oct 2009,Christian,FY 2010,37,Sierra Leone,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Hindu,FY 2010,92,Bhutan,92,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moslem,FY 2010,10,Iraq,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moslem,FY 2010,10,Lebanon,2,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moslem,FY 2010,10,Sudan,7,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moslem Shiite,FY 2010,13,Iraq,13,256
+From: 19 Oct 2009,To: 19 Oct 2009,Moslem Suni,FY 2010,19,Iraq,19,256
+From: 19 Oct 2009,To: 19 Oct 2009,Pentecostalist,FY 2010,3,Moldova,3,256
+From: 19 Oct 2009,To: 19 Oct 2009,Protestant,FY 2010,14,Congo,9,256
+From: 19 Oct 2009,To: 19 Oct 2009,Protestant,FY 2010,14,Egypt,1,256
+From: 19 Oct 2009,To: 19 Oct 2009,Protestant,FY 2010,14,Sudan,4,256
+

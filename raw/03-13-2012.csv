@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Mar 2012,To: 13 Mar 2012,Afghanistan,FY 2012,5,Moslem,3,169
+From: 13 Mar 2012,To: 13 Mar 2012,Afghanistan,FY 2012,5,Moslem Suni,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Bhutan,FY 2012,59,Hindu,59,169
+From: 13 Mar 2012,To: 13 Mar 2012,Burma,FY 2012,55,Baptist,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Burma,FY 2012,55,Buddhist,16,169
+From: 13 Mar 2012,To: 13 Mar 2012,Burma,FY 2012,55,Catholic,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Burma,FY 2012,55,Christian,35,169
+From: 13 Mar 2012,To: 13 Mar 2012,Colombia,FY 2012,3,Catholic,3,169
+From: 13 Mar 2012,To: 13 Mar 2012,Iran,FY 2012,3,Moslem Shiite,1,169
+From: 13 Mar 2012,To: 13 Mar 2012,Iran,FY 2012,3,Pentecostalist,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Iraq,FY 2012,39,Catholic,10,169
+From: 13 Mar 2012,To: 13 Mar 2012,Iraq,FY 2012,39,Christian,13,169
+From: 13 Mar 2012,To: 13 Mar 2012,Iraq,FY 2012,39,Moslem Shiite,4,169
+From: 13 Mar 2012,To: 13 Mar 2012,Iraq,FY 2012,39,Moslem Suni,12,169
+From: 13 Mar 2012,To: 13 Mar 2012,Russia,FY 2012,4,Baptist,4,169
+From: 13 Mar 2012,To: 13 Mar 2012,Somalia,FY 2012,1,Moslem Suni,1,169
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Mar 2012,To: 13 Mar 2012,Baptist,FY 2012,6,Burma,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Baptist,FY 2012,6,Russia,4,169
+From: 13 Mar 2012,To: 13 Mar 2012,Buddhist,FY 2012,16,Burma,16,169
+From: 13 Mar 2012,To: 13 Mar 2012,Catholic,FY 2012,15,Burma,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Catholic,FY 2012,15,Colombia,3,169
+From: 13 Mar 2012,To: 13 Mar 2012,Catholic,FY 2012,15,Iraq,10,169
+From: 13 Mar 2012,To: 13 Mar 2012,Christian,FY 2012,48,Burma,35,169
+From: 13 Mar 2012,To: 13 Mar 2012,Christian,FY 2012,48,Iraq,13,169
+From: 13 Mar 2012,To: 13 Mar 2012,Hindu,FY 2012,59,Bhutan,59,169
+From: 13 Mar 2012,To: 13 Mar 2012,Moslem,FY 2012,3,Afghanistan,3,169
+From: 13 Mar 2012,To: 13 Mar 2012,Moslem Shiite,FY 2012,5,Iran,1,169
+From: 13 Mar 2012,To: 13 Mar 2012,Moslem Shiite,FY 2012,5,Iraq,4,169
+From: 13 Mar 2012,To: 13 Mar 2012,Moslem Suni,FY 2012,15,Afghanistan,2,169
+From: 13 Mar 2012,To: 13 Mar 2012,Moslem Suni,FY 2012,15,Iraq,12,169
+From: 13 Mar 2012,To: 13 Mar 2012,Moslem Suni,FY 2012,15,Somalia,1,169
+From: 13 Mar 2012,To: 13 Mar 2012,Pentecostalist,FY 2012,2,Iran,2,169
+

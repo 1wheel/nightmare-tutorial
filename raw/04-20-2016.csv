@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Apr 2016,To: 20 Apr 2016,Afghanistan,FY 2016,14,Moslem Shiite,7,263
+From: 20 Apr 2016,To: 20 Apr 2016,Afghanistan,FY 2016,14,Moslem Suni,7,263
+From: 20 Apr 2016,To: 20 Apr 2016,Bhutan,FY 2016,74,Buddhist,22,263
+From: 20 Apr 2016,To: 20 Apr 2016,Bhutan,FY 2016,74,Christian,18,263
+From: 20 Apr 2016,To: 20 Apr 2016,Bhutan,FY 2016,74,Hindu,26,263
+From: 20 Apr 2016,To: 20 Apr 2016,Bhutan,FY 2016,74,Kirat,8,263
+From: 20 Apr 2016,To: 20 Apr 2016,Burma,FY 2016,12,Buddhist,6,263
+From: 20 Apr 2016,To: 20 Apr 2016,Burma,FY 2016,12,Christian,6,263
+From: 20 Apr 2016,To: 20 Apr 2016,China,FY 2016,1,Other Religion,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Dem. Rep. Congo,FY 2016,46,Baptist,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Dem. Rep. Congo,FY 2016,46,Pentecostalist,17,263
+From: 20 Apr 2016,To: 20 Apr 2016,Dem. Rep. Congo,FY 2016,46,Protestant,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Dem. Rep. Congo,FY 2016,46,Seventh Day Adventist,27,263
+From: 20 Apr 2016,To: 20 Apr 2016,Eritrea,FY 2016,1,Pentecostalist,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Ethiopia,FY 2016,4,Christian,3,263
+From: 20 Apr 2016,To: 20 Apr 2016,Ethiopia,FY 2016,4,Moslem Suni,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,India,FY 2016,1,Hindu,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Iran,FY 2016,21,Bahai,2,263
+From: 20 Apr 2016,To: 20 Apr 2016,Iran,FY 2016,21,Christian,17,263
+From: 20 Apr 2016,To: 20 Apr 2016,Iran,FY 2016,21,Zoroastrian,2,263
+From: 20 Apr 2016,To: 20 Apr 2016,Iraq,FY 2016,20,Moslem,2,263
+From: 20 Apr 2016,To: 20 Apr 2016,Iraq,FY 2016,20,Moslem Suni,14,263
+From: 20 Apr 2016,To: 20 Apr 2016,Iraq,FY 2016,20,Orthodox,4,263
+From: 20 Apr 2016,To: 20 Apr 2016,Pakistan,FY 2016,1,Ahmadiyya,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Somalia,FY 2016,46,Moslem,43,263
+From: 20 Apr 2016,To: 20 Apr 2016,Somalia,FY 2016,46,Moslem Suni,3,263
+From: 20 Apr 2016,To: 20 Apr 2016,Sudan,FY 2016,1,Moslem,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Syria,FY 2016,16,Moslem Suni,16,263
+From: 20 Apr 2016,To: 20 Apr 2016,Togo,FY 2016,5,Christian,5,263
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Apr 2016,To: 20 Apr 2016,Ahmadiyya,FY 2016,1,Pakistan,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Bahai,FY 2016,2,Iran,2,263
+From: 20 Apr 2016,To: 20 Apr 2016,Baptist,FY 2016,1,Dem. Rep. Congo,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Buddhist,FY 2016,28,Bhutan,22,263
+From: 20 Apr 2016,To: 20 Apr 2016,Buddhist,FY 2016,28,Burma,6,263
+From: 20 Apr 2016,To: 20 Apr 2016,Christian,FY 2016,49,Bhutan,18,263
+From: 20 Apr 2016,To: 20 Apr 2016,Christian,FY 2016,49,Burma,6,263
+From: 20 Apr 2016,To: 20 Apr 2016,Christian,FY 2016,49,Ethiopia,3,263
+From: 20 Apr 2016,To: 20 Apr 2016,Christian,FY 2016,49,Iran,17,263
+From: 20 Apr 2016,To: 20 Apr 2016,Christian,FY 2016,49,Togo,5,263
+From: 20 Apr 2016,To: 20 Apr 2016,Hindu,FY 2016,27,Bhutan,26,263
+From: 20 Apr 2016,To: 20 Apr 2016,Hindu,FY 2016,27,India,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Kirat,FY 2016,8,Bhutan,8,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem,FY 2016,46,Iraq,2,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem,FY 2016,46,Somalia,43,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem,FY 2016,46,Sudan,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem Shiite,FY 2016,7,Afghanistan,7,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem Suni,FY 2016,41,Afghanistan,7,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem Suni,FY 2016,41,Ethiopia,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem Suni,FY 2016,41,Iraq,14,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem Suni,FY 2016,41,Somalia,3,263
+From: 20 Apr 2016,To: 20 Apr 2016,Moslem Suni,FY 2016,41,Syria,16,263
+From: 20 Apr 2016,To: 20 Apr 2016,Orthodox,FY 2016,4,Iraq,4,263
+From: 20 Apr 2016,To: 20 Apr 2016,Other Religion,FY 2016,1,China,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Pentecostalist,FY 2016,18,Dem. Rep. Congo,17,263
+From: 20 Apr 2016,To: 20 Apr 2016,Pentecostalist,FY 2016,18,Eritrea,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Protestant,FY 2016,1,Dem. Rep. Congo,1,263
+From: 20 Apr 2016,To: 20 Apr 2016,Seventh Day Adventist,FY 2016,27,Dem. Rep. Congo,27,263
+From: 20 Apr 2016,To: 20 Apr 2016,Zoroastrian,FY 2016,2,Iran,2,263
+

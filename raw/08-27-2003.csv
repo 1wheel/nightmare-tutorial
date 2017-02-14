@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Aug 2003,To: 27 Aug 2003,Afghanistan,FY 2003,11,Bahai,6,142
+From: 27 Aug 2003,To: 27 Aug 2003,Afghanistan,FY 2003,11,Moslem Suni,5,142
+From: 27 Aug 2003,To: 27 Aug 2003,Belarus,FY 2003,32,Jewish,13,142
+From: 27 Aug 2003,To: 27 Aug 2003,Belarus,FY 2003,32,Pentecostalist,17,142
+From: 27 Aug 2003,To: 27 Aug 2003,Belarus,FY 2003,32,Unknown,2,142
+From: 27 Aug 2003,To: 27 Aug 2003,Burma,FY 2003,14,Buddhist,14,142
+From: 27 Aug 2003,To: 27 Aug 2003,Cuba,FY 2003,25,Catholic,8,142
+From: 27 Aug 2003,To: 27 Aug 2003,Cuba,FY 2003,25,Christian,2,142
+From: 27 Aug 2003,To: 27 Aug 2003,Cuba,FY 2003,25,No Religion,15,142
+From: 27 Aug 2003,To: 27 Aug 2003,Iran,FY 2003,26,Bahai,3,142
+From: 27 Aug 2003,To: 27 Aug 2003,Iran,FY 2003,26,Jewish,21,142
+From: 27 Aug 2003,To: 27 Aug 2003,Iran,FY 2003,26,Sabeans-Mandean,1,142
+From: 27 Aug 2003,To: 27 Aug 2003,Iran,FY 2003,26,Zoroastrian,1,142
+From: 27 Aug 2003,To: 27 Aug 2003,Liberia,FY 2003,11,Baptist,1,142
+From: 27 Aug 2003,To: 27 Aug 2003,Liberia,FY 2003,11,Christian,8,142
+From: 27 Aug 2003,To: 27 Aug 2003,Liberia,FY 2003,11,Moslem,2,142
+From: 27 Aug 2003,To: 27 Aug 2003,Sierra Leone,FY 2003,22,Christian,4,142
+From: 27 Aug 2003,To: 27 Aug 2003,Sierra Leone,FY 2003,22,Moslem,18,142
+From: 27 Aug 2003,To: 27 Aug 2003,Togo,FY 2003,1,Christian,1,142
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Aug 2003,To: 27 Aug 2003,Bahai,FY 2003,9,Afghanistan,6,142
+From: 27 Aug 2003,To: 27 Aug 2003,Bahai,FY 2003,9,Iran,3,142
+From: 27 Aug 2003,To: 27 Aug 2003,Baptist,FY 2003,1,Liberia,1,142
+From: 27 Aug 2003,To: 27 Aug 2003,Buddhist,FY 2003,14,Burma,14,142
+From: 27 Aug 2003,To: 27 Aug 2003,Catholic,FY 2003,8,Cuba,8,142
+From: 27 Aug 2003,To: 27 Aug 2003,Christian,FY 2003,15,Cuba,2,142
+From: 27 Aug 2003,To: 27 Aug 2003,Christian,FY 2003,15,Liberia,8,142
+From: 27 Aug 2003,To: 27 Aug 2003,Christian,FY 2003,15,Sierra Leone,4,142
+From: 27 Aug 2003,To: 27 Aug 2003,Christian,FY 2003,15,Togo,1,142
+From: 27 Aug 2003,To: 27 Aug 2003,Jewish,FY 2003,34,Belarus,13,142
+From: 27 Aug 2003,To: 27 Aug 2003,Jewish,FY 2003,34,Iran,21,142
+From: 27 Aug 2003,To: 27 Aug 2003,Moslem,FY 2003,20,Liberia,2,142
+From: 27 Aug 2003,To: 27 Aug 2003,Moslem,FY 2003,20,Sierra Leone,18,142
+From: 27 Aug 2003,To: 27 Aug 2003,Moslem Suni,FY 2003,5,Afghanistan,5,142
+From: 27 Aug 2003,To: 27 Aug 2003,No Religion,FY 2003,15,Cuba,15,142
+From: 27 Aug 2003,To: 27 Aug 2003,Pentecostalist,FY 2003,17,Belarus,17,142
+From: 27 Aug 2003,To: 27 Aug 2003,Sabeans-Mandean,FY 2003,1,Iran,1,142
+From: 27 Aug 2003,To: 27 Aug 2003,Unknown,FY 2003,2,Belarus,2,142
+From: 27 Aug 2003,To: 27 Aug 2003,Zoroastrian,FY 2003,1,Iran,1,142
+

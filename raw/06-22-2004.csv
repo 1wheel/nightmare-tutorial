@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jun 2004,To: 22 Jun 2004,Afghanistan,FY 2004,19,Moslem,4,261
+From: 22 Jun 2004,To: 22 Jun 2004,Afghanistan,FY 2004,19,Moslem Suni,15,261
+From: 22 Jun 2004,To: 22 Jun 2004,Dem. Rep. Congo,FY 2004,14,Christian,14,261
+From: 22 Jun 2004,To: 22 Jun 2004,Iran,FY 2004,33,Bahai,30,261
+From: 22 Jun 2004,To: 22 Jun 2004,Iran,FY 2004,33,Jewish,2,261
+From: 22 Jun 2004,To: 22 Jun 2004,Iran,FY 2004,33,Moslem,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Liberia,FY 2004,35,Baptist,2,261
+From: 22 Jun 2004,To: 22 Jun 2004,Liberia,FY 2004,35,Catholic,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Liberia,FY 2004,35,Christian,32,261
+From: 22 Jun 2004,To: 22 Jun 2004,Somalia,FY 2004,124,Moslem,123,261
+From: 22 Jun 2004,To: 22 Jun 2004,Somalia,FY 2004,124,Unknown,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Sudan,FY 2004,4,Catholic,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Sudan,FY 2004,4,Christian,2,261
+From: 22 Jun 2004,To: 22 Jun 2004,Sudan,FY 2004,4,Moslem,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Ukraine,FY 2004,32,Baptist,12,261
+From: 22 Jun 2004,To: 22 Jun 2004,Ukraine,FY 2004,32,Jewish,9,261
+From: 22 Jun 2004,To: 22 Jun 2004,Ukraine,FY 2004,32,Pentecostalist,8,261
+From: 22 Jun 2004,To: 22 Jun 2004,Ukraine,FY 2004,32,Uniate,3,261
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jun 2004,To: 22 Jun 2004,Bahai,FY 2004,30,Iran,30,261
+From: 22 Jun 2004,To: 22 Jun 2004,Baptist,FY 2004,14,Liberia,2,261
+From: 22 Jun 2004,To: 22 Jun 2004,Baptist,FY 2004,14,Ukraine,12,261
+From: 22 Jun 2004,To: 22 Jun 2004,Catholic,FY 2004,2,Liberia,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Catholic,FY 2004,2,Sudan,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Christian,FY 2004,48,Dem. Rep. Congo,14,261
+From: 22 Jun 2004,To: 22 Jun 2004,Christian,FY 2004,48,Liberia,32,261
+From: 22 Jun 2004,To: 22 Jun 2004,Christian,FY 2004,48,Sudan,2,261
+From: 22 Jun 2004,To: 22 Jun 2004,Jewish,FY 2004,11,Iran,2,261
+From: 22 Jun 2004,To: 22 Jun 2004,Jewish,FY 2004,11,Ukraine,9,261
+From: 22 Jun 2004,To: 22 Jun 2004,Moslem,FY 2004,129,Afghanistan,4,261
+From: 22 Jun 2004,To: 22 Jun 2004,Moslem,FY 2004,129,Iran,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Moslem,FY 2004,129,Somalia,123,261
+From: 22 Jun 2004,To: 22 Jun 2004,Moslem,FY 2004,129,Sudan,1,261
+From: 22 Jun 2004,To: 22 Jun 2004,Moslem Suni,FY 2004,15,Afghanistan,15,261
+From: 22 Jun 2004,To: 22 Jun 2004,Pentecostalist,FY 2004,8,Ukraine,8,261
+From: 22 Jun 2004,To: 22 Jun 2004,Uniate,FY 2004,3,Ukraine,3,261
+From: 22 Jun 2004,To: 22 Jun 2004,Unknown,FY 2004,1,Somalia,1,261
+

@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Mar 2007,To: 28 Mar 2007,Afghanistan,FY 2007,1,Moslem Shiite,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Azerbaijan,FY 2007,6,Christian,4,276
+From: 28 Mar 2007,To: 28 Mar 2007,Azerbaijan,FY 2007,6,Jewish,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Burma,FY 2007,19,Christian,19,276
+From: 28 Mar 2007,To: 28 Mar 2007,Dem. Rep. Congo,FY 2007,35,Christian,6,276
+From: 28 Mar 2007,To: 28 Mar 2007,Dem. Rep. Congo,FY 2007,35,Methodist,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Dem. Rep. Congo,FY 2007,35,Pentecostalist,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Dem. Rep. Congo,FY 2007,35,Protestant,26,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iran,FY 2007,42,Bahai,29,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iran,FY 2007,42,Baptist,4,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iran,FY 2007,42,Christian,6,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iran,FY 2007,42,Jewish,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iran,FY 2007,42,Moslem,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iran,FY 2007,42,Moslem Shiite,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Iraq,FY 2007,1,Yazidi,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Laos,FY 2007,10,Ancestral Worship,10,276
+From: 28 Mar 2007,To: 28 Mar 2007,Liberia,FY 2007,21,Christian,21,276
+From: 28 Mar 2007,To: 28 Mar 2007,Pakistan,FY 2007,2,Moslem,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Russia,FY 2007,20,Baptist,11,276
+From: 28 Mar 2007,To: 28 Mar 2007,Russia,FY 2007,20,Jewish,7,276
+From: 28 Mar 2007,To: 28 Mar 2007,Russia,FY 2007,20,No Religion,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Sierra Leone,FY 2007,14,Christian,14,276
+From: 28 Mar 2007,To: 28 Mar 2007,Somalia,FY 2007,55,Moslem,54,276
+From: 28 Mar 2007,To: 28 Mar 2007,Somalia,FY 2007,55,Moslem Suni,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Sudan,FY 2007,9,Protestant,9,276
+From: 28 Mar 2007,To: 28 Mar 2007,Syria,FY 2007,6,Moslem Suni,6,276
+From: 28 Mar 2007,To: 28 Mar 2007,Uzbekistan,FY 2007,2,Orthodox,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Vietnam,FY 2007,33,Buddhist,5,276
+From: 28 Mar 2007,To: 28 Mar 2007,Vietnam,FY 2007,33,Catholic,8,276
+From: 28 Mar 2007,To: 28 Mar 2007,Vietnam,FY 2007,33,No Religion,11,276
+From: 28 Mar 2007,To: 28 Mar 2007,Vietnam,FY 2007,33,Protestant,9,276
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Mar 2007,To: 28 Mar 2007,Ancestral Worship,FY 2007,10,Laos,10,276
+From: 28 Mar 2007,To: 28 Mar 2007,Bahai,FY 2007,29,Iran,29,276
+From: 28 Mar 2007,To: 28 Mar 2007,Baptist,FY 2007,15,Iran,4,276
+From: 28 Mar 2007,To: 28 Mar 2007,Baptist,FY 2007,15,Russia,11,276
+From: 28 Mar 2007,To: 28 Mar 2007,Buddhist,FY 2007,5,Vietnam,5,276
+From: 28 Mar 2007,To: 28 Mar 2007,Catholic,FY 2007,8,Vietnam,8,276
+From: 28 Mar 2007,To: 28 Mar 2007,Christian,FY 2007,70,Azerbaijan,4,276
+From: 28 Mar 2007,To: 28 Mar 2007,Christian,FY 2007,70,Burma,19,276
+From: 28 Mar 2007,To: 28 Mar 2007,Christian,FY 2007,70,Dem. Rep. Congo,6,276
+From: 28 Mar 2007,To: 28 Mar 2007,Christian,FY 2007,70,Iran,6,276
+From: 28 Mar 2007,To: 28 Mar 2007,Christian,FY 2007,70,Liberia,21,276
+From: 28 Mar 2007,To: 28 Mar 2007,Christian,FY 2007,70,Sierra Leone,14,276
+From: 28 Mar 2007,To: 28 Mar 2007,Jewish,FY 2007,10,Azerbaijan,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Jewish,FY 2007,10,Iran,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Jewish,FY 2007,10,Russia,7,276
+From: 28 Mar 2007,To: 28 Mar 2007,Methodist,FY 2007,2,Dem. Rep. Congo,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem,FY 2007,57,Iran,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem,FY 2007,57,Pakistan,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem,FY 2007,57,Somalia,54,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem Shiite,FY 2007,2,Afghanistan,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem Shiite,FY 2007,2,Iran,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem Suni,FY 2007,7,Somalia,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Moslem Suni,FY 2007,7,Syria,6,276
+From: 28 Mar 2007,To: 28 Mar 2007,No Religion,FY 2007,13,Russia,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,No Religion,FY 2007,13,Vietnam,11,276
+From: 28 Mar 2007,To: 28 Mar 2007,Orthodox,FY 2007,2,Uzbekistan,2,276
+From: 28 Mar 2007,To: 28 Mar 2007,Pentecostalist,FY 2007,1,Dem. Rep. Congo,1,276
+From: 28 Mar 2007,To: 28 Mar 2007,Protestant,FY 2007,44,Dem. Rep. Congo,26,276
+From: 28 Mar 2007,To: 28 Mar 2007,Protestant,FY 2007,44,Sudan,9,276
+From: 28 Mar 2007,To: 28 Mar 2007,Protestant,FY 2007,44,Vietnam,9,276
+From: 28 Mar 2007,To: 28 Mar 2007,Yazidi,FY 2007,1,Iraq,1,276
+

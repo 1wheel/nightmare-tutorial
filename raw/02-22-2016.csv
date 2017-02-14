@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Feb 2016,To: 22 Feb 2016,Bhutan,FY 2016,20,Buddhist,6,280
+From: 22 Feb 2016,To: 22 Feb 2016,Bhutan,FY 2016,20,Christian,5,280
+From: 22 Feb 2016,To: 22 Feb 2016,Bhutan,FY 2016,20,Hindu,6,280
+From: 22 Feb 2016,To: 22 Feb 2016,Bhutan,FY 2016,20,Kirat,3,280
+From: 22 Feb 2016,To: 22 Feb 2016,Burma,FY 2016,105,Baptist,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Burma,FY 2016,105,Buddhist,2,280
+From: 22 Feb 2016,To: 22 Feb 2016,Burma,FY 2016,105,Christian,58,280
+From: 22 Feb 2016,To: 22 Feb 2016,Burma,FY 2016,105,Moslem,41,280
+From: 22 Feb 2016,To: 22 Feb 2016,Eritrea,FY 2016,3,Moslem,3,280
+From: 22 Feb 2016,To: 22 Feb 2016,Iran,FY 2016,6,Bahai,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Iran,FY 2016,6,Moslem Shiite,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Iran,FY 2016,6,No Religion,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Iraq,FY 2016,106,Catholic,3,280
+From: 22 Feb 2016,To: 22 Feb 2016,Iraq,FY 2016,106,Moslem Shiite,33,280
+From: 22 Feb 2016,To: 22 Feb 2016,Iraq,FY 2016,106,Moslem Suni,70,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moldova,FY 2016,13,Baptist,8,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moldova,FY 2016,13,Pentecostalist,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moldova,FY 2016,13,Seventh Day Adventist,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Russia,FY 2016,17,Baptist,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Russia,FY 2016,17,Pentecostalist,13,280
+From: 22 Feb 2016,To: 22 Feb 2016,Rwanda,FY 2016,1,Christian,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Somalia,FY 2016,7,Moslem,7,280
+From: 22 Feb 2016,To: 22 Feb 2016,Syria,FY 2016,2,Moslem Suni,2,280
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Feb 2016,To: 22 Feb 2016,Bahai,FY 2016,4,Iran,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Baptist,FY 2016,16,Burma,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Baptist,FY 2016,16,Moldova,8,280
+From: 22 Feb 2016,To: 22 Feb 2016,Baptist,FY 2016,16,Russia,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Buddhist,FY 2016,8,Bhutan,6,280
+From: 22 Feb 2016,To: 22 Feb 2016,Buddhist,FY 2016,8,Burma,2,280
+From: 22 Feb 2016,To: 22 Feb 2016,Catholic,FY 2016,3,Iraq,3,280
+From: 22 Feb 2016,To: 22 Feb 2016,Christian,FY 2016,64,Bhutan,5,280
+From: 22 Feb 2016,To: 22 Feb 2016,Christian,FY 2016,64,Burma,58,280
+From: 22 Feb 2016,To: 22 Feb 2016,Christian,FY 2016,64,Rwanda,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Hindu,FY 2016,6,Bhutan,6,280
+From: 22 Feb 2016,To: 22 Feb 2016,Kirat,FY 2016,3,Bhutan,3,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem,FY 2016,51,Burma,41,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem,FY 2016,51,Eritrea,3,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem,FY 2016,51,Somalia,7,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem Shiite,FY 2016,34,Iran,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem Shiite,FY 2016,34,Iraq,33,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem Suni,FY 2016,72,Iraq,70,280
+From: 22 Feb 2016,To: 22 Feb 2016,Moslem Suni,FY 2016,72,Syria,2,280
+From: 22 Feb 2016,To: 22 Feb 2016,No Religion,FY 2016,1,Iran,1,280
+From: 22 Feb 2016,To: 22 Feb 2016,Pentecostalist,FY 2016,17,Moldova,4,280
+From: 22 Feb 2016,To: 22 Feb 2016,Pentecostalist,FY 2016,17,Russia,13,280
+From: 22 Feb 2016,To: 22 Feb 2016,Seventh Day Adventist,FY 2016,1,Moldova,1,280
+

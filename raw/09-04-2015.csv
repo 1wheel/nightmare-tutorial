@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Sep 2015,To: 04 Sep 2015,Afghanistan,FY 2015,21,Moslem Shiite,21,63
+From: 04 Sep 2015,To: 04 Sep 2015,Dem. Rep. Congo,FY 2015,12,Catholic,2,63
+From: 04 Sep 2015,To: 04 Sep 2015,Dem. Rep. Congo,FY 2015,12,Pentecostalist,10,63
+From: 04 Sep 2015,To: 04 Sep 2015,Eritrea,FY 2015,4,Moslem,2,63
+From: 04 Sep 2015,To: 04 Sep 2015,Eritrea,FY 2015,4,Orthodox,2,63
+From: 04 Sep 2015,To: 04 Sep 2015,Iraq,FY 2015,4,Moslem Shiite,4,63
+From: 04 Sep 2015,To: 04 Sep 2015,Somalia,FY 2015,22,Moslem,22,63
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Sep 2015,To: 04 Sep 2015,Catholic,FY 2015,2,Dem. Rep. Congo,2,63
+From: 04 Sep 2015,To: 04 Sep 2015,Moslem,FY 2015,24,Eritrea,2,63
+From: 04 Sep 2015,To: 04 Sep 2015,Moslem,FY 2015,24,Somalia,22,63
+From: 04 Sep 2015,To: 04 Sep 2015,Moslem Shiite,FY 2015,25,Afghanistan,21,63
+From: 04 Sep 2015,To: 04 Sep 2015,Moslem Shiite,FY 2015,25,Iraq,4,63
+From: 04 Sep 2015,To: 04 Sep 2015,Orthodox,FY 2015,2,Eritrea,2,63
+From: 04 Sep 2015,To: 04 Sep 2015,Pentecostalist,FY 2015,10,Dem. Rep. Congo,10,63
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jul 2010,To: 27 Jul 2010,Bhutan,FY 2010,30,Buddhist,4,251
+From: 27 Jul 2010,To: 27 Jul 2010,Bhutan,FY 2010,30,Hindu,26,251
+From: 27 Jul 2010,To: 27 Jul 2010,Burma,FY 2010,44,Christian,42,251
+From: 27 Jul 2010,To: 27 Jul 2010,Burma,FY 2010,44,Moslem,2,251
+From: 27 Jul 2010,To: 27 Jul 2010,Central African Republic,FY 2010,1,Unknown,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Dem. Rep. Congo,FY 2010,3,Moslem,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Dem. Rep. Congo,FY 2010,3,Pentecostalist,2,251
+From: 27 Jul 2010,To: 27 Jul 2010,Eritrea,FY 2010,59,Catholic,7,251
+From: 27 Jul 2010,To: 27 Jul 2010,Eritrea,FY 2010,59,Christian,5,251
+From: 27 Jul 2010,To: 27 Jul 2010,Eritrea,FY 2010,59,Moslem,5,251
+From: 27 Jul 2010,To: 27 Jul 2010,Eritrea,FY 2010,59,Orthodox,33,251
+From: 27 Jul 2010,To: 27 Jul 2010,Eritrea,FY 2010,59,Pentecostalist,3,251
+From: 27 Jul 2010,To: 27 Jul 2010,Eritrea,FY 2010,59,Protestant,6,251
+From: 27 Jul 2010,To: 27 Jul 2010,Ethiopia,FY 2010,3,Christian,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Ethiopia,FY 2010,3,Evangelical Christian,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Ethiopia,FY 2010,3,Moslem,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iran,FY 2010,6,Christian,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iran,FY 2010,6,Sabeans-Mandean,4,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iran,FY 2010,6,Zoroastrian,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iraq,FY 2010,47,Catholic,6,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iraq,FY 2010,47,Christian,22,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iraq,FY 2010,47,Moslem Suni,15,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iraq,FY 2010,47,Orthodox,3,251
+From: 27 Jul 2010,To: 27 Jul 2010,Iraq,FY 2010,47,Sabeans-Mandean,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Rwanda,FY 2010,3,Catholic,3,251
+From: 27 Jul 2010,To: 27 Jul 2010,Somalia,FY 2010,54,Christian,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Somalia,FY 2010,54,Moslem,53,251
+From: 27 Jul 2010,To: 27 Jul 2010,Sudan,FY 2010,1,Christian,1,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jul 2010,To: 27 Jul 2010,Buddhist,FY 2010,4,Bhutan,4,251
+From: 27 Jul 2010,To: 27 Jul 2010,Catholic,FY 2010,16,Eritrea,7,251
+From: 27 Jul 2010,To: 27 Jul 2010,Catholic,FY 2010,16,Iraq,6,251
+From: 27 Jul 2010,To: 27 Jul 2010,Catholic,FY 2010,16,Rwanda,3,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Burma,42,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Eritrea,5,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Ethiopia,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Iran,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Iraq,22,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Somalia,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Christian,FY 2010,73,Sudan,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Evangelical Christian,FY 2010,1,Ethiopia,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Hindu,FY 2010,26,Bhutan,26,251
+From: 27 Jul 2010,To: 27 Jul 2010,Moslem,FY 2010,62,Burma,2,251
+From: 27 Jul 2010,To: 27 Jul 2010,Moslem,FY 2010,62,Dem. Rep. Congo,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Moslem,FY 2010,62,Eritrea,5,251
+From: 27 Jul 2010,To: 27 Jul 2010,Moslem,FY 2010,62,Ethiopia,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Moslem,FY 2010,62,Somalia,53,251
+From: 27 Jul 2010,To: 27 Jul 2010,Moslem Suni,FY 2010,15,Iraq,15,251
+From: 27 Jul 2010,To: 27 Jul 2010,Orthodox,FY 2010,36,Eritrea,33,251
+From: 27 Jul 2010,To: 27 Jul 2010,Orthodox,FY 2010,36,Iraq,3,251
+From: 27 Jul 2010,To: 27 Jul 2010,Pentecostalist,FY 2010,5,Dem. Rep. Congo,2,251
+From: 27 Jul 2010,To: 27 Jul 2010,Pentecostalist,FY 2010,5,Eritrea,3,251
+From: 27 Jul 2010,To: 27 Jul 2010,Protestant,FY 2010,6,Eritrea,6,251
+From: 27 Jul 2010,To: 27 Jul 2010,Sabeans-Mandean,FY 2010,5,Iran,4,251
+From: 27 Jul 2010,To: 27 Jul 2010,Sabeans-Mandean,FY 2010,5,Iraq,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Unknown,FY 2010,1,Central African Republic,1,251
+From: 27 Jul 2010,To: 27 Jul 2010,Zoroastrian,FY 2010,1,Iran,1,251
+

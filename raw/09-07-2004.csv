@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Sep 2004,To: 07 Sep 2004,Burma,FY 2004,21,Buddhist,21,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ethiopia,FY 2004,18,Christian,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ethiopia,FY 2004,18,Moslem,12,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ethiopia,FY 2004,18,Orthodox,2,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ethiopia,FY 2004,18,Protestant,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Iran,FY 2004,17,Bahai,11,493
+From: 07 Sep 2004,To: 07 Sep 2004,Iran,FY 2004,17,Jewish,5,493
+From: 07 Sep 2004,To: 07 Sep 2004,Iran,FY 2004,17,Sabeans-Mandean,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Laos,FY 2004,171,Ancestral Worship,167,493
+From: 07 Sep 2004,To: 07 Sep 2004,Laos,FY 2004,171,Christian,4,493
+From: 07 Sep 2004,To: 07 Sep 2004,Liberia,FY 2004,31,Baptist,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Liberia,FY 2004,31,Catholic,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Liberia,FY 2004,31,Christian,19,493
+From: 07 Sep 2004,To: 07 Sep 2004,Liberia,FY 2004,31,Evangelical Christian,2,493
+From: 07 Sep 2004,To: 07 Sep 2004,Liberia,FY 2004,31,Lutheran,5,493
+From: 07 Sep 2004,To: 07 Sep 2004,Liberia,FY 2004,31,Seventh Day Adventist,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Russia,FY 2004,19,Baptist,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Russia,FY 2004,19,Jewish,8,493
+From: 07 Sep 2004,To: 07 Sep 2004,Russia,FY 2004,19,No Religion,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Russia,FY 2004,19,Pentecostalist,5,493
+From: 07 Sep 2004,To: 07 Sep 2004,Rwanda,FY 2004,4,Christian,4,493
+From: 07 Sep 2004,To: 07 Sep 2004,Somalia,FY 2004,136,Moslem,136,493
+From: 07 Sep 2004,To: 07 Sep 2004,Sudan,FY 2004,41,Catholic,11,493
+From: 07 Sep 2004,To: 07 Sep 2004,Sudan,FY 2004,41,Christian,9,493
+From: 07 Sep 2004,To: 07 Sep 2004,Sudan,FY 2004,41,Moslem,21,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ukraine,FY 2004,35,Baptist,11,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ukraine,FY 2004,35,Christian,2,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ukraine,FY 2004,35,Orthodox,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Ukraine,FY 2004,35,Pentecostalist,21,493
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Sep 2004,To: 07 Sep 2004,Ancestral Worship,FY 2004,167,Laos,167,493
+From: 07 Sep 2004,To: 07 Sep 2004,Bahai,FY 2004,11,Iran,11,493
+From: 07 Sep 2004,To: 07 Sep 2004,Baptist,FY 2004,15,Liberia,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Baptist,FY 2004,15,Russia,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Baptist,FY 2004,15,Ukraine,11,493
+From: 07 Sep 2004,To: 07 Sep 2004,Buddhist,FY 2004,21,Burma,21,493
+From: 07 Sep 2004,To: 07 Sep 2004,Catholic,FY 2004,14,Liberia,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Catholic,FY 2004,14,Sudan,11,493
+From: 07 Sep 2004,To: 07 Sep 2004,Christian,FY 2004,41,Ethiopia,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Christian,FY 2004,41,Laos,4,493
+From: 07 Sep 2004,To: 07 Sep 2004,Christian,FY 2004,41,Liberia,19,493
+From: 07 Sep 2004,To: 07 Sep 2004,Christian,FY 2004,41,Rwanda,4,493
+From: 07 Sep 2004,To: 07 Sep 2004,Christian,FY 2004,41,Sudan,9,493
+From: 07 Sep 2004,To: 07 Sep 2004,Christian,FY 2004,41,Ukraine,2,493
+From: 07 Sep 2004,To: 07 Sep 2004,Evangelical Christian,FY 2004,2,Liberia,2,493
+From: 07 Sep 2004,To: 07 Sep 2004,Jewish,FY 2004,13,Iran,5,493
+From: 07 Sep 2004,To: 07 Sep 2004,Jewish,FY 2004,13,Russia,8,493
+From: 07 Sep 2004,To: 07 Sep 2004,Lutheran,FY 2004,5,Liberia,5,493
+From: 07 Sep 2004,To: 07 Sep 2004,Moslem,FY 2004,169,Ethiopia,12,493
+From: 07 Sep 2004,To: 07 Sep 2004,Moslem,FY 2004,169,Somalia,136,493
+From: 07 Sep 2004,To: 07 Sep 2004,Moslem,FY 2004,169,Sudan,21,493
+From: 07 Sep 2004,To: 07 Sep 2004,No Religion,FY 2004,3,Russia,3,493
+From: 07 Sep 2004,To: 07 Sep 2004,Orthodox,FY 2004,3,Ethiopia,2,493
+From: 07 Sep 2004,To: 07 Sep 2004,Orthodox,FY 2004,3,Ukraine,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Pentecostalist,FY 2004,26,Russia,5,493
+From: 07 Sep 2004,To: 07 Sep 2004,Pentecostalist,FY 2004,26,Ukraine,21,493
+From: 07 Sep 2004,To: 07 Sep 2004,Protestant,FY 2004,1,Ethiopia,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Sabeans-Mandean,FY 2004,1,Iran,1,493
+From: 07 Sep 2004,To: 07 Sep 2004,Seventh Day Adventist,FY 2004,1,Liberia,1,493
+

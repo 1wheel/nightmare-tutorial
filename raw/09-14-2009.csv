@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Sep 2009,To: 14 Sep 2009,Bhutan,FY 2009,105,Buddhist,9,472
+From: 14 Sep 2009,To: 14 Sep 2009,Bhutan,FY 2009,105,Christian,8,472
+From: 14 Sep 2009,To: 14 Sep 2009,Bhutan,FY 2009,105,Hindu,85,472
+From: 14 Sep 2009,To: 14 Sep 2009,Bhutan,FY 2009,105,Kirat,3,472
+From: 14 Sep 2009,To: 14 Sep 2009,Burma,FY 2009,147,Animist,17,472
+From: 14 Sep 2009,To: 14 Sep 2009,Burma,FY 2009,147,Buddhist,23,472
+From: 14 Sep 2009,To: 14 Sep 2009,Burma,FY 2009,147,Catholic,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Burma,FY 2009,147,Christian,91,472
+From: 14 Sep 2009,To: 14 Sep 2009,Burma,FY 2009,147,Moslem,11,472
+From: 14 Sep 2009,To: 14 Sep 2009,Congo,FY 2009,46,Catholic,20,472
+From: 14 Sep 2009,To: 14 Sep 2009,Congo,FY 2009,46,Christian,14,472
+From: 14 Sep 2009,To: 14 Sep 2009,Congo,FY 2009,46,Protestant,12,472
+From: 14 Sep 2009,To: 14 Sep 2009,Dem. Rep. Congo,FY 2009,5,Catholic,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Iraq,FY 2009,52,Catholic,6,472
+From: 14 Sep 2009,To: 14 Sep 2009,Iraq,FY 2009,52,Christian,6,472
+From: 14 Sep 2009,To: 14 Sep 2009,Iraq,FY 2009,52,Moslem Shiite,9,472
+From: 14 Sep 2009,To: 14 Sep 2009,Iraq,FY 2009,52,Moslem Suni,27,472
+From: 14 Sep 2009,To: 14 Sep 2009,Iraq,FY 2009,52,Sabeans-Mandean,4,472
+From: 14 Sep 2009,To: 14 Sep 2009,Liberia,FY 2009,60,Catholic,8,472
+From: 14 Sep 2009,To: 14 Sep 2009,Liberia,FY 2009,60,Christian,24,472
+From: 14 Sep 2009,To: 14 Sep 2009,Liberia,FY 2009,60,Lutheran,2,472
+From: 14 Sep 2009,To: 14 Sep 2009,Liberia,FY 2009,60,Moslem,23,472
+From: 14 Sep 2009,To: 14 Sep 2009,Liberia,FY 2009,60,Pentecostalist,3,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moldova,FY 2009,24,Baptist,14,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moldova,FY 2009,24,Jehovah Witness,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moldova,FY 2009,24,Pentecostalist,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Sierra Leone,FY 2009,6,Moslem,6,472
+From: 14 Sep 2009,To: 14 Sep 2009,Somalia,FY 2009,27,Moslem,27,472
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Sep 2009,To: 14 Sep 2009,Animist,FY 2009,17,Burma,17,472
+From: 14 Sep 2009,To: 14 Sep 2009,Baptist,FY 2009,14,Moldova,14,472
+From: 14 Sep 2009,To: 14 Sep 2009,Buddhist,FY 2009,32,Bhutan,9,472
+From: 14 Sep 2009,To: 14 Sep 2009,Buddhist,FY 2009,32,Burma,23,472
+From: 14 Sep 2009,To: 14 Sep 2009,Catholic,FY 2009,44,Burma,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Catholic,FY 2009,44,Congo,20,472
+From: 14 Sep 2009,To: 14 Sep 2009,Catholic,FY 2009,44,Dem. Rep. Congo,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Catholic,FY 2009,44,Iraq,6,472
+From: 14 Sep 2009,To: 14 Sep 2009,Catholic,FY 2009,44,Liberia,8,472
+From: 14 Sep 2009,To: 14 Sep 2009,Christian,FY 2009,143,Bhutan,8,472
+From: 14 Sep 2009,To: 14 Sep 2009,Christian,FY 2009,143,Burma,91,472
+From: 14 Sep 2009,To: 14 Sep 2009,Christian,FY 2009,143,Congo,14,472
+From: 14 Sep 2009,To: 14 Sep 2009,Christian,FY 2009,143,Iraq,6,472
+From: 14 Sep 2009,To: 14 Sep 2009,Christian,FY 2009,143,Liberia,24,472
+From: 14 Sep 2009,To: 14 Sep 2009,Hindu,FY 2009,85,Bhutan,85,472
+From: 14 Sep 2009,To: 14 Sep 2009,Jehovah Witness,FY 2009,5,Moldova,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Kirat,FY 2009,3,Bhutan,3,472
+From: 14 Sep 2009,To: 14 Sep 2009,Lutheran,FY 2009,2,Liberia,2,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moslem,FY 2009,67,Burma,11,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moslem,FY 2009,67,Liberia,23,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moslem,FY 2009,67,Sierra Leone,6,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moslem,FY 2009,67,Somalia,27,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moslem Shiite,FY 2009,9,Iraq,9,472
+From: 14 Sep 2009,To: 14 Sep 2009,Moslem Suni,FY 2009,27,Iraq,27,472
+From: 14 Sep 2009,To: 14 Sep 2009,Pentecostalist,FY 2009,8,Liberia,3,472
+From: 14 Sep 2009,To: 14 Sep 2009,Pentecostalist,FY 2009,8,Moldova,5,472
+From: 14 Sep 2009,To: 14 Sep 2009,Protestant,FY 2009,12,Congo,12,472
+From: 14 Sep 2009,To: 14 Sep 2009,Sabeans-Mandean,FY 2009,4,Iraq,4,472
+

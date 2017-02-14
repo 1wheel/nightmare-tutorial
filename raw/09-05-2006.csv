@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Sep 2006,To: 05 Sep 2006,Afghanistan,FY 2006,6,Moslem Suni,6,321
+From: 05 Sep 2006,To: 05 Sep 2006,Belarus,FY 2006,11,Jewish,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Belarus,FY 2006,11,Pentecostalist,10,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burma,FY 2006,32,Christian,32,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burundi,FY 2006,67,Catholic,23,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burundi,FY 2006,67,Christian,9,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burundi,FY 2006,67,Evangelical Christian,4,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burundi,FY 2006,67,Jehovah Witness,4,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burundi,FY 2006,67,Pentecostalist,22,321
+From: 05 Sep 2006,To: 05 Sep 2006,Burundi,FY 2006,67,Seventh Day Adventist,5,321
+From: 05 Sep 2006,To: 05 Sep 2006,Dem. Rep. Congo,FY 2006,1,Protestant,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Ethiopia,FY 2006,18,Christian,9,321
+From: 05 Sep 2006,To: 05 Sep 2006,Ethiopia,FY 2006,18,Moslem,9,321
+From: 05 Sep 2006,To: 05 Sep 2006,Iran,FY 2006,22,Christian,17,321
+From: 05 Sep 2006,To: 05 Sep 2006,Iran,FY 2006,22,Moslem,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Iran,FY 2006,22,Sabeans-Mandean,4,321
+From: 05 Sep 2006,To: 05 Sep 2006,Ivory Coast,FY 2006,1,Christian,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Liberia,FY 2006,1,Christian,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Nigeria,FY 2006,5,Christian,5,321
+From: 05 Sep 2006,To: 05 Sep 2006,Russia,FY 2006,2,Jewish,2,321
+From: 05 Sep 2006,To: 05 Sep 2006,Somalia,FY 2006,117,Moslem,117,321
+From: 05 Sep 2006,To: 05 Sep 2006,Sudan,FY 2006,8,Christian,8,321
+From: 05 Sep 2006,To: 05 Sep 2006,Ukraine,FY 2006,30,Baptist,5,321
+From: 05 Sep 2006,To: 05 Sep 2006,Ukraine,FY 2006,30,Jewish,2,321
+From: 05 Sep 2006,To: 05 Sep 2006,Ukraine,FY 2006,30,Pentecostalist,23,321
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Sep 2006,To: 05 Sep 2006,Baptist,FY 2006,5,Ukraine,5,321
+From: 05 Sep 2006,To: 05 Sep 2006,Catholic,FY 2006,23,Burundi,23,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Burma,32,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Burundi,9,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Ethiopia,9,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Iran,17,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Ivory Coast,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Liberia,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Nigeria,5,321
+From: 05 Sep 2006,To: 05 Sep 2006,Christian,FY 2006,82,Sudan,8,321
+From: 05 Sep 2006,To: 05 Sep 2006,Evangelical Christian,FY 2006,4,Burundi,4,321
+From: 05 Sep 2006,To: 05 Sep 2006,Jehovah Witness,FY 2006,4,Burundi,4,321
+From: 05 Sep 2006,To: 05 Sep 2006,Jewish,FY 2006,5,Belarus,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Jewish,FY 2006,5,Russia,2,321
+From: 05 Sep 2006,To: 05 Sep 2006,Jewish,FY 2006,5,Ukraine,2,321
+From: 05 Sep 2006,To: 05 Sep 2006,Moslem,FY 2006,127,Ethiopia,9,321
+From: 05 Sep 2006,To: 05 Sep 2006,Moslem,FY 2006,127,Iran,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Moslem,FY 2006,127,Somalia,117,321
+From: 05 Sep 2006,To: 05 Sep 2006,Moslem Suni,FY 2006,6,Afghanistan,6,321
+From: 05 Sep 2006,To: 05 Sep 2006,Pentecostalist,FY 2006,55,Belarus,10,321
+From: 05 Sep 2006,To: 05 Sep 2006,Pentecostalist,FY 2006,55,Burundi,22,321
+From: 05 Sep 2006,To: 05 Sep 2006,Pentecostalist,FY 2006,55,Ukraine,23,321
+From: 05 Sep 2006,To: 05 Sep 2006,Protestant,FY 2006,1,Dem. Rep. Congo,1,321
+From: 05 Sep 2006,To: 05 Sep 2006,Sabeans-Mandean,FY 2006,4,Iran,4,321
+From: 05 Sep 2006,To: 05 Sep 2006,Seventh Day Adventist,FY 2006,5,Burundi,5,321
+

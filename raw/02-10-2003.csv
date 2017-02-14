@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Feb 2003,To: 10 Feb 2003,Afghanistan,FY 2003,68,Moslem,27,80
+From: 10 Feb 2003,To: 10 Feb 2003,Afghanistan,FY 2003,68,Moslem Shiite,8,80
+From: 10 Feb 2003,To: 10 Feb 2003,Afghanistan,FY 2003,68,Moslem Suni,33,80
+From: 10 Feb 2003,To: 10 Feb 2003,Somalia,FY 2003,5,Moslem,5,80
+From: 10 Feb 2003,To: 10 Feb 2003,Sudan,FY 2003,5,Protestant,5,80
+From: 10 Feb 2003,To: 10 Feb 2003,Vietnam,FY 2003,2,Buddhist,2,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Feb 2003,To: 10 Feb 2003,Buddhist,FY 2003,2,Vietnam,2,80
+From: 10 Feb 2003,To: 10 Feb 2003,Moslem,FY 2003,32,Afghanistan,27,80
+From: 10 Feb 2003,To: 10 Feb 2003,Moslem,FY 2003,32,Somalia,5,80
+From: 10 Feb 2003,To: 10 Feb 2003,Moslem Shiite,FY 2003,8,Afghanistan,8,80
+From: 10 Feb 2003,To: 10 Feb 2003,Moslem Suni,FY 2003,33,Afghanistan,33,80
+From: 10 Feb 2003,To: 10 Feb 2003,Protestant,FY 2003,5,Sudan,5,80
+

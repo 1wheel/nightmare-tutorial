@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Feb 2012,To: 09 Feb 2012,Belarus,FY 2012,8,Pentecostalist,8,230
+From: 09 Feb 2012,To: 09 Feb 2012,Bhutan,FY 2012,100,Buddhist,16,230
+From: 09 Feb 2012,To: 09 Feb 2012,Bhutan,FY 2012,100,Christian,9,230
+From: 09 Feb 2012,To: 09 Feb 2012,Bhutan,FY 2012,100,Hindu,61,230
+From: 09 Feb 2012,To: 09 Feb 2012,Bhutan,FY 2012,100,Kirat,14,230
+From: 09 Feb 2012,To: 09 Feb 2012,Burma,FY 2012,56,Baptist,7,230
+From: 09 Feb 2012,To: 09 Feb 2012,Burma,FY 2012,56,Buddhist,5,230
+From: 09 Feb 2012,To: 09 Feb 2012,Burma,FY 2012,56,Catholic,5,230
+From: 09 Feb 2012,To: 09 Feb 2012,Burma,FY 2012,56,Christian,39,230
+From: 09 Feb 2012,To: 09 Feb 2012,China,FY 2012,2,Atheist,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,China,FY 2012,2,Other Religion,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Cuba,FY 2012,23,Catholic,6,230
+From: 09 Feb 2012,To: 09 Feb 2012,Cuba,FY 2012,23,Evangelical Christian,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Cuba,FY 2012,23,Jehovah Witness,11,230
+From: 09 Feb 2012,To: 09 Feb 2012,Cuba,FY 2012,23,No Religion,3,230
+From: 09 Feb 2012,To: 09 Feb 2012,Cuba,FY 2012,23,Pentecostalist,2,230
+From: 09 Feb 2012,To: 09 Feb 2012,Dem. Rep. Congo,FY 2012,5,Catholic,2,230
+From: 09 Feb 2012,To: 09 Feb 2012,Dem. Rep. Congo,FY 2012,5,Unknown,3,230
+From: 09 Feb 2012,To: 09 Feb 2012,Ethiopia,FY 2012,2,Orthodox,2,230
+From: 09 Feb 2012,To: 09 Feb 2012,Pakistan,FY 2012,1,Ahmadiyya,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Somalia,FY 2012,19,Moslem,19,230
+From: 09 Feb 2012,To: 09 Feb 2012,Sri Lanka (Ceylon),FY 2012,3,Catholic,3,230
+From: 09 Feb 2012,To: 09 Feb 2012,Sudan,FY 2012,6,Moslem,6,230
+From: 09 Feb 2012,To: 09 Feb 2012,Ukraine,FY 2012,4,Pentecostalist,4,230
+From: 09 Feb 2012,To: 09 Feb 2012,Vietnam,FY 2012,1,Protestant,1,230
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Feb 2012,To: 09 Feb 2012,Ahmadiyya,FY 2012,1,Pakistan,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Atheist,FY 2012,1,China,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Baptist,FY 2012,7,Burma,7,230
+From: 09 Feb 2012,To: 09 Feb 2012,Buddhist,FY 2012,21,Bhutan,16,230
+From: 09 Feb 2012,To: 09 Feb 2012,Buddhist,FY 2012,21,Burma,5,230
+From: 09 Feb 2012,To: 09 Feb 2012,Catholic,FY 2012,16,Burma,5,230
+From: 09 Feb 2012,To: 09 Feb 2012,Catholic,FY 2012,16,Cuba,6,230
+From: 09 Feb 2012,To: 09 Feb 2012,Catholic,FY 2012,16,Dem. Rep. Congo,2,230
+From: 09 Feb 2012,To: 09 Feb 2012,Catholic,FY 2012,16,Sri Lanka (Ceylon),3,230
+From: 09 Feb 2012,To: 09 Feb 2012,Christian,FY 2012,48,Bhutan,9,230
+From: 09 Feb 2012,To: 09 Feb 2012,Christian,FY 2012,48,Burma,39,230
+From: 09 Feb 2012,To: 09 Feb 2012,Evangelical Christian,FY 2012,1,Cuba,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Hindu,FY 2012,61,Bhutan,61,230
+From: 09 Feb 2012,To: 09 Feb 2012,Jehovah Witness,FY 2012,11,Cuba,11,230
+From: 09 Feb 2012,To: 09 Feb 2012,Kirat,FY 2012,14,Bhutan,14,230
+From: 09 Feb 2012,To: 09 Feb 2012,Moslem,FY 2012,25,Somalia,19,230
+From: 09 Feb 2012,To: 09 Feb 2012,Moslem,FY 2012,25,Sudan,6,230
+From: 09 Feb 2012,To: 09 Feb 2012,No Religion,FY 2012,3,Cuba,3,230
+From: 09 Feb 2012,To: 09 Feb 2012,Orthodox,FY 2012,2,Ethiopia,2,230
+From: 09 Feb 2012,To: 09 Feb 2012,Other Religion,FY 2012,1,China,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Pentecostalist,FY 2012,14,Belarus,8,230
+From: 09 Feb 2012,To: 09 Feb 2012,Pentecostalist,FY 2012,14,Cuba,2,230
+From: 09 Feb 2012,To: 09 Feb 2012,Pentecostalist,FY 2012,14,Ukraine,4,230
+From: 09 Feb 2012,To: 09 Feb 2012,Protestant,FY 2012,1,Vietnam,1,230
+From: 09 Feb 2012,To: 09 Feb 2012,Unknown,FY 2012,3,Dem. Rep. Congo,3,230
+

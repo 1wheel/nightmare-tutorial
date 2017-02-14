@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Nov 2010,To: 15 Nov 2010,Afghanistan,FY 2011,10,Moslem Shiite,4,420
+From: 15 Nov 2010,To: 15 Nov 2010,Afghanistan,FY 2011,10,Moslem Suni,6,420
+From: 15 Nov 2010,To: 15 Nov 2010,Bhutan,FY 2011,127,Buddhist,31,420
+From: 15 Nov 2010,To: 15 Nov 2010,Bhutan,FY 2011,127,Christian,6,420
+From: 15 Nov 2010,To: 15 Nov 2010,Bhutan,FY 2011,127,Hindu,83,420
+From: 15 Nov 2010,To: 15 Nov 2010,Bhutan,FY 2011,127,Kirat,7,420
+From: 15 Nov 2010,To: 15 Nov 2010,Burma,FY 2011,121,Baptist,18,420
+From: 15 Nov 2010,To: 15 Nov 2010,Burma,FY 2011,121,Buddhist,10,420
+From: 15 Nov 2010,To: 15 Nov 2010,Burma,FY 2011,121,Christian,90,420
+From: 15 Nov 2010,To: 15 Nov 2010,Burma,FY 2011,121,Methodist,2,420
+From: 15 Nov 2010,To: 15 Nov 2010,Burma,FY 2011,121,Moslem,1,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iran,FY 2011,3,No Religion,3,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iraq,FY 2011,150,Catholic,14,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iraq,FY 2011,150,Christian,44,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iraq,FY 2011,150,Moslem Shiite,25,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iraq,FY 2011,150,Moslem Suni,56,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iraq,FY 2011,150,Orthodox,3,420
+From: 15 Nov 2010,To: 15 Nov 2010,Iraq,FY 2011,150,Sabeans-Mandean,8,420
+From: 15 Nov 2010,To: 15 Nov 2010,Somalia,FY 2011,9,Moslem Suni,9,420
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Nov 2010,To: 15 Nov 2010,Baptist,FY 2011,18,Burma,18,420
+From: 15 Nov 2010,To: 15 Nov 2010,Buddhist,FY 2011,41,Bhutan,31,420
+From: 15 Nov 2010,To: 15 Nov 2010,Buddhist,FY 2011,41,Burma,10,420
+From: 15 Nov 2010,To: 15 Nov 2010,Catholic,FY 2011,14,Iraq,14,420
+From: 15 Nov 2010,To: 15 Nov 2010,Christian,FY 2011,140,Bhutan,6,420
+From: 15 Nov 2010,To: 15 Nov 2010,Christian,FY 2011,140,Burma,90,420
+From: 15 Nov 2010,To: 15 Nov 2010,Christian,FY 2011,140,Iraq,44,420
+From: 15 Nov 2010,To: 15 Nov 2010,Hindu,FY 2011,83,Bhutan,83,420
+From: 15 Nov 2010,To: 15 Nov 2010,Kirat,FY 2011,7,Bhutan,7,420
+From: 15 Nov 2010,To: 15 Nov 2010,Methodist,FY 2011,2,Burma,2,420
+From: 15 Nov 2010,To: 15 Nov 2010,Moslem,FY 2011,1,Burma,1,420
+From: 15 Nov 2010,To: 15 Nov 2010,Moslem Shiite,FY 2011,29,Afghanistan,4,420
+From: 15 Nov 2010,To: 15 Nov 2010,Moslem Shiite,FY 2011,29,Iraq,25,420
+From: 15 Nov 2010,To: 15 Nov 2010,Moslem Suni,FY 2011,71,Afghanistan,6,420
+From: 15 Nov 2010,To: 15 Nov 2010,Moslem Suni,FY 2011,71,Iraq,56,420
+From: 15 Nov 2010,To: 15 Nov 2010,Moslem Suni,FY 2011,71,Somalia,9,420
+From: 15 Nov 2010,To: 15 Nov 2010,No Religion,FY 2011,3,Iran,3,420
+From: 15 Nov 2010,To: 15 Nov 2010,Orthodox,FY 2011,3,Iraq,3,420
+From: 15 Nov 2010,To: 15 Nov 2010,Sabeans-Mandean,FY 2011,8,Iraq,8,420
+

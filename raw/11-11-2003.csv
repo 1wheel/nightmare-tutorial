@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Nov 2003,To: 11 Nov 2003,Afghanistan,FY 2004,24,Moslem,7,190
+From: 11 Nov 2003,To: 11 Nov 2003,Afghanistan,FY 2004,24,Moslem Shiite,14,190
+From: 11 Nov 2003,To: 11 Nov 2003,Afghanistan,FY 2004,24,Moslem Suni,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Azerbaijan,FY 2004,4,Unknown,4,190
+From: 11 Nov 2003,To: 11 Nov 2003,Belarus,FY 2004,34,Pentecostalist,34,190
+From: 11 Nov 2003,To: 11 Nov 2003,Bosnia and Herzegovina,FY 2004,4,Moslem,4,190
+From: 11 Nov 2003,To: 11 Nov 2003,Ethiopia,FY 2004,29,Christian,18,190
+From: 11 Nov 2003,To: 11 Nov 2003,Ethiopia,FY 2004,29,Moslem,11,190
+From: 11 Nov 2003,To: 11 Nov 2003,Russia,FY 2004,6,Baptist,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Russia,FY 2004,6,Jewish,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Rwanda,FY 2004,1,Catholic,1,190
+From: 11 Nov 2003,To: 11 Nov 2003,Somalia,FY 2004,18,Moslem,18,190
+From: 11 Nov 2003,To: 11 Nov 2003,Sudan,FY 2004,35,Catholic,7,190
+From: 11 Nov 2003,To: 11 Nov 2003,Sudan,FY 2004,35,Christian,6,190
+From: 11 Nov 2003,To: 11 Nov 2003,Sudan,FY 2004,35,Moslem,18,190
+From: 11 Nov 2003,To: 11 Nov 2003,Sudan,FY 2004,35,Protestant,4,190
+From: 11 Nov 2003,To: 11 Nov 2003,Ukraine,FY 2004,35,Baptist,5,190
+From: 11 Nov 2003,To: 11 Nov 2003,Ukraine,FY 2004,35,Jewish,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Ukraine,FY 2004,35,Pentecostalist,27,190
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Nov 2003,To: 11 Nov 2003,Baptist,FY 2004,8,Russia,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Baptist,FY 2004,8,Ukraine,5,190
+From: 11 Nov 2003,To: 11 Nov 2003,Catholic,FY 2004,8,Rwanda,1,190
+From: 11 Nov 2003,To: 11 Nov 2003,Catholic,FY 2004,8,Sudan,7,190
+From: 11 Nov 2003,To: 11 Nov 2003,Christian,FY 2004,24,Ethiopia,18,190
+From: 11 Nov 2003,To: 11 Nov 2003,Christian,FY 2004,24,Sudan,6,190
+From: 11 Nov 2003,To: 11 Nov 2003,Jewish,FY 2004,6,Russia,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Jewish,FY 2004,6,Ukraine,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem,FY 2004,58,Afghanistan,7,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem,FY 2004,58,Bosnia and Herzegovina,4,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem,FY 2004,58,Ethiopia,11,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem,FY 2004,58,Somalia,18,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem,FY 2004,58,Sudan,18,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem Shiite,FY 2004,14,Afghanistan,14,190
+From: 11 Nov 2003,To: 11 Nov 2003,Moslem Suni,FY 2004,3,Afghanistan,3,190
+From: 11 Nov 2003,To: 11 Nov 2003,Pentecostalist,FY 2004,61,Belarus,34,190
+From: 11 Nov 2003,To: 11 Nov 2003,Pentecostalist,FY 2004,61,Ukraine,27,190
+From: 11 Nov 2003,To: 11 Nov 2003,Protestant,FY 2004,4,Sudan,4,190
+From: 11 Nov 2003,To: 11 Nov 2003,Unknown,FY 2004,4,Azerbaijan,4,190
+

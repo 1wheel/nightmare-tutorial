@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 May 2016,To: 02 May 2016,Chad,FY 2016,1,Moslem,1,144
+From: 02 May 2016,To: 02 May 2016,Dem. Rep. Congo,FY 2016,56,Catholic,11,144
+From: 02 May 2016,To: 02 May 2016,Dem. Rep. Congo,FY 2016,56,Pentecostalist,2,144
+From: 02 May 2016,To: 02 May 2016,Dem. Rep. Congo,FY 2016,56,Protestant,2,144
+From: 02 May 2016,To: 02 May 2016,Dem. Rep. Congo,FY 2016,56,Seventh Day Adventist,41,144
+From: 02 May 2016,To: 02 May 2016,Eritrea,FY 2016,1,Orthodox,1,144
+From: 02 May 2016,To: 02 May 2016,Iran,FY 2016,17,Bahai,4,144
+From: 02 May 2016,To: 02 May 2016,Iran,FY 2016,17,Christian,5,144
+From: 02 May 2016,To: 02 May 2016,Iran,FY 2016,17,Sabeans-Mandean,6,144
+From: 02 May 2016,To: 02 May 2016,Iran,FY 2016,17,Zoroastrian,2,144
+From: 02 May 2016,To: 02 May 2016,Iraq,FY 2016,14,Catholic,5,144
+From: 02 May 2016,To: 02 May 2016,Iraq,FY 2016,14,Moslem Shiite,3,144
+From: 02 May 2016,To: 02 May 2016,Iraq,FY 2016,14,Sabeans-Mandean,6,144
+From: 02 May 2016,To: 02 May 2016,Rwanda,FY 2016,1,Christian,1,144
+From: 02 May 2016,To: 02 May 2016,Somalia,FY 2016,16,Moslem Suni,16,144
+From: 02 May 2016,To: 02 May 2016,Syria,FY 2016,38,Moslem Suni,38,144
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 May 2016,To: 02 May 2016,Bahai,FY 2016,4,Iran,4,144
+From: 02 May 2016,To: 02 May 2016,Catholic,FY 2016,16,Dem. Rep. Congo,11,144
+From: 02 May 2016,To: 02 May 2016,Catholic,FY 2016,16,Iraq,5,144
+From: 02 May 2016,To: 02 May 2016,Christian,FY 2016,6,Iran,5,144
+From: 02 May 2016,To: 02 May 2016,Christian,FY 2016,6,Rwanda,1,144
+From: 02 May 2016,To: 02 May 2016,Moslem,FY 2016,1,Chad,1,144
+From: 02 May 2016,To: 02 May 2016,Moslem Shiite,FY 2016,3,Iraq,3,144
+From: 02 May 2016,To: 02 May 2016,Moslem Suni,FY 2016,54,Somalia,16,144
+From: 02 May 2016,To: 02 May 2016,Moslem Suni,FY 2016,54,Syria,38,144
+From: 02 May 2016,To: 02 May 2016,Orthodox,FY 2016,1,Eritrea,1,144
+From: 02 May 2016,To: 02 May 2016,Pentecostalist,FY 2016,2,Dem. Rep. Congo,2,144
+From: 02 May 2016,To: 02 May 2016,Protestant,FY 2016,2,Dem. Rep. Congo,2,144
+From: 02 May 2016,To: 02 May 2016,Sabeans-Mandean,FY 2016,12,Iran,6,144
+From: 02 May 2016,To: 02 May 2016,Sabeans-Mandean,FY 2016,12,Iraq,6,144
+From: 02 May 2016,To: 02 May 2016,Seventh Day Adventist,FY 2016,41,Dem. Rep. Congo,41,144
+From: 02 May 2016,To: 02 May 2016,Zoroastrian,FY 2016,2,Iran,2,144
+

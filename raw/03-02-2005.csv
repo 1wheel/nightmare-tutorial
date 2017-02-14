@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Mar 2005,To: 02 Mar 2005,Afghanistan,FY 2005,7,Moslem Shiite,4,155
+From: 02 Mar 2005,To: 02 Mar 2005,Afghanistan,FY 2005,7,Moslem Suni,3,155
+From: 02 Mar 2005,To: 02 Mar 2005,Azerbaijan,FY 2005,3,Jewish,3,155
+From: 02 Mar 2005,To: 02 Mar 2005,Burma,FY 2005,38,Buddhist,27,155
+From: 02 Mar 2005,To: 02 Mar 2005,Burma,FY 2005,38,Protestant,11,155
+From: 02 Mar 2005,To: 02 Mar 2005,Dem. Rep. Congo,FY 2005,1,Christian,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Iran,FY 2005,20,Bahai,19,155
+From: 02 Mar 2005,To: 02 Mar 2005,Iran,FY 2005,20,Jewish,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Iraq,FY 2005,3,Moslem,3,155
+From: 02 Mar 2005,To: 02 Mar 2005,Liberia,FY 2005,35,Baptist,5,155
+From: 02 Mar 2005,To: 02 Mar 2005,Liberia,FY 2005,35,Christian,28,155
+From: 02 Mar 2005,To: 02 Mar 2005,Liberia,FY 2005,35,Lutheran,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Liberia,FY 2005,35,Pentecostalist,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Russia,FY 2005,35,Moslem,35,155
+From: 02 Mar 2005,To: 02 Mar 2005,Somalia,FY 2005,13,Moslem,13,155
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Mar 2005,To: 02 Mar 2005,Bahai,FY 2005,19,Iran,19,155
+From: 02 Mar 2005,To: 02 Mar 2005,Baptist,FY 2005,5,Liberia,5,155
+From: 02 Mar 2005,To: 02 Mar 2005,Buddhist,FY 2005,27,Burma,27,155
+From: 02 Mar 2005,To: 02 Mar 2005,Christian,FY 2005,29,Dem. Rep. Congo,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Christian,FY 2005,29,Liberia,28,155
+From: 02 Mar 2005,To: 02 Mar 2005,Jewish,FY 2005,4,Azerbaijan,3,155
+From: 02 Mar 2005,To: 02 Mar 2005,Jewish,FY 2005,4,Iran,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Lutheran,FY 2005,1,Liberia,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Moslem,FY 2005,51,Iraq,3,155
+From: 02 Mar 2005,To: 02 Mar 2005,Moslem,FY 2005,51,Russia,35,155
+From: 02 Mar 2005,To: 02 Mar 2005,Moslem,FY 2005,51,Somalia,13,155
+From: 02 Mar 2005,To: 02 Mar 2005,Moslem Shiite,FY 2005,4,Afghanistan,4,155
+From: 02 Mar 2005,To: 02 Mar 2005,Moslem Suni,FY 2005,3,Afghanistan,3,155
+From: 02 Mar 2005,To: 02 Mar 2005,Pentecostalist,FY 2005,1,Liberia,1,155
+From: 02 Mar 2005,To: 02 Mar 2005,Protestant,FY 2005,11,Burma,11,155
+

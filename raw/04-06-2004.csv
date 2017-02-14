@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Apr 2004,To: 06 Apr 2004,Afghanistan,FY 2004,1,Unknown,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,Burundi,FY 2004,10,Catholic,6,225
+From: 06 Apr 2004,To: 06 Apr 2004,Burundi,FY 2004,10,Christian,4,225
+From: 06 Apr 2004,To: 06 Apr 2004,Dem. Rep. Congo,FY 2004,8,Catholic,8,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ethiopia,FY 2004,19,Christian,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ethiopia,FY 2004,19,Moslem,11,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ethiopia,FY 2004,19,Orthodox,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ethiopia,FY 2004,19,Other Religion,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Iran,FY 2004,13,Christian,13,225
+From: 06 Apr 2004,To: 06 Apr 2004,Kyrgyzstan,FY 2004,2,Seventh Day Adventist,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Liberia,FY 2004,35,Baptist,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,Liberia,FY 2004,35,Catholic,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Liberia,FY 2004,35,Christian,23,225
+From: 06 Apr 2004,To: 06 Apr 2004,Liberia,FY 2004,35,Seventh Day Adventist,8,225
+From: 06 Apr 2004,To: 06 Apr 2004,Russia,FY 2004,7,Jewish,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Russia,FY 2004,7,No Religion,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Russia,FY 2004,7,Pentecostalist,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Rwanda,FY 2004,11,Catholic,7,225
+From: 06 Apr 2004,To: 06 Apr 2004,Rwanda,FY 2004,11,Methodist,4,225
+From: 06 Apr 2004,To: 06 Apr 2004,Somalia,FY 2004,80,Moslem,80,225
+From: 06 Apr 2004,To: 06 Apr 2004,Sudan,FY 2004,5,Catholic,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Sudan,FY 2004,5,Christian,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ukraine,FY 2004,34,Baptist,7,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ukraine,FY 2004,34,Jewish,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ukraine,FY 2004,34,Moslem,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ukraine,FY 2004,34,Pentecostalist,20,225
+From: 06 Apr 2004,To: 06 Apr 2004,Ukraine,FY 2004,34,Seventh Day Adventist,5,225
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Apr 2004,To: 06 Apr 2004,Baptist,FY 2004,8,Liberia,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,Baptist,FY 2004,8,Ukraine,7,225
+From: 06 Apr 2004,To: 06 Apr 2004,Catholic,FY 2004,27,Burundi,6,225
+From: 06 Apr 2004,To: 06 Apr 2004,Catholic,FY 2004,27,Dem. Rep. Congo,8,225
+From: 06 Apr 2004,To: 06 Apr 2004,Catholic,FY 2004,27,Liberia,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Catholic,FY 2004,27,Rwanda,7,225
+From: 06 Apr 2004,To: 06 Apr 2004,Catholic,FY 2004,27,Sudan,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Christian,FY 2004,45,Burundi,4,225
+From: 06 Apr 2004,To: 06 Apr 2004,Christian,FY 2004,45,Ethiopia,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Christian,FY 2004,45,Iran,13,225
+From: 06 Apr 2004,To: 06 Apr 2004,Christian,FY 2004,45,Liberia,23,225
+From: 06 Apr 2004,To: 06 Apr 2004,Christian,FY 2004,45,Sudan,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Jewish,FY 2004,4,Russia,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Jewish,FY 2004,4,Ukraine,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,Methodist,FY 2004,4,Rwanda,4,225
+From: 06 Apr 2004,To: 06 Apr 2004,Moslem,FY 2004,92,Ethiopia,11,225
+From: 06 Apr 2004,To: 06 Apr 2004,Moslem,FY 2004,92,Somalia,80,225
+From: 06 Apr 2004,To: 06 Apr 2004,Moslem,FY 2004,92,Ukraine,1,225
+From: 06 Apr 2004,To: 06 Apr 2004,No Religion,FY 2004,2,Russia,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Orthodox,FY 2004,3,Ethiopia,3,225
+From: 06 Apr 2004,To: 06 Apr 2004,Other Religion,FY 2004,2,Ethiopia,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Pentecostalist,FY 2004,22,Russia,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Pentecostalist,FY 2004,22,Ukraine,20,225
+From: 06 Apr 2004,To: 06 Apr 2004,Seventh Day Adventist,FY 2004,15,Kyrgyzstan,2,225
+From: 06 Apr 2004,To: 06 Apr 2004,Seventh Day Adventist,FY 2004,15,Liberia,8,225
+From: 06 Apr 2004,To: 06 Apr 2004,Seventh Day Adventist,FY 2004,15,Ukraine,5,225
+From: 06 Apr 2004,To: 06 Apr 2004,Unknown,FY 2004,1,Afghanistan,1,225
+

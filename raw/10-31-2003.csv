@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Oct 2003,To: 31 Oct 2003,Moldova,FY 2004,17,Baptist,7,87
+From: 31 Oct 2003,To: 31 Oct 2003,Moldova,FY 2004,17,Pentecostalist,10,87
+From: 31 Oct 2003,To: 31 Oct 2003,Russia,FY 2004,10,Baptist,10,87
+From: 31 Oct 2003,To: 31 Oct 2003,Ukraine,FY 2004,60,Baptist,19,87
+From: 31 Oct 2003,To: 31 Oct 2003,Ukraine,FY 2004,60,Pentecostalist,34,87
+From: 31 Oct 2003,To: 31 Oct 2003,Ukraine,FY 2004,60,Uniate,2,87
+From: 31 Oct 2003,To: 31 Oct 2003,Ukraine,FY 2004,60,Unknown,5,87
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Oct 2003,To: 31 Oct 2003,Baptist,FY 2004,36,Moldova,7,87
+From: 31 Oct 2003,To: 31 Oct 2003,Baptist,FY 2004,36,Russia,10,87
+From: 31 Oct 2003,To: 31 Oct 2003,Baptist,FY 2004,36,Ukraine,19,87
+From: 31 Oct 2003,To: 31 Oct 2003,Pentecostalist,FY 2004,44,Moldova,10,87
+From: 31 Oct 2003,To: 31 Oct 2003,Pentecostalist,FY 2004,44,Ukraine,34,87
+From: 31 Oct 2003,To: 31 Oct 2003,Uniate,FY 2004,2,Ukraine,2,87
+From: 31 Oct 2003,To: 31 Oct 2003,Unknown,FY 2004,5,Ukraine,5,87
+

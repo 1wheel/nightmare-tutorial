@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Dec 2014,To: 08 Dec 2014,Bhutan,FY 2015,39,Buddhist,13,281
+From: 08 Dec 2014,To: 08 Dec 2014,Bhutan,FY 2015,39,Christian,7,281
+From: 08 Dec 2014,To: 08 Dec 2014,Bhutan,FY 2015,39,Hindu,12,281
+From: 08 Dec 2014,To: 08 Dec 2014,Bhutan,FY 2015,39,Kirat,7,281
+From: 08 Dec 2014,To: 08 Dec 2014,Burma,FY 2015,90,Buddhist,10,281
+From: 08 Dec 2014,To: 08 Dec 2014,Burma,FY 2015,90,Christian,53,281
+From: 08 Dec 2014,To: 08 Dec 2014,Burma,FY 2015,90,Moslem,27,281
+From: 08 Dec 2014,To: 08 Dec 2014,Central African Republic,FY 2015,1,Christian,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,China,FY 2015,1,Other Religion,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Dem. Rep. Congo,FY 2015,18,Seventh Day Adventist,18,281
+From: 08 Dec 2014,To: 08 Dec 2014,Iraq,FY 2015,80,Christian,7,281
+From: 08 Dec 2014,To: 08 Dec 2014,Iraq,FY 2015,80,Moslem Shiite,46,281
+From: 08 Dec 2014,To: 08 Dec 2014,Iraq,FY 2015,80,Moslem Suni,26,281
+From: 08 Dec 2014,To: 08 Dec 2014,Iraq,FY 2015,80,Orthodox,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Somalia,FY 2015,29,Moslem,29,281
+From: 08 Dec 2014,To: 08 Dec 2014,Syria,FY 2015,23,Christian,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Syria,FY 2015,23,Moslem,6,281
+From: 08 Dec 2014,To: 08 Dec 2014,Syria,FY 2015,23,Moslem Suni,16,281
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Dec 2014,To: 08 Dec 2014,Buddhist,FY 2015,23,Bhutan,13,281
+From: 08 Dec 2014,To: 08 Dec 2014,Buddhist,FY 2015,23,Burma,10,281
+From: 08 Dec 2014,To: 08 Dec 2014,Christian,FY 2015,69,Bhutan,7,281
+From: 08 Dec 2014,To: 08 Dec 2014,Christian,FY 2015,69,Burma,53,281
+From: 08 Dec 2014,To: 08 Dec 2014,Christian,FY 2015,69,Central African Republic,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Christian,FY 2015,69,Iraq,7,281
+From: 08 Dec 2014,To: 08 Dec 2014,Christian,FY 2015,69,Syria,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Hindu,FY 2015,12,Bhutan,12,281
+From: 08 Dec 2014,To: 08 Dec 2014,Kirat,FY 2015,7,Bhutan,7,281
+From: 08 Dec 2014,To: 08 Dec 2014,Moslem,FY 2015,62,Burma,27,281
+From: 08 Dec 2014,To: 08 Dec 2014,Moslem,FY 2015,62,Somalia,29,281
+From: 08 Dec 2014,To: 08 Dec 2014,Moslem,FY 2015,62,Syria,6,281
+From: 08 Dec 2014,To: 08 Dec 2014,Moslem Shiite,FY 2015,46,Iraq,46,281
+From: 08 Dec 2014,To: 08 Dec 2014,Moslem Suni,FY 2015,42,Iraq,26,281
+From: 08 Dec 2014,To: 08 Dec 2014,Moslem Suni,FY 2015,42,Syria,16,281
+From: 08 Dec 2014,To: 08 Dec 2014,Orthodox,FY 2015,1,Iraq,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Other Religion,FY 2015,1,China,1,281
+From: 08 Dec 2014,To: 08 Dec 2014,Seventh Day Adventist,FY 2015,18,Dem. Rep. Congo,18,281
+

@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2004,To: 28 Jun 2004,Ethiopia,FY 2004,14,Moslem,14,137
+From: 28 Jun 2004,To: 28 Jun 2004,Kazakhstan,FY 2004,12,Baptist,8,137
+From: 28 Jun 2004,To: 28 Jun 2004,Kazakhstan,FY 2004,12,Pentecostalist,4,137
+From: 28 Jun 2004,To: 28 Jun 2004,Laos,FY 2004,31,Ancestral Worship,31,137
+From: 28 Jun 2004,To: 28 Jun 2004,Moldova,FY 2004,33,Baptist,29,137
+From: 28 Jun 2004,To: 28 Jun 2004,Moldova,FY 2004,33,Pentecostalist,4,137
+From: 28 Jun 2004,To: 28 Jun 2004,Somalia,FY 2004,42,Moslem,42,137
+From: 28 Jun 2004,To: 28 Jun 2004,Sudan,FY 2004,3,Christian,3,137
+From: 28 Jun 2004,To: 28 Jun 2004,Uzbekistan,FY 2004,2,Jewish,2,137
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2004,To: 28 Jun 2004,Ancestral Worship,FY 2004,31,Laos,31,137
+From: 28 Jun 2004,To: 28 Jun 2004,Baptist,FY 2004,37,Kazakhstan,8,137
+From: 28 Jun 2004,To: 28 Jun 2004,Baptist,FY 2004,37,Moldova,29,137
+From: 28 Jun 2004,To: 28 Jun 2004,Christian,FY 2004,3,Sudan,3,137
+From: 28 Jun 2004,To: 28 Jun 2004,Jewish,FY 2004,2,Uzbekistan,2,137
+From: 28 Jun 2004,To: 28 Jun 2004,Moslem,FY 2004,56,Ethiopia,14,137
+From: 28 Jun 2004,To: 28 Jun 2004,Moslem,FY 2004,56,Somalia,42,137
+From: 28 Jun 2004,To: 28 Jun 2004,Pentecostalist,FY 2004,8,Kazakhstan,4,137
+From: 28 Jun 2004,To: 28 Jun 2004,Pentecostalist,FY 2004,8,Moldova,4,137
+

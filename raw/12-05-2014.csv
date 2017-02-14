@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Dec 2014,To: 05 Dec 2014,Dem. Rep. Congo,FY 2015,2,Protestant,2,34
+From: 05 Dec 2014,To: 05 Dec 2014,Iraq,FY 2015,28,Catholic,4,34
+From: 05 Dec 2014,To: 05 Dec 2014,Iraq,FY 2015,28,Moslem Suni,17,34
+From: 05 Dec 2014,To: 05 Dec 2014,Iraq,FY 2015,28,Yazidi,7,34
+From: 05 Dec 2014,To: 05 Dec 2014,Somalia,FY 2015,4,Moslem,4,34
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Dec 2014,To: 05 Dec 2014,Catholic,FY 2015,4,Iraq,4,34
+From: 05 Dec 2014,To: 05 Dec 2014,Moslem,FY 2015,4,Somalia,4,34
+From: 05 Dec 2014,To: 05 Dec 2014,Moslem Suni,FY 2015,17,Iraq,17,34
+From: 05 Dec 2014,To: 05 Dec 2014,Protestant,FY 2015,2,Dem. Rep. Congo,2,34
+From: 05 Dec 2014,To: 05 Dec 2014,Yazidi,FY 2015,7,Iraq,7,34
+

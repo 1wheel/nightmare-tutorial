@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Feb 2006,To: 23 Feb 2006,Cuba,FY 2006,33,Catholic,13,210
+From: 23 Feb 2006,To: 23 Feb 2006,Cuba,FY 2006,33,Jehovah Witness,7,210
+From: 23 Feb 2006,To: 23 Feb 2006,Cuba,FY 2006,33,No Religion,11,210
+From: 23 Feb 2006,To: 23 Feb 2006,Cuba,FY 2006,33,Pentecostalist,2,210
+From: 23 Feb 2006,To: 23 Feb 2006,Eritrea,FY 2006,9,Catholic,4,210
+From: 23 Feb 2006,To: 23 Feb 2006,Eritrea,FY 2006,9,Christian,4,210
+From: 23 Feb 2006,To: 23 Feb 2006,Eritrea,FY 2006,9,Moslem,1,210
+From: 23 Feb 2006,To: 23 Feb 2006,Ethiopia,FY 2006,42,Christian,1,210
+From: 23 Feb 2006,To: 23 Feb 2006,Ethiopia,FY 2006,42,Moslem,26,210
+From: 23 Feb 2006,To: 23 Feb 2006,Ethiopia,FY 2006,42,Orthodox,15,210
+From: 23 Feb 2006,To: 23 Feb 2006,Liberia,FY 2006,5,Christian,5,210
+From: 23 Feb 2006,To: 23 Feb 2006,Russia,FY 2006,31,Moslem,31,210
+From: 23 Feb 2006,To: 23 Feb 2006,Sierra Leone,FY 2006,1,Christian,1,210
+From: 23 Feb 2006,To: 23 Feb 2006,Somalia,FY 2006,54,Moslem,54,210
+From: 23 Feb 2006,To: 23 Feb 2006,Vietnam,FY 2006,35,Buddhist,27,210
+From: 23 Feb 2006,To: 23 Feb 2006,Vietnam,FY 2006,35,Catholic,8,210
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Feb 2006,To: 23 Feb 2006,Buddhist,FY 2006,27,Vietnam,27,210
+From: 23 Feb 2006,To: 23 Feb 2006,Catholic,FY 2006,25,Cuba,13,210
+From: 23 Feb 2006,To: 23 Feb 2006,Catholic,FY 2006,25,Eritrea,4,210
+From: 23 Feb 2006,To: 23 Feb 2006,Catholic,FY 2006,25,Vietnam,8,210
+From: 23 Feb 2006,To: 23 Feb 2006,Christian,FY 2006,11,Eritrea,4,210
+From: 23 Feb 2006,To: 23 Feb 2006,Christian,FY 2006,11,Ethiopia,1,210
+From: 23 Feb 2006,To: 23 Feb 2006,Christian,FY 2006,11,Liberia,5,210
+From: 23 Feb 2006,To: 23 Feb 2006,Christian,FY 2006,11,Sierra Leone,1,210
+From: 23 Feb 2006,To: 23 Feb 2006,Jehovah Witness,FY 2006,7,Cuba,7,210
+From: 23 Feb 2006,To: 23 Feb 2006,Moslem,FY 2006,112,Eritrea,1,210
+From: 23 Feb 2006,To: 23 Feb 2006,Moslem,FY 2006,112,Ethiopia,26,210
+From: 23 Feb 2006,To: 23 Feb 2006,Moslem,FY 2006,112,Russia,31,210
+From: 23 Feb 2006,To: 23 Feb 2006,Moslem,FY 2006,112,Somalia,54,210
+From: 23 Feb 2006,To: 23 Feb 2006,No Religion,FY 2006,11,Cuba,11,210
+From: 23 Feb 2006,To: 23 Feb 2006,Orthodox,FY 2006,15,Ethiopia,15,210
+From: 23 Feb 2006,To: 23 Feb 2006,Pentecostalist,FY 2006,2,Cuba,2,210
+

@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jan 2005,To: 24 Jan 2005,Armenia,FY 2005,8,Pentecostalist,8,176
+From: 24 Jan 2005,To: 24 Jan 2005,Ethiopia,FY 2005,4,Moslem,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Iran,FY 2005,33,Bahai,29,176
+From: 24 Jan 2005,To: 24 Jan 2005,Iran,FY 2005,33,Moslem,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Liberia,FY 2005,23,Christian,13,176
+From: 24 Jan 2005,To: 24 Jan 2005,Liberia,FY 2005,23,Moslem,10,176
+From: 24 Jan 2005,To: 24 Jan 2005,Sierra Leone,FY 2005,12,Catholic,1,176
+From: 24 Jan 2005,To: 24 Jan 2005,Sierra Leone,FY 2005,12,Christian,3,176
+From: 24 Jan 2005,To: 24 Jan 2005,Sierra Leone,FY 2005,12,Moslem,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Sierra Leone,FY 2005,12,Protestant,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Somalia,FY 2005,63,Moslem,63,176
+From: 24 Jan 2005,To: 24 Jan 2005,Sudan,FY 2005,4,Christian,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Ukraine,FY 2005,29,Jewish,5,176
+From: 24 Jan 2005,To: 24 Jan 2005,Ukraine,FY 2005,29,Pentecostalist,24,176
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jan 2005,To: 24 Jan 2005,Bahai,FY 2005,29,Iran,29,176
+From: 24 Jan 2005,To: 24 Jan 2005,Catholic,FY 2005,1,Sierra Leone,1,176
+From: 24 Jan 2005,To: 24 Jan 2005,Christian,FY 2005,20,Liberia,13,176
+From: 24 Jan 2005,To: 24 Jan 2005,Christian,FY 2005,20,Sierra Leone,3,176
+From: 24 Jan 2005,To: 24 Jan 2005,Christian,FY 2005,20,Sudan,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Jewish,FY 2005,5,Ukraine,5,176
+From: 24 Jan 2005,To: 24 Jan 2005,Moslem,FY 2005,85,Ethiopia,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Moslem,FY 2005,85,Iran,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Moslem,FY 2005,85,Liberia,10,176
+From: 24 Jan 2005,To: 24 Jan 2005,Moslem,FY 2005,85,Sierra Leone,4,176
+From: 24 Jan 2005,To: 24 Jan 2005,Moslem,FY 2005,85,Somalia,63,176
+From: 24 Jan 2005,To: 24 Jan 2005,Pentecostalist,FY 2005,32,Armenia,8,176
+From: 24 Jan 2005,To: 24 Jan 2005,Pentecostalist,FY 2005,32,Ukraine,24,176
+From: 24 Jan 2005,To: 24 Jan 2005,Protestant,FY 2005,4,Sierra Leone,4,176
+

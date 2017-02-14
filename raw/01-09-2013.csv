@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Jan 2013,To: 09 Jan 2013,Bhutan,FY 2013,32,Christian,6,191
+From: 09 Jan 2013,To: 09 Jan 2013,Bhutan,FY 2013,32,Hindu,20,191
+From: 09 Jan 2013,To: 09 Jan 2013,Bhutan,FY 2013,32,Kirat,6,191
+From: 09 Jan 2013,To: 09 Jan 2013,Burma,FY 2013,77,Baptist,16,191
+From: 09 Jan 2013,To: 09 Jan 2013,Burma,FY 2013,77,Buddhist,12,191
+From: 09 Jan 2013,To: 09 Jan 2013,Burma,FY 2013,77,Christian,46,191
+From: 09 Jan 2013,To: 09 Jan 2013,Burma,FY 2013,77,Moslem,3,191
+From: 09 Jan 2013,To: 09 Jan 2013,Dem. Rep. Congo,FY 2013,12,Baptist,8,191
+From: 09 Jan 2013,To: 09 Jan 2013,Dem. Rep. Congo,FY 2013,12,Catholic,2,191
+From: 09 Jan 2013,To: 09 Jan 2013,Dem. Rep. Congo,FY 2013,12,Protestant,2,191
+From: 09 Jan 2013,To: 09 Jan 2013,Eritrea,FY 2013,9,Moslem,2,191
+From: 09 Jan 2013,To: 09 Jan 2013,Eritrea,FY 2013,9,Orthodox,7,191
+From: 09 Jan 2013,To: 09 Jan 2013,Iran,FY 2013,1,Moslem Shiite,1,191
+From: 09 Jan 2013,To: 09 Jan 2013,Iraq,FY 2013,37,Catholic,17,191
+From: 09 Jan 2013,To: 09 Jan 2013,Iraq,FY 2013,37,Christian,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Iraq,FY 2013,37,Kaaka'i,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Iraq,FY 2013,37,Moslem Shiite,8,191
+From: 09 Jan 2013,To: 09 Jan 2013,Iraq,FY 2013,37,Moslem Suni,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Pakistan,FY 2013,4,Ahmadiyya,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Somalia,FY 2013,19,Moslem,19,191
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Jan 2013,To: 09 Jan 2013,Ahmadiyya,FY 2013,4,Pakistan,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Baptist,FY 2013,24,Burma,16,191
+From: 09 Jan 2013,To: 09 Jan 2013,Baptist,FY 2013,24,Dem. Rep. Congo,8,191
+From: 09 Jan 2013,To: 09 Jan 2013,Buddhist,FY 2013,12,Burma,12,191
+From: 09 Jan 2013,To: 09 Jan 2013,Catholic,FY 2013,19,Dem. Rep. Congo,2,191
+From: 09 Jan 2013,To: 09 Jan 2013,Catholic,FY 2013,19,Iraq,17,191
+From: 09 Jan 2013,To: 09 Jan 2013,Christian,FY 2013,56,Bhutan,6,191
+From: 09 Jan 2013,To: 09 Jan 2013,Christian,FY 2013,56,Burma,46,191
+From: 09 Jan 2013,To: 09 Jan 2013,Christian,FY 2013,56,Iraq,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Hindu,FY 2013,20,Bhutan,20,191
+From: 09 Jan 2013,To: 09 Jan 2013,Kaaka'i,FY 2013,4,Iraq,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Kirat,FY 2013,6,Bhutan,6,191
+From: 09 Jan 2013,To: 09 Jan 2013,Moslem,FY 2013,24,Burma,3,191
+From: 09 Jan 2013,To: 09 Jan 2013,Moslem,FY 2013,24,Eritrea,2,191
+From: 09 Jan 2013,To: 09 Jan 2013,Moslem,FY 2013,24,Somalia,19,191
+From: 09 Jan 2013,To: 09 Jan 2013,Moslem Shiite,FY 2013,9,Iran,1,191
+From: 09 Jan 2013,To: 09 Jan 2013,Moslem Shiite,FY 2013,9,Iraq,8,191
+From: 09 Jan 2013,To: 09 Jan 2013,Moslem Suni,FY 2013,4,Iraq,4,191
+From: 09 Jan 2013,To: 09 Jan 2013,Orthodox,FY 2013,7,Eritrea,7,191
+From: 09 Jan 2013,To: 09 Jan 2013,Protestant,FY 2013,2,Dem. Rep. Congo,2,191
+

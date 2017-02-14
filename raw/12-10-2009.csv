@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Dec 2009,To: 10 Dec 2009,Belarus,FY 2010,21,Jewish,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,Belarus,FY 2010,21,Pentecostalist,19,514
+From: 10 Dec 2009,To: 10 Dec 2009,Bhutan,FY 2010,88,Buddhist,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Bhutan,FY 2010,88,Christian,5,514
+From: 10 Dec 2009,To: 10 Dec 2009,Bhutan,FY 2010,88,Hindu,69,514
+From: 10 Dec 2009,To: 10 Dec 2009,Bhutan,FY 2010,88,Kirat,3,514
+From: 10 Dec 2009,To: 10 Dec 2009,Burma,FY 2010,101,Animist,5,514
+From: 10 Dec 2009,To: 10 Dec 2009,Burma,FY 2010,101,Baptist,6,514
+From: 10 Dec 2009,To: 10 Dec 2009,Burma,FY 2010,101,Buddhist,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Burma,FY 2010,101,Catholic,15,514
+From: 10 Dec 2009,To: 10 Dec 2009,Burma,FY 2010,101,Christian,62,514
+From: 10 Dec 2009,To: 10 Dec 2009,Burma,FY 2010,101,Methodist,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,Cuba,FY 2010,66,Catholic,33,514
+From: 10 Dec 2009,To: 10 Dec 2009,Cuba,FY 2010,66,Evangelical Christian,6,514
+From: 10 Dec 2009,To: 10 Dec 2009,Cuba,FY 2010,66,Jehovah Witness,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Cuba,FY 2010,66,No Religion,16,514
+From: 10 Dec 2009,To: 10 Dec 2009,Eritrea,FY 2010,38,Catholic,9,514
+From: 10 Dec 2009,To: 10 Dec 2009,Eritrea,FY 2010,38,Christian,3,514
+From: 10 Dec 2009,To: 10 Dec 2009,Eritrea,FY 2010,38,Moslem,6,514
+From: 10 Dec 2009,To: 10 Dec 2009,Eritrea,FY 2010,38,Orthodox,19,514
+From: 10 Dec 2009,To: 10 Dec 2009,Eritrea,FY 2010,38,Pentecostalist,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Ethiopia,FY 2010,2,Orthodox,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Ethiopia,FY 2010,2,Other Religion,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iran,FY 2010,7,Bahai,5,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iran,FY 2010,7,Jewish,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iraq,FY 2010,114,Catholic,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iraq,FY 2010,114,Christian,28,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iraq,FY 2010,114,Moslem,4,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iraq,FY 2010,114,Moslem Shiite,30,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iraq,FY 2010,114,Moslem Suni,40,514
+From: 10 Dec 2009,To: 10 Dec 2009,Iraq,FY 2010,114,Yazidi,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Palestine,FY 2010,14,Moslem Suni,14,514
+From: 10 Dec 2009,To: 10 Dec 2009,Somalia,FY 2010,61,Moslem,60,514
+From: 10 Dec 2009,To: 10 Dec 2009,Somalia,FY 2010,61,Unknown,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Sudan,FY 2010,2,Moslem Suni,2,514
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Dec 2009,To: 10 Dec 2009,Animist,FY 2010,5,Burma,5,514
+From: 10 Dec 2009,To: 10 Dec 2009,Bahai,FY 2010,5,Iran,5,514
+From: 10 Dec 2009,To: 10 Dec 2009,Baptist,FY 2010,6,Burma,6,514
+From: 10 Dec 2009,To: 10 Dec 2009,Buddhist,FY 2010,22,Bhutan,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Buddhist,FY 2010,22,Burma,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Catholic,FY 2010,68,Burma,15,514
+From: 10 Dec 2009,To: 10 Dec 2009,Catholic,FY 2010,68,Cuba,33,514
+From: 10 Dec 2009,To: 10 Dec 2009,Catholic,FY 2010,68,Eritrea,9,514
+From: 10 Dec 2009,To: 10 Dec 2009,Catholic,FY 2010,68,Iraq,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Christian,FY 2010,98,Bhutan,5,514
+From: 10 Dec 2009,To: 10 Dec 2009,Christian,FY 2010,98,Burma,62,514
+From: 10 Dec 2009,To: 10 Dec 2009,Christian,FY 2010,98,Eritrea,3,514
+From: 10 Dec 2009,To: 10 Dec 2009,Christian,FY 2010,98,Iraq,28,514
+From: 10 Dec 2009,To: 10 Dec 2009,Evangelical Christian,FY 2010,6,Cuba,6,514
+From: 10 Dec 2009,To: 10 Dec 2009,Hindu,FY 2010,69,Bhutan,69,514
+From: 10 Dec 2009,To: 10 Dec 2009,Jehovah Witness,FY 2010,11,Cuba,11,514
+From: 10 Dec 2009,To: 10 Dec 2009,Jewish,FY 2010,4,Belarus,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,Jewish,FY 2010,4,Iran,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,Kirat,FY 2010,3,Bhutan,3,514
+From: 10 Dec 2009,To: 10 Dec 2009,Methodist,FY 2010,2,Burma,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem,FY 2010,70,Eritrea,6,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem,FY 2010,70,Iraq,4,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem,FY 2010,70,Somalia,60,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem Shiite,FY 2010,30,Iraq,30,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem Suni,FY 2010,56,Iraq,40,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem Suni,FY 2010,56,Palestine,14,514
+From: 10 Dec 2009,To: 10 Dec 2009,Moslem Suni,FY 2010,56,Sudan,2,514
+From: 10 Dec 2009,To: 10 Dec 2009,No Religion,FY 2010,16,Cuba,16,514
+From: 10 Dec 2009,To: 10 Dec 2009,Orthodox,FY 2010,20,Eritrea,19,514
+From: 10 Dec 2009,To: 10 Dec 2009,Orthodox,FY 2010,20,Ethiopia,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Other Religion,FY 2010,1,Ethiopia,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Pentecostalist,FY 2010,20,Belarus,19,514
+From: 10 Dec 2009,To: 10 Dec 2009,Pentecostalist,FY 2010,20,Eritrea,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Unknown,FY 2010,1,Somalia,1,514
+From: 10 Dec 2009,To: 10 Dec 2009,Yazidi,FY 2010,1,Iraq,1,514
+

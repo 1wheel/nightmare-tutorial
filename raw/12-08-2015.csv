@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Dec 2015,To: 08 Dec 2015,Afghanistan,FY 2016,7,Moslem,7,305
+From: 08 Dec 2015,To: 08 Dec 2015,Bhutan,FY 2016,88,Buddhist,32,305
+From: 08 Dec 2015,To: 08 Dec 2015,Bhutan,FY 2016,88,Christian,21,305
+From: 08 Dec 2015,To: 08 Dec 2015,Bhutan,FY 2016,88,Hindu,26,305
+From: 08 Dec 2015,To: 08 Dec 2015,Bhutan,FY 2016,88,Kirat,9,305
+From: 08 Dec 2015,To: 08 Dec 2015,Burma,FY 2016,66,Buddhist,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Burma,FY 2016,66,Christian,42,305
+From: 08 Dec 2015,To: 08 Dec 2015,Burma,FY 2016,66,Methodist,4,305
+From: 08 Dec 2015,To: 08 Dec 2015,Burma,FY 2016,66,Moslem,19,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iran,FY 2016,38,Bahai,3,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iran,FY 2016,38,Christian,22,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iran,FY 2016,38,Jewish,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iran,FY 2016,38,Sabeans-Mandean,3,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iran,FY 2016,38,Zoroastrian,9,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iraq,FY 2016,53,Catholic,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iraq,FY 2016,53,Moslem,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iraq,FY 2016,53,Moslem Shiite,27,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iraq,FY 2016,53,Moslem Suni,22,305
+From: 08 Dec 2015,To: 08 Dec 2015,Iraq,FY 2016,53,Orthodox,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Somalia,FY 2016,21,Moslem,19,305
+From: 08 Dec 2015,To: 08 Dec 2015,Somalia,FY 2016,21,Moslem Suni,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,Ukraine,FY 2016,30,Baptist,9,305
+From: 08 Dec 2015,To: 08 Dec 2015,Ukraine,FY 2016,30,No Religion,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,Ukraine,FY 2016,30,Pentecostalist,19,305
+From: 08 Dec 2015,To: 08 Dec 2015,Vietnam,FY 2016,2,Unknown,2,305
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Dec 2015,To: 08 Dec 2015,Bahai,FY 2016,3,Iran,3,305
+From: 08 Dec 2015,To: 08 Dec 2015,Baptist,FY 2016,9,Ukraine,9,305
+From: 08 Dec 2015,To: 08 Dec 2015,Buddhist,FY 2016,33,Bhutan,32,305
+From: 08 Dec 2015,To: 08 Dec 2015,Buddhist,FY 2016,33,Burma,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Catholic,FY 2016,2,Iraq,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,Christian,FY 2016,85,Bhutan,21,305
+From: 08 Dec 2015,To: 08 Dec 2015,Christian,FY 2016,85,Burma,42,305
+From: 08 Dec 2015,To: 08 Dec 2015,Christian,FY 2016,85,Iran,22,305
+From: 08 Dec 2015,To: 08 Dec 2015,Hindu,FY 2016,26,Bhutan,26,305
+From: 08 Dec 2015,To: 08 Dec 2015,Jewish,FY 2016,1,Iran,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Kirat,FY 2016,9,Bhutan,9,305
+From: 08 Dec 2015,To: 08 Dec 2015,Methodist,FY 2016,4,Burma,4,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem,FY 2016,46,Afghanistan,7,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem,FY 2016,46,Burma,19,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem,FY 2016,46,Iraq,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem,FY 2016,46,Somalia,19,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem Shiite,FY 2016,27,Iraq,27,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem Suni,FY 2016,24,Iraq,22,305
+From: 08 Dec 2015,To: 08 Dec 2015,Moslem Suni,FY 2016,24,Somalia,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,No Religion,FY 2016,2,Ukraine,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,Orthodox,FY 2016,1,Iraq,1,305
+From: 08 Dec 2015,To: 08 Dec 2015,Pentecostalist,FY 2016,19,Ukraine,19,305
+From: 08 Dec 2015,To: 08 Dec 2015,Sabeans-Mandean,FY 2016,3,Iran,3,305
+From: 08 Dec 2015,To: 08 Dec 2015,Unknown,FY 2016,2,Vietnam,2,305
+From: 08 Dec 2015,To: 08 Dec 2015,Zoroastrian,FY 2016,9,Iran,9,305
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Mar 2004,To: 24 Mar 2004,Afghanistan,FY 2004,11,Moslem Suni,11,385
+From: 24 Mar 2004,To: 24 Mar 2004,Azerbaijan,FY 2004,19,Unknown,19,385
+From: 24 Mar 2004,To: 24 Mar 2004,Cuba,FY 2004,33,Catholic,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Cuba,FY 2004,33,Evangelical Christian,2,385
+From: 24 Mar 2004,To: 24 Mar 2004,Cuba,FY 2004,33,Jehovah Witness,11,385
+From: 24 Mar 2004,To: 24 Mar 2004,Cuba,FY 2004,33,No Religion,13,385
+From: 24 Mar 2004,To: 24 Mar 2004,Cuba,FY 2004,33,Seventh Day Adventist,3,385
+From: 24 Mar 2004,To: 24 Mar 2004,Dem. Rep. Congo,FY 2004,22,Christian,18,385
+From: 24 Mar 2004,To: 24 Mar 2004,Dem. Rep. Congo,FY 2004,22,Protestant,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Ethiopia,FY 2004,5,Christian,1,385
+From: 24 Mar 2004,To: 24 Mar 2004,Ethiopia,FY 2004,5,Orthodox,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Iran,FY 2004,17,Bahai,9,385
+From: 24 Mar 2004,To: 24 Mar 2004,Iran,FY 2004,17,Christian,8,385
+From: 24 Mar 2004,To: 24 Mar 2004,Liberia,FY 2004,7,Christian,5,385
+From: 24 Mar 2004,To: 24 Mar 2004,Liberia,FY 2004,7,Moslem,2,385
+From: 24 Mar 2004,To: 24 Mar 2004,Sierra Leone,FY 2004,15,Christian,7,385
+From: 24 Mar 2004,To: 24 Mar 2004,Sierra Leone,FY 2004,15,Pentecostalist,8,385
+From: 24 Mar 2004,To: 24 Mar 2004,Somalia,FY 2004,199,Moslem,199,385
+From: 24 Mar 2004,To: 24 Mar 2004,Sudan,FY 2004,41,Catholic,7,385
+From: 24 Mar 2004,To: 24 Mar 2004,Sudan,FY 2004,41,Christian,16,385
+From: 24 Mar 2004,To: 24 Mar 2004,Sudan,FY 2004,41,Moslem,11,385
+From: 24 Mar 2004,To: 24 Mar 2004,Sudan,FY 2004,41,Protestant,7,385
+From: 24 Mar 2004,To: 24 Mar 2004,Vietnam,FY 2004,16,Buddhist,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Vietnam,FY 2004,16,No Religion,10,385
+From: 24 Mar 2004,To: 24 Mar 2004,Vietnam,FY 2004,16,Protestant,2,385
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Mar 2004,To: 24 Mar 2004,Bahai,FY 2004,9,Iran,9,385
+From: 24 Mar 2004,To: 24 Mar 2004,Buddhist,FY 2004,4,Vietnam,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Catholic,FY 2004,11,Cuba,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Catholic,FY 2004,11,Sudan,7,385
+From: 24 Mar 2004,To: 24 Mar 2004,Christian,FY 2004,55,Dem. Rep. Congo,18,385
+From: 24 Mar 2004,To: 24 Mar 2004,Christian,FY 2004,55,Ethiopia,1,385
+From: 24 Mar 2004,To: 24 Mar 2004,Christian,FY 2004,55,Iran,8,385
+From: 24 Mar 2004,To: 24 Mar 2004,Christian,FY 2004,55,Liberia,5,385
+From: 24 Mar 2004,To: 24 Mar 2004,Christian,FY 2004,55,Sierra Leone,7,385
+From: 24 Mar 2004,To: 24 Mar 2004,Christian,FY 2004,55,Sudan,16,385
+From: 24 Mar 2004,To: 24 Mar 2004,Evangelical Christian,FY 2004,2,Cuba,2,385
+From: 24 Mar 2004,To: 24 Mar 2004,Jehovah Witness,FY 2004,11,Cuba,11,385
+From: 24 Mar 2004,To: 24 Mar 2004,Moslem,FY 2004,212,Liberia,2,385
+From: 24 Mar 2004,To: 24 Mar 2004,Moslem,FY 2004,212,Somalia,199,385
+From: 24 Mar 2004,To: 24 Mar 2004,Moslem,FY 2004,212,Sudan,11,385
+From: 24 Mar 2004,To: 24 Mar 2004,Moslem Suni,FY 2004,11,Afghanistan,11,385
+From: 24 Mar 2004,To: 24 Mar 2004,No Religion,FY 2004,23,Cuba,13,385
+From: 24 Mar 2004,To: 24 Mar 2004,No Religion,FY 2004,23,Vietnam,10,385
+From: 24 Mar 2004,To: 24 Mar 2004,Orthodox,FY 2004,4,Ethiopia,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Pentecostalist,FY 2004,8,Sierra Leone,8,385
+From: 24 Mar 2004,To: 24 Mar 2004,Protestant,FY 2004,13,Dem. Rep. Congo,4,385
+From: 24 Mar 2004,To: 24 Mar 2004,Protestant,FY 2004,13,Sudan,7,385
+From: 24 Mar 2004,To: 24 Mar 2004,Protestant,FY 2004,13,Vietnam,2,385
+From: 24 Mar 2004,To: 24 Mar 2004,Seventh Day Adventist,FY 2004,3,Cuba,3,385
+From: 24 Mar 2004,To: 24 Mar 2004,Unknown,FY 2004,19,Azerbaijan,19,385
+

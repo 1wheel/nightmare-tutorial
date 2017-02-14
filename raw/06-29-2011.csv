@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jun 2011,To: 29 Jun 2011,Angola,FY 2011,1,Protestant,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Azerbaijan,FY 2011,2,Evangelical Christian,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Bhutan,FY 2011,65,Buddhist,14,347
+From: 29 Jun 2011,To: 29 Jun 2011,Bhutan,FY 2011,65,Christian,3,347
+From: 29 Jun 2011,To: 29 Jun 2011,Bhutan,FY 2011,65,Hindu,46,347
+From: 29 Jun 2011,To: 29 Jun 2011,Bhutan,FY 2011,65,Kirat,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Animist,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Baptist,6,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Buddhist,15,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Catholic,12,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Christian,197,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Methodist,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burma,FY 2011,237,Moslem,5,347
+From: 29 Jun 2011,To: 29 Jun 2011,Burundi,FY 2011,3,Catholic,3,347
+From: 29 Jun 2011,To: 29 Jun 2011,Congo,FY 2011,3,Christian,3,347
+From: 29 Jun 2011,To: 29 Jun 2011,Iran,FY 2011,1,Moslem Shiite,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Iraq,FY 2011,30,Catholic,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Iraq,FY 2011,30,Christian,14,347
+From: 29 Jun 2011,To: 29 Jun 2011,Iraq,FY 2011,30,Moslem,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Iraq,FY 2011,30,Moslem Shiite,13,347
+From: 29 Jun 2011,To: 29 Jun 2011,Iraq,FY 2011,30,Moslem Suni,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Russia,FY 2011,2,Jewish,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Somalia,FY 2011,2,Moslem,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Sudan,FY 2011,1,Moslem,1,347
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jun 2011,To: 29 Jun 2011,Animist,FY 2011,1,Burma,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Baptist,FY 2011,6,Burma,6,347
+From: 29 Jun 2011,To: 29 Jun 2011,Buddhist,FY 2011,29,Bhutan,14,347
+From: 29 Jun 2011,To: 29 Jun 2011,Buddhist,FY 2011,29,Burma,15,347
+From: 29 Jun 2011,To: 29 Jun 2011,Catholic,FY 2011,16,Burma,12,347
+From: 29 Jun 2011,To: 29 Jun 2011,Catholic,FY 2011,16,Burundi,3,347
+From: 29 Jun 2011,To: 29 Jun 2011,Catholic,FY 2011,16,Iraq,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Christian,FY 2011,217,Bhutan,3,347
+From: 29 Jun 2011,To: 29 Jun 2011,Christian,FY 2011,217,Burma,197,347
+From: 29 Jun 2011,To: 29 Jun 2011,Christian,FY 2011,217,Congo,3,347
+From: 29 Jun 2011,To: 29 Jun 2011,Christian,FY 2011,217,Iraq,14,347
+From: 29 Jun 2011,To: 29 Jun 2011,Evangelical Christian,FY 2011,2,Azerbaijan,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Hindu,FY 2011,46,Bhutan,46,347
+From: 29 Jun 2011,To: 29 Jun 2011,Jewish,FY 2011,2,Russia,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Kirat,FY 2011,2,Bhutan,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Methodist,FY 2011,1,Burma,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem,FY 2011,9,Burma,5,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem,FY 2011,9,Iraq,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem,FY 2011,9,Somalia,2,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem,FY 2011,9,Sudan,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem Shiite,FY 2011,14,Iran,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem Shiite,FY 2011,14,Iraq,13,347
+From: 29 Jun 2011,To: 29 Jun 2011,Moslem Suni,FY 2011,1,Iraq,1,347
+From: 29 Jun 2011,To: 29 Jun 2011,Protestant,FY 2011,1,Angola,1,347
+

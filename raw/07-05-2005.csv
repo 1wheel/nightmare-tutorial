@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jul 2005,To: 05 Jul 2005,Afghanistan,FY 2005,4,Moslem Shiite,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Afghanistan,FY 2005,4,Moslem Suni,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Azerbaijan,FY 2005,1,Jewish,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Belarus,FY 2005,22,Baptist,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Belarus,FY 2005,22,Jewish,8,376
+From: 05 Jul 2005,To: 05 Jul 2005,Belarus,FY 2005,22,Pentecostalist,13,376
+From: 05 Jul 2005,To: 05 Jul 2005,Dem. Rep. Congo,FY 2005,1,Pentecostalist,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Eritrea,FY 2005,4,Protestant,4,376
+From: 05 Jul 2005,To: 05 Jul 2005,Ethiopia,FY 2005,6,Christian,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Ethiopia,FY 2005,6,Moslem,4,376
+From: 05 Jul 2005,To: 05 Jul 2005,Ethiopia,FY 2005,6,Orthodox,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Laos,FY 2005,161,Ancestral Worship,158,376
+From: 05 Jul 2005,To: 05 Jul 2005,Laos,FY 2005,161,Christian,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Liberia,FY 2005,25,Christian,8,376
+From: 05 Jul 2005,To: 05 Jul 2005,Liberia,FY 2005,25,Moslem,12,376
+From: 05 Jul 2005,To: 05 Jul 2005,Liberia,FY 2005,25,Protestant,5,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moldova,FY 2005,23,Baptist,8,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moldova,FY 2005,23,Pentecostalist,10,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moldova,FY 2005,23,Seventh Day Adventist,5,376
+From: 05 Jul 2005,To: 05 Jul 2005,Russia,FY 2005,58,Baptist,11,376
+From: 05 Jul 2005,To: 05 Jul 2005,Russia,FY 2005,58,Jewish,9,376
+From: 05 Jul 2005,To: 05 Jul 2005,Russia,FY 2005,58,Moslem,35,376
+From: 05 Jul 2005,To: 05 Jul 2005,Russia,FY 2005,58,Pentecostalist,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Rwanda,FY 2005,3,Jehovah Witness,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Somalia,FY 2005,39,Moslem,39,376
+From: 05 Jul 2005,To: 05 Jul 2005,Sudan,FY 2005,29,Catholic,10,376
+From: 05 Jul 2005,To: 05 Jul 2005,Sudan,FY 2005,29,Christian,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Sudan,FY 2005,29,Moslem,15,376
+From: 05 Jul 2005,To: 05 Jul 2005,Sudan,FY 2005,29,Protestant,3,376
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jul 2005,To: 05 Jul 2005,Ancestral Worship,FY 2005,158,Laos,158,376
+From: 05 Jul 2005,To: 05 Jul 2005,Baptist,FY 2005,20,Belarus,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Baptist,FY 2005,20,Moldova,8,376
+From: 05 Jul 2005,To: 05 Jul 2005,Baptist,FY 2005,20,Russia,11,376
+From: 05 Jul 2005,To: 05 Jul 2005,Catholic,FY 2005,10,Sudan,10,376
+From: 05 Jul 2005,To: 05 Jul 2005,Christian,FY 2005,13,Ethiopia,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Christian,FY 2005,13,Laos,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Christian,FY 2005,13,Liberia,8,376
+From: 05 Jul 2005,To: 05 Jul 2005,Christian,FY 2005,13,Sudan,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Jehovah Witness,FY 2005,3,Rwanda,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Jewish,FY 2005,18,Azerbaijan,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Jewish,FY 2005,18,Belarus,8,376
+From: 05 Jul 2005,To: 05 Jul 2005,Jewish,FY 2005,18,Russia,9,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem,FY 2005,105,Ethiopia,4,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem,FY 2005,105,Liberia,12,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem,FY 2005,105,Russia,35,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem,FY 2005,105,Somalia,39,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem,FY 2005,105,Sudan,15,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem Shiite,FY 2005,1,Afghanistan,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Moslem Suni,FY 2005,3,Afghanistan,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Orthodox,FY 2005,1,Ethiopia,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Pentecostalist,FY 2005,27,Belarus,13,376
+From: 05 Jul 2005,To: 05 Jul 2005,Pentecostalist,FY 2005,27,Dem. Rep. Congo,1,376
+From: 05 Jul 2005,To: 05 Jul 2005,Pentecostalist,FY 2005,27,Moldova,10,376
+From: 05 Jul 2005,To: 05 Jul 2005,Pentecostalist,FY 2005,27,Russia,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Protestant,FY 2005,12,Eritrea,4,376
+From: 05 Jul 2005,To: 05 Jul 2005,Protestant,FY 2005,12,Liberia,5,376
+From: 05 Jul 2005,To: 05 Jul 2005,Protestant,FY 2005,12,Sudan,3,376
+From: 05 Jul 2005,To: 05 Jul 2005,Seventh Day Adventist,FY 2005,5,Moldova,5,376
+

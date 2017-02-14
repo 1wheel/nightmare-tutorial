@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Aug 2013,To: 07 Aug 2013,Bhutan,FY 2013,64,Buddhist,31,359
+From: 07 Aug 2013,To: 07 Aug 2013,Bhutan,FY 2013,64,Christian,20,359
+From: 07 Aug 2013,To: 07 Aug 2013,Bhutan,FY 2013,64,Hindu,4,359
+From: 07 Aug 2013,To: 07 Aug 2013,Bhutan,FY 2013,64,Kirat,9,359
+From: 07 Aug 2013,To: 07 Aug 2013,Burma,FY 2013,71,Buddhist,6,359
+From: 07 Aug 2013,To: 07 Aug 2013,Burma,FY 2013,71,Catholic,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Burma,FY 2013,71,Christian,57,359
+From: 07 Aug 2013,To: 07 Aug 2013,Burma,FY 2013,71,Moslem,7,359
+From: 07 Aug 2013,To: 07 Aug 2013,Central African Republic,FY 2013,10,Moslem,10,359
+From: 07 Aug 2013,To: 07 Aug 2013,Dem. Rep. Congo,FY 2013,20,Catholic,7,359
+From: 07 Aug 2013,To: 07 Aug 2013,Dem. Rep. Congo,FY 2013,20,Christian,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Dem. Rep. Congo,FY 2013,20,Moslem,8,359
+From: 07 Aug 2013,To: 07 Aug 2013,Dem. Rep. Congo,FY 2013,20,Pentecostalist,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Dem. Rep. Congo,FY 2013,20,Protestant,3,359
+From: 07 Aug 2013,To: 07 Aug 2013,Eritrea,FY 2013,25,Catholic,5,359
+From: 07 Aug 2013,To: 07 Aug 2013,Eritrea,FY 2013,25,Moslem,8,359
+From: 07 Aug 2013,To: 07 Aug 2013,Eritrea,FY 2013,25,Orthodox,10,359
+From: 07 Aug 2013,To: 07 Aug 2013,Eritrea,FY 2013,25,Protestant,2,359
+From: 07 Aug 2013,To: 07 Aug 2013,Ethiopia,FY 2013,6,Moslem,5,359
+From: 07 Aug 2013,To: 07 Aug 2013,Ethiopia,FY 2013,6,Protestant,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Iran,FY 2013,4,Bahai,4,359
+From: 07 Aug 2013,To: 07 Aug 2013,Iraq,FY 2013,46,Catholic,9,359
+From: 07 Aug 2013,To: 07 Aug 2013,Iraq,FY 2013,46,Christian,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Iraq,FY 2013,46,Moslem Shiite,17,359
+From: 07 Aug 2013,To: 07 Aug 2013,Iraq,FY 2013,46,Moslem Suni,15,359
+From: 07 Aug 2013,To: 07 Aug 2013,Iraq,FY 2013,46,Orthodox,4,359
+From: 07 Aug 2013,To: 07 Aug 2013,Liberia,FY 2013,4,Baptist,3,359
+From: 07 Aug 2013,To: 07 Aug 2013,Liberia,FY 2013,4,Catholic,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Somalia,FY 2013,108,Christian,6,359
+From: 07 Aug 2013,To: 07 Aug 2013,Somalia,FY 2013,108,Moslem,102,359
+From: 07 Aug 2013,To: 07 Aug 2013,Sudan,FY 2013,1,Moslem,1,359
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Aug 2013,To: 07 Aug 2013,Bahai,FY 2013,4,Iran,4,359
+From: 07 Aug 2013,To: 07 Aug 2013,Baptist,FY 2013,3,Liberia,3,359
+From: 07 Aug 2013,To: 07 Aug 2013,Buddhist,FY 2013,37,Bhutan,31,359
+From: 07 Aug 2013,To: 07 Aug 2013,Buddhist,FY 2013,37,Burma,6,359
+From: 07 Aug 2013,To: 07 Aug 2013,Catholic,FY 2013,23,Burma,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Catholic,FY 2013,23,Dem. Rep. Congo,7,359
+From: 07 Aug 2013,To: 07 Aug 2013,Catholic,FY 2013,23,Eritrea,5,359
+From: 07 Aug 2013,To: 07 Aug 2013,Catholic,FY 2013,23,Iraq,9,359
+From: 07 Aug 2013,To: 07 Aug 2013,Catholic,FY 2013,23,Liberia,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Christian,FY 2013,85,Bhutan,20,359
+From: 07 Aug 2013,To: 07 Aug 2013,Christian,FY 2013,85,Burma,57,359
+From: 07 Aug 2013,To: 07 Aug 2013,Christian,FY 2013,85,Dem. Rep. Congo,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Christian,FY 2013,85,Iraq,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Christian,FY 2013,85,Somalia,6,359
+From: 07 Aug 2013,To: 07 Aug 2013,Hindu,FY 2013,4,Bhutan,4,359
+From: 07 Aug 2013,To: 07 Aug 2013,Kirat,FY 2013,9,Bhutan,9,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Burma,7,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Central African Republic,10,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Dem. Rep. Congo,8,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Eritrea,8,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Ethiopia,5,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Somalia,102,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem,FY 2013,141,Sudan,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem Shiite,FY 2013,17,Iraq,17,359
+From: 07 Aug 2013,To: 07 Aug 2013,Moslem Suni,FY 2013,15,Iraq,15,359
+From: 07 Aug 2013,To: 07 Aug 2013,Orthodox,FY 2013,14,Eritrea,10,359
+From: 07 Aug 2013,To: 07 Aug 2013,Orthodox,FY 2013,14,Iraq,4,359
+From: 07 Aug 2013,To: 07 Aug 2013,Pentecostalist,FY 2013,1,Dem. Rep. Congo,1,359
+From: 07 Aug 2013,To: 07 Aug 2013,Protestant,FY 2013,6,Dem. Rep. Congo,3,359
+From: 07 Aug 2013,To: 07 Aug 2013,Protestant,FY 2013,6,Eritrea,2,359
+From: 07 Aug 2013,To: 07 Aug 2013,Protestant,FY 2013,6,Ethiopia,1,359
+

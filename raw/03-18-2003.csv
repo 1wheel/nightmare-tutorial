@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Mar 2003,To: 18 Mar 2003,Azerbaijan,FY 2003,5,Jewish,5,68
+From: 18 Mar 2003,To: 18 Mar 2003,Iraq,FY 2003,5,Christian,5,68
+From: 18 Mar 2003,To: 18 Mar 2003,Kazakhstan,FY 2003,15,Baptist,11,68
+From: 18 Mar 2003,To: 18 Mar 2003,Kazakhstan,FY 2003,15,Jewish,4,68
+From: 18 Mar 2003,To: 18 Mar 2003,Russia,FY 2003,14,Jewish,1,68
+From: 18 Mar 2003,To: 18 Mar 2003,Russia,FY 2003,14,No Religion,2,68
+From: 18 Mar 2003,To: 18 Mar 2003,Russia,FY 2003,14,Pentecostalist,7,68
+From: 18 Mar 2003,To: 18 Mar 2003,Russia,FY 2003,14,Unknown,4,68
+From: 18 Mar 2003,To: 18 Mar 2003,Sudan,FY 2003,29,Christian,29,68
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Mar 2003,To: 18 Mar 2003,Baptist,FY 2003,11,Kazakhstan,11,68
+From: 18 Mar 2003,To: 18 Mar 2003,Christian,FY 2003,34,Iraq,5,68
+From: 18 Mar 2003,To: 18 Mar 2003,Christian,FY 2003,34,Sudan,29,68
+From: 18 Mar 2003,To: 18 Mar 2003,Jewish,FY 2003,10,Azerbaijan,5,68
+From: 18 Mar 2003,To: 18 Mar 2003,Jewish,FY 2003,10,Kazakhstan,4,68
+From: 18 Mar 2003,To: 18 Mar 2003,Jewish,FY 2003,10,Russia,1,68
+From: 18 Mar 2003,To: 18 Mar 2003,No Religion,FY 2003,2,Russia,2,68
+From: 18 Mar 2003,To: 18 Mar 2003,Pentecostalist,FY 2003,7,Russia,7,68
+From: 18 Mar 2003,To: 18 Mar 2003,Unknown,FY 2003,4,Russia,4,68
+

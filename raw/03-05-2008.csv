@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Mar 2008,To: 05 Mar 2008,Afghanistan,FY 2008,15,Moslem Suni,15,338
+From: 05 Mar 2008,To: 05 Mar 2008,Burma,FY 2008,143,Buddhist,49,338
+From: 05 Mar 2008,To: 05 Mar 2008,Burma,FY 2008,143,Christian,72,338
+From: 05 Mar 2008,To: 05 Mar 2008,Burma,FY 2008,143,Moslem,22,338
+From: 05 Mar 2008,To: 05 Mar 2008,Cuba,FY 2008,69,Baptist,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Cuba,FY 2008,69,Catholic,32,338
+From: 05 Mar 2008,To: 05 Mar 2008,Cuba,FY 2008,69,Jehovah Witness,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Cuba,FY 2008,69,No Religion,25,338
+From: 05 Mar 2008,To: 05 Mar 2008,Cuba,FY 2008,69,Pentecostalist,4,338
+From: 05 Mar 2008,To: 05 Mar 2008,Cuba,FY 2008,69,Seventh Day Adventist,2,338
+From: 05 Mar 2008,To: 05 Mar 2008,Dem. Rep. Congo,FY 2008,12,Pentecostalist,9,338
+From: 05 Mar 2008,To: 05 Mar 2008,Dem. Rep. Congo,FY 2008,12,Protestant,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Iraq,FY 2008,35,Christian,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Iraq,FY 2008,35,Moslem Shiite,6,338
+From: 05 Mar 2008,To: 05 Mar 2008,Iraq,FY 2008,35,Moslem Suni,26,338
+From: 05 Mar 2008,To: 05 Mar 2008,Latvia,FY 2008,1,No Religion,1,338
+From: 05 Mar 2008,To: 05 Mar 2008,Russia,FY 2008,2,Jewish,2,338
+From: 05 Mar 2008,To: 05 Mar 2008,Somalia,FY 2008,31,Moslem,31,338
+From: 05 Mar 2008,To: 05 Mar 2008,Vietnam,FY 2008,30,Ancestral Worship,9,338
+From: 05 Mar 2008,To: 05 Mar 2008,Vietnam,FY 2008,30,Catholic,4,338
+From: 05 Mar 2008,To: 05 Mar 2008,Vietnam,FY 2008,30,Christian,6,338
+From: 05 Mar 2008,To: 05 Mar 2008,Vietnam,FY 2008,30,No Religion,5,338
+From: 05 Mar 2008,To: 05 Mar 2008,Vietnam,FY 2008,30,Protestant,6,338
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Mar 2008,To: 05 Mar 2008,Ancestral Worship,FY 2008,9,Vietnam,9,338
+From: 05 Mar 2008,To: 05 Mar 2008,Baptist,FY 2008,3,Cuba,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Buddhist,FY 2008,49,Burma,49,338
+From: 05 Mar 2008,To: 05 Mar 2008,Catholic,FY 2008,36,Cuba,32,338
+From: 05 Mar 2008,To: 05 Mar 2008,Catholic,FY 2008,36,Vietnam,4,338
+From: 05 Mar 2008,To: 05 Mar 2008,Christian,FY 2008,81,Burma,72,338
+From: 05 Mar 2008,To: 05 Mar 2008,Christian,FY 2008,81,Iraq,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Christian,FY 2008,81,Vietnam,6,338
+From: 05 Mar 2008,To: 05 Mar 2008,Jehovah Witness,FY 2008,3,Cuba,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Jewish,FY 2008,2,Russia,2,338
+From: 05 Mar 2008,To: 05 Mar 2008,Moslem,FY 2008,53,Burma,22,338
+From: 05 Mar 2008,To: 05 Mar 2008,Moslem,FY 2008,53,Somalia,31,338
+From: 05 Mar 2008,To: 05 Mar 2008,Moslem Shiite,FY 2008,6,Iraq,6,338
+From: 05 Mar 2008,To: 05 Mar 2008,Moslem Suni,FY 2008,41,Afghanistan,15,338
+From: 05 Mar 2008,To: 05 Mar 2008,Moslem Suni,FY 2008,41,Iraq,26,338
+From: 05 Mar 2008,To: 05 Mar 2008,No Religion,FY 2008,31,Cuba,25,338
+From: 05 Mar 2008,To: 05 Mar 2008,No Religion,FY 2008,31,Latvia,1,338
+From: 05 Mar 2008,To: 05 Mar 2008,No Religion,FY 2008,31,Vietnam,5,338
+From: 05 Mar 2008,To: 05 Mar 2008,Pentecostalist,FY 2008,13,Cuba,4,338
+From: 05 Mar 2008,To: 05 Mar 2008,Pentecostalist,FY 2008,13,Dem. Rep. Congo,9,338
+From: 05 Mar 2008,To: 05 Mar 2008,Protestant,FY 2008,9,Dem. Rep. Congo,3,338
+From: 05 Mar 2008,To: 05 Mar 2008,Protestant,FY 2008,9,Vietnam,6,338
+From: 05 Mar 2008,To: 05 Mar 2008,Seventh Day Adventist,FY 2008,2,Cuba,2,338
+

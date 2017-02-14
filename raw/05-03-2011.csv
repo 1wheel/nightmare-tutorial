@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 May 2011,To: 03 May 2011,Afghanistan,FY 2011,3,Moslem,3,192
+From: 03 May 2011,To: 03 May 2011,Bhutan,FY 2011,87,Buddhist,6,192
+From: 03 May 2011,To: 03 May 2011,Bhutan,FY 2011,87,Christian,20,192
+From: 03 May 2011,To: 03 May 2011,Bhutan,FY 2011,87,Hindu,61,192
+From: 03 May 2011,To: 03 May 2011,Burma,FY 2011,6,Christian,6,192
+From: 03 May 2011,To: 03 May 2011,Dem. Rep. Congo,FY 2011,1,Protestant,1,192
+From: 03 May 2011,To: 03 May 2011,Eritrea,FY 2011,16,Catholic,3,192
+From: 03 May 2011,To: 03 May 2011,Eritrea,FY 2011,16,Orthodox,13,192
+From: 03 May 2011,To: 03 May 2011,Ethiopia,FY 2011,2,Moslem,1,192
+From: 03 May 2011,To: 03 May 2011,Ethiopia,FY 2011,2,Orthodox,1,192
+From: 03 May 2011,To: 03 May 2011,Iran,FY 2011,12,Bahai,11,192
+From: 03 May 2011,To: 03 May 2011,Iran,FY 2011,12,Moslem Shiite,1,192
+From: 03 May 2011,To: 03 May 2011,Iraq,FY 2011,23,Catholic,9,192
+From: 03 May 2011,To: 03 May 2011,Iraq,FY 2011,23,Christian,1,192
+From: 03 May 2011,To: 03 May 2011,Iraq,FY 2011,23,Moslem Shiite,1,192
+From: 03 May 2011,To: 03 May 2011,Iraq,FY 2011,23,Moslem Suni,12,192
+From: 03 May 2011,To: 03 May 2011,Kazakhstan,FY 2011,2,Baptist,2,192
+From: 03 May 2011,To: 03 May 2011,Pakistan,FY 2011,3,Other Religion,3,192
+From: 03 May 2011,To: 03 May 2011,Somalia,FY 2011,37,Moslem,36,192
+From: 03 May 2011,To: 03 May 2011,Somalia,FY 2011,37,Moslem Suni,1,192
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 May 2011,To: 03 May 2011,Bahai,FY 2011,11,Iran,11,192
+From: 03 May 2011,To: 03 May 2011,Baptist,FY 2011,2,Kazakhstan,2,192
+From: 03 May 2011,To: 03 May 2011,Buddhist,FY 2011,6,Bhutan,6,192
+From: 03 May 2011,To: 03 May 2011,Catholic,FY 2011,12,Eritrea,3,192
+From: 03 May 2011,To: 03 May 2011,Catholic,FY 2011,12,Iraq,9,192
+From: 03 May 2011,To: 03 May 2011,Christian,FY 2011,27,Bhutan,20,192
+From: 03 May 2011,To: 03 May 2011,Christian,FY 2011,27,Burma,6,192
+From: 03 May 2011,To: 03 May 2011,Christian,FY 2011,27,Iraq,1,192
+From: 03 May 2011,To: 03 May 2011,Hindu,FY 2011,61,Bhutan,61,192
+From: 03 May 2011,To: 03 May 2011,Moslem,FY 2011,40,Afghanistan,3,192
+From: 03 May 2011,To: 03 May 2011,Moslem,FY 2011,40,Ethiopia,1,192
+From: 03 May 2011,To: 03 May 2011,Moslem,FY 2011,40,Somalia,36,192
+From: 03 May 2011,To: 03 May 2011,Moslem Shiite,FY 2011,2,Iran,1,192
+From: 03 May 2011,To: 03 May 2011,Moslem Shiite,FY 2011,2,Iraq,1,192
+From: 03 May 2011,To: 03 May 2011,Moslem Suni,FY 2011,13,Iraq,12,192
+From: 03 May 2011,To: 03 May 2011,Moslem Suni,FY 2011,13,Somalia,1,192
+From: 03 May 2011,To: 03 May 2011,Orthodox,FY 2011,14,Eritrea,13,192
+From: 03 May 2011,To: 03 May 2011,Orthodox,FY 2011,14,Ethiopia,1,192
+From: 03 May 2011,To: 03 May 2011,Other Religion,FY 2011,3,Pakistan,3,192
+From: 03 May 2011,To: 03 May 2011,Protestant,FY 2011,1,Dem. Rep. Congo,1,192
+

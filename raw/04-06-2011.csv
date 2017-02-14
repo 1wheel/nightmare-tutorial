@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Apr 2011,To: 06 Apr 2011,Bhutan,FY 2011,51,Buddhist,11,114
+From: 06 Apr 2011,To: 06 Apr 2011,Bhutan,FY 2011,51,Christian,6,114
+From: 06 Apr 2011,To: 06 Apr 2011,Bhutan,FY 2011,51,Hindu,34,114
+From: 06 Apr 2011,To: 06 Apr 2011,Burma,FY 2011,2,Christian,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Dem. Rep. Congo,FY 2011,2,Catholic,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Eritrea,FY 2011,4,Catholic,1,114
+From: 06 Apr 2011,To: 06 Apr 2011,Eritrea,FY 2011,4,Orthodox,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Eritrea,FY 2011,4,Pentecostalist,1,114
+From: 06 Apr 2011,To: 06 Apr 2011,Iraq,FY 2011,21,Catholic,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Iraq,FY 2011,21,Christian,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Iraq,FY 2011,21,Moslem,1,114
+From: 06 Apr 2011,To: 06 Apr 2011,Iraq,FY 2011,21,Moslem Shiite,4,114
+From: 06 Apr 2011,To: 06 Apr 2011,Iraq,FY 2011,21,Moslem Suni,9,114
+From: 06 Apr 2011,To: 06 Apr 2011,Iraq,FY 2011,21,Orthodox,3,114
+From: 06 Apr 2011,To: 06 Apr 2011,Palestine,FY 2011,4,Moslem Suni,4,114
+From: 06 Apr 2011,To: 06 Apr 2011,Rwanda,FY 2011,3,Christian,3,114
+From: 06 Apr 2011,To: 06 Apr 2011,Somalia,FY 2011,27,Moslem,20,114
+From: 06 Apr 2011,To: 06 Apr 2011,Somalia,FY 2011,27,Moslem Suni,7,114
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Apr 2011,To: 06 Apr 2011,Buddhist,FY 2011,11,Bhutan,11,114
+From: 06 Apr 2011,To: 06 Apr 2011,Catholic,FY 2011,5,Dem. Rep. Congo,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Catholic,FY 2011,5,Eritrea,1,114
+From: 06 Apr 2011,To: 06 Apr 2011,Catholic,FY 2011,5,Iraq,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Christian,FY 2011,13,Bhutan,6,114
+From: 06 Apr 2011,To: 06 Apr 2011,Christian,FY 2011,13,Burma,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Christian,FY 2011,13,Iraq,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Christian,FY 2011,13,Rwanda,3,114
+From: 06 Apr 2011,To: 06 Apr 2011,Hindu,FY 2011,34,Bhutan,34,114
+From: 06 Apr 2011,To: 06 Apr 2011,Moslem,FY 2011,21,Iraq,1,114
+From: 06 Apr 2011,To: 06 Apr 2011,Moslem,FY 2011,21,Somalia,20,114
+From: 06 Apr 2011,To: 06 Apr 2011,Moslem Shiite,FY 2011,4,Iraq,4,114
+From: 06 Apr 2011,To: 06 Apr 2011,Moslem Suni,FY 2011,20,Iraq,9,114
+From: 06 Apr 2011,To: 06 Apr 2011,Moslem Suni,FY 2011,20,Palestine,4,114
+From: 06 Apr 2011,To: 06 Apr 2011,Moslem Suni,FY 2011,20,Somalia,7,114
+From: 06 Apr 2011,To: 06 Apr 2011,Orthodox,FY 2011,5,Eritrea,2,114
+From: 06 Apr 2011,To: 06 Apr 2011,Orthodox,FY 2011,5,Iraq,3,114
+From: 06 Apr 2011,To: 06 Apr 2011,Pentecostalist,FY 2011,1,Eritrea,1,114
+

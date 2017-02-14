@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Aug 2007,To: 22 Aug 2007,Burma,FY 2007,144,Baptist,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burma,FY 2007,144,Buddhist,10,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burma,FY 2007,144,Catholic,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burma,FY 2007,144,Christian,107,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burma,FY 2007,144,Moslem,23,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burundi,FY 2007,22,Catholic,16,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burundi,FY 2007,22,Christian,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burundi,FY 2007,22,Methodist,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burundi,FY 2007,22,Pentecostalist,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Burundi,FY 2007,22,Seventh Day Adventist,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Eritrea,FY 2007,30,Catholic,11,336
+From: 22 Aug 2007,To: 22 Aug 2007,Eritrea,FY 2007,30,Christian,5,336
+From: 22 Aug 2007,To: 22 Aug 2007,Eritrea,FY 2007,30,Moslem,4,336
+From: 22 Aug 2007,To: 22 Aug 2007,Eritrea,FY 2007,30,Protestant,10,336
+From: 22 Aug 2007,To: 22 Aug 2007,Iran,FY 2007,35,Christian,35,336
+From: 22 Aug 2007,To: 22 Aug 2007,Iraq,FY 2007,35,Catholic,32,336
+From: 22 Aug 2007,To: 22 Aug 2007,Iraq,FY 2007,35,Orthodox,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Iraq,FY 2007,35,Sabeans-Mandean,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Russia,FY 2007,8,Moslem,8,336
+From: 22 Aug 2007,To: 22 Aug 2007,Somalia,FY 2007,30,Moslem,30,336
+From: 22 Aug 2007,To: 22 Aug 2007,Vietnam,FY 2007,32,Ancestral Worship,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Vietnam,FY 2007,32,Buddhist,6,336
+From: 22 Aug 2007,To: 22 Aug 2007,Vietnam,FY 2007,32,Cao Dai,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Vietnam,FY 2007,32,Catholic,9,336
+From: 22 Aug 2007,To: 22 Aug 2007,Vietnam,FY 2007,32,No Religion,6,336
+From: 22 Aug 2007,To: 22 Aug 2007,Vietnam,FY 2007,32,Protestant,9,336
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Aug 2007,To: 22 Aug 2007,Ancestral Worship,FY 2007,1,Vietnam,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Baptist,FY 2007,2,Burma,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Buddhist,FY 2007,16,Burma,10,336
+From: 22 Aug 2007,To: 22 Aug 2007,Buddhist,FY 2007,16,Vietnam,6,336
+From: 22 Aug 2007,To: 22 Aug 2007,Cao Dai,FY 2007,1,Vietnam,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Catholic,FY 2007,70,Burma,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Catholic,FY 2007,70,Burundi,16,336
+From: 22 Aug 2007,To: 22 Aug 2007,Catholic,FY 2007,70,Eritrea,11,336
+From: 22 Aug 2007,To: 22 Aug 2007,Catholic,FY 2007,70,Iraq,32,336
+From: 22 Aug 2007,To: 22 Aug 2007,Catholic,FY 2007,70,Vietnam,9,336
+From: 22 Aug 2007,To: 22 Aug 2007,Christian,FY 2007,148,Burma,107,336
+From: 22 Aug 2007,To: 22 Aug 2007,Christian,FY 2007,148,Burundi,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Christian,FY 2007,148,Eritrea,5,336
+From: 22 Aug 2007,To: 22 Aug 2007,Christian,FY 2007,148,Iran,35,336
+From: 22 Aug 2007,To: 22 Aug 2007,Methodist,FY 2007,2,Burundi,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Moslem,FY 2007,65,Burma,23,336
+From: 22 Aug 2007,To: 22 Aug 2007,Moslem,FY 2007,65,Eritrea,4,336
+From: 22 Aug 2007,To: 22 Aug 2007,Moslem,FY 2007,65,Russia,8,336
+From: 22 Aug 2007,To: 22 Aug 2007,Moslem,FY 2007,65,Somalia,30,336
+From: 22 Aug 2007,To: 22 Aug 2007,No Religion,FY 2007,6,Vietnam,6,336
+From: 22 Aug 2007,To: 22 Aug 2007,Orthodox,FY 2007,2,Iraq,2,336
+From: 22 Aug 2007,To: 22 Aug 2007,Pentecostalist,FY 2007,1,Burundi,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Protestant,FY 2007,19,Eritrea,10,336
+From: 22 Aug 2007,To: 22 Aug 2007,Protestant,FY 2007,19,Vietnam,9,336
+From: 22 Aug 2007,To: 22 Aug 2007,Sabeans-Mandean,FY 2007,1,Iraq,1,336
+From: 22 Aug 2007,To: 22 Aug 2007,Seventh Day Adventist,FY 2007,2,Burundi,2,336
+

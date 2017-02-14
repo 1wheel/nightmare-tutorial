@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Sep 2003,To: 02 Sep 2003,Eritrea,FY 2003,1,Jehovah Witness,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Iran,FY 2003,47,Bahai,35,160
+From: 02 Sep 2003,To: 02 Sep 2003,Iran,FY 2003,47,Christian,9,160
+From: 02 Sep 2003,To: 02 Sep 2003,Iran,FY 2003,47,Jewish,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Iran,FY 2003,47,Moslem,2,160
+From: 02 Sep 2003,To: 02 Sep 2003,Kyrgyzstan,FY 2003,12,Baptist,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Kyrgyzstan,FY 2003,12,Pentecostalist,7,160
+From: 02 Sep 2003,To: 02 Sep 2003,Kyrgyzstan,FY 2003,12,Seventh Day Adventist,4,160
+From: 02 Sep 2003,To: 02 Sep 2003,Somalia,FY 2003,34,Christian,7,160
+From: 02 Sep 2003,To: 02 Sep 2003,Somalia,FY 2003,34,Moslem,27,160
+From: 02 Sep 2003,To: 02 Sep 2003,Sudan,FY 2003,28,Catholic,14,160
+From: 02 Sep 2003,To: 02 Sep 2003,Sudan,FY 2003,28,Christian,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Sudan,FY 2003,28,Evangelical Christian,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Sudan,FY 2003,28,Moslem,2,160
+From: 02 Sep 2003,To: 02 Sep 2003,Sudan,FY 2003,28,Protestant,10,160
+From: 02 Sep 2003,To: 02 Sep 2003,Ukraine,FY 2003,38,Baptist,7,160
+From: 02 Sep 2003,To: 02 Sep 2003,Ukraine,FY 2003,38,Pentecostalist,27,160
+From: 02 Sep 2003,To: 02 Sep 2003,Ukraine,FY 2003,38,Seventh Day Adventist,4,160
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Sep 2003,To: 02 Sep 2003,Bahai,FY 2003,35,Iran,35,160
+From: 02 Sep 2003,To: 02 Sep 2003,Baptist,FY 2003,8,Kyrgyzstan,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Baptist,FY 2003,8,Ukraine,7,160
+From: 02 Sep 2003,To: 02 Sep 2003,Catholic,FY 2003,14,Sudan,14,160
+From: 02 Sep 2003,To: 02 Sep 2003,Christian,FY 2003,17,Iran,9,160
+From: 02 Sep 2003,To: 02 Sep 2003,Christian,FY 2003,17,Somalia,7,160
+From: 02 Sep 2003,To: 02 Sep 2003,Christian,FY 2003,17,Sudan,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Evangelical Christian,FY 2003,1,Sudan,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Jehovah Witness,FY 2003,1,Eritrea,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Jewish,FY 2003,1,Iran,1,160
+From: 02 Sep 2003,To: 02 Sep 2003,Moslem,FY 2003,31,Iran,2,160
+From: 02 Sep 2003,To: 02 Sep 2003,Moslem,FY 2003,31,Somalia,27,160
+From: 02 Sep 2003,To: 02 Sep 2003,Moslem,FY 2003,31,Sudan,2,160
+From: 02 Sep 2003,To: 02 Sep 2003,Pentecostalist,FY 2003,34,Kyrgyzstan,7,160
+From: 02 Sep 2003,To: 02 Sep 2003,Pentecostalist,FY 2003,34,Ukraine,27,160
+From: 02 Sep 2003,To: 02 Sep 2003,Protestant,FY 2003,10,Sudan,10,160
+From: 02 Sep 2003,To: 02 Sep 2003,Seventh Day Adventist,FY 2003,8,Kyrgyzstan,4,160
+From: 02 Sep 2003,To: 02 Sep 2003,Seventh Day Adventist,FY 2003,8,Ukraine,4,160
+

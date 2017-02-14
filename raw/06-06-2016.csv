@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jun 2016,To: 06 Jun 2016,Bhutan,FY 2016,62,Buddhist,32,449
+From: 06 Jun 2016,To: 06 Jun 2016,Bhutan,FY 2016,62,Christian,10,449
+From: 06 Jun 2016,To: 06 Jun 2016,Bhutan,FY 2016,62,Hindu,17,449
+From: 06 Jun 2016,To: 06 Jun 2016,Bhutan,FY 2016,62,Kirat,3,449
+From: 06 Jun 2016,To: 06 Jun 2016,Burma,FY 2016,27,Buddhist,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Burma,FY 2016,27,Christian,13,449
+From: 06 Jun 2016,To: 06 Jun 2016,Burma,FY 2016,27,Moslem,13,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iran,FY 2016,3,Moslem,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iran,FY 2016,3,No Religion,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iraq,FY 2016,54,Moslem,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iraq,FY 2016,54,Moslem Shiite,17,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iraq,FY 2016,54,Moslem Suni,25,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iraq,FY 2016,54,Orthodox,5,449
+From: 06 Jun 2016,To: 06 Jun 2016,Iraq,FY 2016,54,Sabeans-Mandean,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Kazakhstan,FY 2016,2,Baptist,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Palestine,FY 2016,4,Moslem Suni,4,449
+From: 06 Jun 2016,To: 06 Jun 2016,Russia,FY 2016,16,Baptist,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Russia,FY 2016,16,Evangelical Christian,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Russia,FY 2016,16,Pentecostalist,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Russia,FY 2016,16,Seventh Day Adventist,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Somalia,FY 2016,21,Moslem,21,449
+From: 06 Jun 2016,To: 06 Jun 2016,Sudan,FY 2016,1,Moslem,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Syria,FY 2016,253,Moslem Suni,253,449
+From: 06 Jun 2016,To: 06 Jun 2016,Ukraine,FY 2016,6,Pentecostalist,6,449
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jun 2016,To: 06 Jun 2016,Baptist,FY 2016,4,Kazakhstan,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Baptist,FY 2016,4,Russia,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Buddhist,FY 2016,33,Bhutan,32,449
+From: 06 Jun 2016,To: 06 Jun 2016,Buddhist,FY 2016,33,Burma,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Christian,FY 2016,23,Bhutan,10,449
+From: 06 Jun 2016,To: 06 Jun 2016,Christian,FY 2016,23,Burma,13,449
+From: 06 Jun 2016,To: 06 Jun 2016,Evangelical Christian,FY 2016,6,Russia,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Hindu,FY 2016,17,Bhutan,17,449
+From: 06 Jun 2016,To: 06 Jun 2016,Kirat,FY 2016,3,Bhutan,3,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem,FY 2016,42,Burma,13,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem,FY 2016,42,Iran,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem,FY 2016,42,Iraq,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem,FY 2016,42,Somalia,21,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem,FY 2016,42,Sudan,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem Shiite,FY 2016,17,Iraq,17,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem Suni,FY 2016,282,Iraq,25,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem Suni,FY 2016,282,Palestine,4,449
+From: 06 Jun 2016,To: 06 Jun 2016,Moslem Suni,FY 2016,282,Syria,253,449
+From: 06 Jun 2016,To: 06 Jun 2016,No Religion,FY 2016,2,Iran,2,449
+From: 06 Jun 2016,To: 06 Jun 2016,Orthodox,FY 2016,5,Iraq,5,449
+From: 06 Jun 2016,To: 06 Jun 2016,Pentecostalist,FY 2016,12,Russia,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Pentecostalist,FY 2016,12,Ukraine,6,449
+From: 06 Jun 2016,To: 06 Jun 2016,Sabeans-Mandean,FY 2016,1,Iraq,1,449
+From: 06 Jun 2016,To: 06 Jun 2016,Seventh Day Adventist,FY 2016,2,Russia,2,449
+

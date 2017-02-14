@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Feb 2009,To: 10 Feb 2009,Bhutan,FY 2009,100,Buddhist,11,317
+From: 10 Feb 2009,To: 10 Feb 2009,Bhutan,FY 2009,100,Christian,18,317
+From: 10 Feb 2009,To: 10 Feb 2009,Bhutan,FY 2009,100,Hindu,68,317
+From: 10 Feb 2009,To: 10 Feb 2009,Bhutan,FY 2009,100,Kirat,3,317
+From: 10 Feb 2009,To: 10 Feb 2009,Burma,FY 2009,35,Christian,35,317
+From: 10 Feb 2009,To: 10 Feb 2009,Cuba,FY 2009,66,Baptist,6,317
+From: 10 Feb 2009,To: 10 Feb 2009,Cuba,FY 2009,66,Catholic,29,317
+From: 10 Feb 2009,To: 10 Feb 2009,Cuba,FY 2009,66,Evangelical Christian,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Cuba,FY 2009,66,Jehovah Witness,21,317
+From: 10 Feb 2009,To: 10 Feb 2009,Cuba,FY 2009,66,No Religion,9,317
+From: 10 Feb 2009,To: 10 Feb 2009,Dem. Rep. Congo,FY 2009,1,Other Religion,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Djibouti,FY 2009,3,Moslem,3,317
+From: 10 Feb 2009,To: 10 Feb 2009,Eritrea,FY 2009,26,Catholic,5,317
+From: 10 Feb 2009,To: 10 Feb 2009,Eritrea,FY 2009,26,Christian,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Eritrea,FY 2009,26,Moslem,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Eritrea,FY 2009,26,Orthodox,15,317
+From: 10 Feb 2009,To: 10 Feb 2009,Eritrea,FY 2009,26,Protestant,3,317
+From: 10 Feb 2009,To: 10 Feb 2009,Iran,FY 2009,35,Christian,25,317
+From: 10 Feb 2009,To: 10 Feb 2009,Iran,FY 2009,35,Sabeans-Mandean,9,317
+From: 10 Feb 2009,To: 10 Feb 2009,Iran,FY 2009,35,Zoroastrian,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Iraq,FY 2009,4,Christian,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Iraq,FY 2009,4,Moslem Shiite,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Somalia,FY 2009,12,Moslem,12,317
+From: 10 Feb 2009,To: 10 Feb 2009,Vietnam,FY 2009,35,Ancestral Worship,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Vietnam,FY 2009,35,Buddhist,6,317
+From: 10 Feb 2009,To: 10 Feb 2009,Vietnam,FY 2009,35,Catholic,4,317
+From: 10 Feb 2009,To: 10 Feb 2009,Vietnam,FY 2009,35,No Religion,11,317
+From: 10 Feb 2009,To: 10 Feb 2009,Vietnam,FY 2009,35,Protestant,12,317
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Feb 2009,To: 10 Feb 2009,Ancestral Worship,FY 2009,2,Vietnam,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Baptist,FY 2009,6,Cuba,6,317
+From: 10 Feb 2009,To: 10 Feb 2009,Buddhist,FY 2009,17,Bhutan,11,317
+From: 10 Feb 2009,To: 10 Feb 2009,Buddhist,FY 2009,17,Vietnam,6,317
+From: 10 Feb 2009,To: 10 Feb 2009,Catholic,FY 2009,38,Cuba,29,317
+From: 10 Feb 2009,To: 10 Feb 2009,Catholic,FY 2009,38,Eritrea,5,317
+From: 10 Feb 2009,To: 10 Feb 2009,Catholic,FY 2009,38,Vietnam,4,317
+From: 10 Feb 2009,To: 10 Feb 2009,Christian,FY 2009,82,Bhutan,18,317
+From: 10 Feb 2009,To: 10 Feb 2009,Christian,FY 2009,82,Burma,35,317
+From: 10 Feb 2009,To: 10 Feb 2009,Christian,FY 2009,82,Eritrea,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Christian,FY 2009,82,Iran,25,317
+From: 10 Feb 2009,To: 10 Feb 2009,Christian,FY 2009,82,Iraq,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,Evangelical Christian,FY 2009,1,Cuba,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Hindu,FY 2009,68,Bhutan,68,317
+From: 10 Feb 2009,To: 10 Feb 2009,Jehovah Witness,FY 2009,21,Cuba,21,317
+From: 10 Feb 2009,To: 10 Feb 2009,Kirat,FY 2009,3,Bhutan,3,317
+From: 10 Feb 2009,To: 10 Feb 2009,Moslem,FY 2009,16,Djibouti,3,317
+From: 10 Feb 2009,To: 10 Feb 2009,Moslem,FY 2009,16,Eritrea,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Moslem,FY 2009,16,Somalia,12,317
+From: 10 Feb 2009,To: 10 Feb 2009,Moslem Shiite,FY 2009,2,Iraq,2,317
+From: 10 Feb 2009,To: 10 Feb 2009,No Religion,FY 2009,20,Cuba,9,317
+From: 10 Feb 2009,To: 10 Feb 2009,No Religion,FY 2009,20,Vietnam,11,317
+From: 10 Feb 2009,To: 10 Feb 2009,Orthodox,FY 2009,15,Eritrea,15,317
+From: 10 Feb 2009,To: 10 Feb 2009,Other Religion,FY 2009,1,Dem. Rep. Congo,1,317
+From: 10 Feb 2009,To: 10 Feb 2009,Protestant,FY 2009,15,Eritrea,3,317
+From: 10 Feb 2009,To: 10 Feb 2009,Protestant,FY 2009,15,Vietnam,12,317
+From: 10 Feb 2009,To: 10 Feb 2009,Sabeans-Mandean,FY 2009,9,Iran,9,317
+From: 10 Feb 2009,To: 10 Feb 2009,Zoroastrian,FY 2009,1,Iran,1,317
+

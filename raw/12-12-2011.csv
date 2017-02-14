@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Dec 2011,To: 12 Dec 2011,Bhutan,FY 2012,55,Buddhist,9,140
+From: 12 Dec 2011,To: 12 Dec 2011,Bhutan,FY 2012,55,Hindu,46,140
+From: 12 Dec 2011,To: 12 Dec 2011,Burma,FY 2012,10,Christian,10,140
+From: 12 Dec 2011,To: 12 Dec 2011,Dem. Rep. Congo,FY 2012,35,Catholic,3,140
+From: 12 Dec 2011,To: 12 Dec 2011,Dem. Rep. Congo,FY 2012,35,Pentecostalist,6,140
+From: 12 Dec 2011,To: 12 Dec 2011,Dem. Rep. Congo,FY 2012,35,Protestant,3,140
+From: 12 Dec 2011,To: 12 Dec 2011,Dem. Rep. Congo,FY 2012,35,Seventh Day Adventist,23,140
+From: 12 Dec 2011,To: 12 Dec 2011,Iraq,FY 2012,24,Catholic,1,140
+From: 12 Dec 2011,To: 12 Dec 2011,Iraq,FY 2012,24,Christian,4,140
+From: 12 Dec 2011,To: 12 Dec 2011,Iraq,FY 2012,24,Moslem Shiite,2,140
+From: 12 Dec 2011,To: 12 Dec 2011,Iraq,FY 2012,24,Moslem Suni,12,140
+From: 12 Dec 2011,To: 12 Dec 2011,Iraq,FY 2012,24,Orthodox,5,140
+From: 12 Dec 2011,To: 12 Dec 2011,Ukraine,FY 2012,16,Baptist,4,140
+From: 12 Dec 2011,To: 12 Dec 2011,Ukraine,FY 2012,16,Pentecostalist,12,140
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Dec 2011,To: 12 Dec 2011,Baptist,FY 2012,4,Ukraine,4,140
+From: 12 Dec 2011,To: 12 Dec 2011,Buddhist,FY 2012,9,Bhutan,9,140
+From: 12 Dec 2011,To: 12 Dec 2011,Catholic,FY 2012,4,Dem. Rep. Congo,3,140
+From: 12 Dec 2011,To: 12 Dec 2011,Catholic,FY 2012,4,Iraq,1,140
+From: 12 Dec 2011,To: 12 Dec 2011,Christian,FY 2012,14,Burma,10,140
+From: 12 Dec 2011,To: 12 Dec 2011,Christian,FY 2012,14,Iraq,4,140
+From: 12 Dec 2011,To: 12 Dec 2011,Hindu,FY 2012,46,Bhutan,46,140
+From: 12 Dec 2011,To: 12 Dec 2011,Moslem Shiite,FY 2012,2,Iraq,2,140
+From: 12 Dec 2011,To: 12 Dec 2011,Moslem Suni,FY 2012,12,Iraq,12,140
+From: 12 Dec 2011,To: 12 Dec 2011,Orthodox,FY 2012,5,Iraq,5,140
+From: 12 Dec 2011,To: 12 Dec 2011,Pentecostalist,FY 2012,18,Dem. Rep. Congo,6,140
+From: 12 Dec 2011,To: 12 Dec 2011,Pentecostalist,FY 2012,18,Ukraine,12,140
+From: 12 Dec 2011,To: 12 Dec 2011,Protestant,FY 2012,3,Dem. Rep. Congo,3,140
+From: 12 Dec 2011,To: 12 Dec 2011,Seventh Day Adventist,FY 2012,23,Dem. Rep. Congo,23,140
+

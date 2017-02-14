@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2006,To: 02 Nov 2006,Burma,FY 2007,33,Christian,33,98
+From: 02 Nov 2006,To: 02 Nov 2006,Dem. Rep. Congo,FY 2007,14,Christian,10,98
+From: 02 Nov 2006,To: 02 Nov 2006,Dem. Rep. Congo,FY 2007,14,Moslem,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,FY 2007,20,Christian,16,98
+From: 02 Nov 2006,To: 02 Nov 2006,Iran,FY 2007,20,Zoroastrian,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,Russia,FY 2007,31,Moslem,31,98
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2006,To: 02 Nov 2006,Christian,FY 2007,59,Burma,33,98
+From: 02 Nov 2006,To: 02 Nov 2006,Christian,FY 2007,59,Dem. Rep. Congo,10,98
+From: 02 Nov 2006,To: 02 Nov 2006,Christian,FY 2007,59,Iran,16,98
+From: 02 Nov 2006,To: 02 Nov 2006,Moslem,FY 2007,35,Dem. Rep. Congo,4,98
+From: 02 Nov 2006,To: 02 Nov 2006,Moslem,FY 2007,35,Russia,31,98
+From: 02 Nov 2006,To: 02 Nov 2006,Zoroastrian,FY 2007,4,Iran,4,98
+

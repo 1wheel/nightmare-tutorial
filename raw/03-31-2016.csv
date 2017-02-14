@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Mar 2016,To: 31 Mar 2016,Afghanistan,FY 2016,30,Moslem Shiite,16,432
+From: 31 Mar 2016,To: 31 Mar 2016,Afghanistan,FY 2016,30,Moslem Suni,14,432
+From: 31 Mar 2016,To: 31 Mar 2016,Burundi,FY 2016,1,Catholic,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Cuba,FY 2016,20,Catholic,6,432
+From: 31 Mar 2016,To: 31 Mar 2016,Cuba,FY 2016,20,Jehovah Witness,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Cuba,FY 2016,20,No Religion,10,432
+From: 31 Mar 2016,To: 31 Mar 2016,Cuba,FY 2016,20,Pentecostalist,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Dem. Rep. Congo,FY 2016,70,Catholic,2,432
+From: 31 Mar 2016,To: 31 Mar 2016,Dem. Rep. Congo,FY 2016,70,Christian,26,432
+From: 31 Mar 2016,To: 31 Mar 2016,Dem. Rep. Congo,FY 2016,70,Moslem,4,432
+From: 31 Mar 2016,To: 31 Mar 2016,Dem. Rep. Congo,FY 2016,70,Pentecostalist,9,432
+From: 31 Mar 2016,To: 31 Mar 2016,Dem. Rep. Congo,FY 2016,70,Protestant,16,432
+From: 31 Mar 2016,To: 31 Mar 2016,Dem. Rep. Congo,FY 2016,70,Seventh Day Adventist,13,432
+From: 31 Mar 2016,To: 31 Mar 2016,Egypt,FY 2016,1,Moslem,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Eritrea,FY 2016,12,Catholic,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Eritrea,FY 2016,12,Moslem,7,432
+From: 31 Mar 2016,To: 31 Mar 2016,Eritrea,FY 2016,12,Orthodox,4,432
+From: 31 Mar 2016,To: 31 Mar 2016,Ethiopia,FY 2016,13,Catholic,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Ethiopia,FY 2016,13,Christian,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Ethiopia,FY 2016,13,Moslem,8,432
+From: 31 Mar 2016,To: 31 Mar 2016,Ethiopia,FY 2016,13,Orthodox,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iran,FY 2016,29,Bahai,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iran,FY 2016,29,Christian,18,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iran,FY 2016,29,Sabeans-Mandean,7,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iran,FY 2016,29,Zoroastrian,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iraq,FY 2016,34,Catholic,2,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iraq,FY 2016,34,Moslem,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iraq,FY 2016,34,Moslem Shiite,14,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iraq,FY 2016,34,Moslem Suni,11,432
+From: 31 Mar 2016,To: 31 Mar 2016,Iraq,FY 2016,34,Orthodox,4,432
+From: 31 Mar 2016,To: 31 Mar 2016,Somalia,FY 2016,142,Moslem,142,432
+From: 31 Mar 2016,To: 31 Mar 2016,Sudan,FY 2016,2,Moslem,2,432
+From: 31 Mar 2016,To: 31 Mar 2016,Syria,FY 2016,41,Moslem Shiite,5,432
+From: 31 Mar 2016,To: 31 Mar 2016,Syria,FY 2016,41,Moslem Suni,36,432
+From: 31 Mar 2016,To: 31 Mar 2016,Uganda,FY 2016,2,Christian,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Uganda,FY 2016,2,Protestant,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Ukraine,FY 2016,35,Baptist,9,432
+From: 31 Mar 2016,To: 31 Mar 2016,Ukraine,FY 2016,35,Pentecostalist,26,432
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Mar 2016,To: 31 Mar 2016,Bahai,FY 2016,3,Iran,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Baptist,FY 2016,9,Ukraine,9,432
+From: 31 Mar 2016,To: 31 Mar 2016,Catholic,FY 2016,13,Burundi,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Catholic,FY 2016,13,Cuba,6,432
+From: 31 Mar 2016,To: 31 Mar 2016,Catholic,FY 2016,13,Dem. Rep. Congo,2,432
+From: 31 Mar 2016,To: 31 Mar 2016,Catholic,FY 2016,13,Eritrea,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Catholic,FY 2016,13,Ethiopia,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Catholic,FY 2016,13,Iraq,2,432
+From: 31 Mar 2016,To: 31 Mar 2016,Christian,FY 2016,48,Dem. Rep. Congo,26,432
+From: 31 Mar 2016,To: 31 Mar 2016,Christian,FY 2016,48,Ethiopia,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Christian,FY 2016,48,Iran,18,432
+From: 31 Mar 2016,To: 31 Mar 2016,Christian,FY 2016,48,Uganda,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Jehovah Witness,FY 2016,1,Cuba,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Dem. Rep. Congo,4,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Egypt,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Eritrea,7,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Ethiopia,8,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Iraq,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Somalia,142,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem,FY 2016,167,Sudan,2,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem Shiite,FY 2016,35,Afghanistan,16,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem Shiite,FY 2016,35,Iraq,14,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem Shiite,FY 2016,35,Syria,5,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem Suni,FY 2016,61,Afghanistan,14,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem Suni,FY 2016,61,Iraq,11,432
+From: 31 Mar 2016,To: 31 Mar 2016,Moslem Suni,FY 2016,61,Syria,36,432
+From: 31 Mar 2016,To: 31 Mar 2016,No Religion,FY 2016,10,Cuba,10,432
+From: 31 Mar 2016,To: 31 Mar 2016,Orthodox,FY 2016,9,Eritrea,4,432
+From: 31 Mar 2016,To: 31 Mar 2016,Orthodox,FY 2016,9,Ethiopia,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Orthodox,FY 2016,9,Iraq,4,432
+From: 31 Mar 2016,To: 31 Mar 2016,Pentecostalist,FY 2016,38,Cuba,3,432
+From: 31 Mar 2016,To: 31 Mar 2016,Pentecostalist,FY 2016,38,Dem. Rep. Congo,9,432
+From: 31 Mar 2016,To: 31 Mar 2016,Pentecostalist,FY 2016,38,Ukraine,26,432
+From: 31 Mar 2016,To: 31 Mar 2016,Protestant,FY 2016,17,Dem. Rep. Congo,16,432
+From: 31 Mar 2016,To: 31 Mar 2016,Protestant,FY 2016,17,Uganda,1,432
+From: 31 Mar 2016,To: 31 Mar 2016,Sabeans-Mandean,FY 2016,7,Iran,7,432
+From: 31 Mar 2016,To: 31 Mar 2016,Seventh Day Adventist,FY 2016,13,Dem. Rep. Congo,13,432
+From: 31 Mar 2016,To: 31 Mar 2016,Zoroastrian,FY 2016,1,Iran,1,432
+

@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jul 2003,To: 15 Jul 2003,Colombia,FY 2003,16,Catholic,16,117
+From: 15 Jul 2003,To: 15 Jul 2003,Eritrea,FY 2003,2,Christian,2,117
+From: 15 Jul 2003,To: 15 Jul 2003,Iran,FY 2003,28,Bahai,3,117
+From: 15 Jul 2003,To: 15 Jul 2003,Iran,FY 2003,28,Christian,6,117
+From: 15 Jul 2003,To: 15 Jul 2003,Iran,FY 2003,28,Jewish,12,117
+From: 15 Jul 2003,To: 15 Jul 2003,Iran,FY 2003,28,Moslem,4,117
+From: 15 Jul 2003,To: 15 Jul 2003,Iran,FY 2003,28,Zoroastrian,3,117
+From: 15 Jul 2003,To: 15 Jul 2003,Macedonia,FY 2003,1,Moslem,1,117
+From: 15 Jul 2003,To: 15 Jul 2003,Somalia,FY 2003,35,Moslem,35,117
+From: 15 Jul 2003,To: 15 Jul 2003,Ukraine,FY 2003,35,Baptist,3,117
+From: 15 Jul 2003,To: 15 Jul 2003,Ukraine,FY 2003,35,Jewish,7,117
+From: 15 Jul 2003,To: 15 Jul 2003,Ukraine,FY 2003,35,No Religion,2,117
+From: 15 Jul 2003,To: 15 Jul 2003,Ukraine,FY 2003,35,Pentecostalist,22,117
+From: 15 Jul 2003,To: 15 Jul 2003,Ukraine,FY 2003,35,Uniate,1,117
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jul 2003,To: 15 Jul 2003,Bahai,FY 2003,3,Iran,3,117
+From: 15 Jul 2003,To: 15 Jul 2003,Baptist,FY 2003,3,Ukraine,3,117
+From: 15 Jul 2003,To: 15 Jul 2003,Catholic,FY 2003,16,Colombia,16,117
+From: 15 Jul 2003,To: 15 Jul 2003,Christian,FY 2003,8,Eritrea,2,117
+From: 15 Jul 2003,To: 15 Jul 2003,Christian,FY 2003,8,Iran,6,117
+From: 15 Jul 2003,To: 15 Jul 2003,Jewish,FY 2003,19,Iran,12,117
+From: 15 Jul 2003,To: 15 Jul 2003,Jewish,FY 2003,19,Ukraine,7,117
+From: 15 Jul 2003,To: 15 Jul 2003,Moslem,FY 2003,40,Iran,4,117
+From: 15 Jul 2003,To: 15 Jul 2003,Moslem,FY 2003,40,Macedonia,1,117
+From: 15 Jul 2003,To: 15 Jul 2003,Moslem,FY 2003,40,Somalia,35,117
+From: 15 Jul 2003,To: 15 Jul 2003,No Religion,FY 2003,2,Ukraine,2,117
+From: 15 Jul 2003,To: 15 Jul 2003,Pentecostalist,FY 2003,22,Ukraine,22,117
+From: 15 Jul 2003,To: 15 Jul 2003,Uniate,FY 2003,1,Ukraine,1,117
+From: 15 Jul 2003,To: 15 Jul 2003,Zoroastrian,FY 2003,3,Iran,3,117
+

@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Jun 2005,To: 09 Jun 2005,Cuba,FY 2005,63,Baptist,4,238
+From: 09 Jun 2005,To: 09 Jun 2005,Cuba,FY 2005,63,Catholic,20,238
+From: 09 Jun 2005,To: 09 Jun 2005,Cuba,FY 2005,63,Jehovah Witness,10,238
+From: 09 Jun 2005,To: 09 Jun 2005,Cuba,FY 2005,63,No Religion,29,238
+From: 09 Jun 2005,To: 09 Jun 2005,Dem. Rep. Congo,FY 2005,2,Protestant,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Eritrea,FY 2005,2,Orthodox,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Ethiopia,FY 2005,2,Orthodox,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Iraq,FY 2005,6,Moslem,6,238
+From: 09 Jun 2005,To: 09 Jun 2005,Laos,FY 2005,68,Ancestral Worship,65,238
+From: 09 Jun 2005,To: 09 Jun 2005,Laos,FY 2005,68,Christian,3,238
+From: 09 Jun 2005,To: 09 Jun 2005,Liberia,FY 2005,2,Christian,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Rwanda,FY 2005,1,Christian,1,238
+From: 09 Jun 2005,To: 09 Jun 2005,Somalia,FY 2005,55,Moslem,55,238
+From: 09 Jun 2005,To: 09 Jun 2005,Sudan,FY 2005,32,Catholic,20,238
+From: 09 Jun 2005,To: 09 Jun 2005,Sudan,FY 2005,32,Christian,1,238
+From: 09 Jun 2005,To: 09 Jun 2005,Sudan,FY 2005,32,Moslem,10,238
+From: 09 Jun 2005,To: 09 Jun 2005,Sudan,FY 2005,32,Seventh Day Adventist,1,238
+From: 09 Jun 2005,To: 09 Jun 2005,Uganda,FY 2005,5,Moslem,5,238
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Jun 2005,To: 09 Jun 2005,Ancestral Worship,FY 2005,65,Laos,65,238
+From: 09 Jun 2005,To: 09 Jun 2005,Baptist,FY 2005,4,Cuba,4,238
+From: 09 Jun 2005,To: 09 Jun 2005,Catholic,FY 2005,40,Cuba,20,238
+From: 09 Jun 2005,To: 09 Jun 2005,Catholic,FY 2005,40,Sudan,20,238
+From: 09 Jun 2005,To: 09 Jun 2005,Christian,FY 2005,7,Laos,3,238
+From: 09 Jun 2005,To: 09 Jun 2005,Christian,FY 2005,7,Liberia,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Christian,FY 2005,7,Rwanda,1,238
+From: 09 Jun 2005,To: 09 Jun 2005,Christian,FY 2005,7,Sudan,1,238
+From: 09 Jun 2005,To: 09 Jun 2005,Jehovah Witness,FY 2005,10,Cuba,10,238
+From: 09 Jun 2005,To: 09 Jun 2005,Moslem,FY 2005,76,Iraq,6,238
+From: 09 Jun 2005,To: 09 Jun 2005,Moslem,FY 2005,76,Somalia,55,238
+From: 09 Jun 2005,To: 09 Jun 2005,Moslem,FY 2005,76,Sudan,10,238
+From: 09 Jun 2005,To: 09 Jun 2005,Moslem,FY 2005,76,Uganda,5,238
+From: 09 Jun 2005,To: 09 Jun 2005,No Religion,FY 2005,29,Cuba,29,238
+From: 09 Jun 2005,To: 09 Jun 2005,Orthodox,FY 2005,4,Eritrea,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Orthodox,FY 2005,4,Ethiopia,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Protestant,FY 2005,2,Dem. Rep. Congo,2,238
+From: 09 Jun 2005,To: 09 Jun 2005,Seventh Day Adventist,FY 2005,1,Sudan,1,238
+

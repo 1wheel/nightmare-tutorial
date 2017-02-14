@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Feb 2012,To: 07 Feb 2012,Bhutan,FY 2012,139,Buddhist,26,404
+From: 07 Feb 2012,To: 07 Feb 2012,Bhutan,FY 2012,139,Christian,7,404
+From: 07 Feb 2012,To: 07 Feb 2012,Bhutan,FY 2012,139,Hindu,96,404
+From: 07 Feb 2012,To: 07 Feb 2012,Bhutan,FY 2012,139,Kirat,10,404
+From: 07 Feb 2012,To: 07 Feb 2012,Burma,FY 2012,93,Baptist,13,404
+From: 07 Feb 2012,To: 07 Feb 2012,Burma,FY 2012,93,Buddhist,23,404
+From: 07 Feb 2012,To: 07 Feb 2012,Burma,FY 2012,93,Christian,45,404
+From: 07 Feb 2012,To: 07 Feb 2012,Burma,FY 2012,93,Hindu,4,404
+From: 07 Feb 2012,To: 07 Feb 2012,Burma,FY 2012,93,Moslem,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,Cuba,FY 2012,7,Catholic,2,404
+From: 07 Feb 2012,To: 07 Feb 2012,Cuba,FY 2012,7,Jehovah Witness,4,404
+From: 07 Feb 2012,To: 07 Feb 2012,Cuba,FY 2012,7,No Religion,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Dem. Rep. Congo,FY 2012,1,Protestant,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Eritrea,FY 2012,24,Catholic,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Eritrea,FY 2012,24,Moslem,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Eritrea,FY 2012,24,Orthodox,19,404
+From: 07 Feb 2012,To: 07 Feb 2012,Eritrea,FY 2012,24,Protestant,3,404
+From: 07 Feb 2012,To: 07 Feb 2012,Ethiopia,FY 2012,10,Christian,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,Ethiopia,FY 2012,10,Moslem,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Ethiopia,FY 2012,10,Orthodox,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Gambia,FY 2012,2,Moslem,2,404
+From: 07 Feb 2012,To: 07 Feb 2012,Iraq,FY 2012,40,Christian,31,404
+From: 07 Feb 2012,To: 07 Feb 2012,Iraq,FY 2012,40,Moslem Shiite,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Iraq,FY 2012,40,Moslem Suni,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,Pakistan,FY 2012,5,Ahmadiyya,4,404
+From: 07 Feb 2012,To: 07 Feb 2012,Pakistan,FY 2012,5,Christian,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Somalia,FY 2012,74,Moslem,74,404
+From: 07 Feb 2012,To: 07 Feb 2012,Sudan,FY 2012,9,Catholic,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Sudan,FY 2012,9,Moslem,8,404
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Feb 2012,To: 07 Feb 2012,Ahmadiyya,FY 2012,4,Pakistan,4,404
+From: 07 Feb 2012,To: 07 Feb 2012,Baptist,FY 2012,13,Burma,13,404
+From: 07 Feb 2012,To: 07 Feb 2012,Buddhist,FY 2012,49,Bhutan,26,404
+From: 07 Feb 2012,To: 07 Feb 2012,Buddhist,FY 2012,49,Burma,23,404
+From: 07 Feb 2012,To: 07 Feb 2012,Catholic,FY 2012,4,Cuba,2,404
+From: 07 Feb 2012,To: 07 Feb 2012,Catholic,FY 2012,4,Eritrea,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Catholic,FY 2012,4,Sudan,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Christian,FY 2012,92,Bhutan,7,404
+From: 07 Feb 2012,To: 07 Feb 2012,Christian,FY 2012,92,Burma,45,404
+From: 07 Feb 2012,To: 07 Feb 2012,Christian,FY 2012,92,Ethiopia,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,Christian,FY 2012,92,Iraq,31,404
+From: 07 Feb 2012,To: 07 Feb 2012,Christian,FY 2012,92,Pakistan,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Hindu,FY 2012,100,Bhutan,96,404
+From: 07 Feb 2012,To: 07 Feb 2012,Hindu,FY 2012,100,Burma,4,404
+From: 07 Feb 2012,To: 07 Feb 2012,Jehovah Witness,FY 2012,4,Cuba,4,404
+From: 07 Feb 2012,To: 07 Feb 2012,Kirat,FY 2012,10,Bhutan,10,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem,FY 2012,94,Burma,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem,FY 2012,94,Eritrea,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem,FY 2012,94,Ethiopia,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem,FY 2012,94,Gambia,2,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem,FY 2012,94,Somalia,74,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem,FY 2012,94,Sudan,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem Shiite,FY 2012,1,Iraq,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Moslem Suni,FY 2012,8,Iraq,8,404
+From: 07 Feb 2012,To: 07 Feb 2012,No Religion,FY 2012,1,Cuba,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Orthodox,FY 2012,20,Eritrea,19,404
+From: 07 Feb 2012,To: 07 Feb 2012,Orthodox,FY 2012,20,Ethiopia,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Protestant,FY 2012,4,Dem. Rep. Congo,1,404
+From: 07 Feb 2012,To: 07 Feb 2012,Protestant,FY 2012,4,Eritrea,3,404
+

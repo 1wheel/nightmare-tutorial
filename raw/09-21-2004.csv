@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Sep 2004,To: 21 Sep 2004,Afghanistan,FY 2004,5,Moslem,5,590
+From: 21 Sep 2004,To: 21 Sep 2004,Azerbaijan,FY 2004,3,Unknown,3,590
+From: 21 Sep 2004,To: 21 Sep 2004,Burma,FY 2004,63,Buddhist,33,590
+From: 21 Sep 2004,To: 21 Sep 2004,Burma,FY 2004,63,Catholic,4,590
+From: 21 Sep 2004,To: 21 Sep 2004,Burma,FY 2004,63,Christian,4,590
+From: 21 Sep 2004,To: 21 Sep 2004,Burma,FY 2004,63,Moslem,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Burma,FY 2004,63,Protestant,20,590
+From: 21 Sep 2004,To: 21 Sep 2004,Cuba,FY 2004,66,Baptist,1,590
+From: 21 Sep 2004,To: 21 Sep 2004,Cuba,FY 2004,66,Catholic,12,590
+From: 21 Sep 2004,To: 21 Sep 2004,Cuba,FY 2004,66,Jehovah Witness,12,590
+From: 21 Sep 2004,To: 21 Sep 2004,Cuba,FY 2004,66,No Religion,41,590
+From: 21 Sep 2004,To: 21 Sep 2004,Eritrea,FY 2004,2,Catholic,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Ethiopia,FY 2004,23,Moslem,15,590
+From: 21 Sep 2004,To: 21 Sep 2004,Ethiopia,FY 2004,23,Orthodox,8,590
+From: 21 Sep 2004,To: 21 Sep 2004,Georgia,FY 2004,2,Jewish,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Iran,FY 2004,15,Jewish,15,590
+From: 21 Sep 2004,To: 21 Sep 2004,Iraq,FY 2004,3,Moslem,3,590
+From: 21 Sep 2004,To: 21 Sep 2004,Laos,FY 2004,156,Ancestral Worship,154,590
+From: 21 Sep 2004,To: 21 Sep 2004,Laos,FY 2004,156,Christian,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Russia,FY 2004,26,Baptist,6,590
+From: 21 Sep 2004,To: 21 Sep 2004,Russia,FY 2004,26,Jewish,17,590
+From: 21 Sep 2004,To: 21 Sep 2004,Russia,FY 2004,26,No Religion,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Russia,FY 2004,26,Orthodox,1,590
+From: 21 Sep 2004,To: 21 Sep 2004,Somalia,FY 2004,136,Moslem,134,590
+From: 21 Sep 2004,To: 21 Sep 2004,Somalia,FY 2004,136,Moslem Suni,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Sudan,FY 2004,63,Catholic,31,590
+From: 21 Sep 2004,To: 21 Sep 2004,Sudan,FY 2004,63,Christian,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Sudan,FY 2004,63,Moslem,16,590
+From: 21 Sep 2004,To: 21 Sep 2004,Sudan,FY 2004,63,Protestant,14,590
+From: 21 Sep 2004,To: 21 Sep 2004,Ukraine,FY 2004,25,Baptist,1,590
+From: 21 Sep 2004,To: 21 Sep 2004,Ukraine,FY 2004,25,Pentecostalist,24,590
+From: 21 Sep 2004,To: 21 Sep 2004,Uzbekistan,FY 2004,2,Seventh Day Adventist,2,590
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Sep 2004,To: 21 Sep 2004,Ancestral Worship,FY 2004,154,Laos,154,590
+From: 21 Sep 2004,To: 21 Sep 2004,Baptist,FY 2004,8,Cuba,1,590
+From: 21 Sep 2004,To: 21 Sep 2004,Baptist,FY 2004,8,Russia,6,590
+From: 21 Sep 2004,To: 21 Sep 2004,Baptist,FY 2004,8,Ukraine,1,590
+From: 21 Sep 2004,To: 21 Sep 2004,Buddhist,FY 2004,33,Burma,33,590
+From: 21 Sep 2004,To: 21 Sep 2004,Catholic,FY 2004,49,Burma,4,590
+From: 21 Sep 2004,To: 21 Sep 2004,Catholic,FY 2004,49,Cuba,12,590
+From: 21 Sep 2004,To: 21 Sep 2004,Catholic,FY 2004,49,Eritrea,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Catholic,FY 2004,49,Sudan,31,590
+From: 21 Sep 2004,To: 21 Sep 2004,Christian,FY 2004,8,Burma,4,590
+From: 21 Sep 2004,To: 21 Sep 2004,Christian,FY 2004,8,Laos,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Christian,FY 2004,8,Sudan,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Jehovah Witness,FY 2004,12,Cuba,12,590
+From: 21 Sep 2004,To: 21 Sep 2004,Jewish,FY 2004,34,Georgia,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Jewish,FY 2004,34,Iran,15,590
+From: 21 Sep 2004,To: 21 Sep 2004,Jewish,FY 2004,34,Russia,17,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem,FY 2004,175,Afghanistan,5,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem,FY 2004,175,Burma,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem,FY 2004,175,Ethiopia,15,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem,FY 2004,175,Iraq,3,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem,FY 2004,175,Somalia,134,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem,FY 2004,175,Sudan,16,590
+From: 21 Sep 2004,To: 21 Sep 2004,Moslem Suni,FY 2004,2,Somalia,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,No Religion,FY 2004,43,Cuba,41,590
+From: 21 Sep 2004,To: 21 Sep 2004,No Religion,FY 2004,43,Russia,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Orthodox,FY 2004,9,Ethiopia,8,590
+From: 21 Sep 2004,To: 21 Sep 2004,Orthodox,FY 2004,9,Russia,1,590
+From: 21 Sep 2004,To: 21 Sep 2004,Pentecostalist,FY 2004,24,Ukraine,24,590
+From: 21 Sep 2004,To: 21 Sep 2004,Protestant,FY 2004,34,Burma,20,590
+From: 21 Sep 2004,To: 21 Sep 2004,Protestant,FY 2004,34,Sudan,14,590
+From: 21 Sep 2004,To: 21 Sep 2004,Seventh Day Adventist,FY 2004,2,Uzbekistan,2,590
+From: 21 Sep 2004,To: 21 Sep 2004,Unknown,FY 2004,3,Azerbaijan,3,590
+

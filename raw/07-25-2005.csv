@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jul 2005,To: 25 Jul 2005,Afghanistan,FY 2005,16,Moslem Shiite,2,261
+From: 25 Jul 2005,To: 25 Jul 2005,Afghanistan,FY 2005,16,Moslem Suni,14,261
+From: 25 Jul 2005,To: 25 Jul 2005,Armenia,FY 2005,1,Pentecostalist,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Azerbaijan,FY 2005,5,Christian,5,261
+From: 25 Jul 2005,To: 25 Jul 2005,Burma,FY 2005,21,Buddhist,8,261
+From: 25 Jul 2005,To: 25 Jul 2005,Burma,FY 2005,21,Catholic,6,261
+From: 25 Jul 2005,To: 25 Jul 2005,Burma,FY 2005,21,Moslem,7,261
+From: 25 Jul 2005,To: 25 Jul 2005,Cameroon,FY 2005,4,Catholic,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Cameroon,FY 2005,4,Christian,3,261
+From: 25 Jul 2005,To: 25 Jul 2005,Ethiopia,FY 2005,1,Protestant,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Liberia,FY 2005,30,Catholic,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Liberia,FY 2005,30,Christian,14,261
+From: 25 Jul 2005,To: 25 Jul 2005,Liberia,FY 2005,30,Methodist,2,261
+From: 25 Jul 2005,To: 25 Jul 2005,Liberia,FY 2005,30,Moslem,13,261
+From: 25 Jul 2005,To: 25 Jul 2005,Russia,FY 2005,48,Baptist,5,261
+From: 25 Jul 2005,To: 25 Jul 2005,Russia,FY 2005,48,Jewish,3,261
+From: 25 Jul 2005,To: 25 Jul 2005,Russia,FY 2005,48,Moslem,35,261
+From: 25 Jul 2005,To: 25 Jul 2005,Russia,FY 2005,48,Seventh Day Adventist,5,261
+From: 25 Jul 2005,To: 25 Jul 2005,Somalia,FY 2005,77,Moslem,76,261
+From: 25 Jul 2005,To: 25 Jul 2005,Somalia,FY 2005,77,Moslem Suni,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Sudan,FY 2005,29,Catholic,9,261
+From: 25 Jul 2005,To: 25 Jul 2005,Sudan,FY 2005,29,Moslem,12,261
+From: 25 Jul 2005,To: 25 Jul 2005,Sudan,FY 2005,29,Protestant,8,261
+From: 25 Jul 2005,To: 25 Jul 2005,Ukraine,FY 2005,29,Baptist,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Ukraine,FY 2005,29,Pentecostalist,28,261
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jul 2005,To: 25 Jul 2005,Baptist,FY 2005,6,Russia,5,261
+From: 25 Jul 2005,To: 25 Jul 2005,Baptist,FY 2005,6,Ukraine,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Buddhist,FY 2005,8,Burma,8,261
+From: 25 Jul 2005,To: 25 Jul 2005,Catholic,FY 2005,17,Burma,6,261
+From: 25 Jul 2005,To: 25 Jul 2005,Catholic,FY 2005,17,Cameroon,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Catholic,FY 2005,17,Liberia,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Catholic,FY 2005,17,Sudan,9,261
+From: 25 Jul 2005,To: 25 Jul 2005,Christian,FY 2005,22,Azerbaijan,5,261
+From: 25 Jul 2005,To: 25 Jul 2005,Christian,FY 2005,22,Cameroon,3,261
+From: 25 Jul 2005,To: 25 Jul 2005,Christian,FY 2005,22,Liberia,14,261
+From: 25 Jul 2005,To: 25 Jul 2005,Jewish,FY 2005,3,Russia,3,261
+From: 25 Jul 2005,To: 25 Jul 2005,Methodist,FY 2005,2,Liberia,2,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem,FY 2005,143,Burma,7,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem,FY 2005,143,Liberia,13,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem,FY 2005,143,Russia,35,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem,FY 2005,143,Somalia,76,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem,FY 2005,143,Sudan,12,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem Shiite,FY 2005,2,Afghanistan,2,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem Suni,FY 2005,15,Afghanistan,14,261
+From: 25 Jul 2005,To: 25 Jul 2005,Moslem Suni,FY 2005,15,Somalia,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Pentecostalist,FY 2005,29,Armenia,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Pentecostalist,FY 2005,29,Ukraine,28,261
+From: 25 Jul 2005,To: 25 Jul 2005,Protestant,FY 2005,9,Ethiopia,1,261
+From: 25 Jul 2005,To: 25 Jul 2005,Protestant,FY 2005,9,Sudan,8,261
+From: 25 Jul 2005,To: 25 Jul 2005,Seventh Day Adventist,FY 2005,5,Russia,5,261
+

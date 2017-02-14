@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 May 2009,To: 27 May 2009,Afghanistan,FY 2009,5,Moslem Suni,5,480
+From: 27 May 2009,To: 27 May 2009,Armenia,FY 2009,1,Pentecostalist,1,480
+From: 27 May 2009,To: 27 May 2009,Bhutan,FY 2009,53,Buddhist,1,480
+From: 27 May 2009,To: 27 May 2009,Bhutan,FY 2009,53,Christian,11,480
+From: 27 May 2009,To: 27 May 2009,Bhutan,FY 2009,53,Hindu,41,480
+From: 27 May 2009,To: 27 May 2009,Burma,FY 2009,194,Animist,28,480
+From: 27 May 2009,To: 27 May 2009,Burma,FY 2009,194,Buddhist,19,480
+From: 27 May 2009,To: 27 May 2009,Burma,FY 2009,194,Catholic,38,480
+From: 27 May 2009,To: 27 May 2009,Burma,FY 2009,194,Christian,102,480
+From: 27 May 2009,To: 27 May 2009,Burma,FY 2009,194,Moslem,3,480
+From: 27 May 2009,To: 27 May 2009,Burma,FY 2009,194,Protestant,4,480
+From: 27 May 2009,To: 27 May 2009,China,FY 2009,4,Buddhist,1,480
+From: 27 May 2009,To: 27 May 2009,China,FY 2009,4,Other Religion,3,480
+From: 27 May 2009,To: 27 May 2009,Iran,FY 2009,8,Bahai,4,480
+From: 27 May 2009,To: 27 May 2009,Iran,FY 2009,8,Christian,4,480
+From: 27 May 2009,To: 27 May 2009,Iraq,FY 2009,152,Catholic,22,480
+From: 27 May 2009,To: 27 May 2009,Iraq,FY 2009,152,Christian,46,480
+From: 27 May 2009,To: 27 May 2009,Iraq,FY 2009,152,Moslem Shiite,35,480
+From: 27 May 2009,To: 27 May 2009,Iraq,FY 2009,152,Moslem Suni,43,480
+From: 27 May 2009,To: 27 May 2009,Iraq,FY 2009,152,Sabeans-Mandean,6,480
+From: 27 May 2009,To: 27 May 2009,Kazakhstan,FY 2009,7,Pentecostalist,3,480
+From: 27 May 2009,To: 27 May 2009,Kazakhstan,FY 2009,7,Seventh Day Adventist,4,480
+From: 27 May 2009,To: 27 May 2009,Liberia,FY 2009,5,Christian,5,480
+From: 27 May 2009,To: 27 May 2009,Moldova,FY 2009,20,Baptist,4,480
+From: 27 May 2009,To: 27 May 2009,Moldova,FY 2009,20,Pentecostalist,13,480
+From: 27 May 2009,To: 27 May 2009,Moldova,FY 2009,20,Seventh Day Adventist,3,480
+From: 27 May 2009,To: 27 May 2009,Palestine,FY 2009,4,Moslem Suni,4,480
+From: 27 May 2009,To: 27 May 2009,Russia,FY 2009,18,Baptist,5,480
+From: 27 May 2009,To: 27 May 2009,Russia,FY 2009,18,Evangelical Christian,3,480
+From: 27 May 2009,To: 27 May 2009,Russia,FY 2009,18,Jewish,3,480
+From: 27 May 2009,To: 27 May 2009,Russia,FY 2009,18,Pentecostalist,3,480
+From: 27 May 2009,To: 27 May 2009,Russia,FY 2009,18,Seventh Day Adventist,4,480
+From: 27 May 2009,To: 27 May 2009,Somalia,FY 2009,9,Moslem,9,480
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 May 2009,To: 27 May 2009,Animist,FY 2009,28,Burma,28,480
+From: 27 May 2009,To: 27 May 2009,Bahai,FY 2009,4,Iran,4,480
+From: 27 May 2009,To: 27 May 2009,Baptist,FY 2009,9,Moldova,4,480
+From: 27 May 2009,To: 27 May 2009,Baptist,FY 2009,9,Russia,5,480
+From: 27 May 2009,To: 27 May 2009,Buddhist,FY 2009,21,Bhutan,1,480
+From: 27 May 2009,To: 27 May 2009,Buddhist,FY 2009,21,Burma,19,480
+From: 27 May 2009,To: 27 May 2009,Buddhist,FY 2009,21,China,1,480
+From: 27 May 2009,To: 27 May 2009,Catholic,FY 2009,60,Burma,38,480
+From: 27 May 2009,To: 27 May 2009,Catholic,FY 2009,60,Iraq,22,480
+From: 27 May 2009,To: 27 May 2009,Christian,FY 2009,168,Bhutan,11,480
+From: 27 May 2009,To: 27 May 2009,Christian,FY 2009,168,Burma,102,480
+From: 27 May 2009,To: 27 May 2009,Christian,FY 2009,168,Iran,4,480
+From: 27 May 2009,To: 27 May 2009,Christian,FY 2009,168,Iraq,46,480
+From: 27 May 2009,To: 27 May 2009,Christian,FY 2009,168,Liberia,5,480
+From: 27 May 2009,To: 27 May 2009,Evangelical Christian,FY 2009,3,Russia,3,480
+From: 27 May 2009,To: 27 May 2009,Hindu,FY 2009,41,Bhutan,41,480
+From: 27 May 2009,To: 27 May 2009,Jewish,FY 2009,3,Russia,3,480
+From: 27 May 2009,To: 27 May 2009,Moslem,FY 2009,12,Burma,3,480
+From: 27 May 2009,To: 27 May 2009,Moslem,FY 2009,12,Somalia,9,480
+From: 27 May 2009,To: 27 May 2009,Moslem Shiite,FY 2009,35,Iraq,35,480
+From: 27 May 2009,To: 27 May 2009,Moslem Suni,FY 2009,52,Afghanistan,5,480
+From: 27 May 2009,To: 27 May 2009,Moslem Suni,FY 2009,52,Iraq,43,480
+From: 27 May 2009,To: 27 May 2009,Moslem Suni,FY 2009,52,Palestine,4,480
+From: 27 May 2009,To: 27 May 2009,Other Religion,FY 2009,3,China,3,480
+From: 27 May 2009,To: 27 May 2009,Pentecostalist,FY 2009,20,Armenia,1,480
+From: 27 May 2009,To: 27 May 2009,Pentecostalist,FY 2009,20,Kazakhstan,3,480
+From: 27 May 2009,To: 27 May 2009,Pentecostalist,FY 2009,20,Moldova,13,480
+From: 27 May 2009,To: 27 May 2009,Pentecostalist,FY 2009,20,Russia,3,480
+From: 27 May 2009,To: 27 May 2009,Protestant,FY 2009,4,Burma,4,480
+From: 27 May 2009,To: 27 May 2009,Sabeans-Mandean,FY 2009,6,Iraq,6,480
+From: 27 May 2009,To: 27 May 2009,Seventh Day Adventist,FY 2009,11,Kazakhstan,4,480
+From: 27 May 2009,To: 27 May 2009,Seventh Day Adventist,FY 2009,11,Moldova,3,480
+From: 27 May 2009,To: 27 May 2009,Seventh Day Adventist,FY 2009,11,Russia,4,480
+

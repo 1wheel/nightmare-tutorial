@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2005,To: 28 Jun 2005,Cuba,FY 2005,63,Baptist,7,276
+From: 28 Jun 2005,To: 28 Jun 2005,Cuba,FY 2005,63,Catholic,15,276
+From: 28 Jun 2005,To: 28 Jun 2005,Cuba,FY 2005,63,Jehovah Witness,9,276
+From: 28 Jun 2005,To: 28 Jun 2005,Cuba,FY 2005,63,No Religion,32,276
+From: 28 Jun 2005,To: 28 Jun 2005,Laos,FY 2005,100,Ancestral Worship,100,276
+From: 28 Jun 2005,To: 28 Jun 2005,Liberia,FY 2005,20,Moslem,20,276
+From: 28 Jun 2005,To: 28 Jun 2005,Moldova,FY 2005,30,Baptist,7,276
+From: 28 Jun 2005,To: 28 Jun 2005,Moldova,FY 2005,30,Pentecostalist,23,276
+From: 28 Jun 2005,To: 28 Jun 2005,Russia,FY 2005,35,Moslem,35,276
+From: 28 Jun 2005,To: 28 Jun 2005,Somalia,FY 2005,28,Moslem,28,276
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2005,To: 28 Jun 2005,Ancestral Worship,FY 2005,100,Laos,100,276
+From: 28 Jun 2005,To: 28 Jun 2005,Baptist,FY 2005,14,Cuba,7,276
+From: 28 Jun 2005,To: 28 Jun 2005,Baptist,FY 2005,14,Moldova,7,276
+From: 28 Jun 2005,To: 28 Jun 2005,Catholic,FY 2005,15,Cuba,15,276
+From: 28 Jun 2005,To: 28 Jun 2005,Jehovah Witness,FY 2005,9,Cuba,9,276
+From: 28 Jun 2005,To: 28 Jun 2005,Moslem,FY 2005,83,Liberia,20,276
+From: 28 Jun 2005,To: 28 Jun 2005,Moslem,FY 2005,83,Russia,35,276
+From: 28 Jun 2005,To: 28 Jun 2005,Moslem,FY 2005,83,Somalia,28,276
+From: 28 Jun 2005,To: 28 Jun 2005,No Religion,FY 2005,32,Cuba,32,276
+From: 28 Jun 2005,To: 28 Jun 2005,Pentecostalist,FY 2005,23,Moldova,23,276
+

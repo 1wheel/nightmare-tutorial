@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Mar 2005,To: 09 Mar 2005,Ethiopia,FY 2005,11,Christian,4,153
+From: 09 Mar 2005,To: 09 Mar 2005,Ethiopia,FY 2005,11,Moslem,7,153
+From: 09 Mar 2005,To: 09 Mar 2005,Ghana,FY 2005,1,Christian,1,153
+From: 09 Mar 2005,To: 09 Mar 2005,Iran,FY 2005,18,Christian,11,153
+From: 09 Mar 2005,To: 09 Mar 2005,Iran,FY 2005,18,Zoroastrian,7,153
+From: 09 Mar 2005,To: 09 Mar 2005,Laos,FY 2005,29,Ancestral Worship,29,153
+From: 09 Mar 2005,To: 09 Mar 2005,Liberia,FY 2005,18,Catholic,2,153
+From: 09 Mar 2005,To: 09 Mar 2005,Liberia,FY 2005,18,Christian,13,153
+From: 09 Mar 2005,To: 09 Mar 2005,Liberia,FY 2005,18,Methodist,3,153
+From: 09 Mar 2005,To: 09 Mar 2005,Russia,FY 2005,25,Moslem,25,153
+From: 09 Mar 2005,To: 09 Mar 2005,Serbia,FY 2005,1,Moslem,1,153
+From: 09 Mar 2005,To: 09 Mar 2005,Somalia,FY 2005,50,Moslem,50,153
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Mar 2005,To: 09 Mar 2005,Ancestral Worship,FY 2005,29,Laos,29,153
+From: 09 Mar 2005,To: 09 Mar 2005,Catholic,FY 2005,2,Liberia,2,153
+From: 09 Mar 2005,To: 09 Mar 2005,Christian,FY 2005,29,Ethiopia,4,153
+From: 09 Mar 2005,To: 09 Mar 2005,Christian,FY 2005,29,Ghana,1,153
+From: 09 Mar 2005,To: 09 Mar 2005,Christian,FY 2005,29,Iran,11,153
+From: 09 Mar 2005,To: 09 Mar 2005,Christian,FY 2005,29,Liberia,13,153
+From: 09 Mar 2005,To: 09 Mar 2005,Methodist,FY 2005,3,Liberia,3,153
+From: 09 Mar 2005,To: 09 Mar 2005,Moslem,FY 2005,83,Ethiopia,7,153
+From: 09 Mar 2005,To: 09 Mar 2005,Moslem,FY 2005,83,Russia,25,153
+From: 09 Mar 2005,To: 09 Mar 2005,Moslem,FY 2005,83,Serbia,1,153
+From: 09 Mar 2005,To: 09 Mar 2005,Moslem,FY 2005,83,Somalia,50,153
+From: 09 Mar 2005,To: 09 Mar 2005,Zoroastrian,FY 2005,7,Iran,7,153
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Mar 2010,To: 11 Mar 2010,Afghanistan,FY 2010,6,Moslem Shiite,4,566
+From: 11 Mar 2010,To: 11 Mar 2010,Afghanistan,FY 2010,6,Moslem Suni,2,566
+From: 11 Mar 2010,To: 11 Mar 2010,Bhutan,FY 2010,102,Buddhist,17,566
+From: 11 Mar 2010,To: 11 Mar 2010,Bhutan,FY 2010,102,Christian,9,566
+From: 11 Mar 2010,To: 11 Mar 2010,Bhutan,FY 2010,102,Hindu,76,566
+From: 11 Mar 2010,To: 11 Mar 2010,Burma,FY 2010,144,Animist,10,566
+From: 11 Mar 2010,To: 11 Mar 2010,Burma,FY 2010,144,Baptist,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Burma,FY 2010,144,Buddhist,21,566
+From: 11 Mar 2010,To: 11 Mar 2010,Burma,FY 2010,144,Catholic,7,566
+From: 11 Mar 2010,To: 11 Mar 2010,Burma,FY 2010,144,Christian,100,566
+From: 11 Mar 2010,To: 11 Mar 2010,Burma,FY 2010,144,Moslem,5,566
+From: 11 Mar 2010,To: 11 Mar 2010,Cuba,FY 2010,1,Catholic,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Dem. Rep. Congo,FY 2010,1,Protestant,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Ethiopia,FY 2010,10,Lutheran,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Ethiopia,FY 2010,10,Moslem,9,566
+From: 11 Mar 2010,To: 11 Mar 2010,Haiti,FY 2010,5,Seventh Day Adventist,5,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iran,FY 2010,35,Bahai,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iran,FY 2010,35,Christian,34,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iraq,FY 2010,130,Catholic,13,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iraq,FY 2010,130,Christian,19,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iraq,FY 2010,130,Moslem Shiite,37,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iraq,FY 2010,130,Moslem Suni,46,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iraq,FY 2010,130,Orthodox,10,566
+From: 11 Mar 2010,To: 11 Mar 2010,Iraq,FY 2010,130,Protestant,5,566
+From: 11 Mar 2010,To: 11 Mar 2010,Palestine,FY 2010,71,Moslem Suni,71,566
+From: 11 Mar 2010,To: 11 Mar 2010,Russia,FY 2010,2,Jewish,2,566
+From: 11 Mar 2010,To: 11 Mar 2010,Somalia,FY 2010,58,Moslem,58,566
+From: 11 Mar 2010,To: 11 Mar 2010,Yemen,FY 2010,1,Moslem Suni,1,566
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Mar 2010,To: 11 Mar 2010,Animist,FY 2010,10,Burma,10,566
+From: 11 Mar 2010,To: 11 Mar 2010,Bahai,FY 2010,1,Iran,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Baptist,FY 2010,1,Burma,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Buddhist,FY 2010,38,Bhutan,17,566
+From: 11 Mar 2010,To: 11 Mar 2010,Buddhist,FY 2010,38,Burma,21,566
+From: 11 Mar 2010,To: 11 Mar 2010,Catholic,FY 2010,21,Burma,7,566
+From: 11 Mar 2010,To: 11 Mar 2010,Catholic,FY 2010,21,Cuba,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Catholic,FY 2010,21,Iraq,13,566
+From: 11 Mar 2010,To: 11 Mar 2010,Christian,FY 2010,162,Bhutan,9,566
+From: 11 Mar 2010,To: 11 Mar 2010,Christian,FY 2010,162,Burma,100,566
+From: 11 Mar 2010,To: 11 Mar 2010,Christian,FY 2010,162,Iran,34,566
+From: 11 Mar 2010,To: 11 Mar 2010,Christian,FY 2010,162,Iraq,19,566
+From: 11 Mar 2010,To: 11 Mar 2010,Hindu,FY 2010,76,Bhutan,76,566
+From: 11 Mar 2010,To: 11 Mar 2010,Jewish,FY 2010,2,Russia,2,566
+From: 11 Mar 2010,To: 11 Mar 2010,Lutheran,FY 2010,1,Ethiopia,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem,FY 2010,72,Burma,5,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem,FY 2010,72,Ethiopia,9,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem,FY 2010,72,Somalia,58,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem Shiite,FY 2010,41,Afghanistan,4,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem Shiite,FY 2010,41,Iraq,37,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem Suni,FY 2010,120,Afghanistan,2,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem Suni,FY 2010,120,Iraq,46,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem Suni,FY 2010,120,Palestine,71,566
+From: 11 Mar 2010,To: 11 Mar 2010,Moslem Suni,FY 2010,120,Yemen,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Orthodox,FY 2010,10,Iraq,10,566
+From: 11 Mar 2010,To: 11 Mar 2010,Protestant,FY 2010,6,Dem. Rep. Congo,1,566
+From: 11 Mar 2010,To: 11 Mar 2010,Protestant,FY 2010,6,Iraq,5,566
+From: 11 Mar 2010,To: 11 Mar 2010,Seventh Day Adventist,FY 2010,5,Haiti,5,566
+

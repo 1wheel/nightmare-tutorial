@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Dec 2006,To: 04 Dec 2006,Afghanistan,FY 2007,7,Moslem Suni,7,162
+From: 04 Dec 2006,To: 04 Dec 2006,Eritrea,FY 2007,2,Pentecostalist,2,162
+From: 04 Dec 2006,To: 04 Dec 2006,Iran,FY 2007,35,Christian,34,162
+From: 04 Dec 2006,To: 04 Dec 2006,Iran,FY 2007,35,Jewish,1,162
+From: 04 Dec 2006,To: 04 Dec 2006,Iraq,FY 2007,6,Moslem Shiite,6,162
+From: 04 Dec 2006,To: 04 Dec 2006,Kyrgyzstan,FY 2007,2,Baptist,2,162
+From: 04 Dec 2006,To: 04 Dec 2006,Russia,FY 2007,44,Baptist,4,162
+From: 04 Dec 2006,To: 04 Dec 2006,Russia,FY 2007,44,Jewish,4,162
+From: 04 Dec 2006,To: 04 Dec 2006,Russia,FY 2007,44,Moslem,32,162
+From: 04 Dec 2006,To: 04 Dec 2006,Russia,FY 2007,44,No Religion,3,162
+From: 04 Dec 2006,To: 04 Dec 2006,Russia,FY 2007,44,Pentecostalist,1,162
+From: 04 Dec 2006,To: 04 Dec 2006,Somalia,FY 2007,48,Moslem,48,162
+From: 04 Dec 2006,To: 04 Dec 2006,Sudan,FY 2007,18,Catholic,18,162
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Dec 2006,To: 04 Dec 2006,Baptist,FY 2007,6,Kyrgyzstan,2,162
+From: 04 Dec 2006,To: 04 Dec 2006,Baptist,FY 2007,6,Russia,4,162
+From: 04 Dec 2006,To: 04 Dec 2006,Catholic,FY 2007,18,Sudan,18,162
+From: 04 Dec 2006,To: 04 Dec 2006,Christian,FY 2007,34,Iran,34,162
+From: 04 Dec 2006,To: 04 Dec 2006,Jewish,FY 2007,5,Iran,1,162
+From: 04 Dec 2006,To: 04 Dec 2006,Jewish,FY 2007,5,Russia,4,162
+From: 04 Dec 2006,To: 04 Dec 2006,Moslem,FY 2007,80,Russia,32,162
+From: 04 Dec 2006,To: 04 Dec 2006,Moslem,FY 2007,80,Somalia,48,162
+From: 04 Dec 2006,To: 04 Dec 2006,Moslem Shiite,FY 2007,6,Iraq,6,162
+From: 04 Dec 2006,To: 04 Dec 2006,Moslem Suni,FY 2007,7,Afghanistan,7,162
+From: 04 Dec 2006,To: 04 Dec 2006,No Religion,FY 2007,3,Russia,3,162
+From: 04 Dec 2006,To: 04 Dec 2006,Pentecostalist,FY 2007,3,Eritrea,2,162
+From: 04 Dec 2006,To: 04 Dec 2006,Pentecostalist,FY 2007,3,Russia,1,162
+

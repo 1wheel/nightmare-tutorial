@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Nov 2016,To: 28 Nov 2016,Bhutan,FY 2017,28,Buddhist,5,337
+From: 28 Nov 2016,To: 28 Nov 2016,Bhutan,FY 2017,28,Christian,7,337
+From: 28 Nov 2016,To: 28 Nov 2016,Bhutan,FY 2017,28,Hindu,9,337
+From: 28 Nov 2016,To: 28 Nov 2016,Bhutan,FY 2017,28,Kirat,7,337
+From: 28 Nov 2016,To: 28 Nov 2016,Cameroon,FY 2017,1,Christian,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Catholic,8,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Christian,20,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Moslem,6,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Other Religion,5,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Pentecostalist,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Protestant,8,337
+From: 28 Nov 2016,To: 28 Nov 2016,Dem. Rep. Congo,FY 2017,77,Seventh Day Adventist,29,337
+From: 28 Nov 2016,To: 28 Nov 2016,Ethiopia,FY 2017,1,Moslem,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iran,FY 2017,8,Bahai,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iran,FY 2017,8,Moslem Shiite,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iran,FY 2017,8,Pentecostalist,2,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iran,FY 2017,8,Protestant,4,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iraq,FY 2017,54,Catholic,7,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iraq,FY 2017,54,Christian,20,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iraq,FY 2017,54,Moslem Shiite,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iraq,FY 2017,54,Moslem Suni,21,337
+From: 28 Nov 2016,To: 28 Nov 2016,Iraq,FY 2017,54,Yazidi,5,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moldova,FY 2017,17,Baptist,14,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moldova,FY 2017,17,Seventh Day Adventist,3,337
+From: 28 Nov 2016,To: 28 Nov 2016,Somalia,FY 2017,35,Moslem,35,337
+From: 28 Nov 2016,To: 28 Nov 2016,Syria,FY 2017,71,Moslem Suni,71,337
+From: 28 Nov 2016,To: 28 Nov 2016,Ukraine,FY 2017,45,Baptist,18,337
+From: 28 Nov 2016,To: 28 Nov 2016,Ukraine,FY 2017,45,Pentecostalist,27,337
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Nov 2016,To: 28 Nov 2016,Bahai,FY 2017,1,Iran,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Baptist,FY 2017,32,Moldova,14,337
+From: 28 Nov 2016,To: 28 Nov 2016,Baptist,FY 2017,32,Ukraine,18,337
+From: 28 Nov 2016,To: 28 Nov 2016,Buddhist,FY 2017,5,Bhutan,5,337
+From: 28 Nov 2016,To: 28 Nov 2016,Catholic,FY 2017,15,Dem. Rep. Congo,8,337
+From: 28 Nov 2016,To: 28 Nov 2016,Catholic,FY 2017,15,Iraq,7,337
+From: 28 Nov 2016,To: 28 Nov 2016,Christian,FY 2017,48,Bhutan,7,337
+From: 28 Nov 2016,To: 28 Nov 2016,Christian,FY 2017,48,Cameroon,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Christian,FY 2017,48,Dem. Rep. Congo,20,337
+From: 28 Nov 2016,To: 28 Nov 2016,Christian,FY 2017,48,Iraq,20,337
+From: 28 Nov 2016,To: 28 Nov 2016,Hindu,FY 2017,9,Bhutan,9,337
+From: 28 Nov 2016,To: 28 Nov 2016,Kirat,FY 2017,7,Bhutan,7,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem,FY 2017,42,Dem. Rep. Congo,6,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem,FY 2017,42,Ethiopia,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem,FY 2017,42,Somalia,35,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem Shiite,FY 2017,2,Iran,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem Shiite,FY 2017,2,Iraq,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem Suni,FY 2017,92,Iraq,21,337
+From: 28 Nov 2016,To: 28 Nov 2016,Moslem Suni,FY 2017,92,Syria,71,337
+From: 28 Nov 2016,To: 28 Nov 2016,Other Religion,FY 2017,5,Dem. Rep. Congo,5,337
+From: 28 Nov 2016,To: 28 Nov 2016,Pentecostalist,FY 2017,30,Dem. Rep. Congo,1,337
+From: 28 Nov 2016,To: 28 Nov 2016,Pentecostalist,FY 2017,30,Iran,2,337
+From: 28 Nov 2016,To: 28 Nov 2016,Pentecostalist,FY 2017,30,Ukraine,27,337
+From: 28 Nov 2016,To: 28 Nov 2016,Protestant,FY 2017,12,Dem. Rep. Congo,8,337
+From: 28 Nov 2016,To: 28 Nov 2016,Protestant,FY 2017,12,Iran,4,337
+From: 28 Nov 2016,To: 28 Nov 2016,Seventh Day Adventist,FY 2017,32,Dem. Rep. Congo,29,337
+From: 28 Nov 2016,To: 28 Nov 2016,Seventh Day Adventist,FY 2017,32,Moldova,3,337
+From: 28 Nov 2016,To: 28 Nov 2016,Yazidi,FY 2017,5,Iraq,5,337
+

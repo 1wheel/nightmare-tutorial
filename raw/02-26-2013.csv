@@ -1,0 +1,87 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Feb 2013,To: 26 Feb 2013,Afghanistan,FY 2013,6,Moslem Shiite,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Belarus,FY 2013,2,No Religion,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Bhutan,FY 2013,84,Buddhist,37,375
+From: 26 Feb 2013,To: 26 Feb 2013,Bhutan,FY 2013,84,Christian,10,375
+From: 26 Feb 2013,To: 26 Feb 2013,Bhutan,FY 2013,84,Hindu,37,375
+From: 26 Feb 2013,To: 26 Feb 2013,Burma,FY 2013,117,Baptist,12,375
+From: 26 Feb 2013,To: 26 Feb 2013,Burma,FY 2013,117,Buddhist,26,375
+From: 26 Feb 2013,To: 26 Feb 2013,Burma,FY 2013,117,Christian,78,375
+From: 26 Feb 2013,To: 26 Feb 2013,Burma,FY 2013,117,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Burundi,FY 2013,11,Pentecostalist,11,375
+From: 26 Feb 2013,To: 26 Feb 2013,Dem. Rep. Congo,FY 2013,7,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Dem. Rep. Congo,FY 2013,7,Pentecostalist,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Eritrea,FY 2013,8,Catholic,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Eritrea,FY 2013,8,Christian,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Eritrea,FY 2013,8,Moslem,3,375
+From: 26 Feb 2013,To: 26 Feb 2013,Eritrea,FY 2013,8,Orthodox,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Eritrea,FY 2013,8,Pentecostalist,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Ethiopia,FY 2013,1,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Gambia,FY 2013,2,Moslem,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iran,FY 2013,7,Bahai,3,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iran,FY 2013,7,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iran,FY 2013,7,Moslem Shiite,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iran,FY 2013,7,Protestant,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iraq,FY 2013,52,Catholic,5,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iraq,FY 2013,52,Christian,4,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iraq,FY 2013,52,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iraq,FY 2013,52,Moslem Shiite,9,375
+From: 26 Feb 2013,To: 26 Feb 2013,Iraq,FY 2013,52,Moslem Suni,33,375
+From: 26 Feb 2013,To: 26 Feb 2013,Jordan,FY 2013,1,Moslem Suni,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Kyrgyzstan,FY 2013,4,Seventh Day Adventist,4,375
+From: 26 Feb 2013,To: 26 Feb 2013,Libya,FY 2013,1,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moldova,FY 2013,5,Pentecostalist,5,375
+From: 26 Feb 2013,To: 26 Feb 2013,Rwanda,FY 2013,3,Catholic,3,375
+From: 26 Feb 2013,To: 26 Feb 2013,Sierra Leone,FY 2013,1,Moslem,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Somalia,FY 2013,40,Moslem,40,375
+From: 26 Feb 2013,To: 26 Feb 2013,Sudan,FY 2013,9,Moslem,9,375
+From: 26 Feb 2013,To: 26 Feb 2013,Ukraine,FY 2013,12,Baptist,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Ukraine,FY 2013,12,Pentecostalist,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Vietnam,FY 2013,2,Buddhist,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Vietnam,FY 2013,2,No Religion,1,375
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Feb 2013,To: 26 Feb 2013,Bahai,FY 2013,3,Iran,3,375
+From: 26 Feb 2013,To: 26 Feb 2013,Baptist,FY 2013,18,Burma,12,375
+From: 26 Feb 2013,To: 26 Feb 2013,Baptist,FY 2013,18,Ukraine,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Buddhist,FY 2013,64,Bhutan,37,375
+From: 26 Feb 2013,To: 26 Feb 2013,Buddhist,FY 2013,64,Burma,26,375
+From: 26 Feb 2013,To: 26 Feb 2013,Buddhist,FY 2013,64,Vietnam,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Catholic,FY 2013,9,Eritrea,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Catholic,FY 2013,9,Iraq,5,375
+From: 26 Feb 2013,To: 26 Feb 2013,Catholic,FY 2013,9,Rwanda,3,375
+From: 26 Feb 2013,To: 26 Feb 2013,Christian,FY 2013,93,Bhutan,10,375
+From: 26 Feb 2013,To: 26 Feb 2013,Christian,FY 2013,93,Burma,78,375
+From: 26 Feb 2013,To: 26 Feb 2013,Christian,FY 2013,93,Eritrea,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Christian,FY 2013,93,Iraq,4,375
+From: 26 Feb 2013,To: 26 Feb 2013,Hindu,FY 2013,37,Bhutan,37,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Burma,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Dem. Rep. Congo,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Eritrea,3,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Ethiopia,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Gambia,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Iran,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Iraq,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Libya,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Sierra Leone,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Somalia,40,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem,FY 2013,61,Sudan,9,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem Shiite,FY 2013,16,Afghanistan,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem Shiite,FY 2013,16,Iran,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem Shiite,FY 2013,16,Iraq,9,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem Suni,FY 2013,34,Iraq,33,375
+From: 26 Feb 2013,To: 26 Feb 2013,Moslem Suni,FY 2013,34,Jordan,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,No Religion,FY 2013,3,Belarus,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,No Religion,FY 2013,3,Vietnam,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Orthodox,FY 2013,1,Eritrea,1,375
+From: 26 Feb 2013,To: 26 Feb 2013,Pentecostalist,FY 2013,30,Burundi,11,375
+From: 26 Feb 2013,To: 26 Feb 2013,Pentecostalist,FY 2013,30,Dem. Rep. Congo,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Pentecostalist,FY 2013,30,Eritrea,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Pentecostalist,FY 2013,30,Moldova,5,375
+From: 26 Feb 2013,To: 26 Feb 2013,Pentecostalist,FY 2013,30,Ukraine,6,375
+From: 26 Feb 2013,To: 26 Feb 2013,Protestant,FY 2013,2,Iran,2,375
+From: 26 Feb 2013,To: 26 Feb 2013,Seventh Day Adventist,FY 2013,4,Kyrgyzstan,4,375
+

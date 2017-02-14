@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Feb 2016,To: 29 Feb 2016,Armenia,FY 2016,1,Pentecostalist,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Bhutan,FY 2016,10,Buddhist,6,231
+From: 29 Feb 2016,To: 29 Feb 2016,Bhutan,FY 2016,10,Christian,2,231
+From: 29 Feb 2016,To: 29 Feb 2016,Bhutan,FY 2016,10,Hindu,2,231
+From: 29 Feb 2016,To: 29 Feb 2016,Burma,FY 2016,33,Baptist,12,231
+From: 29 Feb 2016,To: 29 Feb 2016,Burma,FY 2016,33,Christian,15,231
+From: 29 Feb 2016,To: 29 Feb 2016,Burma,FY 2016,33,Moslem,6,231
+From: 29 Feb 2016,To: 29 Feb 2016,Dem. Rep. Congo,FY 2016,4,Christian,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Dem. Rep. Congo,FY 2016,4,Methodist,2,231
+From: 29 Feb 2016,To: 29 Feb 2016,Dem. Rep. Congo,FY 2016,4,Protestant,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,El Salvador,FY 2016,7,Catholic,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,El Salvador,FY 2016,7,Christian,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,El Salvador,FY 2016,7,Evangelical Christian,3,231
+From: 29 Feb 2016,To: 29 Feb 2016,El Salvador,FY 2016,7,No Religion,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,El Salvador,FY 2016,7,Other Religion,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iran,FY 2016,11,Christian,8,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iran,FY 2016,11,Sabeans-Mandean,3,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iraq,FY 2016,100,Catholic,11,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iraq,FY 2016,100,Moslem,12,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iraq,FY 2016,100,Moslem Shiite,44,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iraq,FY 2016,100,Moslem Suni,21,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iraq,FY 2016,100,Orthodox,7,231
+From: 29 Feb 2016,To: 29 Feb 2016,Iraq,FY 2016,100,Yazidi,5,231
+From: 29 Feb 2016,To: 29 Feb 2016,Somalia,FY 2016,42,Moslem,42,231
+From: 29 Feb 2016,To: 29 Feb 2016,Sudan,FY 2016,10,Moslem,9,231
+From: 29 Feb 2016,To: 29 Feb 2016,Sudan,FY 2016,10,Moslem Suni,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Syria,FY 2016,13,Moslem Suni,13,231
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Feb 2016,To: 29 Feb 2016,Baptist,FY 2016,12,Burma,12,231
+From: 29 Feb 2016,To: 29 Feb 2016,Buddhist,FY 2016,6,Bhutan,6,231
+From: 29 Feb 2016,To: 29 Feb 2016,Catholic,FY 2016,12,El Salvador,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Catholic,FY 2016,12,Iraq,11,231
+From: 29 Feb 2016,To: 29 Feb 2016,Christian,FY 2016,27,Bhutan,2,231
+From: 29 Feb 2016,To: 29 Feb 2016,Christian,FY 2016,27,Burma,15,231
+From: 29 Feb 2016,To: 29 Feb 2016,Christian,FY 2016,27,Dem. Rep. Congo,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Christian,FY 2016,27,El Salvador,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Christian,FY 2016,27,Iran,8,231
+From: 29 Feb 2016,To: 29 Feb 2016,Evangelical Christian,FY 2016,3,El Salvador,3,231
+From: 29 Feb 2016,To: 29 Feb 2016,Hindu,FY 2016,2,Bhutan,2,231
+From: 29 Feb 2016,To: 29 Feb 2016,Methodist,FY 2016,2,Dem. Rep. Congo,2,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem,FY 2016,69,Burma,6,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem,FY 2016,69,Iraq,12,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem,FY 2016,69,Somalia,42,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem,FY 2016,69,Sudan,9,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem Shiite,FY 2016,44,Iraq,44,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem Suni,FY 2016,35,Iraq,21,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem Suni,FY 2016,35,Sudan,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Moslem Suni,FY 2016,35,Syria,13,231
+From: 29 Feb 2016,To: 29 Feb 2016,No Religion,FY 2016,1,El Salvador,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Orthodox,FY 2016,7,Iraq,7,231
+From: 29 Feb 2016,To: 29 Feb 2016,Other Religion,FY 2016,1,El Salvador,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Pentecostalist,FY 2016,1,Armenia,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Protestant,FY 2016,1,Dem. Rep. Congo,1,231
+From: 29 Feb 2016,To: 29 Feb 2016,Sabeans-Mandean,FY 2016,3,Iran,3,231
+From: 29 Feb 2016,To: 29 Feb 2016,Yazidi,FY 2016,5,Iraq,5,231
+

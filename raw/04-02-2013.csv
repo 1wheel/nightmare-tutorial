@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Apr 2013,To: 02 Apr 2013,Afghanistan,FY 2013,1,Moslem Suni,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Bhutan,FY 2013,42,Buddhist,18,165
+From: 02 Apr 2013,To: 02 Apr 2013,Bhutan,FY 2013,42,Christian,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Bhutan,FY 2013,42,Hindu,23,165
+From: 02 Apr 2013,To: 02 Apr 2013,Dem. Rep. Congo,FY 2013,6,Catholic,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Dem. Rep. Congo,FY 2013,6,Seventh Day Adventist,5,165
+From: 02 Apr 2013,To: 02 Apr 2013,Iraq,FY 2013,67,Catholic,7,165
+From: 02 Apr 2013,To: 02 Apr 2013,Iraq,FY 2013,67,Moslem Shiite,40,165
+From: 02 Apr 2013,To: 02 Apr 2013,Iraq,FY 2013,67,Moslem Suni,14,165
+From: 02 Apr 2013,To: 02 Apr 2013,Iraq,FY 2013,67,Orthodox,6,165
+From: 02 Apr 2013,To: 02 Apr 2013,Pakistan,FY 2013,3,Ahmadiyya,2,165
+From: 02 Apr 2013,To: 02 Apr 2013,Pakistan,FY 2013,3,Moslem,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Somalia,FY 2013,44,Moslem,44,165
+From: 02 Apr 2013,To: 02 Apr 2013,Sudan,FY 2013,1,Moslem,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Syria,FY 2013,1,Jehovah Witness,1,165
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Apr 2013,To: 02 Apr 2013,Ahmadiyya,FY 2013,2,Pakistan,2,165
+From: 02 Apr 2013,To: 02 Apr 2013,Buddhist,FY 2013,18,Bhutan,18,165
+From: 02 Apr 2013,To: 02 Apr 2013,Catholic,FY 2013,8,Dem. Rep. Congo,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Catholic,FY 2013,8,Iraq,7,165
+From: 02 Apr 2013,To: 02 Apr 2013,Christian,FY 2013,1,Bhutan,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Hindu,FY 2013,23,Bhutan,23,165
+From: 02 Apr 2013,To: 02 Apr 2013,Jehovah Witness,FY 2013,1,Syria,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Moslem,FY 2013,46,Pakistan,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Moslem,FY 2013,46,Somalia,44,165
+From: 02 Apr 2013,To: 02 Apr 2013,Moslem,FY 2013,46,Sudan,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Moslem Shiite,FY 2013,40,Iraq,40,165
+From: 02 Apr 2013,To: 02 Apr 2013,Moslem Suni,FY 2013,15,Afghanistan,1,165
+From: 02 Apr 2013,To: 02 Apr 2013,Moslem Suni,FY 2013,15,Iraq,14,165
+From: 02 Apr 2013,To: 02 Apr 2013,Orthodox,FY 2013,6,Iraq,6,165
+From: 02 Apr 2013,To: 02 Apr 2013,Seventh Day Adventist,FY 2013,5,Dem. Rep. Congo,5,165
+

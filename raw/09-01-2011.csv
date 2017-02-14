@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Sep 2011,To: 01 Sep 2011,Burma,FY 2011,31,Baptist,5,122
+From: 01 Sep 2011,To: 01 Sep 2011,Burma,FY 2011,31,Buddhist,1,122
+From: 01 Sep 2011,To: 01 Sep 2011,Burma,FY 2011,31,Christian,25,122
+From: 01 Sep 2011,To: 01 Sep 2011,Colombia,FY 2011,9,Catholic,4,122
+From: 01 Sep 2011,To: 01 Sep 2011,Colombia,FY 2011,9,Christian,5,122
+From: 01 Sep 2011,To: 01 Sep 2011,Dem. Rep. Congo,FY 2011,11,Protestant,11,122
+From: 01 Sep 2011,To: 01 Sep 2011,Eritrea,FY 2011,4,Catholic,1,122
+From: 01 Sep 2011,To: 01 Sep 2011,Eritrea,FY 2011,4,Orthodox,3,122
+From: 01 Sep 2011,To: 01 Sep 2011,Iraq,FY 2011,20,Moslem Shiite,6,122
+From: 01 Sep 2011,To: 01 Sep 2011,Iraq,FY 2011,20,Moslem Suni,3,122
+From: 01 Sep 2011,To: 01 Sep 2011,Iraq,FY 2011,20,Sabeans-Mandean,11,122
+From: 01 Sep 2011,To: 01 Sep 2011,Liberia,FY 2011,4,Christian,4,122
+From: 01 Sep 2011,To: 01 Sep 2011,Russia,FY 2011,2,Jewish,2,122
+From: 01 Sep 2011,To: 01 Sep 2011,Somalia,FY 2011,41,Moslem,29,122
+From: 01 Sep 2011,To: 01 Sep 2011,Somalia,FY 2011,41,Moslem Suni,12,122
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Sep 2011,To: 01 Sep 2011,Baptist,FY 2011,5,Burma,5,122
+From: 01 Sep 2011,To: 01 Sep 2011,Buddhist,FY 2011,1,Burma,1,122
+From: 01 Sep 2011,To: 01 Sep 2011,Catholic,FY 2011,5,Colombia,4,122
+From: 01 Sep 2011,To: 01 Sep 2011,Catholic,FY 2011,5,Eritrea,1,122
+From: 01 Sep 2011,To: 01 Sep 2011,Christian,FY 2011,34,Burma,25,122
+From: 01 Sep 2011,To: 01 Sep 2011,Christian,FY 2011,34,Colombia,5,122
+From: 01 Sep 2011,To: 01 Sep 2011,Christian,FY 2011,34,Liberia,4,122
+From: 01 Sep 2011,To: 01 Sep 2011,Jewish,FY 2011,2,Russia,2,122
+From: 01 Sep 2011,To: 01 Sep 2011,Moslem,FY 2011,29,Somalia,29,122
+From: 01 Sep 2011,To: 01 Sep 2011,Moslem Shiite,FY 2011,6,Iraq,6,122
+From: 01 Sep 2011,To: 01 Sep 2011,Moslem Suni,FY 2011,15,Iraq,3,122
+From: 01 Sep 2011,To: 01 Sep 2011,Moslem Suni,FY 2011,15,Somalia,12,122
+From: 01 Sep 2011,To: 01 Sep 2011,Orthodox,FY 2011,3,Eritrea,3,122
+From: 01 Sep 2011,To: 01 Sep 2011,Protestant,FY 2011,11,Dem. Rep. Congo,11,122
+From: 01 Sep 2011,To: 01 Sep 2011,Sabeans-Mandean,FY 2011,11,Iraq,11,122
+

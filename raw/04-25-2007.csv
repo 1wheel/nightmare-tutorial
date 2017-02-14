@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Apr 2007,To: 25 Apr 2007,Burma,FY 2007,22,Buddhist,11,169
+From: 25 Apr 2007,To: 25 Apr 2007,Burma,FY 2007,22,Christian,11,169
+From: 25 Apr 2007,To: 25 Apr 2007,Dem. Rep. Congo,FY 2007,35,Catholic,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Dem. Rep. Congo,FY 2007,35,Christian,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Dem. Rep. Congo,FY 2007,35,Methodist,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Dem. Rep. Congo,FY 2007,35,Pentecostalist,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Dem. Rep. Congo,FY 2007,35,Protestant,31,169
+From: 25 Apr 2007,To: 25 Apr 2007,Ethiopia,FY 2007,13,Christian,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Ethiopia,FY 2007,13,Moslem,12,169
+From: 25 Apr 2007,To: 25 Apr 2007,Iran,FY 2007,7,Christian,4,169
+From: 25 Apr 2007,To: 25 Apr 2007,Iran,FY 2007,7,Sabeans-Mandean,3,169
+From: 25 Apr 2007,To: 25 Apr 2007,Russia,FY 2007,18,Moslem,18,169
+From: 25 Apr 2007,To: 25 Apr 2007,Somalia,FY 2007,40,Moslem,40,169
+From: 25 Apr 2007,To: 25 Apr 2007,Sudan,FY 2007,3,Christian,3,169
+From: 25 Apr 2007,To: 25 Apr 2007,Uzbekistan,FY 2007,17,Moslem Suni,10,169
+From: 25 Apr 2007,To: 25 Apr 2007,Uzbekistan,FY 2007,17,Russian Orthodox,7,169
+From: 25 Apr 2007,To: 25 Apr 2007,Vietnam,FY 2007,14,Buddhist,2,169
+From: 25 Apr 2007,To: 25 Apr 2007,Vietnam,FY 2007,14,Catholic,5,169
+From: 25 Apr 2007,To: 25 Apr 2007,Vietnam,FY 2007,14,Christian,7,169
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Apr 2007,To: 25 Apr 2007,Buddhist,FY 2007,13,Burma,11,169
+From: 25 Apr 2007,To: 25 Apr 2007,Buddhist,FY 2007,13,Vietnam,2,169
+From: 25 Apr 2007,To: 25 Apr 2007,Catholic,FY 2007,6,Dem. Rep. Congo,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Catholic,FY 2007,6,Vietnam,5,169
+From: 25 Apr 2007,To: 25 Apr 2007,Christian,FY 2007,27,Burma,11,169
+From: 25 Apr 2007,To: 25 Apr 2007,Christian,FY 2007,27,Dem. Rep. Congo,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Christian,FY 2007,27,Ethiopia,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Christian,FY 2007,27,Iran,4,169
+From: 25 Apr 2007,To: 25 Apr 2007,Christian,FY 2007,27,Sudan,3,169
+From: 25 Apr 2007,To: 25 Apr 2007,Christian,FY 2007,27,Vietnam,7,169
+From: 25 Apr 2007,To: 25 Apr 2007,Methodist,FY 2007,1,Dem. Rep. Congo,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Moslem,FY 2007,70,Ethiopia,12,169
+From: 25 Apr 2007,To: 25 Apr 2007,Moslem,FY 2007,70,Russia,18,169
+From: 25 Apr 2007,To: 25 Apr 2007,Moslem,FY 2007,70,Somalia,40,169
+From: 25 Apr 2007,To: 25 Apr 2007,Moslem Suni,FY 2007,10,Uzbekistan,10,169
+From: 25 Apr 2007,To: 25 Apr 2007,Pentecostalist,FY 2007,1,Dem. Rep. Congo,1,169
+From: 25 Apr 2007,To: 25 Apr 2007,Protestant,FY 2007,31,Dem. Rep. Congo,31,169
+From: 25 Apr 2007,To: 25 Apr 2007,Russian Orthodox,FY 2007,7,Uzbekistan,7,169
+From: 25 Apr 2007,To: 25 Apr 2007,Sabeans-Mandean,FY 2007,3,Iran,3,169
+

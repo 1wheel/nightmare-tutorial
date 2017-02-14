@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 May 2009,To: 06 May 2009,Afghanistan,FY 2009,1,Moslem Suni,1,349
+From: 06 May 2009,To: 06 May 2009,Bhutan,FY 2009,21,Buddhist,4,349
+From: 06 May 2009,To: 06 May 2009,Bhutan,FY 2009,21,Hindu,17,349
+From: 06 May 2009,To: 06 May 2009,Burma,FY 2009,109,Animist,16,349
+From: 06 May 2009,To: 06 May 2009,Burma,FY 2009,109,Buddhist,6,349
+From: 06 May 2009,To: 06 May 2009,Burma,FY 2009,109,Catholic,15,349
+From: 06 May 2009,To: 06 May 2009,Burma,FY 2009,109,Christian,66,349
+From: 06 May 2009,To: 06 May 2009,Burma,FY 2009,109,Moslem,6,349
+From: 06 May 2009,To: 06 May 2009,Burundi,FY 2009,2,Christian,2,349
+From: 06 May 2009,To: 06 May 2009,Cameroon,FY 2009,1,Other Religion,1,349
+From: 06 May 2009,To: 06 May 2009,Congo,FY 2009,5,Protestant,5,349
+From: 06 May 2009,To: 06 May 2009,Cuba,FY 2009,50,Catholic,22,349
+From: 06 May 2009,To: 06 May 2009,Cuba,FY 2009,50,Jehovah Witness,12,349
+From: 06 May 2009,To: 06 May 2009,Cuba,FY 2009,50,No Religion,16,349
+From: 06 May 2009,To: 06 May 2009,Ethiopia,FY 2009,1,Moslem,1,349
+From: 06 May 2009,To: 06 May 2009,Iran,FY 2009,38,Bahai,8,349
+From: 06 May 2009,To: 06 May 2009,Iran,FY 2009,38,Christian,25,349
+From: 06 May 2009,To: 06 May 2009,Iran,FY 2009,38,Zoroastrian,5,349
+From: 06 May 2009,To: 06 May 2009,Iraq,FY 2009,75,Catholic,33,349
+From: 06 May 2009,To: 06 May 2009,Iraq,FY 2009,75,Christian,17,349
+From: 06 May 2009,To: 06 May 2009,Iraq,FY 2009,75,Moslem,1,349
+From: 06 May 2009,To: 06 May 2009,Iraq,FY 2009,75,Moslem Shiite,10,349
+From: 06 May 2009,To: 06 May 2009,Iraq,FY 2009,75,Moslem Suni,10,349
+From: 06 May 2009,To: 06 May 2009,Iraq,FY 2009,75,Sabeans-Mandean,4,349
+From: 06 May 2009,To: 06 May 2009,Liberia,FY 2009,1,Christian,1,349
+From: 06 May 2009,To: 06 May 2009,Russia,FY 2009,15,Baptist,11,349
+From: 06 May 2009,To: 06 May 2009,Russia,FY 2009,15,Jewish,4,349
+From: 06 May 2009,To: 06 May 2009,Somalia,FY 2009,25,Moslem,25,349
+From: 06 May 2009,To: 06 May 2009,Sudan,FY 2009,5,Moslem,5,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 May 2009,To: 06 May 2009,Animist,FY 2009,16,Burma,16,349
+From: 06 May 2009,To: 06 May 2009,Bahai,FY 2009,8,Iran,8,349
+From: 06 May 2009,To: 06 May 2009,Baptist,FY 2009,11,Russia,11,349
+From: 06 May 2009,To: 06 May 2009,Buddhist,FY 2009,10,Bhutan,4,349
+From: 06 May 2009,To: 06 May 2009,Buddhist,FY 2009,10,Burma,6,349
+From: 06 May 2009,To: 06 May 2009,Catholic,FY 2009,70,Burma,15,349
+From: 06 May 2009,To: 06 May 2009,Catholic,FY 2009,70,Cuba,22,349
+From: 06 May 2009,To: 06 May 2009,Catholic,FY 2009,70,Iraq,33,349
+From: 06 May 2009,To: 06 May 2009,Christian,FY 2009,111,Burma,66,349
+From: 06 May 2009,To: 06 May 2009,Christian,FY 2009,111,Burundi,2,349
+From: 06 May 2009,To: 06 May 2009,Christian,FY 2009,111,Iran,25,349
+From: 06 May 2009,To: 06 May 2009,Christian,FY 2009,111,Iraq,17,349
+From: 06 May 2009,To: 06 May 2009,Christian,FY 2009,111,Liberia,1,349
+From: 06 May 2009,To: 06 May 2009,Hindu,FY 2009,17,Bhutan,17,349
+From: 06 May 2009,To: 06 May 2009,Jehovah Witness,FY 2009,12,Cuba,12,349
+From: 06 May 2009,To: 06 May 2009,Jewish,FY 2009,4,Russia,4,349
+From: 06 May 2009,To: 06 May 2009,Moslem,FY 2009,38,Burma,6,349
+From: 06 May 2009,To: 06 May 2009,Moslem,FY 2009,38,Ethiopia,1,349
+From: 06 May 2009,To: 06 May 2009,Moslem,FY 2009,38,Iraq,1,349
+From: 06 May 2009,To: 06 May 2009,Moslem,FY 2009,38,Somalia,25,349
+From: 06 May 2009,To: 06 May 2009,Moslem,FY 2009,38,Sudan,5,349
+From: 06 May 2009,To: 06 May 2009,Moslem Shiite,FY 2009,10,Iraq,10,349
+From: 06 May 2009,To: 06 May 2009,Moslem Suni,FY 2009,11,Afghanistan,1,349
+From: 06 May 2009,To: 06 May 2009,Moslem Suni,FY 2009,11,Iraq,10,349
+From: 06 May 2009,To: 06 May 2009,No Religion,FY 2009,16,Cuba,16,349
+From: 06 May 2009,To: 06 May 2009,Other Religion,FY 2009,1,Cameroon,1,349
+From: 06 May 2009,To: 06 May 2009,Protestant,FY 2009,5,Congo,5,349
+From: 06 May 2009,To: 06 May 2009,Sabeans-Mandean,FY 2009,4,Iraq,4,349
+From: 06 May 2009,To: 06 May 2009,Zoroastrian,FY 2009,5,Iran,5,349
+

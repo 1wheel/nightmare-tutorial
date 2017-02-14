@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jul 2011,To: 11 Jul 2011,Bhutan,FY 2011,124,Buddhist,30,257
+From: 11 Jul 2011,To: 11 Jul 2011,Bhutan,FY 2011,124,Christian,3,257
+From: 11 Jul 2011,To: 11 Jul 2011,Bhutan,FY 2011,124,Hindu,90,257
+From: 11 Jul 2011,To: 11 Jul 2011,Bhutan,FY 2011,124,Kirat,1,257
+From: 11 Jul 2011,To: 11 Jul 2011,Burma,FY 2011,112,Baptist,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Burma,FY 2011,112,Buddhist,5,257
+From: 11 Jul 2011,To: 11 Jul 2011,Burma,FY 2011,112,Catholic,6,257
+From: 11 Jul 2011,To: 11 Jul 2011,Burma,FY 2011,112,Christian,99,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iran,FY 2011,6,Atheist,1,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iran,FY 2011,6,Moslem,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iran,FY 2011,6,No Religion,1,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iran,FY 2011,6,Protestant,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iraq,FY 2011,10,Christian,4,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iraq,FY 2011,10,Moslem Shiite,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Iraq,FY 2011,10,Moslem Suni,4,257
+From: 11 Jul 2011,To: 11 Jul 2011,Kazakhstan,FY 2011,2,Baptist,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Uzbekistan,FY 2011,3,Jewish,3,257
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jul 2011,To: 11 Jul 2011,Atheist,FY 2011,1,Iran,1,257
+From: 11 Jul 2011,To: 11 Jul 2011,Baptist,FY 2011,4,Burma,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Baptist,FY 2011,4,Kazakhstan,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Buddhist,FY 2011,35,Bhutan,30,257
+From: 11 Jul 2011,To: 11 Jul 2011,Buddhist,FY 2011,35,Burma,5,257
+From: 11 Jul 2011,To: 11 Jul 2011,Catholic,FY 2011,6,Burma,6,257
+From: 11 Jul 2011,To: 11 Jul 2011,Christian,FY 2011,106,Bhutan,3,257
+From: 11 Jul 2011,To: 11 Jul 2011,Christian,FY 2011,106,Burma,99,257
+From: 11 Jul 2011,To: 11 Jul 2011,Christian,FY 2011,106,Iraq,4,257
+From: 11 Jul 2011,To: 11 Jul 2011,Hindu,FY 2011,90,Bhutan,90,257
+From: 11 Jul 2011,To: 11 Jul 2011,Jewish,FY 2011,3,Uzbekistan,3,257
+From: 11 Jul 2011,To: 11 Jul 2011,Kirat,FY 2011,1,Bhutan,1,257
+From: 11 Jul 2011,To: 11 Jul 2011,Moslem,FY 2011,2,Iran,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Moslem Shiite,FY 2011,2,Iraq,2,257
+From: 11 Jul 2011,To: 11 Jul 2011,Moslem Suni,FY 2011,4,Iraq,4,257
+From: 11 Jul 2011,To: 11 Jul 2011,No Religion,FY 2011,1,Iran,1,257
+From: 11 Jul 2011,To: 11 Jul 2011,Protestant,FY 2011,2,Iran,2,257
+

@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Feb 2008,To: 28 Feb 2008,Burma,FY 2008,192,Baptist,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Burma,FY 2008,192,Buddhist,25,380
+From: 28 Feb 2008,To: 28 Feb 2008,Burma,FY 2008,192,Christian,124,380
+From: 28 Feb 2008,To: 28 Feb 2008,Burma,FY 2008,192,Moslem,40,380
+From: 28 Feb 2008,To: 28 Feb 2008,Burundi,FY 2008,5,Moslem,5,380
+From: 28 Feb 2008,To: 28 Feb 2008,Colombia,FY 2008,3,Catholic,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Colombia,FY 2008,3,Unknown,2,380
+From: 28 Feb 2008,To: 28 Feb 2008,Cuba,FY 2008,70,Baptist,7,380
+From: 28 Feb 2008,To: 28 Feb 2008,Cuba,FY 2008,70,Catholic,28,380
+From: 28 Feb 2008,To: 28 Feb 2008,Cuba,FY 2008,70,Jehovah Witness,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Cuba,FY 2008,70,No Religion,25,380
+From: 28 Feb 2008,To: 28 Feb 2008,Cuba,FY 2008,70,Pentecostalist,7,380
+From: 28 Feb 2008,To: 28 Feb 2008,Dem. Rep. Congo,FY 2008,21,Catholic,2,380
+From: 28 Feb 2008,To: 28 Feb 2008,Dem. Rep. Congo,FY 2008,21,Pentecostalist,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Dem. Rep. Congo,FY 2008,21,Protestant,18,380
+From: 28 Feb 2008,To: 28 Feb 2008,Ethiopia,FY 2008,1,Moslem,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Iraq,FY 2008,17,Christian,7,380
+From: 28 Feb 2008,To: 28 Feb 2008,Iraq,FY 2008,17,Moslem,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Iraq,FY 2008,17,Moslem Shiite,4,380
+From: 28 Feb 2008,To: 28 Feb 2008,Iraq,FY 2008,17,Moslem Suni,5,380
+From: 28 Feb 2008,To: 28 Feb 2008,Liberia,FY 2008,19,Christian,5,380
+From: 28 Feb 2008,To: 28 Feb 2008,Liberia,FY 2008,19,Lutheran,4,380
+From: 28 Feb 2008,To: 28 Feb 2008,Liberia,FY 2008,19,Moslem,9,380
+From: 28 Feb 2008,To: 28 Feb 2008,Liberia,FY 2008,19,Pentecostalist,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Pakistan,FY 2008,1,Other Religion,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Rwanda,FY 2008,6,Catholic,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Rwanda,FY 2008,6,Protestant,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Somalia,FY 2008,1,Moslem,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Sudan,FY 2008,15,Catholic,14,380
+From: 28 Feb 2008,To: 28 Feb 2008,Sudan,FY 2008,15,Pentecostalist,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Ukraine,FY 2008,29,Baptist,4,380
+From: 28 Feb 2008,To: 28 Feb 2008,Ukraine,FY 2008,29,No Religion,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Ukraine,FY 2008,29,Pentecostalist,24,380
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Feb 2008,To: 28 Feb 2008,Baptist,FY 2008,14,Burma,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Baptist,FY 2008,14,Cuba,7,380
+From: 28 Feb 2008,To: 28 Feb 2008,Baptist,FY 2008,14,Ukraine,4,380
+From: 28 Feb 2008,To: 28 Feb 2008,Buddhist,FY 2008,25,Burma,25,380
+From: 28 Feb 2008,To: 28 Feb 2008,Catholic,FY 2008,48,Colombia,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Catholic,FY 2008,48,Cuba,28,380
+From: 28 Feb 2008,To: 28 Feb 2008,Catholic,FY 2008,48,Dem. Rep. Congo,2,380
+From: 28 Feb 2008,To: 28 Feb 2008,Catholic,FY 2008,48,Rwanda,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Catholic,FY 2008,48,Sudan,14,380
+From: 28 Feb 2008,To: 28 Feb 2008,Christian,FY 2008,136,Burma,124,380
+From: 28 Feb 2008,To: 28 Feb 2008,Christian,FY 2008,136,Iraq,7,380
+From: 28 Feb 2008,To: 28 Feb 2008,Christian,FY 2008,136,Liberia,5,380
+From: 28 Feb 2008,To: 28 Feb 2008,Jehovah Witness,FY 2008,3,Cuba,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Lutheran,FY 2008,4,Liberia,4,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem,FY 2008,57,Burma,40,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem,FY 2008,57,Burundi,5,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem,FY 2008,57,Ethiopia,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem,FY 2008,57,Iraq,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem,FY 2008,57,Liberia,9,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem,FY 2008,57,Somalia,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem Shiite,FY 2008,4,Iraq,4,380
+From: 28 Feb 2008,To: 28 Feb 2008,Moslem Suni,FY 2008,5,Iraq,5,380
+From: 28 Feb 2008,To: 28 Feb 2008,No Religion,FY 2008,26,Cuba,25,380
+From: 28 Feb 2008,To: 28 Feb 2008,No Religion,FY 2008,26,Ukraine,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Other Religion,FY 2008,1,Pakistan,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Pentecostalist,FY 2008,34,Cuba,7,380
+From: 28 Feb 2008,To: 28 Feb 2008,Pentecostalist,FY 2008,34,Dem. Rep. Congo,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Pentecostalist,FY 2008,34,Liberia,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Pentecostalist,FY 2008,34,Sudan,1,380
+From: 28 Feb 2008,To: 28 Feb 2008,Pentecostalist,FY 2008,34,Ukraine,24,380
+From: 28 Feb 2008,To: 28 Feb 2008,Protestant,FY 2008,21,Dem. Rep. Congo,18,380
+From: 28 Feb 2008,To: 28 Feb 2008,Protestant,FY 2008,21,Rwanda,3,380
+From: 28 Feb 2008,To: 28 Feb 2008,Unknown,FY 2008,2,Colombia,2,380
+

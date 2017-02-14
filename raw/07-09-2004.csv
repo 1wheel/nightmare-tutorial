@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Jul 2004,To: 09 Jul 2004,Cuba,FY 2004,30,Catholic,11,170
+From: 09 Jul 2004,To: 09 Jul 2004,Cuba,FY 2004,30,No Religion,15,170
+From: 09 Jul 2004,To: 09 Jul 2004,Cuba,FY 2004,30,Pentecostalist,4,170
+From: 09 Jul 2004,To: 09 Jul 2004,Ethiopia,FY 2004,29,Christian,17,170
+From: 09 Jul 2004,To: 09 Jul 2004,Ethiopia,FY 2004,29,Moslem,8,170
+From: 09 Jul 2004,To: 09 Jul 2004,Ethiopia,FY 2004,29,Orthodox,4,170
+From: 09 Jul 2004,To: 09 Jul 2004,Laos,FY 2004,70,Ancestral Worship,62,170
+From: 09 Jul 2004,To: 09 Jul 2004,Laos,FY 2004,70,Christian,8,170
+From: 09 Jul 2004,To: 09 Jul 2004,Somalia,FY 2004,41,Moslem,41,170
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Jul 2004,To: 09 Jul 2004,Ancestral Worship,FY 2004,62,Laos,62,170
+From: 09 Jul 2004,To: 09 Jul 2004,Catholic,FY 2004,11,Cuba,11,170
+From: 09 Jul 2004,To: 09 Jul 2004,Christian,FY 2004,25,Ethiopia,17,170
+From: 09 Jul 2004,To: 09 Jul 2004,Christian,FY 2004,25,Laos,8,170
+From: 09 Jul 2004,To: 09 Jul 2004,Moslem,FY 2004,49,Ethiopia,8,170
+From: 09 Jul 2004,To: 09 Jul 2004,Moslem,FY 2004,49,Somalia,41,170
+From: 09 Jul 2004,To: 09 Jul 2004,No Religion,FY 2004,15,Cuba,15,170
+From: 09 Jul 2004,To: 09 Jul 2004,Orthodox,FY 2004,4,Ethiopia,4,170
+From: 09 Jul 2004,To: 09 Jul 2004,Pentecostalist,FY 2004,4,Cuba,4,170
+

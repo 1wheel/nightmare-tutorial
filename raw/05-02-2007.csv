@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 May 2007,To: 02 May 2007,Burma,FY 2007,1,Christian,1,92
+From: 02 May 2007,To: 02 May 2007,Dem. Rep. Congo,FY 2007,34,Christian,2,92
+From: 02 May 2007,To: 02 May 2007,Dem. Rep. Congo,FY 2007,34,Methodist,13,92
+From: 02 May 2007,To: 02 May 2007,Dem. Rep. Congo,FY 2007,34,Protestant,19,92
+From: 02 May 2007,To: 02 May 2007,Ethiopia,FY 2007,2,Christian,1,92
+From: 02 May 2007,To: 02 May 2007,Ethiopia,FY 2007,2,Moslem,1,92
+From: 02 May 2007,To: 02 May 2007,Somalia,FY 2007,47,Moslem,47,92
+From: 02 May 2007,To: 02 May 2007,Sudan,FY 2007,4,Christian,4,92
+From: 02 May 2007,To: 02 May 2007,Syria,FY 2007,4,Moslem Suni,4,92
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 May 2007,To: 02 May 2007,Christian,FY 2007,8,Burma,1,92
+From: 02 May 2007,To: 02 May 2007,Christian,FY 2007,8,Dem. Rep. Congo,2,92
+From: 02 May 2007,To: 02 May 2007,Christian,FY 2007,8,Ethiopia,1,92
+From: 02 May 2007,To: 02 May 2007,Christian,FY 2007,8,Sudan,4,92
+From: 02 May 2007,To: 02 May 2007,Methodist,FY 2007,13,Dem. Rep. Congo,13,92
+From: 02 May 2007,To: 02 May 2007,Moslem,FY 2007,48,Ethiopia,1,92
+From: 02 May 2007,To: 02 May 2007,Moslem,FY 2007,48,Somalia,47,92
+From: 02 May 2007,To: 02 May 2007,Moslem Suni,FY 2007,4,Syria,4,92
+From: 02 May 2007,To: 02 May 2007,Protestant,FY 2007,19,Dem. Rep. Congo,19,92
+

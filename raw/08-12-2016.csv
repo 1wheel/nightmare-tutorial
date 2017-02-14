@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Aug 2016,To: 12 Aug 2016,Afghanistan,FY 2016,9,Moslem Suni,9,130
+From: 12 Aug 2016,To: 12 Aug 2016,Bhutan,FY 2016,15,Buddhist,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Bhutan,FY 2016,15,Christian,6,130
+From: 12 Aug 2016,To: 12 Aug 2016,Bhutan,FY 2016,15,Hindu,6,130
+From: 12 Aug 2016,To: 12 Aug 2016,Burundi,FY 2016,10,Jehovah Witness,10,130
+From: 12 Aug 2016,To: 12 Aug 2016,Dem. Rep. Congo,FY 2016,36,Catholic,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Dem. Rep. Congo,FY 2016,36,Christian,16,130
+From: 12 Aug 2016,To: 12 Aug 2016,Dem. Rep. Congo,FY 2016,36,Methodist,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Dem. Rep. Congo,FY 2016,36,Pentecostalist,6,130
+From: 12 Aug 2016,To: 12 Aug 2016,Dem. Rep. Congo,FY 2016,36,Protestant,8,130
+From: 12 Aug 2016,To: 12 Aug 2016,El Salvador,FY 2016,25,Atheist,1,130
+From: 12 Aug 2016,To: 12 Aug 2016,El Salvador,FY 2016,25,Catholic,9,130
+From: 12 Aug 2016,To: 12 Aug 2016,El Salvador,FY 2016,25,Christian,8,130
+From: 12 Aug 2016,To: 12 Aug 2016,El Salvador,FY 2016,25,Evangelical Christian,5,130
+From: 12 Aug 2016,To: 12 Aug 2016,El Salvador,FY 2016,25,No Religion,2,130
+From: 12 Aug 2016,To: 12 Aug 2016,Iraq,FY 2016,4,Catholic,1,130
+From: 12 Aug 2016,To: 12 Aug 2016,Iraq,FY 2016,4,Moslem Suni,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Russia,FY 2016,7,Pentecostalist,7,130
+From: 12 Aug 2016,To: 12 Aug 2016,Somalia,FY 2016,8,Moslem,8,130
+From: 12 Aug 2016,To: 12 Aug 2016,Syria,FY 2016,16,Moslem Suni,16,130
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Aug 2016,To: 12 Aug 2016,Atheist,FY 2016,1,El Salvador,1,130
+From: 12 Aug 2016,To: 12 Aug 2016,Buddhist,FY 2016,3,Bhutan,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Catholic,FY 2016,13,Dem. Rep. Congo,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Catholic,FY 2016,13,El Salvador,9,130
+From: 12 Aug 2016,To: 12 Aug 2016,Catholic,FY 2016,13,Iraq,1,130
+From: 12 Aug 2016,To: 12 Aug 2016,Christian,FY 2016,30,Bhutan,6,130
+From: 12 Aug 2016,To: 12 Aug 2016,Christian,FY 2016,30,Dem. Rep. Congo,16,130
+From: 12 Aug 2016,To: 12 Aug 2016,Christian,FY 2016,30,El Salvador,8,130
+From: 12 Aug 2016,To: 12 Aug 2016,Evangelical Christian,FY 2016,5,El Salvador,5,130
+From: 12 Aug 2016,To: 12 Aug 2016,Hindu,FY 2016,6,Bhutan,6,130
+From: 12 Aug 2016,To: 12 Aug 2016,Jehovah Witness,FY 2016,10,Burundi,10,130
+From: 12 Aug 2016,To: 12 Aug 2016,Methodist,FY 2016,3,Dem. Rep. Congo,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Moslem,FY 2016,8,Somalia,8,130
+From: 12 Aug 2016,To: 12 Aug 2016,Moslem Suni,FY 2016,28,Afghanistan,9,130
+From: 12 Aug 2016,To: 12 Aug 2016,Moslem Suni,FY 2016,28,Iraq,3,130
+From: 12 Aug 2016,To: 12 Aug 2016,Moslem Suni,FY 2016,28,Syria,16,130
+From: 12 Aug 2016,To: 12 Aug 2016,No Religion,FY 2016,2,El Salvador,2,130
+From: 12 Aug 2016,To: 12 Aug 2016,Pentecostalist,FY 2016,13,Dem. Rep. Congo,6,130
+From: 12 Aug 2016,To: 12 Aug 2016,Pentecostalist,FY 2016,13,Russia,7,130
+From: 12 Aug 2016,To: 12 Aug 2016,Protestant,FY 2016,8,Dem. Rep. Congo,8,130
+

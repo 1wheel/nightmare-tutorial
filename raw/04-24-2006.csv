@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Apr 2006,To: 24 Apr 2006,Afghanistan,FY 2006,17,Moslem Suni,17,112
+From: 24 Apr 2006,To: 24 Apr 2006,Moldova,FY 2006,30,Baptist,6,112
+From: 24 Apr 2006,To: 24 Apr 2006,Moldova,FY 2006,30,Pentecostalist,18,112
+From: 24 Apr 2006,To: 24 Apr 2006,Moldova,FY 2006,30,Seventh Day Adventist,6,112
+From: 24 Apr 2006,To: 24 Apr 2006,Russia,FY 2006,39,Jewish,3,112
+From: 24 Apr 2006,To: 24 Apr 2006,Russia,FY 2006,39,Moslem,21,112
+From: 24 Apr 2006,To: 24 Apr 2006,Russia,FY 2006,39,No Religion,2,112
+From: 24 Apr 2006,To: 24 Apr 2006,Russia,FY 2006,39,Pentecostalist,13,112
+From: 24 Apr 2006,To: 24 Apr 2006,Somalia,FY 2006,26,Moslem,26,112
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Apr 2006,To: 24 Apr 2006,Baptist,FY 2006,6,Moldova,6,112
+From: 24 Apr 2006,To: 24 Apr 2006,Jewish,FY 2006,3,Russia,3,112
+From: 24 Apr 2006,To: 24 Apr 2006,Moslem,FY 2006,47,Russia,21,112
+From: 24 Apr 2006,To: 24 Apr 2006,Moslem,FY 2006,47,Somalia,26,112
+From: 24 Apr 2006,To: 24 Apr 2006,Moslem Suni,FY 2006,17,Afghanistan,17,112
+From: 24 Apr 2006,To: 24 Apr 2006,No Religion,FY 2006,2,Russia,2,112
+From: 24 Apr 2006,To: 24 Apr 2006,Pentecostalist,FY 2006,31,Moldova,18,112
+From: 24 Apr 2006,To: 24 Apr 2006,Pentecostalist,FY 2006,31,Russia,13,112
+From: 24 Apr 2006,To: 24 Apr 2006,Seventh Day Adventist,FY 2006,6,Moldova,6,112
+

@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Aug 2014,To: 26 Aug 2014,Afghanistan,FY 2014,2,Moslem,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Afghanistan,FY 2014,2,Moslem Shiite,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Bhutan,FY 2014,32,Buddhist,20,353
+From: 26 Aug 2014,To: 26 Aug 2014,Bhutan,FY 2014,32,Christian,8,353
+From: 26 Aug 2014,To: 26 Aug 2014,Bhutan,FY 2014,32,Hindu,4,353
+From: 26 Aug 2014,To: 26 Aug 2014,Burma,FY 2014,92,Baptist,17,353
+From: 26 Aug 2014,To: 26 Aug 2014,Burma,FY 2014,92,Buddhist,16,353
+From: 26 Aug 2014,To: 26 Aug 2014,Burma,FY 2014,92,Catholic,7,353
+From: 26 Aug 2014,To: 26 Aug 2014,Burma,FY 2014,92,Christian,52,353
+From: 26 Aug 2014,To: 26 Aug 2014,Dem. Rep. Congo,FY 2014,5,Christian,5,353
+From: 26 Aug 2014,To: 26 Aug 2014,Ethiopia,FY 2014,6,Moslem,6,353
+From: 26 Aug 2014,To: 26 Aug 2014,Iran,FY 2014,27,Christian,25,353
+From: 26 Aug 2014,To: 26 Aug 2014,Iran,FY 2014,27,Moslem Suni,2,353
+From: 26 Aug 2014,To: 26 Aug 2014,Iraq,FY 2014,128,Catholic,10,353
+From: 26 Aug 2014,To: 26 Aug 2014,Iraq,FY 2014,128,Moslem Shiite,40,353
+From: 26 Aug 2014,To: 26 Aug 2014,Iraq,FY 2014,128,Moslem Suni,64,353
+From: 26 Aug 2014,To: 26 Aug 2014,Iraq,FY 2014,128,Orthodox,14,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moldova,FY 2014,6,Baptist,4,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moldova,FY 2014,6,Pentecostalist,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moldova,FY 2014,6,Seventh Day Adventist,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Somalia,FY 2014,54,Moslem,53,353
+From: 26 Aug 2014,To: 26 Aug 2014,Somalia,FY 2014,54,Moslem Suni,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Sudan,FY 2014,1,Moslem,1,353
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Aug 2014,To: 26 Aug 2014,Baptist,FY 2014,21,Burma,17,353
+From: 26 Aug 2014,To: 26 Aug 2014,Baptist,FY 2014,21,Moldova,4,353
+From: 26 Aug 2014,To: 26 Aug 2014,Buddhist,FY 2014,36,Bhutan,20,353
+From: 26 Aug 2014,To: 26 Aug 2014,Buddhist,FY 2014,36,Burma,16,353
+From: 26 Aug 2014,To: 26 Aug 2014,Catholic,FY 2014,17,Burma,7,353
+From: 26 Aug 2014,To: 26 Aug 2014,Catholic,FY 2014,17,Iraq,10,353
+From: 26 Aug 2014,To: 26 Aug 2014,Christian,FY 2014,90,Bhutan,8,353
+From: 26 Aug 2014,To: 26 Aug 2014,Christian,FY 2014,90,Burma,52,353
+From: 26 Aug 2014,To: 26 Aug 2014,Christian,FY 2014,90,Dem. Rep. Congo,5,353
+From: 26 Aug 2014,To: 26 Aug 2014,Christian,FY 2014,90,Iran,25,353
+From: 26 Aug 2014,To: 26 Aug 2014,Hindu,FY 2014,4,Bhutan,4,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem,FY 2014,61,Afghanistan,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem,FY 2014,61,Ethiopia,6,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem,FY 2014,61,Somalia,53,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem,FY 2014,61,Sudan,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem Shiite,FY 2014,41,Afghanistan,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem Shiite,FY 2014,41,Iraq,40,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem Suni,FY 2014,67,Iran,2,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem Suni,FY 2014,67,Iraq,64,353
+From: 26 Aug 2014,To: 26 Aug 2014,Moslem Suni,FY 2014,67,Somalia,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Orthodox,FY 2014,14,Iraq,14,353
+From: 26 Aug 2014,To: 26 Aug 2014,Pentecostalist,FY 2014,1,Moldova,1,353
+From: 26 Aug 2014,To: 26 Aug 2014,Seventh Day Adventist,FY 2014,1,Moldova,1,353
+

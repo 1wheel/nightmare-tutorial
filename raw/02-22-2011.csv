@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Feb 2011,To: 22 Feb 2011,Afghanistan,FY 2011,7,Moslem,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Afghanistan,FY 2011,7,Moslem Shiite,2,368
+From: 22 Feb 2011,To: 22 Feb 2011,Afghanistan,FY 2011,7,Moslem Suni,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Bhutan,FY 2011,119,Buddhist,9,368
+From: 22 Feb 2011,To: 22 Feb 2011,Bhutan,FY 2011,119,Christian,13,368
+From: 22 Feb 2011,To: 22 Feb 2011,Bhutan,FY 2011,119,Hindu,94,368
+From: 22 Feb 2011,To: 22 Feb 2011,Bhutan,FY 2011,119,Kirat,3,368
+From: 22 Feb 2011,To: 22 Feb 2011,Burma,FY 2011,55,Buddhist,22,368
+From: 22 Feb 2011,To: 22 Feb 2011,Burma,FY 2011,55,Christian,33,368
+From: 22 Feb 2011,To: 22 Feb 2011,Burundi,FY 2011,4,Catholic,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Dem. Rep. Congo,FY 2011,36,Catholic,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Dem. Rep. Congo,FY 2011,36,Pentecostalist,32,368
+From: 22 Feb 2011,To: 22 Feb 2011,Eritrea,FY 2011,23,Catholic,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Eritrea,FY 2011,23,Moslem,3,368
+From: 22 Feb 2011,To: 22 Feb 2011,Eritrea,FY 2011,23,Orthodox,16,368
+From: 22 Feb 2011,To: 22 Feb 2011,Ethiopia,FY 2011,6,Catholic,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Ethiopia,FY 2011,6,Christian,2,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iran,FY 2011,13,Christian,5,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iran,FY 2011,13,Moslem,3,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iran,FY 2011,13,Sabeans-Mandean,5,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iraq,FY 2011,69,Catholic,17,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iraq,FY 2011,69,Christian,9,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iraq,FY 2011,69,Moslem,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iraq,FY 2011,69,Moslem Shiite,21,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iraq,FY 2011,69,Moslem Suni,15,368
+From: 22 Feb 2011,To: 22 Feb 2011,Iraq,FY 2011,69,Orthodox,6,368
+From: 22 Feb 2011,To: 22 Feb 2011,Russia,FY 2011,7,Christian,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Russia,FY 2011,7,Jewish,5,368
+From: 22 Feb 2011,To: 22 Feb 2011,Russia,FY 2011,7,No Religion,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Somalia,FY 2011,28,Moslem,27,368
+From: 22 Feb 2011,To: 22 Feb 2011,Somalia,FY 2011,28,Moslem Suni,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Syria,FY 2011,1,Moslem,1,368
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Feb 2011,To: 22 Feb 2011,Buddhist,FY 2011,31,Bhutan,9,368
+From: 22 Feb 2011,To: 22 Feb 2011,Buddhist,FY 2011,31,Burma,22,368
+From: 22 Feb 2011,To: 22 Feb 2011,Catholic,FY 2011,33,Burundi,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Catholic,FY 2011,33,Dem. Rep. Congo,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Catholic,FY 2011,33,Eritrea,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Catholic,FY 2011,33,Ethiopia,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Catholic,FY 2011,33,Iraq,17,368
+From: 22 Feb 2011,To: 22 Feb 2011,Christian,FY 2011,63,Bhutan,13,368
+From: 22 Feb 2011,To: 22 Feb 2011,Christian,FY 2011,63,Burma,33,368
+From: 22 Feb 2011,To: 22 Feb 2011,Christian,FY 2011,63,Ethiopia,2,368
+From: 22 Feb 2011,To: 22 Feb 2011,Christian,FY 2011,63,Iran,5,368
+From: 22 Feb 2011,To: 22 Feb 2011,Christian,FY 2011,63,Iraq,9,368
+From: 22 Feb 2011,To: 22 Feb 2011,Christian,FY 2011,63,Russia,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Hindu,FY 2011,94,Bhutan,94,368
+From: 22 Feb 2011,To: 22 Feb 2011,Jewish,FY 2011,5,Russia,5,368
+From: 22 Feb 2011,To: 22 Feb 2011,Kirat,FY 2011,3,Bhutan,3,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem,FY 2011,36,Afghanistan,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem,FY 2011,36,Eritrea,3,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem,FY 2011,36,Iran,3,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem,FY 2011,36,Iraq,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem,FY 2011,36,Somalia,27,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem,FY 2011,36,Syria,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem Shiite,FY 2011,23,Afghanistan,2,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem Shiite,FY 2011,23,Iraq,21,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem Suni,FY 2011,20,Afghanistan,4,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem Suni,FY 2011,20,Iraq,15,368
+From: 22 Feb 2011,To: 22 Feb 2011,Moslem Suni,FY 2011,20,Somalia,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,No Religion,FY 2011,1,Russia,1,368
+From: 22 Feb 2011,To: 22 Feb 2011,Orthodox,FY 2011,22,Eritrea,16,368
+From: 22 Feb 2011,To: 22 Feb 2011,Orthodox,FY 2011,22,Iraq,6,368
+From: 22 Feb 2011,To: 22 Feb 2011,Pentecostalist,FY 2011,32,Dem. Rep. Congo,32,368
+From: 22 Feb 2011,To: 22 Feb 2011,Sabeans-Mandean,FY 2011,5,Iran,5,368
+

@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 May 2012,To: 31 May 2012,Bhutan,FY 2012,97,Buddhist,32,311
+From: 31 May 2012,To: 31 May 2012,Bhutan,FY 2012,97,Christian,11,311
+From: 31 May 2012,To: 31 May 2012,Bhutan,FY 2012,97,Hindu,54,311
+From: 31 May 2012,To: 31 May 2012,Cuba,FY 2012,30,Baptist,2,311
+From: 31 May 2012,To: 31 May 2012,Cuba,FY 2012,30,Catholic,12,311
+From: 31 May 2012,To: 31 May 2012,Cuba,FY 2012,30,Evangelical Christian,1,311
+From: 31 May 2012,To: 31 May 2012,Cuba,FY 2012,30,Jehovah Witness,8,311
+From: 31 May 2012,To: 31 May 2012,Cuba,FY 2012,30,No Religion,7,311
+From: 31 May 2012,To: 31 May 2012,Dem. Rep. Congo,FY 2012,56,Catholic,24,311
+From: 31 May 2012,To: 31 May 2012,Dem. Rep. Congo,FY 2012,56,Pentecostalist,7,311
+From: 31 May 2012,To: 31 May 2012,Dem. Rep. Congo,FY 2012,56,Protestant,6,311
+From: 31 May 2012,To: 31 May 2012,Dem. Rep. Congo,FY 2012,56,Seventh Day Adventist,19,311
+From: 31 May 2012,To: 31 May 2012,Eritrea,FY 2012,7,Christian,2,311
+From: 31 May 2012,To: 31 May 2012,Eritrea,FY 2012,7,Moslem,1,311
+From: 31 May 2012,To: 31 May 2012,Eritrea,FY 2012,7,Orthodox,4,311
+From: 31 May 2012,To: 31 May 2012,Iraq,FY 2012,53,Catholic,9,311
+From: 31 May 2012,To: 31 May 2012,Iraq,FY 2012,53,Christian,4,311
+From: 31 May 2012,To: 31 May 2012,Iraq,FY 2012,53,Moslem Shiite,10,311
+From: 31 May 2012,To: 31 May 2012,Iraq,FY 2012,53,Moslem Suni,25,311
+From: 31 May 2012,To: 31 May 2012,Iraq,FY 2012,53,Orthodox,5,311
+From: 31 May 2012,To: 31 May 2012,Somalia,FY 2012,61,Moslem,59,311
+From: 31 May 2012,To: 31 May 2012,Somalia,FY 2012,61,Moslem Suni,2,311
+From: 31 May 2012,To: 31 May 2012,Sudan,FY 2012,7,Moslem,7,311
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 May 2012,To: 31 May 2012,Baptist,FY 2012,2,Cuba,2,311
+From: 31 May 2012,To: 31 May 2012,Buddhist,FY 2012,32,Bhutan,32,311
+From: 31 May 2012,To: 31 May 2012,Catholic,FY 2012,45,Cuba,12,311
+From: 31 May 2012,To: 31 May 2012,Catholic,FY 2012,45,Dem. Rep. Congo,24,311
+From: 31 May 2012,To: 31 May 2012,Catholic,FY 2012,45,Iraq,9,311
+From: 31 May 2012,To: 31 May 2012,Christian,FY 2012,17,Bhutan,11,311
+From: 31 May 2012,To: 31 May 2012,Christian,FY 2012,17,Eritrea,2,311
+From: 31 May 2012,To: 31 May 2012,Christian,FY 2012,17,Iraq,4,311
+From: 31 May 2012,To: 31 May 2012,Evangelical Christian,FY 2012,1,Cuba,1,311
+From: 31 May 2012,To: 31 May 2012,Hindu,FY 2012,54,Bhutan,54,311
+From: 31 May 2012,To: 31 May 2012,Jehovah Witness,FY 2012,8,Cuba,8,311
+From: 31 May 2012,To: 31 May 2012,Moslem,FY 2012,67,Eritrea,1,311
+From: 31 May 2012,To: 31 May 2012,Moslem,FY 2012,67,Somalia,59,311
+From: 31 May 2012,To: 31 May 2012,Moslem,FY 2012,67,Sudan,7,311
+From: 31 May 2012,To: 31 May 2012,Moslem Shiite,FY 2012,10,Iraq,10,311
+From: 31 May 2012,To: 31 May 2012,Moslem Suni,FY 2012,27,Iraq,25,311
+From: 31 May 2012,To: 31 May 2012,Moslem Suni,FY 2012,27,Somalia,2,311
+From: 31 May 2012,To: 31 May 2012,No Religion,FY 2012,7,Cuba,7,311
+From: 31 May 2012,To: 31 May 2012,Orthodox,FY 2012,9,Eritrea,4,311
+From: 31 May 2012,To: 31 May 2012,Orthodox,FY 2012,9,Iraq,5,311
+From: 31 May 2012,To: 31 May 2012,Pentecostalist,FY 2012,7,Dem. Rep. Congo,7,311
+From: 31 May 2012,To: 31 May 2012,Protestant,FY 2012,6,Dem. Rep. Congo,6,311
+From: 31 May 2012,To: 31 May 2012,Seventh Day Adventist,FY 2012,19,Dem. Rep. Congo,19,311
+

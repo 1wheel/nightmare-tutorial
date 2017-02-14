@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jun 2004,To: 23 Jun 2004,Afghanistan,FY 2004,31,Moslem,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Afghanistan,FY 2004,31,Moslem Shiite,7,277
+From: 23 Jun 2004,To: 23 Jun 2004,Afghanistan,FY 2004,31,Moslem Suni,19,277
+From: 23 Jun 2004,To: 23 Jun 2004,Belarus,FY 2004,30,Baptist,8,277
+From: 23 Jun 2004,To: 23 Jun 2004,Belarus,FY 2004,30,Evangelical Christian,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Belarus,FY 2004,30,Jewish,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Belarus,FY 2004,30,No Religion,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Belarus,FY 2004,30,Pentecostalist,10,277
+From: 23 Jun 2004,To: 23 Jun 2004,Cuba,FY 2004,35,Catholic,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Cuba,FY 2004,35,Christian,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Cuba,FY 2004,35,Jehovah Witness,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Cuba,FY 2004,35,No Religion,26,277
+From: 23 Jun 2004,To: 23 Jun 2004,Ethiopia,FY 2004,15,Moslem,15,277
+From: 23 Jun 2004,To: 23 Jun 2004,Iran,FY 2004,4,Christian,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Liberia,FY 2004,4,Christian,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Pakistan,FY 2004,1,Christian,1,277
+From: 23 Jun 2004,To: 23 Jun 2004,Sierra Leone,FY 2004,8,Christian,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Sierra Leone,FY 2004,8,Moslem,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Somalia,FY 2004,90,Moslem,90,277
+From: 23 Jun 2004,To: 23 Jun 2004,Sudan,FY 2004,39,Catholic,28,277
+From: 23 Jun 2004,To: 23 Jun 2004,Sudan,FY 2004,39,Moslem,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Sudan,FY 2004,39,Protestant,7,277
+From: 23 Jun 2004,To: 23 Jun 2004,Vietnam,FY 2004,20,Buddhist,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Vietnam,FY 2004,20,Catholic,9,277
+From: 23 Jun 2004,To: 23 Jun 2004,Vietnam,FY 2004,20,No Religion,6,277
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jun 2004,To: 23 Jun 2004,Baptist,FY 2004,8,Belarus,8,277
+From: 23 Jun 2004,To: 23 Jun 2004,Buddhist,FY 2004,5,Vietnam,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Catholic,FY 2004,40,Cuba,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Catholic,FY 2004,40,Sudan,28,277
+From: 23 Jun 2004,To: 23 Jun 2004,Catholic,FY 2004,40,Vietnam,9,277
+From: 23 Jun 2004,To: 23 Jun 2004,Christian,FY 2004,15,Cuba,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Christian,FY 2004,15,Iran,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Christian,FY 2004,15,Liberia,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Christian,FY 2004,15,Pakistan,1,277
+From: 23 Jun 2004,To: 23 Jun 2004,Christian,FY 2004,15,Sierra Leone,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Evangelical Christian,FY 2004,5,Belarus,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Jehovah Witness,FY 2004,3,Cuba,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,Jewish,FY 2004,4,Belarus,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem,FY 2004,119,Afghanistan,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem,FY 2004,119,Ethiopia,15,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem,FY 2004,119,Sierra Leone,5,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem,FY 2004,119,Somalia,90,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem,FY 2004,119,Sudan,4,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem Shiite,FY 2004,7,Afghanistan,7,277
+From: 23 Jun 2004,To: 23 Jun 2004,Moslem Suni,FY 2004,19,Afghanistan,19,277
+From: 23 Jun 2004,To: 23 Jun 2004,No Religion,FY 2004,35,Belarus,3,277
+From: 23 Jun 2004,To: 23 Jun 2004,No Religion,FY 2004,35,Cuba,26,277
+From: 23 Jun 2004,To: 23 Jun 2004,No Religion,FY 2004,35,Vietnam,6,277
+From: 23 Jun 2004,To: 23 Jun 2004,Pentecostalist,FY 2004,10,Belarus,10,277
+From: 23 Jun 2004,To: 23 Jun 2004,Protestant,FY 2004,7,Sudan,7,277
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Mar 2016,To: 16 Mar 2016,Afghanistan,FY 2016,5,Moslem Shiite,5,291
+From: 16 Mar 2016,To: 16 Mar 2016,Burma,FY 2016,86,Baptist,4,291
+From: 16 Mar 2016,To: 16 Mar 2016,Burma,FY 2016,86,Buddhist,13,291
+From: 16 Mar 2016,To: 16 Mar 2016,Burma,FY 2016,86,Christian,67,291
+From: 16 Mar 2016,To: 16 Mar 2016,Burma,FY 2016,86,Moslem,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Colombia,FY 2016,1,Christian,1,291
+From: 16 Mar 2016,To: 16 Mar 2016,Dem. Rep. Congo,FY 2016,5,Pentecostalist,1,291
+From: 16 Mar 2016,To: 16 Mar 2016,Dem. Rep. Congo,FY 2016,5,Protestant,4,291
+From: 16 Mar 2016,To: 16 Mar 2016,Ethiopia,FY 2016,2,Protestant,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iran,FY 2016,28,Bahai,3,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iran,FY 2016,28,Christian,17,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iran,FY 2016,28,Moslem Shiite,3,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iran,FY 2016,28,Protestant,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iran,FY 2016,28,Zoroastrian,3,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iraq,FY 2016,61,Catholic,6,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iraq,FY 2016,61,Chaldean,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iraq,FY 2016,61,Moslem Shiite,9,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iraq,FY 2016,61,Moslem Suni,40,291
+From: 16 Mar 2016,To: 16 Mar 2016,Iraq,FY 2016,61,Orthodox,4,291
+From: 16 Mar 2016,To: 16 Mar 2016,Pakistan,FY 2016,7,Moslem Shiite,7,291
+From: 16 Mar 2016,To: 16 Mar 2016,Republic of South Sudan,FY 2016,6,Christian,6,291
+From: 16 Mar 2016,To: 16 Mar 2016,Somalia,FY 2016,63,Moslem,63,291
+From: 16 Mar 2016,To: 16 Mar 2016,Sudan,FY 2016,1,Moslem,1,291
+From: 16 Mar 2016,To: 16 Mar 2016,Syria,FY 2016,26,Moslem,8,291
+From: 16 Mar 2016,To: 16 Mar 2016,Syria,FY 2016,26,Moslem Suni,18,291
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Mar 2016,To: 16 Mar 2016,Bahai,FY 2016,3,Iran,3,291
+From: 16 Mar 2016,To: 16 Mar 2016,Baptist,FY 2016,4,Burma,4,291
+From: 16 Mar 2016,To: 16 Mar 2016,Buddhist,FY 2016,13,Burma,13,291
+From: 16 Mar 2016,To: 16 Mar 2016,Catholic,FY 2016,6,Iraq,6,291
+From: 16 Mar 2016,To: 16 Mar 2016,Chaldean,FY 2016,2,Iraq,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Christian,FY 2016,91,Burma,67,291
+From: 16 Mar 2016,To: 16 Mar 2016,Christian,FY 2016,91,Colombia,1,291
+From: 16 Mar 2016,To: 16 Mar 2016,Christian,FY 2016,91,Iran,17,291
+From: 16 Mar 2016,To: 16 Mar 2016,Christian,FY 2016,91,Republic of South Sudan,6,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem,FY 2016,74,Burma,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem,FY 2016,74,Somalia,63,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem,FY 2016,74,Sudan,1,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem,FY 2016,74,Syria,8,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem Shiite,FY 2016,24,Afghanistan,5,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem Shiite,FY 2016,24,Iran,3,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem Shiite,FY 2016,24,Iraq,9,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem Shiite,FY 2016,24,Pakistan,7,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem Suni,FY 2016,58,Iraq,40,291
+From: 16 Mar 2016,To: 16 Mar 2016,Moslem Suni,FY 2016,58,Syria,18,291
+From: 16 Mar 2016,To: 16 Mar 2016,Orthodox,FY 2016,4,Iraq,4,291
+From: 16 Mar 2016,To: 16 Mar 2016,Pentecostalist,FY 2016,1,Dem. Rep. Congo,1,291
+From: 16 Mar 2016,To: 16 Mar 2016,Protestant,FY 2016,8,Dem. Rep. Congo,4,291
+From: 16 Mar 2016,To: 16 Mar 2016,Protestant,FY 2016,8,Ethiopia,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Protestant,FY 2016,8,Iran,2,291
+From: 16 Mar 2016,To: 16 Mar 2016,Zoroastrian,FY 2016,3,Iran,3,291
+

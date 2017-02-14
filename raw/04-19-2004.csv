@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2004,To: 19 Apr 2004,Burma,FY 2004,6,Christian,6,60
+From: 19 Apr 2004,To: 19 Apr 2004,Eritrea,FY 2004,1,Christian,1,60
+From: 19 Apr 2004,To: 19 Apr 2004,Ethiopia,FY 2004,4,Moslem,4,60
+From: 19 Apr 2004,To: 19 Apr 2004,Liberia,FY 2004,19,Christian,19,60
+From: 19 Apr 2004,To: 19 Apr 2004,Sierra Leone,FY 2004,10,Christian,1,60
+From: 19 Apr 2004,To: 19 Apr 2004,Sierra Leone,FY 2004,10,Moslem,1,60
+From: 19 Apr 2004,To: 19 Apr 2004,Sierra Leone,FY 2004,10,Pentecostalist,8,60
+From: 19 Apr 2004,To: 19 Apr 2004,Somalia,FY 2004,20,Moslem,20,60
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2004,To: 19 Apr 2004,Christian,FY 2004,27,Burma,6,60
+From: 19 Apr 2004,To: 19 Apr 2004,Christian,FY 2004,27,Eritrea,1,60
+From: 19 Apr 2004,To: 19 Apr 2004,Christian,FY 2004,27,Liberia,19,60
+From: 19 Apr 2004,To: 19 Apr 2004,Christian,FY 2004,27,Sierra Leone,1,60
+From: 19 Apr 2004,To: 19 Apr 2004,Moslem,FY 2004,25,Ethiopia,4,60
+From: 19 Apr 2004,To: 19 Apr 2004,Moslem,FY 2004,25,Sierra Leone,1,60
+From: 19 Apr 2004,To: 19 Apr 2004,Moslem,FY 2004,25,Somalia,20,60
+From: 19 Apr 2004,To: 19 Apr 2004,Pentecostalist,FY 2004,8,Sierra Leone,8,60
+

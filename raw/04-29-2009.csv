@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Apr 2009,To: 29 Apr 2009,Afghanistan,FY 2009,1,Moslem Suni,1,416
+From: 29 Apr 2009,To: 29 Apr 2009,Bhutan,FY 2009,101,Buddhist,8,416
+From: 29 Apr 2009,To: 29 Apr 2009,Bhutan,FY 2009,101,Christian,8,416
+From: 29 Apr 2009,To: 29 Apr 2009,Bhutan,FY 2009,101,Hindu,75,416
+From: 29 Apr 2009,To: 29 Apr 2009,Bhutan,FY 2009,101,Kirat,10,416
+From: 29 Apr 2009,To: 29 Apr 2009,Burma,FY 2009,137,Animist,38,416
+From: 29 Apr 2009,To: 29 Apr 2009,Burma,FY 2009,137,Baptist,1,416
+From: 29 Apr 2009,To: 29 Apr 2009,Burma,FY 2009,137,Buddhist,13,416
+From: 29 Apr 2009,To: 29 Apr 2009,Burma,FY 2009,137,Catholic,11,416
+From: 29 Apr 2009,To: 29 Apr 2009,Burma,FY 2009,137,Christian,64,416
+From: 29 Apr 2009,To: 29 Apr 2009,Burma,FY 2009,137,Moslem,10,416
+From: 29 Apr 2009,To: 29 Apr 2009,Cuba,FY 2009,66,Baptist,6,416
+From: 29 Apr 2009,To: 29 Apr 2009,Cuba,FY 2009,66,Catholic,13,416
+From: 29 Apr 2009,To: 29 Apr 2009,Cuba,FY 2009,66,Evangelical Christian,3,416
+From: 29 Apr 2009,To: 29 Apr 2009,Cuba,FY 2009,66,Jehovah Witness,23,416
+From: 29 Apr 2009,To: 29 Apr 2009,Cuba,FY 2009,66,No Religion,19,416
+From: 29 Apr 2009,To: 29 Apr 2009,Cuba,FY 2009,66,Seventh Day Adventist,2,416
+From: 29 Apr 2009,To: 29 Apr 2009,Iraq,FY 2009,82,Catholic,8,416
+From: 29 Apr 2009,To: 29 Apr 2009,Iraq,FY 2009,82,Christian,29,416
+From: 29 Apr 2009,To: 29 Apr 2009,Iraq,FY 2009,82,Moslem Shiite,20,416
+From: 29 Apr 2009,To: 29 Apr 2009,Iraq,FY 2009,82,Moslem Suni,7,416
+From: 29 Apr 2009,To: 29 Apr 2009,Iraq,FY 2009,82,Orthodox,12,416
+From: 29 Apr 2009,To: 29 Apr 2009,Iraq,FY 2009,82,Sabeans-Mandean,6,416
+From: 29 Apr 2009,To: 29 Apr 2009,Mauritania,FY 2009,5,Moslem,5,416
+From: 29 Apr 2009,To: 29 Apr 2009,Russia,FY 2009,24,Baptist,17,416
+From: 29 Apr 2009,To: 29 Apr 2009,Russia,FY 2009,24,Pentecostalist,7,416
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Apr 2009,To: 29 Apr 2009,Animist,FY 2009,38,Burma,38,416
+From: 29 Apr 2009,To: 29 Apr 2009,Baptist,FY 2009,24,Burma,1,416
+From: 29 Apr 2009,To: 29 Apr 2009,Baptist,FY 2009,24,Cuba,6,416
+From: 29 Apr 2009,To: 29 Apr 2009,Baptist,FY 2009,24,Russia,17,416
+From: 29 Apr 2009,To: 29 Apr 2009,Buddhist,FY 2009,21,Bhutan,8,416
+From: 29 Apr 2009,To: 29 Apr 2009,Buddhist,FY 2009,21,Burma,13,416
+From: 29 Apr 2009,To: 29 Apr 2009,Catholic,FY 2009,32,Burma,11,416
+From: 29 Apr 2009,To: 29 Apr 2009,Catholic,FY 2009,32,Cuba,13,416
+From: 29 Apr 2009,To: 29 Apr 2009,Catholic,FY 2009,32,Iraq,8,416
+From: 29 Apr 2009,To: 29 Apr 2009,Christian,FY 2009,101,Bhutan,8,416
+From: 29 Apr 2009,To: 29 Apr 2009,Christian,FY 2009,101,Burma,64,416
+From: 29 Apr 2009,To: 29 Apr 2009,Christian,FY 2009,101,Iraq,29,416
+From: 29 Apr 2009,To: 29 Apr 2009,Evangelical Christian,FY 2009,3,Cuba,3,416
+From: 29 Apr 2009,To: 29 Apr 2009,Hindu,FY 2009,75,Bhutan,75,416
+From: 29 Apr 2009,To: 29 Apr 2009,Jehovah Witness,FY 2009,23,Cuba,23,416
+From: 29 Apr 2009,To: 29 Apr 2009,Kirat,FY 2009,10,Bhutan,10,416
+From: 29 Apr 2009,To: 29 Apr 2009,Moslem,FY 2009,15,Burma,10,416
+From: 29 Apr 2009,To: 29 Apr 2009,Moslem,FY 2009,15,Mauritania,5,416
+From: 29 Apr 2009,To: 29 Apr 2009,Moslem Shiite,FY 2009,20,Iraq,20,416
+From: 29 Apr 2009,To: 29 Apr 2009,Moslem Suni,FY 2009,8,Afghanistan,1,416
+From: 29 Apr 2009,To: 29 Apr 2009,Moslem Suni,FY 2009,8,Iraq,7,416
+From: 29 Apr 2009,To: 29 Apr 2009,No Religion,FY 2009,19,Cuba,19,416
+From: 29 Apr 2009,To: 29 Apr 2009,Orthodox,FY 2009,12,Iraq,12,416
+From: 29 Apr 2009,To: 29 Apr 2009,Pentecostalist,FY 2009,7,Russia,7,416
+From: 29 Apr 2009,To: 29 Apr 2009,Sabeans-Mandean,FY 2009,6,Iraq,6,416
+From: 29 Apr 2009,To: 29 Apr 2009,Seventh Day Adventist,FY 2009,2,Cuba,2,416
+

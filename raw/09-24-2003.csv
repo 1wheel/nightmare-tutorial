@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Sep 2003,To: 24 Sep 2003,Belarus,FY 2003,34,Baptist,22,491
+From: 24 Sep 2003,To: 24 Sep 2003,Belarus,FY 2003,34,Jewish,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Belarus,FY 2003,34,Orthodox,1,491
+From: 24 Sep 2003,To: 24 Sep 2003,Belarus,FY 2003,34,Pentecostalist,8,491
+From: 24 Sep 2003,To: 24 Sep 2003,Bosnia and Herzegovina,FY 2003,8,No Religion,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Bosnia and Herzegovina,FY 2003,8,Orthodox,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Burundi,FY 2003,3,Moslem,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Congo,FY 2003,4,Catholic,4,491
+From: 24 Sep 2003,To: 24 Sep 2003,Croatia,FY 2003,10,Orthodox,10,491
+From: 24 Sep 2003,To: 24 Sep 2003,Cuba,FY 2003,22,Catholic,8,491
+From: 24 Sep 2003,To: 24 Sep 2003,Cuba,FY 2003,22,Jehovah Witness,1,491
+From: 24 Sep 2003,To: 24 Sep 2003,Cuba,FY 2003,22,No Religion,13,491
+From: 24 Sep 2003,To: 24 Sep 2003,Dem. Rep. Congo,FY 2003,2,Protestant,2,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ethiopia,FY 2003,32,Christian,20,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ethiopia,FY 2003,32,Moslem,7,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ethiopia,FY 2003,32,Orthodox,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Georgia,FY 2003,2,Jewish,2,491
+From: 24 Sep 2003,To: 24 Sep 2003,Iraq,FY 2003,6,Moslem,6,491
+From: 24 Sep 2003,To: 24 Sep 2003,Latvia,FY 2003,5,Baptist,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Baptist,28,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Catholic,13,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Christian,197,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Evangelical Christian,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Lutheran,9,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Methodist,16,491
+From: 24 Sep 2003,To: 24 Sep 2003,Liberia,FY 2003,300,Pentecostalist,32,491
+From: 24 Sep 2003,To: 24 Sep 2003,Lithuania,FY 2003,2,Jewish,2,491
+From: 24 Sep 2003,To: 24 Sep 2003,Serbia,FY 2003,3,Orthodox,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Somalia,FY 2003,18,Moslem,18,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ukraine,FY 2003,35,Baptist,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ukraine,FY 2003,35,Jewish,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ukraine,FY 2003,35,Pentecostalist,21,491
+From: 24 Sep 2003,To: 24 Sep 2003,Ukraine,FY 2003,35,Uniate,4,491
+From: 24 Sep 2003,To: 24 Sep 2003,Vietnam,FY 2003,5,Protestant,5,491
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Sep 2003,To: 24 Sep 2003,Baptist,FY 2003,60,Belarus,22,491
+From: 24 Sep 2003,To: 24 Sep 2003,Baptist,FY 2003,60,Latvia,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Baptist,FY 2003,60,Liberia,28,491
+From: 24 Sep 2003,To: 24 Sep 2003,Baptist,FY 2003,60,Ukraine,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Catholic,FY 2003,25,Congo,4,491
+From: 24 Sep 2003,To: 24 Sep 2003,Catholic,FY 2003,25,Cuba,8,491
+From: 24 Sep 2003,To: 24 Sep 2003,Catholic,FY 2003,25,Liberia,13,491
+From: 24 Sep 2003,To: 24 Sep 2003,Christian,FY 2003,217,Ethiopia,20,491
+From: 24 Sep 2003,To: 24 Sep 2003,Christian,FY 2003,217,Liberia,197,491
+From: 24 Sep 2003,To: 24 Sep 2003,Evangelical Christian,FY 2003,5,Liberia,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Jehovah Witness,FY 2003,1,Cuba,1,491
+From: 24 Sep 2003,To: 24 Sep 2003,Jewish,FY 2003,12,Belarus,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Jewish,FY 2003,12,Georgia,2,491
+From: 24 Sep 2003,To: 24 Sep 2003,Jewish,FY 2003,12,Lithuania,2,491
+From: 24 Sep 2003,To: 24 Sep 2003,Jewish,FY 2003,12,Ukraine,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Lutheran,FY 2003,9,Liberia,9,491
+From: 24 Sep 2003,To: 24 Sep 2003,Methodist,FY 2003,16,Liberia,16,491
+From: 24 Sep 2003,To: 24 Sep 2003,Moslem,FY 2003,34,Burundi,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Moslem,FY 2003,34,Ethiopia,7,491
+From: 24 Sep 2003,To: 24 Sep 2003,Moslem,FY 2003,34,Iraq,6,491
+From: 24 Sep 2003,To: 24 Sep 2003,Moslem,FY 2003,34,Somalia,18,491
+From: 24 Sep 2003,To: 24 Sep 2003,No Religion,FY 2003,16,Bosnia and Herzegovina,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,No Religion,FY 2003,16,Cuba,13,491
+From: 24 Sep 2003,To: 24 Sep 2003,Orthodox,FY 2003,24,Belarus,1,491
+From: 24 Sep 2003,To: 24 Sep 2003,Orthodox,FY 2003,24,Bosnia and Herzegovina,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Orthodox,FY 2003,24,Croatia,10,491
+From: 24 Sep 2003,To: 24 Sep 2003,Orthodox,FY 2003,24,Ethiopia,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Orthodox,FY 2003,24,Serbia,3,491
+From: 24 Sep 2003,To: 24 Sep 2003,Pentecostalist,FY 2003,61,Belarus,8,491
+From: 24 Sep 2003,To: 24 Sep 2003,Pentecostalist,FY 2003,61,Liberia,32,491
+From: 24 Sep 2003,To: 24 Sep 2003,Pentecostalist,FY 2003,61,Ukraine,21,491
+From: 24 Sep 2003,To: 24 Sep 2003,Protestant,FY 2003,7,Dem. Rep. Congo,2,491
+From: 24 Sep 2003,To: 24 Sep 2003,Protestant,FY 2003,7,Vietnam,5,491
+From: 24 Sep 2003,To: 24 Sep 2003,Uniate,FY 2003,4,Ukraine,4,491
+

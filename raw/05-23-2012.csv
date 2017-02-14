@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 May 2012,To: 23 May 2012,Afghanistan,FY 2012,7,Moslem,7,365
+From: 23 May 2012,To: 23 May 2012,Bhutan,FY 2012,104,Buddhist,33,365
+From: 23 May 2012,To: 23 May 2012,Bhutan,FY 2012,104,Christian,11,365
+From: 23 May 2012,To: 23 May 2012,Bhutan,FY 2012,104,Hindu,57,365
+From: 23 May 2012,To: 23 May 2012,Bhutan,FY 2012,104,Kirat,3,365
+From: 23 May 2012,To: 23 May 2012,Burma,FY 2012,66,Buddhist,18,365
+From: 23 May 2012,To: 23 May 2012,Burma,FY 2012,66,Christian,17,365
+From: 23 May 2012,To: 23 May 2012,Burma,FY 2012,66,Moslem,28,365
+From: 23 May 2012,To: 23 May 2012,Burma,FY 2012,66,Seventh Day Adventist,3,365
+From: 23 May 2012,To: 23 May 2012,Eritrea,FY 2012,16,Orthodox,16,365
+From: 23 May 2012,To: 23 May 2012,Ethiopia,FY 2012,3,Orthodox,3,365
+From: 23 May 2012,To: 23 May 2012,Iran,FY 2012,2,Protestant,2,365
+From: 23 May 2012,To: 23 May 2012,Iraq,FY 2012,138,Catholic,29,365
+From: 23 May 2012,To: 23 May 2012,Iraq,FY 2012,138,Christian,19,365
+From: 23 May 2012,To: 23 May 2012,Iraq,FY 2012,138,Moslem Shiite,29,365
+From: 23 May 2012,To: 23 May 2012,Iraq,FY 2012,138,Moslem Suni,43,365
+From: 23 May 2012,To: 23 May 2012,Iraq,FY 2012,138,Orthodox,18,365
+From: 23 May 2012,To: 23 May 2012,Moldova,FY 2012,11,Baptist,4,365
+From: 23 May 2012,To: 23 May 2012,Moldova,FY 2012,11,Jehovah Witness,5,365
+From: 23 May 2012,To: 23 May 2012,Moldova,FY 2012,11,Pentecostalist,2,365
+From: 23 May 2012,To: 23 May 2012,Pakistan,FY 2012,6,Christian,2,365
+From: 23 May 2012,To: 23 May 2012,Pakistan,FY 2012,6,Other Religion,4,365
+From: 23 May 2012,To: 23 May 2012,Somalia,FY 2012,5,Moslem,5,365
+From: 23 May 2012,To: 23 May 2012,Sudan,FY 2012,7,Moslem,7,365
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 May 2012,To: 23 May 2012,Baptist,FY 2012,4,Moldova,4,365
+From: 23 May 2012,To: 23 May 2012,Buddhist,FY 2012,51,Bhutan,33,365
+From: 23 May 2012,To: 23 May 2012,Buddhist,FY 2012,51,Burma,18,365
+From: 23 May 2012,To: 23 May 2012,Catholic,FY 2012,29,Iraq,29,365
+From: 23 May 2012,To: 23 May 2012,Christian,FY 2012,49,Bhutan,11,365
+From: 23 May 2012,To: 23 May 2012,Christian,FY 2012,49,Burma,17,365
+From: 23 May 2012,To: 23 May 2012,Christian,FY 2012,49,Iraq,19,365
+From: 23 May 2012,To: 23 May 2012,Christian,FY 2012,49,Pakistan,2,365
+From: 23 May 2012,To: 23 May 2012,Hindu,FY 2012,57,Bhutan,57,365
+From: 23 May 2012,To: 23 May 2012,Jehovah Witness,FY 2012,5,Moldova,5,365
+From: 23 May 2012,To: 23 May 2012,Kirat,FY 2012,3,Bhutan,3,365
+From: 23 May 2012,To: 23 May 2012,Moslem,FY 2012,47,Afghanistan,7,365
+From: 23 May 2012,To: 23 May 2012,Moslem,FY 2012,47,Burma,28,365
+From: 23 May 2012,To: 23 May 2012,Moslem,FY 2012,47,Somalia,5,365
+From: 23 May 2012,To: 23 May 2012,Moslem,FY 2012,47,Sudan,7,365
+From: 23 May 2012,To: 23 May 2012,Moslem Shiite,FY 2012,29,Iraq,29,365
+From: 23 May 2012,To: 23 May 2012,Moslem Suni,FY 2012,43,Iraq,43,365
+From: 23 May 2012,To: 23 May 2012,Orthodox,FY 2012,37,Eritrea,16,365
+From: 23 May 2012,To: 23 May 2012,Orthodox,FY 2012,37,Ethiopia,3,365
+From: 23 May 2012,To: 23 May 2012,Orthodox,FY 2012,37,Iraq,18,365
+From: 23 May 2012,To: 23 May 2012,Other Religion,FY 2012,4,Pakistan,4,365
+From: 23 May 2012,To: 23 May 2012,Pentecostalist,FY 2012,2,Moldova,2,365
+From: 23 May 2012,To: 23 May 2012,Protestant,FY 2012,2,Iran,2,365
+From: 23 May 2012,To: 23 May 2012,Seventh Day Adventist,FY 2012,3,Burma,3,365
+

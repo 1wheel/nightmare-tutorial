@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Mar 2005,To: 10 Mar 2005,Afghanistan,FY 2005,5,Moslem,5,241
+From: 10 Mar 2005,To: 10 Mar 2005,Azerbaijan,FY 2005,10,Unknown,10,241
+From: 10 Mar 2005,To: 10 Mar 2005,Belarus,FY 2005,21,Baptist,8,241
+From: 10 Mar 2005,To: 10 Mar 2005,Belarus,FY 2005,21,Pentecostalist,13,241
+From: 10 Mar 2005,To: 10 Mar 2005,Bosnia and Herzegovina,FY 2005,1,Moslem,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Colombia,FY 2005,22,Catholic,16,241
+From: 10 Mar 2005,To: 10 Mar 2005,Colombia,FY 2005,22,Christian,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Colombia,FY 2005,22,Evangelical Christian,5,241
+From: 10 Mar 2005,To: 10 Mar 2005,Congo,FY 2005,3,Moslem,3,241
+From: 10 Mar 2005,To: 10 Mar 2005,Cuba,FY 2005,70,Catholic,45,241
+From: 10 Mar 2005,To: 10 Mar 2005,Cuba,FY 2005,70,Evangelical Christian,5,241
+From: 10 Mar 2005,To: 10 Mar 2005,Cuba,FY 2005,70,No Religion,20,241
+From: 10 Mar 2005,To: 10 Mar 2005,Ethiopia,FY 2005,9,Christian,2,241
+From: 10 Mar 2005,To: 10 Mar 2005,Ethiopia,FY 2005,9,Moslem,3,241
+From: 10 Mar 2005,To: 10 Mar 2005,Ethiopia,FY 2005,9,Protestant,4,241
+From: 10 Mar 2005,To: 10 Mar 2005,Iran,FY 2005,7,Bahai,7,241
+From: 10 Mar 2005,To: 10 Mar 2005,Laos,FY 2005,16,Ancestral Worship,16,241
+From: 10 Mar 2005,To: 10 Mar 2005,Nigeria,FY 2005,3,Christian,3,241
+From: 10 Mar 2005,To: 10 Mar 2005,Russia,FY 2005,7,Baptist,2,241
+From: 10 Mar 2005,To: 10 Mar 2005,Russia,FY 2005,7,Jewish,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Russia,FY 2005,7,No Religion,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Russia,FY 2005,7,Pentecostalist,2,241
+From: 10 Mar 2005,To: 10 Mar 2005,Russia,FY 2005,7,Unknown,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Somalia,FY 2005,60,Moslem,60,241
+From: 10 Mar 2005,To: 10 Mar 2005,Sudan,FY 2005,6,Catholic,6,241
+From: 10 Mar 2005,To: 10 Mar 2005,Togo,FY 2005,1,Christian,1,241
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Mar 2005,To: 10 Mar 2005,Ancestral Worship,FY 2005,16,Laos,16,241
+From: 10 Mar 2005,To: 10 Mar 2005,Bahai,FY 2005,7,Iran,7,241
+From: 10 Mar 2005,To: 10 Mar 2005,Baptist,FY 2005,10,Belarus,8,241
+From: 10 Mar 2005,To: 10 Mar 2005,Baptist,FY 2005,10,Russia,2,241
+From: 10 Mar 2005,To: 10 Mar 2005,Catholic,FY 2005,67,Colombia,16,241
+From: 10 Mar 2005,To: 10 Mar 2005,Catholic,FY 2005,67,Cuba,45,241
+From: 10 Mar 2005,To: 10 Mar 2005,Catholic,FY 2005,67,Sudan,6,241
+From: 10 Mar 2005,To: 10 Mar 2005,Christian,FY 2005,7,Colombia,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Christian,FY 2005,7,Ethiopia,2,241
+From: 10 Mar 2005,To: 10 Mar 2005,Christian,FY 2005,7,Nigeria,3,241
+From: 10 Mar 2005,To: 10 Mar 2005,Christian,FY 2005,7,Togo,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Evangelical Christian,FY 2005,10,Colombia,5,241
+From: 10 Mar 2005,To: 10 Mar 2005,Evangelical Christian,FY 2005,10,Cuba,5,241
+From: 10 Mar 2005,To: 10 Mar 2005,Jewish,FY 2005,1,Russia,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Moslem,FY 2005,72,Afghanistan,5,241
+From: 10 Mar 2005,To: 10 Mar 2005,Moslem,FY 2005,72,Bosnia and Herzegovina,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Moslem,FY 2005,72,Congo,3,241
+From: 10 Mar 2005,To: 10 Mar 2005,Moslem,FY 2005,72,Ethiopia,3,241
+From: 10 Mar 2005,To: 10 Mar 2005,Moslem,FY 2005,72,Somalia,60,241
+From: 10 Mar 2005,To: 10 Mar 2005,No Religion,FY 2005,21,Cuba,20,241
+From: 10 Mar 2005,To: 10 Mar 2005,No Religion,FY 2005,21,Russia,1,241
+From: 10 Mar 2005,To: 10 Mar 2005,Pentecostalist,FY 2005,15,Belarus,13,241
+From: 10 Mar 2005,To: 10 Mar 2005,Pentecostalist,FY 2005,15,Russia,2,241
+From: 10 Mar 2005,To: 10 Mar 2005,Protestant,FY 2005,4,Ethiopia,4,241
+From: 10 Mar 2005,To: 10 Mar 2005,Unknown,FY 2005,11,Azerbaijan,10,241
+From: 10 Mar 2005,To: 10 Mar 2005,Unknown,FY 2005,11,Russia,1,241
+

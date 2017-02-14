@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Dec 2006,To: 13 Dec 2006,Burma,FY 2007,58,Buddhist,3,239
+From: 13 Dec 2006,To: 13 Dec 2006,Burma,FY 2007,58,Christian,55,239
+From: 13 Dec 2006,To: 13 Dec 2006,China,FY 2007,2,No Religion,1,239
+From: 13 Dec 2006,To: 13 Dec 2006,China,FY 2007,2,Protestant,1,239
+From: 13 Dec 2006,To: 13 Dec 2006,Dem. Rep. Congo,FY 2007,2,Christian,2,239
+From: 13 Dec 2006,To: 13 Dec 2006,Iran,FY 2007,20,Christian,20,239
+From: 13 Dec 2006,To: 13 Dec 2006,Laos,FY 2007,3,Ancestral Worship,3,239
+From: 13 Dec 2006,To: 13 Dec 2006,Russia,FY 2007,32,Moslem,32,239
+From: 13 Dec 2006,To: 13 Dec 2006,Somalia,FY 2007,72,Moslem,72,239
+From: 13 Dec 2006,To: 13 Dec 2006,Ukraine,FY 2007,17,Baptist,12,239
+From: 13 Dec 2006,To: 13 Dec 2006,Ukraine,FY 2007,17,Pentecostalist,5,239
+From: 13 Dec 2006,To: 13 Dec 2006,Vietnam,FY 2007,33,Cao Dai,3,239
+From: 13 Dec 2006,To: 13 Dec 2006,Vietnam,FY 2007,33,Catholic,10,239
+From: 13 Dec 2006,To: 13 Dec 2006,Vietnam,FY 2007,33,No Religion,11,239
+From: 13 Dec 2006,To: 13 Dec 2006,Vietnam,FY 2007,33,Protestant,9,239
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Dec 2006,To: 13 Dec 2006,Ancestral Worship,FY 2007,3,Laos,3,239
+From: 13 Dec 2006,To: 13 Dec 2006,Baptist,FY 2007,12,Ukraine,12,239
+From: 13 Dec 2006,To: 13 Dec 2006,Buddhist,FY 2007,3,Burma,3,239
+From: 13 Dec 2006,To: 13 Dec 2006,Cao Dai,FY 2007,3,Vietnam,3,239
+From: 13 Dec 2006,To: 13 Dec 2006,Catholic,FY 2007,10,Vietnam,10,239
+From: 13 Dec 2006,To: 13 Dec 2006,Christian,FY 2007,77,Burma,55,239
+From: 13 Dec 2006,To: 13 Dec 2006,Christian,FY 2007,77,Dem. Rep. Congo,2,239
+From: 13 Dec 2006,To: 13 Dec 2006,Christian,FY 2007,77,Iran,20,239
+From: 13 Dec 2006,To: 13 Dec 2006,Moslem,FY 2007,104,Russia,32,239
+From: 13 Dec 2006,To: 13 Dec 2006,Moslem,FY 2007,104,Somalia,72,239
+From: 13 Dec 2006,To: 13 Dec 2006,No Religion,FY 2007,12,China,1,239
+From: 13 Dec 2006,To: 13 Dec 2006,No Religion,FY 2007,12,Vietnam,11,239
+From: 13 Dec 2006,To: 13 Dec 2006,Pentecostalist,FY 2007,5,Ukraine,5,239
+From: 13 Dec 2006,To: 13 Dec 2006,Protestant,FY 2007,10,China,1,239
+From: 13 Dec 2006,To: 13 Dec 2006,Protestant,FY 2007,10,Vietnam,9,239
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 May 2015,To: 21 May 2015,Afghanistan,FY 2015,12,Moslem Shiite,9,259
+From: 21 May 2015,To: 21 May 2015,Afghanistan,FY 2015,12,Moslem Suni,3,259
+From: 21 May 2015,To: 21 May 2015,Burma,FY 2015,51,Buddhist,4,259
+From: 21 May 2015,To: 21 May 2015,Burma,FY 2015,51,Christian,39,259
+From: 21 May 2015,To: 21 May 2015,Burma,FY 2015,51,Moslem,8,259
+From: 21 May 2015,To: 21 May 2015,Dem. Rep. Congo,FY 2015,31,Catholic,3,259
+From: 21 May 2015,To: 21 May 2015,Dem. Rep. Congo,FY 2015,31,Christian,9,259
+From: 21 May 2015,To: 21 May 2015,Dem. Rep. Congo,FY 2015,31,Protestant,19,259
+From: 21 May 2015,To: 21 May 2015,Iran,FY 2015,7,Bahai,3,259
+From: 21 May 2015,To: 21 May 2015,Iran,FY 2015,7,Protestant,2,259
+From: 21 May 2015,To: 21 May 2015,Iran,FY 2015,7,Zoroastrian,2,259
+From: 21 May 2015,To: 21 May 2015,Iraq,FY 2015,80,Catholic,11,259
+From: 21 May 2015,To: 21 May 2015,Iraq,FY 2015,80,Moslem Shiite,31,259
+From: 21 May 2015,To: 21 May 2015,Iraq,FY 2015,80,Moslem Suni,38,259
+From: 21 May 2015,To: 21 May 2015,"Korea, North",FY 2015,2,Christian,2,259
+From: 21 May 2015,To: 21 May 2015,Pakistan,FY 2015,28,Ahmadiyya,4,259
+From: 21 May 2015,To: 21 May 2015,Pakistan,FY 2015,28,Christian,7,259
+From: 21 May 2015,To: 21 May 2015,Pakistan,FY 2015,28,Other Religion,17,259
+From: 21 May 2015,To: 21 May 2015,Somalia,FY 2015,39,Moslem,38,259
+From: 21 May 2015,To: 21 May 2015,Somalia,FY 2015,39,Moslem Suni,1,259
+From: 21 May 2015,To: 21 May 2015,Sudan,FY 2015,5,Christian,1,259
+From: 21 May 2015,To: 21 May 2015,Sudan,FY 2015,5,Moslem,3,259
+From: 21 May 2015,To: 21 May 2015,Sudan,FY 2015,5,Moslem Suni,1,259
+From: 21 May 2015,To: 21 May 2015,Uzbekistan,FY 2015,4,Jewish,4,259
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 May 2015,To: 21 May 2015,Ahmadiyya,FY 2015,4,Pakistan,4,259
+From: 21 May 2015,To: 21 May 2015,Bahai,FY 2015,3,Iran,3,259
+From: 21 May 2015,To: 21 May 2015,Buddhist,FY 2015,4,Burma,4,259
+From: 21 May 2015,To: 21 May 2015,Catholic,FY 2015,14,Dem. Rep. Congo,3,259
+From: 21 May 2015,To: 21 May 2015,Catholic,FY 2015,14,Iraq,11,259
+From: 21 May 2015,To: 21 May 2015,Christian,FY 2015,58,Burma,39,259
+From: 21 May 2015,To: 21 May 2015,Christian,FY 2015,58,Dem. Rep. Congo,9,259
+From: 21 May 2015,To: 21 May 2015,Christian,FY 2015,58,"Korea, North",2,259
+From: 21 May 2015,To: 21 May 2015,Christian,FY 2015,58,Pakistan,7,259
+From: 21 May 2015,To: 21 May 2015,Christian,FY 2015,58,Sudan,1,259
+From: 21 May 2015,To: 21 May 2015,Jewish,FY 2015,4,Uzbekistan,4,259
+From: 21 May 2015,To: 21 May 2015,Moslem,FY 2015,49,Burma,8,259
+From: 21 May 2015,To: 21 May 2015,Moslem,FY 2015,49,Somalia,38,259
+From: 21 May 2015,To: 21 May 2015,Moslem,FY 2015,49,Sudan,3,259
+From: 21 May 2015,To: 21 May 2015,Moslem Shiite,FY 2015,40,Afghanistan,9,259
+From: 21 May 2015,To: 21 May 2015,Moslem Shiite,FY 2015,40,Iraq,31,259
+From: 21 May 2015,To: 21 May 2015,Moslem Suni,FY 2015,43,Afghanistan,3,259
+From: 21 May 2015,To: 21 May 2015,Moslem Suni,FY 2015,43,Iraq,38,259
+From: 21 May 2015,To: 21 May 2015,Moslem Suni,FY 2015,43,Somalia,1,259
+From: 21 May 2015,To: 21 May 2015,Moslem Suni,FY 2015,43,Sudan,1,259
+From: 21 May 2015,To: 21 May 2015,Other Religion,FY 2015,17,Pakistan,17,259
+From: 21 May 2015,To: 21 May 2015,Protestant,FY 2015,21,Dem. Rep. Congo,19,259
+From: 21 May 2015,To: 21 May 2015,Protestant,FY 2015,21,Iran,2,259
+From: 21 May 2015,To: 21 May 2015,Zoroastrian,FY 2015,2,Iran,2,259
+

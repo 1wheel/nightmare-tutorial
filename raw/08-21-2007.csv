@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Aug 2007,To: 21 Aug 2007,Afghanistan,FY 2007,1,Moslem,1,361
+From: 21 Aug 2007,To: 21 Aug 2007,Burma,FY 2007,217,Buddhist,40,361
+From: 21 Aug 2007,To: 21 Aug 2007,Burma,FY 2007,217,Christian,161,361
+From: 21 Aug 2007,To: 21 Aug 2007,Burma,FY 2007,217,Moslem,14,361
+From: 21 Aug 2007,To: 21 Aug 2007,Burma,FY 2007,217,Moslem Suni,2,361
+From: 21 Aug 2007,To: 21 Aug 2007,Ethiopia,FY 2007,8,Moslem,8,361
+From: 21 Aug 2007,To: 21 Aug 2007,Iran,FY 2007,66,Bahai,2,361
+From: 21 Aug 2007,To: 21 Aug 2007,Iran,FY 2007,66,Christian,42,361
+From: 21 Aug 2007,To: 21 Aug 2007,Iran,FY 2007,66,Jewish,5,361
+From: 21 Aug 2007,To: 21 Aug 2007,Iran,FY 2007,66,Sabeans-Mandean,17,361
+From: 21 Aug 2007,To: 21 Aug 2007,Somalia,FY 2007,45,Moslem,45,361
+From: 21 Aug 2007,To: 21 Aug 2007,Ukraine,FY 2007,24,Baptist,5,361
+From: 21 Aug 2007,To: 21 Aug 2007,Ukraine,FY 2007,24,Pentecostalist,16,361
+From: 21 Aug 2007,To: 21 Aug 2007,Ukraine,FY 2007,24,Uniate,3,361
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Aug 2007,To: 21 Aug 2007,Bahai,FY 2007,2,Iran,2,361
+From: 21 Aug 2007,To: 21 Aug 2007,Baptist,FY 2007,5,Ukraine,5,361
+From: 21 Aug 2007,To: 21 Aug 2007,Buddhist,FY 2007,40,Burma,40,361
+From: 21 Aug 2007,To: 21 Aug 2007,Christian,FY 2007,203,Burma,161,361
+From: 21 Aug 2007,To: 21 Aug 2007,Christian,FY 2007,203,Iran,42,361
+From: 21 Aug 2007,To: 21 Aug 2007,Jewish,FY 2007,5,Iran,5,361
+From: 21 Aug 2007,To: 21 Aug 2007,Moslem,FY 2007,68,Afghanistan,1,361
+From: 21 Aug 2007,To: 21 Aug 2007,Moslem,FY 2007,68,Burma,14,361
+From: 21 Aug 2007,To: 21 Aug 2007,Moslem,FY 2007,68,Ethiopia,8,361
+From: 21 Aug 2007,To: 21 Aug 2007,Moslem,FY 2007,68,Somalia,45,361
+From: 21 Aug 2007,To: 21 Aug 2007,Moslem Suni,FY 2007,2,Burma,2,361
+From: 21 Aug 2007,To: 21 Aug 2007,Pentecostalist,FY 2007,16,Ukraine,16,361
+From: 21 Aug 2007,To: 21 Aug 2007,Sabeans-Mandean,FY 2007,17,Iran,17,361
+From: 21 Aug 2007,To: 21 Aug 2007,Uniate,FY 2007,3,Ukraine,3,361
+

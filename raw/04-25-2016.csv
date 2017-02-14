@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Apr 2016,To: 25 Apr 2016,Burma,FY 2016,76,Christian,36,297
+From: 25 Apr 2016,To: 25 Apr 2016,Burma,FY 2016,76,Evangelical Christian,4,297
+From: 25 Apr 2016,To: 25 Apr 2016,Burma,FY 2016,76,Moslem,36,297
+From: 25 Apr 2016,To: 25 Apr 2016,Dem. Rep. Congo,FY 2016,95,Catholic,15,297
+From: 25 Apr 2016,To: 25 Apr 2016,Dem. Rep. Congo,FY 2016,95,Christian,9,297
+From: 25 Apr 2016,To: 25 Apr 2016,Dem. Rep. Congo,FY 2016,95,Pentecostalist,24,297
+From: 25 Apr 2016,To: 25 Apr 2016,Dem. Rep. Congo,FY 2016,95,Protestant,4,297
+From: 25 Apr 2016,To: 25 Apr 2016,Dem. Rep. Congo,FY 2016,95,Seventh Day Adventist,43,297
+From: 25 Apr 2016,To: 25 Apr 2016,Egypt,FY 2016,2,Christian,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Eritrea,FY 2016,2,Protestant,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Ethiopia,FY 2016,1,Orthodox,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iran,FY 2016,3,Moslem Shiite,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iran,FY 2016,3,Protestant,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iraq,FY 2016,75,Catholic,3,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iraq,FY 2016,75,Christian,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iraq,FY 2016,75,Moslem,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iraq,FY 2016,75,Moslem Shiite,34,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iraq,FY 2016,75,Moslem Suni,32,297
+From: 25 Apr 2016,To: 25 Apr 2016,Iraq,FY 2016,75,Orthodox,3,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moldova,FY 2016,26,Baptist,5,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moldova,FY 2016,26,Jehovah Witness,5,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moldova,FY 2016,26,Pentecostalist,12,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moldova,FY 2016,26,Seventh Day Adventist,4,297
+From: 25 Apr 2016,To: 25 Apr 2016,Somalia,FY 2016,3,Moslem,3,297
+From: 25 Apr 2016,To: 25 Apr 2016,Sudan,FY 2016,1,Moslem,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Syria,FY 2016,13,Moslem Suni,13,297
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Apr 2016,To: 25 Apr 2016,Baptist,FY 2016,5,Moldova,5,297
+From: 25 Apr 2016,To: 25 Apr 2016,Catholic,FY 2016,18,Dem. Rep. Congo,15,297
+From: 25 Apr 2016,To: 25 Apr 2016,Catholic,FY 2016,18,Iraq,3,297
+From: 25 Apr 2016,To: 25 Apr 2016,Christian,FY 2016,48,Burma,36,297
+From: 25 Apr 2016,To: 25 Apr 2016,Christian,FY 2016,48,Dem. Rep. Congo,9,297
+From: 25 Apr 2016,To: 25 Apr 2016,Christian,FY 2016,48,Egypt,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Christian,FY 2016,48,Iraq,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Evangelical Christian,FY 2016,4,Burma,4,297
+From: 25 Apr 2016,To: 25 Apr 2016,Jehovah Witness,FY 2016,5,Moldova,5,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem,FY 2016,42,Burma,36,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem,FY 2016,42,Iraq,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem,FY 2016,42,Somalia,3,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem,FY 2016,42,Sudan,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem Shiite,FY 2016,35,Iran,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem Shiite,FY 2016,35,Iraq,34,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem Suni,FY 2016,45,Iraq,32,297
+From: 25 Apr 2016,To: 25 Apr 2016,Moslem Suni,FY 2016,45,Syria,13,297
+From: 25 Apr 2016,To: 25 Apr 2016,Orthodox,FY 2016,4,Ethiopia,1,297
+From: 25 Apr 2016,To: 25 Apr 2016,Orthodox,FY 2016,4,Iraq,3,297
+From: 25 Apr 2016,To: 25 Apr 2016,Pentecostalist,FY 2016,36,Dem. Rep. Congo,24,297
+From: 25 Apr 2016,To: 25 Apr 2016,Pentecostalist,FY 2016,36,Moldova,12,297
+From: 25 Apr 2016,To: 25 Apr 2016,Protestant,FY 2016,8,Dem. Rep. Congo,4,297
+From: 25 Apr 2016,To: 25 Apr 2016,Protestant,FY 2016,8,Eritrea,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Protestant,FY 2016,8,Iran,2,297
+From: 25 Apr 2016,To: 25 Apr 2016,Seventh Day Adventist,FY 2016,47,Dem. Rep. Congo,43,297
+From: 25 Apr 2016,To: 25 Apr 2016,Seventh Day Adventist,FY 2016,47,Moldova,4,297
+

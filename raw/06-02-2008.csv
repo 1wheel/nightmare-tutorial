@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jun 2008,To: 02 Jun 2008,Bhutan,FY 2008,60,Christian,3,248
+From: 02 Jun 2008,To: 02 Jun 2008,Bhutan,FY 2008,60,Hindu,57,248
+From: 02 Jun 2008,To: 02 Jun 2008,Burma,FY 2008,92,Buddhist,10,248
+From: 02 Jun 2008,To: 02 Jun 2008,Burma,FY 2008,92,Christian,58,248
+From: 02 Jun 2008,To: 02 Jun 2008,Burma,FY 2008,92,Moslem,24,248
+From: 02 Jun 2008,To: 02 Jun 2008,Iraq,FY 2008,96,Catholic,4,248
+From: 02 Jun 2008,To: 02 Jun 2008,Iraq,FY 2008,96,Christian,56,248
+From: 02 Jun 2008,To: 02 Jun 2008,Iraq,FY 2008,96,Moslem Shiite,7,248
+From: 02 Jun 2008,To: 02 Jun 2008,Iraq,FY 2008,96,Moslem Suni,29,248
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jun 2008,To: 02 Jun 2008,Buddhist,FY 2008,10,Burma,10,248
+From: 02 Jun 2008,To: 02 Jun 2008,Catholic,FY 2008,4,Iraq,4,248
+From: 02 Jun 2008,To: 02 Jun 2008,Christian,FY 2008,117,Bhutan,3,248
+From: 02 Jun 2008,To: 02 Jun 2008,Christian,FY 2008,117,Burma,58,248
+From: 02 Jun 2008,To: 02 Jun 2008,Christian,FY 2008,117,Iraq,56,248
+From: 02 Jun 2008,To: 02 Jun 2008,Hindu,FY 2008,57,Bhutan,57,248
+From: 02 Jun 2008,To: 02 Jun 2008,Moslem,FY 2008,24,Burma,24,248
+From: 02 Jun 2008,To: 02 Jun 2008,Moslem Shiite,FY 2008,7,Iraq,7,248
+From: 02 Jun 2008,To: 02 Jun 2008,Moslem Suni,FY 2008,29,Iraq,29,248
+

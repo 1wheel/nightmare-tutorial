@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jul 2007,To: 16 Jul 2007,Azerbaijan,FY 2007,1,Christian,1,157
+From: 16 Jul 2007,To: 16 Jul 2007,Burma,FY 2007,31,Baptist,4,157
+From: 16 Jul 2007,To: 16 Jul 2007,Burma,FY 2007,31,Christian,27,157
+From: 16 Jul 2007,To: 16 Jul 2007,Burundi,FY 2007,70,Catholic,28,157
+From: 16 Jul 2007,To: 16 Jul 2007,Burundi,FY 2007,70,Christian,5,157
+From: 16 Jul 2007,To: 16 Jul 2007,Burundi,FY 2007,70,Moslem,6,157
+From: 16 Jul 2007,To: 16 Jul 2007,Burundi,FY 2007,70,Pentecostalist,31,157
+From: 16 Jul 2007,To: 16 Jul 2007,Dem. Rep. Congo,FY 2007,8,Catholic,2,157
+From: 16 Jul 2007,To: 16 Jul 2007,Dem. Rep. Congo,FY 2007,8,Moslem,4,157
+From: 16 Jul 2007,To: 16 Jul 2007,Dem. Rep. Congo,FY 2007,8,Pentecostalist,1,157
+From: 16 Jul 2007,To: 16 Jul 2007,Dem. Rep. Congo,FY 2007,8,Protestant,1,157
+From: 16 Jul 2007,To: 16 Jul 2007,Iran,FY 2007,17,Bahai,2,157
+From: 16 Jul 2007,To: 16 Jul 2007,Iran,FY 2007,17,Christian,4,157
+From: 16 Jul 2007,To: 16 Jul 2007,Iran,FY 2007,17,Sabeans-Mandean,11,157
+From: 16 Jul 2007,To: 16 Jul 2007,Kyrgyzstan,FY 2007,2,Baptist,2,157
+From: 16 Jul 2007,To: 16 Jul 2007,Russia,FY 2007,3,Pentecostalist,3,157
+From: 16 Jul 2007,To: 16 Jul 2007,Somalia,FY 2007,25,Moslem,25,157
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jul 2007,To: 16 Jul 2007,Bahai,FY 2007,2,Iran,2,157
+From: 16 Jul 2007,To: 16 Jul 2007,Baptist,FY 2007,6,Burma,4,157
+From: 16 Jul 2007,To: 16 Jul 2007,Baptist,FY 2007,6,Kyrgyzstan,2,157
+From: 16 Jul 2007,To: 16 Jul 2007,Catholic,FY 2007,30,Burundi,28,157
+From: 16 Jul 2007,To: 16 Jul 2007,Catholic,FY 2007,30,Dem. Rep. Congo,2,157
+From: 16 Jul 2007,To: 16 Jul 2007,Christian,FY 2007,37,Azerbaijan,1,157
+From: 16 Jul 2007,To: 16 Jul 2007,Christian,FY 2007,37,Burma,27,157
+From: 16 Jul 2007,To: 16 Jul 2007,Christian,FY 2007,37,Burundi,5,157
+From: 16 Jul 2007,To: 16 Jul 2007,Christian,FY 2007,37,Iran,4,157
+From: 16 Jul 2007,To: 16 Jul 2007,Moslem,FY 2007,35,Burundi,6,157
+From: 16 Jul 2007,To: 16 Jul 2007,Moslem,FY 2007,35,Dem. Rep. Congo,4,157
+From: 16 Jul 2007,To: 16 Jul 2007,Moslem,FY 2007,35,Somalia,25,157
+From: 16 Jul 2007,To: 16 Jul 2007,Pentecostalist,FY 2007,35,Burundi,31,157
+From: 16 Jul 2007,To: 16 Jul 2007,Pentecostalist,FY 2007,35,Dem. Rep. Congo,1,157
+From: 16 Jul 2007,To: 16 Jul 2007,Pentecostalist,FY 2007,35,Russia,3,157
+From: 16 Jul 2007,To: 16 Jul 2007,Protestant,FY 2007,1,Dem. Rep. Congo,1,157
+From: 16 Jul 2007,To: 16 Jul 2007,Sabeans-Mandean,FY 2007,11,Iran,11,157
+

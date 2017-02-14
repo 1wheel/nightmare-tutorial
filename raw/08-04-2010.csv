@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Aug 2010,To: 04 Aug 2010,Afghanistan,FY 2010,5,Moslem Suni,5,297
+From: 04 Aug 2010,To: 04 Aug 2010,Burma,FY 2010,125,Baptist,9,297
+From: 04 Aug 2010,To: 04 Aug 2010,Burma,FY 2010,125,Buddhist,14,297
+From: 04 Aug 2010,To: 04 Aug 2010,Burma,FY 2010,125,Catholic,11,297
+From: 04 Aug 2010,To: 04 Aug 2010,Burma,FY 2010,125,Christian,90,297
+From: 04 Aug 2010,To: 04 Aug 2010,Burma,FY 2010,125,Moslem,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Ethiopia,FY 2010,2,Christian,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Ethiopia,FY 2010,2,Orthodox,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Iran,FY 2010,19,Bahai,19,297
+From: 04 Aug 2010,To: 04 Aug 2010,Iraq,FY 2010,133,Catholic,4,297
+From: 04 Aug 2010,To: 04 Aug 2010,Iraq,FY 2010,133,Christian,22,297
+From: 04 Aug 2010,To: 04 Aug 2010,Iraq,FY 2010,133,Moslem Shiite,54,297
+From: 04 Aug 2010,To: 04 Aug 2010,Iraq,FY 2010,133,Moslem Suni,53,297
+From: 04 Aug 2010,To: 04 Aug 2010,Somalia,FY 2010,2,Moslem,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Somalia,FY 2010,2,Moslem Suni,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Sri Lanka (Ceylon),FY 2010,9,Christian,4,297
+From: 04 Aug 2010,To: 04 Aug 2010,Sri Lanka (Ceylon),FY 2010,9,Hindu,5,297
+From: 04 Aug 2010,To: 04 Aug 2010,Uganda,FY 2010,2,Christian,2,297
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Aug 2010,To: 04 Aug 2010,Bahai,FY 2010,19,Iran,19,297
+From: 04 Aug 2010,To: 04 Aug 2010,Baptist,FY 2010,9,Burma,9,297
+From: 04 Aug 2010,To: 04 Aug 2010,Buddhist,FY 2010,14,Burma,14,297
+From: 04 Aug 2010,To: 04 Aug 2010,Catholic,FY 2010,15,Burma,11,297
+From: 04 Aug 2010,To: 04 Aug 2010,Catholic,FY 2010,15,Iraq,4,297
+From: 04 Aug 2010,To: 04 Aug 2010,Christian,FY 2010,119,Burma,90,297
+From: 04 Aug 2010,To: 04 Aug 2010,Christian,FY 2010,119,Ethiopia,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Christian,FY 2010,119,Iraq,22,297
+From: 04 Aug 2010,To: 04 Aug 2010,Christian,FY 2010,119,Sri Lanka (Ceylon),4,297
+From: 04 Aug 2010,To: 04 Aug 2010,Christian,FY 2010,119,Uganda,2,297
+From: 04 Aug 2010,To: 04 Aug 2010,Hindu,FY 2010,5,Sri Lanka (Ceylon),5,297
+From: 04 Aug 2010,To: 04 Aug 2010,Moslem,FY 2010,2,Burma,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Moslem,FY 2010,2,Somalia,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Moslem Shiite,FY 2010,54,Iraq,54,297
+From: 04 Aug 2010,To: 04 Aug 2010,Moslem Suni,FY 2010,59,Afghanistan,5,297
+From: 04 Aug 2010,To: 04 Aug 2010,Moslem Suni,FY 2010,59,Iraq,53,297
+From: 04 Aug 2010,To: 04 Aug 2010,Moslem Suni,FY 2010,59,Somalia,1,297
+From: 04 Aug 2010,To: 04 Aug 2010,Orthodox,FY 2010,1,Ethiopia,1,297
+

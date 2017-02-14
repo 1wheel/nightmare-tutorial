@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Nov 2006,To: 09 Nov 2006,Angola,FY 2007,4,Catholic,4,244
+From: 09 Nov 2006,To: 09 Nov 2006,Azerbaijan,FY 2007,3,Christian,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Burma,FY 2007,92,Buddhist,5,244
+From: 09 Nov 2006,To: 09 Nov 2006,Burma,FY 2007,92,Christian,87,244
+From: 09 Nov 2006,To: 09 Nov 2006,China,FY 2007,2,Other Religion,2,244
+From: 09 Nov 2006,To: 09 Nov 2006,Cuba,FY 2007,70,Catholic,38,244
+From: 09 Nov 2006,To: 09 Nov 2006,Cuba,FY 2007,70,Evangelical Christian,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Cuba,FY 2007,70,Jehovah Witness,17,244
+From: 09 Nov 2006,To: 09 Nov 2006,Cuba,FY 2007,70,No Religion,13,244
+From: 09 Nov 2006,To: 09 Nov 2006,Cuba,FY 2007,70,Pentecostalist,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Iran,FY 2007,33,Christian,33,244
+From: 09 Nov 2006,To: 09 Nov 2006,Russia,FY 2007,17,Baptist,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Russia,FY 2007,17,Christian,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Russia,FY 2007,17,Jewish,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Russia,FY 2007,17,Orthodox,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Russia,FY 2007,17,Pentecostalist,7,244
+From: 09 Nov 2006,To: 09 Nov 2006,Sierra Leone,FY 2007,1,Christian,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Somalia,FY 2007,20,Moslem,20,244
+From: 09 Nov 2006,To: 09 Nov 2006,Uzbekistan,FY 2007,2,Moslem,2,244
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Nov 2006,To: 09 Nov 2006,Baptist,FY 2007,3,Russia,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Buddhist,FY 2007,5,Burma,5,244
+From: 09 Nov 2006,To: 09 Nov 2006,Catholic,FY 2007,42,Angola,4,244
+From: 09 Nov 2006,To: 09 Nov 2006,Catholic,FY 2007,42,Cuba,38,244
+From: 09 Nov 2006,To: 09 Nov 2006,Christian,FY 2007,127,Azerbaijan,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Christian,FY 2007,127,Burma,87,244
+From: 09 Nov 2006,To: 09 Nov 2006,Christian,FY 2007,127,Iran,33,244
+From: 09 Nov 2006,To: 09 Nov 2006,Christian,FY 2007,127,Russia,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Christian,FY 2007,127,Sierra Leone,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Evangelical Christian,FY 2007,1,Cuba,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Jehovah Witness,FY 2007,17,Cuba,17,244
+From: 09 Nov 2006,To: 09 Nov 2006,Jewish,FY 2007,3,Russia,3,244
+From: 09 Nov 2006,To: 09 Nov 2006,Moslem,FY 2007,22,Somalia,20,244
+From: 09 Nov 2006,To: 09 Nov 2006,Moslem,FY 2007,22,Uzbekistan,2,244
+From: 09 Nov 2006,To: 09 Nov 2006,No Religion,FY 2007,13,Cuba,13,244
+From: 09 Nov 2006,To: 09 Nov 2006,Orthodox,FY 2007,1,Russia,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Other Religion,FY 2007,2,China,2,244
+From: 09 Nov 2006,To: 09 Nov 2006,Pentecostalist,FY 2007,8,Cuba,1,244
+From: 09 Nov 2006,To: 09 Nov 2006,Pentecostalist,FY 2007,8,Russia,7,244
+

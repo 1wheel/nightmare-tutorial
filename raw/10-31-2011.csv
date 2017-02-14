@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Oct 2011,To: 31 Oct 2011,Bhutan,FY 2012,35,Buddhist,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Bhutan,FY 2012,35,Christian,2,150
+From: 31 Oct 2011,To: 31 Oct 2011,Bhutan,FY 2012,35,Hindu,29,150
+From: 31 Oct 2011,To: 31 Oct 2011,Bhutan,FY 2012,35,Kirat,3,150
+From: 31 Oct 2011,To: 31 Oct 2011,Burma,FY 2012,108,Baptist,9,150
+From: 31 Oct 2011,To: 31 Oct 2011,Burma,FY 2012,108,Buddhist,21,150
+From: 31 Oct 2011,To: 31 Oct 2011,Burma,FY 2012,108,Catholic,3,150
+From: 31 Oct 2011,To: 31 Oct 2011,Burma,FY 2012,108,Christian,65,150
+From: 31 Oct 2011,To: 31 Oct 2011,Burma,FY 2012,108,Moslem,10,150
+From: 31 Oct 2011,To: 31 Oct 2011,China,FY 2012,1,Other Religion,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Iraq,FY 2012,1,Christian,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Somalia,FY 2012,1,Moslem,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Sri Lanka (Ceylon),FY 2012,4,Hindu,4,150
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Oct 2011,To: 31 Oct 2011,Baptist,FY 2012,9,Burma,9,150
+From: 31 Oct 2011,To: 31 Oct 2011,Buddhist,FY 2012,22,Bhutan,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Buddhist,FY 2012,22,Burma,21,150
+From: 31 Oct 2011,To: 31 Oct 2011,Catholic,FY 2012,3,Burma,3,150
+From: 31 Oct 2011,To: 31 Oct 2011,Christian,FY 2012,68,Bhutan,2,150
+From: 31 Oct 2011,To: 31 Oct 2011,Christian,FY 2012,68,Burma,65,150
+From: 31 Oct 2011,To: 31 Oct 2011,Christian,FY 2012,68,Iraq,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Hindu,FY 2012,33,Bhutan,29,150
+From: 31 Oct 2011,To: 31 Oct 2011,Hindu,FY 2012,33,Sri Lanka (Ceylon),4,150
+From: 31 Oct 2011,To: 31 Oct 2011,Kirat,FY 2012,3,Bhutan,3,150
+From: 31 Oct 2011,To: 31 Oct 2011,Moslem,FY 2012,11,Burma,10,150
+From: 31 Oct 2011,To: 31 Oct 2011,Moslem,FY 2012,11,Somalia,1,150
+From: 31 Oct 2011,To: 31 Oct 2011,Other Religion,FY 2012,1,China,1,150
+

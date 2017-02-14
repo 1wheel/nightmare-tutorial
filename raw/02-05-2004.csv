@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Feb 2004,To: 05 Feb 2004,Angola,FY 2004,1,Catholic,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Central African Republic,FY 2004,1,Catholic,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Colombia,FY 2004,18,Catholic,12,164
+From: 05 Feb 2004,To: 05 Feb 2004,Colombia,FY 2004,18,Evangelical Christian,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Colombia,FY 2004,18,Other Religion,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Congo,FY 2004,2,Catholic,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Congo,FY 2004,2,Christian,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Dem. Rep. Congo,FY 2004,6,Protestant,6,164
+From: 05 Feb 2004,To: 05 Feb 2004,Ecuador,FY 2004,2,Catholic,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Liberia,FY 2004,69,Baptist,10,164
+From: 05 Feb 2004,To: 05 Feb 2004,Liberia,FY 2004,69,Catholic,5,164
+From: 05 Feb 2004,To: 05 Feb 2004,Liberia,FY 2004,69,Christian,43,164
+From: 05 Feb 2004,To: 05 Feb 2004,Liberia,FY 2004,69,Lutheran,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Liberia,FY 2004,69,Moslem,7,164
+From: 05 Feb 2004,To: 05 Feb 2004,Liberia,FY 2004,69,Pentecostalist,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Russia,FY 2004,28,Baptist,4,164
+From: 05 Feb 2004,To: 05 Feb 2004,Russia,FY 2004,28,Jewish,9,164
+From: 05 Feb 2004,To: 05 Feb 2004,Russia,FY 2004,28,Pentecostalist,14,164
+From: 05 Feb 2004,To: 05 Feb 2004,Russia,FY 2004,28,Unknown,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Rwanda,FY 2004,1,Catholic,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Ukraine,FY 2004,13,Baptist,4,164
+From: 05 Feb 2004,To: 05 Feb 2004,Ukraine,FY 2004,13,Jewish,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Ukraine,FY 2004,13,No Religion,6,164
+From: 05 Feb 2004,To: 05 Feb 2004,Vietnam,FY 2004,23,Buddhist,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Vietnam,FY 2004,23,Cao Dai,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Vietnam,FY 2004,23,Catholic,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Vietnam,FY 2004,23,No Religion,5,164
+From: 05 Feb 2004,To: 05 Feb 2004,Vietnam,FY 2004,23,Protestant,4,164
+From: 05 Feb 2004,To: 05 Feb 2004,Vietnam,FY 2004,23,Unknown,7,164
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Feb 2004,To: 05 Feb 2004,Baptist,FY 2004,18,Liberia,10,164
+From: 05 Feb 2004,To: 05 Feb 2004,Baptist,FY 2004,18,Russia,4,164
+From: 05 Feb 2004,To: 05 Feb 2004,Baptist,FY 2004,18,Ukraine,4,164
+From: 05 Feb 2004,To: 05 Feb 2004,Buddhist,FY 2004,2,Vietnam,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Cao Dai,FY 2004,2,Vietnam,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Angola,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Central African Republic,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Colombia,12,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Congo,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Ecuador,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Liberia,5,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Rwanda,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Catholic,FY 2004,26,Vietnam,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Christian,FY 2004,44,Congo,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Christian,FY 2004,44,Liberia,43,164
+From: 05 Feb 2004,To: 05 Feb 2004,Evangelical Christian,FY 2004,3,Colombia,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Jewish,FY 2004,12,Russia,9,164
+From: 05 Feb 2004,To: 05 Feb 2004,Jewish,FY 2004,12,Ukraine,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Lutheran,FY 2004,2,Liberia,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Moslem,FY 2004,7,Liberia,7,164
+From: 05 Feb 2004,To: 05 Feb 2004,No Religion,FY 2004,11,Ukraine,6,164
+From: 05 Feb 2004,To: 05 Feb 2004,No Religion,FY 2004,11,Vietnam,5,164
+From: 05 Feb 2004,To: 05 Feb 2004,Other Religion,FY 2004,3,Colombia,3,164
+From: 05 Feb 2004,To: 05 Feb 2004,Pentecostalist,FY 2004,16,Liberia,2,164
+From: 05 Feb 2004,To: 05 Feb 2004,Pentecostalist,FY 2004,16,Russia,14,164
+From: 05 Feb 2004,To: 05 Feb 2004,Protestant,FY 2004,10,Dem. Rep. Congo,6,164
+From: 05 Feb 2004,To: 05 Feb 2004,Protestant,FY 2004,10,Vietnam,4,164
+From: 05 Feb 2004,To: 05 Feb 2004,Unknown,FY 2004,8,Russia,1,164
+From: 05 Feb 2004,To: 05 Feb 2004,Unknown,FY 2004,8,Vietnam,7,164
+

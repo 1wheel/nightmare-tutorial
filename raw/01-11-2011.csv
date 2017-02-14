@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jan 2011,To: 11 Jan 2011,Bhutan,FY 2011,120,Buddhist,20,333
+From: 11 Jan 2011,To: 11 Jan 2011,Bhutan,FY 2011,120,Christian,19,333
+From: 11 Jan 2011,To: 11 Jan 2011,Bhutan,FY 2011,120,Hindu,69,333
+From: 11 Jan 2011,To: 11 Jan 2011,Bhutan,FY 2011,120,Kirat,12,333
+From: 11 Jan 2011,To: 11 Jan 2011,Burundi,FY 2011,1,Pentecostalist,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Cuba,FY 2011,65,Catholic,18,333
+From: 11 Jan 2011,To: 11 Jan 2011,Cuba,FY 2011,65,Evangelical Christian,5,333
+From: 11 Jan 2011,To: 11 Jan 2011,Cuba,FY 2011,65,Jehovah Witness,31,333
+From: 11 Jan 2011,To: 11 Jan 2011,Cuba,FY 2011,65,No Religion,11,333
+From: 11 Jan 2011,To: 11 Jan 2011,Dem. Rep. Congo,FY 2011,19,Catholic,7,333
+From: 11 Jan 2011,To: 11 Jan 2011,Dem. Rep. Congo,FY 2011,19,Pentecostalist,12,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iran,FY 2011,36,Bahai,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iran,FY 2011,36,Christian,33,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iran,FY 2011,36,Jewish,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iran,FY 2011,36,Zoroastrian,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iraq,FY 2011,71,Catholic,3,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iraq,FY 2011,71,Christian,9,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iraq,FY 2011,71,Moslem Shiite,22,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iraq,FY 2011,71,Moslem Suni,34,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iraq,FY 2011,71,Orthodox,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Iraq,FY 2011,71,Sabeans-Mandean,2,333
+From: 11 Jan 2011,To: 11 Jan 2011,Latvia,FY 2011,2,Jewish,2,333
+From: 11 Jan 2011,To: 11 Jan 2011,Liberia,FY 2011,1,Christian,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Rwanda,FY 2011,10,Catholic,9,333
+From: 11 Jan 2011,To: 11 Jan 2011,Rwanda,FY 2011,10,Seventh Day Adventist,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Sierra Leone,FY 2011,6,Moslem,6,333
+From: 11 Jan 2011,To: 11 Jan 2011,Sudan,FY 2011,2,Moslem,2,333
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jan 2011,To: 11 Jan 2011,Bahai,FY 2011,1,Iran,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Buddhist,FY 2011,20,Bhutan,20,333
+From: 11 Jan 2011,To: 11 Jan 2011,Catholic,FY 2011,37,Cuba,18,333
+From: 11 Jan 2011,To: 11 Jan 2011,Catholic,FY 2011,37,Dem. Rep. Congo,7,333
+From: 11 Jan 2011,To: 11 Jan 2011,Catholic,FY 2011,37,Iraq,3,333
+From: 11 Jan 2011,To: 11 Jan 2011,Catholic,FY 2011,37,Rwanda,9,333
+From: 11 Jan 2011,To: 11 Jan 2011,Christian,FY 2011,62,Bhutan,19,333
+From: 11 Jan 2011,To: 11 Jan 2011,Christian,FY 2011,62,Iran,33,333
+From: 11 Jan 2011,To: 11 Jan 2011,Christian,FY 2011,62,Iraq,9,333
+From: 11 Jan 2011,To: 11 Jan 2011,Christian,FY 2011,62,Liberia,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Evangelical Christian,FY 2011,5,Cuba,5,333
+From: 11 Jan 2011,To: 11 Jan 2011,Hindu,FY 2011,69,Bhutan,69,333
+From: 11 Jan 2011,To: 11 Jan 2011,Jehovah Witness,FY 2011,31,Cuba,31,333
+From: 11 Jan 2011,To: 11 Jan 2011,Jewish,FY 2011,3,Iran,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Jewish,FY 2011,3,Latvia,2,333
+From: 11 Jan 2011,To: 11 Jan 2011,Kirat,FY 2011,12,Bhutan,12,333
+From: 11 Jan 2011,To: 11 Jan 2011,Moslem,FY 2011,8,Sierra Leone,6,333
+From: 11 Jan 2011,To: 11 Jan 2011,Moslem,FY 2011,8,Sudan,2,333
+From: 11 Jan 2011,To: 11 Jan 2011,Moslem Shiite,FY 2011,22,Iraq,22,333
+From: 11 Jan 2011,To: 11 Jan 2011,Moslem Suni,FY 2011,34,Iraq,34,333
+From: 11 Jan 2011,To: 11 Jan 2011,No Religion,FY 2011,11,Cuba,11,333
+From: 11 Jan 2011,To: 11 Jan 2011,Orthodox,FY 2011,1,Iraq,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Pentecostalist,FY 2011,13,Burundi,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Pentecostalist,FY 2011,13,Dem. Rep. Congo,12,333
+From: 11 Jan 2011,To: 11 Jan 2011,Sabeans-Mandean,FY 2011,2,Iraq,2,333
+From: 11 Jan 2011,To: 11 Jan 2011,Seventh Day Adventist,FY 2011,1,Rwanda,1,333
+From: 11 Jan 2011,To: 11 Jan 2011,Zoroastrian,FY 2011,1,Iran,1,333
+

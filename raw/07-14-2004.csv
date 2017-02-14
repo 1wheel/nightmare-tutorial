@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jul 2004,To: 14 Jul 2004,Azerbaijan,FY 2004,8,Unknown,8,411
+From: 14 Jul 2004,To: 14 Jul 2004,Colombia,FY 2004,33,Catholic,21,411
+From: 14 Jul 2004,To: 14 Jul 2004,Colombia,FY 2004,33,Evangelical Christian,12,411
+From: 14 Jul 2004,To: 14 Jul 2004,Cuba,FY 2004,69,Baptist,3,411
+From: 14 Jul 2004,To: 14 Jul 2004,Cuba,FY 2004,69,Catholic,34,411
+From: 14 Jul 2004,To: 14 Jul 2004,Cuba,FY 2004,69,Jehovah Witness,12,411
+From: 14 Jul 2004,To: 14 Jul 2004,Cuba,FY 2004,69,No Religion,17,411
+From: 14 Jul 2004,To: 14 Jul 2004,Cuba,FY 2004,69,Pentecostalist,3,411
+From: 14 Jul 2004,To: 14 Jul 2004,Eritrea,FY 2004,1,Orthodox,1,411
+From: 14 Jul 2004,To: 14 Jul 2004,Ethiopia,FY 2004,42,Christian,16,411
+From: 14 Jul 2004,To: 14 Jul 2004,Ethiopia,FY 2004,42,Moslem,24,411
+From: 14 Jul 2004,To: 14 Jul 2004,Ethiopia,FY 2004,42,Orthodox,2,411
+From: 14 Jul 2004,To: 14 Jul 2004,Laos,FY 2004,84,Ancestral Worship,84,411
+From: 14 Jul 2004,To: 14 Jul 2004,Russia,FY 2004,12,Baptist,1,411
+From: 14 Jul 2004,To: 14 Jul 2004,Russia,FY 2004,12,Jewish,9,411
+From: 14 Jul 2004,To: 14 Jul 2004,Russia,FY 2004,12,No Religion,2,411
+From: 14 Jul 2004,To: 14 Jul 2004,Somalia,FY 2004,123,Moslem,123,411
+From: 14 Jul 2004,To: 14 Jul 2004,Sudan,FY 2004,1,Catholic,1,411
+From: 14 Jul 2004,To: 14 Jul 2004,Turkmenistan,FY 2004,3,Unknown,3,411
+From: 14 Jul 2004,To: 14 Jul 2004,Vietnam,FY 2004,35,Buddhist,21,411
+From: 14 Jul 2004,To: 14 Jul 2004,Vietnam,FY 2004,35,Catholic,4,411
+From: 14 Jul 2004,To: 14 Jul 2004,Vietnam,FY 2004,35,No Religion,7,411
+From: 14 Jul 2004,To: 14 Jul 2004,Vietnam,FY 2004,35,Unknown,3,411
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jul 2004,To: 14 Jul 2004,Ancestral Worship,FY 2004,84,Laos,84,411
+From: 14 Jul 2004,To: 14 Jul 2004,Baptist,FY 2004,4,Cuba,3,411
+From: 14 Jul 2004,To: 14 Jul 2004,Baptist,FY 2004,4,Russia,1,411
+From: 14 Jul 2004,To: 14 Jul 2004,Buddhist,FY 2004,21,Vietnam,21,411
+From: 14 Jul 2004,To: 14 Jul 2004,Catholic,FY 2004,60,Colombia,21,411
+From: 14 Jul 2004,To: 14 Jul 2004,Catholic,FY 2004,60,Cuba,34,411
+From: 14 Jul 2004,To: 14 Jul 2004,Catholic,FY 2004,60,Sudan,1,411
+From: 14 Jul 2004,To: 14 Jul 2004,Catholic,FY 2004,60,Vietnam,4,411
+From: 14 Jul 2004,To: 14 Jul 2004,Christian,FY 2004,16,Ethiopia,16,411
+From: 14 Jul 2004,To: 14 Jul 2004,Evangelical Christian,FY 2004,12,Colombia,12,411
+From: 14 Jul 2004,To: 14 Jul 2004,Jehovah Witness,FY 2004,12,Cuba,12,411
+From: 14 Jul 2004,To: 14 Jul 2004,Jewish,FY 2004,9,Russia,9,411
+From: 14 Jul 2004,To: 14 Jul 2004,Moslem,FY 2004,147,Ethiopia,24,411
+From: 14 Jul 2004,To: 14 Jul 2004,Moslem,FY 2004,147,Somalia,123,411
+From: 14 Jul 2004,To: 14 Jul 2004,No Religion,FY 2004,26,Cuba,17,411
+From: 14 Jul 2004,To: 14 Jul 2004,No Religion,FY 2004,26,Russia,2,411
+From: 14 Jul 2004,To: 14 Jul 2004,No Religion,FY 2004,26,Vietnam,7,411
+From: 14 Jul 2004,To: 14 Jul 2004,Orthodox,FY 2004,3,Eritrea,1,411
+From: 14 Jul 2004,To: 14 Jul 2004,Orthodox,FY 2004,3,Ethiopia,2,411
+From: 14 Jul 2004,To: 14 Jul 2004,Pentecostalist,FY 2004,3,Cuba,3,411
+From: 14 Jul 2004,To: 14 Jul 2004,Unknown,FY 2004,14,Azerbaijan,8,411
+From: 14 Jul 2004,To: 14 Jul 2004,Unknown,FY 2004,14,Turkmenistan,3,411
+From: 14 Jul 2004,To: 14 Jul 2004,Unknown,FY 2004,14,Vietnam,3,411
+

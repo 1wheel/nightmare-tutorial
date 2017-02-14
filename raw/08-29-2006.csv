@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Aug 2006,To: 29 Aug 2006,Afghanistan,FY 2006,9,Moslem Suni,9,250
+From: 29 Aug 2006,To: 29 Aug 2006,Burma,FY 2006,54,Buddhist,8,250
+From: 29 Aug 2006,To: 29 Aug 2006,Burma,FY 2006,54,Christian,41,250
+From: 29 Aug 2006,To: 29 Aug 2006,Burma,FY 2006,54,Moslem,5,250
+From: 29 Aug 2006,To: 29 Aug 2006,Eritrea,FY 2006,21,Moslem,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Eritrea,FY 2006,21,Orthodox,18,250
+From: 29 Aug 2006,To: 29 Aug 2006,Ethiopia,FY 2006,51,Moslem,18,250
+From: 29 Aug 2006,To: 29 Aug 2006,Ethiopia,FY 2006,51,Orthodox,26,250
+From: 29 Aug 2006,To: 29 Aug 2006,Ethiopia,FY 2006,51,Protestant,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Ethiopia,FY 2006,51,Seventh Day Adventist,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Ethiopia,FY 2006,51,Unknown,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Iran,FY 2006,38,Bahai,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Iran,FY 2006,38,Christian,31,250
+From: 29 Aug 2006,To: 29 Aug 2006,Iran,FY 2006,38,Jewish,2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Iran,FY 2006,38,Zoroastrian,2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Ivory Coast,FY 2006,1,Unknown,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Liberia,FY 2006,7,Christian,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Liberia,FY 2006,7,Pentecostalist,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Liberia,FY 2006,7,Unknown,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Russia,FY 2006,18,Moslem,18,250
+From: 29 Aug 2006,To: 29 Aug 2006,Somalia,FY 2006,36,Moslem,32,250
+From: 29 Aug 2006,To: 29 Aug 2006,Somalia,FY 2006,36,Moslem Suni,4,250
+From: 29 Aug 2006,To: 29 Aug 2006,Sri Lanka (Ceylon),FY 2006,2,Buddhist,2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Sudan,FY 2006,13,Catholic,4,250
+From: 29 Aug 2006,To: 29 Aug 2006,Sudan,FY 2006,13,Christian,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Sudan,FY 2006,13,Evangelical Christian,2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Sudan,FY 2006,13,Moslem,6,250
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Aug 2006,To: 29 Aug 2006,Bahai,FY 2006,3,Iran,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Buddhist,FY 2006,10,Burma,8,250
+From: 29 Aug 2006,To: 29 Aug 2006,Buddhist,FY 2006,10,Sri Lanka (Ceylon),2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Catholic,FY 2006,4,Sudan,4,250
+From: 29 Aug 2006,To: 29 Aug 2006,Christian,FY 2006,76,Burma,41,250
+From: 29 Aug 2006,To: 29 Aug 2006,Christian,FY 2006,76,Iran,31,250
+From: 29 Aug 2006,To: 29 Aug 2006,Christian,FY 2006,76,Liberia,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Christian,FY 2006,76,Sudan,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Evangelical Christian,FY 2006,2,Sudan,2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Jewish,FY 2006,2,Iran,2,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem,FY 2006,82,Burma,5,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem,FY 2006,82,Eritrea,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem,FY 2006,82,Ethiopia,18,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem,FY 2006,82,Russia,18,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem,FY 2006,82,Somalia,32,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem,FY 2006,82,Sudan,6,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem Suni,FY 2006,13,Afghanistan,9,250
+From: 29 Aug 2006,To: 29 Aug 2006,Moslem Suni,FY 2006,13,Somalia,4,250
+From: 29 Aug 2006,To: 29 Aug 2006,Orthodox,FY 2006,44,Eritrea,18,250
+From: 29 Aug 2006,To: 29 Aug 2006,Orthodox,FY 2006,44,Ethiopia,26,250
+From: 29 Aug 2006,To: 29 Aug 2006,Pentecostalist,FY 2006,1,Liberia,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Protestant,FY 2006,3,Ethiopia,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Seventh Day Adventist,FY 2006,3,Ethiopia,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Unknown,FY 2006,5,Ethiopia,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Unknown,FY 2006,5,Ivory Coast,1,250
+From: 29 Aug 2006,To: 29 Aug 2006,Unknown,FY 2006,5,Liberia,3,250
+From: 29 Aug 2006,To: 29 Aug 2006,Zoroastrian,FY 2006,2,Iran,2,250
+

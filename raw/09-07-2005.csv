@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Sep 2005,To: 07 Sep 2005,Bosnia and Herzegovina,FY 2005,1,Moslem,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Congo,FY 2005,4,Catholic,4,520
+From: 07 Sep 2005,To: 07 Sep 2005,Cuba,FY 2005,66,Baptist,3,520
+From: 07 Sep 2005,To: 07 Sep 2005,Cuba,FY 2005,66,Catholic,33,520
+From: 07 Sep 2005,To: 07 Sep 2005,Cuba,FY 2005,66,Jehovah Witness,2,520
+From: 07 Sep 2005,To: 07 Sep 2005,Cuba,FY 2005,66,No Religion,20,520
+From: 07 Sep 2005,To: 07 Sep 2005,Cuba,FY 2005,66,Seventh Day Adventist,8,520
+From: 07 Sep 2005,To: 07 Sep 2005,Iran,FY 2005,47,Bahai,21,520
+From: 07 Sep 2005,To: 07 Sep 2005,Iran,FY 2005,47,Christian,13,520
+From: 07 Sep 2005,To: 07 Sep 2005,Iran,FY 2005,47,Jewish,3,520
+From: 07 Sep 2005,To: 07 Sep 2005,Iran,FY 2005,47,Moslem,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Iran,FY 2005,47,Zoroastrian,4,520
+From: 07 Sep 2005,To: 07 Sep 2005,Iraq,FY 2005,15,Moslem,15,520
+From: 07 Sep 2005,To: 07 Sep 2005,Laos,FY 2005,137,Ancestral Worship,114,520
+From: 07 Sep 2005,To: 07 Sep 2005,Laos,FY 2005,137,Christian,23,520
+From: 07 Sep 2005,To: 07 Sep 2005,Liberia,FY 2005,46,Baptist,2,520
+From: 07 Sep 2005,To: 07 Sep 2005,Liberia,FY 2005,46,Christian,22,520
+From: 07 Sep 2005,To: 07 Sep 2005,Liberia,FY 2005,46,Moslem,21,520
+From: 07 Sep 2005,To: 07 Sep 2005,Liberia,FY 2005,46,Protestant,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Rwanda,FY 2005,6,Christian,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Serbia,FY 2005,1,Moslem,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sierra Leone,FY 2005,22,Christian,8,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sierra Leone,FY 2005,22,Moslem,5,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sierra Leone,FY 2005,22,Pentecostalist,9,520
+From: 07 Sep 2005,To: 07 Sep 2005,Somalia,FY 2005,75,Moslem,75,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sudan,FY 2005,26,Catholic,15,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sudan,FY 2005,26,Christian,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sudan,FY 2005,26,Evangelical Christian,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sudan,FY 2005,26,Moslem,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sudan,FY 2005,26,Protestant,2,520
+From: 07 Sep 2005,To: 07 Sep 2005,Sudan,FY 2005,26,Seventh Day Adventist,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Ukraine,FY 2005,30,Baptist,12,520
+From: 07 Sep 2005,To: 07 Sep 2005,Ukraine,FY 2005,30,Jewish,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Ukraine,FY 2005,30,Pentecostalist,17,520
+From: 07 Sep 2005,To: 07 Sep 2005,Uzbekistan,FY 2005,6,Moslem,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Vietnam,FY 2005,38,Buddhist,15,520
+From: 07 Sep 2005,To: 07 Sep 2005,Vietnam,FY 2005,38,Catholic,14,520
+From: 07 Sep 2005,To: 07 Sep 2005,Vietnam,FY 2005,38,No Religion,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Vietnam,FY 2005,38,Unknown,3,520
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Sep 2005,To: 07 Sep 2005,Ancestral Worship,FY 2005,114,Laos,114,520
+From: 07 Sep 2005,To: 07 Sep 2005,Bahai,FY 2005,21,Iran,21,520
+From: 07 Sep 2005,To: 07 Sep 2005,Baptist,FY 2005,17,Cuba,3,520
+From: 07 Sep 2005,To: 07 Sep 2005,Baptist,FY 2005,17,Liberia,2,520
+From: 07 Sep 2005,To: 07 Sep 2005,Baptist,FY 2005,17,Ukraine,12,520
+From: 07 Sep 2005,To: 07 Sep 2005,Buddhist,FY 2005,15,Vietnam,15,520
+From: 07 Sep 2005,To: 07 Sep 2005,Catholic,FY 2005,66,Congo,4,520
+From: 07 Sep 2005,To: 07 Sep 2005,Catholic,FY 2005,66,Cuba,33,520
+From: 07 Sep 2005,To: 07 Sep 2005,Catholic,FY 2005,66,Sudan,15,520
+From: 07 Sep 2005,To: 07 Sep 2005,Catholic,FY 2005,66,Vietnam,14,520
+From: 07 Sep 2005,To: 07 Sep 2005,Christian,FY 2005,73,Iran,13,520
+From: 07 Sep 2005,To: 07 Sep 2005,Christian,FY 2005,73,Laos,23,520
+From: 07 Sep 2005,To: 07 Sep 2005,Christian,FY 2005,73,Liberia,22,520
+From: 07 Sep 2005,To: 07 Sep 2005,Christian,FY 2005,73,Rwanda,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Christian,FY 2005,73,Sierra Leone,8,520
+From: 07 Sep 2005,To: 07 Sep 2005,Christian,FY 2005,73,Sudan,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Evangelical Christian,FY 2005,1,Sudan,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Jehovah Witness,FY 2005,2,Cuba,2,520
+From: 07 Sep 2005,To: 07 Sep 2005,Jewish,FY 2005,4,Iran,3,520
+From: 07 Sep 2005,To: 07 Sep 2005,Jewish,FY 2005,4,Ukraine,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Bosnia and Herzegovina,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Iran,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Iraq,15,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Liberia,21,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Serbia,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Sierra Leone,5,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Somalia,75,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Sudan,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Moslem,FY 2005,136,Uzbekistan,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,No Religion,FY 2005,26,Cuba,20,520
+From: 07 Sep 2005,To: 07 Sep 2005,No Religion,FY 2005,26,Vietnam,6,520
+From: 07 Sep 2005,To: 07 Sep 2005,Pentecostalist,FY 2005,26,Sierra Leone,9,520
+From: 07 Sep 2005,To: 07 Sep 2005,Pentecostalist,FY 2005,26,Ukraine,17,520
+From: 07 Sep 2005,To: 07 Sep 2005,Protestant,FY 2005,3,Liberia,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Protestant,FY 2005,3,Sudan,2,520
+From: 07 Sep 2005,To: 07 Sep 2005,Seventh Day Adventist,FY 2005,9,Cuba,8,520
+From: 07 Sep 2005,To: 07 Sep 2005,Seventh Day Adventist,FY 2005,9,Sudan,1,520
+From: 07 Sep 2005,To: 07 Sep 2005,Unknown,FY 2005,3,Vietnam,3,520
+From: 07 Sep 2005,To: 07 Sep 2005,Zoroastrian,FY 2005,4,Iran,4,520
+

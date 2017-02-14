@@ -1,0 +1,91 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jan 2016,To: 26 Jan 2016,Afghanistan,FY 2016,12,Moslem Shiite,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Afghanistan,FY 2016,12,Moslem Suni,9,399
+From: 26 Jan 2016,To: 26 Jan 2016,Bhutan,FY 2016,16,Christian,5,399
+From: 26 Jan 2016,To: 26 Jan 2016,Bhutan,FY 2016,16,Hindu,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Burma,FY 2016,32,Buddhist,13,399
+From: 26 Jan 2016,To: 26 Jan 2016,Burma,FY 2016,32,Christian,19,399
+From: 26 Jan 2016,To: 26 Jan 2016,Burundi,FY 2016,8,Pentecostalist,8,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Bahai,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Catholic,18,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Christian,23,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Jehovah Witness,7,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Moslem,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Pentecostalist,22,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Protestant,15,399
+From: 26 Jan 2016,To: 26 Jan 2016,Dem. Rep. Congo,FY 2016,108,Seventh Day Adventist,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Eritrea,FY 2016,51,Catholic,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Eritrea,FY 2016,51,Christian,7,399
+From: 26 Jan 2016,To: 26 Jan 2016,Eritrea,FY 2016,51,Jehovah Witness,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Eritrea,FY 2016,51,Moslem,15,399
+From: 26 Jan 2016,To: 26 Jan 2016,Eritrea,FY 2016,51,Orthodox,24,399
+From: 26 Jan 2016,To: 26 Jan 2016,Eritrea,FY 2016,51,Pentecostalist,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Ethiopia,FY 2016,6,Moslem,4,399
+From: 26 Jan 2016,To: 26 Jan 2016,Ethiopia,FY 2016,6,Orthodox,2,399
+From: 26 Jan 2016,To: 26 Jan 2016,Georgia,FY 2016,1,Christian,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iran,FY 2016,25,Atheist,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iran,FY 2016,25,Christian,10,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iran,FY 2016,25,Jewish,2,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iran,FY 2016,25,No Religion,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iran,FY 2016,25,Protestant,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iran,FY 2016,25,Zoroastrian,8,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iraq,FY 2016,9,Moslem,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iraq,FY 2016,9,Moslem Shiite,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Iraq,FY 2016,9,Moslem Suni,5,399
+From: 26 Jan 2016,To: 26 Jan 2016,Kazakhstan,FY 2016,12,Baptist,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Kazakhstan,FY 2016,12,Pentecostalist,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Republic of South Sudan,FY 2016,1,Christian,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Rwanda,FY 2016,8,Baptist,8,399
+From: 26 Jan 2016,To: 26 Jan 2016,Somalia,FY 2016,65,Moslem,65,399
+From: 26 Jan 2016,To: 26 Jan 2016,Syria,FY 2016,10,Moslem Suni,10,399
+From: 26 Jan 2016,To: 26 Jan 2016,Ukraine,FY 2016,35,Baptist,6,399
+From: 26 Jan 2016,To: 26 Jan 2016,Ukraine,FY 2016,35,Pentecostalist,26,399
+From: 26 Jan 2016,To: 26 Jan 2016,Ukraine,FY 2016,35,Seventh Day Adventist,3,399
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jan 2016,To: 26 Jan 2016,Atheist,FY 2016,1,Iran,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Bahai,FY 2016,1,Dem. Rep. Congo,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Baptist,FY 2016,15,Kazakhstan,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Baptist,FY 2016,15,Rwanda,8,399
+From: 26 Jan 2016,To: 26 Jan 2016,Baptist,FY 2016,15,Ukraine,6,399
+From: 26 Jan 2016,To: 26 Jan 2016,Buddhist,FY 2016,13,Burma,13,399
+From: 26 Jan 2016,To: 26 Jan 2016,Catholic,FY 2016,19,Dem. Rep. Congo,18,399
+From: 26 Jan 2016,To: 26 Jan 2016,Catholic,FY 2016,19,Eritrea,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Bhutan,5,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Burma,19,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Dem. Rep. Congo,23,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Eritrea,7,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Georgia,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Iran,10,399
+From: 26 Jan 2016,To: 26 Jan 2016,Christian,FY 2016,66,Republic of South Sudan,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Hindu,FY 2016,11,Bhutan,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Jehovah Witness,FY 2016,8,Dem. Rep. Congo,7,399
+From: 26 Jan 2016,To: 26 Jan 2016,Jehovah Witness,FY 2016,8,Eritrea,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Jewish,FY 2016,2,Iran,2,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem,FY 2016,96,Dem. Rep. Congo,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem,FY 2016,96,Eritrea,15,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem,FY 2016,96,Ethiopia,4,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem,FY 2016,96,Iraq,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem,FY 2016,96,Somalia,65,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem Shiite,FY 2016,6,Afghanistan,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem Shiite,FY 2016,6,Iraq,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem Suni,FY 2016,24,Afghanistan,9,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem Suni,FY 2016,24,Iraq,5,399
+From: 26 Jan 2016,To: 26 Jan 2016,Moslem Suni,FY 2016,24,Syria,10,399
+From: 26 Jan 2016,To: 26 Jan 2016,No Religion,FY 2016,1,Iran,1,399
+From: 26 Jan 2016,To: 26 Jan 2016,Orthodox,FY 2016,26,Eritrea,24,399
+From: 26 Jan 2016,To: 26 Jan 2016,Orthodox,FY 2016,26,Ethiopia,2,399
+From: 26 Jan 2016,To: 26 Jan 2016,Pentecostalist,FY 2016,70,Burundi,8,399
+From: 26 Jan 2016,To: 26 Jan 2016,Pentecostalist,FY 2016,70,Dem. Rep. Congo,22,399
+From: 26 Jan 2016,To: 26 Jan 2016,Pentecostalist,FY 2016,70,Eritrea,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Pentecostalist,FY 2016,70,Kazakhstan,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Pentecostalist,FY 2016,70,Ukraine,26,399
+From: 26 Jan 2016,To: 26 Jan 2016,Protestant,FY 2016,18,Dem. Rep. Congo,15,399
+From: 26 Jan 2016,To: 26 Jan 2016,Protestant,FY 2016,18,Iran,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Seventh Day Adventist,FY 2016,14,Dem. Rep. Congo,11,399
+From: 26 Jan 2016,To: 26 Jan 2016,Seventh Day Adventist,FY 2016,14,Ukraine,3,399
+From: 26 Jan 2016,To: 26 Jan 2016,Zoroastrian,FY 2016,8,Iran,8,399
+

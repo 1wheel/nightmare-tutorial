@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jan 2014,To: 27 Jan 2014,Burma,FY 2014,10,Christian,10,363
+From: 27 Jan 2014,To: 27 Jan 2014,Eritrea,FY 2014,6,Catholic,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Eritrea,FY 2014,6,Christian,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Eritrea,FY 2014,6,Moslem,2,363
+From: 27 Jan 2014,To: 27 Jan 2014,Eritrea,FY 2014,6,Orthodox,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Eritrea,FY 2014,6,Pentecostalist,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Ethiopia,FY 2014,10,Christian,4,363
+From: 27 Jan 2014,To: 27 Jan 2014,Ethiopia,FY 2014,10,Moslem,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Ethiopia,FY 2014,10,Orthodox,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iran,FY 2014,9,Bahai,2,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iran,FY 2014,9,Moslem Shiite,5,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iran,FY 2014,9,Protestant,2,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Catholic,57,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Christian,29,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Moslem,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Moslem Shiite,35,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Moslem Suni,64,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Orthodox,5,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Sabeans-Mandean,5,363
+From: 27 Jan 2014,To: 27 Jan 2014,Iraq,FY 2014,201,Yazidi,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Somalia,FY 2014,86,Moslem,86,363
+From: 27 Jan 2014,To: 27 Jan 2014,Sri Lanka (Ceylon),FY 2014,3,Hindu,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Sudan,FY 2014,37,Moslem,36,363
+From: 27 Jan 2014,To: 27 Jan 2014,Sudan,FY 2014,37,Moslem Suni,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Syria,FY 2014,1,Moslem Suni,1,363
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jan 2014,To: 27 Jan 2014,Bahai,FY 2014,2,Iran,2,363
+From: 27 Jan 2014,To: 27 Jan 2014,Catholic,FY 2014,58,Eritrea,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Catholic,FY 2014,58,Iraq,57,363
+From: 27 Jan 2014,To: 27 Jan 2014,Christian,FY 2014,44,Burma,10,363
+From: 27 Jan 2014,To: 27 Jan 2014,Christian,FY 2014,44,Eritrea,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Christian,FY 2014,44,Ethiopia,4,363
+From: 27 Jan 2014,To: 27 Jan 2014,Christian,FY 2014,44,Iraq,29,363
+From: 27 Jan 2014,To: 27 Jan 2014,Hindu,FY 2014,3,Sri Lanka (Ceylon),3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem,FY 2014,130,Eritrea,2,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem,FY 2014,130,Ethiopia,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem,FY 2014,130,Iraq,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem,FY 2014,130,Somalia,86,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem,FY 2014,130,Sudan,36,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem Shiite,FY 2014,40,Iran,5,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem Shiite,FY 2014,40,Iraq,35,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem Suni,FY 2014,66,Iraq,64,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem Suni,FY 2014,66,Sudan,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Moslem Suni,FY 2014,66,Syria,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Orthodox,FY 2014,9,Eritrea,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Orthodox,FY 2014,9,Ethiopia,3,363
+From: 27 Jan 2014,To: 27 Jan 2014,Orthodox,FY 2014,9,Iraq,5,363
+From: 27 Jan 2014,To: 27 Jan 2014,Pentecostalist,FY 2014,1,Eritrea,1,363
+From: 27 Jan 2014,To: 27 Jan 2014,Protestant,FY 2014,2,Iran,2,363
+From: 27 Jan 2014,To: 27 Jan 2014,Sabeans-Mandean,FY 2014,5,Iraq,5,363
+From: 27 Jan 2014,To: 27 Jan 2014,Yazidi,FY 2014,3,Iraq,3,363
+

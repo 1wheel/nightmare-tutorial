@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Mar 2009,To: 02 Mar 2009,Bhutan,FY 2009,35,Hindu,35,263
+From: 02 Mar 2009,To: 02 Mar 2009,Burma,FY 2009,70,Buddhist,7,263
+From: 02 Mar 2009,To: 02 Mar 2009,Burma,FY 2009,70,Christian,63,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iran,FY 2009,33,Bahai,31,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iran,FY 2009,33,Christian,2,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iraq,FY 2009,125,Catholic,15,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iraq,FY 2009,125,Christian,28,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iraq,FY 2009,125,Moslem Shiite,37,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iraq,FY 2009,125,Moslem Suni,44,263
+From: 02 Mar 2009,To: 02 Mar 2009,Iraq,FY 2009,125,Sabeans-Mandean,1,263
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Mar 2009,To: 02 Mar 2009,Bahai,FY 2009,31,Iran,31,263
+From: 02 Mar 2009,To: 02 Mar 2009,Buddhist,FY 2009,7,Burma,7,263
+From: 02 Mar 2009,To: 02 Mar 2009,Catholic,FY 2009,15,Iraq,15,263
+From: 02 Mar 2009,To: 02 Mar 2009,Christian,FY 2009,93,Burma,63,263
+From: 02 Mar 2009,To: 02 Mar 2009,Christian,FY 2009,93,Iran,2,263
+From: 02 Mar 2009,To: 02 Mar 2009,Christian,FY 2009,93,Iraq,28,263
+From: 02 Mar 2009,To: 02 Mar 2009,Hindu,FY 2009,35,Bhutan,35,263
+From: 02 Mar 2009,To: 02 Mar 2009,Moslem Shiite,FY 2009,37,Iraq,37,263
+From: 02 Mar 2009,To: 02 Mar 2009,Moslem Suni,FY 2009,44,Iraq,44,263
+From: 02 Mar 2009,To: 02 Mar 2009,Sabeans-Mandean,FY 2009,1,Iraq,1,263
+

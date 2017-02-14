@@ -1,0 +1,97 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Dec 2007,To: 19 Dec 2007,Afghanistan,FY 2008,4,Moslem Suni,4,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burma,FY 2008,51,Buddhist,11,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burma,FY 2008,51,Christian,35,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burma,FY 2008,51,Moslem,5,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Catholic,31,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Christian,7,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Jehovah Witness,7,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Methodist,23,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Moslem,11,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Pentecostalist,24,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Protestant,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Burundi,FY 2008,105,Seventh Day Adventist,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,China,FY 2008,2,No Religion,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Eritrea,FY 2008,32,Catholic,19,326
+From: 19 Dec 2007,To: 19 Dec 2007,Eritrea,FY 2008,32,Christian,4,326
+From: 19 Dec 2007,To: 19 Dec 2007,Eritrea,FY 2008,32,Moslem,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Eritrea,FY 2008,32,Orthodox,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Eritrea,FY 2008,32,Other Religion,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Eritrea,FY 2008,32,Protestant,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Ethiopia,FY 2008,11,Moslem,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Ethiopia,FY 2008,11,Orthodox,8,326
+From: 19 Dec 2007,To: 19 Dec 2007,Iran,FY 2008,14,Bahai,12,326
+From: 19 Dec 2007,To: 19 Dec 2007,Iran,FY 2008,14,Zoroastrian,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Iraq,FY 2008,23,Catholic,10,326
+From: 19 Dec 2007,To: 19 Dec 2007,Iraq,FY 2008,23,Chaldean,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Iraq,FY 2008,23,Christian,11,326
+From: 19 Dec 2007,To: 19 Dec 2007,"Korea, North",FY 2008,1,Christian,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moldova,FY 2008,34,Baptist,26,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moldova,FY 2008,34,Jehovah Witness,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moldova,FY 2008,34,Jewish,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moldova,FY 2008,34,Pentecostalist,4,326
+From: 19 Dec 2007,To: 19 Dec 2007,Pakistan,FY 2008,1,Other Religion,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Russia,FY 2008,18,Baptist,6,326
+From: 19 Dec 2007,To: 19 Dec 2007,Russia,FY 2008,18,Jewish,8,326
+From: 19 Dec 2007,To: 19 Dec 2007,Russia,FY 2008,18,Moslem,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Russia,FY 2008,18,Pentecostalist,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Russia,FY 2008,18,Seventh Day Adventist,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Somalia,FY 2008,12,Moslem,9,326
+From: 19 Dec 2007,To: 19 Dec 2007,Somalia,FY 2008,12,Moslem Suni,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Sudan,FY 2008,3,Christian,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Vietnam,FY 2008,15,Ancestral Worship,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Vietnam,FY 2008,15,Buddhist,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Vietnam,FY 2008,15,Catholic,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Vietnam,FY 2008,15,No Religion,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Vietnam,FY 2008,15,Protestant,7,326
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Dec 2007,To: 19 Dec 2007,Ancestral Worship,FY 2008,2,Vietnam,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Bahai,FY 2008,12,Iran,12,326
+From: 19 Dec 2007,To: 19 Dec 2007,Baptist,FY 2008,32,Moldova,26,326
+From: 19 Dec 2007,To: 19 Dec 2007,Baptist,FY 2008,32,Russia,6,326
+From: 19 Dec 2007,To: 19 Dec 2007,Buddhist,FY 2008,12,Burma,11,326
+From: 19 Dec 2007,To: 19 Dec 2007,Buddhist,FY 2008,12,Vietnam,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Catholic,FY 2008,62,Burundi,31,326
+From: 19 Dec 2007,To: 19 Dec 2007,Catholic,FY 2008,62,Eritrea,19,326
+From: 19 Dec 2007,To: 19 Dec 2007,Catholic,FY 2008,62,Iraq,10,326
+From: 19 Dec 2007,To: 19 Dec 2007,Catholic,FY 2008,62,Vietnam,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Chaldean,FY 2008,2,Iraq,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Christian,FY 2008,61,Burma,35,326
+From: 19 Dec 2007,To: 19 Dec 2007,Christian,FY 2008,61,Burundi,7,326
+From: 19 Dec 2007,To: 19 Dec 2007,Christian,FY 2008,61,Eritrea,4,326
+From: 19 Dec 2007,To: 19 Dec 2007,Christian,FY 2008,61,Iraq,11,326
+From: 19 Dec 2007,To: 19 Dec 2007,Christian,FY 2008,61,"Korea, North",1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Christian,FY 2008,61,Sudan,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Jehovah Witness,FY 2008,10,Burundi,7,326
+From: 19 Dec 2007,To: 19 Dec 2007,Jehovah Witness,FY 2008,10,Moldova,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Jewish,FY 2008,9,Moldova,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Jewish,FY 2008,9,Russia,8,326
+From: 19 Dec 2007,To: 19 Dec 2007,Methodist,FY 2008,23,Burundi,23,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem,FY 2008,31,Burma,5,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem,FY 2008,31,Burundi,11,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem,FY 2008,31,Eritrea,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem,FY 2008,31,Ethiopia,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem,FY 2008,31,Russia,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem,FY 2008,31,Somalia,9,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem Suni,FY 2008,7,Afghanistan,4,326
+From: 19 Dec 2007,To: 19 Dec 2007,Moslem Suni,FY 2008,7,Somalia,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,No Religion,FY 2008,5,China,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,No Religion,FY 2008,5,Vietnam,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Orthodox,FY 2008,10,Eritrea,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Orthodox,FY 2008,10,Ethiopia,8,326
+From: 19 Dec 2007,To: 19 Dec 2007,Other Religion,FY 2008,4,Eritrea,3,326
+From: 19 Dec 2007,To: 19 Dec 2007,Other Religion,FY 2008,4,Pakistan,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Pentecostalist,FY 2008,29,Burundi,24,326
+From: 19 Dec 2007,To: 19 Dec 2007,Pentecostalist,FY 2008,29,Moldova,4,326
+From: 19 Dec 2007,To: 19 Dec 2007,Pentecostalist,FY 2008,29,Russia,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Protestant,FY 2008,10,Burundi,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Protestant,FY 2008,10,Eritrea,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Protestant,FY 2008,10,Vietnam,7,326
+From: 19 Dec 2007,To: 19 Dec 2007,Seventh Day Adventist,FY 2008,3,Burundi,1,326
+From: 19 Dec 2007,To: 19 Dec 2007,Seventh Day Adventist,FY 2008,3,Russia,2,326
+From: 19 Dec 2007,To: 19 Dec 2007,Zoroastrian,FY 2008,2,Iran,2,326
+

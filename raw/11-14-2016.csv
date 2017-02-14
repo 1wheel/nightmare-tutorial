@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Nov 2016,To: 14 Nov 2016,Afghanistan,FY 2017,4,Moslem Shiite,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,Bhutan,FY 2017,45,Buddhist,18,253
+From: 14 Nov 2016,To: 14 Nov 2016,Bhutan,FY 2017,45,Hindu,21,253
+From: 14 Nov 2016,To: 14 Nov 2016,Bhutan,FY 2017,45,Kirat,6,253
+From: 14 Nov 2016,To: 14 Nov 2016,Dem. Rep. Congo,FY 2017,11,Christian,7,253
+From: 14 Nov 2016,To: 14 Nov 2016,Dem. Rep. Congo,FY 2017,11,Pentecostalist,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,El Salvador,FY 2017,18,Catholic,6,253
+From: 14 Nov 2016,To: 14 Nov 2016,El Salvador,FY 2017,18,Christian,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,El Salvador,FY 2017,18,Evangelical Christian,8,253
+From: 14 Nov 2016,To: 14 Nov 2016,Eritrea,FY 2017,1,Moslem,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Ethiopia,FY 2017,3,Moslem,3,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Bahai,8,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Christian,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Kaaka'i,3,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Moslem,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Moslem Shiite,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,No Religion,5,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Other Religion,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iran,FY 2017,26,Protestant,3,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iraq,FY 2017,38,Catholic,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iraq,FY 2017,38,Moslem Shiite,7,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iraq,FY 2017,38,Moslem Suni,28,253
+From: 14 Nov 2016,To: 14 Nov 2016,Iraq,FY 2017,38,Sabeans-Mandean,2,253
+From: 14 Nov 2016,To: 14 Nov 2016,Rwanda,FY 2017,1,Moslem,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Somalia,FY 2017,15,Moslem,15,253
+From: 14 Nov 2016,To: 14 Nov 2016,Sudan,FY 2017,1,Christian,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Syria,FY 2017,54,Moslem,13,253
+From: 14 Nov 2016,To: 14 Nov 2016,Syria,FY 2017,54,Moslem Suni,41,253
+From: 14 Nov 2016,To: 14 Nov 2016,Uganda,FY 2017,1,Christian,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Ukraine,FY 2017,35,Baptist,10,253
+From: 14 Nov 2016,To: 14 Nov 2016,Ukraine,FY 2017,35,Pentecostalist,19,253
+From: 14 Nov 2016,To: 14 Nov 2016,Ukraine,FY 2017,35,Ukr Orthodox,2,253
+From: 14 Nov 2016,To: 14 Nov 2016,Ukraine,FY 2017,35,Uniate,4,253
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Nov 2016,To: 14 Nov 2016,Bahai,FY 2017,8,Iran,8,253
+From: 14 Nov 2016,To: 14 Nov 2016,Baptist,FY 2017,10,Ukraine,10,253
+From: 14 Nov 2016,To: 14 Nov 2016,Buddhist,FY 2017,18,Bhutan,18,253
+From: 14 Nov 2016,To: 14 Nov 2016,Catholic,FY 2017,7,El Salvador,6,253
+From: 14 Nov 2016,To: 14 Nov 2016,Catholic,FY 2017,7,Iraq,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Christian,FY 2017,14,Dem. Rep. Congo,7,253
+From: 14 Nov 2016,To: 14 Nov 2016,Christian,FY 2017,14,El Salvador,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,Christian,FY 2017,14,Iran,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Christian,FY 2017,14,Sudan,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Christian,FY 2017,14,Uganda,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Evangelical Christian,FY 2017,8,El Salvador,8,253
+From: 14 Nov 2016,To: 14 Nov 2016,Hindu,FY 2017,21,Bhutan,21,253
+From: 14 Nov 2016,To: 14 Nov 2016,Kaaka'i,FY 2017,3,Iran,3,253
+From: 14 Nov 2016,To: 14 Nov 2016,Kirat,FY 2017,6,Bhutan,6,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem,FY 2017,34,Eritrea,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem,FY 2017,34,Ethiopia,3,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem,FY 2017,34,Iran,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem,FY 2017,34,Rwanda,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem,FY 2017,34,Somalia,15,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem,FY 2017,34,Syria,13,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem Shiite,FY 2017,15,Afghanistan,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem Shiite,FY 2017,15,Iran,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem Shiite,FY 2017,15,Iraq,7,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem Suni,FY 2017,69,Iraq,28,253
+From: 14 Nov 2016,To: 14 Nov 2016,Moslem Suni,FY 2017,69,Syria,41,253
+From: 14 Nov 2016,To: 14 Nov 2016,No Religion,FY 2017,5,Iran,5,253
+From: 14 Nov 2016,To: 14 Nov 2016,Other Religion,FY 2017,1,Iran,1,253
+From: 14 Nov 2016,To: 14 Nov 2016,Pentecostalist,FY 2017,23,Dem. Rep. Congo,4,253
+From: 14 Nov 2016,To: 14 Nov 2016,Pentecostalist,FY 2017,23,Ukraine,19,253
+From: 14 Nov 2016,To: 14 Nov 2016,Protestant,FY 2017,3,Iran,3,253
+From: 14 Nov 2016,To: 14 Nov 2016,Sabeans-Mandean,FY 2017,2,Iraq,2,253
+From: 14 Nov 2016,To: 14 Nov 2016,Ukr Orthodox,FY 2017,2,Ukraine,2,253
+From: 14 Nov 2016,To: 14 Nov 2016,Uniate,FY 2017,4,Ukraine,4,253
+

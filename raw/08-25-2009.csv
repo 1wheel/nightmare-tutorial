@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Aug 2009,To: 25 Aug 2009,Bhutan,FY 2009,113,Buddhist,18,500
+From: 25 Aug 2009,To: 25 Aug 2009,Bhutan,FY 2009,113,Christian,19,500
+From: 25 Aug 2009,To: 25 Aug 2009,Bhutan,FY 2009,113,Hindu,74,500
+From: 25 Aug 2009,To: 25 Aug 2009,Bhutan,FY 2009,113,Kirat,2,500
+From: 25 Aug 2009,To: 25 Aug 2009,Burma,FY 2009,85,Animist,10,500
+From: 25 Aug 2009,To: 25 Aug 2009,Burma,FY 2009,85,Buddhist,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Burma,FY 2009,85,Catholic,19,500
+From: 25 Aug 2009,To: 25 Aug 2009,Burma,FY 2009,85,Christian,53,500
+From: 25 Aug 2009,To: 25 Aug 2009,Dem. Rep. Congo,FY 2009,3,Protestant,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Eritrea,FY 2009,52,Catholic,28,500
+From: 25 Aug 2009,To: 25 Aug 2009,Eritrea,FY 2009,52,Moslem,2,500
+From: 25 Aug 2009,To: 25 Aug 2009,Eritrea,FY 2009,52,Orthodox,18,500
+From: 25 Aug 2009,To: 25 Aug 2009,Eritrea,FY 2009,52,Pentecostalist,1,500
+From: 25 Aug 2009,To: 25 Aug 2009,Eritrea,FY 2009,52,Protestant,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iran,FY 2009,39,Bahai,1,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iran,FY 2009,39,Christian,30,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iran,FY 2009,39,Jewish,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iran,FY 2009,39,Zoroastrian,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Catholic,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Christian,14,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Moslem,2,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Moslem Shiite,35,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Moslem Suni,81,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Orthodox,17,500
+From: 25 Aug 2009,To: 25 Aug 2009,Iraq,FY 2009,156,Sabeans-Mandean,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Somalia,FY 2009,42,Moslem,38,500
+From: 25 Aug 2009,To: 25 Aug 2009,Somalia,FY 2009,42,Moslem Suni,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Sudan,FY 2009,6,Moslem Suni,6,500
+From: 25 Aug 2009,To: 25 Aug 2009,Uzbekistan,FY 2009,4,Moslem Suni,1,500
+From: 25 Aug 2009,To: 25 Aug 2009,Uzbekistan,FY 2009,4,Pentecostalist,3,500
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Aug 2009,To: 25 Aug 2009,Animist,FY 2009,10,Burma,10,500
+From: 25 Aug 2009,To: 25 Aug 2009,Bahai,FY 2009,1,Iran,1,500
+From: 25 Aug 2009,To: 25 Aug 2009,Buddhist,FY 2009,21,Bhutan,18,500
+From: 25 Aug 2009,To: 25 Aug 2009,Buddhist,FY 2009,21,Burma,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Catholic,FY 2009,51,Burma,19,500
+From: 25 Aug 2009,To: 25 Aug 2009,Catholic,FY 2009,51,Eritrea,28,500
+From: 25 Aug 2009,To: 25 Aug 2009,Catholic,FY 2009,51,Iraq,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Christian,FY 2009,116,Bhutan,19,500
+From: 25 Aug 2009,To: 25 Aug 2009,Christian,FY 2009,116,Burma,53,500
+From: 25 Aug 2009,To: 25 Aug 2009,Christian,FY 2009,116,Iran,30,500
+From: 25 Aug 2009,To: 25 Aug 2009,Christian,FY 2009,116,Iraq,14,500
+From: 25 Aug 2009,To: 25 Aug 2009,Hindu,FY 2009,74,Bhutan,74,500
+From: 25 Aug 2009,To: 25 Aug 2009,Jewish,FY 2009,4,Iran,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Kirat,FY 2009,2,Bhutan,2,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem,FY 2009,42,Eritrea,2,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem,FY 2009,42,Iraq,2,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem,FY 2009,42,Somalia,38,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem Shiite,FY 2009,35,Iraq,35,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem Suni,FY 2009,92,Iraq,81,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem Suni,FY 2009,92,Somalia,4,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem Suni,FY 2009,92,Sudan,6,500
+From: 25 Aug 2009,To: 25 Aug 2009,Moslem Suni,FY 2009,92,Uzbekistan,1,500
+From: 25 Aug 2009,To: 25 Aug 2009,Orthodox,FY 2009,35,Eritrea,18,500
+From: 25 Aug 2009,To: 25 Aug 2009,Orthodox,FY 2009,35,Iraq,17,500
+From: 25 Aug 2009,To: 25 Aug 2009,Pentecostalist,FY 2009,4,Eritrea,1,500
+From: 25 Aug 2009,To: 25 Aug 2009,Pentecostalist,FY 2009,4,Uzbekistan,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Protestant,FY 2009,6,Dem. Rep. Congo,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Protestant,FY 2009,6,Eritrea,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Sabeans-Mandean,FY 2009,3,Iraq,3,500
+From: 25 Aug 2009,To: 25 Aug 2009,Zoroastrian,FY 2009,4,Iran,4,500
+

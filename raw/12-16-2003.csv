@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Dec 2003,To: 16 Dec 2003,Afghanistan,FY 2004,1,Moslem,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Azerbaijan,FY 2004,19,Christian,3,225
+From: 16 Dec 2003,To: 16 Dec 2003,Azerbaijan,FY 2004,19,Jewish,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Azerbaijan,FY 2004,19,Unknown,10,225
+From: 16 Dec 2003,To: 16 Dec 2003,Ethiopia,FY 2004,15,Moslem,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Ethiopia,FY 2004,15,Orthodox,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Liberia,FY 2004,61,Baptist,7,225
+From: 16 Dec 2003,To: 16 Dec 2003,Liberia,FY 2004,61,Christian,32,225
+From: 16 Dec 2003,To: 16 Dec 2003,Liberia,FY 2004,61,Lutheran,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Liberia,FY 2004,61,Methodist,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Liberia,FY 2004,61,Moslem,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Liberia,FY 2004,61,Pentecostalist,3,225
+From: 16 Dec 2003,To: 16 Dec 2003,Russia,FY 2004,13,Baptist,3,225
+From: 16 Dec 2003,To: 16 Dec 2003,Russia,FY 2004,13,Jewish,2,225
+From: 16 Dec 2003,To: 16 Dec 2003,Russia,FY 2004,13,No Religion,2,225
+From: 16 Dec 2003,To: 16 Dec 2003,Russia,FY 2004,13,Pentecostalist,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Rwanda,FY 2004,2,Christian,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Rwanda,FY 2004,2,Protestant,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Somalia,FY 2004,46,Moslem,46,225
+From: 16 Dec 2003,To: 16 Dec 2003,Sudan,FY 2004,8,Catholic,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Sudan,FY 2004,8,Christian,2,225
+From: 16 Dec 2003,To: 16 Dec 2003,Ukraine,FY 2004,60,Baptist,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Ukraine,FY 2004,60,Jewish,4,225
+From: 16 Dec 2003,To: 16 Dec 2003,Ukraine,FY 2004,60,Pentecostalist,43,225
+From: 16 Dec 2003,To: 16 Dec 2003,Ukraine,FY 2004,60,Seventh Day Adventist,4,225
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Dec 2003,To: 16 Dec 2003,Baptist,FY 2004,19,Liberia,7,225
+From: 16 Dec 2003,To: 16 Dec 2003,Baptist,FY 2004,19,Russia,3,225
+From: 16 Dec 2003,To: 16 Dec 2003,Baptist,FY 2004,19,Ukraine,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Catholic,FY 2004,6,Sudan,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Christian,FY 2004,38,Azerbaijan,3,225
+From: 16 Dec 2003,To: 16 Dec 2003,Christian,FY 2004,38,Liberia,32,225
+From: 16 Dec 2003,To: 16 Dec 2003,Christian,FY 2004,38,Rwanda,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Christian,FY 2004,38,Sudan,2,225
+From: 16 Dec 2003,To: 16 Dec 2003,Jewish,FY 2004,12,Azerbaijan,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Jewish,FY 2004,12,Russia,2,225
+From: 16 Dec 2003,To: 16 Dec 2003,Jewish,FY 2004,12,Ukraine,4,225
+From: 16 Dec 2003,To: 16 Dec 2003,Lutheran,FY 2004,9,Liberia,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Methodist,FY 2004,1,Liberia,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Moslem,FY 2004,65,Afghanistan,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Moslem,FY 2004,65,Ethiopia,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Moslem,FY 2004,65,Liberia,9,225
+From: 16 Dec 2003,To: 16 Dec 2003,Moslem,FY 2004,65,Somalia,46,225
+From: 16 Dec 2003,To: 16 Dec 2003,No Religion,FY 2004,2,Russia,2,225
+From: 16 Dec 2003,To: 16 Dec 2003,Orthodox,FY 2004,6,Ethiopia,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Pentecostalist,FY 2004,52,Liberia,3,225
+From: 16 Dec 2003,To: 16 Dec 2003,Pentecostalist,FY 2004,52,Russia,6,225
+From: 16 Dec 2003,To: 16 Dec 2003,Pentecostalist,FY 2004,52,Ukraine,43,225
+From: 16 Dec 2003,To: 16 Dec 2003,Protestant,FY 2004,1,Rwanda,1,225
+From: 16 Dec 2003,To: 16 Dec 2003,Seventh Day Adventist,FY 2004,4,Ukraine,4,225
+From: 16 Dec 2003,To: 16 Dec 2003,Unknown,FY 2004,10,Azerbaijan,10,225
+

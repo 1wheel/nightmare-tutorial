@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Mar 2016,To: 21 Mar 2016,Afghanistan,FY 2016,4,Moslem Shiite,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Afghanistan,FY 2016,4,Moslem Suni,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Azerbaijan,FY 2016,1,Jewish,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Burma,FY 2016,33,Christian,30,147
+From: 21 Mar 2016,To: 21 Mar 2016,Burma,FY 2016,33,Pentecostalist,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Burundi,FY 2016,3,Christian,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Dem. Rep. Congo,FY 2016,21,Catholic,7,147
+From: 21 Mar 2016,To: 21 Mar 2016,Dem. Rep. Congo,FY 2016,21,Christian,2,147
+From: 21 Mar 2016,To: 21 Mar 2016,Dem. Rep. Congo,FY 2016,21,Moslem,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Dem. Rep. Congo,FY 2016,21,Pentecostalist,6,147
+From: 21 Mar 2016,To: 21 Mar 2016,Dem. Rep. Congo,FY 2016,21,Protestant,5,147
+From: 21 Mar 2016,To: 21 Mar 2016,Iran,FY 2016,14,Bahai,4,147
+From: 21 Mar 2016,To: 21 Mar 2016,Iran,FY 2016,14,Moslem Shiite,4,147
+From: 21 Mar 2016,To: 21 Mar 2016,Iran,FY 2016,14,Protestant,6,147
+From: 21 Mar 2016,To: 21 Mar 2016,Iraq,FY 2016,35,Moslem Shiite,10,147
+From: 21 Mar 2016,To: 21 Mar 2016,Iraq,FY 2016,35,Moslem Suni,22,147
+From: 21 Mar 2016,To: 21 Mar 2016,Iraq,FY 2016,35,Orthodox,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Somalia,FY 2016,29,Moslem,29,147
+From: 21 Mar 2016,To: 21 Mar 2016,Syria,FY 2016,6,Moslem Suni,6,147
+From: 21 Mar 2016,To: 21 Mar 2016,Uganda,FY 2016,1,Christian,1,147
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Mar 2016,To: 21 Mar 2016,Bahai,FY 2016,4,Iran,4,147
+From: 21 Mar 2016,To: 21 Mar 2016,Catholic,FY 2016,7,Dem. Rep. Congo,7,147
+From: 21 Mar 2016,To: 21 Mar 2016,Christian,FY 2016,36,Burma,30,147
+From: 21 Mar 2016,To: 21 Mar 2016,Christian,FY 2016,36,Burundi,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Christian,FY 2016,36,Dem. Rep. Congo,2,147
+From: 21 Mar 2016,To: 21 Mar 2016,Christian,FY 2016,36,Uganda,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Jewish,FY 2016,1,Azerbaijan,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem,FY 2016,30,Dem. Rep. Congo,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem,FY 2016,30,Somalia,29,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem Shiite,FY 2016,17,Afghanistan,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem Shiite,FY 2016,17,Iran,4,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem Shiite,FY 2016,17,Iraq,10,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem Suni,FY 2016,29,Afghanistan,1,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem Suni,FY 2016,29,Iraq,22,147
+From: 21 Mar 2016,To: 21 Mar 2016,Moslem Suni,FY 2016,29,Syria,6,147
+From: 21 Mar 2016,To: 21 Mar 2016,Orthodox,FY 2016,3,Iraq,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Pentecostalist,FY 2016,9,Burma,3,147
+From: 21 Mar 2016,To: 21 Mar 2016,Pentecostalist,FY 2016,9,Dem. Rep. Congo,6,147
+From: 21 Mar 2016,To: 21 Mar 2016,Protestant,FY 2016,11,Dem. Rep. Congo,5,147
+From: 21 Mar 2016,To: 21 Mar 2016,Protestant,FY 2016,11,Iran,6,147
+

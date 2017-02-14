@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Feb 2009,To: 25 Feb 2009,Afghanistan,FY 2009,7,Moslem Shiite,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Afghanistan,FY 2009,7,Moslem Suni,5,418
+From: 25 Feb 2009,To: 25 Feb 2009,Burma,FY 2009,168,Animist,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Burma,FY 2009,168,Buddhist,33,418
+From: 25 Feb 2009,To: 25 Feb 2009,Burma,FY 2009,168,Catholic,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Burma,FY 2009,168,Christian,102,418
+From: 25 Feb 2009,To: 25 Feb 2009,Burma,FY 2009,168,Moslem,28,418
+From: 25 Feb 2009,To: 25 Feb 2009,Congo,FY 2009,3,Pentecostalist,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Cuba,FY 2009,68,Catholic,27,418
+From: 25 Feb 2009,To: 25 Feb 2009,Cuba,FY 2009,68,Evangelical Christian,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Cuba,FY 2009,68,Jehovah Witness,26,418
+From: 25 Feb 2009,To: 25 Feb 2009,Cuba,FY 2009,68,No Religion,14,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iran,FY 2009,29,Bahai,25,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iran,FY 2009,29,Christian,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iran,FY 2009,29,Moslem,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iraq,FY 2009,118,Catholic,21,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iraq,FY 2009,118,Christian,28,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iraq,FY 2009,118,Moslem Shiite,14,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iraq,FY 2009,118,Moslem Suni,50,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iraq,FY 2009,118,Orthodox,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Iraq,FY 2009,118,Sabeans-Mandean,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Liberia,FY 2009,6,Christian,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Liberia,FY 2009,6,Methodist,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Liberia,FY 2009,6,Moslem,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Liberia,FY 2009,6,Pentecostalist,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Russia,FY 2009,9,Baptist,6,418
+From: 25 Feb 2009,To: 25 Feb 2009,Russia,FY 2009,9,Jewish,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Russia,FY 2009,9,No Religion,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Somalia,FY 2009,10,Moslem,10,418
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Feb 2009,To: 25 Feb 2009,Animist,FY 2009,2,Burma,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Bahai,FY 2009,25,Iran,25,418
+From: 25 Feb 2009,To: 25 Feb 2009,Baptist,FY 2009,6,Russia,6,418
+From: 25 Feb 2009,To: 25 Feb 2009,Buddhist,FY 2009,33,Burma,33,418
+From: 25 Feb 2009,To: 25 Feb 2009,Catholic,FY 2009,51,Burma,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Catholic,FY 2009,51,Cuba,27,418
+From: 25 Feb 2009,To: 25 Feb 2009,Catholic,FY 2009,51,Iraq,21,418
+From: 25 Feb 2009,To: 25 Feb 2009,Christian,FY 2009,133,Burma,102,418
+From: 25 Feb 2009,To: 25 Feb 2009,Christian,FY 2009,133,Iran,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Christian,FY 2009,133,Iraq,28,418
+From: 25 Feb 2009,To: 25 Feb 2009,Christian,FY 2009,133,Liberia,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Evangelical Christian,FY 2009,1,Cuba,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Jehovah Witness,FY 2009,26,Cuba,26,418
+From: 25 Feb 2009,To: 25 Feb 2009,Jewish,FY 2009,2,Russia,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Methodist,FY 2009,3,Liberia,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem,FY 2009,41,Burma,28,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem,FY 2009,41,Iran,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem,FY 2009,41,Liberia,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem,FY 2009,41,Somalia,10,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem Shiite,FY 2009,16,Afghanistan,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem Shiite,FY 2009,16,Iraq,14,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem Suni,FY 2009,55,Afghanistan,5,418
+From: 25 Feb 2009,To: 25 Feb 2009,Moslem Suni,FY 2009,55,Iraq,50,418
+From: 25 Feb 2009,To: 25 Feb 2009,No Religion,FY 2009,15,Cuba,14,418
+From: 25 Feb 2009,To: 25 Feb 2009,No Religion,FY 2009,15,Russia,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Orthodox,FY 2009,2,Iraq,2,418
+From: 25 Feb 2009,To: 25 Feb 2009,Pentecostalist,FY 2009,4,Congo,3,418
+From: 25 Feb 2009,To: 25 Feb 2009,Pentecostalist,FY 2009,4,Liberia,1,418
+From: 25 Feb 2009,To: 25 Feb 2009,Sabeans-Mandean,FY 2009,3,Iraq,3,418
+

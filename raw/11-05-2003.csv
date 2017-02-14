@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Nov 2003,To: 05 Nov 2003,Afghanistan,FY 2004,1,Moslem,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Burundi,FY 2004,1,Catholic,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Colombia,FY 2004,1,Catholic,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Cuba,FY 2004,32,Catholic,14,210
+From: 05 Nov 2003,To: 05 Nov 2003,Cuba,FY 2004,32,Evangelical Christian,3,210
+From: 05 Nov 2003,To: 05 Nov 2003,Cuba,FY 2004,32,Jehovah Witness,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Cuba,FY 2004,32,No Religion,8,210
+From: 05 Nov 2003,To: 05 Nov 2003,Ethiopia,FY 2004,28,Christian,8,210
+From: 05 Nov 2003,To: 05 Nov 2003,Ethiopia,FY 2004,28,Moslem,20,210
+From: 05 Nov 2003,To: 05 Nov 2003,Iran,FY 2004,9,Christian,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Iran,FY 2004,9,Jewish,5,210
+From: 05 Nov 2003,To: 05 Nov 2003,Iran,FY 2004,9,Moslem,3,210
+From: 05 Nov 2003,To: 05 Nov 2003,Liberia,FY 2004,15,Christian,11,210
+From: 05 Nov 2003,To: 05 Nov 2003,Liberia,FY 2004,15,Moslem,4,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moldova,FY 2004,29,Baptist,27,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moldova,FY 2004,29,Seventh Day Adventist,2,210
+From: 05 Nov 2003,To: 05 Nov 2003,Sierra Leone,FY 2004,5,Christian,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Sierra Leone,FY 2004,5,Moslem,4,210
+From: 05 Nov 2003,To: 05 Nov 2003,Somalia,FY 2004,43,Moslem,43,210
+From: 05 Nov 2003,To: 05 Nov 2003,Sudan,FY 2004,26,Catholic,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Sudan,FY 2004,26,Christian,3,210
+From: 05 Nov 2003,To: 05 Nov 2003,Sudan,FY 2004,26,Moslem,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Sudan,FY 2004,26,Protestant,9,210
+From: 05 Nov 2003,To: 05 Nov 2003,Vietnam,FY 2004,20,Buddhist,8,210
+From: 05 Nov 2003,To: 05 Nov 2003,Vietnam,FY 2004,20,Catholic,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Vietnam,FY 2004,20,No Religion,5,210
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Nov 2003,To: 05 Nov 2003,Baptist,FY 2004,27,Moldova,27,210
+From: 05 Nov 2003,To: 05 Nov 2003,Buddhist,FY 2004,8,Vietnam,8,210
+From: 05 Nov 2003,To: 05 Nov 2003,Catholic,FY 2004,30,Burundi,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Catholic,FY 2004,30,Colombia,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Catholic,FY 2004,30,Cuba,14,210
+From: 05 Nov 2003,To: 05 Nov 2003,Catholic,FY 2004,30,Sudan,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Catholic,FY 2004,30,Vietnam,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Christian,FY 2004,24,Ethiopia,8,210
+From: 05 Nov 2003,To: 05 Nov 2003,Christian,FY 2004,24,Iran,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Christian,FY 2004,24,Liberia,11,210
+From: 05 Nov 2003,To: 05 Nov 2003,Christian,FY 2004,24,Sierra Leone,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Christian,FY 2004,24,Sudan,3,210
+From: 05 Nov 2003,To: 05 Nov 2003,Evangelical Christian,FY 2004,3,Cuba,3,210
+From: 05 Nov 2003,To: 05 Nov 2003,Jehovah Witness,FY 2004,7,Cuba,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,Jewish,FY 2004,5,Iran,5,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Afghanistan,1,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Ethiopia,20,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Iran,3,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Liberia,4,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Sierra Leone,4,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Somalia,43,210
+From: 05 Nov 2003,To: 05 Nov 2003,Moslem,FY 2004,82,Sudan,7,210
+From: 05 Nov 2003,To: 05 Nov 2003,No Religion,FY 2004,13,Cuba,8,210
+From: 05 Nov 2003,To: 05 Nov 2003,No Religion,FY 2004,13,Vietnam,5,210
+From: 05 Nov 2003,To: 05 Nov 2003,Protestant,FY 2004,9,Sudan,9,210
+From: 05 Nov 2003,To: 05 Nov 2003,Seventh Day Adventist,FY 2004,2,Moldova,2,210
+

@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Apr 2012,To: 05 Apr 2012,Bhutan,FY 2012,96,Buddhist,13,116
+From: 05 Apr 2012,To: 05 Apr 2012,Bhutan,FY 2012,96,Christian,18,116
+From: 05 Apr 2012,To: 05 Apr 2012,Bhutan,FY 2012,96,Hindu,55,116
+From: 05 Apr 2012,To: 05 Apr 2012,Bhutan,FY 2012,96,Kirat,10,116
+From: 05 Apr 2012,To: 05 Apr 2012,Colombia,FY 2012,13,Catholic,3,116
+From: 05 Apr 2012,To: 05 Apr 2012,Colombia,FY 2012,13,Christian,10,116
+From: 05 Apr 2012,To: 05 Apr 2012,Eritrea,FY 2012,2,Christian,1,116
+From: 05 Apr 2012,To: 05 Apr 2012,Eritrea,FY 2012,2,Orthodox,1,116
+From: 05 Apr 2012,To: 05 Apr 2012,Iraq,FY 2012,3,Moslem Suni,3,116
+From: 05 Apr 2012,To: 05 Apr 2012,Somalia,FY 2012,2,Moslem,2,116
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Apr 2012,To: 05 Apr 2012,Buddhist,FY 2012,13,Bhutan,13,116
+From: 05 Apr 2012,To: 05 Apr 2012,Catholic,FY 2012,3,Colombia,3,116
+From: 05 Apr 2012,To: 05 Apr 2012,Christian,FY 2012,29,Bhutan,18,116
+From: 05 Apr 2012,To: 05 Apr 2012,Christian,FY 2012,29,Colombia,10,116
+From: 05 Apr 2012,To: 05 Apr 2012,Christian,FY 2012,29,Eritrea,1,116
+From: 05 Apr 2012,To: 05 Apr 2012,Hindu,FY 2012,55,Bhutan,55,116
+From: 05 Apr 2012,To: 05 Apr 2012,Kirat,FY 2012,10,Bhutan,10,116
+From: 05 Apr 2012,To: 05 Apr 2012,Moslem,FY 2012,2,Somalia,2,116
+From: 05 Apr 2012,To: 05 Apr 2012,Moslem Suni,FY 2012,3,Iraq,3,116
+From: 05 Apr 2012,To: 05 Apr 2012,Orthodox,FY 2012,1,Eritrea,1,116
+

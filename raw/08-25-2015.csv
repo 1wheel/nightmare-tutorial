@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Aug 2015,To: 25 Aug 2015,Bhutan,FY 2015,74,Buddhist,20,465
+From: 25 Aug 2015,To: 25 Aug 2015,Bhutan,FY 2015,74,Christian,15,465
+From: 25 Aug 2015,To: 25 Aug 2015,Bhutan,FY 2015,74,Hindu,19,465
+From: 25 Aug 2015,To: 25 Aug 2015,Bhutan,FY 2015,74,Kirat,20,465
+From: 25 Aug 2015,To: 25 Aug 2015,Burma,FY 2015,121,Animist,17,465
+From: 25 Aug 2015,To: 25 Aug 2015,Burma,FY 2015,121,Buddhist,21,465
+From: 25 Aug 2015,To: 25 Aug 2015,Burma,FY 2015,121,Catholic,20,465
+From: 25 Aug 2015,To: 25 Aug 2015,Burma,FY 2015,121,Christian,52,465
+From: 25 Aug 2015,To: 25 Aug 2015,Burma,FY 2015,121,Moslem,11,465
+From: 25 Aug 2015,To: 25 Aug 2015,Central African Republic,FY 2015,6,Protestant,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Catholic,13,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Christian,16,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Jehovah Witness,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Moslem,4,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Pentecostalist,24,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Protestant,19,465
+From: 25 Aug 2015,To: 25 Aug 2015,Dem. Rep. Congo,FY 2015,88,Seventh Day Adventist,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Eritrea,FY 2015,5,Orthodox,4,465
+From: 25 Aug 2015,To: 25 Aug 2015,Eritrea,FY 2015,5,Pentecostalist,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Ethiopia,FY 2015,2,Catholic,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iran,FY 2015,39,Christian,33,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iran,FY 2015,39,Jewish,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iran,FY 2015,39,Sabeans-Mandean,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iran,FY 2015,39,Zoroastrian,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iraq,FY 2015,68,Catholic,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iraq,FY 2015,68,Christian,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iraq,FY 2015,68,Moslem Shiite,24,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iraq,FY 2015,68,Moslem Suni,28,465
+From: 25 Aug 2015,To: 25 Aug 2015,Iraq,FY 2015,68,Orthodox,9,465
+From: 25 Aug 2015,To: 25 Aug 2015,Palestine,FY 2015,1,Moslem,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Republic of South Sudan,FY 2015,8,Christian,8,465
+From: 25 Aug 2015,To: 25 Aug 2015,Somalia,FY 2015,38,Moslem,37,465
+From: 25 Aug 2015,To: 25 Aug 2015,Somalia,FY 2015,38,Moslem Suni,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Syria,FY 2015,13,Moslem Suni,13,465
+From: 25 Aug 2015,To: 25 Aug 2015,Ukraine,FY 2015,1,Pentecostalist,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Vietnam,FY 2015,1,Protestant,1,465
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Aug 2015,To: 25 Aug 2015,Animist,FY 2015,17,Burma,17,465
+From: 25 Aug 2015,To: 25 Aug 2015,Buddhist,FY 2015,41,Bhutan,20,465
+From: 25 Aug 2015,To: 25 Aug 2015,Buddhist,FY 2015,41,Burma,21,465
+From: 25 Aug 2015,To: 25 Aug 2015,Catholic,FY 2015,41,Burma,20,465
+From: 25 Aug 2015,To: 25 Aug 2015,Catholic,FY 2015,41,Dem. Rep. Congo,13,465
+From: 25 Aug 2015,To: 25 Aug 2015,Catholic,FY 2015,41,Ethiopia,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Catholic,FY 2015,41,Iraq,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Christian,FY 2015,125,Bhutan,15,465
+From: 25 Aug 2015,To: 25 Aug 2015,Christian,FY 2015,125,Burma,52,465
+From: 25 Aug 2015,To: 25 Aug 2015,Christian,FY 2015,125,Dem. Rep. Congo,16,465
+From: 25 Aug 2015,To: 25 Aug 2015,Christian,FY 2015,125,Iran,33,465
+From: 25 Aug 2015,To: 25 Aug 2015,Christian,FY 2015,125,Iraq,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Christian,FY 2015,125,Republic of South Sudan,8,465
+From: 25 Aug 2015,To: 25 Aug 2015,Hindu,FY 2015,19,Bhutan,19,465
+From: 25 Aug 2015,To: 25 Aug 2015,Jehovah Witness,FY 2015,6,Dem. Rep. Congo,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Jewish,FY 2015,2,Iran,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Kirat,FY 2015,20,Bhutan,20,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem,FY 2015,53,Burma,11,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem,FY 2015,53,Dem. Rep. Congo,4,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem,FY 2015,53,Palestine,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem,FY 2015,53,Somalia,37,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem Shiite,FY 2015,24,Iraq,24,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem Suni,FY 2015,42,Iraq,28,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem Suni,FY 2015,42,Somalia,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Moslem Suni,FY 2015,42,Syria,13,465
+From: 25 Aug 2015,To: 25 Aug 2015,Orthodox,FY 2015,13,Eritrea,4,465
+From: 25 Aug 2015,To: 25 Aug 2015,Orthodox,FY 2015,13,Iraq,9,465
+From: 25 Aug 2015,To: 25 Aug 2015,Pentecostalist,FY 2015,26,Dem. Rep. Congo,24,465
+From: 25 Aug 2015,To: 25 Aug 2015,Pentecostalist,FY 2015,26,Eritrea,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Pentecostalist,FY 2015,26,Ukraine,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Protestant,FY 2015,26,Central African Republic,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Protestant,FY 2015,26,Dem. Rep. Congo,19,465
+From: 25 Aug 2015,To: 25 Aug 2015,Protestant,FY 2015,26,Vietnam,1,465
+From: 25 Aug 2015,To: 25 Aug 2015,Sabeans-Mandean,FY 2015,2,Iran,2,465
+From: 25 Aug 2015,To: 25 Aug 2015,Seventh Day Adventist,FY 2015,6,Dem. Rep. Congo,6,465
+From: 25 Aug 2015,To: 25 Aug 2015,Zoroastrian,FY 2015,2,Iran,2,465
+

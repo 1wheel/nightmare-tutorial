@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Oct 2012,To: 18 Oct 2012,Bhutan,FY 2013,96,Buddhist,32,676
+From: 18 Oct 2012,To: 18 Oct 2012,Bhutan,FY 2013,96,Christian,16,676
+From: 18 Oct 2012,To: 18 Oct 2012,Bhutan,FY 2013,96,Hindu,32,676
+From: 18 Oct 2012,To: 18 Oct 2012,Bhutan,FY 2013,96,Kirat,16,676
+From: 18 Oct 2012,To: 18 Oct 2012,Burma,FY 2013,161,Baptist,18,676
+From: 18 Oct 2012,To: 18 Oct 2012,Burma,FY 2013,161,Buddhist,32,676
+From: 18 Oct 2012,To: 18 Oct 2012,Burma,FY 2013,161,Catholic,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Burma,FY 2013,161,Christian,104,676
+From: 18 Oct 2012,To: 18 Oct 2012,Burma,FY 2013,161,Moslem,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Cuba,FY 2013,68,Baptist,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Cuba,FY 2013,68,Catholic,31,676
+From: 18 Oct 2012,To: 18 Oct 2012,Cuba,FY 2013,68,Evangelical Christian,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Cuba,FY 2013,68,Jehovah Witness,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Cuba,FY 2013,68,No Religion,28,676
+From: 18 Oct 2012,To: 18 Oct 2012,Eritrea,FY 2013,23,Christian,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Eritrea,FY 2013,23,Moslem,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Eritrea,FY 2013,23,Orthodox,15,676
+From: 18 Oct 2012,To: 18 Oct 2012,Ethiopia,FY 2013,1,Moslem,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iran,FY 2013,18,Bahai,9,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iran,FY 2013,18,Moslem Shiite,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iran,FY 2013,18,No Religion,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iran,FY 2013,18,Protestant,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iran,FY 2013,18,Zoroastrian,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Catholic,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Christian,94,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Moslem Shiite,63,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Moslem Suni,45,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Orthodox,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Sabeans-Mandean,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Iraq,FY 2013,214,Yazidi,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Nepal,FY 2013,3,Hindu,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Rwanda,FY 2013,5,Catholic,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Somalia,FY 2013,63,Moslem,59,676
+From: 18 Oct 2012,To: 18 Oct 2012,Somalia,FY 2013,63,Moslem Suni,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Sri Lanka (Ceylon),FY 2013,2,Hindu,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Sudan,FY 2013,16,Moslem,8,676
+From: 18 Oct 2012,To: 18 Oct 2012,Sudan,FY 2013,16,Moslem Suni,8,676
+From: 18 Oct 2012,To: 18 Oct 2012,Vietnam,FY 2013,6,Catholic,6,676
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Oct 2012,To: 18 Oct 2012,Bahai,FY 2013,9,Iran,9,676
+From: 18 Oct 2012,To: 18 Oct 2012,Baptist,FY 2013,21,Burma,18,676
+From: 18 Oct 2012,To: 18 Oct 2012,Baptist,FY 2013,21,Cuba,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Buddhist,FY 2013,64,Bhutan,32,676
+From: 18 Oct 2012,To: 18 Oct 2012,Buddhist,FY 2013,64,Burma,32,676
+From: 18 Oct 2012,To: 18 Oct 2012,Catholic,FY 2013,49,Burma,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Catholic,FY 2013,49,Cuba,31,676
+From: 18 Oct 2012,To: 18 Oct 2012,Catholic,FY 2013,49,Iraq,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Catholic,FY 2013,49,Rwanda,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Catholic,FY 2013,49,Vietnam,6,676
+From: 18 Oct 2012,To: 18 Oct 2012,Christian,FY 2013,219,Bhutan,16,676
+From: 18 Oct 2012,To: 18 Oct 2012,Christian,FY 2013,219,Burma,104,676
+From: 18 Oct 2012,To: 18 Oct 2012,Christian,FY 2013,219,Eritrea,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Christian,FY 2013,219,Iraq,94,676
+From: 18 Oct 2012,To: 18 Oct 2012,Evangelical Christian,FY 2013,2,Cuba,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Hindu,FY 2013,37,Bhutan,32,676
+From: 18 Oct 2012,To: 18 Oct 2012,Hindu,FY 2013,37,Nepal,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Hindu,FY 2013,37,Sri Lanka (Ceylon),2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Jehovah Witness,FY 2013,4,Cuba,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Kirat,FY 2013,16,Bhutan,16,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem,FY 2013,76,Burma,5,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem,FY 2013,76,Eritrea,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem,FY 2013,76,Ethiopia,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem,FY 2013,76,Somalia,59,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem,FY 2013,76,Sudan,8,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem Shiite,FY 2013,67,Iran,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem Shiite,FY 2013,67,Iraq,63,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem Suni,FY 2013,57,Iraq,45,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem Suni,FY 2013,57,Somalia,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Moslem Suni,FY 2013,57,Sudan,8,676
+From: 18 Oct 2012,To: 18 Oct 2012,No Religion,FY 2013,29,Cuba,28,676
+From: 18 Oct 2012,To: 18 Oct 2012,No Religion,FY 2013,29,Iran,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Orthodox,FY 2013,19,Eritrea,15,676
+From: 18 Oct 2012,To: 18 Oct 2012,Orthodox,FY 2013,19,Iraq,4,676
+From: 18 Oct 2012,To: 18 Oct 2012,Protestant,FY 2013,3,Iran,3,676
+From: 18 Oct 2012,To: 18 Oct 2012,Sabeans-Mandean,FY 2013,2,Iraq,2,676
+From: 18 Oct 2012,To: 18 Oct 2012,Yazidi,FY 2013,1,Iraq,1,676
+From: 18 Oct 2012,To: 18 Oct 2012,Zoroastrian,FY 2013,1,Iran,1,676
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jun 2004,To: 29 Jun 2004,Angola,FY 2004,1,Catholic,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Azerbaijan,FY 2004,19,Christian,2,302
+From: 29 Jun 2004,To: 29 Jun 2004,Azerbaijan,FY 2004,19,Jewish,5,302
+From: 29 Jun 2004,To: 29 Jun 2004,Azerbaijan,FY 2004,19,Unknown,12,302
+From: 29 Jun 2004,To: 29 Jun 2004,Dem. Rep. Congo,FY 2004,2,Catholic,2,302
+From: 29 Jun 2004,To: 29 Jun 2004,Eritrea,FY 2004,2,Jehovah Witness,2,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ethiopia,FY 2004,21,Christian,12,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ethiopia,FY 2004,21,Moslem,8,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ethiopia,FY 2004,21,Moslem Suni,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Iran,FY 2004,16,Bahai,15,302
+From: 29 Jun 2004,To: 29 Jun 2004,Iran,FY 2004,16,Jewish,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Kazakhstan,FY 2004,6,Seventh Day Adventist,6,302
+From: 29 Jun 2004,To: 29 Jun 2004,Laos,FY 2004,34,Ancestral Worship,34,302
+From: 29 Jun 2004,To: 29 Jun 2004,Russia,FY 2004,7,Jewish,7,302
+From: 29 Jun 2004,To: 29 Jun 2004,Rwanda,FY 2004,1,Catholic,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Somalia,FY 2004,106,Moslem,106,302
+From: 29 Jun 2004,To: 29 Jun 2004,Sudan,FY 2004,49,Catholic,20,302
+From: 29 Jun 2004,To: 29 Jun 2004,Sudan,FY 2004,49,Christian,6,302
+From: 29 Jun 2004,To: 29 Jun 2004,Sudan,FY 2004,49,Moslem,20,302
+From: 29 Jun 2004,To: 29 Jun 2004,Sudan,FY 2004,49,Protestant,3,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ukraine,FY 2004,35,Baptist,13,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ukraine,FY 2004,35,Jewish,6,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ukraine,FY 2004,35,Pentecostalist,15,302
+From: 29 Jun 2004,To: 29 Jun 2004,Ukraine,FY 2004,35,Unknown,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Yemen,FY 2004,3,Moslem,3,302
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jun 2004,To: 29 Jun 2004,Ancestral Worship,FY 2004,34,Laos,34,302
+From: 29 Jun 2004,To: 29 Jun 2004,Bahai,FY 2004,15,Iran,15,302
+From: 29 Jun 2004,To: 29 Jun 2004,Baptist,FY 2004,13,Ukraine,13,302
+From: 29 Jun 2004,To: 29 Jun 2004,Catholic,FY 2004,24,Angola,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Catholic,FY 2004,24,Dem. Rep. Congo,2,302
+From: 29 Jun 2004,To: 29 Jun 2004,Catholic,FY 2004,24,Rwanda,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Catholic,FY 2004,24,Sudan,20,302
+From: 29 Jun 2004,To: 29 Jun 2004,Christian,FY 2004,20,Azerbaijan,2,302
+From: 29 Jun 2004,To: 29 Jun 2004,Christian,FY 2004,20,Ethiopia,12,302
+From: 29 Jun 2004,To: 29 Jun 2004,Christian,FY 2004,20,Sudan,6,302
+From: 29 Jun 2004,To: 29 Jun 2004,Jehovah Witness,FY 2004,2,Eritrea,2,302
+From: 29 Jun 2004,To: 29 Jun 2004,Jewish,FY 2004,19,Azerbaijan,5,302
+From: 29 Jun 2004,To: 29 Jun 2004,Jewish,FY 2004,19,Iran,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Jewish,FY 2004,19,Russia,7,302
+From: 29 Jun 2004,To: 29 Jun 2004,Jewish,FY 2004,19,Ukraine,6,302
+From: 29 Jun 2004,To: 29 Jun 2004,Moslem,FY 2004,137,Ethiopia,8,302
+From: 29 Jun 2004,To: 29 Jun 2004,Moslem,FY 2004,137,Somalia,106,302
+From: 29 Jun 2004,To: 29 Jun 2004,Moslem,FY 2004,137,Sudan,20,302
+From: 29 Jun 2004,To: 29 Jun 2004,Moslem,FY 2004,137,Yemen,3,302
+From: 29 Jun 2004,To: 29 Jun 2004,Moslem Suni,FY 2004,1,Ethiopia,1,302
+From: 29 Jun 2004,To: 29 Jun 2004,Pentecostalist,FY 2004,15,Ukraine,15,302
+From: 29 Jun 2004,To: 29 Jun 2004,Protestant,FY 2004,3,Sudan,3,302
+From: 29 Jun 2004,To: 29 Jun 2004,Seventh Day Adventist,FY 2004,6,Kazakhstan,6,302
+From: 29 Jun 2004,To: 29 Jun 2004,Unknown,FY 2004,13,Azerbaijan,12,302
+From: 29 Jun 2004,To: 29 Jun 2004,Unknown,FY 2004,13,Ukraine,1,302
+

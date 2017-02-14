@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Jun 2012,To: 20 Jun 2012,Afghanistan,FY 2012,6,Moslem,6,370
+From: 20 Jun 2012,To: 20 Jun 2012,Bhutan,FY 2012,101,Buddhist,30,370
+From: 20 Jun 2012,To: 20 Jun 2012,Bhutan,FY 2012,101,Christian,13,370
+From: 20 Jun 2012,To: 20 Jun 2012,Bhutan,FY 2012,101,Hindu,57,370
+From: 20 Jun 2012,To: 20 Jun 2012,Bhutan,FY 2012,101,Kirat,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Burma,FY 2012,79,Animist,7,370
+From: 20 Jun 2012,To: 20 Jun 2012,Burma,FY 2012,79,Buddhist,25,370
+From: 20 Jun 2012,To: 20 Jun 2012,Burma,FY 2012,79,Catholic,14,370
+From: 20 Jun 2012,To: 20 Jun 2012,Burma,FY 2012,79,Christian,23,370
+From: 20 Jun 2012,To: 20 Jun 2012,Burma,FY 2012,79,Moslem,10,370
+From: 20 Jun 2012,To: 20 Jun 2012,Dem. Rep. Congo,FY 2012,3,Pentecostalist,3,370
+From: 20 Jun 2012,To: 20 Jun 2012,Eritrea,FY 2012,20,Catholic,3,370
+From: 20 Jun 2012,To: 20 Jun 2012,Eritrea,FY 2012,20,Moslem,2,370
+From: 20 Jun 2012,To: 20 Jun 2012,Eritrea,FY 2012,20,Orthodox,14,370
+From: 20 Jun 2012,To: 20 Jun 2012,Eritrea,FY 2012,20,Pentecostalist,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iran,FY 2012,9,Christian,7,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iran,FY 2012,9,Jewish,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iran,FY 2012,9,Zoroastrian,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iraq,FY 2012,99,Catholic,12,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iraq,FY 2012,99,Christian,34,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iraq,FY 2012,99,Moslem,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iraq,FY 2012,99,Moslem Shiite,29,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iraq,FY 2012,99,Moslem Suni,21,370
+From: 20 Jun 2012,To: 20 Jun 2012,Iraq,FY 2012,99,Yazidi,2,370
+From: 20 Jun 2012,To: 20 Jun 2012,Rwanda,FY 2012,7,Catholic,7,370
+From: 20 Jun 2012,To: 20 Jun 2012,Senegal,FY 2012,3,Moslem,3,370
+From: 20 Jun 2012,To: 20 Jun 2012,Somalia,FY 2012,33,Moslem,33,370
+From: 20 Jun 2012,To: 20 Jun 2012,Sudan,FY 2012,10,Catholic,5,370
+From: 20 Jun 2012,To: 20 Jun 2012,Sudan,FY 2012,10,Moslem,5,370
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Jun 2012,To: 20 Jun 2012,Animist,FY 2012,7,Burma,7,370
+From: 20 Jun 2012,To: 20 Jun 2012,Buddhist,FY 2012,55,Bhutan,30,370
+From: 20 Jun 2012,To: 20 Jun 2012,Buddhist,FY 2012,55,Burma,25,370
+From: 20 Jun 2012,To: 20 Jun 2012,Catholic,FY 2012,41,Burma,14,370
+From: 20 Jun 2012,To: 20 Jun 2012,Catholic,FY 2012,41,Eritrea,3,370
+From: 20 Jun 2012,To: 20 Jun 2012,Catholic,FY 2012,41,Iraq,12,370
+From: 20 Jun 2012,To: 20 Jun 2012,Catholic,FY 2012,41,Rwanda,7,370
+From: 20 Jun 2012,To: 20 Jun 2012,Catholic,FY 2012,41,Sudan,5,370
+From: 20 Jun 2012,To: 20 Jun 2012,Christian,FY 2012,77,Bhutan,13,370
+From: 20 Jun 2012,To: 20 Jun 2012,Christian,FY 2012,77,Burma,23,370
+From: 20 Jun 2012,To: 20 Jun 2012,Christian,FY 2012,77,Iran,7,370
+From: 20 Jun 2012,To: 20 Jun 2012,Christian,FY 2012,77,Iraq,34,370
+From: 20 Jun 2012,To: 20 Jun 2012,Hindu,FY 2012,57,Bhutan,57,370
+From: 20 Jun 2012,To: 20 Jun 2012,Jewish,FY 2012,1,Iran,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Kirat,FY 2012,1,Bhutan,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Afghanistan,6,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Burma,10,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Eritrea,2,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Iraq,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Senegal,3,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Somalia,33,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem,FY 2012,60,Sudan,5,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem Shiite,FY 2012,29,Iraq,29,370
+From: 20 Jun 2012,To: 20 Jun 2012,Moslem Suni,FY 2012,21,Iraq,21,370
+From: 20 Jun 2012,To: 20 Jun 2012,Orthodox,FY 2012,14,Eritrea,14,370
+From: 20 Jun 2012,To: 20 Jun 2012,Pentecostalist,FY 2012,4,Dem. Rep. Congo,3,370
+From: 20 Jun 2012,To: 20 Jun 2012,Pentecostalist,FY 2012,4,Eritrea,1,370
+From: 20 Jun 2012,To: 20 Jun 2012,Yazidi,FY 2012,2,Iraq,2,370
+From: 20 Jun 2012,To: 20 Jun 2012,Zoroastrian,FY 2012,1,Iran,1,370
+

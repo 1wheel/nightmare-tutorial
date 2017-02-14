@@ -1,0 +1,87 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Dec 2016,To: 19 Dec 2016,Bhutan,FY 2017,82,Buddhist,35,497
+From: 19 Dec 2016,To: 19 Dec 2016,Bhutan,FY 2017,82,Christian,8,497
+From: 19 Dec 2016,To: 19 Dec 2016,Bhutan,FY 2017,82,Hindu,27,497
+From: 19 Dec 2016,To: 19 Dec 2016,Bhutan,FY 2017,82,Kirat,12,497
+From: 19 Dec 2016,To: 19 Dec 2016,Dem. Rep. Congo,FY 2017,56,Catholic,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Dem. Rep. Congo,FY 2017,56,Christian,10,497
+From: 19 Dec 2016,To: 19 Dec 2016,Dem. Rep. Congo,FY 2017,56,Methodist,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Dem. Rep. Congo,FY 2017,56,Moslem,10,497
+From: 19 Dec 2016,To: 19 Dec 2016,Dem. Rep. Congo,FY 2017,56,Pentecostalist,12,497
+From: 19 Dec 2016,To: 19 Dec 2016,Dem. Rep. Congo,FY 2017,56,Protestant,18,497
+From: 19 Dec 2016,To: 19 Dec 2016,Egypt,FY 2017,1,Orthodox,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,El Salvador,FY 2017,19,Catholic,18,497
+From: 19 Dec 2016,To: 19 Dec 2016,El Salvador,FY 2017,19,No Religion,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Eritrea,FY 2017,5,Orthodox,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Ethiopia,FY 2017,17,Christian,7,497
+From: 19 Dec 2016,To: 19 Dec 2016,Ethiopia,FY 2017,17,Moslem,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Ethiopia,FY 2017,17,Orthodox,3,497
+From: 19 Dec 2016,To: 19 Dec 2016,Ethiopia,FY 2017,17,Other Religion,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Ethiopia,FY 2017,17,Protestant,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iran,FY 2017,24,Bahai,6,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iran,FY 2017,24,Christian,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iran,FY 2017,24,No Religion,2,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iran,FY 2017,24,Protestant,11,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iraq,FY 2017,76,Catholic,2,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iraq,FY 2017,76,Christian,8,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iraq,FY 2017,76,Kaaka'i,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iraq,FY 2017,76,Moslem Shiite,21,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iraq,FY 2017,76,Moslem Suni,38,497
+From: 19 Dec 2016,To: 19 Dec 2016,Iraq,FY 2017,76,Orthodox,2,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moldova,FY 2017,4,Baptist,4,497
+From: 19 Dec 2016,To: 19 Dec 2016,Republic of South Sudan,FY 2017,5,Christian,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Somalia,FY 2017,97,Moslem,89,497
+From: 19 Dec 2016,To: 19 Dec 2016,Somalia,FY 2017,97,Moslem Suni,8,497
+From: 19 Dec 2016,To: 19 Dec 2016,Sudan,FY 2017,7,Moslem,4,497
+From: 19 Dec 2016,To: 19 Dec 2016,Sudan,FY 2017,7,Moslem Suni,3,497
+From: 19 Dec 2016,To: 19 Dec 2016,Syria,FY 2017,101,Christian,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Syria,FY 2017,101,Moslem,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Syria,FY 2017,101,Moslem Suni,90,497
+From: 19 Dec 2016,To: 19 Dec 2016,Syria,FY 2017,101,Orthodox,9,497
+From: 19 Dec 2016,To: 19 Dec 2016,Ukraine,FY 2017,3,Pentecostalist,3,497
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Dec 2016,To: 19 Dec 2016,Bahai,FY 2017,6,Iran,6,497
+From: 19 Dec 2016,To: 19 Dec 2016,Baptist,FY 2017,4,Moldova,4,497
+From: 19 Dec 2016,To: 19 Dec 2016,Buddhist,FY 2017,35,Bhutan,35,497
+From: 19 Dec 2016,To: 19 Dec 2016,Catholic,FY 2017,25,Dem. Rep. Congo,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Catholic,FY 2017,25,El Salvador,18,497
+From: 19 Dec 2016,To: 19 Dec 2016,Catholic,FY 2017,25,Iraq,2,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Bhutan,8,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Dem. Rep. Congo,10,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Ethiopia,7,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Iran,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Iraq,8,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Republic of South Sudan,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Christian,FY 2017,44,Syria,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Hindu,FY 2017,27,Bhutan,27,497
+From: 19 Dec 2016,To: 19 Dec 2016,Kaaka'i,FY 2017,5,Iraq,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Kirat,FY 2017,12,Bhutan,12,497
+From: 19 Dec 2016,To: 19 Dec 2016,Methodist,FY 2017,1,Dem. Rep. Congo,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem,FY 2017,109,Dem. Rep. Congo,10,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem,FY 2017,109,Ethiopia,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem,FY 2017,109,Somalia,89,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem,FY 2017,109,Sudan,4,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem,FY 2017,109,Syria,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem Shiite,FY 2017,21,Iraq,21,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem Suni,FY 2017,139,Iraq,38,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem Suni,FY 2017,139,Somalia,8,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem Suni,FY 2017,139,Sudan,3,497
+From: 19 Dec 2016,To: 19 Dec 2016,Moslem Suni,FY 2017,139,Syria,90,497
+From: 19 Dec 2016,To: 19 Dec 2016,No Religion,FY 2017,3,El Salvador,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,No Religion,FY 2017,3,Iran,2,497
+From: 19 Dec 2016,To: 19 Dec 2016,Orthodox,FY 2017,20,Egypt,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Orthodox,FY 2017,20,Eritrea,5,497
+From: 19 Dec 2016,To: 19 Dec 2016,Orthodox,FY 2017,20,Ethiopia,3,497
+From: 19 Dec 2016,To: 19 Dec 2016,Orthodox,FY 2017,20,Iraq,2,497
+From: 19 Dec 2016,To: 19 Dec 2016,Orthodox,FY 2017,20,Syria,9,497
+From: 19 Dec 2016,To: 19 Dec 2016,Other Religion,FY 2017,1,Ethiopia,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Pentecostalist,FY 2017,15,Dem. Rep. Congo,12,497
+From: 19 Dec 2016,To: 19 Dec 2016,Pentecostalist,FY 2017,15,Ukraine,3,497
+From: 19 Dec 2016,To: 19 Dec 2016,Protestant,FY 2017,30,Dem. Rep. Congo,18,497
+From: 19 Dec 2016,To: 19 Dec 2016,Protestant,FY 2017,30,Ethiopia,1,497
+From: 19 Dec 2016,To: 19 Dec 2016,Protestant,FY 2017,30,Iran,11,497
+

@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jun 2004,To: 16 Jun 2004,Bosnia and Herzegovina,FY 2004,21,No Religion,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,Bosnia and Herzegovina,FY 2004,21,Orthodox,18,298
+From: 16 Jun 2004,To: 16 Jun 2004,Croatia,FY 2004,4,Orthodox,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Cuba,FY 2004,35,Baptist,2,298
+From: 16 Jun 2004,To: 16 Jun 2004,Cuba,FY 2004,35,Catholic,6,298
+From: 16 Jun 2004,To: 16 Jun 2004,Cuba,FY 2004,35,Christian,2,298
+From: 16 Jun 2004,To: 16 Jun 2004,Cuba,FY 2004,35,Jehovah Witness,13,298
+From: 16 Jun 2004,To: 16 Jun 2004,Cuba,FY 2004,35,No Religion,12,298
+From: 16 Jun 2004,To: 16 Jun 2004,Iran,FY 2004,35,Bahai,31,298
+From: 16 Jun 2004,To: 16 Jun 2004,Iran,FY 2004,35,Protestant,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Laos,FY 2004,25,Ancestral Worship,25,298
+From: 16 Jun 2004,To: 16 Jun 2004,Liberia,FY 2004,28,Christian,21,298
+From: 16 Jun 2004,To: 16 Jun 2004,Liberia,FY 2004,28,Methodist,2,298
+From: 16 Jun 2004,To: 16 Jun 2004,Liberia,FY 2004,28,Moslem,5,298
+From: 16 Jun 2004,To: 16 Jun 2004,Serbia,FY 2004,3,Orthodox,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,Somalia,FY 2004,87,Moslem,87,298
+From: 16 Jun 2004,To: 16 Jun 2004,Sudan,FY 2004,20,Catholic,12,298
+From: 16 Jun 2004,To: 16 Jun 2004,Sudan,FY 2004,20,Christian,1,298
+From: 16 Jun 2004,To: 16 Jun 2004,Sudan,FY 2004,20,Moslem,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,Sudan,FY 2004,20,Protestant,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Ukraine,FY 2004,8,Baptist,5,298
+From: 16 Jun 2004,To: 16 Jun 2004,Ukraine,FY 2004,8,Jewish,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,Vietnam,FY 2004,32,Buddhist,21,298
+From: 16 Jun 2004,To: 16 Jun 2004,Vietnam,FY 2004,32,Cao Dai,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Vietnam,FY 2004,32,Catholic,5,298
+From: 16 Jun 2004,To: 16 Jun 2004,Vietnam,FY 2004,32,No Religion,1,298
+From: 16 Jun 2004,To: 16 Jun 2004,Vietnam,FY 2004,32,Protestant,1,298
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jun 2004,To: 16 Jun 2004,Ancestral Worship,FY 2004,25,Laos,25,298
+From: 16 Jun 2004,To: 16 Jun 2004,Bahai,FY 2004,31,Iran,31,298
+From: 16 Jun 2004,To: 16 Jun 2004,Baptist,FY 2004,7,Cuba,2,298
+From: 16 Jun 2004,To: 16 Jun 2004,Baptist,FY 2004,7,Ukraine,5,298
+From: 16 Jun 2004,To: 16 Jun 2004,Buddhist,FY 2004,21,Vietnam,21,298
+From: 16 Jun 2004,To: 16 Jun 2004,Cao Dai,FY 2004,4,Vietnam,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Catholic,FY 2004,23,Cuba,6,298
+From: 16 Jun 2004,To: 16 Jun 2004,Catholic,FY 2004,23,Sudan,12,298
+From: 16 Jun 2004,To: 16 Jun 2004,Catholic,FY 2004,23,Vietnam,5,298
+From: 16 Jun 2004,To: 16 Jun 2004,Christian,FY 2004,24,Cuba,2,298
+From: 16 Jun 2004,To: 16 Jun 2004,Christian,FY 2004,24,Liberia,21,298
+From: 16 Jun 2004,To: 16 Jun 2004,Christian,FY 2004,24,Sudan,1,298
+From: 16 Jun 2004,To: 16 Jun 2004,Jehovah Witness,FY 2004,13,Cuba,13,298
+From: 16 Jun 2004,To: 16 Jun 2004,Jewish,FY 2004,3,Ukraine,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,Methodist,FY 2004,2,Liberia,2,298
+From: 16 Jun 2004,To: 16 Jun 2004,Moslem,FY 2004,95,Liberia,5,298
+From: 16 Jun 2004,To: 16 Jun 2004,Moslem,FY 2004,95,Somalia,87,298
+From: 16 Jun 2004,To: 16 Jun 2004,Moslem,FY 2004,95,Sudan,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,No Religion,FY 2004,16,Bosnia and Herzegovina,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,No Religion,FY 2004,16,Cuba,12,298
+From: 16 Jun 2004,To: 16 Jun 2004,No Religion,FY 2004,16,Vietnam,1,298
+From: 16 Jun 2004,To: 16 Jun 2004,Orthodox,FY 2004,25,Bosnia and Herzegovina,18,298
+From: 16 Jun 2004,To: 16 Jun 2004,Orthodox,FY 2004,25,Croatia,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Orthodox,FY 2004,25,Serbia,3,298
+From: 16 Jun 2004,To: 16 Jun 2004,Protestant,FY 2004,9,Iran,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Protestant,FY 2004,9,Sudan,4,298
+From: 16 Jun 2004,To: 16 Jun 2004,Protestant,FY 2004,9,Vietnam,1,298
+

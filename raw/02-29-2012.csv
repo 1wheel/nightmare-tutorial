@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Feb 2012,To: 29 Feb 2012,Bhutan,FY 2012,67,Buddhist,22,320
+From: 29 Feb 2012,To: 29 Feb 2012,Bhutan,FY 2012,67,Christian,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Bhutan,FY 2012,67,Hindu,37,320
+From: 29 Feb 2012,To: 29 Feb 2012,Bhutan,FY 2012,67,Kirat,5,320
+From: 29 Feb 2012,To: 29 Feb 2012,Burma,FY 2012,75,Baptist,7,320
+From: 29 Feb 2012,To: 29 Feb 2012,Burma,FY 2012,75,Buddhist,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Burma,FY 2012,75,Catholic,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Burma,FY 2012,75,Christian,61,320
+From: 29 Feb 2012,To: 29 Feb 2012,Burma,FY 2012,75,Moslem,2,320
+From: 29 Feb 2012,To: 29 Feb 2012,Cuba,FY 2012,27,Catholic,10,320
+From: 29 Feb 2012,To: 29 Feb 2012,Cuba,FY 2012,27,Jehovah Witness,7,320
+From: 29 Feb 2012,To: 29 Feb 2012,Cuba,FY 2012,27,Methodist,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Cuba,FY 2012,27,No Religion,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Cuba,FY 2012,27,Pentecostalist,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Eritrea,FY 2012,42,Catholic,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Eritrea,FY 2012,42,Christian,2,320
+From: 29 Feb 2012,To: 29 Feb 2012,Eritrea,FY 2012,42,Jehovah Witness,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Eritrea,FY 2012,42,Orthodox,29,320
+From: 29 Feb 2012,To: 29 Feb 2012,Eritrea,FY 2012,42,Pentecostalist,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Eritrea,FY 2012,42,Protestant,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iran,FY 2012,15,Atheist,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iran,FY 2012,15,Bahai,8,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iran,FY 2012,15,Catholic,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iran,FY 2012,15,Christian,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iran,FY 2012,15,Moslem,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iraq,FY 2012,54,Catholic,12,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iraq,FY 2012,54,Christian,18,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iraq,FY 2012,54,Moslem,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iraq,FY 2012,54,Moslem Shiite,6,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iraq,FY 2012,54,Moslem Suni,14,320
+From: 29 Feb 2012,To: 29 Feb 2012,Iraq,FY 2012,54,Orthodox,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moldova,FY 2012,17,Baptist,15,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moldova,FY 2012,17,Seventh Day Adventist,2,320
+From: 29 Feb 2012,To: 29 Feb 2012,Somalia,FY 2012,23,Moslem,23,320
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Feb 2012,To: 29 Feb 2012,Atheist,FY 2012,1,Iran,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Bahai,FY 2012,8,Iran,8,320
+From: 29 Feb 2012,To: 29 Feb 2012,Baptist,FY 2012,22,Burma,7,320
+From: 29 Feb 2012,To: 29 Feb 2012,Baptist,FY 2012,22,Moldova,15,320
+From: 29 Feb 2012,To: 29 Feb 2012,Buddhist,FY 2012,23,Bhutan,22,320
+From: 29 Feb 2012,To: 29 Feb 2012,Buddhist,FY 2012,23,Burma,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Catholic,FY 2012,31,Burma,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Catholic,FY 2012,31,Cuba,10,320
+From: 29 Feb 2012,To: 29 Feb 2012,Catholic,FY 2012,31,Eritrea,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Catholic,FY 2012,31,Iran,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Catholic,FY 2012,31,Iraq,12,320
+From: 29 Feb 2012,To: 29 Feb 2012,Christian,FY 2012,88,Bhutan,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Christian,FY 2012,88,Burma,61,320
+From: 29 Feb 2012,To: 29 Feb 2012,Christian,FY 2012,88,Eritrea,2,320
+From: 29 Feb 2012,To: 29 Feb 2012,Christian,FY 2012,88,Iran,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Christian,FY 2012,88,Iraq,18,320
+From: 29 Feb 2012,To: 29 Feb 2012,Hindu,FY 2012,37,Bhutan,37,320
+From: 29 Feb 2012,To: 29 Feb 2012,Jehovah Witness,FY 2012,8,Cuba,7,320
+From: 29 Feb 2012,To: 29 Feb 2012,Jehovah Witness,FY 2012,8,Eritrea,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Kirat,FY 2012,5,Bhutan,5,320
+From: 29 Feb 2012,To: 29 Feb 2012,Methodist,FY 2012,3,Cuba,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moslem,FY 2012,27,Burma,2,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moslem,FY 2012,27,Iran,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moslem,FY 2012,27,Iraq,1,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moslem,FY 2012,27,Somalia,23,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moslem Shiite,FY 2012,6,Iraq,6,320
+From: 29 Feb 2012,To: 29 Feb 2012,Moslem Suni,FY 2012,14,Iraq,14,320
+From: 29 Feb 2012,To: 29 Feb 2012,No Religion,FY 2012,3,Cuba,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Orthodox,FY 2012,32,Eritrea,29,320
+From: 29 Feb 2012,To: 29 Feb 2012,Orthodox,FY 2012,32,Iraq,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Pentecostalist,FY 2012,7,Cuba,4,320
+From: 29 Feb 2012,To: 29 Feb 2012,Pentecostalist,FY 2012,7,Eritrea,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Protestant,FY 2012,3,Eritrea,3,320
+From: 29 Feb 2012,To: 29 Feb 2012,Seventh Day Adventist,FY 2012,2,Moldova,2,320
+

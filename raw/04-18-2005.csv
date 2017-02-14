@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Apr 2005,To: 18 Apr 2005,Afghanistan,FY 2005,43,Moslem Shiite,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Afghanistan,FY 2005,43,Moslem Suni,41,184
+From: 18 Apr 2005,To: 18 Apr 2005,Afghanistan,FY 2005,43,Protestant,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Azerbaijan,FY 2005,2,Christian,2,184
+From: 18 Apr 2005,To: 18 Apr 2005,Belarus,FY 2005,24,Jewish,3,184
+From: 18 Apr 2005,To: 18 Apr 2005,Belarus,FY 2005,24,No Religion,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Belarus,FY 2005,24,Pentecostalist,20,184
+From: 18 Apr 2005,To: 18 Apr 2005,Ethiopia,FY 2005,12,Moslem,12,184
+From: 18 Apr 2005,To: 18 Apr 2005,Israel,FY 2005,1,Jewish,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Liberia,FY 2005,4,Christian,4,184
+From: 18 Apr 2005,To: 18 Apr 2005,Russia,FY 2005,48,Baptist,5,184
+From: 18 Apr 2005,To: 18 Apr 2005,Russia,FY 2005,48,Jewish,4,184
+From: 18 Apr 2005,To: 18 Apr 2005,Russia,FY 2005,48,Moslem,35,184
+From: 18 Apr 2005,To: 18 Apr 2005,Russia,FY 2005,48,Pentecostalist,4,184
+From: 18 Apr 2005,To: 18 Apr 2005,Somalia,FY 2005,16,Moslem,16,184
+From: 18 Apr 2005,To: 18 Apr 2005,Sudan,FY 2005,34,Catholic,27,184
+From: 18 Apr 2005,To: 18 Apr 2005,Sudan,FY 2005,34,Moslem,3,184
+From: 18 Apr 2005,To: 18 Apr 2005,Sudan,FY 2005,34,Protestant,4,184
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Apr 2005,To: 18 Apr 2005,Baptist,FY 2005,5,Russia,5,184
+From: 18 Apr 2005,To: 18 Apr 2005,Catholic,FY 2005,27,Sudan,27,184
+From: 18 Apr 2005,To: 18 Apr 2005,Christian,FY 2005,6,Azerbaijan,2,184
+From: 18 Apr 2005,To: 18 Apr 2005,Christian,FY 2005,6,Liberia,4,184
+From: 18 Apr 2005,To: 18 Apr 2005,Jewish,FY 2005,8,Belarus,3,184
+From: 18 Apr 2005,To: 18 Apr 2005,Jewish,FY 2005,8,Israel,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Jewish,FY 2005,8,Russia,4,184
+From: 18 Apr 2005,To: 18 Apr 2005,Moslem,FY 2005,66,Ethiopia,12,184
+From: 18 Apr 2005,To: 18 Apr 2005,Moslem,FY 2005,66,Russia,35,184
+From: 18 Apr 2005,To: 18 Apr 2005,Moslem,FY 2005,66,Somalia,16,184
+From: 18 Apr 2005,To: 18 Apr 2005,Moslem,FY 2005,66,Sudan,3,184
+From: 18 Apr 2005,To: 18 Apr 2005,Moslem Shiite,FY 2005,1,Afghanistan,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Moslem Suni,FY 2005,41,Afghanistan,41,184
+From: 18 Apr 2005,To: 18 Apr 2005,No Religion,FY 2005,1,Belarus,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Pentecostalist,FY 2005,24,Belarus,20,184
+From: 18 Apr 2005,To: 18 Apr 2005,Pentecostalist,FY 2005,24,Russia,4,184
+From: 18 Apr 2005,To: 18 Apr 2005,Protestant,FY 2005,5,Afghanistan,1,184
+From: 18 Apr 2005,To: 18 Apr 2005,Protestant,FY 2005,5,Sudan,4,184
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Dec 2004,To: 03 Dec 2004,Afghanistan,FY 2005,13,Moslem,1,60
+From: 03 Dec 2004,To: 03 Dec 2004,Afghanistan,FY 2005,13,Moslem Suni,12,60
+From: 03 Dec 2004,To: 03 Dec 2004,Azerbaijan,FY 2005,4,Christian,3,60
+From: 03 Dec 2004,To: 03 Dec 2004,Azerbaijan,FY 2005,4,Unknown,1,60
+From: 03 Dec 2004,To: 03 Dec 2004,Laos,FY 2005,2,Ancestral Worship,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Russia,FY 2005,11,Baptist,4,60
+From: 03 Dec 2004,To: 03 Dec 2004,Russia,FY 2005,11,Jewish,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Russia,FY 2005,11,No Religion,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Russia,FY 2005,11,Pentecostalist,3,60
+From: 03 Dec 2004,To: 03 Dec 2004,Ukraine,FY 2005,30,Baptist,5,60
+From: 03 Dec 2004,To: 03 Dec 2004,Ukraine,FY 2005,30,Jewish,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,23,60
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Dec 2004,To: 03 Dec 2004,Ancestral Worship,FY 2005,2,Laos,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Baptist,FY 2005,9,Russia,4,60
+From: 03 Dec 2004,To: 03 Dec 2004,Baptist,FY 2005,9,Ukraine,5,60
+From: 03 Dec 2004,To: 03 Dec 2004,Christian,FY 2005,3,Azerbaijan,3,60
+From: 03 Dec 2004,To: 03 Dec 2004,Jewish,FY 2005,4,Russia,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Jewish,FY 2005,4,Ukraine,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Moslem,FY 2005,1,Afghanistan,1,60
+From: 03 Dec 2004,To: 03 Dec 2004,Moslem Suni,FY 2005,12,Afghanistan,12,60
+From: 03 Dec 2004,To: 03 Dec 2004,No Religion,FY 2005,2,Russia,2,60
+From: 03 Dec 2004,To: 03 Dec 2004,Pentecostalist,FY 2005,26,Russia,3,60
+From: 03 Dec 2004,To: 03 Dec 2004,Pentecostalist,FY 2005,26,Ukraine,23,60
+From: 03 Dec 2004,To: 03 Dec 2004,Unknown,FY 2005,1,Azerbaijan,1,60
+

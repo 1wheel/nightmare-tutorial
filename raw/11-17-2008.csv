@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Nov 2008,To: 17 Nov 2008,Bhutan,FY 2009,104,Buddhist,2,213
+From: 17 Nov 2008,To: 17 Nov 2008,Bhutan,FY 2009,104,Christian,18,213
+From: 17 Nov 2008,To: 17 Nov 2008,Bhutan,FY 2009,104,Hindu,84,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iran,FY 2009,14,Christian,5,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iran,FY 2009,14,Jewish,5,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iran,FY 2009,14,Zoroastrian,4,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iraq,FY 2009,64,Catholic,9,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iraq,FY 2009,64,Christian,14,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iraq,FY 2009,64,Moslem Shiite,19,213
+From: 17 Nov 2008,To: 17 Nov 2008,Iraq,FY 2009,64,Moslem Suni,22,213
+From: 17 Nov 2008,To: 17 Nov 2008,Russia,FY 2009,31,Baptist,5,213
+From: 17 Nov 2008,To: 17 Nov 2008,Russia,FY 2009,31,Christian,2,213
+From: 17 Nov 2008,To: 17 Nov 2008,Russia,FY 2009,31,Jehovah Witness,7,213
+From: 17 Nov 2008,To: 17 Nov 2008,Russia,FY 2009,31,Jewish,9,213
+From: 17 Nov 2008,To: 17 Nov 2008,Russia,FY 2009,31,Moslem,7,213
+From: 17 Nov 2008,To: 17 Nov 2008,Russia,FY 2009,31,No Religion,1,213
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Nov 2008,To: 17 Nov 2008,Baptist,FY 2009,5,Russia,5,213
+From: 17 Nov 2008,To: 17 Nov 2008,Buddhist,FY 2009,2,Bhutan,2,213
+From: 17 Nov 2008,To: 17 Nov 2008,Catholic,FY 2009,9,Iraq,9,213
+From: 17 Nov 2008,To: 17 Nov 2008,Christian,FY 2009,39,Bhutan,18,213
+From: 17 Nov 2008,To: 17 Nov 2008,Christian,FY 2009,39,Iran,5,213
+From: 17 Nov 2008,To: 17 Nov 2008,Christian,FY 2009,39,Iraq,14,213
+From: 17 Nov 2008,To: 17 Nov 2008,Christian,FY 2009,39,Russia,2,213
+From: 17 Nov 2008,To: 17 Nov 2008,Hindu,FY 2009,84,Bhutan,84,213
+From: 17 Nov 2008,To: 17 Nov 2008,Jehovah Witness,FY 2009,7,Russia,7,213
+From: 17 Nov 2008,To: 17 Nov 2008,Jewish,FY 2009,14,Iran,5,213
+From: 17 Nov 2008,To: 17 Nov 2008,Jewish,FY 2009,14,Russia,9,213
+From: 17 Nov 2008,To: 17 Nov 2008,Moslem,FY 2009,7,Russia,7,213
+From: 17 Nov 2008,To: 17 Nov 2008,Moslem Shiite,FY 2009,19,Iraq,19,213
+From: 17 Nov 2008,To: 17 Nov 2008,Moslem Suni,FY 2009,22,Iraq,22,213
+From: 17 Nov 2008,To: 17 Nov 2008,No Religion,FY 2009,1,Russia,1,213
+From: 17 Nov 2008,To: 17 Nov 2008,Zoroastrian,FY 2009,4,Iran,4,213
+

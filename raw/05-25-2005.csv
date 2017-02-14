@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 May 2005,To: 25 May 2005,Afghanistan,FY 2005,1,Moslem,1,299
+From: 25 May 2005,To: 25 May 2005,Dem. Rep. Congo,FY 2005,11,Catholic,2,299
+From: 25 May 2005,To: 25 May 2005,Dem. Rep. Congo,FY 2005,11,Christian,9,299
+From: 25 May 2005,To: 25 May 2005,Iran,FY 2005,24,Bahai,5,299
+From: 25 May 2005,To: 25 May 2005,Iran,FY 2005,24,Christian,8,299
+From: 25 May 2005,To: 25 May 2005,Iran,FY 2005,24,Jewish,5,299
+From: 25 May 2005,To: 25 May 2005,Iran,FY 2005,24,Sabeans-Mandean,1,299
+From: 25 May 2005,To: 25 May 2005,Iran,FY 2005,24,Zoroastrian,5,299
+From: 25 May 2005,To: 25 May 2005,Iraq,FY 2005,15,Christian,1,299
+From: 25 May 2005,To: 25 May 2005,Iraq,FY 2005,15,Moslem,14,299
+From: 25 May 2005,To: 25 May 2005,Kazakhstan,FY 2005,6,Baptist,6,299
+From: 25 May 2005,To: 25 May 2005,Laos,FY 2005,118,Ancestral Worship,118,299
+From: 25 May 2005,To: 25 May 2005,Latvia,FY 2005,4,Jewish,4,299
+From: 25 May 2005,To: 25 May 2005,Liberia,FY 2005,19,Baptist,5,299
+From: 25 May 2005,To: 25 May 2005,Liberia,FY 2005,19,Christian,11,299
+From: 25 May 2005,To: 25 May 2005,Liberia,FY 2005,19,Moslem,3,299
+From: 25 May 2005,To: 25 May 2005,Russia,FY 2005,37,Jewish,2,299
+From: 25 May 2005,To: 25 May 2005,Russia,FY 2005,37,Moslem,35,299
+From: 25 May 2005,To: 25 May 2005,Somalia,FY 2005,16,Moslem,16,299
+From: 25 May 2005,To: 25 May 2005,Sudan,FY 2005,4,Moslem,4,299
+From: 25 May 2005,To: 25 May 2005,Ukraine,FY 2005,14,Jewish,4,299
+From: 25 May 2005,To: 25 May 2005,Ukraine,FY 2005,14,Pentecostalist,4,299
+From: 25 May 2005,To: 25 May 2005,Ukraine,FY 2005,14,Seventh Day Adventist,2,299
+From: 25 May 2005,To: 25 May 2005,Ukraine,FY 2005,14,Uniate,4,299
+From: 25 May 2005,To: 25 May 2005,Vietnam,FY 2005,30,Buddhist,17,299
+From: 25 May 2005,To: 25 May 2005,Vietnam,FY 2005,30,Catholic,1,299
+From: 25 May 2005,To: 25 May 2005,Vietnam,FY 2005,30,No Religion,10,299
+From: 25 May 2005,To: 25 May 2005,Vietnam,FY 2005,30,Unknown,2,299
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 May 2005,To: 25 May 2005,Ancestral Worship,FY 2005,118,Laos,118,299
+From: 25 May 2005,To: 25 May 2005,Bahai,FY 2005,5,Iran,5,299
+From: 25 May 2005,To: 25 May 2005,Baptist,FY 2005,11,Kazakhstan,6,299
+From: 25 May 2005,To: 25 May 2005,Baptist,FY 2005,11,Liberia,5,299
+From: 25 May 2005,To: 25 May 2005,Buddhist,FY 2005,17,Vietnam,17,299
+From: 25 May 2005,To: 25 May 2005,Catholic,FY 2005,3,Dem. Rep. Congo,2,299
+From: 25 May 2005,To: 25 May 2005,Catholic,FY 2005,3,Vietnam,1,299
+From: 25 May 2005,To: 25 May 2005,Christian,FY 2005,29,Dem. Rep. Congo,9,299
+From: 25 May 2005,To: 25 May 2005,Christian,FY 2005,29,Iran,8,299
+From: 25 May 2005,To: 25 May 2005,Christian,FY 2005,29,Iraq,1,299
+From: 25 May 2005,To: 25 May 2005,Christian,FY 2005,29,Liberia,11,299
+From: 25 May 2005,To: 25 May 2005,Jewish,FY 2005,15,Iran,5,299
+From: 25 May 2005,To: 25 May 2005,Jewish,FY 2005,15,Latvia,4,299
+From: 25 May 2005,To: 25 May 2005,Jewish,FY 2005,15,Russia,2,299
+From: 25 May 2005,To: 25 May 2005,Jewish,FY 2005,15,Ukraine,4,299
+From: 25 May 2005,To: 25 May 2005,Moslem,FY 2005,73,Afghanistan,1,299
+From: 25 May 2005,To: 25 May 2005,Moslem,FY 2005,73,Iraq,14,299
+From: 25 May 2005,To: 25 May 2005,Moslem,FY 2005,73,Liberia,3,299
+From: 25 May 2005,To: 25 May 2005,Moslem,FY 2005,73,Russia,35,299
+From: 25 May 2005,To: 25 May 2005,Moslem,FY 2005,73,Somalia,16,299
+From: 25 May 2005,To: 25 May 2005,Moslem,FY 2005,73,Sudan,4,299
+From: 25 May 2005,To: 25 May 2005,No Religion,FY 2005,10,Vietnam,10,299
+From: 25 May 2005,To: 25 May 2005,Pentecostalist,FY 2005,4,Ukraine,4,299
+From: 25 May 2005,To: 25 May 2005,Sabeans-Mandean,FY 2005,1,Iran,1,299
+From: 25 May 2005,To: 25 May 2005,Seventh Day Adventist,FY 2005,2,Ukraine,2,299
+From: 25 May 2005,To: 25 May 2005,Uniate,FY 2005,4,Ukraine,4,299
+From: 25 May 2005,To: 25 May 2005,Unknown,FY 2005,2,Vietnam,2,299
+From: 25 May 2005,To: 25 May 2005,Zoroastrian,FY 2005,5,Iran,5,299
+

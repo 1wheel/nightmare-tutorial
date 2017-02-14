@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Feb 2004,To: 24 Feb 2004,Afghanistan,FY 2004,1,Unknown,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Belarus,FY 2004,10,Baptist,5,434
+From: 24 Feb 2004,To: 24 Feb 2004,Belarus,FY 2004,10,Pentecostalist,5,434
+From: 24 Feb 2004,To: 24 Feb 2004,Congo,FY 2004,3,Catholic,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Congo,FY 2004,3,Christian,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Congo,FY 2004,3,Protestant,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Dem. Rep. Congo,FY 2004,4,Seventh Day Adventist,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Eritrea,FY 2004,2,Christian,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Ethiopia,FY 2004,11,Christian,3,434
+From: 24 Feb 2004,To: 24 Feb 2004,Ethiopia,FY 2004,11,Moslem,8,434
+From: 24 Feb 2004,To: 24 Feb 2004,Georgia,FY 2004,2,Jewish,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Baptist,11,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Catholic,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Christian,29,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Lutheran,6,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Moslem,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,No Religion,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Other Religion,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Pentecostalist,9,434
+From: 24 Feb 2004,To: 24 Feb 2004,Liberia,FY 2004,66,Protestant,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Nigeria,FY 2004,2,Christian,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Russia,FY 2004,29,Baptist,6,434
+From: 24 Feb 2004,To: 24 Feb 2004,Russia,FY 2004,29,No Religion,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Russia,FY 2004,29,Pentecostalist,17,434
+From: 24 Feb 2004,To: 24 Feb 2004,Russia,FY 2004,29,Unknown,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Somalia,FY 2004,287,Moslem,287,434
+From: 24 Feb 2004,To: 24 Feb 2004,Sudan,FY 2004,17,Catholic,8,434
+From: 24 Feb 2004,To: 24 Feb 2004,Sudan,FY 2004,17,Christian,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Sudan,FY 2004,17,Moslem,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Sudan,FY 2004,17,Protestant,3,434
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Feb 2004,To: 24 Feb 2004,Baptist,FY 2004,22,Belarus,5,434
+From: 24 Feb 2004,To: 24 Feb 2004,Baptist,FY 2004,22,Liberia,11,434
+From: 24 Feb 2004,To: 24 Feb 2004,Baptist,FY 2004,22,Russia,6,434
+From: 24 Feb 2004,To: 24 Feb 2004,Catholic,FY 2004,13,Congo,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Catholic,FY 2004,13,Liberia,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Catholic,FY 2004,13,Sudan,8,434
+From: 24 Feb 2004,To: 24 Feb 2004,Christian,FY 2004,39,Congo,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Christian,FY 2004,39,Eritrea,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Christian,FY 2004,39,Ethiopia,3,434
+From: 24 Feb 2004,To: 24 Feb 2004,Christian,FY 2004,39,Liberia,29,434
+From: 24 Feb 2004,To: 24 Feb 2004,Christian,FY 2004,39,Nigeria,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Christian,FY 2004,39,Sudan,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Jewish,FY 2004,2,Georgia,2,434
+From: 24 Feb 2004,To: 24 Feb 2004,Lutheran,FY 2004,6,Liberia,6,434
+From: 24 Feb 2004,To: 24 Feb 2004,Moslem,FY 2004,300,Ethiopia,8,434
+From: 24 Feb 2004,To: 24 Feb 2004,Moslem,FY 2004,300,Liberia,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Moslem,FY 2004,300,Somalia,287,434
+From: 24 Feb 2004,To: 24 Feb 2004,Moslem,FY 2004,300,Sudan,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,No Religion,FY 2004,8,Liberia,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,No Religion,FY 2004,8,Russia,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Other Religion,FY 2004,1,Liberia,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Pentecostalist,FY 2004,31,Belarus,5,434
+From: 24 Feb 2004,To: 24 Feb 2004,Pentecostalist,FY 2004,31,Liberia,9,434
+From: 24 Feb 2004,To: 24 Feb 2004,Pentecostalist,FY 2004,31,Russia,17,434
+From: 24 Feb 2004,To: 24 Feb 2004,Protestant,FY 2004,5,Congo,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Protestant,FY 2004,5,Liberia,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Protestant,FY 2004,5,Sudan,3,434
+From: 24 Feb 2004,To: 24 Feb 2004,Seventh Day Adventist,FY 2004,4,Dem. Rep. Congo,4,434
+From: 24 Feb 2004,To: 24 Feb 2004,Unknown,FY 2004,3,Afghanistan,1,434
+From: 24 Feb 2004,To: 24 Feb 2004,Unknown,FY 2004,3,Russia,2,434
+

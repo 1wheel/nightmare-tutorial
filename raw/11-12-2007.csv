@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Nov 2007,To: 12 Nov 2007,Afghanistan,FY 2008,10,Moslem Ismaici,3,100
+From: 12 Nov 2007,To: 12 Nov 2007,Afghanistan,FY 2008,10,Moslem Suni,7,100
+From: 12 Nov 2007,To: 12 Nov 2007,Eritrea,FY 2008,4,Moslem,4,100
+From: 12 Nov 2007,To: 12 Nov 2007,Iran,FY 2008,35,Christian,34,100
+From: 12 Nov 2007,To: 12 Nov 2007,Iran,FY 2008,35,Zoroastrian,1,100
+From: 12 Nov 2007,To: 12 Nov 2007,Iraq,FY 2008,24,Moslem Shiite,8,100
+From: 12 Nov 2007,To: 12 Nov 2007,Iraq,FY 2008,24,Moslem Suni,16,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moldova,FY 2008,20,Baptist,10,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moldova,FY 2008,20,Pentecostalist,10,100
+From: 12 Nov 2007,To: 12 Nov 2007,Uzbekistan,FY 2008,7,Jewish,7,100
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Nov 2007,To: 12 Nov 2007,Baptist,FY 2008,10,Moldova,10,100
+From: 12 Nov 2007,To: 12 Nov 2007,Christian,FY 2008,34,Iran,34,100
+From: 12 Nov 2007,To: 12 Nov 2007,Jewish,FY 2008,7,Uzbekistan,7,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moslem,FY 2008,4,Eritrea,4,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moslem Ismaici,FY 2008,3,Afghanistan,3,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moslem Shiite,FY 2008,8,Iraq,8,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moslem Suni,FY 2008,23,Afghanistan,7,100
+From: 12 Nov 2007,To: 12 Nov 2007,Moslem Suni,FY 2008,23,Iraq,16,100
+From: 12 Nov 2007,To: 12 Nov 2007,Pentecostalist,FY 2008,10,Moldova,10,100
+From: 12 Nov 2007,To: 12 Nov 2007,Zoroastrian,FY 2008,1,Iran,1,100
+

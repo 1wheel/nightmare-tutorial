@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Feb 2012,To: 23 Feb 2012,Bhutan,FY 2012,80,Buddhist,19,226
+From: 23 Feb 2012,To: 23 Feb 2012,Bhutan,FY 2012,80,Christian,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Bhutan,FY 2012,80,Hindu,48,226
+From: 23 Feb 2012,To: 23 Feb 2012,Bhutan,FY 2012,80,Kirat,8,226
+From: 23 Feb 2012,To: 23 Feb 2012,Burma,FY 2012,79,Baptist,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Burma,FY 2012,79,Buddhist,10,226
+From: 23 Feb 2012,To: 23 Feb 2012,Burma,FY 2012,79,Christian,59,226
+From: 23 Feb 2012,To: 23 Feb 2012,Burma,FY 2012,79,Moslem,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Colombia,FY 2012,5,Christian,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Cuba,FY 2012,35,Evangelical Christian,3,226
+From: 23 Feb 2012,To: 23 Feb 2012,Cuba,FY 2012,35,Jehovah Witness,16,226
+From: 23 Feb 2012,To: 23 Feb 2012,Cuba,FY 2012,35,No Religion,16,226
+From: 23 Feb 2012,To: 23 Feb 2012,Dem. Rep. Congo,FY 2012,2,Christian,2,226
+From: 23 Feb 2012,To: 23 Feb 2012,Eritrea,FY 2012,4,Catholic,1,226
+From: 23 Feb 2012,To: 23 Feb 2012,Eritrea,FY 2012,4,Moslem Suni,1,226
+From: 23 Feb 2012,To: 23 Feb 2012,Eritrea,FY 2012,4,Orthodox,2,226
+From: 23 Feb 2012,To: 23 Feb 2012,Iran,FY 2012,5,No Religion,1,226
+From: 23 Feb 2012,To: 23 Feb 2012,Iran,FY 2012,5,Sabeans-Mandean,4,226
+From: 23 Feb 2012,To: 23 Feb 2012,Pakistan,FY 2012,2,Ahmadiyya,2,226
+From: 23 Feb 2012,To: 23 Feb 2012,Somalia,FY 2012,8,Moslem,4,226
+From: 23 Feb 2012,To: 23 Feb 2012,Somalia,FY 2012,8,Moslem Suni,4,226
+From: 23 Feb 2012,To: 23 Feb 2012,Sudan,FY 2012,6,Moslem,6,226
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Feb 2012,To: 23 Feb 2012,Ahmadiyya,FY 2012,2,Pakistan,2,226
+From: 23 Feb 2012,To: 23 Feb 2012,Baptist,FY 2012,5,Burma,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Buddhist,FY 2012,29,Bhutan,19,226
+From: 23 Feb 2012,To: 23 Feb 2012,Buddhist,FY 2012,29,Burma,10,226
+From: 23 Feb 2012,To: 23 Feb 2012,Catholic,FY 2012,1,Eritrea,1,226
+From: 23 Feb 2012,To: 23 Feb 2012,Christian,FY 2012,71,Bhutan,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Christian,FY 2012,71,Burma,59,226
+From: 23 Feb 2012,To: 23 Feb 2012,Christian,FY 2012,71,Colombia,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Christian,FY 2012,71,Dem. Rep. Congo,2,226
+From: 23 Feb 2012,To: 23 Feb 2012,Evangelical Christian,FY 2012,3,Cuba,3,226
+From: 23 Feb 2012,To: 23 Feb 2012,Hindu,FY 2012,48,Bhutan,48,226
+From: 23 Feb 2012,To: 23 Feb 2012,Jehovah Witness,FY 2012,16,Cuba,16,226
+From: 23 Feb 2012,To: 23 Feb 2012,Kirat,FY 2012,8,Bhutan,8,226
+From: 23 Feb 2012,To: 23 Feb 2012,Moslem,FY 2012,15,Burma,5,226
+From: 23 Feb 2012,To: 23 Feb 2012,Moslem,FY 2012,15,Somalia,4,226
+From: 23 Feb 2012,To: 23 Feb 2012,Moslem,FY 2012,15,Sudan,6,226
+From: 23 Feb 2012,To: 23 Feb 2012,Moslem Suni,FY 2012,5,Eritrea,1,226
+From: 23 Feb 2012,To: 23 Feb 2012,Moslem Suni,FY 2012,5,Somalia,4,226
+From: 23 Feb 2012,To: 23 Feb 2012,No Religion,FY 2012,17,Cuba,16,226
+From: 23 Feb 2012,To: 23 Feb 2012,No Religion,FY 2012,17,Iran,1,226
+From: 23 Feb 2012,To: 23 Feb 2012,Orthodox,FY 2012,2,Eritrea,2,226
+From: 23 Feb 2012,To: 23 Feb 2012,Sabeans-Mandean,FY 2012,4,Iran,4,226
+

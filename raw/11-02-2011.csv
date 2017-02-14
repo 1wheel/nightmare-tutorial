@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2011,To: 02 Nov 2011,Bhutan,FY 2012,133,Buddhist,16,262
+From: 02 Nov 2011,To: 02 Nov 2011,Bhutan,FY 2012,133,Hindu,87,262
+From: 02 Nov 2011,To: 02 Nov 2011,Bhutan,FY 2012,133,Kirat,30,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Animist,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Baptist,3,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Buddhist,12,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Catholic,10,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Christian,48,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Methodist,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Burma,FY 2012,77,Moslem,2,262
+From: 02 Nov 2011,To: 02 Nov 2011,Eritrea,FY 2012,1,Other Religion,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,India,FY 2012,1,Hindu,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Iran,FY 2012,18,Bahai,15,262
+From: 02 Nov 2011,To: 02 Nov 2011,Iran,FY 2012,18,Protestant,3,262
+From: 02 Nov 2011,To: 02 Nov 2011,Iraq,FY 2012,22,Catholic,10,262
+From: 02 Nov 2011,To: 02 Nov 2011,Iraq,FY 2012,22,Christian,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Iraq,FY 2012,22,Moslem Shiite,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Iraq,FY 2012,22,Orthodox,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Somalia,FY 2012,4,Moslem,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Togo,FY 2012,6,Catholic,6,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2011,To: 02 Nov 2011,Animist,FY 2012,1,Burma,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Bahai,FY 2012,15,Iran,15,262
+From: 02 Nov 2011,To: 02 Nov 2011,Baptist,FY 2012,3,Burma,3,262
+From: 02 Nov 2011,To: 02 Nov 2011,Buddhist,FY 2012,28,Bhutan,16,262
+From: 02 Nov 2011,To: 02 Nov 2011,Buddhist,FY 2012,28,Burma,12,262
+From: 02 Nov 2011,To: 02 Nov 2011,Catholic,FY 2012,26,Burma,10,262
+From: 02 Nov 2011,To: 02 Nov 2011,Catholic,FY 2012,26,Iraq,10,262
+From: 02 Nov 2011,To: 02 Nov 2011,Catholic,FY 2012,26,Togo,6,262
+From: 02 Nov 2011,To: 02 Nov 2011,Christian,FY 2012,52,Burma,48,262
+From: 02 Nov 2011,To: 02 Nov 2011,Christian,FY 2012,52,Iraq,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Hindu,FY 2012,88,Bhutan,87,262
+From: 02 Nov 2011,To: 02 Nov 2011,Hindu,FY 2012,88,India,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Kirat,FY 2012,30,Bhutan,30,262
+From: 02 Nov 2011,To: 02 Nov 2011,Methodist,FY 2012,1,Burma,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Moslem,FY 2012,6,Burma,2,262
+From: 02 Nov 2011,To: 02 Nov 2011,Moslem,FY 2012,6,Somalia,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Moslem Shiite,FY 2012,4,Iraq,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Orthodox,FY 2012,4,Iraq,4,262
+From: 02 Nov 2011,To: 02 Nov 2011,Other Religion,FY 2012,1,Eritrea,1,262
+From: 02 Nov 2011,To: 02 Nov 2011,Protestant,FY 2012,3,Iran,3,262
+

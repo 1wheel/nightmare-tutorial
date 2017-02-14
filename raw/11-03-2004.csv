@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Nov 2004,To: 03 Nov 2004,Afghanistan,FY 2005,1,Moslem,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Ethiopia,FY 2005,4,Moslem,3,273
+From: 03 Nov 2004,To: 03 Nov 2004,Ethiopia,FY 2005,4,Protestant,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Iran,FY 2005,15,Bahai,11,273
+From: 03 Nov 2004,To: 03 Nov 2004,Iran,FY 2005,15,Moslem,4,273
+From: 03 Nov 2004,To: 03 Nov 2004,Laos,FY 2005,58,Ancestral Worship,58,273
+From: 03 Nov 2004,To: 03 Nov 2004,Liberia,FY 2005,62,Christian,40,273
+From: 03 Nov 2004,To: 03 Nov 2004,Liberia,FY 2005,62,Jehovah Witness,10,273
+From: 03 Nov 2004,To: 03 Nov 2004,Liberia,FY 2005,62,Moslem,12,273
+From: 03 Nov 2004,To: 03 Nov 2004,Sierra Leone,FY 2005,18,Baptist,7,273
+From: 03 Nov 2004,To: 03 Nov 2004,Sierra Leone,FY 2005,18,Moslem,10,273
+From: 03 Nov 2004,To: 03 Nov 2004,Sierra Leone,FY 2005,18,Pentecostalist,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Somalia,FY 2005,69,Moslem,69,273
+From: 03 Nov 2004,To: 03 Nov 2004,Sudan,FY 2005,29,Catholic,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Sudan,FY 2005,29,Christian,6,273
+From: 03 Nov 2004,To: 03 Nov 2004,Sudan,FY 2005,29,Moslem,22,273
+From: 03 Nov 2004,To: 03 Nov 2004,Vietnam,FY 2005,17,Cao Dai,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Vietnam,FY 2005,17,Catholic,7,273
+From: 03 Nov 2004,To: 03 Nov 2004,Vietnam,FY 2005,17,Hoa Hao,3,273
+From: 03 Nov 2004,To: 03 Nov 2004,Vietnam,FY 2005,17,No Religion,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Vietnam,FY 2005,17,Protestant,3,273
+From: 03 Nov 2004,To: 03 Nov 2004,Vietnam,FY 2005,17,Unknown,2,273
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Nov 2004,To: 03 Nov 2004,Ancestral Worship,FY 2005,58,Laos,58,273
+From: 03 Nov 2004,To: 03 Nov 2004,Bahai,FY 2005,11,Iran,11,273
+From: 03 Nov 2004,To: 03 Nov 2004,Baptist,FY 2005,7,Sierra Leone,7,273
+From: 03 Nov 2004,To: 03 Nov 2004,Cao Dai,FY 2005,1,Vietnam,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Catholic,FY 2005,8,Sudan,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Catholic,FY 2005,8,Vietnam,7,273
+From: 03 Nov 2004,To: 03 Nov 2004,Christian,FY 2005,46,Liberia,40,273
+From: 03 Nov 2004,To: 03 Nov 2004,Christian,FY 2005,46,Sudan,6,273
+From: 03 Nov 2004,To: 03 Nov 2004,Hoa Hao,FY 2005,3,Vietnam,3,273
+From: 03 Nov 2004,To: 03 Nov 2004,Jehovah Witness,FY 2005,10,Liberia,10,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Afghanistan,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Ethiopia,3,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Iran,4,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Liberia,12,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Sierra Leone,10,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Somalia,69,273
+From: 03 Nov 2004,To: 03 Nov 2004,Moslem,FY 2005,121,Sudan,22,273
+From: 03 Nov 2004,To: 03 Nov 2004,No Religion,FY 2005,1,Vietnam,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Pentecostalist,FY 2005,1,Sierra Leone,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Protestant,FY 2005,4,Ethiopia,1,273
+From: 03 Nov 2004,To: 03 Nov 2004,Protestant,FY 2005,4,Vietnam,3,273
+From: 03 Nov 2004,To: 03 Nov 2004,Unknown,FY 2005,2,Vietnam,2,273
+

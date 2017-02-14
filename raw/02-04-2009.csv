@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Feb 2009,To: 04 Feb 2009,Afghanistan,FY 2009,4,Moslem Suni,4,273
+From: 04 Feb 2009,To: 04 Feb 2009,Burma,FY 2009,187,Buddhist,43,273
+From: 04 Feb 2009,To: 04 Feb 2009,Burma,FY 2009,187,Christian,100,273
+From: 04 Feb 2009,To: 04 Feb 2009,Burma,FY 2009,187,Moslem,44,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iran,FY 2009,5,Bahai,5,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Catholic,5,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Christian,31,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Moslem Shiite,1,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Moslem Suni,21,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Orthodox,10,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Protestant,1,273
+From: 04 Feb 2009,To: 04 Feb 2009,Iraq,FY 2009,73,Sabeans-Mandean,4,273
+From: 04 Feb 2009,To: 04 Feb 2009,Russia,FY 2009,4,Baptist,2,273
+From: 04 Feb 2009,To: 04 Feb 2009,Russia,FY 2009,4,Jewish,2,273
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Feb 2009,To: 04 Feb 2009,Bahai,FY 2009,5,Iran,5,273
+From: 04 Feb 2009,To: 04 Feb 2009,Baptist,FY 2009,2,Russia,2,273
+From: 04 Feb 2009,To: 04 Feb 2009,Buddhist,FY 2009,43,Burma,43,273
+From: 04 Feb 2009,To: 04 Feb 2009,Catholic,FY 2009,5,Iraq,5,273
+From: 04 Feb 2009,To: 04 Feb 2009,Christian,FY 2009,131,Burma,100,273
+From: 04 Feb 2009,To: 04 Feb 2009,Christian,FY 2009,131,Iraq,31,273
+From: 04 Feb 2009,To: 04 Feb 2009,Jewish,FY 2009,2,Russia,2,273
+From: 04 Feb 2009,To: 04 Feb 2009,Moslem,FY 2009,44,Burma,44,273
+From: 04 Feb 2009,To: 04 Feb 2009,Moslem Shiite,FY 2009,1,Iraq,1,273
+From: 04 Feb 2009,To: 04 Feb 2009,Moslem Suni,FY 2009,25,Afghanistan,4,273
+From: 04 Feb 2009,To: 04 Feb 2009,Moslem Suni,FY 2009,25,Iraq,21,273
+From: 04 Feb 2009,To: 04 Feb 2009,Orthodox,FY 2009,10,Iraq,10,273
+From: 04 Feb 2009,To: 04 Feb 2009,Protestant,FY 2009,1,Iraq,1,273
+From: 04 Feb 2009,To: 04 Feb 2009,Sabeans-Mandean,FY 2009,4,Iraq,4,273
+

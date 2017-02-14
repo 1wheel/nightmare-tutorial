@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 May 2008,To: 19 May 2008,Bhutan,FY 2008,65,Buddhist,8,238
+From: 19 May 2008,To: 19 May 2008,Bhutan,FY 2008,65,Hindu,51,238
+From: 19 May 2008,To: 19 May 2008,Bhutan,FY 2008,65,Kirat,6,238
+From: 19 May 2008,To: 19 May 2008,Dem. Rep. Congo,FY 2008,3,Catholic,1,238
+From: 19 May 2008,To: 19 May 2008,Dem. Rep. Congo,FY 2008,3,Christian,1,238
+From: 19 May 2008,To: 19 May 2008,Dem. Rep. Congo,FY 2008,3,Protestant,1,238
+From: 19 May 2008,To: 19 May 2008,Iran,FY 2008,34,Bahai,33,238
+From: 19 May 2008,To: 19 May 2008,Iran,FY 2008,34,No Religion,1,238
+From: 19 May 2008,To: 19 May 2008,Iraq,FY 2008,83,Catholic,10,238
+From: 19 May 2008,To: 19 May 2008,Iraq,FY 2008,83,Christian,14,238
+From: 19 May 2008,To: 19 May 2008,Iraq,FY 2008,83,Moslem Shiite,16,238
+From: 19 May 2008,To: 19 May 2008,Iraq,FY 2008,83,Moslem Suni,36,238
+From: 19 May 2008,To: 19 May 2008,Iraq,FY 2008,83,Orthodox,2,238
+From: 19 May 2008,To: 19 May 2008,Iraq,FY 2008,83,Sabeans-Mandean,5,238
+From: 19 May 2008,To: 19 May 2008,Ivory Coast,FY 2008,8,Catholic,5,238
+From: 19 May 2008,To: 19 May 2008,Ivory Coast,FY 2008,8,Moslem,3,238
+From: 19 May 2008,To: 19 May 2008,Kyrgyzstan,FY 2008,2,Atheist,2,238
+From: 19 May 2008,To: 19 May 2008,Nigeria,FY 2008,8,Pentecostalist,8,238
+From: 19 May 2008,To: 19 May 2008,Sierra Leone,FY 2008,4,Christian,2,238
+From: 19 May 2008,To: 19 May 2008,Sierra Leone,FY 2008,4,Moslem,2,238
+From: 19 May 2008,To: 19 May 2008,Sudan,FY 2008,5,Moslem,5,238
+From: 19 May 2008,To: 19 May 2008,Togo,FY 2008,21,Catholic,4,238
+From: 19 May 2008,To: 19 May 2008,Togo,FY 2008,21,Christian,10,238
+From: 19 May 2008,To: 19 May 2008,Togo,FY 2008,21,Pentecostalist,7,238
+From: 19 May 2008,To: 19 May 2008,Ukraine,FY 2008,5,Pentecostalist,5,238
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 May 2008,To: 19 May 2008,Atheist,FY 2008,2,Kyrgyzstan,2,238
+From: 19 May 2008,To: 19 May 2008,Bahai,FY 2008,33,Iran,33,238
+From: 19 May 2008,To: 19 May 2008,Buddhist,FY 2008,8,Bhutan,8,238
+From: 19 May 2008,To: 19 May 2008,Catholic,FY 2008,20,Dem. Rep. Congo,1,238
+From: 19 May 2008,To: 19 May 2008,Catholic,FY 2008,20,Iraq,10,238
+From: 19 May 2008,To: 19 May 2008,Catholic,FY 2008,20,Ivory Coast,5,238
+From: 19 May 2008,To: 19 May 2008,Catholic,FY 2008,20,Togo,4,238
+From: 19 May 2008,To: 19 May 2008,Christian,FY 2008,27,Dem. Rep. Congo,1,238
+From: 19 May 2008,To: 19 May 2008,Christian,FY 2008,27,Iraq,14,238
+From: 19 May 2008,To: 19 May 2008,Christian,FY 2008,27,Sierra Leone,2,238
+From: 19 May 2008,To: 19 May 2008,Christian,FY 2008,27,Togo,10,238
+From: 19 May 2008,To: 19 May 2008,Hindu,FY 2008,51,Bhutan,51,238
+From: 19 May 2008,To: 19 May 2008,Kirat,FY 2008,6,Bhutan,6,238
+From: 19 May 2008,To: 19 May 2008,Moslem,FY 2008,10,Ivory Coast,3,238
+From: 19 May 2008,To: 19 May 2008,Moslem,FY 2008,10,Sierra Leone,2,238
+From: 19 May 2008,To: 19 May 2008,Moslem,FY 2008,10,Sudan,5,238
+From: 19 May 2008,To: 19 May 2008,Moslem Shiite,FY 2008,16,Iraq,16,238
+From: 19 May 2008,To: 19 May 2008,Moslem Suni,FY 2008,36,Iraq,36,238
+From: 19 May 2008,To: 19 May 2008,No Religion,FY 2008,1,Iran,1,238
+From: 19 May 2008,To: 19 May 2008,Orthodox,FY 2008,2,Iraq,2,238
+From: 19 May 2008,To: 19 May 2008,Pentecostalist,FY 2008,20,Nigeria,8,238
+From: 19 May 2008,To: 19 May 2008,Pentecostalist,FY 2008,20,Togo,7,238
+From: 19 May 2008,To: 19 May 2008,Pentecostalist,FY 2008,20,Ukraine,5,238
+From: 19 May 2008,To: 19 May 2008,Protestant,FY 2008,1,Dem. Rep. Congo,1,238
+From: 19 May 2008,To: 19 May 2008,Sabeans-Mandean,FY 2008,5,Iraq,5,238
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Apr 2008,To: 17 Apr 2008,Burma,FY 2008,36,Buddhist,1,158
+From: 17 Apr 2008,To: 17 Apr 2008,Burma,FY 2008,36,Christian,35,158
+From: 17 Apr 2008,To: 17 Apr 2008,China,FY 2008,2,Other Religion,2,158
+From: 17 Apr 2008,To: 17 Apr 2008,Eritrea,FY 2008,1,Christian,1,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iran,FY 2008,30,Christian,29,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iran,FY 2008,30,Jewish,1,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iraq,FY 2008,33,Catholic,4,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iraq,FY 2008,33,Christian,10,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iraq,FY 2008,33,Moslem Shiite,14,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iraq,FY 2008,33,Moslem Suni,3,158
+From: 17 Apr 2008,To: 17 Apr 2008,Iraq,FY 2008,33,Sabeans-Mandean,2,158
+From: 17 Apr 2008,To: 17 Apr 2008,"Korea, North",FY 2008,2,Christian,2,158
+From: 17 Apr 2008,To: 17 Apr 2008,Nigeria,FY 2008,10,Christian,10,158
+From: 17 Apr 2008,To: 17 Apr 2008,Somalia,FY 2008,37,Moslem,37,158
+From: 17 Apr 2008,To: 17 Apr 2008,Togo,FY 2008,7,Christian,7,158
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Apr 2008,To: 17 Apr 2008,Buddhist,FY 2008,1,Burma,1,158
+From: 17 Apr 2008,To: 17 Apr 2008,Catholic,FY 2008,4,Iraq,4,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,Burma,35,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,Eritrea,1,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,Iran,29,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,Iraq,10,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,"Korea, North",2,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,Nigeria,10,158
+From: 17 Apr 2008,To: 17 Apr 2008,Christian,FY 2008,94,Togo,7,158
+From: 17 Apr 2008,To: 17 Apr 2008,Jewish,FY 2008,1,Iran,1,158
+From: 17 Apr 2008,To: 17 Apr 2008,Moslem,FY 2008,37,Somalia,37,158
+From: 17 Apr 2008,To: 17 Apr 2008,Moslem Shiite,FY 2008,14,Iraq,14,158
+From: 17 Apr 2008,To: 17 Apr 2008,Moslem Suni,FY 2008,3,Iraq,3,158
+From: 17 Apr 2008,To: 17 Apr 2008,Other Religion,FY 2008,2,China,2,158
+From: 17 Apr 2008,To: 17 Apr 2008,Sabeans-Mandean,FY 2008,2,Iraq,2,158
+

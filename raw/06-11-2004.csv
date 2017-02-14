@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jun 2004,To: 11 Jun 2004,Burma,FY 2004,34,Animist,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Burma,FY 2004,34,Buddhist,12,172
+From: 11 Jun 2004,To: 11 Jun 2004,Burma,FY 2004,34,Protestant,21,172
+From: 11 Jun 2004,To: 11 Jun 2004,Cuba,FY 2004,35,Baptist,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Cuba,FY 2004,35,Catholic,4,172
+From: 11 Jun 2004,To: 11 Jun 2004,Cuba,FY 2004,35,Christian,3,172
+From: 11 Jun 2004,To: 11 Jun 2004,Cuba,FY 2004,35,Jehovah Witness,17,172
+From: 11 Jun 2004,To: 11 Jun 2004,Cuba,FY 2004,35,No Religion,10,172
+From: 11 Jun 2004,To: 11 Jun 2004,Ethiopia,FY 2004,19,Christian,2,172
+From: 11 Jun 2004,To: 11 Jun 2004,Ethiopia,FY 2004,19,Moslem,13,172
+From: 11 Jun 2004,To: 11 Jun 2004,Ethiopia,FY 2004,19,Orthodox,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Ethiopia,FY 2004,19,Protestant,3,172
+From: 11 Jun 2004,To: 11 Jun 2004,Liberia,FY 2004,29,Catholic,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Liberia,FY 2004,29,Christian,11,172
+From: 11 Jun 2004,To: 11 Jun 2004,Liberia,FY 2004,29,Moslem,17,172
+From: 11 Jun 2004,To: 11 Jun 2004,Somalia,FY 2004,51,Moslem,51,172
+From: 11 Jun 2004,To: 11 Jun 2004,Togo,FY 2004,4,Catholic,4,172
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jun 2004,To: 11 Jun 2004,Animist,FY 2004,1,Burma,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Baptist,FY 2004,1,Cuba,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Buddhist,FY 2004,12,Burma,12,172
+From: 11 Jun 2004,To: 11 Jun 2004,Catholic,FY 2004,9,Cuba,4,172
+From: 11 Jun 2004,To: 11 Jun 2004,Catholic,FY 2004,9,Liberia,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Catholic,FY 2004,9,Togo,4,172
+From: 11 Jun 2004,To: 11 Jun 2004,Christian,FY 2004,16,Cuba,3,172
+From: 11 Jun 2004,To: 11 Jun 2004,Christian,FY 2004,16,Ethiopia,2,172
+From: 11 Jun 2004,To: 11 Jun 2004,Christian,FY 2004,16,Liberia,11,172
+From: 11 Jun 2004,To: 11 Jun 2004,Jehovah Witness,FY 2004,17,Cuba,17,172
+From: 11 Jun 2004,To: 11 Jun 2004,Moslem,FY 2004,81,Ethiopia,13,172
+From: 11 Jun 2004,To: 11 Jun 2004,Moslem,FY 2004,81,Liberia,17,172
+From: 11 Jun 2004,To: 11 Jun 2004,Moslem,FY 2004,81,Somalia,51,172
+From: 11 Jun 2004,To: 11 Jun 2004,No Religion,FY 2004,10,Cuba,10,172
+From: 11 Jun 2004,To: 11 Jun 2004,Orthodox,FY 2004,1,Ethiopia,1,172
+From: 11 Jun 2004,To: 11 Jun 2004,Protestant,FY 2004,24,Burma,21,172
+From: 11 Jun 2004,To: 11 Jun 2004,Protestant,FY 2004,24,Ethiopia,3,172
+

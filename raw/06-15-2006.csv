@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jun 2006,To: 15 Jun 2006,Ethiopia,FY 2006,5,Moslem,5,182
+From: 15 Jun 2006,To: 15 Jun 2006,Iran,FY 2006,18,Bahai,18,182
+From: 15 Jun 2006,To: 15 Jun 2006,Russia,FY 2006,25,Moslem,25,182
+From: 15 Jun 2006,To: 15 Jun 2006,Serbia,FY 2006,2,Unknown,2,182
+From: 15 Jun 2006,To: 15 Jun 2006,Somalia,FY 2006,88,Moslem,88,182
+From: 15 Jun 2006,To: 15 Jun 2006,Sudan,FY 2006,11,Christian,4,182
+From: 15 Jun 2006,To: 15 Jun 2006,Sudan,FY 2006,11,Moslem,7,182
+From: 15 Jun 2006,To: 15 Jun 2006,Uzbekistan,FY 2006,5,Moslem,4,182
+From: 15 Jun 2006,To: 15 Jun 2006,Uzbekistan,FY 2006,5,Orthodox,1,182
+From: 15 Jun 2006,To: 15 Jun 2006,Vietnam,FY 2006,28,Buddhist,12,182
+From: 15 Jun 2006,To: 15 Jun 2006,Vietnam,FY 2006,28,Catholic,1,182
+From: 15 Jun 2006,To: 15 Jun 2006,Vietnam,FY 2006,28,Christian,3,182
+From: 15 Jun 2006,To: 15 Jun 2006,Vietnam,FY 2006,28,No Religion,3,182
+From: 15 Jun 2006,To: 15 Jun 2006,Vietnam,FY 2006,28,Protestant,9,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jun 2006,To: 15 Jun 2006,Bahai,FY 2006,18,Iran,18,182
+From: 15 Jun 2006,To: 15 Jun 2006,Buddhist,FY 2006,12,Vietnam,12,182
+From: 15 Jun 2006,To: 15 Jun 2006,Catholic,FY 2006,1,Vietnam,1,182
+From: 15 Jun 2006,To: 15 Jun 2006,Christian,FY 2006,7,Sudan,4,182
+From: 15 Jun 2006,To: 15 Jun 2006,Christian,FY 2006,7,Vietnam,3,182
+From: 15 Jun 2006,To: 15 Jun 2006,Moslem,FY 2006,129,Ethiopia,5,182
+From: 15 Jun 2006,To: 15 Jun 2006,Moslem,FY 2006,129,Russia,25,182
+From: 15 Jun 2006,To: 15 Jun 2006,Moslem,FY 2006,129,Somalia,88,182
+From: 15 Jun 2006,To: 15 Jun 2006,Moslem,FY 2006,129,Sudan,7,182
+From: 15 Jun 2006,To: 15 Jun 2006,Moslem,FY 2006,129,Uzbekistan,4,182
+From: 15 Jun 2006,To: 15 Jun 2006,No Religion,FY 2006,3,Vietnam,3,182
+From: 15 Jun 2006,To: 15 Jun 2006,Orthodox,FY 2006,1,Uzbekistan,1,182
+From: 15 Jun 2006,To: 15 Jun 2006,Protestant,FY 2006,9,Vietnam,9,182
+From: 15 Jun 2006,To: 15 Jun 2006,Unknown,FY 2006,2,Serbia,2,182
+

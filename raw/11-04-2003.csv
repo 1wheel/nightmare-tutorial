@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Nov 2003,To: 04 Nov 2003,Belarus,FY 2004,28,Jewish,4,142
+From: 04 Nov 2003,To: 04 Nov 2003,Belarus,FY 2004,28,No Religion,1,142
+From: 04 Nov 2003,To: 04 Nov 2003,Belarus,FY 2004,28,Pentecostalist,19,142
+From: 04 Nov 2003,To: 04 Nov 2003,Belarus,FY 2004,28,Unknown,4,142
+From: 04 Nov 2003,To: 04 Nov 2003,Ethiopia,FY 2004,20,Christian,4,142
+From: 04 Nov 2003,To: 04 Nov 2003,Ethiopia,FY 2004,20,Orthodox,16,142
+From: 04 Nov 2003,To: 04 Nov 2003,Liberia,FY 2004,10,Christian,10,142
+From: 04 Nov 2003,To: 04 Nov 2003,Russia,FY 2004,34,Baptist,5,142
+From: 04 Nov 2003,To: 04 Nov 2003,Russia,FY 2004,34,Christian,3,142
+From: 04 Nov 2003,To: 04 Nov 2003,Russia,FY 2004,34,Jewish,5,142
+From: 04 Nov 2003,To: 04 Nov 2003,Russia,FY 2004,34,No Religion,3,142
+From: 04 Nov 2003,To: 04 Nov 2003,Russia,FY 2004,34,Pentecostalist,12,142
+From: 04 Nov 2003,To: 04 Nov 2003,Russia,FY 2004,34,Unknown,6,142
+From: 04 Nov 2003,To: 04 Nov 2003,Somalia,FY 2004,15,Moslem,15,142
+From: 04 Nov 2003,To: 04 Nov 2003,Ukraine,FY 2004,35,Baptist,8,142
+From: 04 Nov 2003,To: 04 Nov 2003,Ukraine,FY 2004,35,Jewish,3,142
+From: 04 Nov 2003,To: 04 Nov 2003,Ukraine,FY 2004,35,Pentecostalist,24,142
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Nov 2003,To: 04 Nov 2003,Baptist,FY 2004,13,Russia,5,142
+From: 04 Nov 2003,To: 04 Nov 2003,Baptist,FY 2004,13,Ukraine,8,142
+From: 04 Nov 2003,To: 04 Nov 2003,Christian,FY 2004,17,Ethiopia,4,142
+From: 04 Nov 2003,To: 04 Nov 2003,Christian,FY 2004,17,Liberia,10,142
+From: 04 Nov 2003,To: 04 Nov 2003,Christian,FY 2004,17,Russia,3,142
+From: 04 Nov 2003,To: 04 Nov 2003,Jewish,FY 2004,12,Belarus,4,142
+From: 04 Nov 2003,To: 04 Nov 2003,Jewish,FY 2004,12,Russia,5,142
+From: 04 Nov 2003,To: 04 Nov 2003,Jewish,FY 2004,12,Ukraine,3,142
+From: 04 Nov 2003,To: 04 Nov 2003,Moslem,FY 2004,15,Somalia,15,142
+From: 04 Nov 2003,To: 04 Nov 2003,No Religion,FY 2004,4,Belarus,1,142
+From: 04 Nov 2003,To: 04 Nov 2003,No Religion,FY 2004,4,Russia,3,142
+From: 04 Nov 2003,To: 04 Nov 2003,Orthodox,FY 2004,16,Ethiopia,16,142
+From: 04 Nov 2003,To: 04 Nov 2003,Pentecostalist,FY 2004,55,Belarus,19,142
+From: 04 Nov 2003,To: 04 Nov 2003,Pentecostalist,FY 2004,55,Russia,12,142
+From: 04 Nov 2003,To: 04 Nov 2003,Pentecostalist,FY 2004,55,Ukraine,24,142
+From: 04 Nov 2003,To: 04 Nov 2003,Unknown,FY 2004,10,Belarus,4,142
+From: 04 Nov 2003,To: 04 Nov 2003,Unknown,FY 2004,10,Russia,6,142
+

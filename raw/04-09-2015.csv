@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Apr 2015,To: 09 Apr 2015,Afghanistan,FY 2015,10,Moslem Shiite,3,409
+From: 09 Apr 2015,To: 09 Apr 2015,Afghanistan,FY 2015,10,Moslem Suni,7,409
+From: 09 Apr 2015,To: 09 Apr 2015,Bhutan,FY 2015,34,Buddhist,7,409
+From: 09 Apr 2015,To: 09 Apr 2015,Bhutan,FY 2015,34,Christian,7,409
+From: 09 Apr 2015,To: 09 Apr 2015,Bhutan,FY 2015,34,Hindu,12,409
+From: 09 Apr 2015,To: 09 Apr 2015,Bhutan,FY 2015,34,Kirat,8,409
+From: 09 Apr 2015,To: 09 Apr 2015,Burma,FY 2015,80,Baptist,11,409
+From: 09 Apr 2015,To: 09 Apr 2015,Burma,FY 2015,80,Buddhist,10,409
+From: 09 Apr 2015,To: 09 Apr 2015,Burma,FY 2015,80,Christian,38,409
+From: 09 Apr 2015,To: 09 Apr 2015,Burma,FY 2015,80,Moslem,21,409
+From: 09 Apr 2015,To: 09 Apr 2015,Colombia,FY 2015,45,Catholic,22,409
+From: 09 Apr 2015,To: 09 Apr 2015,Colombia,FY 2015,45,Christian,23,409
+From: 09 Apr 2015,To: 09 Apr 2015,Congo,FY 2015,1,Protestant,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Cuba,FY 2015,41,Baptist,3,409
+From: 09 Apr 2015,To: 09 Apr 2015,Cuba,FY 2015,41,Catholic,19,409
+From: 09 Apr 2015,To: 09 Apr 2015,Cuba,FY 2015,41,Jehovah Witness,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Cuba,FY 2015,41,No Religion,15,409
+From: 09 Apr 2015,To: 09 Apr 2015,Cuba,FY 2015,41,Pentecostalist,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Dem. Rep. Congo,FY 2015,24,Christian,9,409
+From: 09 Apr 2015,To: 09 Apr 2015,Dem. Rep. Congo,FY 2015,24,Pentecostalist,5,409
+From: 09 Apr 2015,To: 09 Apr 2015,Dem. Rep. Congo,FY 2015,24,Protestant,10,409
+From: 09 Apr 2015,To: 09 Apr 2015,Ecuador,FY 2015,1,Catholic,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Eritrea,FY 2015,1,Orthodox,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Ethiopia,FY 2015,2,Moslem,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Iran,FY 2015,40,Christian,16,409
+From: 09 Apr 2015,To: 09 Apr 2015,Iran,FY 2015,40,Jewish,6,409
+From: 09 Apr 2015,To: 09 Apr 2015,Iran,FY 2015,40,Sabeans-Mandean,16,409
+From: 09 Apr 2015,To: 09 Apr 2015,Iran,FY 2015,40,Zoroastrian,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Iraq,FY 2015,12,Moslem Suni,12,409
+From: 09 Apr 2015,To: 09 Apr 2015,Kenya,FY 2015,1,Moslem,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Rwanda,FY 2015,17,Catholic,5,409
+From: 09 Apr 2015,To: 09 Apr 2015,Rwanda,FY 2015,17,Pentecostalist,6,409
+From: 09 Apr 2015,To: 09 Apr 2015,Rwanda,FY 2015,17,Protestant,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Rwanda,FY 2015,17,Seventh Day Adventist,4,409
+From: 09 Apr 2015,To: 09 Apr 2015,Somalia,FY 2015,81,Moslem,81,409
+From: 09 Apr 2015,To: 09 Apr 2015,Sudan,FY 2015,5,Moslem,5,409
+From: 09 Apr 2015,To: 09 Apr 2015,Syria,FY 2015,14,Moslem Suni,14,409
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Apr 2015,To: 09 Apr 2015,Baptist,FY 2015,14,Burma,11,409
+From: 09 Apr 2015,To: 09 Apr 2015,Baptist,FY 2015,14,Cuba,3,409
+From: 09 Apr 2015,To: 09 Apr 2015,Buddhist,FY 2015,17,Bhutan,7,409
+From: 09 Apr 2015,To: 09 Apr 2015,Buddhist,FY 2015,17,Burma,10,409
+From: 09 Apr 2015,To: 09 Apr 2015,Catholic,FY 2015,47,Colombia,22,409
+From: 09 Apr 2015,To: 09 Apr 2015,Catholic,FY 2015,47,Cuba,19,409
+From: 09 Apr 2015,To: 09 Apr 2015,Catholic,FY 2015,47,Ecuador,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Catholic,FY 2015,47,Rwanda,5,409
+From: 09 Apr 2015,To: 09 Apr 2015,Christian,FY 2015,93,Bhutan,7,409
+From: 09 Apr 2015,To: 09 Apr 2015,Christian,FY 2015,93,Burma,38,409
+From: 09 Apr 2015,To: 09 Apr 2015,Christian,FY 2015,93,Colombia,23,409
+From: 09 Apr 2015,To: 09 Apr 2015,Christian,FY 2015,93,Dem. Rep. Congo,9,409
+From: 09 Apr 2015,To: 09 Apr 2015,Christian,FY 2015,93,Iran,16,409
+From: 09 Apr 2015,To: 09 Apr 2015,Hindu,FY 2015,12,Bhutan,12,409
+From: 09 Apr 2015,To: 09 Apr 2015,Jehovah Witness,FY 2015,2,Cuba,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Jewish,FY 2015,6,Iran,6,409
+From: 09 Apr 2015,To: 09 Apr 2015,Kirat,FY 2015,8,Bhutan,8,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem,FY 2015,110,Burma,21,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem,FY 2015,110,Ethiopia,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem,FY 2015,110,Kenya,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem,FY 2015,110,Somalia,81,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem,FY 2015,110,Sudan,5,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem Shiite,FY 2015,3,Afghanistan,3,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem Suni,FY 2015,33,Afghanistan,7,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem Suni,FY 2015,33,Iraq,12,409
+From: 09 Apr 2015,To: 09 Apr 2015,Moslem Suni,FY 2015,33,Syria,14,409
+From: 09 Apr 2015,To: 09 Apr 2015,No Religion,FY 2015,15,Cuba,15,409
+From: 09 Apr 2015,To: 09 Apr 2015,Orthodox,FY 2015,1,Eritrea,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Pentecostalist,FY 2015,13,Cuba,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Pentecostalist,FY 2015,13,Dem. Rep. Congo,5,409
+From: 09 Apr 2015,To: 09 Apr 2015,Pentecostalist,FY 2015,13,Rwanda,6,409
+From: 09 Apr 2015,To: 09 Apr 2015,Protestant,FY 2015,13,Congo,1,409
+From: 09 Apr 2015,To: 09 Apr 2015,Protestant,FY 2015,13,Dem. Rep. Congo,10,409
+From: 09 Apr 2015,To: 09 Apr 2015,Protestant,FY 2015,13,Rwanda,2,409
+From: 09 Apr 2015,To: 09 Apr 2015,Sabeans-Mandean,FY 2015,16,Iran,16,409
+From: 09 Apr 2015,To: 09 Apr 2015,Seventh Day Adventist,FY 2015,4,Rwanda,4,409
+From: 09 Apr 2015,To: 09 Apr 2015,Zoroastrian,FY 2015,2,Iran,2,409
+

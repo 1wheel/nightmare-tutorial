@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jun 2016,To: 17 Jun 2016,Afghanistan,FY 2016,3,Moslem Suni,3,17
+From: 17 Jun 2016,To: 17 Jun 2016,Burma,FY 2016,3,Moslem,3,17
+From: 17 Jun 2016,To: 17 Jun 2016,El Salvador,FY 2016,11,Catholic,4,17
+From: 17 Jun 2016,To: 17 Jun 2016,El Salvador,FY 2016,11,Christian,4,17
+From: 17 Jun 2016,To: 17 Jun 2016,El Salvador,FY 2016,11,Jehovah Witness,3,17
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jun 2016,To: 17 Jun 2016,Catholic,FY 2016,4,El Salvador,4,17
+From: 17 Jun 2016,To: 17 Jun 2016,Christian,FY 2016,4,El Salvador,4,17
+From: 17 Jun 2016,To: 17 Jun 2016,Jehovah Witness,FY 2016,3,El Salvador,3,17
+From: 17 Jun 2016,To: 17 Jun 2016,Moslem,FY 2016,3,Burma,3,17
+From: 17 Jun 2016,To: 17 Jun 2016,Moslem Suni,FY 2016,3,Afghanistan,3,17
+

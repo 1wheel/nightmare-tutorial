@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Jan 2012,To: 04 Jan 2012,Bhutan,FY 2012,35,Buddhist,12,129
+From: 04 Jan 2012,To: 04 Jan 2012,Bhutan,FY 2012,35,Hindu,20,129
+From: 04 Jan 2012,To: 04 Jan 2012,Bhutan,FY 2012,35,Kirat,3,129
+From: 04 Jan 2012,To: 04 Jan 2012,Burma,FY 2012,35,Baptist,4,129
+From: 04 Jan 2012,To: 04 Jan 2012,Burma,FY 2012,35,Buddhist,5,129
+From: 04 Jan 2012,To: 04 Jan 2012,Burma,FY 2012,35,Christian,24,129
+From: 04 Jan 2012,To: 04 Jan 2012,Burma,FY 2012,35,Hindu,2,129
+From: 04 Jan 2012,To: 04 Jan 2012,Dem. Rep. Congo,FY 2012,8,Protestant,8,129
+From: 04 Jan 2012,To: 04 Jan 2012,Iraq,FY 2012,16,Catholic,2,129
+From: 04 Jan 2012,To: 04 Jan 2012,Iraq,FY 2012,16,Moslem Shiite,10,129
+From: 04 Jan 2012,To: 04 Jan 2012,Iraq,FY 2012,16,Moslem Suni,4,129
+From: 04 Jan 2012,To: 04 Jan 2012,Rwanda,FY 2012,6,Seventh Day Adventist,6,129
+From: 04 Jan 2012,To: 04 Jan 2012,Somalia,FY 2012,9,Moslem,9,129
+From: 04 Jan 2012,To: 04 Jan 2012,Sudan,FY 2012,20,Moslem,20,129
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Jan 2012,To: 04 Jan 2012,Baptist,FY 2012,4,Burma,4,129
+From: 04 Jan 2012,To: 04 Jan 2012,Buddhist,FY 2012,17,Bhutan,12,129
+From: 04 Jan 2012,To: 04 Jan 2012,Buddhist,FY 2012,17,Burma,5,129
+From: 04 Jan 2012,To: 04 Jan 2012,Catholic,FY 2012,2,Iraq,2,129
+From: 04 Jan 2012,To: 04 Jan 2012,Christian,FY 2012,24,Burma,24,129
+From: 04 Jan 2012,To: 04 Jan 2012,Hindu,FY 2012,22,Bhutan,20,129
+From: 04 Jan 2012,To: 04 Jan 2012,Hindu,FY 2012,22,Burma,2,129
+From: 04 Jan 2012,To: 04 Jan 2012,Kirat,FY 2012,3,Bhutan,3,129
+From: 04 Jan 2012,To: 04 Jan 2012,Moslem,FY 2012,29,Somalia,9,129
+From: 04 Jan 2012,To: 04 Jan 2012,Moslem,FY 2012,29,Sudan,20,129
+From: 04 Jan 2012,To: 04 Jan 2012,Moslem Shiite,FY 2012,10,Iraq,10,129
+From: 04 Jan 2012,To: 04 Jan 2012,Moslem Suni,FY 2012,4,Iraq,4,129
+From: 04 Jan 2012,To: 04 Jan 2012,Protestant,FY 2012,8,Dem. Rep. Congo,8,129
+From: 04 Jan 2012,To: 04 Jan 2012,Seventh Day Adventist,FY 2012,6,Rwanda,6,129
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jul 2009,To: 27 Jul 2009,Bhutan,FY 2009,110,Buddhist,20,385
+From: 27 Jul 2009,To: 27 Jul 2009,Bhutan,FY 2009,110,Christian,3,385
+From: 27 Jul 2009,To: 27 Jul 2009,Bhutan,FY 2009,110,Hindu,87,385
+From: 27 Jul 2009,To: 27 Jul 2009,Burma,FY 2009,68,Animist,4,385
+From: 27 Jul 2009,To: 27 Jul 2009,Burma,FY 2009,68,Buddhist,8,385
+From: 27 Jul 2009,To: 27 Jul 2009,Burma,FY 2009,68,Catholic,6,385
+From: 27 Jul 2009,To: 27 Jul 2009,Burma,FY 2009,68,Christian,50,385
+From: 27 Jul 2009,To: 27 Jul 2009,Burundi,FY 2009,1,Moslem,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Central African Republic,FY 2009,19,Christian,9,385
+From: 27 Jul 2009,To: 27 Jul 2009,Central African Republic,FY 2009,19,Moslem,10,385
+From: 27 Jul 2009,To: 27 Jul 2009,Dem. Rep. Congo,FY 2009,2,Jehovah Witness,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Dem. Rep. Congo,FY 2009,2,Pentecostalist,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Eritrea,FY 2009,2,Christian,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Eritrea,FY 2009,2,Protestant,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Ethiopia,FY 2009,4,Orthodox,4,385
+From: 27 Jul 2009,To: 27 Jul 2009,Iraq,FY 2009,129,Catholic,9,385
+From: 27 Jul 2009,To: 27 Jul 2009,Iraq,FY 2009,129,Christian,33,385
+From: 27 Jul 2009,To: 27 Jul 2009,Iraq,FY 2009,129,Moslem Shiite,25,385
+From: 27 Jul 2009,To: 27 Jul 2009,Iraq,FY 2009,129,Moslem Suni,44,385
+From: 27 Jul 2009,To: 27 Jul 2009,Iraq,FY 2009,129,Orthodox,5,385
+From: 27 Jul 2009,To: 27 Jul 2009,Iraq,FY 2009,129,Sabeans-Mandean,13,385
+From: 27 Jul 2009,To: 27 Jul 2009,Liberia,FY 2009,2,Moslem,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Liberia,FY 2009,2,Unknown,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moldova,FY 2009,18,Baptist,6,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moldova,FY 2009,18,Jehovah Witness,5,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moldova,FY 2009,18,Pentecostalist,7,385
+From: 27 Jul 2009,To: 27 Jul 2009,Somalia,FY 2009,29,Moslem,29,385
+From: 27 Jul 2009,To: 27 Jul 2009,Sudan,FY 2009,1,Protestant,1,385
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jul 2009,To: 27 Jul 2009,Animist,FY 2009,4,Burma,4,385
+From: 27 Jul 2009,To: 27 Jul 2009,Baptist,FY 2009,6,Moldova,6,385
+From: 27 Jul 2009,To: 27 Jul 2009,Buddhist,FY 2009,28,Bhutan,20,385
+From: 27 Jul 2009,To: 27 Jul 2009,Buddhist,FY 2009,28,Burma,8,385
+From: 27 Jul 2009,To: 27 Jul 2009,Catholic,FY 2009,15,Burma,6,385
+From: 27 Jul 2009,To: 27 Jul 2009,Catholic,FY 2009,15,Iraq,9,385
+From: 27 Jul 2009,To: 27 Jul 2009,Christian,FY 2009,96,Bhutan,3,385
+From: 27 Jul 2009,To: 27 Jul 2009,Christian,FY 2009,96,Burma,50,385
+From: 27 Jul 2009,To: 27 Jul 2009,Christian,FY 2009,96,Central African Republic,9,385
+From: 27 Jul 2009,To: 27 Jul 2009,Christian,FY 2009,96,Eritrea,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Christian,FY 2009,96,Iraq,33,385
+From: 27 Jul 2009,To: 27 Jul 2009,Hindu,FY 2009,87,Bhutan,87,385
+From: 27 Jul 2009,To: 27 Jul 2009,Jehovah Witness,FY 2009,6,Dem. Rep. Congo,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Jehovah Witness,FY 2009,6,Moldova,5,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moslem,FY 2009,41,Burundi,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moslem,FY 2009,41,Central African Republic,10,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moslem,FY 2009,41,Liberia,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moslem,FY 2009,41,Somalia,29,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moslem Shiite,FY 2009,25,Iraq,25,385
+From: 27 Jul 2009,To: 27 Jul 2009,Moslem Suni,FY 2009,44,Iraq,44,385
+From: 27 Jul 2009,To: 27 Jul 2009,Orthodox,FY 2009,9,Ethiopia,4,385
+From: 27 Jul 2009,To: 27 Jul 2009,Orthodox,FY 2009,9,Iraq,5,385
+From: 27 Jul 2009,To: 27 Jul 2009,Pentecostalist,FY 2009,8,Dem. Rep. Congo,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Pentecostalist,FY 2009,8,Moldova,7,385
+From: 27 Jul 2009,To: 27 Jul 2009,Protestant,FY 2009,2,Eritrea,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Protestant,FY 2009,2,Sudan,1,385
+From: 27 Jul 2009,To: 27 Jul 2009,Sabeans-Mandean,FY 2009,13,Iraq,13,385
+From: 27 Jul 2009,To: 27 Jul 2009,Unknown,FY 2009,1,Liberia,1,385
+

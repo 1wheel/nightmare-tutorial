@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jul 2013,To: 25 Jul 2013,Bhutan,FY 2013,12,Christian,5,302
+From: 25 Jul 2013,To: 25 Jul 2013,Bhutan,FY 2013,12,Hindu,7,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burma,FY 2013,195,Animist,17,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burma,FY 2013,195,Baptist,2,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burma,FY 2013,195,Buddhist,38,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burma,FY 2013,195,Catholic,13,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burma,FY 2013,195,Christian,122,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burma,FY 2013,195,Moslem,3,302
+From: 25 Jul 2013,To: 25 Jul 2013,Burundi,FY 2013,10,Methodist,10,302
+From: 25 Jul 2013,To: 25 Jul 2013,Dem. Rep. Congo,FY 2013,10,Catholic,5,302
+From: 25 Jul 2013,To: 25 Jul 2013,Dem. Rep. Congo,FY 2013,10,Pentecostalist,2,302
+From: 25 Jul 2013,To: 25 Jul 2013,Dem. Rep. Congo,FY 2013,10,Protestant,3,302
+From: 25 Jul 2013,To: 25 Jul 2013,Iran,FY 2013,12,Christian,10,302
+From: 25 Jul 2013,To: 25 Jul 2013,Iran,FY 2013,12,Zoroastrian,2,302
+From: 25 Jul 2013,To: 25 Jul 2013,Iraq,FY 2013,33,Catholic,12,302
+From: 25 Jul 2013,To: 25 Jul 2013,Iraq,FY 2013,33,Moslem Shiite,8,302
+From: 25 Jul 2013,To: 25 Jul 2013,Iraq,FY 2013,33,Moslem Suni,13,302
+From: 25 Jul 2013,To: 25 Jul 2013,Pakistan,FY 2013,3,Ahmadiyya,3,302
+From: 25 Jul 2013,To: 25 Jul 2013,Somalia,FY 2013,18,Moslem,18,302
+From: 25 Jul 2013,To: 25 Jul 2013,Sudan,FY 2013,9,Moslem,9,302
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jul 2013,To: 25 Jul 2013,Ahmadiyya,FY 2013,3,Pakistan,3,302
+From: 25 Jul 2013,To: 25 Jul 2013,Animist,FY 2013,17,Burma,17,302
+From: 25 Jul 2013,To: 25 Jul 2013,Baptist,FY 2013,2,Burma,2,302
+From: 25 Jul 2013,To: 25 Jul 2013,Buddhist,FY 2013,38,Burma,38,302
+From: 25 Jul 2013,To: 25 Jul 2013,Catholic,FY 2013,30,Burma,13,302
+From: 25 Jul 2013,To: 25 Jul 2013,Catholic,FY 2013,30,Dem. Rep. Congo,5,302
+From: 25 Jul 2013,To: 25 Jul 2013,Catholic,FY 2013,30,Iraq,12,302
+From: 25 Jul 2013,To: 25 Jul 2013,Christian,FY 2013,137,Bhutan,5,302
+From: 25 Jul 2013,To: 25 Jul 2013,Christian,FY 2013,137,Burma,122,302
+From: 25 Jul 2013,To: 25 Jul 2013,Christian,FY 2013,137,Iran,10,302
+From: 25 Jul 2013,To: 25 Jul 2013,Hindu,FY 2013,7,Bhutan,7,302
+From: 25 Jul 2013,To: 25 Jul 2013,Methodist,FY 2013,10,Burundi,10,302
+From: 25 Jul 2013,To: 25 Jul 2013,Moslem,FY 2013,30,Burma,3,302
+From: 25 Jul 2013,To: 25 Jul 2013,Moslem,FY 2013,30,Somalia,18,302
+From: 25 Jul 2013,To: 25 Jul 2013,Moslem,FY 2013,30,Sudan,9,302
+From: 25 Jul 2013,To: 25 Jul 2013,Moslem Shiite,FY 2013,8,Iraq,8,302
+From: 25 Jul 2013,To: 25 Jul 2013,Moslem Suni,FY 2013,13,Iraq,13,302
+From: 25 Jul 2013,To: 25 Jul 2013,Pentecostalist,FY 2013,2,Dem. Rep. Congo,2,302
+From: 25 Jul 2013,To: 25 Jul 2013,Protestant,FY 2013,3,Dem. Rep. Congo,3,302
+From: 25 Jul 2013,To: 25 Jul 2013,Zoroastrian,FY 2013,2,Iran,2,302
+

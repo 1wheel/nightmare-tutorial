@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Apr 2012,To: 02 Apr 2012,Afghanistan,FY 2012,2,Moslem Shiite,2,110
+From: 02 Apr 2012,To: 02 Apr 2012,Bhutan,FY 2012,16,Buddhist,13,110
+From: 02 Apr 2012,To: 02 Apr 2012,Bhutan,FY 2012,16,Hindu,3,110
+From: 02 Apr 2012,To: 02 Apr 2012,Burma,FY 2012,8,Baptist,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Burma,FY 2012,8,Christian,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Eritrea,FY 2012,1,Christian,1,110
+From: 02 Apr 2012,To: 02 Apr 2012,Iran,FY 2012,19,Bahai,13,110
+From: 02 Apr 2012,To: 02 Apr 2012,Iran,FY 2012,19,Moslem Shiite,6,110
+From: 02 Apr 2012,To: 02 Apr 2012,Iraq,FY 2012,35,Catholic,12,110
+From: 02 Apr 2012,To: 02 Apr 2012,Iraq,FY 2012,35,Moslem Shiite,13,110
+From: 02 Apr 2012,To: 02 Apr 2012,Iraq,FY 2012,35,Moslem Suni,10,110
+From: 02 Apr 2012,To: 02 Apr 2012,Somalia,FY 2012,16,Moslem,12,110
+From: 02 Apr 2012,To: 02 Apr 2012,Somalia,FY 2012,16,Moslem Suni,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Sri Lanka (Ceylon),FY 2012,4,Catholic,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Sudan,FY 2012,9,Moslem,8,110
+From: 02 Apr 2012,To: 02 Apr 2012,Sudan,FY 2012,9,Moslem Suni,1,110
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Apr 2012,To: 02 Apr 2012,Bahai,FY 2012,13,Iran,13,110
+From: 02 Apr 2012,To: 02 Apr 2012,Baptist,FY 2012,4,Burma,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Buddhist,FY 2012,13,Bhutan,13,110
+From: 02 Apr 2012,To: 02 Apr 2012,Catholic,FY 2012,16,Iraq,12,110
+From: 02 Apr 2012,To: 02 Apr 2012,Catholic,FY 2012,16,Sri Lanka (Ceylon),4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Christian,FY 2012,5,Burma,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Christian,FY 2012,5,Eritrea,1,110
+From: 02 Apr 2012,To: 02 Apr 2012,Hindu,FY 2012,3,Bhutan,3,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem,FY 2012,20,Somalia,12,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem,FY 2012,20,Sudan,8,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem Shiite,FY 2012,21,Afghanistan,2,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem Shiite,FY 2012,21,Iran,6,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem Shiite,FY 2012,21,Iraq,13,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem Suni,FY 2012,15,Iraq,10,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem Suni,FY 2012,15,Somalia,4,110
+From: 02 Apr 2012,To: 02 Apr 2012,Moslem Suni,FY 2012,15,Sudan,1,110
+

@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Dec 2014,To: 17 Dec 2014,Afghanistan,FY 2015,5,Moslem Suni,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Armenia,FY 2015,4,Pentecostalist,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Burma,FY 2015,143,Baptist,3,527
+From: 17 Dec 2014,To: 17 Dec 2014,Burma,FY 2015,143,Buddhist,20,527
+From: 17 Dec 2014,To: 17 Dec 2014,Burma,FY 2015,143,Catholic,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Burma,FY 2015,143,Christian,87,527
+From: 17 Dec 2014,To: 17 Dec 2014,Burma,FY 2015,143,Moslem,31,527
+From: 17 Dec 2014,To: 17 Dec 2014,Central African Republic,FY 2015,5,Protestant,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Dem. Rep. Congo,FY 2015,63,Catholic,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Dem. Rep. Congo,FY 2015,63,Pentecostalist,19,527
+From: 17 Dec 2014,To: 17 Dec 2014,Dem. Rep. Congo,FY 2015,63,Protestant,11,527
+From: 17 Dec 2014,To: 17 Dec 2014,Dem. Rep. Congo,FY 2015,63,Seventh Day Adventist,29,527
+From: 17 Dec 2014,To: 17 Dec 2014,Eritrea,FY 2015,5,Moslem,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Eritrea,FY 2015,5,Orthodox,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Ethiopia,FY 2015,3,Christian,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Ethiopia,FY 2015,3,Moslem,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Bahai,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Christian,27,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Jewish,3,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Moslem,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Moslem Shiite,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Protestant,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Sabeans-Mandean,10,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iran,FY 2015,50,Zoroastrian,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iraq,FY 2015,113,Catholic,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iraq,FY 2015,113,Christian,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iraq,FY 2015,113,Moslem,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iraq,FY 2015,113,Moslem Shiite,51,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iraq,FY 2015,113,Moslem Suni,46,527
+From: 17 Dec 2014,To: 17 Dec 2014,Iraq,FY 2015,113,Orthodox,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Palestine,FY 2015,5,Moslem Suni,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Russia,FY 2015,9,Baptist,7,527
+From: 17 Dec 2014,To: 17 Dec 2014,Russia,FY 2015,9,Pentecostalist,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Russia,FY 2015,9,Seventh Day Adventist,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Somalia,FY 2015,113,Moslem,101,527
+From: 17 Dec 2014,To: 17 Dec 2014,Somalia,FY 2015,113,Moslem Suni,12,527
+From: 17 Dec 2014,To: 17 Dec 2014,Sudan,FY 2015,1,Moslem,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Syria,FY 2015,8,Moslem Suni,8,527
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Dec 2014,To: 17 Dec 2014,Bahai,FY 2015,1,Iran,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Baptist,FY 2015,10,Burma,3,527
+From: 17 Dec 2014,To: 17 Dec 2014,Baptist,FY 2015,10,Russia,7,527
+From: 17 Dec 2014,To: 17 Dec 2014,Buddhist,FY 2015,20,Burma,20,527
+From: 17 Dec 2014,To: 17 Dec 2014,Catholic,FY 2015,11,Burma,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Catholic,FY 2015,11,Dem. Rep. Congo,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Catholic,FY 2015,11,Iraq,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Christian,FY 2015,120,Burma,87,527
+From: 17 Dec 2014,To: 17 Dec 2014,Christian,FY 2015,120,Ethiopia,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Christian,FY 2015,120,Iran,27,527
+From: 17 Dec 2014,To: 17 Dec 2014,Christian,FY 2015,120,Iraq,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Jewish,FY 2015,3,Iran,3,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Burma,31,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Eritrea,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Ethiopia,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Iran,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Iraq,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Somalia,101,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem,FY 2015,139,Sudan,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Shiite,FY 2015,53,Iran,2,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Shiite,FY 2015,53,Iraq,51,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Suni,FY 2015,76,Afghanistan,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Suni,FY 2015,76,Iraq,46,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Suni,FY 2015,76,Palestine,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Suni,FY 2015,76,Somalia,12,527
+From: 17 Dec 2014,To: 17 Dec 2014,Moslem Suni,FY 2015,76,Syria,8,527
+From: 17 Dec 2014,To: 17 Dec 2014,Orthodox,FY 2015,8,Eritrea,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Orthodox,FY 2015,8,Iraq,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Pentecostalist,FY 2015,24,Armenia,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Pentecostalist,FY 2015,24,Dem. Rep. Congo,19,527
+From: 17 Dec 2014,To: 17 Dec 2014,Pentecostalist,FY 2015,24,Russia,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Protestant,FY 2015,20,Central African Republic,5,527
+From: 17 Dec 2014,To: 17 Dec 2014,Protestant,FY 2015,20,Dem. Rep. Congo,11,527
+From: 17 Dec 2014,To: 17 Dec 2014,Protestant,FY 2015,20,Iran,4,527
+From: 17 Dec 2014,To: 17 Dec 2014,Sabeans-Mandean,FY 2015,10,Iran,10,527
+From: 17 Dec 2014,To: 17 Dec 2014,Seventh Day Adventist,FY 2015,30,Dem. Rep. Congo,29,527
+From: 17 Dec 2014,To: 17 Dec 2014,Seventh Day Adventist,FY 2015,30,Russia,1,527
+From: 17 Dec 2014,To: 17 Dec 2014,Zoroastrian,FY 2015,2,Iran,2,527
+

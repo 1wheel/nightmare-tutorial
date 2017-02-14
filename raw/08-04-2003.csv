@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Aug 2003,To: 04 Aug 2003,Ethiopia,FY 2003,8,Christian,2,174
+From: 04 Aug 2003,To: 04 Aug 2003,Ethiopia,FY 2003,8,Moslem,1,174
+From: 04 Aug 2003,To: 04 Aug 2003,Ethiopia,FY 2003,8,Orthodox,5,174
+From: 04 Aug 2003,To: 04 Aug 2003,Iran,FY 2003,29,Bahai,22,174
+From: 04 Aug 2003,To: 04 Aug 2003,Iran,FY 2003,29,Moslem,4,174
+From: 04 Aug 2003,To: 04 Aug 2003,Iran,FY 2003,29,Protestant,3,174
+From: 04 Aug 2003,To: 04 Aug 2003,Liberia,FY 2003,48,Baptist,5,174
+From: 04 Aug 2003,To: 04 Aug 2003,Liberia,FY 2003,48,Catholic,3,174
+From: 04 Aug 2003,To: 04 Aug 2003,Liberia,FY 2003,48,Christian,35,174
+From: 04 Aug 2003,To: 04 Aug 2003,Liberia,FY 2003,48,Moslem,2,174
+From: 04 Aug 2003,To: 04 Aug 2003,Liberia,FY 2003,48,Pentecostalist,3,174
+From: 04 Aug 2003,To: 04 Aug 2003,Sierra Leone,FY 2003,6,Moslem,6,174
+From: 04 Aug 2003,To: 04 Aug 2003,Somalia,FY 2003,41,Moslem,41,174
+From: 04 Aug 2003,To: 04 Aug 2003,Sudan,FY 2003,1,Christian,1,174
+From: 04 Aug 2003,To: 04 Aug 2003,Togo,FY 2003,7,Christian,7,174
+From: 04 Aug 2003,To: 04 Aug 2003,Ukraine,FY 2003,34,Baptist,17,174
+From: 04 Aug 2003,To: 04 Aug 2003,Ukraine,FY 2003,34,Jewish,2,174
+From: 04 Aug 2003,To: 04 Aug 2003,Ukraine,FY 2003,34,Pentecostalist,13,174
+From: 04 Aug 2003,To: 04 Aug 2003,Ukraine,FY 2003,34,Unknown,2,174
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Aug 2003,To: 04 Aug 2003,Bahai,FY 2003,22,Iran,22,174
+From: 04 Aug 2003,To: 04 Aug 2003,Baptist,FY 2003,22,Liberia,5,174
+From: 04 Aug 2003,To: 04 Aug 2003,Baptist,FY 2003,22,Ukraine,17,174
+From: 04 Aug 2003,To: 04 Aug 2003,Catholic,FY 2003,3,Liberia,3,174
+From: 04 Aug 2003,To: 04 Aug 2003,Christian,FY 2003,45,Ethiopia,2,174
+From: 04 Aug 2003,To: 04 Aug 2003,Christian,FY 2003,45,Liberia,35,174
+From: 04 Aug 2003,To: 04 Aug 2003,Christian,FY 2003,45,Sudan,1,174
+From: 04 Aug 2003,To: 04 Aug 2003,Christian,FY 2003,45,Togo,7,174
+From: 04 Aug 2003,To: 04 Aug 2003,Jewish,FY 2003,2,Ukraine,2,174
+From: 04 Aug 2003,To: 04 Aug 2003,Moslem,FY 2003,54,Ethiopia,1,174
+From: 04 Aug 2003,To: 04 Aug 2003,Moslem,FY 2003,54,Iran,4,174
+From: 04 Aug 2003,To: 04 Aug 2003,Moslem,FY 2003,54,Liberia,2,174
+From: 04 Aug 2003,To: 04 Aug 2003,Moslem,FY 2003,54,Sierra Leone,6,174
+From: 04 Aug 2003,To: 04 Aug 2003,Moslem,FY 2003,54,Somalia,41,174
+From: 04 Aug 2003,To: 04 Aug 2003,Orthodox,FY 2003,5,Ethiopia,5,174
+From: 04 Aug 2003,To: 04 Aug 2003,Pentecostalist,FY 2003,16,Liberia,3,174
+From: 04 Aug 2003,To: 04 Aug 2003,Pentecostalist,FY 2003,16,Ukraine,13,174
+From: 04 Aug 2003,To: 04 Aug 2003,Protestant,FY 2003,3,Iran,3,174
+From: 04 Aug 2003,To: 04 Aug 2003,Unknown,FY 2003,2,Ukraine,2,174
+

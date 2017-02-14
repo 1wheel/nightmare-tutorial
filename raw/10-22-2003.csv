@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Oct 2003,To: 22 Oct 2003,Belarus,FY 2004,25,Jewish,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Belarus,FY 2004,25,Pentecostalist,23,125
+From: 22 Oct 2003,To: 22 Oct 2003,Cuba,FY 2004,31,Catholic,9,125
+From: 22 Oct 2003,To: 22 Oct 2003,Cuba,FY 2004,31,Christian,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Cuba,FY 2004,31,No Religion,20,125
+From: 22 Oct 2003,To: 22 Oct 2003,Estonia,FY 2004,6,Baptist,6,125
+From: 22 Oct 2003,To: 22 Oct 2003,Russia,FY 2004,27,Baptist,13,125
+From: 22 Oct 2003,To: 22 Oct 2003,Russia,FY 2004,27,Jewish,8,125
+From: 22 Oct 2003,To: 22 Oct 2003,Russia,FY 2004,27,Pentecostalist,4,125
+From: 22 Oct 2003,To: 22 Oct 2003,Russia,FY 2004,27,Unknown,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Sudan,FY 2004,35,Catholic,8,125
+From: 22 Oct 2003,To: 22 Oct 2003,Sudan,FY 2004,35,Christian,4,125
+From: 22 Oct 2003,To: 22 Oct 2003,Sudan,FY 2004,35,Evangelical Christian,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Sudan,FY 2004,35,Moslem,7,125
+From: 22 Oct 2003,To: 22 Oct 2003,Sudan,FY 2004,35,Protestant,13,125
+From: 22 Oct 2003,To: 22 Oct 2003,Sudan,FY 2004,35,Seventh Day Adventist,1,125
+From: 22 Oct 2003,To: 22 Oct 2003,Uzbekistan,FY 2004,1,Unknown,1,125
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Oct 2003,To: 22 Oct 2003,Baptist,FY 2004,19,Estonia,6,125
+From: 22 Oct 2003,To: 22 Oct 2003,Baptist,FY 2004,19,Russia,13,125
+From: 22 Oct 2003,To: 22 Oct 2003,Catholic,FY 2004,17,Cuba,9,125
+From: 22 Oct 2003,To: 22 Oct 2003,Catholic,FY 2004,17,Sudan,8,125
+From: 22 Oct 2003,To: 22 Oct 2003,Christian,FY 2004,6,Cuba,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Christian,FY 2004,6,Sudan,4,125
+From: 22 Oct 2003,To: 22 Oct 2003,Evangelical Christian,FY 2004,2,Sudan,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Jewish,FY 2004,10,Belarus,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Jewish,FY 2004,10,Russia,8,125
+From: 22 Oct 2003,To: 22 Oct 2003,Moslem,FY 2004,7,Sudan,7,125
+From: 22 Oct 2003,To: 22 Oct 2003,No Religion,FY 2004,20,Cuba,20,125
+From: 22 Oct 2003,To: 22 Oct 2003,Pentecostalist,FY 2004,27,Belarus,23,125
+From: 22 Oct 2003,To: 22 Oct 2003,Pentecostalist,FY 2004,27,Russia,4,125
+From: 22 Oct 2003,To: 22 Oct 2003,Protestant,FY 2004,13,Sudan,13,125
+From: 22 Oct 2003,To: 22 Oct 2003,Seventh Day Adventist,FY 2004,1,Sudan,1,125
+From: 22 Oct 2003,To: 22 Oct 2003,Unknown,FY 2004,3,Russia,2,125
+From: 22 Oct 2003,To: 22 Oct 2003,Unknown,FY 2004,3,Uzbekistan,1,125
+

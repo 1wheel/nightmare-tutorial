@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Mar 2004,To: 04 Mar 2004,Ethiopia,FY 2004,39,Catholic,5,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ethiopia,FY 2004,39,Christian,6,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ethiopia,FY 2004,39,Moslem,2,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ethiopia,FY 2004,39,Old Believer,9,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ethiopia,FY 2004,39,Orthodox,8,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ethiopia,FY 2004,39,Protestant,9,153
+From: 04 Mar 2004,To: 04 Mar 2004,Haiti,FY 2004,1,Catholic,1,153
+From: 04 Mar 2004,To: 04 Mar 2004,Russia,FY 2004,31,Baptist,2,153
+From: 04 Mar 2004,To: 04 Mar 2004,Russia,FY 2004,31,Jewish,12,153
+From: 04 Mar 2004,To: 04 Mar 2004,Russia,FY 2004,31,Pentecostalist,17,153
+From: 04 Mar 2004,To: 04 Mar 2004,Somalia,FY 2004,57,Moslem,57,153
+From: 04 Mar 2004,To: 04 Mar 2004,Sudan,FY 2004,3,Christian,2,153
+From: 04 Mar 2004,To: 04 Mar 2004,Sudan,FY 2004,3,Protestant,1,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ukraine,FY 2004,22,Baptist,9,153
+From: 04 Mar 2004,To: 04 Mar 2004,Ukraine,FY 2004,22,Pentecostalist,13,153
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Mar 2004,To: 04 Mar 2004,Baptist,FY 2004,11,Russia,2,153
+From: 04 Mar 2004,To: 04 Mar 2004,Baptist,FY 2004,11,Ukraine,9,153
+From: 04 Mar 2004,To: 04 Mar 2004,Catholic,FY 2004,6,Ethiopia,5,153
+From: 04 Mar 2004,To: 04 Mar 2004,Catholic,FY 2004,6,Haiti,1,153
+From: 04 Mar 2004,To: 04 Mar 2004,Christian,FY 2004,8,Ethiopia,6,153
+From: 04 Mar 2004,To: 04 Mar 2004,Christian,FY 2004,8,Sudan,2,153
+From: 04 Mar 2004,To: 04 Mar 2004,Jewish,FY 2004,12,Russia,12,153
+From: 04 Mar 2004,To: 04 Mar 2004,Moslem,FY 2004,59,Ethiopia,2,153
+From: 04 Mar 2004,To: 04 Mar 2004,Moslem,FY 2004,59,Somalia,57,153
+From: 04 Mar 2004,To: 04 Mar 2004,Old Believer,FY 2004,9,Ethiopia,9,153
+From: 04 Mar 2004,To: 04 Mar 2004,Orthodox,FY 2004,8,Ethiopia,8,153
+From: 04 Mar 2004,To: 04 Mar 2004,Pentecostalist,FY 2004,30,Russia,17,153
+From: 04 Mar 2004,To: 04 Mar 2004,Pentecostalist,FY 2004,30,Ukraine,13,153
+From: 04 Mar 2004,To: 04 Mar 2004,Protestant,FY 2004,10,Ethiopia,9,153
+From: 04 Mar 2004,To: 04 Mar 2004,Protestant,FY 2004,10,Sudan,1,153
+

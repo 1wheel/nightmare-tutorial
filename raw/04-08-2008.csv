@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Apr 2008,To: 08 Apr 2008,Bhutan,FY 2008,30,Buddhist,4,201
+From: 08 Apr 2008,To: 08 Apr 2008,Bhutan,FY 2008,30,Christian,6,201
+From: 08 Apr 2008,To: 08 Apr 2008,Bhutan,FY 2008,30,Hindu,17,201
+From: 08 Apr 2008,To: 08 Apr 2008,Bhutan,FY 2008,30,Pentecostalist,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Burma,FY 2008,35,Buddhist,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Burma,FY 2008,35,Christian,32,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iran,FY 2008,48,Bahai,6,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iran,FY 2008,48,Catholic,2,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iran,FY 2008,48,Christian,35,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iran,FY 2008,48,Moslem Shiite,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iran,FY 2008,48,Moslem Suni,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iran,FY 2008,48,Protestant,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iraq,FY 2008,55,Catholic,22,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iraq,FY 2008,55,Christian,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iraq,FY 2008,55,Moslem Shiite,14,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iraq,FY 2008,55,Moslem Suni,8,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iraq,FY 2008,55,Orthodox,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Iraq,FY 2008,55,Sabeans-Mandean,7,201
+From: 08 Apr 2008,To: 08 Apr 2008,Liberia,FY 2008,2,Christian,2,201
+From: 08 Apr 2008,To: 08 Apr 2008,Russia,FY 2008,11,Baptist,4,201
+From: 08 Apr 2008,To: 08 Apr 2008,Russia,FY 2008,11,Moslem,5,201
+From: 08 Apr 2008,To: 08 Apr 2008,Russia,FY 2008,11,Orthodox,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Russia,FY 2008,11,Russian Orthodox,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Somalia,FY 2008,1,Christian,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Sudan,FY 2008,1,Catholic,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Ukraine,FY 2008,18,Baptist,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Ukraine,FY 2008,18,Pentecostalist,15,201
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Apr 2008,To: 08 Apr 2008,Bahai,FY 2008,6,Iran,6,201
+From: 08 Apr 2008,To: 08 Apr 2008,Baptist,FY 2008,7,Russia,4,201
+From: 08 Apr 2008,To: 08 Apr 2008,Baptist,FY 2008,7,Ukraine,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Buddhist,FY 2008,7,Bhutan,4,201
+From: 08 Apr 2008,To: 08 Apr 2008,Buddhist,FY 2008,7,Burma,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Catholic,FY 2008,25,Iran,2,201
+From: 08 Apr 2008,To: 08 Apr 2008,Catholic,FY 2008,25,Iraq,22,201
+From: 08 Apr 2008,To: 08 Apr 2008,Catholic,FY 2008,25,Sudan,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Christian,FY 2008,77,Bhutan,6,201
+From: 08 Apr 2008,To: 08 Apr 2008,Christian,FY 2008,77,Burma,32,201
+From: 08 Apr 2008,To: 08 Apr 2008,Christian,FY 2008,77,Iran,35,201
+From: 08 Apr 2008,To: 08 Apr 2008,Christian,FY 2008,77,Iraq,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Christian,FY 2008,77,Liberia,2,201
+From: 08 Apr 2008,To: 08 Apr 2008,Christian,FY 2008,77,Somalia,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Hindu,FY 2008,17,Bhutan,17,201
+From: 08 Apr 2008,To: 08 Apr 2008,Moslem,FY 2008,5,Russia,5,201
+From: 08 Apr 2008,To: 08 Apr 2008,Moslem Shiite,FY 2008,15,Iran,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Moslem Shiite,FY 2008,15,Iraq,14,201
+From: 08 Apr 2008,To: 08 Apr 2008,Moslem Suni,FY 2008,9,Iran,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Moslem Suni,FY 2008,9,Iraq,8,201
+From: 08 Apr 2008,To: 08 Apr 2008,Orthodox,FY 2008,4,Iraq,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Orthodox,FY 2008,4,Russia,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Pentecostalist,FY 2008,18,Bhutan,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Pentecostalist,FY 2008,18,Ukraine,15,201
+From: 08 Apr 2008,To: 08 Apr 2008,Protestant,FY 2008,3,Iran,3,201
+From: 08 Apr 2008,To: 08 Apr 2008,Russian Orthodox,FY 2008,1,Russia,1,201
+From: 08 Apr 2008,To: 08 Apr 2008,Sabeans-Mandean,FY 2008,7,Iraq,7,201
+

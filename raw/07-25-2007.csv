@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jul 2007,To: 25 Jul 2007,Burma,FY 2007,138,Buddhist,12,375
+From: 25 Jul 2007,To: 25 Jul 2007,Burma,FY 2007,138,Christian,103,375
+From: 25 Jul 2007,To: 25 Jul 2007,Burma,FY 2007,138,Moslem,23,375
+From: 25 Jul 2007,To: 25 Jul 2007,Burundi,FY 2007,66,Catholic,34,375
+From: 25 Jul 2007,To: 25 Jul 2007,Burundi,FY 2007,66,Pentecostalist,27,375
+From: 25 Jul 2007,To: 25 Jul 2007,Burundi,FY 2007,66,Seventh Day Adventist,5,375
+From: 25 Jul 2007,To: 25 Jul 2007,Eritrea,FY 2007,36,Catholic,9,375
+From: 25 Jul 2007,To: 25 Jul 2007,Eritrea,FY 2007,36,Christian,7,375
+From: 25 Jul 2007,To: 25 Jul 2007,Eritrea,FY 2007,36,Moslem,15,375
+From: 25 Jul 2007,To: 25 Jul 2007,Eritrea,FY 2007,36,Orthodox,5,375
+From: 25 Jul 2007,To: 25 Jul 2007,Iran,FY 2007,65,Bahai,38,375
+From: 25 Jul 2007,To: 25 Jul 2007,Iran,FY 2007,65,Catholic,4,375
+From: 25 Jul 2007,To: 25 Jul 2007,Iran,FY 2007,65,Christian,11,375
+From: 25 Jul 2007,To: 25 Jul 2007,Iran,FY 2007,65,Jewish,4,375
+From: 25 Jul 2007,To: 25 Jul 2007,Iran,FY 2007,65,Moslem,1,375
+From: 25 Jul 2007,To: 25 Jul 2007,Iran,FY 2007,65,Sabeans-Mandean,7,375
+From: 25 Jul 2007,To: 25 Jul 2007,Moldova,FY 2007,18,Baptist,13,375
+From: 25 Jul 2007,To: 25 Jul 2007,Moldova,FY 2007,18,Pentecostalist,5,375
+From: 25 Jul 2007,To: 25 Jul 2007,Somalia,FY 2007,46,Moslem,46,375
+From: 25 Jul 2007,To: 25 Jul 2007,Sudan,FY 2007,6,Christian,6,375
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jul 2007,To: 25 Jul 2007,Bahai,FY 2007,38,Iran,38,375
+From: 25 Jul 2007,To: 25 Jul 2007,Baptist,FY 2007,13,Moldova,13,375
+From: 25 Jul 2007,To: 25 Jul 2007,Buddhist,FY 2007,12,Burma,12,375
+From: 25 Jul 2007,To: 25 Jul 2007,Catholic,FY 2007,47,Burundi,34,375
+From: 25 Jul 2007,To: 25 Jul 2007,Catholic,FY 2007,47,Eritrea,9,375
+From: 25 Jul 2007,To: 25 Jul 2007,Catholic,FY 2007,47,Iran,4,375
+From: 25 Jul 2007,To: 25 Jul 2007,Christian,FY 2007,127,Burma,103,375
+From: 25 Jul 2007,To: 25 Jul 2007,Christian,FY 2007,127,Eritrea,7,375
+From: 25 Jul 2007,To: 25 Jul 2007,Christian,FY 2007,127,Iran,11,375
+From: 25 Jul 2007,To: 25 Jul 2007,Christian,FY 2007,127,Sudan,6,375
+From: 25 Jul 2007,To: 25 Jul 2007,Jewish,FY 2007,4,Iran,4,375
+From: 25 Jul 2007,To: 25 Jul 2007,Moslem,FY 2007,85,Burma,23,375
+From: 25 Jul 2007,To: 25 Jul 2007,Moslem,FY 2007,85,Eritrea,15,375
+From: 25 Jul 2007,To: 25 Jul 2007,Moslem,FY 2007,85,Iran,1,375
+From: 25 Jul 2007,To: 25 Jul 2007,Moslem,FY 2007,85,Somalia,46,375
+From: 25 Jul 2007,To: 25 Jul 2007,Orthodox,FY 2007,5,Eritrea,5,375
+From: 25 Jul 2007,To: 25 Jul 2007,Pentecostalist,FY 2007,32,Burundi,27,375
+From: 25 Jul 2007,To: 25 Jul 2007,Pentecostalist,FY 2007,32,Moldova,5,375
+From: 25 Jul 2007,To: 25 Jul 2007,Sabeans-Mandean,FY 2007,7,Iran,7,375
+From: 25 Jul 2007,To: 25 Jul 2007,Seventh Day Adventist,FY 2007,5,Burundi,5,375
+

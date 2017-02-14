@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jan 2011,To: 18 Jan 2011,Bhutan,FY 2011,128,Buddhist,18,412
+From: 18 Jan 2011,To: 18 Jan 2011,Bhutan,FY 2011,128,Christian,6,412
+From: 18 Jan 2011,To: 18 Jan 2011,Bhutan,FY 2011,128,Hindu,86,412
+From: 18 Jan 2011,To: 18 Jan 2011,Bhutan,FY 2011,128,Kirat,18,412
+From: 18 Jan 2011,To: 18 Jan 2011,Burma,FY 2011,137,Baptist,7,412
+From: 18 Jan 2011,To: 18 Jan 2011,Burma,FY 2011,137,Buddhist,20,412
+From: 18 Jan 2011,To: 18 Jan 2011,Burma,FY 2011,137,Christian,87,412
+From: 18 Jan 2011,To: 18 Jan 2011,Burma,FY 2011,137,Moslem,23,412
+From: 18 Jan 2011,To: 18 Jan 2011,Eritrea,FY 2011,33,Catholic,2,412
+From: 18 Jan 2011,To: 18 Jan 2011,Eritrea,FY 2011,33,Jehovah Witness,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Eritrea,FY 2011,33,Moslem,2,412
+From: 18 Jan 2011,To: 18 Jan 2011,Eritrea,FY 2011,33,Orthodox,24,412
+From: 18 Jan 2011,To: 18 Jan 2011,Eritrea,FY 2011,33,Protestant,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iran,FY 2011,45,Bahai,6,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iran,FY 2011,45,Christian,29,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iran,FY 2011,45,Jewish,3,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iran,FY 2011,45,Moslem Shiite,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iran,FY 2011,45,No Religion,2,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iran,FY 2011,45,Zoroastrian,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iraq,FY 2011,59,Catholic,15,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iraq,FY 2011,59,Christian,33,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iraq,FY 2011,59,Moslem Shiite,8,412
+From: 18 Jan 2011,To: 18 Jan 2011,Iraq,FY 2011,59,Moslem Suni,3,412
+From: 18 Jan 2011,To: 18 Jan 2011,Laos,FY 2011,4,Animist,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Liberia,FY 2011,1,Christian,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Nepal,FY 2011,4,Christian,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Nigeria,FY 2011,1,Christian,1,412
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jan 2011,To: 18 Jan 2011,Animist,FY 2011,4,Laos,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Bahai,FY 2011,6,Iran,6,412
+From: 18 Jan 2011,To: 18 Jan 2011,Baptist,FY 2011,7,Burma,7,412
+From: 18 Jan 2011,To: 18 Jan 2011,Buddhist,FY 2011,38,Bhutan,18,412
+From: 18 Jan 2011,To: 18 Jan 2011,Buddhist,FY 2011,38,Burma,20,412
+From: 18 Jan 2011,To: 18 Jan 2011,Catholic,FY 2011,17,Eritrea,2,412
+From: 18 Jan 2011,To: 18 Jan 2011,Catholic,FY 2011,17,Iraq,15,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Bhutan,6,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Burma,87,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Iran,29,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Iraq,33,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Liberia,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Nepal,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Christian,FY 2011,161,Nigeria,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Hindu,FY 2011,86,Bhutan,86,412
+From: 18 Jan 2011,To: 18 Jan 2011,Jehovah Witness,FY 2011,1,Eritrea,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Jewish,FY 2011,3,Iran,3,412
+From: 18 Jan 2011,To: 18 Jan 2011,Kirat,FY 2011,18,Bhutan,18,412
+From: 18 Jan 2011,To: 18 Jan 2011,Moslem,FY 2011,25,Burma,23,412
+From: 18 Jan 2011,To: 18 Jan 2011,Moslem,FY 2011,25,Eritrea,2,412
+From: 18 Jan 2011,To: 18 Jan 2011,Moslem Shiite,FY 2011,9,Iran,1,412
+From: 18 Jan 2011,To: 18 Jan 2011,Moslem Shiite,FY 2011,9,Iraq,8,412
+From: 18 Jan 2011,To: 18 Jan 2011,Moslem Suni,FY 2011,3,Iraq,3,412
+From: 18 Jan 2011,To: 18 Jan 2011,No Religion,FY 2011,2,Iran,2,412
+From: 18 Jan 2011,To: 18 Jan 2011,Orthodox,FY 2011,24,Eritrea,24,412
+From: 18 Jan 2011,To: 18 Jan 2011,Protestant,FY 2011,4,Eritrea,4,412
+From: 18 Jan 2011,To: 18 Jan 2011,Zoroastrian,FY 2011,4,Iran,4,412
+

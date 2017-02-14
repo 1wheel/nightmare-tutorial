@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Sep 2008,To: 02 Sep 2008,Bhutan,FY 2008,61,Buddhist,9,381
+From: 02 Sep 2008,To: 02 Sep 2008,Bhutan,FY 2008,61,Hindu,52,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burma,FY 2008,132,Buddhist,34,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burma,FY 2008,132,Christian,98,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burundi,FY 2008,70,Baptist,1,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burundi,FY 2008,70,Catholic,8,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burundi,FY 2008,70,Christian,12,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burundi,FY 2008,70,Methodist,23,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burundi,FY 2008,70,Pentecostalist,24,381
+From: 02 Sep 2008,To: 02 Sep 2008,Burundi,FY 2008,70,Seventh Day Adventist,2,381
+From: 02 Sep 2008,To: 02 Sep 2008,Iran,FY 2008,2,Bahai,2,381
+From: 02 Sep 2008,To: 02 Sep 2008,Iraq,FY 2008,94,Catholic,22,381
+From: 02 Sep 2008,To: 02 Sep 2008,Iraq,FY 2008,94,Christian,41,381
+From: 02 Sep 2008,To: 02 Sep 2008,Iraq,FY 2008,94,Moslem Shiite,8,381
+From: 02 Sep 2008,To: 02 Sep 2008,Iraq,FY 2008,94,Moslem Suni,16,381
+From: 02 Sep 2008,To: 02 Sep 2008,Iraq,FY 2008,94,Sabeans-Mandean,7,381
+From: 02 Sep 2008,To: 02 Sep 2008,Russia,FY 2008,5,Moslem,5,381
+From: 02 Sep 2008,To: 02 Sep 2008,Sudan,FY 2008,1,Moslem,1,381
+From: 02 Sep 2008,To: 02 Sep 2008,Ukraine,FY 2008,15,Baptist,8,381
+From: 02 Sep 2008,To: 02 Sep 2008,Ukraine,FY 2008,15,Pentecostalist,7,381
+From: 02 Sep 2008,To: 02 Sep 2008,Uzbekistan,FY 2008,1,Moslem Suni,1,381
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Sep 2008,To: 02 Sep 2008,Bahai,FY 2008,2,Iran,2,381
+From: 02 Sep 2008,To: 02 Sep 2008,Baptist,FY 2008,9,Burundi,1,381
+From: 02 Sep 2008,To: 02 Sep 2008,Baptist,FY 2008,9,Ukraine,8,381
+From: 02 Sep 2008,To: 02 Sep 2008,Buddhist,FY 2008,43,Bhutan,9,381
+From: 02 Sep 2008,To: 02 Sep 2008,Buddhist,FY 2008,43,Burma,34,381
+From: 02 Sep 2008,To: 02 Sep 2008,Catholic,FY 2008,30,Burundi,8,381
+From: 02 Sep 2008,To: 02 Sep 2008,Catholic,FY 2008,30,Iraq,22,381
+From: 02 Sep 2008,To: 02 Sep 2008,Christian,FY 2008,151,Burma,98,381
+From: 02 Sep 2008,To: 02 Sep 2008,Christian,FY 2008,151,Burundi,12,381
+From: 02 Sep 2008,To: 02 Sep 2008,Christian,FY 2008,151,Iraq,41,381
+From: 02 Sep 2008,To: 02 Sep 2008,Hindu,FY 2008,52,Bhutan,52,381
+From: 02 Sep 2008,To: 02 Sep 2008,Methodist,FY 2008,23,Burundi,23,381
+From: 02 Sep 2008,To: 02 Sep 2008,Moslem,FY 2008,6,Russia,5,381
+From: 02 Sep 2008,To: 02 Sep 2008,Moslem,FY 2008,6,Sudan,1,381
+From: 02 Sep 2008,To: 02 Sep 2008,Moslem Shiite,FY 2008,8,Iraq,8,381
+From: 02 Sep 2008,To: 02 Sep 2008,Moslem Suni,FY 2008,17,Iraq,16,381
+From: 02 Sep 2008,To: 02 Sep 2008,Moslem Suni,FY 2008,17,Uzbekistan,1,381
+From: 02 Sep 2008,To: 02 Sep 2008,Pentecostalist,FY 2008,31,Burundi,24,381
+From: 02 Sep 2008,To: 02 Sep 2008,Pentecostalist,FY 2008,31,Ukraine,7,381
+From: 02 Sep 2008,To: 02 Sep 2008,Sabeans-Mandean,FY 2008,7,Iraq,7,381
+From: 02 Sep 2008,To: 02 Sep 2008,Seventh Day Adventist,FY 2008,2,Burundi,2,381
+

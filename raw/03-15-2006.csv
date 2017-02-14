@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Mar 2006,To: 15 Mar 2006,Afghanistan,FY 2006,14,Christian,5,151
+From: 15 Mar 2006,To: 15 Mar 2006,Afghanistan,FY 2006,14,Moslem Suni,9,151
+From: 15 Mar 2006,To: 15 Mar 2006,Burma,FY 2006,7,Buddhist,7,151
+From: 15 Mar 2006,To: 15 Mar 2006,China,FY 2006,1,Christian,1,151
+From: 15 Mar 2006,To: 15 Mar 2006,Colombia,FY 2006,2,Christian,2,151
+From: 15 Mar 2006,To: 15 Mar 2006,Iran,FY 2006,8,Christian,4,151
+From: 15 Mar 2006,To: 15 Mar 2006,Iran,FY 2006,8,Sabeans-Mandean,4,151
+From: 15 Mar 2006,To: 15 Mar 2006,Iraq,FY 2006,1,Moslem,1,151
+From: 15 Mar 2006,To: 15 Mar 2006,Laos,FY 2006,15,Ancestral Worship,15,151
+From: 15 Mar 2006,To: 15 Mar 2006,Liberia,FY 2006,3,Jehovah Witness,3,151
+From: 15 Mar 2006,To: 15 Mar 2006,Russia,FY 2006,34,Moslem,34,151
+From: 15 Mar 2006,To: 15 Mar 2006,Somalia,FY 2006,35,Moslem,35,151
+From: 15 Mar 2006,To: 15 Mar 2006,Ukraine,FY 2006,31,Baptist,18,151
+From: 15 Mar 2006,To: 15 Mar 2006,Ukraine,FY 2006,31,Jewish,2,151
+From: 15 Mar 2006,To: 15 Mar 2006,Ukraine,FY 2006,31,Pentecostalist,11,151
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Mar 2006,To: 15 Mar 2006,Ancestral Worship,FY 2006,15,Laos,15,151
+From: 15 Mar 2006,To: 15 Mar 2006,Baptist,FY 2006,18,Ukraine,18,151
+From: 15 Mar 2006,To: 15 Mar 2006,Buddhist,FY 2006,7,Burma,7,151
+From: 15 Mar 2006,To: 15 Mar 2006,Christian,FY 2006,12,Afghanistan,5,151
+From: 15 Mar 2006,To: 15 Mar 2006,Christian,FY 2006,12,China,1,151
+From: 15 Mar 2006,To: 15 Mar 2006,Christian,FY 2006,12,Colombia,2,151
+From: 15 Mar 2006,To: 15 Mar 2006,Christian,FY 2006,12,Iran,4,151
+From: 15 Mar 2006,To: 15 Mar 2006,Jehovah Witness,FY 2006,3,Liberia,3,151
+From: 15 Mar 2006,To: 15 Mar 2006,Jewish,FY 2006,2,Ukraine,2,151
+From: 15 Mar 2006,To: 15 Mar 2006,Moslem,FY 2006,70,Iraq,1,151
+From: 15 Mar 2006,To: 15 Mar 2006,Moslem,FY 2006,70,Russia,34,151
+From: 15 Mar 2006,To: 15 Mar 2006,Moslem,FY 2006,70,Somalia,35,151
+From: 15 Mar 2006,To: 15 Mar 2006,Moslem Suni,FY 2006,9,Afghanistan,9,151
+From: 15 Mar 2006,To: 15 Mar 2006,Pentecostalist,FY 2006,11,Ukraine,11,151
+From: 15 Mar 2006,To: 15 Mar 2006,Sabeans-Mandean,FY 2006,4,Iran,4,151
+

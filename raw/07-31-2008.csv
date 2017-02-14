@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jul 2008,To: 31 Jul 2008,Afghanistan,FY 2008,5,Moslem Suni,5,425
+From: 31 Jul 2008,To: 31 Jul 2008,Bhutan,FY 2008,70,Buddhist,10,425
+From: 31 Jul 2008,To: 31 Jul 2008,Bhutan,FY 2008,70,Christian,7,425
+From: 31 Jul 2008,To: 31 Jul 2008,Bhutan,FY 2008,70,Hindu,50,425
+From: 31 Jul 2008,To: 31 Jul 2008,Bhutan,FY 2008,70,Kirat,3,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burma,FY 2008,155,Baptist,7,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burma,FY 2008,155,Buddhist,15,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burma,FY 2008,155,Christian,86,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burma,FY 2008,155,Moslem,47,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burundi,FY 2008,59,Catholic,23,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burundi,FY 2008,59,Christian,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burundi,FY 2008,59,Methodist,9,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burundi,FY 2008,59,Moslem,5,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burundi,FY 2008,59,Pentecostalist,9,425
+From: 31 Jul 2008,To: 31 Jul 2008,Burundi,FY 2008,59,Seventh Day Adventist,9,425
+From: 31 Jul 2008,To: 31 Jul 2008,Cuba,FY 2008,66,Catholic,40,425
+From: 31 Jul 2008,To: 31 Jul 2008,Cuba,FY 2008,66,Evangelical Christian,1,425
+From: 31 Jul 2008,To: 31 Jul 2008,Cuba,FY 2008,66,Jehovah Witness,13,425
+From: 31 Jul 2008,To: 31 Jul 2008,Cuba,FY 2008,66,No Religion,11,425
+From: 31 Jul 2008,To: 31 Jul 2008,Cuba,FY 2008,66,Pentecostalist,1,425
+From: 31 Jul 2008,To: 31 Jul 2008,Estonia,FY 2008,4,Seventh Day Adventist,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Iran,FY 2008,4,Moslem Shiite,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Iraq,FY 2008,38,Christian,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Iraq,FY 2008,38,Moslem Shiite,6,425
+From: 31 Jul 2008,To: 31 Jul 2008,Iraq,FY 2008,38,Moslem Suni,24,425
+From: 31 Jul 2008,To: 31 Jul 2008,Iraq,FY 2008,38,Orthodox,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Vietnam,FY 2008,24,Christian,1,425
+From: 31 Jul 2008,To: 31 Jul 2008,Vietnam,FY 2008,24,Other Religion,3,425
+From: 31 Jul 2008,To: 31 Jul 2008,Vietnam,FY 2008,24,Protestant,20,425
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jul 2008,To: 31 Jul 2008,Baptist,FY 2008,7,Burma,7,425
+From: 31 Jul 2008,To: 31 Jul 2008,Buddhist,FY 2008,25,Bhutan,10,425
+From: 31 Jul 2008,To: 31 Jul 2008,Buddhist,FY 2008,25,Burma,15,425
+From: 31 Jul 2008,To: 31 Jul 2008,Catholic,FY 2008,63,Burundi,23,425
+From: 31 Jul 2008,To: 31 Jul 2008,Catholic,FY 2008,63,Cuba,40,425
+From: 31 Jul 2008,To: 31 Jul 2008,Christian,FY 2008,102,Bhutan,7,425
+From: 31 Jul 2008,To: 31 Jul 2008,Christian,FY 2008,102,Burma,86,425
+From: 31 Jul 2008,To: 31 Jul 2008,Christian,FY 2008,102,Burundi,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Christian,FY 2008,102,Iraq,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Christian,FY 2008,102,Vietnam,1,425
+From: 31 Jul 2008,To: 31 Jul 2008,Evangelical Christian,FY 2008,1,Cuba,1,425
+From: 31 Jul 2008,To: 31 Jul 2008,Hindu,FY 2008,50,Bhutan,50,425
+From: 31 Jul 2008,To: 31 Jul 2008,Jehovah Witness,FY 2008,13,Cuba,13,425
+From: 31 Jul 2008,To: 31 Jul 2008,Kirat,FY 2008,3,Bhutan,3,425
+From: 31 Jul 2008,To: 31 Jul 2008,Methodist,FY 2008,9,Burundi,9,425
+From: 31 Jul 2008,To: 31 Jul 2008,Moslem,FY 2008,52,Burma,47,425
+From: 31 Jul 2008,To: 31 Jul 2008,Moslem,FY 2008,52,Burundi,5,425
+From: 31 Jul 2008,To: 31 Jul 2008,Moslem Shiite,FY 2008,10,Iran,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Moslem Shiite,FY 2008,10,Iraq,6,425
+From: 31 Jul 2008,To: 31 Jul 2008,Moslem Suni,FY 2008,29,Afghanistan,5,425
+From: 31 Jul 2008,To: 31 Jul 2008,Moslem Suni,FY 2008,29,Iraq,24,425
+From: 31 Jul 2008,To: 31 Jul 2008,No Religion,FY 2008,11,Cuba,11,425
+From: 31 Jul 2008,To: 31 Jul 2008,Orthodox,FY 2008,4,Iraq,4,425
+From: 31 Jul 2008,To: 31 Jul 2008,Other Religion,FY 2008,3,Vietnam,3,425
+From: 31 Jul 2008,To: 31 Jul 2008,Pentecostalist,FY 2008,10,Burundi,9,425
+From: 31 Jul 2008,To: 31 Jul 2008,Pentecostalist,FY 2008,10,Cuba,1,425
+From: 31 Jul 2008,To: 31 Jul 2008,Protestant,FY 2008,20,Vietnam,20,425
+From: 31 Jul 2008,To: 31 Jul 2008,Seventh Day Adventist,FY 2008,13,Burundi,9,425
+From: 31 Jul 2008,To: 31 Jul 2008,Seventh Day Adventist,FY 2008,13,Estonia,4,425
+

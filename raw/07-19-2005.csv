@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Jul 2005,To: 19 Jul 2005,Armenia,FY 2005,1,Pentecostalist,1,344
+From: 19 Jul 2005,To: 19 Jul 2005,Burma,FY 2005,20,Buddhist,12,344
+From: 19 Jul 2005,To: 19 Jul 2005,Burma,FY 2005,20,Protestant,8,344
+From: 19 Jul 2005,To: 19 Jul 2005,Cuba,FY 2005,69,Catholic,25,344
+From: 19 Jul 2005,To: 19 Jul 2005,Cuba,FY 2005,69,Jehovah Witness,12,344
+From: 19 Jul 2005,To: 19 Jul 2005,Cuba,FY 2005,69,No Religion,29,344
+From: 19 Jul 2005,To: 19 Jul 2005,Cuba,FY 2005,69,Pentecostalist,3,344
+From: 19 Jul 2005,To: 19 Jul 2005,Ethiopia,FY 2005,5,Orthodox,5,344
+From: 19 Jul 2005,To: 19 Jul 2005,Georgia,FY 2005,4,Jewish,4,344
+From: 19 Jul 2005,To: 19 Jul 2005,Iran,FY 2005,29,Bahai,27,344
+From: 19 Jul 2005,To: 19 Jul 2005,Iran,FY 2005,29,Moslem,2,344
+From: 19 Jul 2005,To: 19 Jul 2005,Laos,FY 2005,61,Ancestral Worship,46,344
+From: 19 Jul 2005,To: 19 Jul 2005,Laos,FY 2005,61,Christian,15,344
+From: 19 Jul 2005,To: 19 Jul 2005,Liberia,FY 2005,33,Baptist,1,344
+From: 19 Jul 2005,To: 19 Jul 2005,Liberia,FY 2005,33,Christian,9,344
+From: 19 Jul 2005,To: 19 Jul 2005,Liberia,FY 2005,33,Lutheran,1,344
+From: 19 Jul 2005,To: 19 Jul 2005,Liberia,FY 2005,33,Moslem,22,344
+From: 19 Jul 2005,To: 19 Jul 2005,Russia,FY 2005,35,Moslem,35,344
+From: 19 Jul 2005,To: 19 Jul 2005,Somalia,FY 2005,47,Moslem,47,344
+From: 19 Jul 2005,To: 19 Jul 2005,Sudan,FY 2005,5,Catholic,5,344
+From: 19 Jul 2005,To: 19 Jul 2005,Vietnam,FY 2005,35,Protestant,34,344
+From: 19 Jul 2005,To: 19 Jul 2005,Vietnam,FY 2005,35,Unknown,1,344
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Jul 2005,To: 19 Jul 2005,Ancestral Worship,FY 2005,46,Laos,46,344
+From: 19 Jul 2005,To: 19 Jul 2005,Bahai,FY 2005,27,Iran,27,344
+From: 19 Jul 2005,To: 19 Jul 2005,Baptist,FY 2005,1,Liberia,1,344
+From: 19 Jul 2005,To: 19 Jul 2005,Buddhist,FY 2005,12,Burma,12,344
+From: 19 Jul 2005,To: 19 Jul 2005,Catholic,FY 2005,30,Cuba,25,344
+From: 19 Jul 2005,To: 19 Jul 2005,Catholic,FY 2005,30,Sudan,5,344
+From: 19 Jul 2005,To: 19 Jul 2005,Christian,FY 2005,24,Laos,15,344
+From: 19 Jul 2005,To: 19 Jul 2005,Christian,FY 2005,24,Liberia,9,344
+From: 19 Jul 2005,To: 19 Jul 2005,Jehovah Witness,FY 2005,12,Cuba,12,344
+From: 19 Jul 2005,To: 19 Jul 2005,Jewish,FY 2005,4,Georgia,4,344
+From: 19 Jul 2005,To: 19 Jul 2005,Lutheran,FY 2005,1,Liberia,1,344
+From: 19 Jul 2005,To: 19 Jul 2005,Moslem,FY 2005,106,Iran,2,344
+From: 19 Jul 2005,To: 19 Jul 2005,Moslem,FY 2005,106,Liberia,22,344
+From: 19 Jul 2005,To: 19 Jul 2005,Moslem,FY 2005,106,Russia,35,344
+From: 19 Jul 2005,To: 19 Jul 2005,Moslem,FY 2005,106,Somalia,47,344
+From: 19 Jul 2005,To: 19 Jul 2005,No Religion,FY 2005,29,Cuba,29,344
+From: 19 Jul 2005,To: 19 Jul 2005,Orthodox,FY 2005,5,Ethiopia,5,344
+From: 19 Jul 2005,To: 19 Jul 2005,Pentecostalist,FY 2005,4,Armenia,1,344
+From: 19 Jul 2005,To: 19 Jul 2005,Pentecostalist,FY 2005,4,Cuba,3,344
+From: 19 Jul 2005,To: 19 Jul 2005,Protestant,FY 2005,42,Burma,8,344
+From: 19 Jul 2005,To: 19 Jul 2005,Protestant,FY 2005,42,Vietnam,34,344
+From: 19 Jul 2005,To: 19 Jul 2005,Unknown,FY 2005,1,Vietnam,1,344
+

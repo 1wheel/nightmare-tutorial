@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jan 2004,To: 12 Jan 2004,Armenia,FY 2004,2,Pentecostalist,2,150
+From: 12 Jan 2004,To: 12 Jan 2004,Iran,FY 2004,5,Christian,5,150
+From: 12 Jan 2004,To: 12 Jan 2004,Moldova,FY 2004,70,Baptist,21,150
+From: 12 Jan 2004,To: 12 Jan 2004,Moldova,FY 2004,70,Pentecostalist,49,150
+From: 12 Jan 2004,To: 12 Jan 2004,Somalia,FY 2004,7,Moslem,7,150
+From: 12 Jan 2004,To: 12 Jan 2004,Sudan,FY 2004,31,Catholic,9,150
+From: 12 Jan 2004,To: 12 Jan 2004,Sudan,FY 2004,31,Christian,2,150
+From: 12 Jan 2004,To: 12 Jan 2004,Sudan,FY 2004,31,Moslem,20,150
+From: 12 Jan 2004,To: 12 Jan 2004,Ukraine,FY 2004,35,Baptist,27,150
+From: 12 Jan 2004,To: 12 Jan 2004,Ukraine,FY 2004,35,Pentecostalist,8,150
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jan 2004,To: 12 Jan 2004,Baptist,FY 2004,48,Moldova,21,150
+From: 12 Jan 2004,To: 12 Jan 2004,Baptist,FY 2004,48,Ukraine,27,150
+From: 12 Jan 2004,To: 12 Jan 2004,Catholic,FY 2004,9,Sudan,9,150
+From: 12 Jan 2004,To: 12 Jan 2004,Christian,FY 2004,7,Iran,5,150
+From: 12 Jan 2004,To: 12 Jan 2004,Christian,FY 2004,7,Sudan,2,150
+From: 12 Jan 2004,To: 12 Jan 2004,Moslem,FY 2004,27,Somalia,7,150
+From: 12 Jan 2004,To: 12 Jan 2004,Moslem,FY 2004,27,Sudan,20,150
+From: 12 Jan 2004,To: 12 Jan 2004,Pentecostalist,FY 2004,59,Armenia,2,150
+From: 12 Jan 2004,To: 12 Jan 2004,Pentecostalist,FY 2004,59,Moldova,49,150
+From: 12 Jan 2004,To: 12 Jan 2004,Pentecostalist,FY 2004,59,Ukraine,8,150
+

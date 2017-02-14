@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Nov 2015,To: 03 Nov 2015,Afghanistan,FY 2016,4,Moslem,4,346
+From: 03 Nov 2015,To: 03 Nov 2015,Bhutan,FY 2016,64,Buddhist,11,346
+From: 03 Nov 2015,To: 03 Nov 2015,Bhutan,FY 2016,64,Christian,13,346
+From: 03 Nov 2015,To: 03 Nov 2015,Bhutan,FY 2016,64,Hindu,21,346
+From: 03 Nov 2015,To: 03 Nov 2015,Bhutan,FY 2016,64,Kirat,19,346
+From: 03 Nov 2015,To: 03 Nov 2015,Burma,FY 2016,55,Buddhist,7,346
+From: 03 Nov 2015,To: 03 Nov 2015,Burma,FY 2016,55,Catholic,5,346
+From: 03 Nov 2015,To: 03 Nov 2015,Burma,FY 2016,55,Christian,38,346
+From: 03 Nov 2015,To: 03 Nov 2015,Burma,FY 2016,55,Moslem,5,346
+From: 03 Nov 2015,To: 03 Nov 2015,Dem. Rep. Congo,FY 2016,44,Catholic,14,346
+From: 03 Nov 2015,To: 03 Nov 2015,Dem. Rep. Congo,FY 2016,44,Christian,2,346
+From: 03 Nov 2015,To: 03 Nov 2015,Dem. Rep. Congo,FY 2016,44,Moslem,4,346
+From: 03 Nov 2015,To: 03 Nov 2015,Dem. Rep. Congo,FY 2016,44,Pentecostalist,24,346
+From: 03 Nov 2015,To: 03 Nov 2015,Eritrea,FY 2016,5,Catholic,4,346
+From: 03 Nov 2015,To: 03 Nov 2015,Eritrea,FY 2016,5,Protestant,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Iran,FY 2016,19,Christian,18,346
+From: 03 Nov 2015,To: 03 Nov 2015,Iran,FY 2016,19,No Religion,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Iraq,FY 2016,39,Catholic,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Iraq,FY 2016,39,Moslem,3,346
+From: 03 Nov 2015,To: 03 Nov 2015,Iraq,FY 2016,39,Moslem Shiite,19,346
+From: 03 Nov 2015,To: 03 Nov 2015,Iraq,FY 2016,39,Moslem Suni,16,346
+From: 03 Nov 2015,To: 03 Nov 2015,Somalia,FY 2016,30,Moslem,30,346
+From: 03 Nov 2015,To: 03 Nov 2015,Sri Lanka (Ceylon),FY 2016,1,Hindu,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Sudan,FY 2016,1,Moslem,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Syria,FY 2016,48,Moslem Suni,48,346
+From: 03 Nov 2015,To: 03 Nov 2015,Ukraine,FY 2016,36,Baptist,23,346
+From: 03 Nov 2015,To: 03 Nov 2015,Ukraine,FY 2016,36,Christian,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Ukraine,FY 2016,36,Pentecostalist,12,346
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Nov 2015,To: 03 Nov 2015,Baptist,FY 2016,23,Ukraine,23,346
+From: 03 Nov 2015,To: 03 Nov 2015,Buddhist,FY 2016,18,Bhutan,11,346
+From: 03 Nov 2015,To: 03 Nov 2015,Buddhist,FY 2016,18,Burma,7,346
+From: 03 Nov 2015,To: 03 Nov 2015,Catholic,FY 2016,24,Burma,5,346
+From: 03 Nov 2015,To: 03 Nov 2015,Catholic,FY 2016,24,Dem. Rep. Congo,14,346
+From: 03 Nov 2015,To: 03 Nov 2015,Catholic,FY 2016,24,Eritrea,4,346
+From: 03 Nov 2015,To: 03 Nov 2015,Catholic,FY 2016,24,Iraq,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Christian,FY 2016,72,Bhutan,13,346
+From: 03 Nov 2015,To: 03 Nov 2015,Christian,FY 2016,72,Burma,38,346
+From: 03 Nov 2015,To: 03 Nov 2015,Christian,FY 2016,72,Dem. Rep. Congo,2,346
+From: 03 Nov 2015,To: 03 Nov 2015,Christian,FY 2016,72,Iran,18,346
+From: 03 Nov 2015,To: 03 Nov 2015,Christian,FY 2016,72,Ukraine,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Hindu,FY 2016,22,Bhutan,21,346
+From: 03 Nov 2015,To: 03 Nov 2015,Hindu,FY 2016,22,Sri Lanka (Ceylon),1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Kirat,FY 2016,19,Bhutan,19,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem,FY 2016,47,Afghanistan,4,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem,FY 2016,47,Burma,5,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem,FY 2016,47,Dem. Rep. Congo,4,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem,FY 2016,47,Iraq,3,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem,FY 2016,47,Somalia,30,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem,FY 2016,47,Sudan,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem Shiite,FY 2016,19,Iraq,19,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem Suni,FY 2016,64,Iraq,16,346
+From: 03 Nov 2015,To: 03 Nov 2015,Moslem Suni,FY 2016,64,Syria,48,346
+From: 03 Nov 2015,To: 03 Nov 2015,No Religion,FY 2016,1,Iran,1,346
+From: 03 Nov 2015,To: 03 Nov 2015,Pentecostalist,FY 2016,36,Dem. Rep. Congo,24,346
+From: 03 Nov 2015,To: 03 Nov 2015,Pentecostalist,FY 2016,36,Ukraine,12,346
+From: 03 Nov 2015,To: 03 Nov 2015,Protestant,FY 2016,1,Eritrea,1,346
+

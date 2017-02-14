@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jul 2003,To: 16 Jul 2003,Afghanistan,FY 2003,1,Moslem,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Azerbaijan,FY 2003,20,Christian,7,219
+From: 16 Jul 2003,To: 16 Jul 2003,Azerbaijan,FY 2003,20,Unknown,13,219
+From: 16 Jul 2003,To: 16 Jul 2003,Cuba,FY 2003,26,Catholic,11,219
+From: 16 Jul 2003,To: 16 Jul 2003,Cuba,FY 2003,26,Christian,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Cuba,FY 2003,26,Evangelical Christian,2,219
+From: 16 Jul 2003,To: 16 Jul 2003,Cuba,FY 2003,26,Jehovah Witness,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Cuba,FY 2003,26,No Religion,8,219
+From: 16 Jul 2003,To: 16 Jul 2003,Iran,FY 2003,17,Bahai,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Iran,FY 2003,17,Christian,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Iran,FY 2003,17,Jewish,7,219
+From: 16 Jul 2003,To: 16 Jul 2003,Iran,FY 2003,17,Zoroastrian,5,219
+From: 16 Jul 2003,To: 16 Jul 2003,Liberia,FY 2003,35,Christian,35,219
+From: 16 Jul 2003,To: 16 Jul 2003,Russia,FY 2003,15,Baptist,7,219
+From: 16 Jul 2003,To: 16 Jul 2003,Russia,FY 2003,15,Jewish,8,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sierra Leone,FY 2003,29,Catholic,14,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sierra Leone,FY 2003,29,Moslem,15,219
+From: 16 Jul 2003,To: 16 Jul 2003,Somalia,FY 2003,4,Moslem,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sudan,FY 2003,37,Catholic,14,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sudan,FY 2003,37,Christian,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sudan,FY 2003,37,Moslem,18,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sudan,FY 2003,37,Moslem Suni,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sudan,FY 2003,37,Protestant,2,219
+From: 16 Jul 2003,To: 16 Jul 2003,Sudan,FY 2003,37,Unknown,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Ukraine,FY 2003,35,Baptist,12,219
+From: 16 Jul 2003,To: 16 Jul 2003,Ukraine,FY 2003,35,Jewish,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Ukraine,FY 2003,35,Pentecostalist,18,219
+From: 16 Jul 2003,To: 16 Jul 2003,Ukraine,FY 2003,35,Unknown,1,219
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jul 2003,To: 16 Jul 2003,Bahai,FY 2003,1,Iran,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Baptist,FY 2003,19,Russia,7,219
+From: 16 Jul 2003,To: 16 Jul 2003,Baptist,FY 2003,19,Ukraine,12,219
+From: 16 Jul 2003,To: 16 Jul 2003,Catholic,FY 2003,39,Cuba,11,219
+From: 16 Jul 2003,To: 16 Jul 2003,Catholic,FY 2003,39,Sierra Leone,14,219
+From: 16 Jul 2003,To: 16 Jul 2003,Catholic,FY 2003,39,Sudan,14,219
+From: 16 Jul 2003,To: 16 Jul 2003,Christian,FY 2003,48,Azerbaijan,7,219
+From: 16 Jul 2003,To: 16 Jul 2003,Christian,FY 2003,48,Cuba,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Christian,FY 2003,48,Iran,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Christian,FY 2003,48,Liberia,35,219
+From: 16 Jul 2003,To: 16 Jul 2003,Christian,FY 2003,48,Sudan,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Evangelical Christian,FY 2003,2,Cuba,2,219
+From: 16 Jul 2003,To: 16 Jul 2003,Jehovah Witness,FY 2003,4,Cuba,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Jewish,FY 2003,19,Iran,7,219
+From: 16 Jul 2003,To: 16 Jul 2003,Jewish,FY 2003,19,Russia,8,219
+From: 16 Jul 2003,To: 16 Jul 2003,Jewish,FY 2003,19,Ukraine,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Moslem,FY 2003,38,Afghanistan,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Moslem,FY 2003,38,Sierra Leone,15,219
+From: 16 Jul 2003,To: 16 Jul 2003,Moslem,FY 2003,38,Somalia,4,219
+From: 16 Jul 2003,To: 16 Jul 2003,Moslem,FY 2003,38,Sudan,18,219
+From: 16 Jul 2003,To: 16 Jul 2003,Moslem Suni,FY 2003,1,Sudan,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,No Religion,FY 2003,8,Cuba,8,219
+From: 16 Jul 2003,To: 16 Jul 2003,Pentecostalist,FY 2003,18,Ukraine,18,219
+From: 16 Jul 2003,To: 16 Jul 2003,Protestant,FY 2003,2,Sudan,2,219
+From: 16 Jul 2003,To: 16 Jul 2003,Unknown,FY 2003,15,Azerbaijan,13,219
+From: 16 Jul 2003,To: 16 Jul 2003,Unknown,FY 2003,15,Sudan,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Unknown,FY 2003,15,Ukraine,1,219
+From: 16 Jul 2003,To: 16 Jul 2003,Zoroastrian,FY 2003,5,Iran,5,219
+

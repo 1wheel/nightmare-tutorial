@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jul 2012,To: 18 Jul 2012,Bhutan,FY 2012,85,Buddhist,38,322
+From: 18 Jul 2012,To: 18 Jul 2012,Bhutan,FY 2012,85,Christian,4,322
+From: 18 Jul 2012,To: 18 Jul 2012,Bhutan,FY 2012,85,Hindu,40,322
+From: 18 Jul 2012,To: 18 Jul 2012,Bhutan,FY 2012,85,Kirat,3,322
+From: 18 Jul 2012,To: 18 Jul 2012,Burma,FY 2012,92,Animist,2,322
+From: 18 Jul 2012,To: 18 Jul 2012,Burma,FY 2012,92,Baptist,2,322
+From: 18 Jul 2012,To: 18 Jul 2012,Burma,FY 2012,92,Buddhist,13,322
+From: 18 Jul 2012,To: 18 Jul 2012,Burma,FY 2012,92,Catholic,7,322
+From: 18 Jul 2012,To: 18 Jul 2012,Burma,FY 2012,92,Christian,68,322
+From: 18 Jul 2012,To: 18 Jul 2012,Colombia,FY 2012,32,Catholic,13,322
+From: 18 Jul 2012,To: 18 Jul 2012,Colombia,FY 2012,32,Christian,18,322
+From: 18 Jul 2012,To: 18 Jul 2012,Colombia,FY 2012,32,No Religion,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Egypt,FY 2012,1,Christian,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Ethiopia,FY 2012,1,Moslem,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Iran,FY 2012,3,Protestant,3,322
+From: 18 Jul 2012,To: 18 Jul 2012,Iraq,FY 2012,84,Catholic,20,322
+From: 18 Jul 2012,To: 18 Jul 2012,Iraq,FY 2012,84,Christian,3,322
+From: 18 Jul 2012,To: 18 Jul 2012,Iraq,FY 2012,84,Moslem Shiite,32,322
+From: 18 Jul 2012,To: 18 Jul 2012,Iraq,FY 2012,84,Moslem Suni,16,322
+From: 18 Jul 2012,To: 18 Jul 2012,Iraq,FY 2012,84,Orthodox,13,322
+From: 18 Jul 2012,To: 18 Jul 2012,Pakistan,FY 2012,4,Ahmadiyya,4,322
+From: 18 Jul 2012,To: 18 Jul 2012,Russia,FY 2012,9,Atheist,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Russia,FY 2012,9,Baptist,8,322
+From: 18 Jul 2012,To: 18 Jul 2012,Somalia,FY 2012,11,Moslem,11,322
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jul 2012,To: 18 Jul 2012,Ahmadiyya,FY 2012,4,Pakistan,4,322
+From: 18 Jul 2012,To: 18 Jul 2012,Animist,FY 2012,2,Burma,2,322
+From: 18 Jul 2012,To: 18 Jul 2012,Atheist,FY 2012,1,Russia,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Baptist,FY 2012,10,Burma,2,322
+From: 18 Jul 2012,To: 18 Jul 2012,Baptist,FY 2012,10,Russia,8,322
+From: 18 Jul 2012,To: 18 Jul 2012,Buddhist,FY 2012,51,Bhutan,38,322
+From: 18 Jul 2012,To: 18 Jul 2012,Buddhist,FY 2012,51,Burma,13,322
+From: 18 Jul 2012,To: 18 Jul 2012,Catholic,FY 2012,40,Burma,7,322
+From: 18 Jul 2012,To: 18 Jul 2012,Catholic,FY 2012,40,Colombia,13,322
+From: 18 Jul 2012,To: 18 Jul 2012,Catholic,FY 2012,40,Iraq,20,322
+From: 18 Jul 2012,To: 18 Jul 2012,Christian,FY 2012,94,Bhutan,4,322
+From: 18 Jul 2012,To: 18 Jul 2012,Christian,FY 2012,94,Burma,68,322
+From: 18 Jul 2012,To: 18 Jul 2012,Christian,FY 2012,94,Colombia,18,322
+From: 18 Jul 2012,To: 18 Jul 2012,Christian,FY 2012,94,Egypt,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Christian,FY 2012,94,Iraq,3,322
+From: 18 Jul 2012,To: 18 Jul 2012,Hindu,FY 2012,40,Bhutan,40,322
+From: 18 Jul 2012,To: 18 Jul 2012,Kirat,FY 2012,3,Bhutan,3,322
+From: 18 Jul 2012,To: 18 Jul 2012,Moslem,FY 2012,12,Ethiopia,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Moslem,FY 2012,12,Somalia,11,322
+From: 18 Jul 2012,To: 18 Jul 2012,Moslem Shiite,FY 2012,32,Iraq,32,322
+From: 18 Jul 2012,To: 18 Jul 2012,Moslem Suni,FY 2012,16,Iraq,16,322
+From: 18 Jul 2012,To: 18 Jul 2012,No Religion,FY 2012,1,Colombia,1,322
+From: 18 Jul 2012,To: 18 Jul 2012,Orthodox,FY 2012,13,Iraq,13,322
+From: 18 Jul 2012,To: 18 Jul 2012,Protestant,FY 2012,3,Iran,3,322
+

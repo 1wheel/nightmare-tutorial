@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jan 2013,To: 16 Jan 2013,Afghanistan,FY 2013,9,Moslem,9,209
+From: 16 Jan 2013,To: 16 Jan 2013,Bhutan,FY 2013,35,Buddhist,8,209
+From: 16 Jan 2013,To: 16 Jan 2013,Bhutan,FY 2013,35,Christian,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Bhutan,FY 2013,35,Hindu,16,209
+From: 16 Jan 2013,To: 16 Jan 2013,Bhutan,FY 2013,35,Kirat,5,209
+From: 16 Jan 2013,To: 16 Jan 2013,Burma,FY 2013,33,Baptist,7,209
+From: 16 Jan 2013,To: 16 Jan 2013,Burma,FY 2013,33,Buddhist,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,Burma,FY 2013,33,Christian,22,209
+From: 16 Jan 2013,To: 16 Jan 2013,Burma,FY 2013,33,Moslem,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,Dem. Rep. Congo,FY 2013,15,Catholic,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Dem. Rep. Congo,FY 2013,15,Christian,3,209
+From: 16 Jan 2013,To: 16 Jan 2013,Dem. Rep. Congo,FY 2013,15,Pentecostalist,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Eritrea,FY 2013,10,Orthodox,10,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iran,FY 2013,16,Bahai,8,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iran,FY 2013,16,No Religion,3,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iran,FY 2013,16,Protestant,4,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iran,FY 2013,16,Unknown,1,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iraq,FY 2013,37,Catholic,4,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iraq,FY 2013,37,Christian,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iraq,FY 2013,37,Moslem Shiite,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iraq,FY 2013,37,Moslem Suni,18,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iraq,FY 2013,37,Orthodox,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Iraq,FY 2013,37,Protestant,1,209
+From: 16 Jan 2013,To: 16 Jan 2013,Somalia,FY 2013,54,Moslem,52,209
+From: 16 Jan 2013,To: 16 Jan 2013,Somalia,FY 2013,54,Moslem Suni,2,209
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jan 2013,To: 16 Jan 2013,Bahai,FY 2013,8,Iran,8,209
+From: 16 Jan 2013,To: 16 Jan 2013,Baptist,FY 2013,7,Burma,7,209
+From: 16 Jan 2013,To: 16 Jan 2013,Buddhist,FY 2013,10,Bhutan,8,209
+From: 16 Jan 2013,To: 16 Jan 2013,Buddhist,FY 2013,10,Burma,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,Catholic,FY 2013,10,Dem. Rep. Congo,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Catholic,FY 2013,10,Iraq,4,209
+From: 16 Jan 2013,To: 16 Jan 2013,Christian,FY 2013,33,Bhutan,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Christian,FY 2013,33,Burma,22,209
+From: 16 Jan 2013,To: 16 Jan 2013,Christian,FY 2013,33,Dem. Rep. Congo,3,209
+From: 16 Jan 2013,To: 16 Jan 2013,Christian,FY 2013,33,Iraq,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,Hindu,FY 2013,16,Bhutan,16,209
+From: 16 Jan 2013,To: 16 Jan 2013,Kirat,FY 2013,5,Bhutan,5,209
+From: 16 Jan 2013,To: 16 Jan 2013,Moslem,FY 2013,63,Afghanistan,9,209
+From: 16 Jan 2013,To: 16 Jan 2013,Moslem,FY 2013,63,Burma,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,Moslem,FY 2013,63,Somalia,52,209
+From: 16 Jan 2013,To: 16 Jan 2013,Moslem Shiite,FY 2013,6,Iraq,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Moslem Suni,FY 2013,20,Iraq,18,209
+From: 16 Jan 2013,To: 16 Jan 2013,Moslem Suni,FY 2013,20,Somalia,2,209
+From: 16 Jan 2013,To: 16 Jan 2013,No Religion,FY 2013,3,Iran,3,209
+From: 16 Jan 2013,To: 16 Jan 2013,Orthodox,FY 2013,16,Eritrea,10,209
+From: 16 Jan 2013,To: 16 Jan 2013,Orthodox,FY 2013,16,Iraq,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Pentecostalist,FY 2013,6,Dem. Rep. Congo,6,209
+From: 16 Jan 2013,To: 16 Jan 2013,Protestant,FY 2013,5,Iran,4,209
+From: 16 Jan 2013,To: 16 Jan 2013,Protestant,FY 2013,5,Iraq,1,209
+From: 16 Jan 2013,To: 16 Jan 2013,Unknown,FY 2013,1,Iran,1,209
+

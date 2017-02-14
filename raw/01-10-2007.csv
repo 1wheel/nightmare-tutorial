@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jan 2007,To: 10 Jan 2007,Afghanistan,FY 2007,5,Moslem Shiite,5,82
+From: 10 Jan 2007,To: 10 Jan 2007,Iran,FY 2007,35,Bahai,3,82
+From: 10 Jan 2007,To: 10 Jan 2007,Iran,FY 2007,35,Christian,32,82
+From: 10 Jan 2007,To: 10 Jan 2007,Liberia,FY 2007,16,Moslem,16,82
+From: 10 Jan 2007,To: 10 Jan 2007,Russia,FY 2007,26,Baptist,4,82
+From: 10 Jan 2007,To: 10 Jan 2007,Russia,FY 2007,26,Jewish,6,82
+From: 10 Jan 2007,To: 10 Jan 2007,Russia,FY 2007,26,Pentecostalist,16,82
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jan 2007,To: 10 Jan 2007,Bahai,FY 2007,3,Iran,3,82
+From: 10 Jan 2007,To: 10 Jan 2007,Baptist,FY 2007,4,Russia,4,82
+From: 10 Jan 2007,To: 10 Jan 2007,Christian,FY 2007,32,Iran,32,82
+From: 10 Jan 2007,To: 10 Jan 2007,Jewish,FY 2007,6,Russia,6,82
+From: 10 Jan 2007,To: 10 Jan 2007,Moslem,FY 2007,16,Liberia,16,82
+From: 10 Jan 2007,To: 10 Jan 2007,Moslem Shiite,FY 2007,5,Afghanistan,5,82
+From: 10 Jan 2007,To: 10 Jan 2007,Pentecostalist,FY 2007,16,Russia,16,82
+

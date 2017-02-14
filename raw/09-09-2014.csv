@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Sep 2014,To: 09 Sep 2014,Afghanistan,FY 2014,3,Moslem,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Bhutan,FY 2014,41,Buddhist,10,358
+From: 09 Sep 2014,To: 09 Sep 2014,Bhutan,FY 2014,41,Christian,8,358
+From: 09 Sep 2014,To: 09 Sep 2014,Bhutan,FY 2014,41,Hindu,19,358
+From: 09 Sep 2014,To: 09 Sep 2014,Bhutan,FY 2014,41,Kirat,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Burma,FY 2014,126,Baptist,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Burma,FY 2014,126,Buddhist,28,358
+From: 09 Sep 2014,To: 09 Sep 2014,Burma,FY 2014,126,Christian,73,358
+From: 09 Sep 2014,To: 09 Sep 2014,Burma,FY 2014,126,Moslem,19,358
+From: 09 Sep 2014,To: 09 Sep 2014,Burma,FY 2014,126,Pentecostalist,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Cameroon,FY 2014,2,Catholic,2,358
+From: 09 Sep 2014,To: 09 Sep 2014,Dem. Rep. Congo,FY 2014,16,Christian,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Dem. Rep. Congo,FY 2014,16,Pentecostalist,5,358
+From: 09 Sep 2014,To: 09 Sep 2014,Dem. Rep. Congo,FY 2014,16,Protestant,7,358
+From: 09 Sep 2014,To: 09 Sep 2014,Eritrea,FY 2014,10,Moslem,2,358
+From: 09 Sep 2014,To: 09 Sep 2014,Eritrea,FY 2014,10,Orthodox,8,358
+From: 09 Sep 2014,To: 09 Sep 2014,Ethiopia,FY 2014,5,Moslem,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Ethiopia,FY 2014,5,Orthodox,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Iraq,FY 2014,68,Catholic,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Iraq,FY 2014,68,Christian,9,358
+From: 09 Sep 2014,To: 09 Sep 2014,Iraq,FY 2014,68,Moslem,2,358
+From: 09 Sep 2014,To: 09 Sep 2014,Iraq,FY 2014,68,Moslem Shiite,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Iraq,FY 2014,68,Moslem Suni,53,358
+From: 09 Sep 2014,To: 09 Sep 2014,Somalia,FY 2014,81,Moslem,73,358
+From: 09 Sep 2014,To: 09 Sep 2014,Somalia,FY 2014,81,Moslem Suni,8,358
+From: 09 Sep 2014,To: 09 Sep 2014,Sudan,FY 2014,1,Moslem,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Syria,FY 2014,5,Christian,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Syria,FY 2014,5,Moslem Suni,1,358
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Sep 2014,To: 09 Sep 2014,Baptist,FY 2014,3,Burma,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Buddhist,FY 2014,38,Bhutan,10,358
+From: 09 Sep 2014,To: 09 Sep 2014,Buddhist,FY 2014,38,Burma,28,358
+From: 09 Sep 2014,To: 09 Sep 2014,Catholic,FY 2014,3,Cameroon,2,358
+From: 09 Sep 2014,To: 09 Sep 2014,Catholic,FY 2014,3,Iraq,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Christian,FY 2014,98,Bhutan,8,358
+From: 09 Sep 2014,To: 09 Sep 2014,Christian,FY 2014,98,Burma,73,358
+From: 09 Sep 2014,To: 09 Sep 2014,Christian,FY 2014,98,Dem. Rep. Congo,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Christian,FY 2014,98,Iraq,9,358
+From: 09 Sep 2014,To: 09 Sep 2014,Christian,FY 2014,98,Syria,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Hindu,FY 2014,19,Bhutan,19,358
+From: 09 Sep 2014,To: 09 Sep 2014,Kirat,FY 2014,4,Bhutan,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Afghanistan,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Burma,19,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Eritrea,2,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Ethiopia,4,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Iraq,2,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Somalia,73,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem,FY 2014,104,Sudan,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem Shiite,FY 2014,3,Iraq,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem Suni,FY 2014,62,Iraq,53,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem Suni,FY 2014,62,Somalia,8,358
+From: 09 Sep 2014,To: 09 Sep 2014,Moslem Suni,FY 2014,62,Syria,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Orthodox,FY 2014,9,Eritrea,8,358
+From: 09 Sep 2014,To: 09 Sep 2014,Orthodox,FY 2014,9,Ethiopia,1,358
+From: 09 Sep 2014,To: 09 Sep 2014,Pentecostalist,FY 2014,8,Burma,3,358
+From: 09 Sep 2014,To: 09 Sep 2014,Pentecostalist,FY 2014,8,Dem. Rep. Congo,5,358
+From: 09 Sep 2014,To: 09 Sep 2014,Protestant,FY 2014,7,Dem. Rep. Congo,7,358
+

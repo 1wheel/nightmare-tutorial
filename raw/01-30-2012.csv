@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jan 2012,To: 30 Jan 2012,Afghanistan,FY 2012,9,Moslem Shiite,9,178
+From: 30 Jan 2012,To: 30 Jan 2012,Burma,FY 2012,70,Baptist,7,178
+From: 30 Jan 2012,To: 30 Jan 2012,Burma,FY 2012,70,Buddhist,8,178
+From: 30 Jan 2012,To: 30 Jan 2012,Burma,FY 2012,70,Christian,55,178
+From: 30 Jan 2012,To: 30 Jan 2012,Eritrea,FY 2012,4,Orthodox,4,178
+From: 30 Jan 2012,To: 30 Jan 2012,Iran,FY 2012,15,Bahai,13,178
+From: 30 Jan 2012,To: 30 Jan 2012,Iran,FY 2012,15,Moslem Shiite,2,178
+From: 30 Jan 2012,To: 30 Jan 2012,Iraq,FY 2012,49,Catholic,12,178
+From: 30 Jan 2012,To: 30 Jan 2012,Iraq,FY 2012,49,Christian,9,178
+From: 30 Jan 2012,To: 30 Jan 2012,Iraq,FY 2012,49,Moslem Shiite,10,178
+From: 30 Jan 2012,To: 30 Jan 2012,Iraq,FY 2012,49,Moslem Suni,18,178
+From: 30 Jan 2012,To: 30 Jan 2012,Palestine,FY 2012,3,Moslem Suni,3,178
+From: 30 Jan 2012,To: 30 Jan 2012,Somalia,FY 2012,4,Moslem,3,178
+From: 30 Jan 2012,To: 30 Jan 2012,Somalia,FY 2012,4,Moslem Suni,1,178
+From: 30 Jan 2012,To: 30 Jan 2012,Sudan,FY 2012,19,Moslem,19,178
+From: 30 Jan 2012,To: 30 Jan 2012,Ukraine,FY 2012,5,Jewish,5,178
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jan 2012,To: 30 Jan 2012,Bahai,FY 2012,13,Iran,13,178
+From: 30 Jan 2012,To: 30 Jan 2012,Baptist,FY 2012,7,Burma,7,178
+From: 30 Jan 2012,To: 30 Jan 2012,Buddhist,FY 2012,8,Burma,8,178
+From: 30 Jan 2012,To: 30 Jan 2012,Catholic,FY 2012,12,Iraq,12,178
+From: 30 Jan 2012,To: 30 Jan 2012,Christian,FY 2012,64,Burma,55,178
+From: 30 Jan 2012,To: 30 Jan 2012,Christian,FY 2012,64,Iraq,9,178
+From: 30 Jan 2012,To: 30 Jan 2012,Jewish,FY 2012,5,Ukraine,5,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem,FY 2012,22,Somalia,3,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem,FY 2012,22,Sudan,19,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem Shiite,FY 2012,21,Afghanistan,9,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem Shiite,FY 2012,21,Iran,2,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem Shiite,FY 2012,21,Iraq,10,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem Suni,FY 2012,22,Iraq,18,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem Suni,FY 2012,22,Palestine,3,178
+From: 30 Jan 2012,To: 30 Jan 2012,Moslem Suni,FY 2012,22,Somalia,1,178
+From: 30 Jan 2012,To: 30 Jan 2012,Orthodox,FY 2012,4,Eritrea,4,178
+

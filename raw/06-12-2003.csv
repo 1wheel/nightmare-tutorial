@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jun 2003,To: 12 Jun 2003,Armenia,FY 2003,4,Pentecostalist,4,156
+From: 12 Jun 2003,To: 12 Jun 2003,Belarus,FY 2003,7,Jewish,2,156
+From: 12 Jun 2003,To: 12 Jun 2003,Belarus,FY 2003,7,Pentecostalist,5,156
+From: 12 Jun 2003,To: 12 Jun 2003,Colombia,FY 2003,13,Catholic,9,156
+From: 12 Jun 2003,To: 12 Jun 2003,Colombia,FY 2003,13,Jewish,4,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ethiopia,FY 2003,26,Christian,3,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ethiopia,FY 2003,26,Moslem,10,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ethiopia,FY 2003,26,Orthodox,13,156
+From: 12 Jun 2003,To: 12 Jun 2003,Iran,FY 2003,27,Bahai,1,156
+From: 12 Jun 2003,To: 12 Jun 2003,Iran,FY 2003,27,Christian,2,156
+From: 12 Jun 2003,To: 12 Jun 2003,Iran,FY 2003,27,Jewish,17,156
+From: 12 Jun 2003,To: 12 Jun 2003,Iran,FY 2003,27,Moslem Suni,7,156
+From: 12 Jun 2003,To: 12 Jun 2003,Iraq,FY 2003,5,Moslem,5,156
+From: 12 Jun 2003,To: 12 Jun 2003,Somalia,FY 2003,39,Moslem,39,156
+From: 12 Jun 2003,To: 12 Jun 2003,Sudan,FY 2003,1,Protestant,1,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ukraine,FY 2003,34,Baptist,2,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ukraine,FY 2003,34,Jewish,6,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ukraine,FY 2003,34,Pentecostalist,25,156
+From: 12 Jun 2003,To: 12 Jun 2003,Ukraine,FY 2003,34,Seventh Day Adventist,1,156
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jun 2003,To: 12 Jun 2003,Bahai,FY 2003,1,Iran,1,156
+From: 12 Jun 2003,To: 12 Jun 2003,Baptist,FY 2003,2,Ukraine,2,156
+From: 12 Jun 2003,To: 12 Jun 2003,Catholic,FY 2003,9,Colombia,9,156
+From: 12 Jun 2003,To: 12 Jun 2003,Christian,FY 2003,5,Ethiopia,3,156
+From: 12 Jun 2003,To: 12 Jun 2003,Christian,FY 2003,5,Iran,2,156
+From: 12 Jun 2003,To: 12 Jun 2003,Jewish,FY 2003,29,Belarus,2,156
+From: 12 Jun 2003,To: 12 Jun 2003,Jewish,FY 2003,29,Colombia,4,156
+From: 12 Jun 2003,To: 12 Jun 2003,Jewish,FY 2003,29,Iran,17,156
+From: 12 Jun 2003,To: 12 Jun 2003,Jewish,FY 2003,29,Ukraine,6,156
+From: 12 Jun 2003,To: 12 Jun 2003,Moslem,FY 2003,54,Ethiopia,10,156
+From: 12 Jun 2003,To: 12 Jun 2003,Moslem,FY 2003,54,Iraq,5,156
+From: 12 Jun 2003,To: 12 Jun 2003,Moslem,FY 2003,54,Somalia,39,156
+From: 12 Jun 2003,To: 12 Jun 2003,Moslem Suni,FY 2003,7,Iran,7,156
+From: 12 Jun 2003,To: 12 Jun 2003,Orthodox,FY 2003,13,Ethiopia,13,156
+From: 12 Jun 2003,To: 12 Jun 2003,Pentecostalist,FY 2003,34,Armenia,4,156
+From: 12 Jun 2003,To: 12 Jun 2003,Pentecostalist,FY 2003,34,Belarus,5,156
+From: 12 Jun 2003,To: 12 Jun 2003,Pentecostalist,FY 2003,34,Ukraine,25,156
+From: 12 Jun 2003,To: 12 Jun 2003,Protestant,FY 2003,1,Sudan,1,156
+From: 12 Jun 2003,To: 12 Jun 2003,Seventh Day Adventist,FY 2003,1,Ukraine,1,156
+

@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 May 2014,To: 21 May 2014,Afghanistan,FY 2014,7,Moslem,1,337
+From: 21 May 2014,To: 21 May 2014,Afghanistan,FY 2014,7,Moslem Shiite,6,337
+From: 21 May 2014,To: 21 May 2014,Bhutan,FY 2014,54,Buddhist,10,337
+From: 21 May 2014,To: 21 May 2014,Bhutan,FY 2014,54,Christian,16,337
+From: 21 May 2014,To: 21 May 2014,Bhutan,FY 2014,54,Hindu,19,337
+From: 21 May 2014,To: 21 May 2014,Bhutan,FY 2014,54,Kirat,9,337
+From: 21 May 2014,To: 21 May 2014,Burma,FY 2014,107,Baptist,7,337
+From: 21 May 2014,To: 21 May 2014,Burma,FY 2014,107,Buddhist,11,337
+From: 21 May 2014,To: 21 May 2014,Burma,FY 2014,107,Christian,81,337
+From: 21 May 2014,To: 21 May 2014,Burma,FY 2014,107,Evangelical Christian,1,337
+From: 21 May 2014,To: 21 May 2014,Burma,FY 2014,107,Moslem,7,337
+From: 21 May 2014,To: 21 May 2014,Dem. Rep. Congo,FY 2014,1,Protestant,1,337
+From: 21 May 2014,To: 21 May 2014,Eritrea,FY 2014,25,Catholic,15,337
+From: 21 May 2014,To: 21 May 2014,Eritrea,FY 2014,25,Orthodox,4,337
+From: 21 May 2014,To: 21 May 2014,Eritrea,FY 2014,25,Pentecostalist,6,337
+From: 21 May 2014,To: 21 May 2014,Iran,FY 2014,25,Christian,21,337
+From: 21 May 2014,To: 21 May 2014,Iran,FY 2014,25,Zoroastrian,4,337
+From: 21 May 2014,To: 21 May 2014,Iraq,FY 2014,79,Catholic,23,337
+From: 21 May 2014,To: 21 May 2014,Iraq,FY 2014,79,Christian,4,337
+From: 21 May 2014,To: 21 May 2014,Iraq,FY 2014,79,Moslem,1,337
+From: 21 May 2014,To: 21 May 2014,Iraq,FY 2014,79,Moslem Shiite,16,337
+From: 21 May 2014,To: 21 May 2014,Iraq,FY 2014,79,Moslem Suni,30,337
+From: 21 May 2014,To: 21 May 2014,Iraq,FY 2014,79,Orthodox,5,337
+From: 21 May 2014,To: 21 May 2014,Kyrgyzstan,FY 2014,1,Pentecostalist,1,337
+From: 21 May 2014,To: 21 May 2014,Pakistan,FY 2014,4,Ahmadiyya,4,337
+From: 21 May 2014,To: 21 May 2014,Somalia,FY 2014,21,Moslem,11,337
+From: 21 May 2014,To: 21 May 2014,Somalia,FY 2014,21,Moslem Ismaici,1,337
+From: 21 May 2014,To: 21 May 2014,Somalia,FY 2014,21,Moslem Suni,9,337
+From: 21 May 2014,To: 21 May 2014,Sudan,FY 2014,3,Moslem,3,337
+From: 21 May 2014,To: 21 May 2014,Vietnam,FY 2014,10,Catholic,5,337
+From: 21 May 2014,To: 21 May 2014,Vietnam,FY 2014,10,No Religion,5,337
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 May 2014,To: 21 May 2014,Ahmadiyya,FY 2014,4,Pakistan,4,337
+From: 21 May 2014,To: 21 May 2014,Baptist,FY 2014,7,Burma,7,337
+From: 21 May 2014,To: 21 May 2014,Buddhist,FY 2014,21,Bhutan,10,337
+From: 21 May 2014,To: 21 May 2014,Buddhist,FY 2014,21,Burma,11,337
+From: 21 May 2014,To: 21 May 2014,Catholic,FY 2014,43,Eritrea,15,337
+From: 21 May 2014,To: 21 May 2014,Catholic,FY 2014,43,Iraq,23,337
+From: 21 May 2014,To: 21 May 2014,Catholic,FY 2014,43,Vietnam,5,337
+From: 21 May 2014,To: 21 May 2014,Christian,FY 2014,122,Bhutan,16,337
+From: 21 May 2014,To: 21 May 2014,Christian,FY 2014,122,Burma,81,337
+From: 21 May 2014,To: 21 May 2014,Christian,FY 2014,122,Iran,21,337
+From: 21 May 2014,To: 21 May 2014,Christian,FY 2014,122,Iraq,4,337
+From: 21 May 2014,To: 21 May 2014,Evangelical Christian,FY 2014,1,Burma,1,337
+From: 21 May 2014,To: 21 May 2014,Hindu,FY 2014,19,Bhutan,19,337
+From: 21 May 2014,To: 21 May 2014,Kirat,FY 2014,9,Bhutan,9,337
+From: 21 May 2014,To: 21 May 2014,Moslem,FY 2014,23,Afghanistan,1,337
+From: 21 May 2014,To: 21 May 2014,Moslem,FY 2014,23,Burma,7,337
+From: 21 May 2014,To: 21 May 2014,Moslem,FY 2014,23,Iraq,1,337
+From: 21 May 2014,To: 21 May 2014,Moslem,FY 2014,23,Somalia,11,337
+From: 21 May 2014,To: 21 May 2014,Moslem,FY 2014,23,Sudan,3,337
+From: 21 May 2014,To: 21 May 2014,Moslem Ismaici,FY 2014,1,Somalia,1,337
+From: 21 May 2014,To: 21 May 2014,Moslem Shiite,FY 2014,22,Afghanistan,6,337
+From: 21 May 2014,To: 21 May 2014,Moslem Shiite,FY 2014,22,Iraq,16,337
+From: 21 May 2014,To: 21 May 2014,Moslem Suni,FY 2014,39,Iraq,30,337
+From: 21 May 2014,To: 21 May 2014,Moslem Suni,FY 2014,39,Somalia,9,337
+From: 21 May 2014,To: 21 May 2014,No Religion,FY 2014,5,Vietnam,5,337
+From: 21 May 2014,To: 21 May 2014,Orthodox,FY 2014,9,Eritrea,4,337
+From: 21 May 2014,To: 21 May 2014,Orthodox,FY 2014,9,Iraq,5,337
+From: 21 May 2014,To: 21 May 2014,Pentecostalist,FY 2014,7,Eritrea,6,337
+From: 21 May 2014,To: 21 May 2014,Pentecostalist,FY 2014,7,Kyrgyzstan,1,337
+From: 21 May 2014,To: 21 May 2014,Protestant,FY 2014,1,Dem. Rep. Congo,1,337
+From: 21 May 2014,To: 21 May 2014,Zoroastrian,FY 2014,4,Iran,4,337
+

@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,Baptist,6,157
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,Catholic,20,157
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,Jehovah Witness,13,157
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,Jewish,2,157
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,Methodist,2,157
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,No Religion,22,157
+From: 07 Jan 2014,To: 07 Jan 2014,Cuba,FY 2014,66,Pentecostalist,1,157
+From: 07 Jan 2014,To: 07 Jan 2014,Iran,FY 2014,9,Christian,7,157
+From: 07 Jan 2014,To: 07 Jan 2014,Iran,FY 2014,9,Protestant,2,157
+From: 07 Jan 2014,To: 07 Jan 2014,Iraq,FY 2014,82,Catholic,4,157
+From: 07 Jan 2014,To: 07 Jan 2014,Iraq,FY 2014,82,Moslem Shiite,60,157
+From: 07 Jan 2014,To: 07 Jan 2014,Iraq,FY 2014,82,Moslem Suni,15,157
+From: 07 Jan 2014,To: 07 Jan 2014,Iraq,FY 2014,82,Orthodox,3,157
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jan 2014,To: 07 Jan 2014,Baptist,FY 2014,6,Cuba,6,157
+From: 07 Jan 2014,To: 07 Jan 2014,Catholic,FY 2014,24,Cuba,20,157
+From: 07 Jan 2014,To: 07 Jan 2014,Catholic,FY 2014,24,Iraq,4,157
+From: 07 Jan 2014,To: 07 Jan 2014,Christian,FY 2014,7,Iran,7,157
+From: 07 Jan 2014,To: 07 Jan 2014,Jehovah Witness,FY 2014,13,Cuba,13,157
+From: 07 Jan 2014,To: 07 Jan 2014,Jewish,FY 2014,2,Cuba,2,157
+From: 07 Jan 2014,To: 07 Jan 2014,Methodist,FY 2014,2,Cuba,2,157
+From: 07 Jan 2014,To: 07 Jan 2014,Moslem Shiite,FY 2014,60,Iraq,60,157
+From: 07 Jan 2014,To: 07 Jan 2014,Moslem Suni,FY 2014,15,Iraq,15,157
+From: 07 Jan 2014,To: 07 Jan 2014,No Religion,FY 2014,22,Cuba,22,157
+From: 07 Jan 2014,To: 07 Jan 2014,Orthodox,FY 2014,3,Iraq,3,157
+From: 07 Jan 2014,To: 07 Jan 2014,Pentecostalist,FY 2014,1,Cuba,1,157
+From: 07 Jan 2014,To: 07 Jan 2014,Protestant,FY 2014,2,Iran,2,157
+

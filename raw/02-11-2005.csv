@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Feb 2005,To: 11 Feb 2005,Russia,FY 2005,26,Moslem,26,61
+From: 11 Feb 2005,To: 11 Feb 2005,Ukraine,FY 2005,35,Baptist,26,61
+From: 11 Feb 2005,To: 11 Feb 2005,Ukraine,FY 2005,35,Pentecostalist,6,61
+From: 11 Feb 2005,To: 11 Feb 2005,Ukraine,FY 2005,35,Uniate,3,61
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Feb 2005,To: 11 Feb 2005,Baptist,FY 2005,26,Ukraine,26,61
+From: 11 Feb 2005,To: 11 Feb 2005,Moslem,FY 2005,26,Russia,26,61
+From: 11 Feb 2005,To: 11 Feb 2005,Pentecostalist,FY 2005,6,Ukraine,6,61
+From: 11 Feb 2005,To: 11 Feb 2005,Uniate,FY 2005,3,Ukraine,3,61
+

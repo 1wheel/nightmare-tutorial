@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jun 2009,To: 25 Jun 2009,Bhutan,FY 2009,78,Buddhist,11,437
+From: 25 Jun 2009,To: 25 Jun 2009,Bhutan,FY 2009,78,Hindu,63,437
+From: 25 Jun 2009,To: 25 Jun 2009,Bhutan,FY 2009,78,Kirat,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Burma,FY 2009,180,Animist,45,437
+From: 25 Jun 2009,To: 25 Jun 2009,Burma,FY 2009,180,Baptist,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Burma,FY 2009,180,Buddhist,19,437
+From: 25 Jun 2009,To: 25 Jun 2009,Burma,FY 2009,180,Catholic,24,437
+From: 25 Jun 2009,To: 25 Jun 2009,Burma,FY 2009,180,Christian,91,437
+From: 25 Jun 2009,To: 25 Jun 2009,China,FY 2009,1,Other Religion,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Eritrea,FY 2009,14,Catholic,3,437
+From: 25 Jun 2009,To: 25 Jun 2009,Eritrea,FY 2009,14,Christian,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Eritrea,FY 2009,14,Orthodox,7,437
+From: 25 Jun 2009,To: 25 Jun 2009,Eritrea,FY 2009,14,Protestant,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Ethiopia,FY 2009,5,Moslem,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Ethiopia,FY 2009,5,Orthodox,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iran,FY 2009,41,Christian,28,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iran,FY 2009,41,Jewish,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iran,FY 2009,41,Moslem Shiite,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iran,FY 2009,41,Sabeans-Mandean,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iran,FY 2009,41,Zoroastrian,5,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iraq,FY 2009,81,Catholic,7,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iraq,FY 2009,81,Chaldean,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iraq,FY 2009,81,Christian,8,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iraq,FY 2009,81,Moslem Shiite,23,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iraq,FY 2009,81,Moslem Suni,38,437
+From: 25 Jun 2009,To: 25 Jun 2009,Iraq,FY 2009,81,Sabeans-Mandean,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Kyrgyzstan,FY 2009,4,Baptist,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Palestine,FY 2009,1,Moslem Suni,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Somalia,FY 2009,15,Moslem,15,437
+From: 25 Jun 2009,To: 25 Jun 2009,Sudan,FY 2009,9,Moslem,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Sudan,FY 2009,9,Moslem Suni,8,437
+From: 25 Jun 2009,To: 25 Jun 2009,Ukraine,FY 2009,6,Baptist,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Ukraine,FY 2009,6,Jewish,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Uzbekistan,FY 2009,2,Baptist,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Uzbekistan,FY 2009,2,Jewish,1,437
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jun 2009,To: 25 Jun 2009,Animist,FY 2009,45,Burma,45,437
+From: 25 Jun 2009,To: 25 Jun 2009,Baptist,FY 2009,10,Burma,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Baptist,FY 2009,10,Kyrgyzstan,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Baptist,FY 2009,10,Ukraine,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Baptist,FY 2009,10,Uzbekistan,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Buddhist,FY 2009,30,Bhutan,11,437
+From: 25 Jun 2009,To: 25 Jun 2009,Buddhist,FY 2009,30,Burma,19,437
+From: 25 Jun 2009,To: 25 Jun 2009,Catholic,FY 2009,34,Burma,24,437
+From: 25 Jun 2009,To: 25 Jun 2009,Catholic,FY 2009,34,Eritrea,3,437
+From: 25 Jun 2009,To: 25 Jun 2009,Catholic,FY 2009,34,Iraq,7,437
+From: 25 Jun 2009,To: 25 Jun 2009,Chaldean,FY 2009,1,Iraq,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Christian,FY 2009,129,Burma,91,437
+From: 25 Jun 2009,To: 25 Jun 2009,Christian,FY 2009,129,Eritrea,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Christian,FY 2009,129,Iran,28,437
+From: 25 Jun 2009,To: 25 Jun 2009,Christian,FY 2009,129,Iraq,8,437
+From: 25 Jun 2009,To: 25 Jun 2009,Hindu,FY 2009,63,Bhutan,63,437
+From: 25 Jun 2009,To: 25 Jun 2009,Jewish,FY 2009,5,Iran,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Jewish,FY 2009,5,Ukraine,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Jewish,FY 2009,5,Uzbekistan,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Kirat,FY 2009,4,Bhutan,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem,FY 2009,20,Ethiopia,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem,FY 2009,20,Somalia,15,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem,FY 2009,20,Sudan,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem Shiite,FY 2009,27,Iran,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem Shiite,FY 2009,27,Iraq,23,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem Suni,FY 2009,47,Iraq,38,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem Suni,FY 2009,47,Palestine,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Moslem Suni,FY 2009,47,Sudan,8,437
+From: 25 Jun 2009,To: 25 Jun 2009,Orthodox,FY 2009,8,Eritrea,7,437
+From: 25 Jun 2009,To: 25 Jun 2009,Orthodox,FY 2009,8,Ethiopia,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Other Religion,FY 2009,1,China,1,437
+From: 25 Jun 2009,To: 25 Jun 2009,Protestant,FY 2009,2,Eritrea,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Sabeans-Mandean,FY 2009,6,Iran,2,437
+From: 25 Jun 2009,To: 25 Jun 2009,Sabeans-Mandean,FY 2009,6,Iraq,4,437
+From: 25 Jun 2009,To: 25 Jun 2009,Zoroastrian,FY 2009,5,Iran,5,437
+

@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jul 2007,To: 02 Jul 2007,Burma,FY 2007,31,Christian,31,233
+From: 02 Jul 2007,To: 02 Jul 2007,Burundi,FY 2007,137,Catholic,54,233
+From: 02 Jul 2007,To: 02 Jul 2007,Burundi,FY 2007,137,Christian,19,233
+From: 02 Jul 2007,To: 02 Jul 2007,Burundi,FY 2007,137,Moslem,5,233
+From: 02 Jul 2007,To: 02 Jul 2007,Burundi,FY 2007,137,Pentecostalist,59,233
+From: 02 Jul 2007,To: 02 Jul 2007,Iran,FY 2007,64,Bahai,34,233
+From: 02 Jul 2007,To: 02 Jul 2007,Iran,FY 2007,64,Christian,21,233
+From: 02 Jul 2007,To: 02 Jul 2007,Iran,FY 2007,64,Jewish,3,233
+From: 02 Jul 2007,To: 02 Jul 2007,Iran,FY 2007,64,Sabeans-Mandean,6,233
+From: 02 Jul 2007,To: 02 Jul 2007,Latvia,FY 2007,1,Jewish,1,233
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jul 2007,To: 02 Jul 2007,Bahai,FY 2007,34,Iran,34,233
+From: 02 Jul 2007,To: 02 Jul 2007,Catholic,FY 2007,54,Burundi,54,233
+From: 02 Jul 2007,To: 02 Jul 2007,Christian,FY 2007,71,Burma,31,233
+From: 02 Jul 2007,To: 02 Jul 2007,Christian,FY 2007,71,Burundi,19,233
+From: 02 Jul 2007,To: 02 Jul 2007,Christian,FY 2007,71,Iran,21,233
+From: 02 Jul 2007,To: 02 Jul 2007,Jewish,FY 2007,4,Iran,3,233
+From: 02 Jul 2007,To: 02 Jul 2007,Jewish,FY 2007,4,Latvia,1,233
+From: 02 Jul 2007,To: 02 Jul 2007,Moslem,FY 2007,5,Burundi,5,233
+From: 02 Jul 2007,To: 02 Jul 2007,Pentecostalist,FY 2007,59,Burundi,59,233
+From: 02 Jul 2007,To: 02 Jul 2007,Sabeans-Mandean,FY 2007,6,Iran,6,233
+

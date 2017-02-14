@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Apr 2006,To: 03 Apr 2006,Afghanistan,FY 2006,6,Moslem Suni,6,102
+From: 03 Apr 2006,To: 03 Apr 2006,Belarus,FY 2006,18,Jewish,3,102
+From: 03 Apr 2006,To: 03 Apr 2006,Belarus,FY 2006,18,No Religion,4,102
+From: 03 Apr 2006,To: 03 Apr 2006,Belarus,FY 2006,18,Pentecostalist,11,102
+From: 03 Apr 2006,To: 03 Apr 2006,Eritrea,FY 2006,1,Jehovah Witness,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Ethiopia,FY 2006,2,Orthodox,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Ethiopia,FY 2006,2,Protestant,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Liberia,FY 2006,7,Christian,7,102
+From: 03 Apr 2006,To: 03 Apr 2006,Russia,FY 2006,34,Moslem,34,102
+From: 03 Apr 2006,To: 03 Apr 2006,Somalia,FY 2006,16,Moslem,16,102
+From: 03 Apr 2006,To: 03 Apr 2006,Sudan,FY 2006,16,Catholic,4,102
+From: 03 Apr 2006,To: 03 Apr 2006,Sudan,FY 2006,16,Christian,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Sudan,FY 2006,16,Moslem,9,102
+From: 03 Apr 2006,To: 03 Apr 2006,Sudan,FY 2006,16,Protestant,2,102
+From: 03 Apr 2006,To: 03 Apr 2006,Vietnam,FY 2006,2,Catholic,2,102
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Apr 2006,To: 03 Apr 2006,Catholic,FY 2006,6,Sudan,4,102
+From: 03 Apr 2006,To: 03 Apr 2006,Catholic,FY 2006,6,Vietnam,2,102
+From: 03 Apr 2006,To: 03 Apr 2006,Christian,FY 2006,8,Liberia,7,102
+From: 03 Apr 2006,To: 03 Apr 2006,Christian,FY 2006,8,Sudan,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Jehovah Witness,FY 2006,1,Eritrea,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Jewish,FY 2006,3,Belarus,3,102
+From: 03 Apr 2006,To: 03 Apr 2006,Moslem,FY 2006,59,Russia,34,102
+From: 03 Apr 2006,To: 03 Apr 2006,Moslem,FY 2006,59,Somalia,16,102
+From: 03 Apr 2006,To: 03 Apr 2006,Moslem,FY 2006,59,Sudan,9,102
+From: 03 Apr 2006,To: 03 Apr 2006,Moslem Suni,FY 2006,6,Afghanistan,6,102
+From: 03 Apr 2006,To: 03 Apr 2006,No Religion,FY 2006,4,Belarus,4,102
+From: 03 Apr 2006,To: 03 Apr 2006,Orthodox,FY 2006,1,Ethiopia,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Pentecostalist,FY 2006,11,Belarus,11,102
+From: 03 Apr 2006,To: 03 Apr 2006,Protestant,FY 2006,3,Ethiopia,1,102
+From: 03 Apr 2006,To: 03 Apr 2006,Protestant,FY 2006,3,Sudan,2,102
+

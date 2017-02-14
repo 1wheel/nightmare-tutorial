@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jun 2009,To: 03 Jun 2009,Belarus,FY 2009,2,Jewish,2,467
+From: 03 Jun 2009,To: 03 Jun 2009,Bhutan,FY 2009,80,Buddhist,9,467
+From: 03 Jun 2009,To: 03 Jun 2009,Bhutan,FY 2009,80,Christian,9,467
+From: 03 Jun 2009,To: 03 Jun 2009,Bhutan,FY 2009,80,Hindu,61,467
+From: 03 Jun 2009,To: 03 Jun 2009,Bhutan,FY 2009,80,Kirat,1,467
+From: 03 Jun 2009,To: 03 Jun 2009,Burma,FY 2009,187,Animist,59,467
+From: 03 Jun 2009,To: 03 Jun 2009,Burma,FY 2009,187,Buddhist,5,467
+From: 03 Jun 2009,To: 03 Jun 2009,Burma,FY 2009,187,Catholic,21,467
+From: 03 Jun 2009,To: 03 Jun 2009,Burma,FY 2009,187,Christian,98,467
+From: 03 Jun 2009,To: 03 Jun 2009,Burma,FY 2009,187,Moslem,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Cuba,FY 2009,69,Baptist,1,467
+From: 03 Jun 2009,To: 03 Jun 2009,Cuba,FY 2009,69,Catholic,22,467
+From: 03 Jun 2009,To: 03 Jun 2009,Cuba,FY 2009,69,Evangelical Christian,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Cuba,FY 2009,69,Jehovah Witness,28,467
+From: 03 Jun 2009,To: 03 Jun 2009,Cuba,FY 2009,69,No Religion,14,467
+From: 03 Jun 2009,To: 03 Jun 2009,Dem. Rep. Congo,FY 2009,16,Pentecostalist,16,467
+From: 03 Jun 2009,To: 03 Jun 2009,Iraq,FY 2009,74,Christian,23,467
+From: 03 Jun 2009,To: 03 Jun 2009,Iraq,FY 2009,74,Moslem Shiite,17,467
+From: 03 Jun 2009,To: 03 Jun 2009,Iraq,FY 2009,74,Moslem Suni,30,467
+From: 03 Jun 2009,To: 03 Jun 2009,Iraq,FY 2009,74,Sabeans-Mandean,3,467
+From: 03 Jun 2009,To: 03 Jun 2009,Iraq,FY 2009,74,Unknown,1,467
+From: 03 Jun 2009,To: 03 Jun 2009,"Korea, North",FY 2009,4,Christian,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,Ancestral Worship,8,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,Buddhist,5,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,Cao Dai,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,Catholic,7,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,No Religion,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,Protestant,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Vietnam,FY 2009,35,Unknown,3,467
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jun 2009,To: 03 Jun 2009,Ancestral Worship,FY 2009,8,Vietnam,8,467
+From: 03 Jun 2009,To: 03 Jun 2009,Animist,FY 2009,59,Burma,59,467
+From: 03 Jun 2009,To: 03 Jun 2009,Baptist,FY 2009,1,Cuba,1,467
+From: 03 Jun 2009,To: 03 Jun 2009,Buddhist,FY 2009,19,Bhutan,9,467
+From: 03 Jun 2009,To: 03 Jun 2009,Buddhist,FY 2009,19,Burma,5,467
+From: 03 Jun 2009,To: 03 Jun 2009,Buddhist,FY 2009,19,Vietnam,5,467
+From: 03 Jun 2009,To: 03 Jun 2009,Cao Dai,FY 2009,4,Vietnam,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Catholic,FY 2009,50,Burma,21,467
+From: 03 Jun 2009,To: 03 Jun 2009,Catholic,FY 2009,50,Cuba,22,467
+From: 03 Jun 2009,To: 03 Jun 2009,Catholic,FY 2009,50,Vietnam,7,467
+From: 03 Jun 2009,To: 03 Jun 2009,Christian,FY 2009,134,Bhutan,9,467
+From: 03 Jun 2009,To: 03 Jun 2009,Christian,FY 2009,134,Burma,98,467
+From: 03 Jun 2009,To: 03 Jun 2009,Christian,FY 2009,134,Iraq,23,467
+From: 03 Jun 2009,To: 03 Jun 2009,Christian,FY 2009,134,"Korea, North",4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Evangelical Christian,FY 2009,4,Cuba,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Hindu,FY 2009,61,Bhutan,61,467
+From: 03 Jun 2009,To: 03 Jun 2009,Jehovah Witness,FY 2009,28,Cuba,28,467
+From: 03 Jun 2009,To: 03 Jun 2009,Jewish,FY 2009,2,Belarus,2,467
+From: 03 Jun 2009,To: 03 Jun 2009,Kirat,FY 2009,1,Bhutan,1,467
+From: 03 Jun 2009,To: 03 Jun 2009,Moslem,FY 2009,4,Burma,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Moslem Shiite,FY 2009,17,Iraq,17,467
+From: 03 Jun 2009,To: 03 Jun 2009,Moslem Suni,FY 2009,30,Iraq,30,467
+From: 03 Jun 2009,To: 03 Jun 2009,No Religion,FY 2009,18,Cuba,14,467
+From: 03 Jun 2009,To: 03 Jun 2009,No Religion,FY 2009,18,Vietnam,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Pentecostalist,FY 2009,16,Dem. Rep. Congo,16,467
+From: 03 Jun 2009,To: 03 Jun 2009,Protestant,FY 2009,4,Vietnam,4,467
+From: 03 Jun 2009,To: 03 Jun 2009,Sabeans-Mandean,FY 2009,3,Iraq,3,467
+From: 03 Jun 2009,To: 03 Jun 2009,Unknown,FY 2009,4,Iraq,1,467
+From: 03 Jun 2009,To: 03 Jun 2009,Unknown,FY 2009,4,Vietnam,3,467
+

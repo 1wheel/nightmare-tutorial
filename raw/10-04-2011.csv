@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Oct 2011,To: 04 Oct 2011,Iran,FY 2012,1,No Religion,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Iraq,FY 2012,16,Catholic,4,18
+From: 04 Oct 2011,To: 04 Oct 2011,Iraq,FY 2012,16,Christian,6,18
+From: 04 Oct 2011,To: 04 Oct 2011,Iraq,FY 2012,16,Moslem,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Iraq,FY 2012,16,Moslem Shiite,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Iraq,FY 2012,16,Moslem Suni,2,18
+From: 04 Oct 2011,To: 04 Oct 2011,Iraq,FY 2012,16,Orthodox,2,18
+From: 04 Oct 2011,To: 04 Oct 2011,Sierra Leone,FY 2012,1,Moslem,1,18
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Oct 2011,To: 04 Oct 2011,Catholic,FY 2012,4,Iraq,4,18
+From: 04 Oct 2011,To: 04 Oct 2011,Christian,FY 2012,6,Iraq,6,18
+From: 04 Oct 2011,To: 04 Oct 2011,Moslem,FY 2012,2,Iraq,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Moslem,FY 2012,2,Sierra Leone,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Moslem Shiite,FY 2012,1,Iraq,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Moslem Suni,FY 2012,2,Iraq,2,18
+From: 04 Oct 2011,To: 04 Oct 2011,No Religion,FY 2012,1,Iran,1,18
+From: 04 Oct 2011,To: 04 Oct 2011,Orthodox,FY 2012,2,Iraq,2,18
+

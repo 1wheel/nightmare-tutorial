@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Aug 2015,To: 03 Aug 2015,Afghanistan,FY 2015,7,Moslem Shiite,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Afghanistan,FY 2015,7,Protestant,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Eritrea,FY 2015,2,Orthodox,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,FY 2015,7,Bahai,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,FY 2015,7,Moslem Shiite,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,FY 2015,7,No Religion,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iran,FY 2015,7,Protestant,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,FY 2015,28,Catholic,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,FY 2015,28,Moslem Suni,22,63
+From: 03 Aug 2015,To: 03 Aug 2015,Iraq,FY 2015,28,Orthodox,4,63
+From: 03 Aug 2015,To: 03 Aug 2015,Somalia,FY 2015,3,Moslem,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,FY 2015,16,Christian,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Sudan,FY 2015,16,Moslem,13,63
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Aug 2015,To: 03 Aug 2015,Bahai,FY 2015,2,Iran,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Catholic,FY 2015,2,Iraq,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Christian,FY 2015,3,Sudan,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Moslem,FY 2015,16,Somalia,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Moslem,FY 2015,16,Sudan,13,63
+From: 03 Aug 2015,To: 03 Aug 2015,Moslem Shiite,FY 2015,8,Afghanistan,5,63
+From: 03 Aug 2015,To: 03 Aug 2015,Moslem Shiite,FY 2015,8,Iran,3,63
+From: 03 Aug 2015,To: 03 Aug 2015,Moslem Suni,FY 2015,22,Iraq,22,63
+From: 03 Aug 2015,To: 03 Aug 2015,No Religion,FY 2015,1,Iran,1,63
+From: 03 Aug 2015,To: 03 Aug 2015,Orthodox,FY 2015,6,Eritrea,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Orthodox,FY 2015,6,Iraq,4,63
+From: 03 Aug 2015,To: 03 Aug 2015,Protestant,FY 2015,3,Afghanistan,2,63
+From: 03 Aug 2015,To: 03 Aug 2015,Protestant,FY 2015,3,Iran,1,63
+

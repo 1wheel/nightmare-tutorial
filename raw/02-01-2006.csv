@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Feb 2006,To: 01 Feb 2006,Congo,FY 2006,1,Protestant,1,185
+From: 01 Feb 2006,To: 01 Feb 2006,Equatorial Guinea,FY 2006,3,Christian,3,185
+From: 01 Feb 2006,To: 01 Feb 2006,Ethiopia,FY 2006,6,Moslem,2,185
+From: 01 Feb 2006,To: 01 Feb 2006,Ethiopia,FY 2006,6,Orthodox,4,185
+From: 01 Feb 2006,To: 01 Feb 2006,Iran,FY 2006,9,Christian,7,185
+From: 01 Feb 2006,To: 01 Feb 2006,Iran,FY 2006,9,Jewish,2,185
+From: 01 Feb 2006,To: 01 Feb 2006,Liberia,FY 2006,25,Baptist,2,185
+From: 01 Feb 2006,To: 01 Feb 2006,Liberia,FY 2006,25,Christian,23,185
+From: 01 Feb 2006,To: 01 Feb 2006,Russia,FY 2006,56,Moslem,56,185
+From: 01 Feb 2006,To: 01 Feb 2006,Sierra Leone,FY 2006,5,Moslem,5,185
+From: 01 Feb 2006,To: 01 Feb 2006,Somalia,FY 2006,21,Moslem,21,185
+From: 01 Feb 2006,To: 01 Feb 2006,Sudan,FY 2006,24,Catholic,6,185
+From: 01 Feb 2006,To: 01 Feb 2006,Sudan,FY 2006,24,Christian,3,185
+From: 01 Feb 2006,To: 01 Feb 2006,Sudan,FY 2006,24,Moslem,15,185
+From: 01 Feb 2006,To: 01 Feb 2006,Ukraine,FY 2006,35,Baptist,11,185
+From: 01 Feb 2006,To: 01 Feb 2006,Ukraine,FY 2006,35,Pentecostalist,24,185
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Feb 2006,To: 01 Feb 2006,Baptist,FY 2006,13,Liberia,2,185
+From: 01 Feb 2006,To: 01 Feb 2006,Baptist,FY 2006,13,Ukraine,11,185
+From: 01 Feb 2006,To: 01 Feb 2006,Catholic,FY 2006,6,Sudan,6,185
+From: 01 Feb 2006,To: 01 Feb 2006,Christian,FY 2006,36,Equatorial Guinea,3,185
+From: 01 Feb 2006,To: 01 Feb 2006,Christian,FY 2006,36,Iran,7,185
+From: 01 Feb 2006,To: 01 Feb 2006,Christian,FY 2006,36,Liberia,23,185
+From: 01 Feb 2006,To: 01 Feb 2006,Christian,FY 2006,36,Sudan,3,185
+From: 01 Feb 2006,To: 01 Feb 2006,Jewish,FY 2006,2,Iran,2,185
+From: 01 Feb 2006,To: 01 Feb 2006,Moslem,FY 2006,99,Ethiopia,2,185
+From: 01 Feb 2006,To: 01 Feb 2006,Moslem,FY 2006,99,Russia,56,185
+From: 01 Feb 2006,To: 01 Feb 2006,Moslem,FY 2006,99,Sierra Leone,5,185
+From: 01 Feb 2006,To: 01 Feb 2006,Moslem,FY 2006,99,Somalia,21,185
+From: 01 Feb 2006,To: 01 Feb 2006,Moslem,FY 2006,99,Sudan,15,185
+From: 01 Feb 2006,To: 01 Feb 2006,Orthodox,FY 2006,4,Ethiopia,4,185
+From: 01 Feb 2006,To: 01 Feb 2006,Pentecostalist,FY 2006,24,Ukraine,24,185
+From: 01 Feb 2006,To: 01 Feb 2006,Protestant,FY 2006,1,Congo,1,185
+

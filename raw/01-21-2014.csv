@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jan 2014,To: 21 Jan 2014,Afghanistan,FY 2014,1,Moslem Shiite,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Burma,FY 2014,94,Baptist,5,279
+From: 21 Jan 2014,To: 21 Jan 2014,Burma,FY 2014,94,Buddhist,14,279
+From: 21 Jan 2014,To: 21 Jan 2014,Burma,FY 2014,94,Catholic,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Burma,FY 2014,94,Christian,62,279
+From: 21 Jan 2014,To: 21 Jan 2014,Burma,FY 2014,94,Moslem,10,279
+From: 21 Jan 2014,To: 21 Jan 2014,Congo,FY 2014,1,Protestant,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Dem. Rep. Congo,FY 2014,18,Christian,8,279
+From: 21 Jan 2014,To: 21 Jan 2014,Dem. Rep. Congo,FY 2014,18,Pentecostalist,10,279
+From: 21 Jan 2014,To: 21 Jan 2014,Eritrea,FY 2014,3,Catholic,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Eritrea,FY 2014,3,Orthodox,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Ethiopia,FY 2014,4,Moslem,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Ethiopia,FY 2014,4,Orthodox,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Atheist,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Bahai,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Christian,10,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Jewish,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Kaaka'i,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Moslem Shiite,5,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Protestant,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iran,FY 2014,34,Sabeans-Mandean,8,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iraq,FY 2014,49,Christian,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iraq,FY 2014,49,Moslem Shiite,18,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iraq,FY 2014,49,Moslem Suni,26,279
+From: 21 Jan 2014,To: 21 Jan 2014,Iraq,FY 2014,49,Yazidi,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Rwanda,FY 2014,1,Seventh Day Adventist,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Somalia,FY 2014,62,Moslem,62,279
+From: 21 Jan 2014,To: 21 Jan 2014,Sri Lanka (Ceylon),FY 2014,3,Christian,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Sudan,FY 2014,3,Moslem,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Ukraine,FY 2014,6,Pentecostalist,6,279
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jan 2014,To: 21 Jan 2014,Atheist,FY 2014,3,Iran,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Bahai,FY 2014,2,Iran,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Baptist,FY 2014,5,Burma,5,279
+From: 21 Jan 2014,To: 21 Jan 2014,Buddhist,FY 2014,14,Burma,14,279
+From: 21 Jan 2014,To: 21 Jan 2014,Catholic,FY 2014,4,Burma,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Catholic,FY 2014,4,Eritrea,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Christian,FY 2014,86,Burma,62,279
+From: 21 Jan 2014,To: 21 Jan 2014,Christian,FY 2014,86,Dem. Rep. Congo,8,279
+From: 21 Jan 2014,To: 21 Jan 2014,Christian,FY 2014,86,Iran,10,279
+From: 21 Jan 2014,To: 21 Jan 2014,Christian,FY 2014,86,Iraq,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Christian,FY 2014,86,Sri Lanka (Ceylon),3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Jewish,FY 2014,2,Iran,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Kaaka'i,FY 2014,1,Iran,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem,FY 2014,77,Burma,10,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem,FY 2014,77,Ethiopia,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem,FY 2014,77,Somalia,62,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem,FY 2014,77,Sudan,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem Shiite,FY 2014,24,Afghanistan,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem Shiite,FY 2014,24,Iran,5,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem Shiite,FY 2014,24,Iraq,18,279
+From: 21 Jan 2014,To: 21 Jan 2014,Moslem Suni,FY 2014,26,Iraq,26,279
+From: 21 Jan 2014,To: 21 Jan 2014,Orthodox,FY 2014,4,Eritrea,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Orthodox,FY 2014,4,Ethiopia,2,279
+From: 21 Jan 2014,To: 21 Jan 2014,Pentecostalist,FY 2014,16,Dem. Rep. Congo,10,279
+From: 21 Jan 2014,To: 21 Jan 2014,Pentecostalist,FY 2014,16,Ukraine,6,279
+From: 21 Jan 2014,To: 21 Jan 2014,Protestant,FY 2014,4,Congo,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Protestant,FY 2014,4,Iran,3,279
+From: 21 Jan 2014,To: 21 Jan 2014,Sabeans-Mandean,FY 2014,8,Iran,8,279
+From: 21 Jan 2014,To: 21 Jan 2014,Seventh Day Adventist,FY 2014,1,Rwanda,1,279
+From: 21 Jan 2014,To: 21 Jan 2014,Yazidi,FY 2014,2,Iraq,2,279
+

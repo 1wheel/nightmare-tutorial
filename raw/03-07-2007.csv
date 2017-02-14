@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Mar 2007,To: 07 Mar 2007,Afghanistan,FY 2007,6,Moslem Shiite,6,212
+From: 07 Mar 2007,To: 07 Mar 2007,Burma,FY 2007,25,Buddhist,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Burma,FY 2007,25,Christian,20,212
+From: 07 Mar 2007,To: 07 Mar 2007,Burundi,FY 2007,35,Catholic,18,212
+From: 07 Mar 2007,To: 07 Mar 2007,Burundi,FY 2007,35,Christian,3,212
+From: 07 Mar 2007,To: 07 Mar 2007,Burundi,FY 2007,35,Methodist,9,212
+From: 07 Mar 2007,To: 07 Mar 2007,Burundi,FY 2007,35,Pentecostalist,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Ivory Coast,FY 2007,1,Christian,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Liberia,FY 2007,27,Baptist,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Liberia,FY 2007,27,Christian,8,212
+From: 07 Mar 2007,To: 07 Mar 2007,Liberia,FY 2007,27,Moslem,13,212
+From: 07 Mar 2007,To: 07 Mar 2007,Liberia,FY 2007,27,Protestant,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Moldova,FY 2007,37,Baptist,26,212
+From: 07 Mar 2007,To: 07 Mar 2007,Moldova,FY 2007,37,Pentecostalist,6,212
+From: 07 Mar 2007,To: 07 Mar 2007,Moldova,FY 2007,37,Seventh Day Adventist,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Russia,FY 2007,13,Baptist,8,212
+From: 07 Mar 2007,To: 07 Mar 2007,Russia,FY 2007,13,Jewish,4,212
+From: 07 Mar 2007,To: 07 Mar 2007,Russia,FY 2007,13,No Religion,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Somalia,FY 2007,34,Moslem,34,212
+From: 07 Mar 2007,To: 07 Mar 2007,Vietnam,FY 2007,34,Ancestral Worship,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Vietnam,FY 2007,34,Buddhist,8,212
+From: 07 Mar 2007,To: 07 Mar 2007,Vietnam,FY 2007,34,No Religion,3,212
+From: 07 Mar 2007,To: 07 Mar 2007,Vietnam,FY 2007,34,Other Religion,2,212
+From: 07 Mar 2007,To: 07 Mar 2007,Vietnam,FY 2007,34,Protestant,20,212
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Mar 2007,To: 07 Mar 2007,Ancestral Worship,FY 2007,1,Vietnam,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Baptist,FY 2007,35,Liberia,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Baptist,FY 2007,35,Moldova,26,212
+From: 07 Mar 2007,To: 07 Mar 2007,Baptist,FY 2007,35,Russia,8,212
+From: 07 Mar 2007,To: 07 Mar 2007,Buddhist,FY 2007,13,Burma,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Buddhist,FY 2007,13,Vietnam,8,212
+From: 07 Mar 2007,To: 07 Mar 2007,Catholic,FY 2007,18,Burundi,18,212
+From: 07 Mar 2007,To: 07 Mar 2007,Christian,FY 2007,32,Burma,20,212
+From: 07 Mar 2007,To: 07 Mar 2007,Christian,FY 2007,32,Burundi,3,212
+From: 07 Mar 2007,To: 07 Mar 2007,Christian,FY 2007,32,Ivory Coast,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,Christian,FY 2007,32,Liberia,8,212
+From: 07 Mar 2007,To: 07 Mar 2007,Jewish,FY 2007,4,Russia,4,212
+From: 07 Mar 2007,To: 07 Mar 2007,Methodist,FY 2007,9,Burundi,9,212
+From: 07 Mar 2007,To: 07 Mar 2007,Moslem,FY 2007,47,Liberia,13,212
+From: 07 Mar 2007,To: 07 Mar 2007,Moslem,FY 2007,47,Somalia,34,212
+From: 07 Mar 2007,To: 07 Mar 2007,Moslem Shiite,FY 2007,6,Afghanistan,6,212
+From: 07 Mar 2007,To: 07 Mar 2007,No Religion,FY 2007,4,Russia,1,212
+From: 07 Mar 2007,To: 07 Mar 2007,No Religion,FY 2007,4,Vietnam,3,212
+From: 07 Mar 2007,To: 07 Mar 2007,Other Religion,FY 2007,2,Vietnam,2,212
+From: 07 Mar 2007,To: 07 Mar 2007,Pentecostalist,FY 2007,11,Burundi,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Pentecostalist,FY 2007,11,Moldova,6,212
+From: 07 Mar 2007,To: 07 Mar 2007,Protestant,FY 2007,25,Liberia,5,212
+From: 07 Mar 2007,To: 07 Mar 2007,Protestant,FY 2007,25,Vietnam,20,212
+From: 07 Mar 2007,To: 07 Mar 2007,Seventh Day Adventist,FY 2007,5,Moldova,5,212
+

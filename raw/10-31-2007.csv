@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Oct 2007,To: 31 Oct 2007,Afghanistan,FY 2008,32,Moslem,5,234
+From: 31 Oct 2007,To: 31 Oct 2007,Afghanistan,FY 2008,32,Moslem Suni,27,234
+From: 31 Oct 2007,To: 31 Oct 2007,Armenia,FY 2008,8,Pentecostalist,8,234
+From: 31 Oct 2007,To: 31 Oct 2007,Congo,FY 2008,4,Protestant,4,234
+From: 31 Oct 2007,To: 31 Oct 2007,Ecuador,FY 2008,3,Catholic,3,234
+From: 31 Oct 2007,To: 31 Oct 2007,Iraq,FY 2008,130,Catholic,19,234
+From: 31 Oct 2007,To: 31 Oct 2007,Iraq,FY 2008,130,Christian,31,234
+From: 31 Oct 2007,To: 31 Oct 2007,Iraq,FY 2008,130,Moslem Shiite,37,234
+From: 31 Oct 2007,To: 31 Oct 2007,Iraq,FY 2008,130,Moslem Suni,31,234
+From: 31 Oct 2007,To: 31 Oct 2007,Iraq,FY 2008,130,Orthodox,7,234
+From: 31 Oct 2007,To: 31 Oct 2007,Iraq,FY 2008,130,Sabeans-Mandean,5,234
+From: 31 Oct 2007,To: 31 Oct 2007,Mauritania,FY 2008,1,Moslem,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Russia,FY 2008,9,Baptist,9,234
+From: 31 Oct 2007,To: 31 Oct 2007,Somalia,FY 2008,3,Moslem,2,234
+From: 31 Oct 2007,To: 31 Oct 2007,Somalia,FY 2008,3,Moslem Suni,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Sudan,FY 2008,12,Catholic,10,234
+From: 31 Oct 2007,To: 31 Oct 2007,Sudan,FY 2008,12,Moslem,2,234
+From: 31 Oct 2007,To: 31 Oct 2007,Uzbekistan,FY 2008,5,Baptist,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Uzbekistan,FY 2008,5,Jewish,4,234
+From: 31 Oct 2007,To: 31 Oct 2007,Vietnam,FY 2008,27,Ancestral Worship,2,234
+From: 31 Oct 2007,To: 31 Oct 2007,Vietnam,FY 2008,27,Buddhist,12,234
+From: 31 Oct 2007,To: 31 Oct 2007,Vietnam,FY 2008,27,Catholic,3,234
+From: 31 Oct 2007,To: 31 Oct 2007,Vietnam,FY 2008,27,Hoa Hao,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Vietnam,FY 2008,27,No Religion,3,234
+From: 31 Oct 2007,To: 31 Oct 2007,Vietnam,FY 2008,27,Protestant,6,234
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Oct 2007,To: 31 Oct 2007,Ancestral Worship,FY 2008,2,Vietnam,2,234
+From: 31 Oct 2007,To: 31 Oct 2007,Baptist,FY 2008,10,Russia,9,234
+From: 31 Oct 2007,To: 31 Oct 2007,Baptist,FY 2008,10,Uzbekistan,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Buddhist,FY 2008,12,Vietnam,12,234
+From: 31 Oct 2007,To: 31 Oct 2007,Catholic,FY 2008,35,Ecuador,3,234
+From: 31 Oct 2007,To: 31 Oct 2007,Catholic,FY 2008,35,Iraq,19,234
+From: 31 Oct 2007,To: 31 Oct 2007,Catholic,FY 2008,35,Sudan,10,234
+From: 31 Oct 2007,To: 31 Oct 2007,Catholic,FY 2008,35,Vietnam,3,234
+From: 31 Oct 2007,To: 31 Oct 2007,Christian,FY 2008,31,Iraq,31,234
+From: 31 Oct 2007,To: 31 Oct 2007,Hoa Hao,FY 2008,1,Vietnam,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Jewish,FY 2008,4,Uzbekistan,4,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem,FY 2008,10,Afghanistan,5,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem,FY 2008,10,Mauritania,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem,FY 2008,10,Somalia,2,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem,FY 2008,10,Sudan,2,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem Shiite,FY 2008,37,Iraq,37,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem Suni,FY 2008,59,Afghanistan,27,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem Suni,FY 2008,59,Iraq,31,234
+From: 31 Oct 2007,To: 31 Oct 2007,Moslem Suni,FY 2008,59,Somalia,1,234
+From: 31 Oct 2007,To: 31 Oct 2007,No Religion,FY 2008,3,Vietnam,3,234
+From: 31 Oct 2007,To: 31 Oct 2007,Orthodox,FY 2008,7,Iraq,7,234
+From: 31 Oct 2007,To: 31 Oct 2007,Pentecostalist,FY 2008,8,Armenia,8,234
+From: 31 Oct 2007,To: 31 Oct 2007,Protestant,FY 2008,10,Congo,4,234
+From: 31 Oct 2007,To: 31 Oct 2007,Protestant,FY 2008,10,Vietnam,6,234
+From: 31 Oct 2007,To: 31 Oct 2007,Sabeans-Mandean,FY 2008,5,Iraq,5,234
+

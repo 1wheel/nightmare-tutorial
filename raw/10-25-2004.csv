@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Oct 2004,To: 25 Oct 2004,Afghanistan,FY 2005,3,Evangelical Christian,1,177
+From: 25 Oct 2004,To: 25 Oct 2004,Afghanistan,FY 2005,3,Moslem Suni,2,177
+From: 25 Oct 2004,To: 25 Oct 2004,Belarus,FY 2005,17,Pentecostalist,17,177
+From: 25 Oct 2004,To: 25 Oct 2004,Iran,FY 2005,35,Bahai,34,177
+From: 25 Oct 2004,To: 25 Oct 2004,Iran,FY 2005,35,Protestant,1,177
+From: 25 Oct 2004,To: 25 Oct 2004,Somalia,FY 2005,71,Moslem,71,177
+From: 25 Oct 2004,To: 25 Oct 2004,Sudan,FY 2005,34,Catholic,6,177
+From: 25 Oct 2004,To: 25 Oct 2004,Sudan,FY 2005,34,Moslem,18,177
+From: 25 Oct 2004,To: 25 Oct 2004,Sudan,FY 2005,34,Protestant,10,177
+From: 25 Oct 2004,To: 25 Oct 2004,Uzbekistan,FY 2005,17,Jewish,7,177
+From: 25 Oct 2004,To: 25 Oct 2004,Uzbekistan,FY 2005,17,Russian Orthodox,3,177
+From: 25 Oct 2004,To: 25 Oct 2004,Uzbekistan,FY 2005,17,Seventh Day Adventist,7,177
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Oct 2004,To: 25 Oct 2004,Bahai,FY 2005,34,Iran,34,177
+From: 25 Oct 2004,To: 25 Oct 2004,Catholic,FY 2005,6,Sudan,6,177
+From: 25 Oct 2004,To: 25 Oct 2004,Evangelical Christian,FY 2005,1,Afghanistan,1,177
+From: 25 Oct 2004,To: 25 Oct 2004,Jewish,FY 2005,7,Uzbekistan,7,177
+From: 25 Oct 2004,To: 25 Oct 2004,Moslem,FY 2005,89,Somalia,71,177
+From: 25 Oct 2004,To: 25 Oct 2004,Moslem,FY 2005,89,Sudan,18,177
+From: 25 Oct 2004,To: 25 Oct 2004,Moslem Suni,FY 2005,2,Afghanistan,2,177
+From: 25 Oct 2004,To: 25 Oct 2004,Pentecostalist,FY 2005,17,Belarus,17,177
+From: 25 Oct 2004,To: 25 Oct 2004,Protestant,FY 2005,11,Iran,1,177
+From: 25 Oct 2004,To: 25 Oct 2004,Protestant,FY 2005,11,Sudan,10,177
+From: 25 Oct 2004,To: 25 Oct 2004,Russian Orthodox,FY 2005,3,Uzbekistan,3,177
+From: 25 Oct 2004,To: 25 Oct 2004,Seventh Day Adventist,FY 2005,7,Uzbekistan,7,177
+

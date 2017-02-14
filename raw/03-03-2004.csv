@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Mar 2004,To: 03 Mar 2004,Afghanistan,FY 2004,12,Christian,1,136
+From: 03 Mar 2004,To: 03 Mar 2004,Afghanistan,FY 2004,12,Moslem,4,136
+From: 03 Mar 2004,To: 03 Mar 2004,Afghanistan,FY 2004,12,Moslem Shiite,5,136
+From: 03 Mar 2004,To: 03 Mar 2004,Afghanistan,FY 2004,12,Moslem Suni,2,136
+From: 03 Mar 2004,To: 03 Mar 2004,Dem. Rep. Congo,FY 2004,7,Catholic,7,136
+From: 03 Mar 2004,To: 03 Mar 2004,Eritrea,FY 2004,1,Christian,1,136
+From: 03 Mar 2004,To: 03 Mar 2004,Ethiopia,FY 2004,41,Christian,8,136
+From: 03 Mar 2004,To: 03 Mar 2004,Ethiopia,FY 2004,41,Moslem,33,136
+From: 03 Mar 2004,To: 03 Mar 2004,Iran,FY 2004,16,Christian,16,136
+From: 03 Mar 2004,To: 03 Mar 2004,Rwanda,FY 2004,2,Christian,2,136
+From: 03 Mar 2004,To: 03 Mar 2004,Somalia,FY 2004,31,Moslem,31,136
+From: 03 Mar 2004,To: 03 Mar 2004,Sudan,FY 2004,19,Catholic,3,136
+From: 03 Mar 2004,To: 03 Mar 2004,Sudan,FY 2004,19,Christian,10,136
+From: 03 Mar 2004,To: 03 Mar 2004,Sudan,FY 2004,19,Evangelical Christian,3,136
+From: 03 Mar 2004,To: 03 Mar 2004,Sudan,FY 2004,19,Moslem,3,136
+From: 03 Mar 2004,To: 03 Mar 2004,Ukraine,FY 2004,7,Baptist,2,136
+From: 03 Mar 2004,To: 03 Mar 2004,Ukraine,FY 2004,7,Pentecostalist,5,136
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Mar 2004,To: 03 Mar 2004,Baptist,FY 2004,2,Ukraine,2,136
+From: 03 Mar 2004,To: 03 Mar 2004,Catholic,FY 2004,10,Dem. Rep. Congo,7,136
+From: 03 Mar 2004,To: 03 Mar 2004,Catholic,FY 2004,10,Sudan,3,136
+From: 03 Mar 2004,To: 03 Mar 2004,Christian,FY 2004,38,Afghanistan,1,136
+From: 03 Mar 2004,To: 03 Mar 2004,Christian,FY 2004,38,Eritrea,1,136
+From: 03 Mar 2004,To: 03 Mar 2004,Christian,FY 2004,38,Ethiopia,8,136
+From: 03 Mar 2004,To: 03 Mar 2004,Christian,FY 2004,38,Iran,16,136
+From: 03 Mar 2004,To: 03 Mar 2004,Christian,FY 2004,38,Rwanda,2,136
+From: 03 Mar 2004,To: 03 Mar 2004,Christian,FY 2004,38,Sudan,10,136
+From: 03 Mar 2004,To: 03 Mar 2004,Evangelical Christian,FY 2004,3,Sudan,3,136
+From: 03 Mar 2004,To: 03 Mar 2004,Moslem,FY 2004,71,Afghanistan,4,136
+From: 03 Mar 2004,To: 03 Mar 2004,Moslem,FY 2004,71,Ethiopia,33,136
+From: 03 Mar 2004,To: 03 Mar 2004,Moslem,FY 2004,71,Somalia,31,136
+From: 03 Mar 2004,To: 03 Mar 2004,Moslem,FY 2004,71,Sudan,3,136
+From: 03 Mar 2004,To: 03 Mar 2004,Moslem Shiite,FY 2004,5,Afghanistan,5,136
+From: 03 Mar 2004,To: 03 Mar 2004,Moslem Suni,FY 2004,2,Afghanistan,2,136
+From: 03 Mar 2004,To: 03 Mar 2004,Pentecostalist,FY 2004,5,Ukraine,5,136
+

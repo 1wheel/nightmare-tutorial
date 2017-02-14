@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jun 2014,To: 23 Jun 2014,Bhutan,FY 2014,31,Buddhist,19,229
+From: 23 Jun 2014,To: 23 Jun 2014,Bhutan,FY 2014,31,Christian,7,229
+From: 23 Jun 2014,To: 23 Jun 2014,Bhutan,FY 2014,31,Hindu,4,229
+From: 23 Jun 2014,To: 23 Jun 2014,Bhutan,FY 2014,31,Kirat,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Burma,FY 2014,32,Buddhist,2,229
+From: 23 Jun 2014,To: 23 Jun 2014,Burma,FY 2014,32,Christian,30,229
+From: 23 Jun 2014,To: 23 Jun 2014,Ethiopia,FY 2014,1,Moslem,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iran,FY 2014,2,Moslem Shiite,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iran,FY 2014,2,Protestant,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Catholic,13,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Christian,3,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Moslem,5,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Moslem Shiite,28,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Moslem Suni,62,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Protestant,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Iraq,FY 2014,123,Yazidi,11,229
+From: 23 Jun 2014,To: 23 Jun 2014,Jordan,FY 2014,1,Christian,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Somalia,FY 2014,29,Moslem,28,229
+From: 23 Jun 2014,To: 23 Jun 2014,Somalia,FY 2014,29,Moslem Suni,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Sudan,FY 2014,1,Moslem,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Ukraine,FY 2014,9,Baptist,2,229
+From: 23 Jun 2014,To: 23 Jun 2014,Ukraine,FY 2014,9,Pentecostalist,7,229
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jun 2014,To: 23 Jun 2014,Baptist,FY 2014,2,Ukraine,2,229
+From: 23 Jun 2014,To: 23 Jun 2014,Buddhist,FY 2014,21,Bhutan,19,229
+From: 23 Jun 2014,To: 23 Jun 2014,Buddhist,FY 2014,21,Burma,2,229
+From: 23 Jun 2014,To: 23 Jun 2014,Catholic,FY 2014,13,Iraq,13,229
+From: 23 Jun 2014,To: 23 Jun 2014,Christian,FY 2014,41,Bhutan,7,229
+From: 23 Jun 2014,To: 23 Jun 2014,Christian,FY 2014,41,Burma,30,229
+From: 23 Jun 2014,To: 23 Jun 2014,Christian,FY 2014,41,Iraq,3,229
+From: 23 Jun 2014,To: 23 Jun 2014,Christian,FY 2014,41,Jordan,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Hindu,FY 2014,4,Bhutan,4,229
+From: 23 Jun 2014,To: 23 Jun 2014,Kirat,FY 2014,1,Bhutan,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem,FY 2014,35,Ethiopia,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem,FY 2014,35,Iraq,5,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem,FY 2014,35,Somalia,28,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem,FY 2014,35,Sudan,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem Shiite,FY 2014,29,Iran,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem Shiite,FY 2014,29,Iraq,28,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem Suni,FY 2014,63,Iraq,62,229
+From: 23 Jun 2014,To: 23 Jun 2014,Moslem Suni,FY 2014,63,Somalia,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Pentecostalist,FY 2014,7,Ukraine,7,229
+From: 23 Jun 2014,To: 23 Jun 2014,Protestant,FY 2014,2,Iran,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Protestant,FY 2014,2,Iraq,1,229
+From: 23 Jun 2014,To: 23 Jun 2014,Yazidi,FY 2014,11,Iraq,11,229
+

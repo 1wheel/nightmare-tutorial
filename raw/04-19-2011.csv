@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2011,To: 19 Apr 2011,Bhutan,FY 2011,54,Buddhist,15,219
+From: 19 Apr 2011,To: 19 Apr 2011,Bhutan,FY 2011,54,Christian,6,219
+From: 19 Apr 2011,To: 19 Apr 2011,Bhutan,FY 2011,54,Hindu,33,219
+From: 19 Apr 2011,To: 19 Apr 2011,Burma,FY 2011,71,Buddhist,8,219
+From: 19 Apr 2011,To: 19 Apr 2011,Burma,FY 2011,71,Catholic,8,219
+From: 19 Apr 2011,To: 19 Apr 2011,Burma,FY 2011,71,Christian,55,219
+From: 19 Apr 2011,To: 19 Apr 2011,Burundi,FY 2011,3,Christian,3,219
+From: 19 Apr 2011,To: 19 Apr 2011,Iran,FY 2011,34,Bahai,14,219
+From: 19 Apr 2011,To: 19 Apr 2011,Iran,FY 2011,34,Christian,15,219
+From: 19 Apr 2011,To: 19 Apr 2011,Iran,FY 2011,34,Zoroastrian,5,219
+From: 19 Apr 2011,To: 19 Apr 2011,Kazakhstan,FY 2011,12,Baptist,2,219
+From: 19 Apr 2011,To: 19 Apr 2011,Kazakhstan,FY 2011,12,Evangelical Christian,10,219
+From: 19 Apr 2011,To: 19 Apr 2011,Somalia,FY 2011,38,Moslem,38,219
+From: 19 Apr 2011,To: 19 Apr 2011,Tunisia,FY 2011,1,Moslem,1,219
+From: 19 Apr 2011,To: 19 Apr 2011,Vietnam,FY 2011,6,Buddhist,3,219
+From: 19 Apr 2011,To: 19 Apr 2011,Vietnam,FY 2011,6,No Religion,3,219
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2011,To: 19 Apr 2011,Bahai,FY 2011,14,Iran,14,219
+From: 19 Apr 2011,To: 19 Apr 2011,Baptist,FY 2011,2,Kazakhstan,2,219
+From: 19 Apr 2011,To: 19 Apr 2011,Buddhist,FY 2011,26,Bhutan,15,219
+From: 19 Apr 2011,To: 19 Apr 2011,Buddhist,FY 2011,26,Burma,8,219
+From: 19 Apr 2011,To: 19 Apr 2011,Buddhist,FY 2011,26,Vietnam,3,219
+From: 19 Apr 2011,To: 19 Apr 2011,Catholic,FY 2011,8,Burma,8,219
+From: 19 Apr 2011,To: 19 Apr 2011,Christian,FY 2011,79,Bhutan,6,219
+From: 19 Apr 2011,To: 19 Apr 2011,Christian,FY 2011,79,Burma,55,219
+From: 19 Apr 2011,To: 19 Apr 2011,Christian,FY 2011,79,Burundi,3,219
+From: 19 Apr 2011,To: 19 Apr 2011,Christian,FY 2011,79,Iran,15,219
+From: 19 Apr 2011,To: 19 Apr 2011,Evangelical Christian,FY 2011,10,Kazakhstan,10,219
+From: 19 Apr 2011,To: 19 Apr 2011,Hindu,FY 2011,33,Bhutan,33,219
+From: 19 Apr 2011,To: 19 Apr 2011,Moslem,FY 2011,39,Somalia,38,219
+From: 19 Apr 2011,To: 19 Apr 2011,Moslem,FY 2011,39,Tunisia,1,219
+From: 19 Apr 2011,To: 19 Apr 2011,No Religion,FY 2011,3,Vietnam,3,219
+From: 19 Apr 2011,To: 19 Apr 2011,Zoroastrian,FY 2011,5,Iran,5,219
+

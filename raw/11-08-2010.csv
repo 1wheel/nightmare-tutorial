@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Nov 2010,To: 08 Nov 2010,Bhutan,FY 2011,67,Buddhist,25,332
+From: 08 Nov 2010,To: 08 Nov 2010,Bhutan,FY 2011,67,Christian,10,332
+From: 08 Nov 2010,To: 08 Nov 2010,Bhutan,FY 2011,67,Hindu,27,332
+From: 08 Nov 2010,To: 08 Nov 2010,Bhutan,FY 2011,67,Kirat,5,332
+From: 08 Nov 2010,To: 08 Nov 2010,Burma,FY 2011,63,Baptist,10,332
+From: 08 Nov 2010,To: 08 Nov 2010,Burma,FY 2011,63,Buddhist,6,332
+From: 08 Nov 2010,To: 08 Nov 2010,Burma,FY 2011,63,Christian,47,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iran,FY 2011,8,Bahai,5,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iran,FY 2011,8,Moslem Shiite,3,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iraq,FY 2011,193,Catholic,25,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iraq,FY 2011,193,Christian,48,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iraq,FY 2011,193,Moslem Shiite,42,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iraq,FY 2011,193,Moslem Suni,60,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iraq,FY 2011,193,Orthodox,9,332
+From: 08 Nov 2010,To: 08 Nov 2010,Iraq,FY 2011,193,Sabeans-Mandean,9,332
+From: 08 Nov 2010,To: 08 Nov 2010,Lebanon,FY 2011,1,Moslem Shiite,1,332
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Nov 2010,To: 08 Nov 2010,Bahai,FY 2011,5,Iran,5,332
+From: 08 Nov 2010,To: 08 Nov 2010,Baptist,FY 2011,10,Burma,10,332
+From: 08 Nov 2010,To: 08 Nov 2010,Buddhist,FY 2011,31,Bhutan,25,332
+From: 08 Nov 2010,To: 08 Nov 2010,Buddhist,FY 2011,31,Burma,6,332
+From: 08 Nov 2010,To: 08 Nov 2010,Catholic,FY 2011,25,Iraq,25,332
+From: 08 Nov 2010,To: 08 Nov 2010,Christian,FY 2011,105,Bhutan,10,332
+From: 08 Nov 2010,To: 08 Nov 2010,Christian,FY 2011,105,Burma,47,332
+From: 08 Nov 2010,To: 08 Nov 2010,Christian,FY 2011,105,Iraq,48,332
+From: 08 Nov 2010,To: 08 Nov 2010,Hindu,FY 2011,27,Bhutan,27,332
+From: 08 Nov 2010,To: 08 Nov 2010,Kirat,FY 2011,5,Bhutan,5,332
+From: 08 Nov 2010,To: 08 Nov 2010,Moslem Shiite,FY 2011,46,Iran,3,332
+From: 08 Nov 2010,To: 08 Nov 2010,Moslem Shiite,FY 2011,46,Iraq,42,332
+From: 08 Nov 2010,To: 08 Nov 2010,Moslem Shiite,FY 2011,46,Lebanon,1,332
+From: 08 Nov 2010,To: 08 Nov 2010,Moslem Suni,FY 2011,60,Iraq,60,332
+From: 08 Nov 2010,To: 08 Nov 2010,Orthodox,FY 2011,9,Iraq,9,332
+From: 08 Nov 2010,To: 08 Nov 2010,Sabeans-Mandean,FY 2011,9,Iraq,9,332
+

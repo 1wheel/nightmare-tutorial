@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Sep 2014,To: 10 Sep 2014,Bhutan,FY 2014,52,Buddhist,15,317
+From: 10 Sep 2014,To: 10 Sep 2014,Bhutan,FY 2014,52,Christian,7,317
+From: 10 Sep 2014,To: 10 Sep 2014,Bhutan,FY 2014,52,Hindu,25,317
+From: 10 Sep 2014,To: 10 Sep 2014,Bhutan,FY 2014,52,Kirat,5,317
+From: 10 Sep 2014,To: 10 Sep 2014,Burma,FY 2014,93,Buddhist,23,317
+From: 10 Sep 2014,To: 10 Sep 2014,Burma,FY 2014,93,Catholic,4,317
+From: 10 Sep 2014,To: 10 Sep 2014,Burma,FY 2014,93,Christian,62,317
+From: 10 Sep 2014,To: 10 Sep 2014,Burma,FY 2014,93,Moslem,4,317
+From: 10 Sep 2014,To: 10 Sep 2014,China,FY 2014,2,No Religion,2,317
+From: 10 Sep 2014,To: 10 Sep 2014,Eritrea,FY 2014,12,Catholic,6,317
+From: 10 Sep 2014,To: 10 Sep 2014,Eritrea,FY 2014,12,Orthodox,5,317
+From: 10 Sep 2014,To: 10 Sep 2014,Eritrea,FY 2014,12,Pentecostalist,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Ethiopia,FY 2014,9,Moslem,8,317
+From: 10 Sep 2014,To: 10 Sep 2014,Ethiopia,FY 2014,9,Protestant,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Iraq,FY 2014,74,Catholic,24,317
+From: 10 Sep 2014,To: 10 Sep 2014,Iraq,FY 2014,74,Moslem Shiite,23,317
+From: 10 Sep 2014,To: 10 Sep 2014,Iraq,FY 2014,74,Moslem Suni,27,317
+From: 10 Sep 2014,To: 10 Sep 2014,Pakistan,FY 2014,6,Christian,6,317
+From: 10 Sep 2014,To: 10 Sep 2014,Russia,FY 2014,10,Baptist,7,317
+From: 10 Sep 2014,To: 10 Sep 2014,Russia,FY 2014,10,Pentecostalist,2,317
+From: 10 Sep 2014,To: 10 Sep 2014,Russia,FY 2014,10,Seventh Day Adventist,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Somalia,FY 2014,38,Moslem,38,317
+From: 10 Sep 2014,To: 10 Sep 2014,Sri Lanka (Ceylon),FY 2014,3,Moslem,3,317
+From: 10 Sep 2014,To: 10 Sep 2014,Sudan,FY 2014,3,Moslem,3,317
+From: 10 Sep 2014,To: 10 Sep 2014,Ukraine,FY 2014,14,Baptist,7,317
+From: 10 Sep 2014,To: 10 Sep 2014,Ukraine,FY 2014,14,Pentecostalist,3,317
+From: 10 Sep 2014,To: 10 Sep 2014,Ukraine,FY 2014,14,Uniate,4,317
+From: 10 Sep 2014,To: 10 Sep 2014,United Kingdom,FY 2014,1,Moslem,1,317
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Sep 2014,To: 10 Sep 2014,Baptist,FY 2014,14,Russia,7,317
+From: 10 Sep 2014,To: 10 Sep 2014,Baptist,FY 2014,14,Ukraine,7,317
+From: 10 Sep 2014,To: 10 Sep 2014,Buddhist,FY 2014,38,Bhutan,15,317
+From: 10 Sep 2014,To: 10 Sep 2014,Buddhist,FY 2014,38,Burma,23,317
+From: 10 Sep 2014,To: 10 Sep 2014,Catholic,FY 2014,34,Burma,4,317
+From: 10 Sep 2014,To: 10 Sep 2014,Catholic,FY 2014,34,Eritrea,6,317
+From: 10 Sep 2014,To: 10 Sep 2014,Catholic,FY 2014,34,Iraq,24,317
+From: 10 Sep 2014,To: 10 Sep 2014,Christian,FY 2014,75,Bhutan,7,317
+From: 10 Sep 2014,To: 10 Sep 2014,Christian,FY 2014,75,Burma,62,317
+From: 10 Sep 2014,To: 10 Sep 2014,Christian,FY 2014,75,Pakistan,6,317
+From: 10 Sep 2014,To: 10 Sep 2014,Hindu,FY 2014,25,Bhutan,25,317
+From: 10 Sep 2014,To: 10 Sep 2014,Kirat,FY 2014,5,Bhutan,5,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem,FY 2014,57,Burma,4,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem,FY 2014,57,Ethiopia,8,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem,FY 2014,57,Somalia,38,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem,FY 2014,57,Sri Lanka (Ceylon),3,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem,FY 2014,57,Sudan,3,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem,FY 2014,57,United Kingdom,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem Shiite,FY 2014,23,Iraq,23,317
+From: 10 Sep 2014,To: 10 Sep 2014,Moslem Suni,FY 2014,27,Iraq,27,317
+From: 10 Sep 2014,To: 10 Sep 2014,No Religion,FY 2014,2,China,2,317
+From: 10 Sep 2014,To: 10 Sep 2014,Orthodox,FY 2014,5,Eritrea,5,317
+From: 10 Sep 2014,To: 10 Sep 2014,Pentecostalist,FY 2014,6,Eritrea,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Pentecostalist,FY 2014,6,Russia,2,317
+From: 10 Sep 2014,To: 10 Sep 2014,Pentecostalist,FY 2014,6,Ukraine,3,317
+From: 10 Sep 2014,To: 10 Sep 2014,Protestant,FY 2014,1,Ethiopia,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Seventh Day Adventist,FY 2014,1,Russia,1,317
+From: 10 Sep 2014,To: 10 Sep 2014,Uniate,FY 2014,4,Ukraine,4,317
+

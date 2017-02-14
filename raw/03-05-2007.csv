@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Mar 2007,To: 05 Mar 2007,Russia,FY 2007,20,Moslem,20,87
+From: 05 Mar 2007,To: 05 Mar 2007,Somalia,FY 2007,31,Moslem,31,87
+From: 05 Mar 2007,To: 05 Mar 2007,Sudan,FY 2007,1,Christian,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Ukraine,FY 2007,35,Baptist,12,87
+From: 05 Mar 2007,To: 05 Mar 2007,Ukraine,FY 2007,35,Evangelical Christian,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Ukraine,FY 2007,35,Jewish,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Ukraine,FY 2007,35,No Religion,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Ukraine,FY 2007,35,Pentecostalist,20,87
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Mar 2007,To: 05 Mar 2007,Baptist,FY 2007,12,Ukraine,12,87
+From: 05 Mar 2007,To: 05 Mar 2007,Christian,FY 2007,1,Sudan,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Evangelical Christian,FY 2007,1,Ukraine,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Jewish,FY 2007,1,Ukraine,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Moslem,FY 2007,51,Russia,20,87
+From: 05 Mar 2007,To: 05 Mar 2007,Moslem,FY 2007,51,Somalia,31,87
+From: 05 Mar 2007,To: 05 Mar 2007,No Religion,FY 2007,1,Ukraine,1,87
+From: 05 Mar 2007,To: 05 Mar 2007,Pentecostalist,FY 2007,20,Ukraine,20,87
+

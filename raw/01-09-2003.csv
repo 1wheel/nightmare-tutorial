@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Jan 2003,To: 09 Jan 2003,Belarus,FY 2003,13,Baptist,6,42
+From: 09 Jan 2003,To: 09 Jan 2003,Belarus,FY 2003,13,Jewish,3,42
+From: 09 Jan 2003,To: 09 Jan 2003,Belarus,FY 2003,13,Pentecostalist,4,42
+From: 09 Jan 2003,To: 09 Jan 2003,Ethiopia,FY 2003,1,Protestant,1,42
+From: 09 Jan 2003,To: 09 Jan 2003,Ukraine,FY 2003,28,Baptist,5,42
+From: 09 Jan 2003,To: 09 Jan 2003,Ukraine,FY 2003,28,Jewish,2,42
+From: 09 Jan 2003,To: 09 Jan 2003,Ukraine,FY 2003,28,Pentecostalist,20,42
+From: 09 Jan 2003,To: 09 Jan 2003,Ukraine,FY 2003,28,Uniate,1,42
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Jan 2003,To: 09 Jan 2003,Baptist,FY 2003,11,Belarus,6,42
+From: 09 Jan 2003,To: 09 Jan 2003,Baptist,FY 2003,11,Ukraine,5,42
+From: 09 Jan 2003,To: 09 Jan 2003,Jewish,FY 2003,5,Belarus,3,42
+From: 09 Jan 2003,To: 09 Jan 2003,Jewish,FY 2003,5,Ukraine,2,42
+From: 09 Jan 2003,To: 09 Jan 2003,Pentecostalist,FY 2003,24,Belarus,4,42
+From: 09 Jan 2003,To: 09 Jan 2003,Pentecostalist,FY 2003,24,Ukraine,20,42
+From: 09 Jan 2003,To: 09 Jan 2003,Protestant,FY 2003,1,Ethiopia,1,42
+From: 09 Jan 2003,To: 09 Jan 2003,Uniate,FY 2003,1,Ukraine,1,42
+

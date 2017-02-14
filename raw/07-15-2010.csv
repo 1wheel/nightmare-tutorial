@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jul 2010,To: 15 Jul 2010,Belarus,FY 2010,16,Baptist,1,324
+From: 15 Jul 2010,To: 15 Jul 2010,Belarus,FY 2010,16,Evangelical Christian,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Belarus,FY 2010,16,Pentecostalist,13,324
+From: 15 Jul 2010,To: 15 Jul 2010,Bhutan,FY 2010,80,Buddhist,4,324
+From: 15 Jul 2010,To: 15 Jul 2010,Bhutan,FY 2010,80,Christian,12,324
+From: 15 Jul 2010,To: 15 Jul 2010,Bhutan,FY 2010,80,Hindu,58,324
+From: 15 Jul 2010,To: 15 Jul 2010,Bhutan,FY 2010,80,Kirat,6,324
+From: 15 Jul 2010,To: 15 Jul 2010,Burma,FY 2010,82,Animist,7,324
+From: 15 Jul 2010,To: 15 Jul 2010,Burma,FY 2010,82,Baptist,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Burma,FY 2010,82,Buddhist,4,324
+From: 15 Jul 2010,To: 15 Jul 2010,Burma,FY 2010,82,Catholic,10,324
+From: 15 Jul 2010,To: 15 Jul 2010,Burma,FY 2010,82,Christian,58,324
+From: 15 Jul 2010,To: 15 Jul 2010,Eritrea,FY 2010,50,Catholic,6,324
+From: 15 Jul 2010,To: 15 Jul 2010,Eritrea,FY 2010,50,Orthodox,37,324
+From: 15 Jul 2010,To: 15 Jul 2010,Eritrea,FY 2010,50,Pentecostalist,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Eritrea,FY 2010,50,Protestant,5,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iran,FY 2010,8,Atheist,1,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iran,FY 2010,8,Bahai,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iran,FY 2010,8,Christian,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iran,FY 2010,8,Moslem,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iraq,FY 2010,40,Catholic,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iraq,FY 2010,40,Christian,5,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iraq,FY 2010,40,Moslem,1,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iraq,FY 2010,40,Moslem Shiite,9,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iraq,FY 2010,40,Moslem Suni,16,324
+From: 15 Jul 2010,To: 15 Jul 2010,Iraq,FY 2010,40,Orthodox,6,324
+From: 15 Jul 2010,To: 15 Jul 2010,Liberia,FY 2010,3,Christian,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Somalia,FY 2010,38,Moslem,38,324
+From: 15 Jul 2010,To: 15 Jul 2010,Ukraine,FY 2010,7,Baptist,4,324
+From: 15 Jul 2010,To: 15 Jul 2010,Ukraine,FY 2010,7,Pentecostalist,3,324
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jul 2010,To: 15 Jul 2010,Animist,FY 2010,7,Burma,7,324
+From: 15 Jul 2010,To: 15 Jul 2010,Atheist,FY 2010,1,Iran,1,324
+From: 15 Jul 2010,To: 15 Jul 2010,Bahai,FY 2010,2,Iran,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Baptist,FY 2010,8,Belarus,1,324
+From: 15 Jul 2010,To: 15 Jul 2010,Baptist,FY 2010,8,Burma,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Baptist,FY 2010,8,Ukraine,4,324
+From: 15 Jul 2010,To: 15 Jul 2010,Buddhist,FY 2010,8,Bhutan,4,324
+From: 15 Jul 2010,To: 15 Jul 2010,Buddhist,FY 2010,8,Burma,4,324
+From: 15 Jul 2010,To: 15 Jul 2010,Catholic,FY 2010,19,Burma,10,324
+From: 15 Jul 2010,To: 15 Jul 2010,Catholic,FY 2010,19,Eritrea,6,324
+From: 15 Jul 2010,To: 15 Jul 2010,Catholic,FY 2010,19,Iraq,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Christian,FY 2010,80,Bhutan,12,324
+From: 15 Jul 2010,To: 15 Jul 2010,Christian,FY 2010,80,Burma,58,324
+From: 15 Jul 2010,To: 15 Jul 2010,Christian,FY 2010,80,Iran,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Christian,FY 2010,80,Iraq,5,324
+From: 15 Jul 2010,To: 15 Jul 2010,Christian,FY 2010,80,Liberia,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Evangelical Christian,FY 2010,2,Belarus,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Hindu,FY 2010,58,Bhutan,58,324
+From: 15 Jul 2010,To: 15 Jul 2010,Kirat,FY 2010,6,Bhutan,6,324
+From: 15 Jul 2010,To: 15 Jul 2010,Moslem,FY 2010,42,Iran,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Moslem,FY 2010,42,Iraq,1,324
+From: 15 Jul 2010,To: 15 Jul 2010,Moslem,FY 2010,42,Somalia,38,324
+From: 15 Jul 2010,To: 15 Jul 2010,Moslem Shiite,FY 2010,9,Iraq,9,324
+From: 15 Jul 2010,To: 15 Jul 2010,Moslem Suni,FY 2010,16,Iraq,16,324
+From: 15 Jul 2010,To: 15 Jul 2010,Orthodox,FY 2010,43,Eritrea,37,324
+From: 15 Jul 2010,To: 15 Jul 2010,Orthodox,FY 2010,43,Iraq,6,324
+From: 15 Jul 2010,To: 15 Jul 2010,Pentecostalist,FY 2010,18,Belarus,13,324
+From: 15 Jul 2010,To: 15 Jul 2010,Pentecostalist,FY 2010,18,Eritrea,2,324
+From: 15 Jul 2010,To: 15 Jul 2010,Pentecostalist,FY 2010,18,Ukraine,3,324
+From: 15 Jul 2010,To: 15 Jul 2010,Protestant,FY 2010,5,Eritrea,5,324
+

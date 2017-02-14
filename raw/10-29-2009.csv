@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Oct 2009,To: 29 Oct 2009,Bhutan,FY 2010,125,Buddhist,15,401
+From: 29 Oct 2009,To: 29 Oct 2009,Bhutan,FY 2010,125,Christian,8,401
+From: 29 Oct 2009,To: 29 Oct 2009,Bhutan,FY 2010,125,Hindu,98,401
+From: 29 Oct 2009,To: 29 Oct 2009,Bhutan,FY 2010,125,Kirat,4,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,Animist,18,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,Baptist,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,Buddhist,7,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,Catholic,4,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,Christian,102,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,No Religion,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Burma,FY 2010,136,Seventh Day Adventist,3,401
+From: 29 Oct 2009,To: 29 Oct 2009,China,FY 2010,6,Buddhist,6,401
+From: 29 Oct 2009,To: 29 Oct 2009,Cuba,FY 2010,33,Catholic,4,401
+From: 29 Oct 2009,To: 29 Oct 2009,Cuba,FY 2010,33,Jehovah Witness,7,401
+From: 29 Oct 2009,To: 29 Oct 2009,Cuba,FY 2010,33,Methodist,5,401
+From: 29 Oct 2009,To: 29 Oct 2009,Cuba,FY 2010,33,No Religion,16,401
+From: 29 Oct 2009,To: 29 Oct 2009,Cuba,FY 2010,33,Pentecostalist,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Dem. Rep. Congo,FY 2010,17,Catholic,6,401
+From: 29 Oct 2009,To: 29 Oct 2009,Dem. Rep. Congo,FY 2010,17,Christian,10,401
+From: 29 Oct 2009,To: 29 Oct 2009,Dem. Rep. Congo,FY 2010,17,Pentecostalist,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Catholic,14,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Christian,7,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Jehovah Witness,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Moslem,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Orthodox,38,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Pentecostalist,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Protestant,5,401
+From: 29 Oct 2009,To: 29 Oct 2009,Eritrea,FY 2010,68,Seventh Day Adventist,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Iraq,FY 2010,5,Moslem,5,401
+From: 29 Oct 2009,To: 29 Oct 2009,Pakistan,FY 2010,3,Christian,3,401
+From: 29 Oct 2009,To: 29 Oct 2009,Somalia,FY 2010,8,Moslem,8,401
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Oct 2009,To: 29 Oct 2009,Animist,FY 2010,18,Burma,18,401
+From: 29 Oct 2009,To: 29 Oct 2009,Baptist,FY 2010,1,Burma,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Buddhist,FY 2010,28,Bhutan,15,401
+From: 29 Oct 2009,To: 29 Oct 2009,Buddhist,FY 2010,28,Burma,7,401
+From: 29 Oct 2009,To: 29 Oct 2009,Buddhist,FY 2010,28,China,6,401
+From: 29 Oct 2009,To: 29 Oct 2009,Catholic,FY 2010,28,Burma,4,401
+From: 29 Oct 2009,To: 29 Oct 2009,Catholic,FY 2010,28,Cuba,4,401
+From: 29 Oct 2009,To: 29 Oct 2009,Catholic,FY 2010,28,Dem. Rep. Congo,6,401
+From: 29 Oct 2009,To: 29 Oct 2009,Catholic,FY 2010,28,Eritrea,14,401
+From: 29 Oct 2009,To: 29 Oct 2009,Christian,FY 2010,130,Bhutan,8,401
+From: 29 Oct 2009,To: 29 Oct 2009,Christian,FY 2010,130,Burma,102,401
+From: 29 Oct 2009,To: 29 Oct 2009,Christian,FY 2010,130,Dem. Rep. Congo,10,401
+From: 29 Oct 2009,To: 29 Oct 2009,Christian,FY 2010,130,Eritrea,7,401
+From: 29 Oct 2009,To: 29 Oct 2009,Christian,FY 2010,130,Pakistan,3,401
+From: 29 Oct 2009,To: 29 Oct 2009,Hindu,FY 2010,98,Bhutan,98,401
+From: 29 Oct 2009,To: 29 Oct 2009,Jehovah Witness,FY 2010,8,Cuba,7,401
+From: 29 Oct 2009,To: 29 Oct 2009,Jehovah Witness,FY 2010,8,Eritrea,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Kirat,FY 2010,4,Bhutan,4,401
+From: 29 Oct 2009,To: 29 Oct 2009,Methodist,FY 2010,5,Cuba,5,401
+From: 29 Oct 2009,To: 29 Oct 2009,Moslem,FY 2010,14,Eritrea,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Moslem,FY 2010,14,Iraq,5,401
+From: 29 Oct 2009,To: 29 Oct 2009,Moslem,FY 2010,14,Somalia,8,401
+From: 29 Oct 2009,To: 29 Oct 2009,No Religion,FY 2010,17,Burma,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,No Religion,FY 2010,17,Cuba,16,401
+From: 29 Oct 2009,To: 29 Oct 2009,Orthodox,FY 2010,38,Eritrea,38,401
+From: 29 Oct 2009,To: 29 Oct 2009,Pentecostalist,FY 2010,3,Cuba,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Pentecostalist,FY 2010,3,Dem. Rep. Congo,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Pentecostalist,FY 2010,3,Eritrea,1,401
+From: 29 Oct 2009,To: 29 Oct 2009,Protestant,FY 2010,5,Eritrea,5,401
+From: 29 Oct 2009,To: 29 Oct 2009,Seventh Day Adventist,FY 2010,4,Burma,3,401
+From: 29 Oct 2009,To: 29 Oct 2009,Seventh Day Adventist,FY 2010,4,Eritrea,1,401
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Nov 2002,To: 25 Nov 2002,Afghanistan,FY 2003,30,Moslem,1,94
+From: 25 Nov 2002,To: 25 Nov 2002,Afghanistan,FY 2003,30,Moslem Shiite,14,94
+From: 25 Nov 2002,To: 25 Nov 2002,Afghanistan,FY 2003,30,Moslem Suni,15,94
+From: 25 Nov 2002,To: 25 Nov 2002,Bosnia and Herzegovina,FY 2003,4,Moslem,4,94
+From: 25 Nov 2002,To: 25 Nov 2002,Cameroon,FY 2003,2,Unknown,2,94
+From: 25 Nov 2002,To: 25 Nov 2002,Congo,FY 2003,2,Unknown,2,94
+From: 25 Nov 2002,To: 25 Nov 2002,Dem. Rep. Congo,FY 2003,4,Unknown,4,94
+From: 25 Nov 2002,To: 25 Nov 2002,Iraq,FY 2003,9,Catholic,4,94
+From: 25 Nov 2002,To: 25 Nov 2002,Iraq,FY 2003,9,Christian,5,94
+From: 25 Nov 2002,To: 25 Nov 2002,Liberia,FY 2003,7,Baptist,5,94
+From: 25 Nov 2002,To: 25 Nov 2002,Liberia,FY 2003,7,Christian,2,94
+From: 25 Nov 2002,To: 25 Nov 2002,Ukraine,FY 2003,35,Baptist,6,94
+From: 25 Nov 2002,To: 25 Nov 2002,Ukraine,FY 2003,35,Evangelical Christian,1,94
+From: 25 Nov 2002,To: 25 Nov 2002,Ukraine,FY 2003,35,Pentecostalist,28,94
+From: 25 Nov 2002,To: 25 Nov 2002,Zambia,FY 2003,1,Seventh Day Adventist,1,94
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Nov 2002,To: 25 Nov 2002,Baptist,FY 2003,11,Liberia,5,94
+From: 25 Nov 2002,To: 25 Nov 2002,Baptist,FY 2003,11,Ukraine,6,94
+From: 25 Nov 2002,To: 25 Nov 2002,Catholic,FY 2003,4,Iraq,4,94
+From: 25 Nov 2002,To: 25 Nov 2002,Christian,FY 2003,7,Iraq,5,94
+From: 25 Nov 2002,To: 25 Nov 2002,Christian,FY 2003,7,Liberia,2,94
+From: 25 Nov 2002,To: 25 Nov 2002,Evangelical Christian,FY 2003,1,Ukraine,1,94
+From: 25 Nov 2002,To: 25 Nov 2002,Moslem,FY 2003,5,Afghanistan,1,94
+From: 25 Nov 2002,To: 25 Nov 2002,Moslem,FY 2003,5,Bosnia and Herzegovina,4,94
+From: 25 Nov 2002,To: 25 Nov 2002,Moslem Shiite,FY 2003,14,Afghanistan,14,94
+From: 25 Nov 2002,To: 25 Nov 2002,Moslem Suni,FY 2003,15,Afghanistan,15,94
+From: 25 Nov 2002,To: 25 Nov 2002,Pentecostalist,FY 2003,28,Ukraine,28,94
+From: 25 Nov 2002,To: 25 Nov 2002,Seventh Day Adventist,FY 2003,1,Zambia,1,94
+From: 25 Nov 2002,To: 25 Nov 2002,Unknown,FY 2003,8,Cameroon,2,94
+From: 25 Nov 2002,To: 25 Nov 2002,Unknown,FY 2003,8,Congo,2,94
+From: 25 Nov 2002,To: 25 Nov 2002,Unknown,FY 2003,8,Dem. Rep. Congo,4,94
+

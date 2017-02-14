@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jun 2013,To: 24 Jun 2013,Bhutan,FY 2013,25,Buddhist,4,81
+From: 24 Jun 2013,To: 24 Jun 2013,Bhutan,FY 2013,25,Christian,6,81
+From: 24 Jun 2013,To: 24 Jun 2013,Bhutan,FY 2013,25,Hindu,15,81
+From: 24 Jun 2013,To: 24 Jun 2013,Iraq,FY 2013,51,Christian,4,81
+From: 24 Jun 2013,To: 24 Jun 2013,Iraq,FY 2013,51,Moslem Shiite,29,81
+From: 24 Jun 2013,To: 24 Jun 2013,Iraq,FY 2013,51,Moslem Suni,18,81
+From: 24 Jun 2013,To: 24 Jun 2013,Nepal,FY 2013,3,Hindu,3,81
+From: 24 Jun 2013,To: 24 Jun 2013,Sudan,FY 2013,2,Moslem,1,81
+From: 24 Jun 2013,To: 24 Jun 2013,Sudan,FY 2013,2,Moslem Suni,1,81
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jun 2013,To: 24 Jun 2013,Buddhist,FY 2013,4,Bhutan,4,81
+From: 24 Jun 2013,To: 24 Jun 2013,Christian,FY 2013,10,Bhutan,6,81
+From: 24 Jun 2013,To: 24 Jun 2013,Christian,FY 2013,10,Iraq,4,81
+From: 24 Jun 2013,To: 24 Jun 2013,Hindu,FY 2013,18,Bhutan,15,81
+From: 24 Jun 2013,To: 24 Jun 2013,Hindu,FY 2013,18,Nepal,3,81
+From: 24 Jun 2013,To: 24 Jun 2013,Moslem,FY 2013,1,Sudan,1,81
+From: 24 Jun 2013,To: 24 Jun 2013,Moslem Shiite,FY 2013,29,Iraq,29,81
+From: 24 Jun 2013,To: 24 Jun 2013,Moslem Suni,FY 2013,19,Iraq,18,81
+From: 24 Jun 2013,To: 24 Jun 2013,Moslem Suni,FY 2013,19,Sudan,1,81
+

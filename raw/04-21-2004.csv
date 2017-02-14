@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Apr 2004,To: 21 Apr 2004,Afghanistan,FY 2004,1,Moslem Suni,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Belarus,FY 2004,25,Baptist,7,282
+From: 21 Apr 2004,To: 21 Apr 2004,Belarus,FY 2004,25,Pentecostalist,17,282
+From: 21 Apr 2004,To: 21 Apr 2004,Belarus,FY 2004,25,Unknown,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Cuba,FY 2004,35,Catholic,19,282
+From: 21 Apr 2004,To: 21 Apr 2004,Cuba,FY 2004,35,Jehovah Witness,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Cuba,FY 2004,35,No Religion,12,282
+From: 21 Apr 2004,To: 21 Apr 2004,Ethiopia,FY 2004,16,Christian,16,282
+From: 21 Apr 2004,To: 21 Apr 2004,Iran,FY 2004,15,Bahai,2,282
+From: 21 Apr 2004,To: 21 Apr 2004,Iran,FY 2004,15,Christian,8,282
+From: 21 Apr 2004,To: 21 Apr 2004,Iran,FY 2004,15,Moslem,3,282
+From: 21 Apr 2004,To: 21 Apr 2004,Iran,FY 2004,15,Moslem Suni,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Iran,FY 2004,15,Protestant,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Catholic,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Christian,46,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Evangelical Christian,10,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Lutheran,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Moslem,7,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Pentecostalist,8,282
+From: 21 Apr 2004,To: 21 Apr 2004,Liberia,FY 2004,77,Protestant,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Russia,FY 2004,4,Moslem,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Sierra Leone,FY 2004,23,Christian,15,282
+From: 21 Apr 2004,To: 21 Apr 2004,Sierra Leone,FY 2004,23,Methodist,2,282
+From: 21 Apr 2004,To: 21 Apr 2004,Sierra Leone,FY 2004,23,Moslem,6,282
+From: 21 Apr 2004,To: 21 Apr 2004,Somalia,FY 2004,21,Moslem,21,282
+From: 21 Apr 2004,To: 21 Apr 2004,Ukraine,FY 2004,34,Baptist,14,282
+From: 21 Apr 2004,To: 21 Apr 2004,Ukraine,FY 2004,34,Catholic,2,282
+From: 21 Apr 2004,To: 21 Apr 2004,Ukraine,FY 2004,34,Pentecostalist,17,282
+From: 21 Apr 2004,To: 21 Apr 2004,Ukraine,FY 2004,34,Uniate,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Vietnam,FY 2004,31,Ancestral Worship,3,282
+From: 21 Apr 2004,To: 21 Apr 2004,Vietnam,FY 2004,31,Buddhist,3,282
+From: 21 Apr 2004,To: 21 Apr 2004,Vietnam,FY 2004,31,Catholic,12,282
+From: 21 Apr 2004,To: 21 Apr 2004,Vietnam,FY 2004,31,No Religion,8,282
+From: 21 Apr 2004,To: 21 Apr 2004,Vietnam,FY 2004,31,Protestant,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Vietnam,FY 2004,31,Unknown,1,282
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Apr 2004,To: 21 Apr 2004,Ancestral Worship,FY 2004,3,Vietnam,3,282
+From: 21 Apr 2004,To: 21 Apr 2004,Bahai,FY 2004,2,Iran,2,282
+From: 21 Apr 2004,To: 21 Apr 2004,Baptist,FY 2004,21,Belarus,7,282
+From: 21 Apr 2004,To: 21 Apr 2004,Baptist,FY 2004,21,Ukraine,14,282
+From: 21 Apr 2004,To: 21 Apr 2004,Buddhist,FY 2004,3,Vietnam,3,282
+From: 21 Apr 2004,To: 21 Apr 2004,Catholic,FY 2004,37,Cuba,19,282
+From: 21 Apr 2004,To: 21 Apr 2004,Catholic,FY 2004,37,Liberia,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Catholic,FY 2004,37,Ukraine,2,282
+From: 21 Apr 2004,To: 21 Apr 2004,Catholic,FY 2004,37,Vietnam,12,282
+From: 21 Apr 2004,To: 21 Apr 2004,Christian,FY 2004,85,Ethiopia,16,282
+From: 21 Apr 2004,To: 21 Apr 2004,Christian,FY 2004,85,Iran,8,282
+From: 21 Apr 2004,To: 21 Apr 2004,Christian,FY 2004,85,Liberia,46,282
+From: 21 Apr 2004,To: 21 Apr 2004,Christian,FY 2004,85,Sierra Leone,15,282
+From: 21 Apr 2004,To: 21 Apr 2004,Evangelical Christian,FY 2004,10,Liberia,10,282
+From: 21 Apr 2004,To: 21 Apr 2004,Jehovah Witness,FY 2004,4,Cuba,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Lutheran,FY 2004,1,Liberia,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Methodist,FY 2004,2,Sierra Leone,2,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem,FY 2004,41,Iran,3,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem,FY 2004,41,Liberia,7,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem,FY 2004,41,Russia,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem,FY 2004,41,Sierra Leone,6,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem,FY 2004,41,Somalia,21,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem Suni,FY 2004,2,Afghanistan,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Moslem Suni,FY 2004,2,Iran,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,No Religion,FY 2004,20,Cuba,12,282
+From: 21 Apr 2004,To: 21 Apr 2004,No Religion,FY 2004,20,Vietnam,8,282
+From: 21 Apr 2004,To: 21 Apr 2004,Pentecostalist,FY 2004,42,Belarus,17,282
+From: 21 Apr 2004,To: 21 Apr 2004,Pentecostalist,FY 2004,42,Liberia,8,282
+From: 21 Apr 2004,To: 21 Apr 2004,Pentecostalist,FY 2004,42,Ukraine,17,282
+From: 21 Apr 2004,To: 21 Apr 2004,Protestant,FY 2004,6,Iran,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Protestant,FY 2004,6,Liberia,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Protestant,FY 2004,6,Vietnam,4,282
+From: 21 Apr 2004,To: 21 Apr 2004,Uniate,FY 2004,1,Ukraine,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Unknown,FY 2004,2,Belarus,1,282
+From: 21 Apr 2004,To: 21 Apr 2004,Unknown,FY 2004,2,Vietnam,1,282
+

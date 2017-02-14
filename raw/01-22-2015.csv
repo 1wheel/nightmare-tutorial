@@ -1,0 +1,99 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jan 2015,To: 22 Jan 2015,Afghanistan,FY 2015,11,Moslem Shiite,6,592
+From: 22 Jan 2015,To: 22 Jan 2015,Afghanistan,FY 2015,11,Moslem Suni,5,592
+From: 22 Jan 2015,To: 22 Jan 2015,Bhutan,FY 2015,53,Buddhist,9,592
+From: 22 Jan 2015,To: 22 Jan 2015,Bhutan,FY 2015,53,Christian,17,592
+From: 22 Jan 2015,To: 22 Jan 2015,Bhutan,FY 2015,53,Hindu,26,592
+From: 22 Jan 2015,To: 22 Jan 2015,Bhutan,FY 2015,53,Kirat,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Burma,FY 2015,185,Animist,10,592
+From: 22 Jan 2015,To: 22 Jan 2015,Burma,FY 2015,185,Baptist,7,592
+From: 22 Jan 2015,To: 22 Jan 2015,Burma,FY 2015,185,Buddhist,15,592
+From: 22 Jan 2015,To: 22 Jan 2015,Burma,FY 2015,185,Catholic,14,592
+From: 22 Jan 2015,To: 22 Jan 2015,Burma,FY 2015,185,Christian,109,592
+From: 22 Jan 2015,To: 22 Jan 2015,Burma,FY 2015,185,Moslem,30,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,Catholic,19,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,Christian,2,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,Jehovah Witness,8,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,Methodist,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,No Religion,13,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,Pentecostalist,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Cuba,FY 2015,51,Seventh Day Adventist,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Dem. Rep. Congo,FY 2015,19,Methodist,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Dem. Rep. Congo,FY 2015,19,Pentecostalist,18,592
+From: 22 Jan 2015,To: 22 Jan 2015,Eritrea,FY 2015,26,Orthodox,25,592
+From: 22 Jan 2015,To: 22 Jan 2015,Eritrea,FY 2015,26,Protestant,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Ethiopia,FY 2015,11,Christian,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Ethiopia,FY 2015,11,Moslem,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Ethiopia,FY 2015,11,Orthodox,7,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,Bahai,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,Christian,11,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,Jewish,2,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,Moslem,2,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,No Religion,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,Protestant,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iran,FY 2015,26,Zoroastrian,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iraq,FY 2015,101,Catholic,15,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iraq,FY 2015,101,Chaldean,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iraq,FY 2015,101,Christian,10,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iraq,FY 2015,101,Moslem Shiite,26,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iraq,FY 2015,101,Moslem Suni,39,592
+From: 22 Jan 2015,To: 22 Jan 2015,Iraq,FY 2015,101,Orthodox,10,592
+From: 22 Jan 2015,To: 22 Jan 2015,Nepal,FY 2015,3,Christian,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Nigeria,FY 2015,1,Christian,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Somalia,FY 2015,78,Moslem,78,592
+From: 22 Jan 2015,To: 22 Jan 2015,Sudan,FY 2015,3,Moslem Suni,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Syria,FY 2015,24,Christian,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Syria,FY 2015,24,Moslem Suni,19,592
+From: 22 Jan 2015,To: 22 Jan 2015,Syria,FY 2015,24,Other Religion,1,592
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jan 2015,To: 22 Jan 2015,Animist,FY 2015,10,Burma,10,592
+From: 22 Jan 2015,To: 22 Jan 2015,Bahai,FY 2015,3,Iran,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Baptist,FY 2015,7,Burma,7,592
+From: 22 Jan 2015,To: 22 Jan 2015,Buddhist,FY 2015,24,Bhutan,9,592
+From: 22 Jan 2015,To: 22 Jan 2015,Buddhist,FY 2015,24,Burma,15,592
+From: 22 Jan 2015,To: 22 Jan 2015,Catholic,FY 2015,48,Burma,14,592
+From: 22 Jan 2015,To: 22 Jan 2015,Catholic,FY 2015,48,Cuba,19,592
+From: 22 Jan 2015,To: 22 Jan 2015,Catholic,FY 2015,48,Iraq,15,592
+From: 22 Jan 2015,To: 22 Jan 2015,Chaldean,FY 2015,1,Iraq,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Bhutan,17,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Burma,109,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Cuba,2,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Ethiopia,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Iran,11,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Iraq,10,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Nepal,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Nigeria,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Christian,FY 2015,158,Syria,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Hindu,FY 2015,26,Bhutan,26,592
+From: 22 Jan 2015,To: 22 Jan 2015,Jehovah Witness,FY 2015,8,Cuba,8,592
+From: 22 Jan 2015,To: 22 Jan 2015,Jewish,FY 2015,2,Iran,2,592
+From: 22 Jan 2015,To: 22 Jan 2015,Kirat,FY 2015,1,Bhutan,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Methodist,FY 2015,2,Cuba,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Methodist,FY 2015,2,Dem. Rep. Congo,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem,FY 2015,113,Burma,30,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem,FY 2015,113,Ethiopia,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem,FY 2015,113,Iran,2,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem,FY 2015,113,Somalia,78,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem Shiite,FY 2015,32,Afghanistan,6,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem Shiite,FY 2015,32,Iraq,26,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem Suni,FY 2015,66,Afghanistan,5,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem Suni,FY 2015,66,Iraq,39,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem Suni,FY 2015,66,Sudan,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Moslem Suni,FY 2015,66,Syria,19,592
+From: 22 Jan 2015,To: 22 Jan 2015,No Religion,FY 2015,14,Cuba,13,592
+From: 22 Jan 2015,To: 22 Jan 2015,No Religion,FY 2015,14,Iran,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Orthodox,FY 2015,42,Eritrea,25,592
+From: 22 Jan 2015,To: 22 Jan 2015,Orthodox,FY 2015,42,Ethiopia,7,592
+From: 22 Jan 2015,To: 22 Jan 2015,Orthodox,FY 2015,42,Iraq,10,592
+From: 22 Jan 2015,To: 22 Jan 2015,Other Religion,FY 2015,1,Syria,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Pentecostalist,FY 2015,22,Cuba,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Pentecostalist,FY 2015,22,Dem. Rep. Congo,18,592
+From: 22 Jan 2015,To: 22 Jan 2015,Protestant,FY 2015,4,Eritrea,1,592
+From: 22 Jan 2015,To: 22 Jan 2015,Protestant,FY 2015,4,Iran,3,592
+From: 22 Jan 2015,To: 22 Jan 2015,Seventh Day Adventist,FY 2015,4,Cuba,4,592
+From: 22 Jan 2015,To: 22 Jan 2015,Zoroastrian,FY 2015,4,Iran,4,592
+

@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Mar 2015,To: 16 Mar 2015,Afghanistan,FY 2015,1,Protestant,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Cuba,FY 2015,5,Pentecostalist,5,89
+From: 16 Mar 2015,To: 16 Mar 2015,Dem. Rep. Congo,FY 2015,16,Christian,7,89
+From: 16 Mar 2015,To: 16 Mar 2015,Dem. Rep. Congo,FY 2015,16,Seventh Day Adventist,9,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iran,FY 2015,17,Bahai,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iran,FY 2015,17,Moslem Shiite,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iran,FY 2015,17,No Religion,3,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iran,FY 2015,17,Protestant,12,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iraq,FY 2015,19,Christian,2,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iraq,FY 2015,19,Moslem Shiite,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iraq,FY 2015,19,Moslem Suni,12,89
+From: 16 Mar 2015,To: 16 Mar 2015,Iraq,FY 2015,19,Yazidi,4,89
+From: 16 Mar 2015,To: 16 Mar 2015,Somalia,FY 2015,31,Moslem,31,89
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Mar 2015,To: 16 Mar 2015,Bahai,FY 2015,1,Iran,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Christian,FY 2015,9,Dem. Rep. Congo,7,89
+From: 16 Mar 2015,To: 16 Mar 2015,Christian,FY 2015,9,Iraq,2,89
+From: 16 Mar 2015,To: 16 Mar 2015,Moslem,FY 2015,31,Somalia,31,89
+From: 16 Mar 2015,To: 16 Mar 2015,Moslem Shiite,FY 2015,2,Iran,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Moslem Shiite,FY 2015,2,Iraq,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Moslem Suni,FY 2015,12,Iraq,12,89
+From: 16 Mar 2015,To: 16 Mar 2015,No Religion,FY 2015,3,Iran,3,89
+From: 16 Mar 2015,To: 16 Mar 2015,Pentecostalist,FY 2015,5,Cuba,5,89
+From: 16 Mar 2015,To: 16 Mar 2015,Protestant,FY 2015,13,Afghanistan,1,89
+From: 16 Mar 2015,To: 16 Mar 2015,Protestant,FY 2015,13,Iran,12,89
+From: 16 Mar 2015,To: 16 Mar 2015,Seventh Day Adventist,FY 2015,9,Dem. Rep. Congo,9,89
+From: 16 Mar 2015,To: 16 Mar 2015,Yazidi,FY 2015,4,Iraq,4,89
+

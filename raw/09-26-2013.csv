@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Sep 2013,To: 26 Sep 2013,Bhutan,FY 2013,56,Buddhist,21,545
+From: 26 Sep 2013,To: 26 Sep 2013,Bhutan,FY 2013,56,Hindu,19,545
+From: 26 Sep 2013,To: 26 Sep 2013,Bhutan,FY 2013,56,Kirat,16,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Animist,18,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Baptist,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Buddhist,24,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Catholic,21,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Christian,102,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Moslem,10,545
+From: 26 Sep 2013,To: 26 Sep 2013,Burma,FY 2013,183,Other Religion,7,545
+From: 26 Sep 2013,To: 26 Sep 2013,Congo,FY 2013,7,Catholic,7,545
+From: 26 Sep 2013,To: 26 Sep 2013,Cuba,FY 2013,65,Baptist,2,545
+From: 26 Sep 2013,To: 26 Sep 2013,Cuba,FY 2013,65,Catholic,16,545
+From: 26 Sep 2013,To: 26 Sep 2013,Cuba,FY 2013,65,Evangelical Christian,3,545
+From: 26 Sep 2013,To: 26 Sep 2013,Cuba,FY 2013,65,Jehovah Witness,17,545
+From: 26 Sep 2013,To: 26 Sep 2013,Cuba,FY 2013,65,No Religion,27,545
+From: 26 Sep 2013,To: 26 Sep 2013,Dem. Rep. Congo,FY 2013,5,Pentecostalist,5,545
+From: 26 Sep 2013,To: 26 Sep 2013,Eritrea,FY 2013,4,Catholic,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Eritrea,FY 2013,4,Moslem,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Eritrea,FY 2013,4,Orthodox,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Eritrea,FY 2013,4,Pentecostalist,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Ethiopia,FY 2013,5,Moslem,5,545
+From: 26 Sep 2013,To: 26 Sep 2013,Iraq,FY 2013,72,Catholic,5,545
+From: 26 Sep 2013,To: 26 Sep 2013,Iraq,FY 2013,72,Christian,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Iraq,FY 2013,72,Moslem Shiite,17,545
+From: 26 Sep 2013,To: 26 Sep 2013,Iraq,FY 2013,72,Moslem Suni,49,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moldova,FY 2013,1,Baptist,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Palestine,FY 2013,3,Moslem,3,545
+From: 26 Sep 2013,To: 26 Sep 2013,Rwanda,FY 2013,3,Catholic,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Rwanda,FY 2013,3,Christian,2,545
+From: 26 Sep 2013,To: 26 Sep 2013,Somalia,FY 2013,115,Moslem,95,545
+From: 26 Sep 2013,To: 26 Sep 2013,Somalia,FY 2013,115,Moslem Suni,20,545
+From: 26 Sep 2013,To: 26 Sep 2013,Sudan,FY 2013,26,Moslem,26,545
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Sep 2013,To: 26 Sep 2013,Animist,FY 2013,18,Burma,18,545
+From: 26 Sep 2013,To: 26 Sep 2013,Baptist,FY 2013,4,Burma,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Baptist,FY 2013,4,Cuba,2,545
+From: 26 Sep 2013,To: 26 Sep 2013,Baptist,FY 2013,4,Moldova,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Buddhist,FY 2013,45,Bhutan,21,545
+From: 26 Sep 2013,To: 26 Sep 2013,Buddhist,FY 2013,45,Burma,24,545
+From: 26 Sep 2013,To: 26 Sep 2013,Catholic,FY 2013,51,Burma,21,545
+From: 26 Sep 2013,To: 26 Sep 2013,Catholic,FY 2013,51,Congo,7,545
+From: 26 Sep 2013,To: 26 Sep 2013,Catholic,FY 2013,51,Cuba,16,545
+From: 26 Sep 2013,To: 26 Sep 2013,Catholic,FY 2013,51,Eritrea,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Catholic,FY 2013,51,Iraq,5,545
+From: 26 Sep 2013,To: 26 Sep 2013,Catholic,FY 2013,51,Rwanda,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Christian,FY 2013,105,Burma,102,545
+From: 26 Sep 2013,To: 26 Sep 2013,Christian,FY 2013,105,Iraq,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Christian,FY 2013,105,Rwanda,2,545
+From: 26 Sep 2013,To: 26 Sep 2013,Evangelical Christian,FY 2013,3,Cuba,3,545
+From: 26 Sep 2013,To: 26 Sep 2013,Hindu,FY 2013,19,Bhutan,19,545
+From: 26 Sep 2013,To: 26 Sep 2013,Jehovah Witness,FY 2013,17,Cuba,17,545
+From: 26 Sep 2013,To: 26 Sep 2013,Kirat,FY 2013,16,Bhutan,16,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem,FY 2013,140,Burma,10,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem,FY 2013,140,Eritrea,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem,FY 2013,140,Ethiopia,5,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem,FY 2013,140,Palestine,3,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem,FY 2013,140,Somalia,95,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem,FY 2013,140,Sudan,26,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem Shiite,FY 2013,17,Iraq,17,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem Suni,FY 2013,69,Iraq,49,545
+From: 26 Sep 2013,To: 26 Sep 2013,Moslem Suni,FY 2013,69,Somalia,20,545
+From: 26 Sep 2013,To: 26 Sep 2013,No Religion,FY 2013,27,Cuba,27,545
+From: 26 Sep 2013,To: 26 Sep 2013,Orthodox,FY 2013,1,Eritrea,1,545
+From: 26 Sep 2013,To: 26 Sep 2013,Other Religion,FY 2013,7,Burma,7,545
+From: 26 Sep 2013,To: 26 Sep 2013,Pentecostalist,FY 2013,6,Dem. Rep. Congo,5,545
+From: 26 Sep 2013,To: 26 Sep 2013,Pentecostalist,FY 2013,6,Eritrea,1,545
+

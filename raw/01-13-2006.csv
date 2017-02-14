@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jan 2006,To: 13 Jan 2006,Cuba,FY 2006,32,Baptist,6,134
+From: 13 Jan 2006,To: 13 Jan 2006,Cuba,FY 2006,32,Catholic,10,134
+From: 13 Jan 2006,To: 13 Jan 2006,Cuba,FY 2006,32,Evangelical Christian,1,134
+From: 13 Jan 2006,To: 13 Jan 2006,Cuba,FY 2006,32,Jehovah Witness,11,134
+From: 13 Jan 2006,To: 13 Jan 2006,Cuba,FY 2006,32,No Religion,4,134
+From: 13 Jan 2006,To: 13 Jan 2006,Russia,FY 2006,36,Jewish,1,134
+From: 13 Jan 2006,To: 13 Jan 2006,Russia,FY 2006,36,Moslem,35,134
+From: 13 Jan 2006,To: 13 Jan 2006,Somalia,FY 2006,1,Moslem,1,134
+From: 13 Jan 2006,To: 13 Jan 2006,Sudan,FY 2006,35,Catholic,3,134
+From: 13 Jan 2006,To: 13 Jan 2006,Sudan,FY 2006,35,Christian,32,134
+From: 13 Jan 2006,To: 13 Jan 2006,Ukraine,FY 2006,30,Jewish,5,134
+From: 13 Jan 2006,To: 13 Jan 2006,Ukraine,FY 2006,30,Pentecostalist,22,134
+From: 13 Jan 2006,To: 13 Jan 2006,Ukraine,FY 2006,30,Uniate,3,134
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jan 2006,To: 13 Jan 2006,Baptist,FY 2006,6,Cuba,6,134
+From: 13 Jan 2006,To: 13 Jan 2006,Catholic,FY 2006,13,Cuba,10,134
+From: 13 Jan 2006,To: 13 Jan 2006,Catholic,FY 2006,13,Sudan,3,134
+From: 13 Jan 2006,To: 13 Jan 2006,Christian,FY 2006,32,Sudan,32,134
+From: 13 Jan 2006,To: 13 Jan 2006,Evangelical Christian,FY 2006,1,Cuba,1,134
+From: 13 Jan 2006,To: 13 Jan 2006,Jehovah Witness,FY 2006,11,Cuba,11,134
+From: 13 Jan 2006,To: 13 Jan 2006,Jewish,FY 2006,6,Russia,1,134
+From: 13 Jan 2006,To: 13 Jan 2006,Jewish,FY 2006,6,Ukraine,5,134
+From: 13 Jan 2006,To: 13 Jan 2006,Moslem,FY 2006,36,Russia,35,134
+From: 13 Jan 2006,To: 13 Jan 2006,Moslem,FY 2006,36,Somalia,1,134
+From: 13 Jan 2006,To: 13 Jan 2006,No Religion,FY 2006,4,Cuba,4,134
+From: 13 Jan 2006,To: 13 Jan 2006,Pentecostalist,FY 2006,22,Ukraine,22,134
+From: 13 Jan 2006,To: 13 Jan 2006,Uniate,FY 2006,3,Ukraine,3,134
+

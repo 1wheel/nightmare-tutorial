@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jul 2004,To: 07 Jul 2004,Angola,FY 2004,4,Catholic,2,372
+From: 07 Jul 2004,To: 07 Jul 2004,Angola,FY 2004,4,Christian,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Angola,FY 2004,4,Protestant,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Cuba,FY 2004,25,Catholic,15,372
+From: 07 Jul 2004,To: 07 Jul 2004,Cuba,FY 2004,25,No Religion,10,372
+From: 07 Jul 2004,To: 07 Jul 2004,Dem. Rep. Congo,FY 2004,1,Catholic,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Ethiopia,FY 2004,46,Christian,30,372
+From: 07 Jul 2004,To: 07 Jul 2004,Ethiopia,FY 2004,46,Moslem,11,372
+From: 07 Jul 2004,To: 07 Jul 2004,Ethiopia,FY 2004,46,Orthodox,5,372
+From: 07 Jul 2004,To: 07 Jul 2004,Iran,FY 2004,5,Bahai,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Iran,FY 2004,5,Jewish,2,372
+From: 07 Jul 2004,To: 07 Jul 2004,Iran,FY 2004,5,Protestant,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Iran,FY 2004,5,Zoroastrian,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Laos,FY 2004,80,Ancestral Worship,80,372
+From: 07 Jul 2004,To: 07 Jul 2004,Liberia,FY 2004,9,Baptist,4,372
+From: 07 Jul 2004,To: 07 Jul 2004,Liberia,FY 2004,9,Catholic,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Liberia,FY 2004,9,Christian,4,372
+From: 07 Jul 2004,To: 07 Jul 2004,Russia,FY 2004,20,Baptist,12,372
+From: 07 Jul 2004,To: 07 Jul 2004,Russia,FY 2004,20,Jewish,6,372
+From: 07 Jul 2004,To: 07 Jul 2004,Russia,FY 2004,20,Unknown,2,372
+From: 07 Jul 2004,To: 07 Jul 2004,Somalia,FY 2004,124,Moslem,124,372
+From: 07 Jul 2004,To: 07 Jul 2004,Sudan,FY 2004,8,Christian,7,372
+From: 07 Jul 2004,To: 07 Jul 2004,Sudan,FY 2004,8,Protestant,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Togo,FY 2004,1,Christian,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Ukraine,FY 2004,14,Pentecostalist,14,372
+From: 07 Jul 2004,To: 07 Jul 2004,Vietnam,FY 2004,35,Buddhist,4,372
+From: 07 Jul 2004,To: 07 Jul 2004,Vietnam,FY 2004,35,Catholic,5,372
+From: 07 Jul 2004,To: 07 Jul 2004,Vietnam,FY 2004,35,No Religion,16,372
+From: 07 Jul 2004,To: 07 Jul 2004,Vietnam,FY 2004,35,Protestant,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Vietnam,FY 2004,35,Unknown,9,372
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jul 2004,To: 07 Jul 2004,Ancestral Worship,FY 2004,80,Laos,80,372
+From: 07 Jul 2004,To: 07 Jul 2004,Bahai,FY 2004,1,Iran,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Baptist,FY 2004,16,Liberia,4,372
+From: 07 Jul 2004,To: 07 Jul 2004,Baptist,FY 2004,16,Russia,12,372
+From: 07 Jul 2004,To: 07 Jul 2004,Buddhist,FY 2004,4,Vietnam,4,372
+From: 07 Jul 2004,To: 07 Jul 2004,Catholic,FY 2004,24,Angola,2,372
+From: 07 Jul 2004,To: 07 Jul 2004,Catholic,FY 2004,24,Cuba,15,372
+From: 07 Jul 2004,To: 07 Jul 2004,Catholic,FY 2004,24,Dem. Rep. Congo,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Catholic,FY 2004,24,Liberia,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Catholic,FY 2004,24,Vietnam,5,372
+From: 07 Jul 2004,To: 07 Jul 2004,Christian,FY 2004,43,Angola,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Christian,FY 2004,43,Ethiopia,30,372
+From: 07 Jul 2004,To: 07 Jul 2004,Christian,FY 2004,43,Liberia,4,372
+From: 07 Jul 2004,To: 07 Jul 2004,Christian,FY 2004,43,Sudan,7,372
+From: 07 Jul 2004,To: 07 Jul 2004,Christian,FY 2004,43,Togo,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Jewish,FY 2004,8,Iran,2,372
+From: 07 Jul 2004,To: 07 Jul 2004,Jewish,FY 2004,8,Russia,6,372
+From: 07 Jul 2004,To: 07 Jul 2004,Moslem,FY 2004,135,Ethiopia,11,372
+From: 07 Jul 2004,To: 07 Jul 2004,Moslem,FY 2004,135,Somalia,124,372
+From: 07 Jul 2004,To: 07 Jul 2004,No Religion,FY 2004,26,Cuba,10,372
+From: 07 Jul 2004,To: 07 Jul 2004,No Religion,FY 2004,26,Vietnam,16,372
+From: 07 Jul 2004,To: 07 Jul 2004,Orthodox,FY 2004,5,Ethiopia,5,372
+From: 07 Jul 2004,To: 07 Jul 2004,Pentecostalist,FY 2004,14,Ukraine,14,372
+From: 07 Jul 2004,To: 07 Jul 2004,Protestant,FY 2004,4,Angola,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Protestant,FY 2004,4,Iran,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Protestant,FY 2004,4,Sudan,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Protestant,FY 2004,4,Vietnam,1,372
+From: 07 Jul 2004,To: 07 Jul 2004,Unknown,FY 2004,11,Russia,2,372
+From: 07 Jul 2004,To: 07 Jul 2004,Unknown,FY 2004,11,Vietnam,9,372
+From: 07 Jul 2004,To: 07 Jul 2004,Zoroastrian,FY 2004,1,Iran,1,372
+

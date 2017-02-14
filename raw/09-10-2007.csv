@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Sep 2007,To: 10 Sep 2007,Burma,FY 2007,66,Baptist,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Burma,FY 2007,66,Christian,65,381
+From: 10 Sep 2007,To: 10 Sep 2007,Burundi,FY 2007,35,Catholic,12,381
+From: 10 Sep 2007,To: 10 Sep 2007,Burundi,FY 2007,35,Methodist,5,381
+From: 10 Sep 2007,To: 10 Sep 2007,Burundi,FY 2007,35,Pentecostalist,18,381
+From: 10 Sep 2007,To: 10 Sep 2007,Congo,FY 2007,34,Catholic,10,381
+From: 10 Sep 2007,To: 10 Sep 2007,Congo,FY 2007,34,Christian,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Congo,FY 2007,34,Protestant,23,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iran,FY 2007,66,Bahai,31,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iran,FY 2007,66,Christian,35,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iraq,FY 2007,35,Catholic,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iraq,FY 2007,35,Christian,5,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iraq,FY 2007,35,Moslem,5,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iraq,FY 2007,35,Moslem Shiite,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iraq,FY 2007,35,Moslem Suni,16,381
+From: 10 Sep 2007,To: 10 Sep 2007,Iraq,FY 2007,35,Orthodox,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Liberia,FY 2007,28,Catholic,11,381
+From: 10 Sep 2007,To: 10 Sep 2007,Liberia,FY 2007,28,Christian,15,381
+From: 10 Sep 2007,To: 10 Sep 2007,Liberia,FY 2007,28,Moslem,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Liberia,FY 2007,28,Pentecostalist,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Russia,FY 2007,16,Pentecostalist,13,381
+From: 10 Sep 2007,To: 10 Sep 2007,Russia,FY 2007,16,Seventh Day Adventist,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Sierra Leone,FY 2007,8,Catholic,2,381
+From: 10 Sep 2007,To: 10 Sep 2007,Sierra Leone,FY 2007,8,Christian,2,381
+From: 10 Sep 2007,To: 10 Sep 2007,Sierra Leone,FY 2007,8,Moslem,4,381
+From: 10 Sep 2007,To: 10 Sep 2007,Somalia,FY 2007,93,Moslem,93,381
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Sep 2007,To: 10 Sep 2007,Bahai,FY 2007,31,Iran,31,381
+From: 10 Sep 2007,To: 10 Sep 2007,Baptist,FY 2007,1,Burma,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Catholic,FY 2007,38,Burundi,12,381
+From: 10 Sep 2007,To: 10 Sep 2007,Catholic,FY 2007,38,Congo,10,381
+From: 10 Sep 2007,To: 10 Sep 2007,Catholic,FY 2007,38,Iraq,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Catholic,FY 2007,38,Liberia,11,381
+From: 10 Sep 2007,To: 10 Sep 2007,Catholic,FY 2007,38,Sierra Leone,2,381
+From: 10 Sep 2007,To: 10 Sep 2007,Christian,FY 2007,123,Burma,65,381
+From: 10 Sep 2007,To: 10 Sep 2007,Christian,FY 2007,123,Congo,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Christian,FY 2007,123,Iran,35,381
+From: 10 Sep 2007,To: 10 Sep 2007,Christian,FY 2007,123,Iraq,5,381
+From: 10 Sep 2007,To: 10 Sep 2007,Christian,FY 2007,123,Liberia,15,381
+From: 10 Sep 2007,To: 10 Sep 2007,Christian,FY 2007,123,Sierra Leone,2,381
+From: 10 Sep 2007,To: 10 Sep 2007,Methodist,FY 2007,5,Burundi,5,381
+From: 10 Sep 2007,To: 10 Sep 2007,Moslem,FY 2007,103,Iraq,5,381
+From: 10 Sep 2007,To: 10 Sep 2007,Moslem,FY 2007,103,Liberia,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Moslem,FY 2007,103,Sierra Leone,4,381
+From: 10 Sep 2007,To: 10 Sep 2007,Moslem,FY 2007,103,Somalia,93,381
+From: 10 Sep 2007,To: 10 Sep 2007,Moslem Shiite,FY 2007,3,Iraq,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Moslem Suni,FY 2007,16,Iraq,16,381
+From: 10 Sep 2007,To: 10 Sep 2007,Orthodox,FY 2007,3,Iraq,3,381
+From: 10 Sep 2007,To: 10 Sep 2007,Pentecostalist,FY 2007,32,Burundi,18,381
+From: 10 Sep 2007,To: 10 Sep 2007,Pentecostalist,FY 2007,32,Liberia,1,381
+From: 10 Sep 2007,To: 10 Sep 2007,Pentecostalist,FY 2007,32,Russia,13,381
+From: 10 Sep 2007,To: 10 Sep 2007,Protestant,FY 2007,23,Congo,23,381
+From: 10 Sep 2007,To: 10 Sep 2007,Seventh Day Adventist,FY 2007,3,Russia,3,381
+

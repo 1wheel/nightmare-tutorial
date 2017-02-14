@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jul 2012,To: 10 Jul 2012,Afghanistan,FY 2012,10,Bahai,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Afghanistan,FY 2012,10,Moslem Shiite,9,527
+From: 10 Jul 2012,To: 10 Jul 2012,Bhutan,FY 2012,104,Buddhist,47,527
+From: 10 Jul 2012,To: 10 Jul 2012,Bhutan,FY 2012,104,Christian,12,527
+From: 10 Jul 2012,To: 10 Jul 2012,Bhutan,FY 2012,104,Hindu,34,527
+From: 10 Jul 2012,To: 10 Jul 2012,Bhutan,FY 2012,104,Kirat,11,527
+From: 10 Jul 2012,To: 10 Jul 2012,Burma,FY 2012,148,Baptist,5,527
+From: 10 Jul 2012,To: 10 Jul 2012,Burma,FY 2012,148,Buddhist,20,527
+From: 10 Jul 2012,To: 10 Jul 2012,Burma,FY 2012,148,Catholic,5,527
+From: 10 Jul 2012,To: 10 Jul 2012,Burma,FY 2012,148,Christian,109,527
+From: 10 Jul 2012,To: 10 Jul 2012,Burma,FY 2012,148,Moslem,9,527
+From: 10 Jul 2012,To: 10 Jul 2012,China,FY 2012,1,Unknown,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Cuba,FY 2012,36,Catholic,16,527
+From: 10 Jul 2012,To: 10 Jul 2012,Cuba,FY 2012,36,Evangelical Christian,3,527
+From: 10 Jul 2012,To: 10 Jul 2012,Cuba,FY 2012,36,Jehovah Witness,9,527
+From: 10 Jul 2012,To: 10 Jul 2012,Cuba,FY 2012,36,No Religion,8,527
+From: 10 Jul 2012,To: 10 Jul 2012,Eritrea,FY 2012,17,Orthodox,14,527
+From: 10 Jul 2012,To: 10 Jul 2012,Eritrea,FY 2012,17,Protestant,3,527
+From: 10 Jul 2012,To: 10 Jul 2012,Ethiopia,FY 2012,11,Christian,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Ethiopia,FY 2012,11,Moslem,7,527
+From: 10 Jul 2012,To: 10 Jul 2012,Ethiopia,FY 2012,11,Orthodox,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Ethiopia,FY 2012,11,Protestant,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iran,FY 2012,21,Bahai,11,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iran,FY 2012,21,Buddhist,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iran,FY 2012,21,Moslem Shiite,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iran,FY 2012,21,Moslem Suni,4,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iran,FY 2012,21,Protestant,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iraq,FY 2012,106,Catholic,26,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iraq,FY 2012,106,Christian,37,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iraq,FY 2012,106,Moslem Shiite,25,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iraq,FY 2012,106,Moslem Suni,3,527
+From: 10 Jul 2012,To: 10 Jul 2012,Iraq,FY 2012,106,Orthodox,15,527
+From: 10 Jul 2012,To: 10 Jul 2012,Palestine,FY 2012,12,Moslem Suni,12,527
+From: 10 Jul 2012,To: 10 Jul 2012,Somalia,FY 2012,30,Moslem,30,527
+From: 10 Jul 2012,To: 10 Jul 2012,Sudan,FY 2012,31,Moslem,31,527
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jul 2012,To: 10 Jul 2012,Bahai,FY 2012,12,Afghanistan,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Bahai,FY 2012,12,Iran,11,527
+From: 10 Jul 2012,To: 10 Jul 2012,Baptist,FY 2012,5,Burma,5,527
+From: 10 Jul 2012,To: 10 Jul 2012,Buddhist,FY 2012,69,Bhutan,47,527
+From: 10 Jul 2012,To: 10 Jul 2012,Buddhist,FY 2012,69,Burma,20,527
+From: 10 Jul 2012,To: 10 Jul 2012,Buddhist,FY 2012,69,Iran,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Catholic,FY 2012,47,Burma,5,527
+From: 10 Jul 2012,To: 10 Jul 2012,Catholic,FY 2012,47,Cuba,16,527
+From: 10 Jul 2012,To: 10 Jul 2012,Catholic,FY 2012,47,Iraq,26,527
+From: 10 Jul 2012,To: 10 Jul 2012,Christian,FY 2012,160,Bhutan,12,527
+From: 10 Jul 2012,To: 10 Jul 2012,Christian,FY 2012,160,Burma,109,527
+From: 10 Jul 2012,To: 10 Jul 2012,Christian,FY 2012,160,Ethiopia,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Christian,FY 2012,160,Iraq,37,527
+From: 10 Jul 2012,To: 10 Jul 2012,Evangelical Christian,FY 2012,3,Cuba,3,527
+From: 10 Jul 2012,To: 10 Jul 2012,Hindu,FY 2012,34,Bhutan,34,527
+From: 10 Jul 2012,To: 10 Jul 2012,Jehovah Witness,FY 2012,9,Cuba,9,527
+From: 10 Jul 2012,To: 10 Jul 2012,Kirat,FY 2012,11,Bhutan,11,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem,FY 2012,77,Burma,9,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem,FY 2012,77,Ethiopia,7,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem,FY 2012,77,Somalia,30,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem,FY 2012,77,Sudan,31,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem Shiite,FY 2012,36,Afghanistan,9,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem Shiite,FY 2012,36,Iran,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem Shiite,FY 2012,36,Iraq,25,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem Suni,FY 2012,19,Iran,4,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem Suni,FY 2012,19,Iraq,3,527
+From: 10 Jul 2012,To: 10 Jul 2012,Moslem Suni,FY 2012,19,Palestine,12,527
+From: 10 Jul 2012,To: 10 Jul 2012,No Religion,FY 2012,8,Cuba,8,527
+From: 10 Jul 2012,To: 10 Jul 2012,Orthodox,FY 2012,30,Eritrea,14,527
+From: 10 Jul 2012,To: 10 Jul 2012,Orthodox,FY 2012,30,Ethiopia,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Orthodox,FY 2012,30,Iraq,15,527
+From: 10 Jul 2012,To: 10 Jul 2012,Protestant,FY 2012,6,Eritrea,3,527
+From: 10 Jul 2012,To: 10 Jul 2012,Protestant,FY 2012,6,Ethiopia,1,527
+From: 10 Jul 2012,To: 10 Jul 2012,Protestant,FY 2012,6,Iran,2,527
+From: 10 Jul 2012,To: 10 Jul 2012,Unknown,FY 2012,1,China,1,527
+

@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Aug 2011,To: 31 Aug 2011,Afghanistan,FY 2011,15,Moslem Suni,15,262
+From: 31 Aug 2011,To: 31 Aug 2011,Armenia,FY 2011,10,Evangelical Christian,7,262
+From: 31 Aug 2011,To: 31 Aug 2011,Armenia,FY 2011,10,Pentecostalist,3,262
+From: 31 Aug 2011,To: 31 Aug 2011,Bhutan,FY 2011,107,Buddhist,26,262
+From: 31 Aug 2011,To: 31 Aug 2011,Bhutan,FY 2011,107,Christian,16,262
+From: 31 Aug 2011,To: 31 Aug 2011,Bhutan,FY 2011,107,Hindu,58,262
+From: 31 Aug 2011,To: 31 Aug 2011,Bhutan,FY 2011,107,Kirat,7,262
+From: 31 Aug 2011,To: 31 Aug 2011,Burma,FY 2011,64,Buddhist,16,262
+From: 31 Aug 2011,To: 31 Aug 2011,Burma,FY 2011,64,Christian,37,262
+From: 31 Aug 2011,To: 31 Aug 2011,Burma,FY 2011,64,Moslem,11,262
+From: 31 Aug 2011,To: 31 Aug 2011,Dem. Rep. Congo,FY 2011,12,Catholic,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Dem. Rep. Congo,FY 2011,12,Jehovah Witness,11,262
+From: 31 Aug 2011,To: 31 Aug 2011,Eritrea,FY 2011,19,Christian,6,262
+From: 31 Aug 2011,To: 31 Aug 2011,Eritrea,FY 2011,19,Moslem,5,262
+From: 31 Aug 2011,To: 31 Aug 2011,Eritrea,FY 2011,19,Orthodox,8,262
+From: 31 Aug 2011,To: 31 Aug 2011,Ethiopia,FY 2011,13,Christian,6,262
+From: 31 Aug 2011,To: 31 Aug 2011,Ethiopia,FY 2011,13,Moslem,6,262
+From: 31 Aug 2011,To: 31 Aug 2011,Ethiopia,FY 2011,13,Orthodox,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Iran,FY 2011,2,Zoroastrian,2,262
+From: 31 Aug 2011,To: 31 Aug 2011,Iraq,FY 2011,4,Moslem Suni,4,262
+From: 31 Aug 2011,To: 31 Aug 2011,Ivory Coast,FY 2011,1,Moslem,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Pakistan,FY 2011,4,Other Religion,4,262
+From: 31 Aug 2011,To: 31 Aug 2011,Russia,FY 2011,4,Baptist,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Russia,FY 2011,4,Jewish,3,262
+From: 31 Aug 2011,To: 31 Aug 2011,Rwanda,FY 2011,1,Pentecostalist,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Somalia,FY 2011,1,Moslem,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Sri Lanka (Ceylon),FY 2011,3,Catholic,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Sri Lanka (Ceylon),FY 2011,3,Hindu,2,262
+From: 31 Aug 2011,To: 31 Aug 2011,Syria,FY 2011,1,Atheist,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Thailand,FY 2011,1,Protestant,1,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Aug 2011,To: 31 Aug 2011,Atheist,FY 2011,1,Syria,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Baptist,FY 2011,1,Russia,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Buddhist,FY 2011,42,Bhutan,26,262
+From: 31 Aug 2011,To: 31 Aug 2011,Buddhist,FY 2011,42,Burma,16,262
+From: 31 Aug 2011,To: 31 Aug 2011,Catholic,FY 2011,2,Dem. Rep. Congo,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Catholic,FY 2011,2,Sri Lanka (Ceylon),1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Christian,FY 2011,65,Bhutan,16,262
+From: 31 Aug 2011,To: 31 Aug 2011,Christian,FY 2011,65,Burma,37,262
+From: 31 Aug 2011,To: 31 Aug 2011,Christian,FY 2011,65,Eritrea,6,262
+From: 31 Aug 2011,To: 31 Aug 2011,Christian,FY 2011,65,Ethiopia,6,262
+From: 31 Aug 2011,To: 31 Aug 2011,Evangelical Christian,FY 2011,7,Armenia,7,262
+From: 31 Aug 2011,To: 31 Aug 2011,Hindu,FY 2011,60,Bhutan,58,262
+From: 31 Aug 2011,To: 31 Aug 2011,Hindu,FY 2011,60,Sri Lanka (Ceylon),2,262
+From: 31 Aug 2011,To: 31 Aug 2011,Jehovah Witness,FY 2011,11,Dem. Rep. Congo,11,262
+From: 31 Aug 2011,To: 31 Aug 2011,Jewish,FY 2011,3,Russia,3,262
+From: 31 Aug 2011,To: 31 Aug 2011,Kirat,FY 2011,7,Bhutan,7,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem,FY 2011,24,Burma,11,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem,FY 2011,24,Eritrea,5,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem,FY 2011,24,Ethiopia,6,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem,FY 2011,24,Ivory Coast,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem,FY 2011,24,Somalia,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem Suni,FY 2011,19,Afghanistan,15,262
+From: 31 Aug 2011,To: 31 Aug 2011,Moslem Suni,FY 2011,19,Iraq,4,262
+From: 31 Aug 2011,To: 31 Aug 2011,Orthodox,FY 2011,9,Eritrea,8,262
+From: 31 Aug 2011,To: 31 Aug 2011,Orthodox,FY 2011,9,Ethiopia,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Other Religion,FY 2011,4,Pakistan,4,262
+From: 31 Aug 2011,To: 31 Aug 2011,Pentecostalist,FY 2011,4,Armenia,3,262
+From: 31 Aug 2011,To: 31 Aug 2011,Pentecostalist,FY 2011,4,Rwanda,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Protestant,FY 2011,1,Thailand,1,262
+From: 31 Aug 2011,To: 31 Aug 2011,Zoroastrian,FY 2011,2,Iran,2,262
+

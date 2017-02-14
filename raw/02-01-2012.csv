@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Feb 2012,To: 01 Feb 2012,Bhutan,FY 2012,70,Buddhist,22,352
+From: 01 Feb 2012,To: 01 Feb 2012,Bhutan,FY 2012,70,Christian,5,352
+From: 01 Feb 2012,To: 01 Feb 2012,Bhutan,FY 2012,70,Hindu,43,352
+From: 01 Feb 2012,To: 01 Feb 2012,Burma,FY 2012,79,Baptist,7,352
+From: 01 Feb 2012,To: 01 Feb 2012,Burma,FY 2012,79,Buddhist,24,352
+From: 01 Feb 2012,To: 01 Feb 2012,Burma,FY 2012,79,Christian,39,352
+From: 01 Feb 2012,To: 01 Feb 2012,Burma,FY 2012,79,Moslem,9,352
+From: 01 Feb 2012,To: 01 Feb 2012,China,FY 2012,2,Atheist,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,China,FY 2012,2,Other Religion,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Dem. Rep. Congo,FY 2012,12,Catholic,2,352
+From: 01 Feb 2012,To: 01 Feb 2012,Dem. Rep. Congo,FY 2012,12,Pentecostalist,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Dem. Rep. Congo,FY 2012,12,Protestant,9,352
+From: 01 Feb 2012,To: 01 Feb 2012,Eritrea,FY 2012,39,Catholic,6,352
+From: 01 Feb 2012,To: 01 Feb 2012,Eritrea,FY 2012,39,Moslem,9,352
+From: 01 Feb 2012,To: 01 Feb 2012,Eritrea,FY 2012,39,Orthodox,21,352
+From: 01 Feb 2012,To: 01 Feb 2012,Eritrea,FY 2012,39,Pentecostalist,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Eritrea,FY 2012,39,Protestant,2,352
+From: 01 Feb 2012,To: 01 Feb 2012,Ethiopia,FY 2012,20,Christian,6,352
+From: 01 Feb 2012,To: 01 Feb 2012,Ethiopia,FY 2012,20,Moslem,10,352
+From: 01 Feb 2012,To: 01 Feb 2012,Ethiopia,FY 2012,20,Orthodox,4,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iran,FY 2012,12,Bahai,7,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iran,FY 2012,12,Christian,5,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iraq,FY 2012,35,Catholic,14,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iraq,FY 2012,35,Christian,2,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iraq,FY 2012,35,Moslem,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iraq,FY 2012,35,Moslem Shiite,17,352
+From: 01 Feb 2012,To: 01 Feb 2012,Iraq,FY 2012,35,Moslem Suni,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Pakistan,FY 2012,8,Ahmadiyya,4,352
+From: 01 Feb 2012,To: 01 Feb 2012,Pakistan,FY 2012,8,Christian,4,352
+From: 01 Feb 2012,To: 01 Feb 2012,Rwanda,FY 2012,3,Moslem,3,352
+From: 01 Feb 2012,To: 01 Feb 2012,Somalia,FY 2012,71,Moslem,71,352
+From: 01 Feb 2012,To: 01 Feb 2012,Sri Lanka (Ceylon),FY 2012,1,Hindu,1,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Feb 2012,To: 01 Feb 2012,Ahmadiyya,FY 2012,4,Pakistan,4,352
+From: 01 Feb 2012,To: 01 Feb 2012,Atheist,FY 2012,1,China,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Bahai,FY 2012,7,Iran,7,352
+From: 01 Feb 2012,To: 01 Feb 2012,Baptist,FY 2012,7,Burma,7,352
+From: 01 Feb 2012,To: 01 Feb 2012,Buddhist,FY 2012,46,Bhutan,22,352
+From: 01 Feb 2012,To: 01 Feb 2012,Buddhist,FY 2012,46,Burma,24,352
+From: 01 Feb 2012,To: 01 Feb 2012,Catholic,FY 2012,22,Dem. Rep. Congo,2,352
+From: 01 Feb 2012,To: 01 Feb 2012,Catholic,FY 2012,22,Eritrea,6,352
+From: 01 Feb 2012,To: 01 Feb 2012,Catholic,FY 2012,22,Iraq,14,352
+From: 01 Feb 2012,To: 01 Feb 2012,Christian,FY 2012,61,Bhutan,5,352
+From: 01 Feb 2012,To: 01 Feb 2012,Christian,FY 2012,61,Burma,39,352
+From: 01 Feb 2012,To: 01 Feb 2012,Christian,FY 2012,61,Ethiopia,6,352
+From: 01 Feb 2012,To: 01 Feb 2012,Christian,FY 2012,61,Iran,5,352
+From: 01 Feb 2012,To: 01 Feb 2012,Christian,FY 2012,61,Iraq,2,352
+From: 01 Feb 2012,To: 01 Feb 2012,Christian,FY 2012,61,Pakistan,4,352
+From: 01 Feb 2012,To: 01 Feb 2012,Hindu,FY 2012,44,Bhutan,43,352
+From: 01 Feb 2012,To: 01 Feb 2012,Hindu,FY 2012,44,Sri Lanka (Ceylon),1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem,FY 2012,103,Burma,9,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem,FY 2012,103,Eritrea,9,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem,FY 2012,103,Ethiopia,10,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem,FY 2012,103,Iraq,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem,FY 2012,103,Rwanda,3,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem,FY 2012,103,Somalia,71,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem Shiite,FY 2012,17,Iraq,17,352
+From: 01 Feb 2012,To: 01 Feb 2012,Moslem Suni,FY 2012,1,Iraq,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Orthodox,FY 2012,25,Eritrea,21,352
+From: 01 Feb 2012,To: 01 Feb 2012,Orthodox,FY 2012,25,Ethiopia,4,352
+From: 01 Feb 2012,To: 01 Feb 2012,Other Religion,FY 2012,1,China,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Pentecostalist,FY 2012,2,Dem. Rep. Congo,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Pentecostalist,FY 2012,2,Eritrea,1,352
+From: 01 Feb 2012,To: 01 Feb 2012,Protestant,FY 2012,11,Dem. Rep. Congo,9,352
+From: 01 Feb 2012,To: 01 Feb 2012,Protestant,FY 2012,11,Eritrea,2,352
+

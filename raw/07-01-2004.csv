@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jul 2004,To: 01 Jul 2004,Congo,FY 2004,4,Catholic,4,201
+From: 01 Jul 2004,To: 01 Jul 2004,Ethiopia,FY 2004,1,Orthodox,1,201
+From: 01 Jul 2004,To: 01 Jul 2004,Liberia,FY 2004,6,Christian,6,201
+From: 01 Jul 2004,To: 01 Jul 2004,Somalia,FY 2004,91,Moslem,91,201
+From: 01 Jul 2004,To: 01 Jul 2004,Sudan,FY 2004,67,Catholic,33,201
+From: 01 Jul 2004,To: 01 Jul 2004,Sudan,FY 2004,67,Christian,3,201
+From: 01 Jul 2004,To: 01 Jul 2004,Sudan,FY 2004,67,Evangelical Christian,4,201
+From: 01 Jul 2004,To: 01 Jul 2004,Sudan,FY 2004,67,Moslem,7,201
+From: 01 Jul 2004,To: 01 Jul 2004,Sudan,FY 2004,67,Orthodox,2,201
+From: 01 Jul 2004,To: 01 Jul 2004,Sudan,FY 2004,67,Protestant,18,201
+From: 01 Jul 2004,To: 01 Jul 2004,Ukraine,FY 2004,32,Baptist,4,201
+From: 01 Jul 2004,To: 01 Jul 2004,Ukraine,FY 2004,32,Jewish,2,201
+From: 01 Jul 2004,To: 01 Jul 2004,Ukraine,FY 2004,32,No Religion,1,201
+From: 01 Jul 2004,To: 01 Jul 2004,Ukraine,FY 2004,32,Pentecostalist,25,201
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jul 2004,To: 01 Jul 2004,Baptist,FY 2004,4,Ukraine,4,201
+From: 01 Jul 2004,To: 01 Jul 2004,Catholic,FY 2004,37,Congo,4,201
+From: 01 Jul 2004,To: 01 Jul 2004,Catholic,FY 2004,37,Sudan,33,201
+From: 01 Jul 2004,To: 01 Jul 2004,Christian,FY 2004,9,Liberia,6,201
+From: 01 Jul 2004,To: 01 Jul 2004,Christian,FY 2004,9,Sudan,3,201
+From: 01 Jul 2004,To: 01 Jul 2004,Evangelical Christian,FY 2004,4,Sudan,4,201
+From: 01 Jul 2004,To: 01 Jul 2004,Jewish,FY 2004,2,Ukraine,2,201
+From: 01 Jul 2004,To: 01 Jul 2004,Moslem,FY 2004,98,Somalia,91,201
+From: 01 Jul 2004,To: 01 Jul 2004,Moslem,FY 2004,98,Sudan,7,201
+From: 01 Jul 2004,To: 01 Jul 2004,No Religion,FY 2004,1,Ukraine,1,201
+From: 01 Jul 2004,To: 01 Jul 2004,Orthodox,FY 2004,3,Ethiopia,1,201
+From: 01 Jul 2004,To: 01 Jul 2004,Orthodox,FY 2004,3,Sudan,2,201
+From: 01 Jul 2004,To: 01 Jul 2004,Pentecostalist,FY 2004,25,Ukraine,25,201
+From: 01 Jul 2004,To: 01 Jul 2004,Protestant,FY 2004,18,Sudan,18,201
+

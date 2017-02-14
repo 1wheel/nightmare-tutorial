@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2005,To: 19 Apr 2005,Afghanistan,FY 2005,1,Moslem,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Baptist,5,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Catholic,31,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Christian,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Evangelical Christian,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Jehovah Witness,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,No Religion,21,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Orthodox,4,216
+From: 19 Apr 2005,To: 19 Apr 2005,Cuba,FY 2005,69,Pentecostalist,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ethiopia,FY 2005,18,Christian,9,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ethiopia,FY 2005,18,Moslem,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ethiopia,FY 2005,18,Orthodox,7,216
+From: 19 Apr 2005,To: 19 Apr 2005,Iran,FY 2005,21,Bahai,5,216
+From: 19 Apr 2005,To: 19 Apr 2005,Iran,FY 2005,21,Christian,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Iran,FY 2005,21,Jewish,7,216
+From: 19 Apr 2005,To: 19 Apr 2005,Iran,FY 2005,21,Sabeans-Mandean,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Iran,FY 2005,21,Zoroastrian,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Laos,FY 2005,26,Ancestral Worship,18,216
+From: 19 Apr 2005,To: 19 Apr 2005,Laos,FY 2005,26,Christian,8,216
+From: 19 Apr 2005,To: 19 Apr 2005,Liberia,FY 2005,11,Christian,8,216
+From: 19 Apr 2005,To: 19 Apr 2005,Liberia,FY 2005,11,Lutheran,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Liberia,FY 2005,11,Moslem,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Somalia,FY 2005,32,Moslem,32,216
+From: 19 Apr 2005,To: 19 Apr 2005,Sudan,FY 2005,8,Christian,8,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ukraine,FY 2005,30,Baptist,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ukraine,FY 2005,30,Evangelical Christian,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ukraine,FY 2005,30,No Religion,4,216
+From: 19 Apr 2005,To: 19 Apr 2005,Ukraine,FY 2005,30,Pentecostalist,24,216
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2005,To: 19 Apr 2005,Ancestral Worship,FY 2005,18,Laos,18,216
+From: 19 Apr 2005,To: 19 Apr 2005,Bahai,FY 2005,5,Iran,5,216
+From: 19 Apr 2005,To: 19 Apr 2005,Baptist,FY 2005,6,Cuba,5,216
+From: 19 Apr 2005,To: 19 Apr 2005,Baptist,FY 2005,6,Ukraine,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Catholic,FY 2005,31,Cuba,31,216
+From: 19 Apr 2005,To: 19 Apr 2005,Christian,FY 2005,38,Cuba,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Christian,FY 2005,38,Ethiopia,9,216
+From: 19 Apr 2005,To: 19 Apr 2005,Christian,FY 2005,38,Iran,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Christian,FY 2005,38,Laos,8,216
+From: 19 Apr 2005,To: 19 Apr 2005,Christian,FY 2005,38,Liberia,8,216
+From: 19 Apr 2005,To: 19 Apr 2005,Christian,FY 2005,38,Sudan,8,216
+From: 19 Apr 2005,To: 19 Apr 2005,Evangelical Christian,FY 2005,2,Cuba,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Evangelical Christian,FY 2005,2,Ukraine,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Jehovah Witness,FY 2005,2,Cuba,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Jewish,FY 2005,7,Iran,7,216
+From: 19 Apr 2005,To: 19 Apr 2005,Lutheran,FY 2005,1,Liberia,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Moslem,FY 2005,37,Afghanistan,1,216
+From: 19 Apr 2005,To: 19 Apr 2005,Moslem,FY 2005,37,Ethiopia,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Moslem,FY 2005,37,Liberia,2,216
+From: 19 Apr 2005,To: 19 Apr 2005,Moslem,FY 2005,37,Somalia,32,216
+From: 19 Apr 2005,To: 19 Apr 2005,No Religion,FY 2005,25,Cuba,21,216
+From: 19 Apr 2005,To: 19 Apr 2005,No Religion,FY 2005,25,Ukraine,4,216
+From: 19 Apr 2005,To: 19 Apr 2005,Orthodox,FY 2005,11,Cuba,4,216
+From: 19 Apr 2005,To: 19 Apr 2005,Orthodox,FY 2005,11,Ethiopia,7,216
+From: 19 Apr 2005,To: 19 Apr 2005,Pentecostalist,FY 2005,27,Cuba,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Pentecostalist,FY 2005,27,Ukraine,24,216
+From: 19 Apr 2005,To: 19 Apr 2005,Sabeans-Mandean,FY 2005,3,Iran,3,216
+From: 19 Apr 2005,To: 19 Apr 2005,Zoroastrian,FY 2005,3,Iran,3,216
+

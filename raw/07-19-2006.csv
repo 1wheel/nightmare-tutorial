@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Jul 2006,To: 19 Jul 2006,Afghanistan,FY 2006,9,Moslem,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Afghanistan,FY 2006,9,Moslem Shiite,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Afghanistan,FY 2006,9,Moslem Suni,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Colombia,FY 2006,6,Catholic,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Colombia,FY 2006,6,Christian,2,179
+From: 19 Jul 2006,To: 19 Jul 2006,Dem. Rep. Congo,FY 2006,6,Christian,6,179
+From: 19 Jul 2006,To: 19 Jul 2006,Ethiopia,FY 2006,10,Moslem,5,179
+From: 19 Jul 2006,To: 19 Jul 2006,Ethiopia,FY 2006,10,Orthodox,2,179
+From: 19 Jul 2006,To: 19 Jul 2006,Ethiopia,FY 2006,10,Pentecostalist,3,179
+From: 19 Jul 2006,To: 19 Jul 2006,Iran,FY 2006,41,Catholic,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Iran,FY 2006,41,Christian,35,179
+From: 19 Jul 2006,To: 19 Jul 2006,Iran,FY 2006,41,Sabeans-Mandean,5,179
+From: 19 Jul 2006,To: 19 Jul 2006,Laos,FY 2006,11,Ancestral Worship,11,179
+From: 19 Jul 2006,To: 19 Jul 2006,Russia,FY 2006,21,Moslem,21,179
+From: 19 Jul 2006,To: 19 Jul 2006,Rwanda,FY 2006,5,Catholic,5,179
+From: 19 Jul 2006,To: 19 Jul 2006,Somalia,FY 2006,40,Moslem,40,179
+From: 19 Jul 2006,To: 19 Jul 2006,Sudan,FY 2006,19,Catholic,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Sudan,FY 2006,19,Moslem,13,179
+From: 19 Jul 2006,To: 19 Jul 2006,Sudan,FY 2006,19,Protestant,2,179
+From: 19 Jul 2006,To: 19 Jul 2006,Turkmenistan,FY 2006,1,No Religion,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Uzbekistan,FY 2006,10,Baptist,6,179
+From: 19 Jul 2006,To: 19 Jul 2006,Uzbekistan,FY 2006,10,Evangelical Christian,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Uzbekistan,FY 2006,10,Jewish,3,179
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Jul 2006,To: 19 Jul 2006,Ancestral Worship,FY 2006,11,Laos,11,179
+From: 19 Jul 2006,To: 19 Jul 2006,Baptist,FY 2006,6,Uzbekistan,6,179
+From: 19 Jul 2006,To: 19 Jul 2006,Catholic,FY 2006,14,Colombia,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Catholic,FY 2006,14,Iran,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Catholic,FY 2006,14,Rwanda,5,179
+From: 19 Jul 2006,To: 19 Jul 2006,Catholic,FY 2006,14,Sudan,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Christian,FY 2006,43,Colombia,2,179
+From: 19 Jul 2006,To: 19 Jul 2006,Christian,FY 2006,43,Dem. Rep. Congo,6,179
+From: 19 Jul 2006,To: 19 Jul 2006,Christian,FY 2006,43,Iran,35,179
+From: 19 Jul 2006,To: 19 Jul 2006,Evangelical Christian,FY 2006,1,Uzbekistan,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Jewish,FY 2006,3,Uzbekistan,3,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem,FY 2006,83,Afghanistan,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem,FY 2006,83,Ethiopia,5,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem,FY 2006,83,Russia,21,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem,FY 2006,83,Somalia,40,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem,FY 2006,83,Sudan,13,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem Shiite,FY 2006,1,Afghanistan,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Moslem Suni,FY 2006,4,Afghanistan,4,179
+From: 19 Jul 2006,To: 19 Jul 2006,No Religion,FY 2006,1,Turkmenistan,1,179
+From: 19 Jul 2006,To: 19 Jul 2006,Orthodox,FY 2006,2,Ethiopia,2,179
+From: 19 Jul 2006,To: 19 Jul 2006,Pentecostalist,FY 2006,3,Ethiopia,3,179
+From: 19 Jul 2006,To: 19 Jul 2006,Protestant,FY 2006,2,Sudan,2,179
+From: 19 Jul 2006,To: 19 Jul 2006,Sabeans-Mandean,FY 2006,5,Iran,5,179
+

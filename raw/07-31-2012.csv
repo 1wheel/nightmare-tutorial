@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jul 2012,To: 31 Jul 2012,Bhutan,FY 2012,143,Buddhist,57,423
+From: 31 Jul 2012,To: 31 Jul 2012,Bhutan,FY 2012,143,Christian,14,423
+From: 31 Jul 2012,To: 31 Jul 2012,Bhutan,FY 2012,143,Hindu,58,423
+From: 31 Jul 2012,To: 31 Jul 2012,Bhutan,FY 2012,143,Kirat,14,423
+From: 31 Jul 2012,To: 31 Jul 2012,Burma,FY 2012,75,Buddhist,18,423
+From: 31 Jul 2012,To: 31 Jul 2012,Burma,FY 2012,75,Catholic,3,423
+From: 31 Jul 2012,To: 31 Jul 2012,Burma,FY 2012,75,Christian,41,423
+From: 31 Jul 2012,To: 31 Jul 2012,Burma,FY 2012,75,Moslem,11,423
+From: 31 Jul 2012,To: 31 Jul 2012,Burma,FY 2012,75,Unknown,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Cuba,FY 2012,36,Catholic,19,423
+From: 31 Jul 2012,To: 31 Jul 2012,Cuba,FY 2012,36,Jehovah Witness,7,423
+From: 31 Jul 2012,To: 31 Jul 2012,Cuba,FY 2012,36,Methodist,4,423
+From: 31 Jul 2012,To: 31 Jul 2012,Cuba,FY 2012,36,No Religion,3,423
+From: 31 Jul 2012,To: 31 Jul 2012,Cuba,FY 2012,36,Seventh Day Adventist,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Cuba,FY 2012,36,Unknown,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Eritrea,FY 2012,1,Moslem,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iran,FY 2012,2,Bahai,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iraq,FY 2012,144,Catholic,5,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iraq,FY 2012,144,Christian,37,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iraq,FY 2012,144,Moslem,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iraq,FY 2012,144,Moslem Shiite,49,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iraq,FY 2012,144,Moslem Suni,38,423
+From: 31 Jul 2012,To: 31 Jul 2012,Iraq,FY 2012,144,Orthodox,14,423
+From: 31 Jul 2012,To: 31 Jul 2012,Kyrgyzstan,FY 2012,4,Christian,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Kyrgyzstan,FY 2012,4,Evangelical Christian,3,423
+From: 31 Jul 2012,To: 31 Jul 2012,Pakistan,FY 2012,10,Christian,10,423
+From: 31 Jul 2012,To: 31 Jul 2012,Uzbekistan,FY 2012,8,Moslem,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Uzbekistan,FY 2012,8,Moslem Suni,6,423
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jul 2012,To: 31 Jul 2012,Bahai,FY 2012,2,Iran,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Buddhist,FY 2012,75,Bhutan,57,423
+From: 31 Jul 2012,To: 31 Jul 2012,Buddhist,FY 2012,75,Burma,18,423
+From: 31 Jul 2012,To: 31 Jul 2012,Catholic,FY 2012,27,Burma,3,423
+From: 31 Jul 2012,To: 31 Jul 2012,Catholic,FY 2012,27,Cuba,19,423
+From: 31 Jul 2012,To: 31 Jul 2012,Catholic,FY 2012,27,Iraq,5,423
+From: 31 Jul 2012,To: 31 Jul 2012,Christian,FY 2012,103,Bhutan,14,423
+From: 31 Jul 2012,To: 31 Jul 2012,Christian,FY 2012,103,Burma,41,423
+From: 31 Jul 2012,To: 31 Jul 2012,Christian,FY 2012,103,Iraq,37,423
+From: 31 Jul 2012,To: 31 Jul 2012,Christian,FY 2012,103,Kyrgyzstan,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Christian,FY 2012,103,Pakistan,10,423
+From: 31 Jul 2012,To: 31 Jul 2012,Evangelical Christian,FY 2012,3,Kyrgyzstan,3,423
+From: 31 Jul 2012,To: 31 Jul 2012,Hindu,FY 2012,58,Bhutan,58,423
+From: 31 Jul 2012,To: 31 Jul 2012,Jehovah Witness,FY 2012,7,Cuba,7,423
+From: 31 Jul 2012,To: 31 Jul 2012,Kirat,FY 2012,14,Bhutan,14,423
+From: 31 Jul 2012,To: 31 Jul 2012,Methodist,FY 2012,4,Cuba,4,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem,FY 2012,15,Burma,11,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem,FY 2012,15,Eritrea,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem,FY 2012,15,Iraq,1,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem,FY 2012,15,Uzbekistan,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem Shiite,FY 2012,49,Iraq,49,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem Suni,FY 2012,44,Iraq,38,423
+From: 31 Jul 2012,To: 31 Jul 2012,Moslem Suni,FY 2012,44,Uzbekistan,6,423
+From: 31 Jul 2012,To: 31 Jul 2012,No Religion,FY 2012,3,Cuba,3,423
+From: 31 Jul 2012,To: 31 Jul 2012,Orthodox,FY 2012,14,Iraq,14,423
+From: 31 Jul 2012,To: 31 Jul 2012,Seventh Day Adventist,FY 2012,2,Cuba,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Unknown,FY 2012,3,Burma,2,423
+From: 31 Jul 2012,To: 31 Jul 2012,Unknown,FY 2012,3,Cuba,1,423
+

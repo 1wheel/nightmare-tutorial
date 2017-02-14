@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Aug 2011,To: 30 Aug 2011,Bhutan,FY 2011,137,Buddhist,32,334
+From: 30 Aug 2011,To: 30 Aug 2011,Bhutan,FY 2011,137,Christian,17,334
+From: 30 Aug 2011,To: 30 Aug 2011,Bhutan,FY 2011,137,Hindu,83,334
+From: 30 Aug 2011,To: 30 Aug 2011,Bhutan,FY 2011,137,Kirat,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Burma,FY 2011,74,Baptist,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Burma,FY 2011,74,Buddhist,11,334
+From: 30 Aug 2011,To: 30 Aug 2011,Burma,FY 2011,74,Catholic,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Burma,FY 2011,74,Christian,52,334
+From: 30 Aug 2011,To: 30 Aug 2011,Burma,FY 2011,74,Moslem,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Cuba,FY 2011,41,Catholic,10,334
+From: 30 Aug 2011,To: 30 Aug 2011,Cuba,FY 2011,41,Evangelical Christian,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Cuba,FY 2011,41,Jehovah Witness,3,334
+From: 30 Aug 2011,To: 30 Aug 2011,Cuba,FY 2011,41,No Religion,23,334
+From: 30 Aug 2011,To: 30 Aug 2011,Egypt,FY 2011,1,Coptic,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Eritrea,FY 2011,6,Christian,4,334
+From: 30 Aug 2011,To: 30 Aug 2011,Eritrea,FY 2011,6,Orthodox,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Eritrea,FY 2011,6,Protestant,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Ethiopia,FY 2011,14,Christian,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Ethiopia,FY 2011,14,Moslem,9,334
+From: 30 Aug 2011,To: 30 Aug 2011,Ethiopia,FY 2011,14,Protestant,4,334
+From: 30 Aug 2011,To: 30 Aug 2011,Liberia,FY 2011,19,Baptist,2,334
+From: 30 Aug 2011,To: 30 Aug 2011,Liberia,FY 2011,19,Christian,9,334
+From: 30 Aug 2011,To: 30 Aug 2011,Liberia,FY 2011,19,Moslem,8,334
+From: 30 Aug 2011,To: 30 Aug 2011,Somalia,FY 2011,42,Moslem,41,334
+From: 30 Aug 2011,To: 30 Aug 2011,Somalia,FY 2011,42,Moslem Suni,1,334
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Aug 2011,To: 30 Aug 2011,Baptist,FY 2011,7,Burma,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Baptist,FY 2011,7,Liberia,2,334
+From: 30 Aug 2011,To: 30 Aug 2011,Buddhist,FY 2011,43,Bhutan,32,334
+From: 30 Aug 2011,To: 30 Aug 2011,Buddhist,FY 2011,43,Burma,11,334
+From: 30 Aug 2011,To: 30 Aug 2011,Catholic,FY 2011,11,Burma,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Catholic,FY 2011,11,Cuba,10,334
+From: 30 Aug 2011,To: 30 Aug 2011,Christian,FY 2011,83,Bhutan,17,334
+From: 30 Aug 2011,To: 30 Aug 2011,Christian,FY 2011,83,Burma,52,334
+From: 30 Aug 2011,To: 30 Aug 2011,Christian,FY 2011,83,Eritrea,4,334
+From: 30 Aug 2011,To: 30 Aug 2011,Christian,FY 2011,83,Ethiopia,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Christian,FY 2011,83,Liberia,9,334
+From: 30 Aug 2011,To: 30 Aug 2011,Coptic,FY 2011,1,Egypt,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Evangelical Christian,FY 2011,5,Cuba,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Hindu,FY 2011,83,Bhutan,83,334
+From: 30 Aug 2011,To: 30 Aug 2011,Jehovah Witness,FY 2011,3,Cuba,3,334
+From: 30 Aug 2011,To: 30 Aug 2011,Kirat,FY 2011,5,Bhutan,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Moslem,FY 2011,63,Burma,5,334
+From: 30 Aug 2011,To: 30 Aug 2011,Moslem,FY 2011,63,Ethiopia,9,334
+From: 30 Aug 2011,To: 30 Aug 2011,Moslem,FY 2011,63,Liberia,8,334
+From: 30 Aug 2011,To: 30 Aug 2011,Moslem,FY 2011,63,Somalia,41,334
+From: 30 Aug 2011,To: 30 Aug 2011,Moslem Suni,FY 2011,1,Somalia,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,No Religion,FY 2011,23,Cuba,23,334
+From: 30 Aug 2011,To: 30 Aug 2011,Orthodox,FY 2011,1,Eritrea,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Protestant,FY 2011,5,Eritrea,1,334
+From: 30 Aug 2011,To: 30 Aug 2011,Protestant,FY 2011,5,Ethiopia,4,334
+

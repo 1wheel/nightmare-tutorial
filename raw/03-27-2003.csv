@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Mar 2003,To: 27 Mar 2003,Afghanistan,FY 2003,3,Moslem Suni,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Bosnia and Herzegovina,FY 2003,1,Moslem,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Estonia,FY 2003,4,Baptist,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Estonia,FY 2003,4,Jewish,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Georgia,FY 2003,1,Baptist,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Kazakhstan,FY 2003,15,Baptist,15,154
+From: 27 Mar 2003,To: 27 Mar 2003,Latvia,FY 2003,3,Baptist,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Liberia,FY 2003,20,Catholic,10,154
+From: 27 Mar 2003,To: 27 Mar 2003,Liberia,FY 2003,20,Christian,6,154
+From: 27 Mar 2003,To: 27 Mar 2003,Liberia,FY 2003,20,Pentecostalist,4,154
+From: 27 Mar 2003,To: 27 Mar 2003,Russia,FY 2003,25,Baptist,11,154
+From: 27 Mar 2003,To: 27 Mar 2003,Russia,FY 2003,25,Jewish,5,154
+From: 27 Mar 2003,To: 27 Mar 2003,Russia,FY 2003,25,Pentecostalist,5,154
+From: 27 Mar 2003,To: 27 Mar 2003,Russia,FY 2003,25,Unknown,4,154
+From: 27 Mar 2003,To: 27 Mar 2003,Serbia,FY 2003,34,Orthodox,34,154
+From: 27 Mar 2003,To: 27 Mar 2003,Somalia,FY 2003,1,Moslem,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Ukraine,FY 2003,3,Pentecostalist,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Uzbekistan,FY 2003,16,Baptist,4,154
+From: 27 Mar 2003,To: 27 Mar 2003,Uzbekistan,FY 2003,16,Jewish,12,154
+From: 27 Mar 2003,To: 27 Mar 2003,Vietnam,FY 2003,28,Unknown,28,154
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Mar 2003,To: 27 Mar 2003,Baptist,FY 2003,37,Estonia,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Baptist,FY 2003,37,Georgia,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Baptist,FY 2003,37,Kazakhstan,15,154
+From: 27 Mar 2003,To: 27 Mar 2003,Baptist,FY 2003,37,Latvia,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Baptist,FY 2003,37,Russia,11,154
+From: 27 Mar 2003,To: 27 Mar 2003,Baptist,FY 2003,37,Uzbekistan,4,154
+From: 27 Mar 2003,To: 27 Mar 2003,Catholic,FY 2003,10,Liberia,10,154
+From: 27 Mar 2003,To: 27 Mar 2003,Christian,FY 2003,6,Liberia,6,154
+From: 27 Mar 2003,To: 27 Mar 2003,Jewish,FY 2003,18,Estonia,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Jewish,FY 2003,18,Russia,5,154
+From: 27 Mar 2003,To: 27 Mar 2003,Jewish,FY 2003,18,Uzbekistan,12,154
+From: 27 Mar 2003,To: 27 Mar 2003,Moslem,FY 2003,2,Bosnia and Herzegovina,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Moslem,FY 2003,2,Somalia,1,154
+From: 27 Mar 2003,To: 27 Mar 2003,Moslem Suni,FY 2003,3,Afghanistan,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Orthodox,FY 2003,34,Serbia,34,154
+From: 27 Mar 2003,To: 27 Mar 2003,Pentecostalist,FY 2003,12,Liberia,4,154
+From: 27 Mar 2003,To: 27 Mar 2003,Pentecostalist,FY 2003,12,Russia,5,154
+From: 27 Mar 2003,To: 27 Mar 2003,Pentecostalist,FY 2003,12,Ukraine,3,154
+From: 27 Mar 2003,To: 27 Mar 2003,Unknown,FY 2003,32,Russia,4,154
+From: 27 Mar 2003,To: 27 Mar 2003,Unknown,FY 2003,32,Vietnam,28,154
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jun 2009,To: 15 Jun 2009,Bhutan,FY 2009,70,Buddhist,5,385
+From: 15 Jun 2009,To: 15 Jun 2009,Bhutan,FY 2009,70,Christian,11,385
+From: 15 Jun 2009,To: 15 Jun 2009,Bhutan,FY 2009,70,Hindu,53,385
+From: 15 Jun 2009,To: 15 Jun 2009,Bhutan,FY 2009,70,Kirat,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Burma,FY 2009,140,Animist,19,385
+From: 15 Jun 2009,To: 15 Jun 2009,Burma,FY 2009,140,Buddhist,12,385
+From: 15 Jun 2009,To: 15 Jun 2009,Burma,FY 2009,140,Catholic,24,385
+From: 15 Jun 2009,To: 15 Jun 2009,Burma,FY 2009,140,Christian,73,385
+From: 15 Jun 2009,To: 15 Jun 2009,Burma,FY 2009,140,Moslem,11,385
+From: 15 Jun 2009,To: 15 Jun 2009,Burma,FY 2009,140,Protestant,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Eritrea,FY 2009,1,Orthodox,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Catholic,8,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Christian,52,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Evangelical Christian,4,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Moslem Shiite,32,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Moslem Suni,37,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Orthodox,2,385
+From: 15 Jun 2009,To: 15 Jun 2009,Iraq,FY 2009,143,Sabeans-Mandean,8,385
+From: 15 Jun 2009,To: 15 Jun 2009,"Korea, North",FY 2009,1,Atheist,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Liberia,FY 2009,2,Christian,2,385
+From: 15 Jun 2009,To: 15 Jun 2009,Somalia,FY 2009,9,Moslem,2,385
+From: 15 Jun 2009,To: 15 Jun 2009,Somalia,FY 2009,9,Moslem Suni,7,385
+From: 15 Jun 2009,To: 15 Jun 2009,Sudan,FY 2009,19,Moslem,4,385
+From: 15 Jun 2009,To: 15 Jun 2009,Sudan,FY 2009,19,Moslem Suni,15,385
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jun 2009,To: 15 Jun 2009,Animist,FY 2009,19,Burma,19,385
+From: 15 Jun 2009,To: 15 Jun 2009,Atheist,FY 2009,1,"Korea, North",1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Buddhist,FY 2009,17,Bhutan,5,385
+From: 15 Jun 2009,To: 15 Jun 2009,Buddhist,FY 2009,17,Burma,12,385
+From: 15 Jun 2009,To: 15 Jun 2009,Catholic,FY 2009,32,Burma,24,385
+From: 15 Jun 2009,To: 15 Jun 2009,Catholic,FY 2009,32,Iraq,8,385
+From: 15 Jun 2009,To: 15 Jun 2009,Christian,FY 2009,138,Bhutan,11,385
+From: 15 Jun 2009,To: 15 Jun 2009,Christian,FY 2009,138,Burma,73,385
+From: 15 Jun 2009,To: 15 Jun 2009,Christian,FY 2009,138,Iraq,52,385
+From: 15 Jun 2009,To: 15 Jun 2009,Christian,FY 2009,138,Liberia,2,385
+From: 15 Jun 2009,To: 15 Jun 2009,Evangelical Christian,FY 2009,4,Iraq,4,385
+From: 15 Jun 2009,To: 15 Jun 2009,Hindu,FY 2009,53,Bhutan,53,385
+From: 15 Jun 2009,To: 15 Jun 2009,Kirat,FY 2009,1,Bhutan,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem,FY 2009,17,Burma,11,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem,FY 2009,17,Somalia,2,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem,FY 2009,17,Sudan,4,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem Shiite,FY 2009,32,Iraq,32,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem Suni,FY 2009,59,Iraq,37,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem Suni,FY 2009,59,Somalia,7,385
+From: 15 Jun 2009,To: 15 Jun 2009,Moslem Suni,FY 2009,59,Sudan,15,385
+From: 15 Jun 2009,To: 15 Jun 2009,Orthodox,FY 2009,3,Eritrea,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Orthodox,FY 2009,3,Iraq,2,385
+From: 15 Jun 2009,To: 15 Jun 2009,Protestant,FY 2009,1,Burma,1,385
+From: 15 Jun 2009,To: 15 Jun 2009,Sabeans-Mandean,FY 2009,8,Iraq,8,385
+

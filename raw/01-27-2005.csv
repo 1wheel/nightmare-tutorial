@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jan 2005,To: 27 Jan 2005,Azerbaijan,FY 2005,16,Unknown,16,232
+From: 27 Jan 2005,To: 27 Jan 2005,Burma,FY 2005,35,Buddhist,12,232
+From: 27 Jan 2005,To: 27 Jan 2005,Burma,FY 2005,35,Protestant,23,232
+From: 27 Jan 2005,To: 27 Jan 2005,Burundi,FY 2005,23,Catholic,15,232
+From: 27 Jan 2005,To: 27 Jan 2005,Burundi,FY 2005,23,Christian,7,232
+From: 27 Jan 2005,To: 27 Jan 2005,Burundi,FY 2005,23,Seventh Day Adventist,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,Baptist,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,Catholic,38,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,Evangelical Christian,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,Jehovah Witness,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,Methodist,4,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,No Religion,13,232
+From: 27 Jan 2005,To: 27 Jan 2005,Cuba,FY 2005,67,Seventh Day Adventist,6,232
+From: 27 Jan 2005,To: 27 Jan 2005,Dem. Rep. Congo,FY 2005,2,Christian,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Ethiopia,FY 2005,21,Christian,7,232
+From: 27 Jan 2005,To: 27 Jan 2005,Ethiopia,FY 2005,21,Moslem,4,232
+From: 27 Jan 2005,To: 27 Jan 2005,Ethiopia,FY 2005,21,Orthodox,10,232
+From: 27 Jan 2005,To: 27 Jan 2005,Israel,FY 2005,1,Jewish,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Russia,FY 2005,6,Baptist,3,232
+From: 27 Jan 2005,To: 27 Jan 2005,Russia,FY 2005,6,Jewish,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Russia,FY 2005,6,Russian Orthodox,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Rwanda,FY 2005,1,Christian,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Sierra Leone,FY 2005,13,Christian,5,232
+From: 27 Jan 2005,To: 27 Jan 2005,Sierra Leone,FY 2005,13,Moslem,8,232
+From: 27 Jan 2005,To: 27 Jan 2005,Somalia,FY 2005,34,Moslem,34,232
+From: 27 Jan 2005,To: 27 Jan 2005,Sudan,FY 2005,1,Christian,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Vietnam,FY 2005,12,No Religion,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Vietnam,FY 2005,12,Protestant,4,232
+From: 27 Jan 2005,To: 27 Jan 2005,Vietnam,FY 2005,12,Unknown,6,232
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jan 2005,To: 27 Jan 2005,Baptist,FY 2005,5,Cuba,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Baptist,FY 2005,5,Russia,3,232
+From: 27 Jan 2005,To: 27 Jan 2005,Buddhist,FY 2005,12,Burma,12,232
+From: 27 Jan 2005,To: 27 Jan 2005,Catholic,FY 2005,53,Burundi,15,232
+From: 27 Jan 2005,To: 27 Jan 2005,Catholic,FY 2005,53,Cuba,38,232
+From: 27 Jan 2005,To: 27 Jan 2005,Christian,FY 2005,23,Burundi,7,232
+From: 27 Jan 2005,To: 27 Jan 2005,Christian,FY 2005,23,Dem. Rep. Congo,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Christian,FY 2005,23,Ethiopia,7,232
+From: 27 Jan 2005,To: 27 Jan 2005,Christian,FY 2005,23,Rwanda,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Christian,FY 2005,23,Sierra Leone,5,232
+From: 27 Jan 2005,To: 27 Jan 2005,Christian,FY 2005,23,Sudan,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Evangelical Christian,FY 2005,2,Cuba,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Jehovah Witness,FY 2005,2,Cuba,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Jewish,FY 2005,3,Israel,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Jewish,FY 2005,3,Russia,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Methodist,FY 2005,4,Cuba,4,232
+From: 27 Jan 2005,To: 27 Jan 2005,Moslem,FY 2005,46,Ethiopia,4,232
+From: 27 Jan 2005,To: 27 Jan 2005,Moslem,FY 2005,46,Sierra Leone,8,232
+From: 27 Jan 2005,To: 27 Jan 2005,Moslem,FY 2005,46,Somalia,34,232
+From: 27 Jan 2005,To: 27 Jan 2005,No Religion,FY 2005,15,Cuba,13,232
+From: 27 Jan 2005,To: 27 Jan 2005,No Religion,FY 2005,15,Vietnam,2,232
+From: 27 Jan 2005,To: 27 Jan 2005,Orthodox,FY 2005,10,Ethiopia,10,232
+From: 27 Jan 2005,To: 27 Jan 2005,Protestant,FY 2005,27,Burma,23,232
+From: 27 Jan 2005,To: 27 Jan 2005,Protestant,FY 2005,27,Vietnam,4,232
+From: 27 Jan 2005,To: 27 Jan 2005,Russian Orthodox,FY 2005,1,Russia,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Seventh Day Adventist,FY 2005,7,Burundi,1,232
+From: 27 Jan 2005,To: 27 Jan 2005,Seventh Day Adventist,FY 2005,7,Cuba,6,232
+From: 27 Jan 2005,To: 27 Jan 2005,Unknown,FY 2005,22,Azerbaijan,16,232
+From: 27 Jan 2005,To: 27 Jan 2005,Unknown,FY 2005,22,Vietnam,6,232
+

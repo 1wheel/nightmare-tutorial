@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Mar 2007,To: 29 Mar 2007,Dem. Rep. Congo,FY 2007,27,Pentecostalist,14,122
+From: 29 Mar 2007,To: 29 Mar 2007,Dem. Rep. Congo,FY 2007,27,Protestant,13,122
+From: 29 Mar 2007,To: 29 Mar 2007,Eritrea,FY 2007,5,Moslem,1,122
+From: 29 Mar 2007,To: 29 Mar 2007,Eritrea,FY 2007,5,Orthodox,4,122
+From: 29 Mar 2007,To: 29 Mar 2007,Ethiopia,FY 2007,24,Christian,5,122
+From: 29 Mar 2007,To: 29 Mar 2007,Ethiopia,FY 2007,24,Moslem,9,122
+From: 29 Mar 2007,To: 29 Mar 2007,Ethiopia,FY 2007,24,Orthodox,7,122
+From: 29 Mar 2007,To: 29 Mar 2007,Ethiopia,FY 2007,24,Protestant,1,122
+From: 29 Mar 2007,To: 29 Mar 2007,Ethiopia,FY 2007,24,Unknown,2,122
+From: 29 Mar 2007,To: 29 Mar 2007,Somalia,FY 2007,33,Moslem,33,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,Ancestral Worship,2,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,Buddhist,5,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,Catholic,1,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,Christian,6,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,No Religion,5,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,Protestant,13,122
+From: 29 Mar 2007,To: 29 Mar 2007,Vietnam,FY 2007,33,Unknown,1,122
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Mar 2007,To: 29 Mar 2007,Ancestral Worship,FY 2007,2,Vietnam,2,122
+From: 29 Mar 2007,To: 29 Mar 2007,Buddhist,FY 2007,5,Vietnam,5,122
+From: 29 Mar 2007,To: 29 Mar 2007,Catholic,FY 2007,1,Vietnam,1,122
+From: 29 Mar 2007,To: 29 Mar 2007,Christian,FY 2007,11,Ethiopia,5,122
+From: 29 Mar 2007,To: 29 Mar 2007,Christian,FY 2007,11,Vietnam,6,122
+From: 29 Mar 2007,To: 29 Mar 2007,Moslem,FY 2007,43,Eritrea,1,122
+From: 29 Mar 2007,To: 29 Mar 2007,Moslem,FY 2007,43,Ethiopia,9,122
+From: 29 Mar 2007,To: 29 Mar 2007,Moslem,FY 2007,43,Somalia,33,122
+From: 29 Mar 2007,To: 29 Mar 2007,No Religion,FY 2007,5,Vietnam,5,122
+From: 29 Mar 2007,To: 29 Mar 2007,Orthodox,FY 2007,11,Eritrea,4,122
+From: 29 Mar 2007,To: 29 Mar 2007,Orthodox,FY 2007,11,Ethiopia,7,122
+From: 29 Mar 2007,To: 29 Mar 2007,Pentecostalist,FY 2007,14,Dem. Rep. Congo,14,122
+From: 29 Mar 2007,To: 29 Mar 2007,Protestant,FY 2007,27,Dem. Rep. Congo,13,122
+From: 29 Mar 2007,To: 29 Mar 2007,Protestant,FY 2007,27,Ethiopia,1,122
+From: 29 Mar 2007,To: 29 Mar 2007,Protestant,FY 2007,27,Vietnam,13,122
+From: 29 Mar 2007,To: 29 Mar 2007,Unknown,FY 2007,3,Ethiopia,2,122
+From: 29 Mar 2007,To: 29 Mar 2007,Unknown,FY 2007,3,Vietnam,1,122
+

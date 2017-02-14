@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2011,To: 28 Jun 2011,Belarus,FY 2011,3,Pentecostalist,3,253
+From: 28 Jun 2011,To: 28 Jun 2011,Bhutan,FY 2011,63,Buddhist,19,253
+From: 28 Jun 2011,To: 28 Jun 2011,Bhutan,FY 2011,63,Christian,9,253
+From: 28 Jun 2011,To: 28 Jun 2011,Bhutan,FY 2011,63,Hindu,32,253
+From: 28 Jun 2011,To: 28 Jun 2011,Bhutan,FY 2011,63,Kirat,3,253
+From: 28 Jun 2011,To: 28 Jun 2011,Burma,FY 2011,136,Animist,11,253
+From: 28 Jun 2011,To: 28 Jun 2011,Burma,FY 2011,136,Baptist,15,253
+From: 28 Jun 2011,To: 28 Jun 2011,Burma,FY 2011,136,Buddhist,23,253
+From: 28 Jun 2011,To: 28 Jun 2011,Burma,FY 2011,136,Catholic,12,253
+From: 28 Jun 2011,To: 28 Jun 2011,Burma,FY 2011,136,Christian,60,253
+From: 28 Jun 2011,To: 28 Jun 2011,Burma,FY 2011,136,Moslem,15,253
+From: 28 Jun 2011,To: 28 Jun 2011,Ethiopia,FY 2011,6,Catholic,1,253
+From: 28 Jun 2011,To: 28 Jun 2011,Ethiopia,FY 2011,6,Protestant,5,253
+From: 28 Jun 2011,To: 28 Jun 2011,Iraq,FY 2011,14,Moslem Shiite,3,253
+From: 28 Jun 2011,To: 28 Jun 2011,Iraq,FY 2011,14,Moslem Suni,11,253
+From: 28 Jun 2011,To: 28 Jun 2011,Liberia,FY 2011,2,Christian,2,253
+From: 28 Jun 2011,To: 28 Jun 2011,Pakistan,FY 2011,4,Ahmadiyya,4,253
+From: 28 Jun 2011,To: 28 Jun 2011,Palestine,FY 2011,1,Moslem,1,253
+From: 28 Jun 2011,To: 28 Jun 2011,Somalia,FY 2011,23,Moslem,23,253
+From: 28 Jun 2011,To: 28 Jun 2011,Sudan,FY 2011,1,Moslem,1,253
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2011,To: 28 Jun 2011,Ahmadiyya,FY 2011,4,Pakistan,4,253
+From: 28 Jun 2011,To: 28 Jun 2011,Animist,FY 2011,11,Burma,11,253
+From: 28 Jun 2011,To: 28 Jun 2011,Baptist,FY 2011,15,Burma,15,253
+From: 28 Jun 2011,To: 28 Jun 2011,Buddhist,FY 2011,42,Bhutan,19,253
+From: 28 Jun 2011,To: 28 Jun 2011,Buddhist,FY 2011,42,Burma,23,253
+From: 28 Jun 2011,To: 28 Jun 2011,Catholic,FY 2011,13,Burma,12,253
+From: 28 Jun 2011,To: 28 Jun 2011,Catholic,FY 2011,13,Ethiopia,1,253
+From: 28 Jun 2011,To: 28 Jun 2011,Christian,FY 2011,71,Bhutan,9,253
+From: 28 Jun 2011,To: 28 Jun 2011,Christian,FY 2011,71,Burma,60,253
+From: 28 Jun 2011,To: 28 Jun 2011,Christian,FY 2011,71,Liberia,2,253
+From: 28 Jun 2011,To: 28 Jun 2011,Hindu,FY 2011,32,Bhutan,32,253
+From: 28 Jun 2011,To: 28 Jun 2011,Kirat,FY 2011,3,Bhutan,3,253
+From: 28 Jun 2011,To: 28 Jun 2011,Moslem,FY 2011,40,Burma,15,253
+From: 28 Jun 2011,To: 28 Jun 2011,Moslem,FY 2011,40,Palestine,1,253
+From: 28 Jun 2011,To: 28 Jun 2011,Moslem,FY 2011,40,Somalia,23,253
+From: 28 Jun 2011,To: 28 Jun 2011,Moslem,FY 2011,40,Sudan,1,253
+From: 28 Jun 2011,To: 28 Jun 2011,Moslem Shiite,FY 2011,3,Iraq,3,253
+From: 28 Jun 2011,To: 28 Jun 2011,Moslem Suni,FY 2011,11,Iraq,11,253
+From: 28 Jun 2011,To: 28 Jun 2011,Pentecostalist,FY 2011,3,Belarus,3,253
+From: 28 Jun 2011,To: 28 Jun 2011,Protestant,FY 2011,5,Ethiopia,5,253
+

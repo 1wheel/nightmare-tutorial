@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Oct 2009,To: 14 Oct 2009,Afghanistan,FY 2010,8,Moslem Suni,8,322
+From: 14 Oct 2009,To: 14 Oct 2009,Belarus,FY 2010,2,Jewish,2,322
+From: 14 Oct 2009,To: 14 Oct 2009,Burma,FY 2010,148,Animist,40,322
+From: 14 Oct 2009,To: 14 Oct 2009,Burma,FY 2010,148,Baptist,4,322
+From: 14 Oct 2009,To: 14 Oct 2009,Burma,FY 2010,148,Buddhist,17,322
+From: 14 Oct 2009,To: 14 Oct 2009,Burma,FY 2010,148,Catholic,7,322
+From: 14 Oct 2009,To: 14 Oct 2009,Burma,FY 2010,148,Christian,58,322
+From: 14 Oct 2009,To: 14 Oct 2009,Burma,FY 2010,148,Moslem,22,322
+From: 14 Oct 2009,To: 14 Oct 2009,Eritrea,FY 2010,1,Evangelical Christian,1,322
+From: 14 Oct 2009,To: 14 Oct 2009,Ethiopia,FY 2010,6,Moslem,6,322
+From: 14 Oct 2009,To: 14 Oct 2009,Iran,FY 2010,5,Bahai,5,322
+From: 14 Oct 2009,To: 14 Oct 2009,Iraq,FY 2010,43,Catholic,8,322
+From: 14 Oct 2009,To: 14 Oct 2009,Iraq,FY 2010,43,Christian,20,322
+From: 14 Oct 2009,To: 14 Oct 2009,Iraq,FY 2010,43,Moslem Shiite,8,322
+From: 14 Oct 2009,To: 14 Oct 2009,Iraq,FY 2010,43,Moslem Suni,4,322
+From: 14 Oct 2009,To: 14 Oct 2009,Iraq,FY 2010,43,Sabeans-Mandean,3,322
+From: 14 Oct 2009,To: 14 Oct 2009,Russia,FY 2010,9,Jewish,3,322
+From: 14 Oct 2009,To: 14 Oct 2009,Russia,FY 2010,9,Moslem,5,322
+From: 14 Oct 2009,To: 14 Oct 2009,Russia,FY 2010,9,Orthodox,1,322
+From: 14 Oct 2009,To: 14 Oct 2009,Somalia,FY 2010,59,Moslem,57,322
+From: 14 Oct 2009,To: 14 Oct 2009,Somalia,FY 2010,59,Moslem Suni,2,322
+From: 14 Oct 2009,To: 14 Oct 2009,Sri Lanka (Ceylon),FY 2010,7,Christian,3,322
+From: 14 Oct 2009,To: 14 Oct 2009,Sri Lanka (Ceylon),FY 2010,7,Hindu,4,322
+From: 14 Oct 2009,To: 14 Oct 2009,Vietnam,FY 2010,34,Ancestral Worship,7,322
+From: 14 Oct 2009,To: 14 Oct 2009,Vietnam,FY 2010,34,Buddhist,7,322
+From: 14 Oct 2009,To: 14 Oct 2009,Vietnam,FY 2010,34,Catholic,1,322
+From: 14 Oct 2009,To: 14 Oct 2009,Vietnam,FY 2010,34,No Religion,13,322
+From: 14 Oct 2009,To: 14 Oct 2009,Vietnam,FY 2010,34,Protestant,6,322
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Oct 2009,To: 14 Oct 2009,Ancestral Worship,FY 2010,7,Vietnam,7,322
+From: 14 Oct 2009,To: 14 Oct 2009,Animist,FY 2010,40,Burma,40,322
+From: 14 Oct 2009,To: 14 Oct 2009,Bahai,FY 2010,5,Iran,5,322
+From: 14 Oct 2009,To: 14 Oct 2009,Baptist,FY 2010,4,Burma,4,322
+From: 14 Oct 2009,To: 14 Oct 2009,Buddhist,FY 2010,24,Burma,17,322
+From: 14 Oct 2009,To: 14 Oct 2009,Buddhist,FY 2010,24,Vietnam,7,322
+From: 14 Oct 2009,To: 14 Oct 2009,Catholic,FY 2010,16,Burma,7,322
+From: 14 Oct 2009,To: 14 Oct 2009,Catholic,FY 2010,16,Iraq,8,322
+From: 14 Oct 2009,To: 14 Oct 2009,Catholic,FY 2010,16,Vietnam,1,322
+From: 14 Oct 2009,To: 14 Oct 2009,Christian,FY 2010,81,Burma,58,322
+From: 14 Oct 2009,To: 14 Oct 2009,Christian,FY 2010,81,Iraq,20,322
+From: 14 Oct 2009,To: 14 Oct 2009,Christian,FY 2010,81,Sri Lanka (Ceylon),3,322
+From: 14 Oct 2009,To: 14 Oct 2009,Evangelical Christian,FY 2010,1,Eritrea,1,322
+From: 14 Oct 2009,To: 14 Oct 2009,Hindu,FY 2010,4,Sri Lanka (Ceylon),4,322
+From: 14 Oct 2009,To: 14 Oct 2009,Jewish,FY 2010,5,Belarus,2,322
+From: 14 Oct 2009,To: 14 Oct 2009,Jewish,FY 2010,5,Russia,3,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem,FY 2010,90,Burma,22,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem,FY 2010,90,Ethiopia,6,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem,FY 2010,90,Russia,5,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem,FY 2010,90,Somalia,57,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem Shiite,FY 2010,8,Iraq,8,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem Suni,FY 2010,14,Afghanistan,8,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem Suni,FY 2010,14,Iraq,4,322
+From: 14 Oct 2009,To: 14 Oct 2009,Moslem Suni,FY 2010,14,Somalia,2,322
+From: 14 Oct 2009,To: 14 Oct 2009,No Religion,FY 2010,13,Vietnam,13,322
+From: 14 Oct 2009,To: 14 Oct 2009,Orthodox,FY 2010,1,Russia,1,322
+From: 14 Oct 2009,To: 14 Oct 2009,Protestant,FY 2010,6,Vietnam,6,322
+From: 14 Oct 2009,To: 14 Oct 2009,Sabeans-Mandean,FY 2010,3,Iraq,3,322
+

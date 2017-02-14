@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 May 2003,To: 16 May 2003,Ethiopia,FY 2003,1,Orthodox,1,87
+From: 16 May 2003,To: 16 May 2003,Liberia,FY 2003,26,Catholic,12,87
+From: 16 May 2003,To: 16 May 2003,Liberia,FY 2003,26,Christian,13,87
+From: 16 May 2003,To: 16 May 2003,Liberia,FY 2003,26,Moslem,1,87
+From: 16 May 2003,To: 16 May 2003,Somalia,FY 2003,1,Moslem,1,87
+From: 16 May 2003,To: 16 May 2003,Sudan,FY 2003,32,Catholic,23,87
+From: 16 May 2003,To: 16 May 2003,Sudan,FY 2003,32,Moslem,6,87
+From: 16 May 2003,To: 16 May 2003,Sudan,FY 2003,32,Protestant,3,87
+From: 16 May 2003,To: 16 May 2003,Ukraine,FY 2003,27,Baptist,11,87
+From: 16 May 2003,To: 16 May 2003,Ukraine,FY 2003,27,Pentecostalist,13,87
+From: 16 May 2003,To: 16 May 2003,Ukraine,FY 2003,27,Uniate,3,87
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 May 2003,To: 16 May 2003,Baptist,FY 2003,11,Ukraine,11,87
+From: 16 May 2003,To: 16 May 2003,Catholic,FY 2003,35,Liberia,12,87
+From: 16 May 2003,To: 16 May 2003,Catholic,FY 2003,35,Sudan,23,87
+From: 16 May 2003,To: 16 May 2003,Christian,FY 2003,13,Liberia,13,87
+From: 16 May 2003,To: 16 May 2003,Moslem,FY 2003,8,Liberia,1,87
+From: 16 May 2003,To: 16 May 2003,Moslem,FY 2003,8,Somalia,1,87
+From: 16 May 2003,To: 16 May 2003,Moslem,FY 2003,8,Sudan,6,87
+From: 16 May 2003,To: 16 May 2003,Orthodox,FY 2003,1,Ethiopia,1,87
+From: 16 May 2003,To: 16 May 2003,Pentecostalist,FY 2003,13,Ukraine,13,87
+From: 16 May 2003,To: 16 May 2003,Protestant,FY 2003,3,Sudan,3,87
+From: 16 May 2003,To: 16 May 2003,Uniate,FY 2003,3,Ukraine,3,87
+

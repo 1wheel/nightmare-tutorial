@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jan 2011,To: 10 Jan 2011,Afghanistan,FY 2011,1,Moslem Shiite,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Burma,FY 2011,34,Baptist,5,132
+From: 10 Jan 2011,To: 10 Jan 2011,Burma,FY 2011,34,Buddhist,4,132
+From: 10 Jan 2011,To: 10 Jan 2011,Burma,FY 2011,34,Christian,25,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iran,FY 2011,10,Bahai,7,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iran,FY 2011,10,Moslem Shiite,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iran,FY 2011,10,Protestant,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iran,FY 2011,10,Zoroastrian,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iraq,FY 2011,81,Catholic,8,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iraq,FY 2011,81,Christian,39,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iraq,FY 2011,81,Moslem Shiite,14,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iraq,FY 2011,81,Moslem Suni,17,132
+From: 10 Jan 2011,To: 10 Jan 2011,Iraq,FY 2011,81,Sabeans-Mandean,3,132
+From: 10 Jan 2011,To: 10 Jan 2011,Kuwait,FY 2011,2,Moslem Suni,2,132
+From: 10 Jan 2011,To: 10 Jan 2011,Sudan,FY 2011,4,Christian,4,132
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jan 2011,To: 10 Jan 2011,Bahai,FY 2011,7,Iran,7,132
+From: 10 Jan 2011,To: 10 Jan 2011,Baptist,FY 2011,5,Burma,5,132
+From: 10 Jan 2011,To: 10 Jan 2011,Buddhist,FY 2011,4,Burma,4,132
+From: 10 Jan 2011,To: 10 Jan 2011,Catholic,FY 2011,8,Iraq,8,132
+From: 10 Jan 2011,To: 10 Jan 2011,Christian,FY 2011,68,Burma,25,132
+From: 10 Jan 2011,To: 10 Jan 2011,Christian,FY 2011,68,Iraq,39,132
+From: 10 Jan 2011,To: 10 Jan 2011,Christian,FY 2011,68,Sudan,4,132
+From: 10 Jan 2011,To: 10 Jan 2011,Moslem Shiite,FY 2011,16,Afghanistan,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Moslem Shiite,FY 2011,16,Iran,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Moslem Shiite,FY 2011,16,Iraq,14,132
+From: 10 Jan 2011,To: 10 Jan 2011,Moslem Suni,FY 2011,19,Iraq,17,132
+From: 10 Jan 2011,To: 10 Jan 2011,Moslem Suni,FY 2011,19,Kuwait,2,132
+From: 10 Jan 2011,To: 10 Jan 2011,Protestant,FY 2011,1,Iran,1,132
+From: 10 Jan 2011,To: 10 Jan 2011,Sabeans-Mandean,FY 2011,3,Iraq,3,132
+From: 10 Jan 2011,To: 10 Jan 2011,Zoroastrian,FY 2011,1,Iran,1,132
+

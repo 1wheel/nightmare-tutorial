@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Nov 2010,To: 03 Nov 2010,Bhutan,FY 2011,35,Buddhist,10,349
+From: 03 Nov 2010,To: 03 Nov 2010,Bhutan,FY 2011,35,Christian,11,349
+From: 03 Nov 2010,To: 03 Nov 2010,Bhutan,FY 2011,35,Hindu,14,349
+From: 03 Nov 2010,To: 03 Nov 2010,Burma,FY 2011,186,Baptist,9,349
+From: 03 Nov 2010,To: 03 Nov 2010,Burma,FY 2011,186,Buddhist,20,349
+From: 03 Nov 2010,To: 03 Nov 2010,Burma,FY 2011,186,Catholic,9,349
+From: 03 Nov 2010,To: 03 Nov 2010,Burma,FY 2011,186,Christian,148,349
+From: 03 Nov 2010,To: 03 Nov 2010,Dem. Rep. Congo,FY 2011,20,Catholic,10,349
+From: 03 Nov 2010,To: 03 Nov 2010,Dem. Rep. Congo,FY 2011,20,Christian,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Dem. Rep. Congo,FY 2011,20,Pentecostalist,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Dem. Rep. Congo,FY 2011,20,Seventh Day Adventist,8,349
+From: 03 Nov 2010,To: 03 Nov 2010,Iraq,FY 2011,104,Catholic,16,349
+From: 03 Nov 2010,To: 03 Nov 2010,Iraq,FY 2011,104,Christian,11,349
+From: 03 Nov 2010,To: 03 Nov 2010,Iraq,FY 2011,104,Moslem Shiite,39,349
+From: 03 Nov 2010,To: 03 Nov 2010,Iraq,FY 2011,104,Moslem Suni,34,349
+From: 03 Nov 2010,To: 03 Nov 2010,Iraq,FY 2011,104,Orthodox,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Iraq,FY 2011,104,Sabeans-Mandean,3,349
+From: 03 Nov 2010,To: 03 Nov 2010,Somalia,FY 2011,3,Moslem Suni,3,349
+From: 03 Nov 2010,To: 03 Nov 2010,Sudan,FY 2011,1,Moslem,1,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Nov 2010,To: 03 Nov 2010,Baptist,FY 2011,9,Burma,9,349
+From: 03 Nov 2010,To: 03 Nov 2010,Buddhist,FY 2011,30,Bhutan,10,349
+From: 03 Nov 2010,To: 03 Nov 2010,Buddhist,FY 2011,30,Burma,20,349
+From: 03 Nov 2010,To: 03 Nov 2010,Catholic,FY 2011,35,Burma,9,349
+From: 03 Nov 2010,To: 03 Nov 2010,Catholic,FY 2011,35,Dem. Rep. Congo,10,349
+From: 03 Nov 2010,To: 03 Nov 2010,Catholic,FY 2011,35,Iraq,16,349
+From: 03 Nov 2010,To: 03 Nov 2010,Christian,FY 2011,171,Bhutan,11,349
+From: 03 Nov 2010,To: 03 Nov 2010,Christian,FY 2011,171,Burma,148,349
+From: 03 Nov 2010,To: 03 Nov 2010,Christian,FY 2011,171,Dem. Rep. Congo,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Christian,FY 2011,171,Iraq,11,349
+From: 03 Nov 2010,To: 03 Nov 2010,Hindu,FY 2011,14,Bhutan,14,349
+From: 03 Nov 2010,To: 03 Nov 2010,Moslem,FY 2011,1,Sudan,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Moslem Shiite,FY 2011,39,Iraq,39,349
+From: 03 Nov 2010,To: 03 Nov 2010,Moslem Suni,FY 2011,37,Iraq,34,349
+From: 03 Nov 2010,To: 03 Nov 2010,Moslem Suni,FY 2011,37,Somalia,3,349
+From: 03 Nov 2010,To: 03 Nov 2010,Orthodox,FY 2011,1,Iraq,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Pentecostalist,FY 2011,1,Dem. Rep. Congo,1,349
+From: 03 Nov 2010,To: 03 Nov 2010,Sabeans-Mandean,FY 2011,3,Iraq,3,349
+From: 03 Nov 2010,To: 03 Nov 2010,Seventh Day Adventist,FY 2011,8,Dem. Rep. Congo,8,349
+

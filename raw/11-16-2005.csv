@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Nov 2005,To: 16 Nov 2005,Burma,FY 2006,23,Buddhist,5,283
+From: 16 Nov 2005,To: 16 Nov 2005,Burma,FY 2006,23,Christian,9,283
+From: 16 Nov 2005,To: 16 Nov 2005,Burma,FY 2006,23,Moslem,4,283
+From: 16 Nov 2005,To: 16 Nov 2005,Burma,FY 2006,23,Protestant,5,283
+From: 16 Nov 2005,To: 16 Nov 2005,Cuba,FY 2006,68,Catholic,23,283
+From: 16 Nov 2005,To: 16 Nov 2005,Cuba,FY 2006,68,Christian,4,283
+From: 16 Nov 2005,To: 16 Nov 2005,Cuba,FY 2006,68,Jehovah Witness,13,283
+From: 16 Nov 2005,To: 16 Nov 2005,Cuba,FY 2006,68,No Religion,27,283
+From: 16 Nov 2005,To: 16 Nov 2005,Cuba,FY 2006,68,Seventh Day Adventist,1,283
+From: 16 Nov 2005,To: 16 Nov 2005,Iran,FY 2006,2,Moslem,2,283
+From: 16 Nov 2005,To: 16 Nov 2005,Liberia,FY 2006,29,Christian,27,283
+From: 16 Nov 2005,To: 16 Nov 2005,Liberia,FY 2006,29,Jehovah Witness,2,283
+From: 16 Nov 2005,To: 16 Nov 2005,Russia,FY 2006,29,Moslem,29,283
+From: 16 Nov 2005,To: 16 Nov 2005,Serbia,FY 2006,1,Unknown,1,283
+From: 16 Nov 2005,To: 16 Nov 2005,Sierra Leone,FY 2006,1,Pentecostalist,1,283
+From: 16 Nov 2005,To: 16 Nov 2005,Somalia,FY 2006,30,Moslem,30,283
+From: 16 Nov 2005,To: 16 Nov 2005,Ukraine,FY 2006,30,Baptist,3,283
+From: 16 Nov 2005,To: 16 Nov 2005,Ukraine,FY 2006,30,Pentecostalist,27,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Ancestral Worship,6,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Buddhist,26,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Cao Dai,11,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Catholic,3,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,No Religion,13,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Other Religion,2,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Protestant,8,283
+From: 16 Nov 2005,To: 16 Nov 2005,Vietnam,FY 2006,70,Unknown,1,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Nov 2005,To: 16 Nov 2005,Ancestral Worship,FY 2006,6,Vietnam,6,283
+From: 16 Nov 2005,To: 16 Nov 2005,Baptist,FY 2006,3,Ukraine,3,283
+From: 16 Nov 2005,To: 16 Nov 2005,Buddhist,FY 2006,31,Burma,5,283
+From: 16 Nov 2005,To: 16 Nov 2005,Buddhist,FY 2006,31,Vietnam,26,283
+From: 16 Nov 2005,To: 16 Nov 2005,Cao Dai,FY 2006,11,Vietnam,11,283
+From: 16 Nov 2005,To: 16 Nov 2005,Catholic,FY 2006,26,Cuba,23,283
+From: 16 Nov 2005,To: 16 Nov 2005,Catholic,FY 2006,26,Vietnam,3,283
+From: 16 Nov 2005,To: 16 Nov 2005,Christian,FY 2006,40,Burma,9,283
+From: 16 Nov 2005,To: 16 Nov 2005,Christian,FY 2006,40,Cuba,4,283
+From: 16 Nov 2005,To: 16 Nov 2005,Christian,FY 2006,40,Liberia,27,283
+From: 16 Nov 2005,To: 16 Nov 2005,Jehovah Witness,FY 2006,15,Cuba,13,283
+From: 16 Nov 2005,To: 16 Nov 2005,Jehovah Witness,FY 2006,15,Liberia,2,283
+From: 16 Nov 2005,To: 16 Nov 2005,Moslem,FY 2006,65,Burma,4,283
+From: 16 Nov 2005,To: 16 Nov 2005,Moslem,FY 2006,65,Iran,2,283
+From: 16 Nov 2005,To: 16 Nov 2005,Moslem,FY 2006,65,Russia,29,283
+From: 16 Nov 2005,To: 16 Nov 2005,Moslem,FY 2006,65,Somalia,30,283
+From: 16 Nov 2005,To: 16 Nov 2005,No Religion,FY 2006,40,Cuba,27,283
+From: 16 Nov 2005,To: 16 Nov 2005,No Religion,FY 2006,40,Vietnam,13,283
+From: 16 Nov 2005,To: 16 Nov 2005,Other Religion,FY 2006,2,Vietnam,2,283
+From: 16 Nov 2005,To: 16 Nov 2005,Pentecostalist,FY 2006,28,Sierra Leone,1,283
+From: 16 Nov 2005,To: 16 Nov 2005,Pentecostalist,FY 2006,28,Ukraine,27,283
+From: 16 Nov 2005,To: 16 Nov 2005,Protestant,FY 2006,13,Burma,5,283
+From: 16 Nov 2005,To: 16 Nov 2005,Protestant,FY 2006,13,Vietnam,8,283
+From: 16 Nov 2005,To: 16 Nov 2005,Seventh Day Adventist,FY 2006,1,Cuba,1,283
+From: 16 Nov 2005,To: 16 Nov 2005,Unknown,FY 2006,2,Serbia,1,283
+From: 16 Nov 2005,To: 16 Nov 2005,Unknown,FY 2006,2,Vietnam,1,283
+

@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Apr 2011,To: 27 Apr 2011,Afghanistan,FY 2011,1,Moslem Suni,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Bhutan,FY 2011,35,Buddhist,16,346
+From: 27 Apr 2011,To: 27 Apr 2011,Bhutan,FY 2011,35,Christian,2,346
+From: 27 Apr 2011,To: 27 Apr 2011,Bhutan,FY 2011,35,Hindu,16,346
+From: 27 Apr 2011,To: 27 Apr 2011,Bhutan,FY 2011,35,Kirat,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Burma,FY 2011,179,Animist,33,346
+From: 27 Apr 2011,To: 27 Apr 2011,Burma,FY 2011,179,Baptist,16,346
+From: 27 Apr 2011,To: 27 Apr 2011,Burma,FY 2011,179,Buddhist,21,346
+From: 27 Apr 2011,To: 27 Apr 2011,Burma,FY 2011,179,Catholic,7,346
+From: 27 Apr 2011,To: 27 Apr 2011,Burma,FY 2011,179,Christian,85,346
+From: 27 Apr 2011,To: 27 Apr 2011,Burma,FY 2011,179,Moslem,17,346
+From: 27 Apr 2011,To: 27 Apr 2011,Dem. Rep. Congo,FY 2011,6,Protestant,6,346
+From: 27 Apr 2011,To: 27 Apr 2011,Eritrea,FY 2011,28,Catholic,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Eritrea,FY 2011,28,Moslem,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Eritrea,FY 2011,28,Orthodox,24,346
+From: 27 Apr 2011,To: 27 Apr 2011,Eritrea,FY 2011,28,Protestant,2,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iran,FY 2011,4,Moslem Shiite,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Catholic,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Christian,25,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Moslem Shiite,14,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Moslem Suni,26,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Orthodox,2,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Sabeans-Mandean,7,346
+From: 27 Apr 2011,To: 27 Apr 2011,Iraq,FY 2011,79,Yazidi,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Mauritania,FY 2011,3,Moslem,3,346
+From: 27 Apr 2011,To: 27 Apr 2011,Russia,FY 2011,5,Baptist,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Russia,FY 2011,5,Jewish,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Sierra Leone,FY 2011,1,Moslem,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Somalia,FY 2011,4,Moslem,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Sudan,FY 2011,1,Catholic,1,346
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Apr 2011,To: 27 Apr 2011,Animist,FY 2011,33,Burma,33,346
+From: 27 Apr 2011,To: 27 Apr 2011,Baptist,FY 2011,20,Burma,16,346
+From: 27 Apr 2011,To: 27 Apr 2011,Baptist,FY 2011,20,Russia,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Buddhist,FY 2011,37,Bhutan,16,346
+From: 27 Apr 2011,To: 27 Apr 2011,Buddhist,FY 2011,37,Burma,21,346
+From: 27 Apr 2011,To: 27 Apr 2011,Catholic,FY 2011,13,Burma,7,346
+From: 27 Apr 2011,To: 27 Apr 2011,Catholic,FY 2011,13,Eritrea,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Catholic,FY 2011,13,Iraq,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Catholic,FY 2011,13,Sudan,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Christian,FY 2011,112,Bhutan,2,346
+From: 27 Apr 2011,To: 27 Apr 2011,Christian,FY 2011,112,Burma,85,346
+From: 27 Apr 2011,To: 27 Apr 2011,Christian,FY 2011,112,Iraq,25,346
+From: 27 Apr 2011,To: 27 Apr 2011,Hindu,FY 2011,16,Bhutan,16,346
+From: 27 Apr 2011,To: 27 Apr 2011,Jewish,FY 2011,1,Russia,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Kirat,FY 2011,1,Bhutan,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem,FY 2011,26,Burma,17,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem,FY 2011,26,Eritrea,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem,FY 2011,26,Mauritania,3,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem,FY 2011,26,Sierra Leone,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem,FY 2011,26,Somalia,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem Shiite,FY 2011,18,Iran,4,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem Shiite,FY 2011,18,Iraq,14,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem Suni,FY 2011,27,Afghanistan,1,346
+From: 27 Apr 2011,To: 27 Apr 2011,Moslem Suni,FY 2011,27,Iraq,26,346
+From: 27 Apr 2011,To: 27 Apr 2011,Orthodox,FY 2011,26,Eritrea,24,346
+From: 27 Apr 2011,To: 27 Apr 2011,Orthodox,FY 2011,26,Iraq,2,346
+From: 27 Apr 2011,To: 27 Apr 2011,Protestant,FY 2011,8,Dem. Rep. Congo,6,346
+From: 27 Apr 2011,To: 27 Apr 2011,Protestant,FY 2011,8,Eritrea,2,346
+From: 27 Apr 2011,To: 27 Apr 2011,Sabeans-Mandean,FY 2011,7,Iraq,7,346
+From: 27 Apr 2011,To: 27 Apr 2011,Yazidi,FY 2011,1,Iraq,1,346
+

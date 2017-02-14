@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Aug 2012,To: 01 Aug 2012,Bhutan,FY 2012,101,Buddhist,27,320
+From: 01 Aug 2012,To: 01 Aug 2012,Bhutan,FY 2012,101,Christian,25,320
+From: 01 Aug 2012,To: 01 Aug 2012,Bhutan,FY 2012,101,Hindu,41,320
+From: 01 Aug 2012,To: 01 Aug 2012,Bhutan,FY 2012,101,Kirat,8,320
+From: 01 Aug 2012,To: 01 Aug 2012,Burma,FY 2012,35,Baptist,4,320
+From: 01 Aug 2012,To: 01 Aug 2012,Burma,FY 2012,35,Buddhist,4,320
+From: 01 Aug 2012,To: 01 Aug 2012,Burma,FY 2012,35,Christian,25,320
+From: 01 Aug 2012,To: 01 Aug 2012,Burma,FY 2012,35,Pentecostalist,2,320
+From: 01 Aug 2012,To: 01 Aug 2012,Dem. Rep. Congo,FY 2012,6,Christian,6,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iran,FY 2012,5,Bahai,3,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iran,FY 2012,5,Moslem Shiite,2,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iraq,FY 2012,152,Catholic,5,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iraq,FY 2012,152,Christian,19,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iraq,FY 2012,152,Moslem Shiite,39,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iraq,FY 2012,152,Moslem Suni,85,320
+From: 01 Aug 2012,To: 01 Aug 2012,Iraq,FY 2012,152,Orthodox,4,320
+From: 01 Aug 2012,To: 01 Aug 2012,Pakistan,FY 2012,7,Ahmadiyya,5,320
+From: 01 Aug 2012,To: 01 Aug 2012,Pakistan,FY 2012,7,Christian,2,320
+From: 01 Aug 2012,To: 01 Aug 2012,Somalia,FY 2012,1,Moslem Suni,1,320
+From: 01 Aug 2012,To: 01 Aug 2012,Sudan,FY 2012,13,Moslem,11,320
+From: 01 Aug 2012,To: 01 Aug 2012,Sudan,FY 2012,13,Moslem Suni,2,320
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Aug 2012,To: 01 Aug 2012,Ahmadiyya,FY 2012,5,Pakistan,5,320
+From: 01 Aug 2012,To: 01 Aug 2012,Bahai,FY 2012,3,Iran,3,320
+From: 01 Aug 2012,To: 01 Aug 2012,Baptist,FY 2012,4,Burma,4,320
+From: 01 Aug 2012,To: 01 Aug 2012,Buddhist,FY 2012,31,Bhutan,27,320
+From: 01 Aug 2012,To: 01 Aug 2012,Buddhist,FY 2012,31,Burma,4,320
+From: 01 Aug 2012,To: 01 Aug 2012,Catholic,FY 2012,5,Iraq,5,320
+From: 01 Aug 2012,To: 01 Aug 2012,Christian,FY 2012,77,Bhutan,25,320
+From: 01 Aug 2012,To: 01 Aug 2012,Christian,FY 2012,77,Burma,25,320
+From: 01 Aug 2012,To: 01 Aug 2012,Christian,FY 2012,77,Dem. Rep. Congo,6,320
+From: 01 Aug 2012,To: 01 Aug 2012,Christian,FY 2012,77,Iraq,19,320
+From: 01 Aug 2012,To: 01 Aug 2012,Christian,FY 2012,77,Pakistan,2,320
+From: 01 Aug 2012,To: 01 Aug 2012,Hindu,FY 2012,41,Bhutan,41,320
+From: 01 Aug 2012,To: 01 Aug 2012,Kirat,FY 2012,8,Bhutan,8,320
+From: 01 Aug 2012,To: 01 Aug 2012,Moslem,FY 2012,11,Sudan,11,320
+From: 01 Aug 2012,To: 01 Aug 2012,Moslem Shiite,FY 2012,41,Iran,2,320
+From: 01 Aug 2012,To: 01 Aug 2012,Moslem Shiite,FY 2012,41,Iraq,39,320
+From: 01 Aug 2012,To: 01 Aug 2012,Moslem Suni,FY 2012,88,Iraq,85,320
+From: 01 Aug 2012,To: 01 Aug 2012,Moslem Suni,FY 2012,88,Somalia,1,320
+From: 01 Aug 2012,To: 01 Aug 2012,Moslem Suni,FY 2012,88,Sudan,2,320
+From: 01 Aug 2012,To: 01 Aug 2012,Orthodox,FY 2012,4,Iraq,4,320
+From: 01 Aug 2012,To: 01 Aug 2012,Pentecostalist,FY 2012,2,Burma,2,320
+

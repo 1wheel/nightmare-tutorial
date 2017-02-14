@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Nov 2004,To: 09 Nov 2004,Azerbaijan,FY 2005,11,Christian,4,378
+From: 09 Nov 2004,To: 09 Nov 2004,Azerbaijan,FY 2005,11,Jewish,6,378
+From: 09 Nov 2004,To: 09 Nov 2004,Azerbaijan,FY 2005,11,Unknown,1,378
+From: 09 Nov 2004,To: 09 Nov 2004,Belarus,FY 2005,22,Jewish,5,378
+From: 09 Nov 2004,To: 09 Nov 2004,Belarus,FY 2005,22,Pentecostalist,17,378
+From: 09 Nov 2004,To: 09 Nov 2004,Cuba,FY 2005,70,Catholic,10,378
+From: 09 Nov 2004,To: 09 Nov 2004,Cuba,FY 2005,70,Evangelical Christian,5,378
+From: 09 Nov 2004,To: 09 Nov 2004,Cuba,FY 2005,70,Jehovah Witness,19,378
+From: 09 Nov 2004,To: 09 Nov 2004,Cuba,FY 2005,70,No Religion,33,378
+From: 09 Nov 2004,To: 09 Nov 2004,Cuba,FY 2005,70,Pentecostalist,3,378
+From: 09 Nov 2004,To: 09 Nov 2004,Dem. Rep. Congo,FY 2005,3,Protestant,1,378
+From: 09 Nov 2004,To: 09 Nov 2004,Dem. Rep. Congo,FY 2005,3,Unknown,2,378
+From: 09 Nov 2004,To: 09 Nov 2004,Eritrea,FY 2005,1,Christian,1,378
+From: 09 Nov 2004,To: 09 Nov 2004,Ethiopia,FY 2005,11,Christian,5,378
+From: 09 Nov 2004,To: 09 Nov 2004,Ethiopia,FY 2005,11,Moslem,4,378
+From: 09 Nov 2004,To: 09 Nov 2004,Ethiopia,FY 2005,11,Orthodox,2,378
+From: 09 Nov 2004,To: 09 Nov 2004,Laos,FY 2005,141,Ancestral Worship,112,378
+From: 09 Nov 2004,To: 09 Nov 2004,Laos,FY 2005,141,Christian,29,378
+From: 09 Nov 2004,To: 09 Nov 2004,Russia,FY 2005,19,Baptist,7,378
+From: 09 Nov 2004,To: 09 Nov 2004,Russia,FY 2005,19,Jewish,6,378
+From: 09 Nov 2004,To: 09 Nov 2004,Russia,FY 2005,19,No Religion,2,378
+From: 09 Nov 2004,To: 09 Nov 2004,Russia,FY 2005,19,Unknown,4,378
+From: 09 Nov 2004,To: 09 Nov 2004,Somalia,FY 2005,94,Moslem,94,378
+From: 09 Nov 2004,To: 09 Nov 2004,Sudan,FY 2005,6,Catholic,3,378
+From: 09 Nov 2004,To: 09 Nov 2004,Sudan,FY 2005,6,Christian,3,378
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Nov 2004,To: 09 Nov 2004,Ancestral Worship,FY 2005,112,Laos,112,378
+From: 09 Nov 2004,To: 09 Nov 2004,Baptist,FY 2005,7,Russia,7,378
+From: 09 Nov 2004,To: 09 Nov 2004,Catholic,FY 2005,13,Cuba,10,378
+From: 09 Nov 2004,To: 09 Nov 2004,Catholic,FY 2005,13,Sudan,3,378
+From: 09 Nov 2004,To: 09 Nov 2004,Christian,FY 2005,42,Azerbaijan,4,378
+From: 09 Nov 2004,To: 09 Nov 2004,Christian,FY 2005,42,Eritrea,1,378
+From: 09 Nov 2004,To: 09 Nov 2004,Christian,FY 2005,42,Ethiopia,5,378
+From: 09 Nov 2004,To: 09 Nov 2004,Christian,FY 2005,42,Laos,29,378
+From: 09 Nov 2004,To: 09 Nov 2004,Christian,FY 2005,42,Sudan,3,378
+From: 09 Nov 2004,To: 09 Nov 2004,Evangelical Christian,FY 2005,5,Cuba,5,378
+From: 09 Nov 2004,To: 09 Nov 2004,Jehovah Witness,FY 2005,19,Cuba,19,378
+From: 09 Nov 2004,To: 09 Nov 2004,Jewish,FY 2005,17,Azerbaijan,6,378
+From: 09 Nov 2004,To: 09 Nov 2004,Jewish,FY 2005,17,Belarus,5,378
+From: 09 Nov 2004,To: 09 Nov 2004,Jewish,FY 2005,17,Russia,6,378
+From: 09 Nov 2004,To: 09 Nov 2004,Moslem,FY 2005,98,Ethiopia,4,378
+From: 09 Nov 2004,To: 09 Nov 2004,Moslem,FY 2005,98,Somalia,94,378
+From: 09 Nov 2004,To: 09 Nov 2004,No Religion,FY 2005,35,Cuba,33,378
+From: 09 Nov 2004,To: 09 Nov 2004,No Religion,FY 2005,35,Russia,2,378
+From: 09 Nov 2004,To: 09 Nov 2004,Orthodox,FY 2005,2,Ethiopia,2,378
+From: 09 Nov 2004,To: 09 Nov 2004,Pentecostalist,FY 2005,20,Belarus,17,378
+From: 09 Nov 2004,To: 09 Nov 2004,Pentecostalist,FY 2005,20,Cuba,3,378
+From: 09 Nov 2004,To: 09 Nov 2004,Protestant,FY 2005,1,Dem. Rep. Congo,1,378
+From: 09 Nov 2004,To: 09 Nov 2004,Unknown,FY 2005,7,Azerbaijan,1,378
+From: 09 Nov 2004,To: 09 Nov 2004,Unknown,FY 2005,7,Dem. Rep. Congo,2,378
+From: 09 Nov 2004,To: 09 Nov 2004,Unknown,FY 2005,7,Russia,4,378
+

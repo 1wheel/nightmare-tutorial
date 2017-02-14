@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Feb 2009,To: 18 Feb 2009,Afghanistan,FY 2009,16,Moslem Ismaici,1,400
+From: 18 Feb 2009,To: 18 Feb 2009,Afghanistan,FY 2009,16,Moslem Suni,15,400
+From: 18 Feb 2009,To: 18 Feb 2009,Bhutan,FY 2009,35,Buddhist,2,400
+From: 18 Feb 2009,To: 18 Feb 2009,Bhutan,FY 2009,35,Hindu,29,400
+From: 18 Feb 2009,To: 18 Feb 2009,Bhutan,FY 2009,35,Kirat,4,400
+From: 18 Feb 2009,To: 18 Feb 2009,Burma,FY 2009,98,Buddhist,22,400
+From: 18 Feb 2009,To: 18 Feb 2009,Burma,FY 2009,98,Christian,65,400
+From: 18 Feb 2009,To: 18 Feb 2009,Burma,FY 2009,98,Moslem,11,400
+From: 18 Feb 2009,To: 18 Feb 2009,Eritrea,FY 2009,1,Moslem,1,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iran,FY 2009,47,Bahai,13,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iran,FY 2009,47,Christian,33,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iran,FY 2009,47,Sabeans-Mandean,1,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iraq,FY 2009,146,Catholic,29,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iraq,FY 2009,146,Christian,35,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iraq,FY 2009,146,Moslem Shiite,27,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iraq,FY 2009,146,Moslem Suni,38,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iraq,FY 2009,146,Orthodox,3,400
+From: 18 Feb 2009,To: 18 Feb 2009,Iraq,FY 2009,146,Sabeans-Mandean,14,400
+From: 18 Feb 2009,To: 18 Feb 2009,Russia,FY 2009,11,Baptist,4,400
+From: 18 Feb 2009,To: 18 Feb 2009,Russia,FY 2009,11,Pentecostalist,7,400
+From: 18 Feb 2009,To: 18 Feb 2009,Uzbekistan,FY 2009,11,Baptist,4,400
+From: 18 Feb 2009,To: 18 Feb 2009,Uzbekistan,FY 2009,11,Jewish,5,400
+From: 18 Feb 2009,To: 18 Feb 2009,Uzbekistan,FY 2009,11,Moslem Suni,2,400
+From: 18 Feb 2009,To: 18 Feb 2009,Vietnam,FY 2009,35,Ancestral Worship,9,400
+From: 18 Feb 2009,To: 18 Feb 2009,Vietnam,FY 2009,35,Buddhist,14,400
+From: 18 Feb 2009,To: 18 Feb 2009,Vietnam,FY 2009,35,Catholic,3,400
+From: 18 Feb 2009,To: 18 Feb 2009,Vietnam,FY 2009,35,No Religion,9,400
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Feb 2009,To: 18 Feb 2009,Ancestral Worship,FY 2009,9,Vietnam,9,400
+From: 18 Feb 2009,To: 18 Feb 2009,Bahai,FY 2009,13,Iran,13,400
+From: 18 Feb 2009,To: 18 Feb 2009,Baptist,FY 2009,8,Russia,4,400
+From: 18 Feb 2009,To: 18 Feb 2009,Baptist,FY 2009,8,Uzbekistan,4,400
+From: 18 Feb 2009,To: 18 Feb 2009,Buddhist,FY 2009,38,Bhutan,2,400
+From: 18 Feb 2009,To: 18 Feb 2009,Buddhist,FY 2009,38,Burma,22,400
+From: 18 Feb 2009,To: 18 Feb 2009,Buddhist,FY 2009,38,Vietnam,14,400
+From: 18 Feb 2009,To: 18 Feb 2009,Catholic,FY 2009,32,Iraq,29,400
+From: 18 Feb 2009,To: 18 Feb 2009,Catholic,FY 2009,32,Vietnam,3,400
+From: 18 Feb 2009,To: 18 Feb 2009,Christian,FY 2009,133,Burma,65,400
+From: 18 Feb 2009,To: 18 Feb 2009,Christian,FY 2009,133,Iran,33,400
+From: 18 Feb 2009,To: 18 Feb 2009,Christian,FY 2009,133,Iraq,35,400
+From: 18 Feb 2009,To: 18 Feb 2009,Hindu,FY 2009,29,Bhutan,29,400
+From: 18 Feb 2009,To: 18 Feb 2009,Jewish,FY 2009,5,Uzbekistan,5,400
+From: 18 Feb 2009,To: 18 Feb 2009,Kirat,FY 2009,4,Bhutan,4,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem,FY 2009,12,Burma,11,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem,FY 2009,12,Eritrea,1,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem Ismaici,FY 2009,1,Afghanistan,1,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem Shiite,FY 2009,27,Iraq,27,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem Suni,FY 2009,55,Afghanistan,15,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem Suni,FY 2009,55,Iraq,38,400
+From: 18 Feb 2009,To: 18 Feb 2009,Moslem Suni,FY 2009,55,Uzbekistan,2,400
+From: 18 Feb 2009,To: 18 Feb 2009,No Religion,FY 2009,9,Vietnam,9,400
+From: 18 Feb 2009,To: 18 Feb 2009,Orthodox,FY 2009,3,Iraq,3,400
+From: 18 Feb 2009,To: 18 Feb 2009,Pentecostalist,FY 2009,7,Russia,7,400
+From: 18 Feb 2009,To: 18 Feb 2009,Sabeans-Mandean,FY 2009,15,Iran,1,400
+From: 18 Feb 2009,To: 18 Feb 2009,Sabeans-Mandean,FY 2009,15,Iraq,14,400
+

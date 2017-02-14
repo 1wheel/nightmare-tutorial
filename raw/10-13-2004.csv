@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Oct 2004,To: 13 Oct 2004,Bosnia and Herzegovina,FY 2005,3,Moslem,3,180
+From: 13 Oct 2004,To: 13 Oct 2004,Laos,FY 2005,49,Ancestral Worship,47,180
+From: 13 Oct 2004,To: 13 Oct 2004,Laos,FY 2005,49,Christian,2,180
+From: 13 Oct 2004,To: 13 Oct 2004,Liberia,FY 2005,43,Catholic,7,180
+From: 13 Oct 2004,To: 13 Oct 2004,Liberia,FY 2005,43,Christian,24,180
+From: 13 Oct 2004,To: 13 Oct 2004,Liberia,FY 2005,43,Moslem,12,180
+From: 13 Oct 2004,To: 13 Oct 2004,Sierra Leone,FY 2005,27,Catholic,3,180
+From: 13 Oct 2004,To: 13 Oct 2004,Sierra Leone,FY 2005,27,Christian,16,180
+From: 13 Oct 2004,To: 13 Oct 2004,Sierra Leone,FY 2005,27,Moslem,8,180
+From: 13 Oct 2004,To: 13 Oct 2004,Somalia,FY 2005,57,Moslem,57,180
+From: 13 Oct 2004,To: 13 Oct 2004,Sudan,FY 2005,1,Christian,1,180
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Oct 2004,To: 13 Oct 2004,Ancestral Worship,FY 2005,47,Laos,47,180
+From: 13 Oct 2004,To: 13 Oct 2004,Catholic,FY 2005,10,Liberia,7,180
+From: 13 Oct 2004,To: 13 Oct 2004,Catholic,FY 2005,10,Sierra Leone,3,180
+From: 13 Oct 2004,To: 13 Oct 2004,Christian,FY 2005,43,Laos,2,180
+From: 13 Oct 2004,To: 13 Oct 2004,Christian,FY 2005,43,Liberia,24,180
+From: 13 Oct 2004,To: 13 Oct 2004,Christian,FY 2005,43,Sierra Leone,16,180
+From: 13 Oct 2004,To: 13 Oct 2004,Christian,FY 2005,43,Sudan,1,180
+From: 13 Oct 2004,To: 13 Oct 2004,Moslem,FY 2005,80,Bosnia and Herzegovina,3,180
+From: 13 Oct 2004,To: 13 Oct 2004,Moslem,FY 2005,80,Liberia,12,180
+From: 13 Oct 2004,To: 13 Oct 2004,Moslem,FY 2005,80,Sierra Leone,8,180
+From: 13 Oct 2004,To: 13 Oct 2004,Moslem,FY 2005,80,Somalia,57,180
+

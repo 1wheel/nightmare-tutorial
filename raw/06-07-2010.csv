@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jun 2010,To: 07 Jun 2010,Burma,FY 2010,53,Catholic,3,139
+From: 07 Jun 2010,To: 07 Jun 2010,Burma,FY 2010,53,Christian,45,139
+From: 07 Jun 2010,To: 07 Jun 2010,Burma,FY 2010,53,Moslem,5,139
+From: 07 Jun 2010,To: 07 Jun 2010,Iraq,FY 2010,86,Catholic,25,139
+From: 07 Jun 2010,To: 07 Jun 2010,Iraq,FY 2010,86,Christian,41,139
+From: 07 Jun 2010,To: 07 Jun 2010,Iraq,FY 2010,86,Moslem,1,139
+From: 07 Jun 2010,To: 07 Jun 2010,Iraq,FY 2010,86,Moslem Shiite,11,139
+From: 07 Jun 2010,To: 07 Jun 2010,Iraq,FY 2010,86,Moslem Suni,8,139
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jun 2010,To: 07 Jun 2010,Catholic,FY 2010,28,Burma,3,139
+From: 07 Jun 2010,To: 07 Jun 2010,Catholic,FY 2010,28,Iraq,25,139
+From: 07 Jun 2010,To: 07 Jun 2010,Christian,FY 2010,86,Burma,45,139
+From: 07 Jun 2010,To: 07 Jun 2010,Christian,FY 2010,86,Iraq,41,139
+From: 07 Jun 2010,To: 07 Jun 2010,Moslem,FY 2010,6,Burma,5,139
+From: 07 Jun 2010,To: 07 Jun 2010,Moslem,FY 2010,6,Iraq,1,139
+From: 07 Jun 2010,To: 07 Jun 2010,Moslem Shiite,FY 2010,11,Iraq,11,139
+From: 07 Jun 2010,To: 07 Jun 2010,Moslem Suni,FY 2010,8,Iraq,8,139
+

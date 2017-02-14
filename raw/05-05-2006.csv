@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 May 2006,To: 05 May 2006,Afghanistan,FY 2006,13,Moslem Suni,13,80
+From: 05 May 2006,To: 05 May 2006,Dem. Rep. Congo,FY 2006,5,Pentecostalist,5,80
+From: 05 May 2006,To: 05 May 2006,"Korea, North",FY 2006,6,Christian,6,80
+From: 05 May 2006,To: 05 May 2006,Russia,FY 2006,21,Moslem,21,80
+From: 05 May 2006,To: 05 May 2006,Sierra Leone,FY 2006,5,Moslem,5,80
+From: 05 May 2006,To: 05 May 2006,Ukraine,FY 2006,30,Baptist,3,80
+From: 05 May 2006,To: 05 May 2006,Ukraine,FY 2006,30,Pentecostalist,27,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 May 2006,To: 05 May 2006,Baptist,FY 2006,3,Ukraine,3,80
+From: 05 May 2006,To: 05 May 2006,Christian,FY 2006,6,"Korea, North",6,80
+From: 05 May 2006,To: 05 May 2006,Moslem,FY 2006,26,Russia,21,80
+From: 05 May 2006,To: 05 May 2006,Moslem,FY 2006,26,Sierra Leone,5,80
+From: 05 May 2006,To: 05 May 2006,Moslem Suni,FY 2006,13,Afghanistan,13,80
+From: 05 May 2006,To: 05 May 2006,Pentecostalist,FY 2006,32,Dem. Rep. Congo,5,80
+From: 05 May 2006,To: 05 May 2006,Pentecostalist,FY 2006,32,Ukraine,27,80
+

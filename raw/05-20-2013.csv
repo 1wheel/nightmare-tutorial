@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 May 2013,To: 20 May 2013,Bhutan,FY 2013,18,Buddhist,4,271
+From: 20 May 2013,To: 20 May 2013,Bhutan,FY 2013,18,Christian,5,271
+From: 20 May 2013,To: 20 May 2013,Bhutan,FY 2013,18,Hindu,9,271
+From: 20 May 2013,To: 20 May 2013,Burma,FY 2013,59,Baptist,2,271
+From: 20 May 2013,To: 20 May 2013,Burma,FY 2013,59,Buddhist,1,271
+From: 20 May 2013,To: 20 May 2013,Burma,FY 2013,59,Catholic,2,271
+From: 20 May 2013,To: 20 May 2013,Burma,FY 2013,59,Christian,38,271
+From: 20 May 2013,To: 20 May 2013,Burma,FY 2013,59,Moslem,16,271
+From: 20 May 2013,To: 20 May 2013,Dem. Rep. Congo,FY 2013,37,Catholic,6,271
+From: 20 May 2013,To: 20 May 2013,Dem. Rep. Congo,FY 2013,37,Christian,8,271
+From: 20 May 2013,To: 20 May 2013,Dem. Rep. Congo,FY 2013,37,Jehovah Witness,5,271
+From: 20 May 2013,To: 20 May 2013,Dem. Rep. Congo,FY 2013,37,Methodist,1,271
+From: 20 May 2013,To: 20 May 2013,Dem. Rep. Congo,FY 2013,37,Moslem,11,271
+From: 20 May 2013,To: 20 May 2013,Dem. Rep. Congo,FY 2013,37,Protestant,6,271
+From: 20 May 2013,To: 20 May 2013,Eritrea,FY 2013,7,Catholic,3,271
+From: 20 May 2013,To: 20 May 2013,Eritrea,FY 2013,7,Jehovah Witness,1,271
+From: 20 May 2013,To: 20 May 2013,Eritrea,FY 2013,7,Orthodox,3,271
+From: 20 May 2013,To: 20 May 2013,Iraq,FY 2013,112,Catholic,3,271
+From: 20 May 2013,To: 20 May 2013,Iraq,FY 2013,112,Christian,2,271
+From: 20 May 2013,To: 20 May 2013,Iraq,FY 2013,112,Moslem Shiite,50,271
+From: 20 May 2013,To: 20 May 2013,Iraq,FY 2013,112,Moslem Suni,57,271
+From: 20 May 2013,To: 20 May 2013,Rwanda,FY 2013,4,Protestant,4,271
+From: 20 May 2013,To: 20 May 2013,Somalia,FY 2013,32,Moslem,32,271
+From: 20 May 2013,To: 20 May 2013,Sudan,FY 2013,2,Moslem,2,271
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 May 2013,To: 20 May 2013,Baptist,FY 2013,2,Burma,2,271
+From: 20 May 2013,To: 20 May 2013,Buddhist,FY 2013,5,Bhutan,4,271
+From: 20 May 2013,To: 20 May 2013,Buddhist,FY 2013,5,Burma,1,271
+From: 20 May 2013,To: 20 May 2013,Catholic,FY 2013,14,Burma,2,271
+From: 20 May 2013,To: 20 May 2013,Catholic,FY 2013,14,Dem. Rep. Congo,6,271
+From: 20 May 2013,To: 20 May 2013,Catholic,FY 2013,14,Eritrea,3,271
+From: 20 May 2013,To: 20 May 2013,Catholic,FY 2013,14,Iraq,3,271
+From: 20 May 2013,To: 20 May 2013,Christian,FY 2013,53,Bhutan,5,271
+From: 20 May 2013,To: 20 May 2013,Christian,FY 2013,53,Burma,38,271
+From: 20 May 2013,To: 20 May 2013,Christian,FY 2013,53,Dem. Rep. Congo,8,271
+From: 20 May 2013,To: 20 May 2013,Christian,FY 2013,53,Iraq,2,271
+From: 20 May 2013,To: 20 May 2013,Hindu,FY 2013,9,Bhutan,9,271
+From: 20 May 2013,To: 20 May 2013,Jehovah Witness,FY 2013,6,Dem. Rep. Congo,5,271
+From: 20 May 2013,To: 20 May 2013,Jehovah Witness,FY 2013,6,Eritrea,1,271
+From: 20 May 2013,To: 20 May 2013,Methodist,FY 2013,1,Dem. Rep. Congo,1,271
+From: 20 May 2013,To: 20 May 2013,Moslem,FY 2013,61,Burma,16,271
+From: 20 May 2013,To: 20 May 2013,Moslem,FY 2013,61,Dem. Rep. Congo,11,271
+From: 20 May 2013,To: 20 May 2013,Moslem,FY 2013,61,Somalia,32,271
+From: 20 May 2013,To: 20 May 2013,Moslem,FY 2013,61,Sudan,2,271
+From: 20 May 2013,To: 20 May 2013,Moslem Shiite,FY 2013,50,Iraq,50,271
+From: 20 May 2013,To: 20 May 2013,Moslem Suni,FY 2013,57,Iraq,57,271
+From: 20 May 2013,To: 20 May 2013,Orthodox,FY 2013,3,Eritrea,3,271
+From: 20 May 2013,To: 20 May 2013,Protestant,FY 2013,10,Dem. Rep. Congo,6,271
+From: 20 May 2013,To: 20 May 2013,Protestant,FY 2013,10,Rwanda,4,271
+

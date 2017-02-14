@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Mar 2012,To: 28 Mar 2012,Bhutan,FY 2012,35,Buddhist,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Bhutan,FY 2012,35,Christian,4,183
+From: 28 Mar 2012,To: 28 Mar 2012,Bhutan,FY 2012,35,Hindu,25,183
+From: 28 Mar 2012,To: 28 Mar 2012,Bhutan,FY 2012,35,Kirat,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burma,FY 2012,52,Animist,8,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burma,FY 2012,52,Baptist,2,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burma,FY 2012,52,Buddhist,5,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burma,FY 2012,52,Catholic,2,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burma,FY 2012,52,Christian,34,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burma,FY 2012,52,Methodist,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Burundi,FY 2012,1,Unknown,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Congo,FY 2012,3,Protestant,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Dem. Rep. Congo,FY 2012,2,Catholic,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Dem. Rep. Congo,FY 2012,2,Protestant,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Eritrea,FY 2012,3,Christian,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Ethiopia,FY 2012,1,Moslem,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Iraq,FY 2012,28,Bahai,9,183
+From: 28 Mar 2012,To: 28 Mar 2012,Iraq,FY 2012,28,Catholic,7,183
+From: 28 Mar 2012,To: 28 Mar 2012,Iraq,FY 2012,28,Moslem Shiite,5,183
+From: 28 Mar 2012,To: 28 Mar 2012,Iraq,FY 2012,28,Orthodox,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Iraq,FY 2012,28,Sabeans-Mandean,5,183
+From: 28 Mar 2012,To: 28 Mar 2012,Iraq,FY 2012,28,Yazidi,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Moldova,FY 2012,27,Baptist,14,183
+From: 28 Mar 2012,To: 28 Mar 2012,Moldova,FY 2012,27,Pentecostalist,13,183
+From: 28 Mar 2012,To: 28 Mar 2012,Rwanda,FY 2012,4,Catholic,4,183
+From: 28 Mar 2012,To: 28 Mar 2012,Somalia,FY 2012,27,Moslem,27,183
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Mar 2012,To: 28 Mar 2012,Animist,FY 2012,8,Burma,8,183
+From: 28 Mar 2012,To: 28 Mar 2012,Bahai,FY 2012,9,Iraq,9,183
+From: 28 Mar 2012,To: 28 Mar 2012,Baptist,FY 2012,16,Burma,2,183
+From: 28 Mar 2012,To: 28 Mar 2012,Baptist,FY 2012,16,Moldova,14,183
+From: 28 Mar 2012,To: 28 Mar 2012,Buddhist,FY 2012,8,Bhutan,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Buddhist,FY 2012,8,Burma,5,183
+From: 28 Mar 2012,To: 28 Mar 2012,Catholic,FY 2012,14,Burma,2,183
+From: 28 Mar 2012,To: 28 Mar 2012,Catholic,FY 2012,14,Dem. Rep. Congo,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Catholic,FY 2012,14,Iraq,7,183
+From: 28 Mar 2012,To: 28 Mar 2012,Catholic,FY 2012,14,Rwanda,4,183
+From: 28 Mar 2012,To: 28 Mar 2012,Christian,FY 2012,41,Bhutan,4,183
+From: 28 Mar 2012,To: 28 Mar 2012,Christian,FY 2012,41,Burma,34,183
+From: 28 Mar 2012,To: 28 Mar 2012,Christian,FY 2012,41,Eritrea,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Hindu,FY 2012,25,Bhutan,25,183
+From: 28 Mar 2012,To: 28 Mar 2012,Kirat,FY 2012,3,Bhutan,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Methodist,FY 2012,1,Burma,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Moslem,FY 2012,28,Ethiopia,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Moslem,FY 2012,28,Somalia,27,183
+From: 28 Mar 2012,To: 28 Mar 2012,Moslem Shiite,FY 2012,5,Iraq,5,183
+From: 28 Mar 2012,To: 28 Mar 2012,Orthodox,FY 2012,1,Iraq,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Pentecostalist,FY 2012,13,Moldova,13,183
+From: 28 Mar 2012,To: 28 Mar 2012,Protestant,FY 2012,4,Congo,3,183
+From: 28 Mar 2012,To: 28 Mar 2012,Protestant,FY 2012,4,Dem. Rep. Congo,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Sabeans-Mandean,FY 2012,5,Iraq,5,183
+From: 28 Mar 2012,To: 28 Mar 2012,Unknown,FY 2012,1,Burundi,1,183
+From: 28 Mar 2012,To: 28 Mar 2012,Yazidi,FY 2012,1,Iraq,1,183
+

@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Sep 2003,To: 11 Sep 2003,Afghanistan,FY 2003,3,Moslem,3,226
+From: 11 Sep 2003,To: 11 Sep 2003,China,FY 2003,2,Moslem,2,226
+From: 11 Sep 2003,To: 11 Sep 2003,Croatia,FY 2003,15,Orthodox,15,226
+From: 11 Sep 2003,To: 11 Sep 2003,Dem. Rep. Congo,FY 2003,4,Christian,4,226
+From: 11 Sep 2003,To: 11 Sep 2003,Eritrea,FY 2003,1,Catholic,1,226
+From: 11 Sep 2003,To: 11 Sep 2003,Ethiopia,FY 2003,58,Christian,25,226
+From: 11 Sep 2003,To: 11 Sep 2003,Ethiopia,FY 2003,58,Moslem,21,226
+From: 11 Sep 2003,To: 11 Sep 2003,Ethiopia,FY 2003,58,Orthodox,12,226
+From: 11 Sep 2003,To: 11 Sep 2003,Iran,FY 2003,29,Bahai,27,226
+From: 11 Sep 2003,To: 11 Sep 2003,Iran,FY 2003,29,Christian,2,226
+From: 11 Sep 2003,To: 11 Sep 2003,Liberia,FY 2003,35,Baptist,5,226
+From: 11 Sep 2003,To: 11 Sep 2003,Liberia,FY 2003,35,Christian,30,226
+From: 11 Sep 2003,To: 11 Sep 2003,Somalia,FY 2003,27,Moslem,27,226
+From: 11 Sep 2003,To: 11 Sep 2003,Sudan,FY 2003,21,Catholic,4,226
+From: 11 Sep 2003,To: 11 Sep 2003,Sudan,FY 2003,21,Moslem,13,226
+From: 11 Sep 2003,To: 11 Sep 2003,Sudan,FY 2003,21,Protestant,4,226
+From: 11 Sep 2003,To: 11 Sep 2003,Vietnam,FY 2003,31,Buddhist,11,226
+From: 11 Sep 2003,To: 11 Sep 2003,Vietnam,FY 2003,31,Catholic,2,226
+From: 11 Sep 2003,To: 11 Sep 2003,Vietnam,FY 2003,31,No Religion,14,226
+From: 11 Sep 2003,To: 11 Sep 2003,Vietnam,FY 2003,31,Unknown,4,226
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Sep 2003,To: 11 Sep 2003,Bahai,FY 2003,27,Iran,27,226
+From: 11 Sep 2003,To: 11 Sep 2003,Baptist,FY 2003,5,Liberia,5,226
+From: 11 Sep 2003,To: 11 Sep 2003,Buddhist,FY 2003,11,Vietnam,11,226
+From: 11 Sep 2003,To: 11 Sep 2003,Catholic,FY 2003,7,Eritrea,1,226
+From: 11 Sep 2003,To: 11 Sep 2003,Catholic,FY 2003,7,Sudan,4,226
+From: 11 Sep 2003,To: 11 Sep 2003,Catholic,FY 2003,7,Vietnam,2,226
+From: 11 Sep 2003,To: 11 Sep 2003,Christian,FY 2003,61,Dem. Rep. Congo,4,226
+From: 11 Sep 2003,To: 11 Sep 2003,Christian,FY 2003,61,Ethiopia,25,226
+From: 11 Sep 2003,To: 11 Sep 2003,Christian,FY 2003,61,Iran,2,226
+From: 11 Sep 2003,To: 11 Sep 2003,Christian,FY 2003,61,Liberia,30,226
+From: 11 Sep 2003,To: 11 Sep 2003,Moslem,FY 2003,66,Afghanistan,3,226
+From: 11 Sep 2003,To: 11 Sep 2003,Moslem,FY 2003,66,China,2,226
+From: 11 Sep 2003,To: 11 Sep 2003,Moslem,FY 2003,66,Ethiopia,21,226
+From: 11 Sep 2003,To: 11 Sep 2003,Moslem,FY 2003,66,Somalia,27,226
+From: 11 Sep 2003,To: 11 Sep 2003,Moslem,FY 2003,66,Sudan,13,226
+From: 11 Sep 2003,To: 11 Sep 2003,No Religion,FY 2003,14,Vietnam,14,226
+From: 11 Sep 2003,To: 11 Sep 2003,Orthodox,FY 2003,27,Croatia,15,226
+From: 11 Sep 2003,To: 11 Sep 2003,Orthodox,FY 2003,27,Ethiopia,12,226
+From: 11 Sep 2003,To: 11 Sep 2003,Protestant,FY 2003,4,Sudan,4,226
+From: 11 Sep 2003,To: 11 Sep 2003,Unknown,FY 2003,4,Vietnam,4,226
+

@@ -1,0 +1,91 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Feb 2010,To: 04 Feb 2010,Afghanistan,FY 2010,11,Christian,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Afghanistan,FY 2010,11,Moslem,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Afghanistan,FY 2010,11,Moslem Suni,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Afghanistan,FY 2010,11,Other Religion,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Bhutan,FY 2010,35,Buddhist,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Bhutan,FY 2010,35,Christian,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Bhutan,FY 2010,35,Hindu,29,500
+From: 04 Feb 2010,To: 04 Feb 2010,Burma,FY 2010,128,Buddhist,13,500
+From: 04 Feb 2010,To: 04 Feb 2010,Burma,FY 2010,128,Christian,112,500
+From: 04 Feb 2010,To: 04 Feb 2010,Burma,FY 2010,128,Moslem,3,500
+From: 04 Feb 2010,To: 04 Feb 2010,Cameroon,FY 2010,1,Christian,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Congo,FY 2010,1,Christian,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Cuba,FY 2010,69,Catholic,21,500
+From: 04 Feb 2010,To: 04 Feb 2010,Cuba,FY 2010,69,Jehovah Witness,13,500
+From: 04 Feb 2010,To: 04 Feb 2010,Cuba,FY 2010,69,No Religion,19,500
+From: 04 Feb 2010,To: 04 Feb 2010,Cuba,FY 2010,69,Pentecostalist,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Cuba,FY 2010,69,Seventh Day Adventist,12,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Baptist,3,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Catholic,12,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Christian,18,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Jehovah Witness,10,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Lutheran,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Methodist,3,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Moslem,10,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Pentecostalist,15,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Protestant,8,500
+From: 04 Feb 2010,To: 04 Feb 2010,Dem. Rep. Congo,FY 2010,84,Seventh Day Adventist,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Eritrea,FY 2010,30,Catholic,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Eritrea,FY 2010,30,Moslem,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Eritrea,FY 2010,30,Orthodox,21,500
+From: 04 Feb 2010,To: 04 Feb 2010,Ethiopia,FY 2010,3,Catholic,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Ethiopia,FY 2010,3,Orthodox,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Ethiopia,FY 2010,3,Protestant,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Iran,FY 2010,5,Christian,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Iraq,FY 2010,57,Christian,28,500
+From: 04 Feb 2010,To: 04 Feb 2010,Iraq,FY 2010,57,Moslem Shiite,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Iraq,FY 2010,57,Moslem Suni,24,500
+From: 04 Feb 2010,To: 04 Feb 2010,Liberia,FY 2010,11,Christian,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Liberia,FY 2010,11,Lutheran,6,500
+From: 04 Feb 2010,To: 04 Feb 2010,Palestine,FY 2010,23,Moslem Suni,23,500
+From: 04 Feb 2010,To: 04 Feb 2010,Somalia,FY 2010,38,Moslem,38,500
+From: 04 Feb 2010,To: 04 Feb 2010,Sudan,FY 2010,4,Christian,4,500
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Feb 2010,To: 04 Feb 2010,Baptist,FY 2010,3,Dem. Rep. Congo,3,500
+From: 04 Feb 2010,To: 04 Feb 2010,Buddhist,FY 2010,14,Bhutan,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Buddhist,FY 2010,14,Burma,13,500
+From: 04 Feb 2010,To: 04 Feb 2010,Catholic,FY 2010,39,Cuba,21,500
+From: 04 Feb 2010,To: 04 Feb 2010,Catholic,FY 2010,39,Dem. Rep. Congo,12,500
+From: 04 Feb 2010,To: 04 Feb 2010,Catholic,FY 2010,39,Eritrea,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Catholic,FY 2010,39,Ethiopia,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Afghanistan,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Bhutan,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Burma,112,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Cameroon,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Congo,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Dem. Rep. Congo,18,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Iran,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Iraq,28,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Liberia,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Christian,FY 2010,180,Sudan,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Hindu,FY 2010,29,Bhutan,29,500
+From: 04 Feb 2010,To: 04 Feb 2010,Jehovah Witness,FY 2010,23,Cuba,13,500
+From: 04 Feb 2010,To: 04 Feb 2010,Jehovah Witness,FY 2010,23,Dem. Rep. Congo,10,500
+From: 04 Feb 2010,To: 04 Feb 2010,Lutheran,FY 2010,10,Dem. Rep. Congo,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Lutheran,FY 2010,10,Liberia,6,500
+From: 04 Feb 2010,To: 04 Feb 2010,Methodist,FY 2010,3,Dem. Rep. Congo,3,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem,FY 2010,60,Afghanistan,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem,FY 2010,60,Burma,3,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem,FY 2010,60,Dem. Rep. Congo,10,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem,FY 2010,60,Eritrea,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem,FY 2010,60,Somalia,38,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem Shiite,FY 2010,5,Iraq,5,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem Suni,FY 2010,51,Afghanistan,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem Suni,FY 2010,51,Iraq,24,500
+From: 04 Feb 2010,To: 04 Feb 2010,Moslem Suni,FY 2010,51,Palestine,23,500
+From: 04 Feb 2010,To: 04 Feb 2010,No Religion,FY 2010,19,Cuba,19,500
+From: 04 Feb 2010,To: 04 Feb 2010,Orthodox,FY 2010,22,Eritrea,21,500
+From: 04 Feb 2010,To: 04 Feb 2010,Orthodox,FY 2010,22,Ethiopia,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Other Religion,FY 2010,1,Afghanistan,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Pentecostalist,FY 2010,19,Cuba,4,500
+From: 04 Feb 2010,To: 04 Feb 2010,Pentecostalist,FY 2010,19,Dem. Rep. Congo,15,500
+From: 04 Feb 2010,To: 04 Feb 2010,Protestant,FY 2010,9,Dem. Rep. Congo,8,500
+From: 04 Feb 2010,To: 04 Feb 2010,Protestant,FY 2010,9,Ethiopia,1,500
+From: 04 Feb 2010,To: 04 Feb 2010,Seventh Day Adventist,FY 2010,13,Cuba,12,500
+From: 04 Feb 2010,To: 04 Feb 2010,Seventh Day Adventist,FY 2010,13,Dem. Rep. Congo,1,500
+

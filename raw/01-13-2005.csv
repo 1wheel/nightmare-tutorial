@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jan 2005,To: 13 Jan 2005,Afghanistan,FY 2005,13,Moslem,4,86
+From: 13 Jan 2005,To: 13 Jan 2005,Afghanistan,FY 2005,13,Moslem Shiite,9,86
+From: 13 Jan 2005,To: 13 Jan 2005,Azerbaijan,FY 2005,4,Jewish,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Azerbaijan,FY 2005,4,Unknown,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Ethiopia,FY 2005,2,Orthodox,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Liberia,FY 2005,15,Catholic,4,86
+From: 13 Jan 2005,To: 13 Jan 2005,Liberia,FY 2005,15,Christian,11,86
+From: 13 Jan 2005,To: 13 Jan 2005,Russia,FY 2005,5,Atheist,3,86
+From: 13 Jan 2005,To: 13 Jan 2005,Russia,FY 2005,5,Jewish,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Sierra Leone,FY 2005,21,Christian,8,86
+From: 13 Jan 2005,To: 13 Jan 2005,Sierra Leone,FY 2005,21,Moslem,13,86
+From: 13 Jan 2005,To: 13 Jan 2005,Somalia,FY 2005,2,Moslem,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Uzbekistan,FY 2005,24,Jewish,16,86
+From: 13 Jan 2005,To: 13 Jan 2005,Uzbekistan,FY 2005,24,Seventh Day Adventist,8,86
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jan 2005,To: 13 Jan 2005,Atheist,FY 2005,3,Russia,3,86
+From: 13 Jan 2005,To: 13 Jan 2005,Catholic,FY 2005,4,Liberia,4,86
+From: 13 Jan 2005,To: 13 Jan 2005,Christian,FY 2005,19,Liberia,11,86
+From: 13 Jan 2005,To: 13 Jan 2005,Christian,FY 2005,19,Sierra Leone,8,86
+From: 13 Jan 2005,To: 13 Jan 2005,Jewish,FY 2005,20,Azerbaijan,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Jewish,FY 2005,20,Russia,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Jewish,FY 2005,20,Uzbekistan,16,86
+From: 13 Jan 2005,To: 13 Jan 2005,Moslem,FY 2005,19,Afghanistan,4,86
+From: 13 Jan 2005,To: 13 Jan 2005,Moslem,FY 2005,19,Sierra Leone,13,86
+From: 13 Jan 2005,To: 13 Jan 2005,Moslem,FY 2005,19,Somalia,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Moslem Shiite,FY 2005,9,Afghanistan,9,86
+From: 13 Jan 2005,To: 13 Jan 2005,Orthodox,FY 2005,2,Ethiopia,2,86
+From: 13 Jan 2005,To: 13 Jan 2005,Seventh Day Adventist,FY 2005,8,Uzbekistan,8,86
+From: 13 Jan 2005,To: 13 Jan 2005,Unknown,FY 2005,2,Azerbaijan,2,86
+

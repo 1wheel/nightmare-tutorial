@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Oct 2006,To: 24 Oct 2006,Afghanistan,FY 2007,1,Moslem,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Central African Republic,FY 2007,2,Unknown,2,209
+From: 24 Oct 2006,To: 24 Oct 2006,Eritrea,FY 2007,35,Catholic,2,209
+From: 24 Oct 2006,To: 24 Oct 2006,Eritrea,FY 2007,35,Christian,7,209
+From: 24 Oct 2006,To: 24 Oct 2006,Eritrea,FY 2007,35,Moslem,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Eritrea,FY 2007,35,Orthodox,23,209
+From: 24 Oct 2006,To: 24 Oct 2006,Eritrea,FY 2007,35,Protestant,2,209
+From: 24 Oct 2006,To: 24 Oct 2006,Iran,FY 2007,55,Bahai,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Iran,FY 2007,55,Christian,22,209
+From: 24 Oct 2006,To: 24 Oct 2006,Iran,FY 2007,55,Jewish,10,209
+From: 24 Oct 2006,To: 24 Oct 2006,Iran,FY 2007,55,Sabeans-Mandean,16,209
+From: 24 Oct 2006,To: 24 Oct 2006,Iran,FY 2007,55,Zoroastrian,6,209
+From: 24 Oct 2006,To: 24 Oct 2006,Liberia,FY 2007,9,Baptist,5,209
+From: 24 Oct 2006,To: 24 Oct 2006,Liberia,FY 2007,9,Christian,3,209
+From: 24 Oct 2006,To: 24 Oct 2006,Liberia,FY 2007,9,Pentecostalist,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Somalia,FY 2007,72,Moslem,72,209
+From: 24 Oct 2006,To: 24 Oct 2006,Ukraine,FY 2007,35,Baptist,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Ukraine,FY 2007,35,Jehovah Witness,4,209
+From: 24 Oct 2006,To: 24 Oct 2006,Ukraine,FY 2007,35,Jewish,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Ukraine,FY 2007,35,No Religion,4,209
+From: 24 Oct 2006,To: 24 Oct 2006,Ukraine,FY 2007,35,Pentecostalist,25,209
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Oct 2006,To: 24 Oct 2006,Bahai,FY 2007,1,Iran,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Baptist,FY 2007,6,Liberia,5,209
+From: 24 Oct 2006,To: 24 Oct 2006,Baptist,FY 2007,6,Ukraine,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Catholic,FY 2007,2,Eritrea,2,209
+From: 24 Oct 2006,To: 24 Oct 2006,Christian,FY 2007,32,Eritrea,7,209
+From: 24 Oct 2006,To: 24 Oct 2006,Christian,FY 2007,32,Iran,22,209
+From: 24 Oct 2006,To: 24 Oct 2006,Christian,FY 2007,32,Liberia,3,209
+From: 24 Oct 2006,To: 24 Oct 2006,Jehovah Witness,FY 2007,4,Ukraine,4,209
+From: 24 Oct 2006,To: 24 Oct 2006,Jewish,FY 2007,11,Iran,10,209
+From: 24 Oct 2006,To: 24 Oct 2006,Jewish,FY 2007,11,Ukraine,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Moslem,FY 2007,74,Afghanistan,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Moslem,FY 2007,74,Eritrea,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Moslem,FY 2007,74,Somalia,72,209
+From: 24 Oct 2006,To: 24 Oct 2006,No Religion,FY 2007,4,Ukraine,4,209
+From: 24 Oct 2006,To: 24 Oct 2006,Orthodox,FY 2007,23,Eritrea,23,209
+From: 24 Oct 2006,To: 24 Oct 2006,Pentecostalist,FY 2007,26,Liberia,1,209
+From: 24 Oct 2006,To: 24 Oct 2006,Pentecostalist,FY 2007,26,Ukraine,25,209
+From: 24 Oct 2006,To: 24 Oct 2006,Protestant,FY 2007,2,Eritrea,2,209
+From: 24 Oct 2006,To: 24 Oct 2006,Sabeans-Mandean,FY 2007,16,Iran,16,209
+From: 24 Oct 2006,To: 24 Oct 2006,Unknown,FY 2007,2,Central African Republic,2,209
+From: 24 Oct 2006,To: 24 Oct 2006,Zoroastrian,FY 2007,6,Iran,6,209
+

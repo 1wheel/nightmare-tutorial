@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Mar 2012,To: 15 Mar 2012,Bhutan,FY 2012,30,Buddhist,12,139
+From: 15 Mar 2012,To: 15 Mar 2012,Bhutan,FY 2012,30,Hindu,13,139
+From: 15 Mar 2012,To: 15 Mar 2012,Bhutan,FY 2012,30,Kirat,5,139
+From: 15 Mar 2012,To: 15 Mar 2012,Burundi,FY 2012,1,Christian,1,139
+From: 15 Mar 2012,To: 15 Mar 2012,Cuba,FY 2012,32,Catholic,14,139
+From: 15 Mar 2012,To: 15 Mar 2012,Cuba,FY 2012,32,Jehovah Witness,3,139
+From: 15 Mar 2012,To: 15 Mar 2012,Cuba,FY 2012,32,No Religion,12,139
+From: 15 Mar 2012,To: 15 Mar 2012,Cuba,FY 2012,32,Protestant,3,139
+From: 15 Mar 2012,To: 15 Mar 2012,Iran,FY 2012,1,Zoroastrian,1,139
+From: 15 Mar 2012,To: 15 Mar 2012,Iraq,FY 2012,43,Christian,34,139
+From: 15 Mar 2012,To: 15 Mar 2012,Iraq,FY 2012,43,Moslem Shiite,1,139
+From: 15 Mar 2012,To: 15 Mar 2012,Iraq,FY 2012,43,Moslem Suni,8,139
+From: 15 Mar 2012,To: 15 Mar 2012,Somalia,FY 2012,27,Moslem,27,139
+From: 15 Mar 2012,To: 15 Mar 2012,Ukraine,FY 2012,3,Pentecostalist,3,139
+From: 15 Mar 2012,To: 15 Mar 2012,Vietnam,FY 2012,2,No Religion,2,139
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Mar 2012,To: 15 Mar 2012,Buddhist,FY 2012,12,Bhutan,12,139
+From: 15 Mar 2012,To: 15 Mar 2012,Catholic,FY 2012,14,Cuba,14,139
+From: 15 Mar 2012,To: 15 Mar 2012,Christian,FY 2012,35,Burundi,1,139
+From: 15 Mar 2012,To: 15 Mar 2012,Christian,FY 2012,35,Iraq,34,139
+From: 15 Mar 2012,To: 15 Mar 2012,Hindu,FY 2012,13,Bhutan,13,139
+From: 15 Mar 2012,To: 15 Mar 2012,Jehovah Witness,FY 2012,3,Cuba,3,139
+From: 15 Mar 2012,To: 15 Mar 2012,Kirat,FY 2012,5,Bhutan,5,139
+From: 15 Mar 2012,To: 15 Mar 2012,Moslem,FY 2012,27,Somalia,27,139
+From: 15 Mar 2012,To: 15 Mar 2012,Moslem Shiite,FY 2012,1,Iraq,1,139
+From: 15 Mar 2012,To: 15 Mar 2012,Moslem Suni,FY 2012,8,Iraq,8,139
+From: 15 Mar 2012,To: 15 Mar 2012,No Religion,FY 2012,14,Cuba,12,139
+From: 15 Mar 2012,To: 15 Mar 2012,No Religion,FY 2012,14,Vietnam,2,139
+From: 15 Mar 2012,To: 15 Mar 2012,Pentecostalist,FY 2012,3,Ukraine,3,139
+From: 15 Mar 2012,To: 15 Mar 2012,Protestant,FY 2012,3,Cuba,3,139
+From: 15 Mar 2012,To: 15 Mar 2012,Zoroastrian,FY 2012,1,Iran,1,139
+

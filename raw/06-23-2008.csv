@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jun 2008,To: 23 Jun 2008,Belarus,FY 2008,11,Baptist,5,289
+From: 23 Jun 2008,To: 23 Jun 2008,Belarus,FY 2008,11,Jewish,2,289
+From: 23 Jun 2008,To: 23 Jun 2008,Belarus,FY 2008,11,No Religion,4,289
+From: 23 Jun 2008,To: 23 Jun 2008,Bhutan,FY 2008,70,Buddhist,5,289
+From: 23 Jun 2008,To: 23 Jun 2008,Bhutan,FY 2008,70,Christian,2,289
+From: 23 Jun 2008,To: 23 Jun 2008,Bhutan,FY 2008,70,Hindu,56,289
+From: 23 Jun 2008,To: 23 Jun 2008,Bhutan,FY 2008,70,Kirat,7,289
+From: 23 Jun 2008,To: 23 Jun 2008,Burma,FY 2008,93,Buddhist,27,289
+From: 23 Jun 2008,To: 23 Jun 2008,Burma,FY 2008,93,Christian,60,289
+From: 23 Jun 2008,To: 23 Jun 2008,Burma,FY 2008,93,Moslem,6,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Catholic,13,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Christian,43,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Moslem,4,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Moslem Shiite,13,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Moslem Suni,31,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Orthodox,1,289
+From: 23 Jun 2008,To: 23 Jun 2008,Iraq,FY 2008,114,Sabeans-Mandean,9,289
+From: 23 Jun 2008,To: 23 Jun 2008,Somalia,FY 2008,1,Moslem,1,289
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jun 2008,To: 23 Jun 2008,Baptist,FY 2008,5,Belarus,5,289
+From: 23 Jun 2008,To: 23 Jun 2008,Buddhist,FY 2008,32,Bhutan,5,289
+From: 23 Jun 2008,To: 23 Jun 2008,Buddhist,FY 2008,32,Burma,27,289
+From: 23 Jun 2008,To: 23 Jun 2008,Catholic,FY 2008,13,Iraq,13,289
+From: 23 Jun 2008,To: 23 Jun 2008,Christian,FY 2008,105,Bhutan,2,289
+From: 23 Jun 2008,To: 23 Jun 2008,Christian,FY 2008,105,Burma,60,289
+From: 23 Jun 2008,To: 23 Jun 2008,Christian,FY 2008,105,Iraq,43,289
+From: 23 Jun 2008,To: 23 Jun 2008,Hindu,FY 2008,56,Bhutan,56,289
+From: 23 Jun 2008,To: 23 Jun 2008,Jewish,FY 2008,2,Belarus,2,289
+From: 23 Jun 2008,To: 23 Jun 2008,Kirat,FY 2008,7,Bhutan,7,289
+From: 23 Jun 2008,To: 23 Jun 2008,Moslem,FY 2008,11,Burma,6,289
+From: 23 Jun 2008,To: 23 Jun 2008,Moslem,FY 2008,11,Iraq,4,289
+From: 23 Jun 2008,To: 23 Jun 2008,Moslem,FY 2008,11,Somalia,1,289
+From: 23 Jun 2008,To: 23 Jun 2008,Moslem Shiite,FY 2008,13,Iraq,13,289
+From: 23 Jun 2008,To: 23 Jun 2008,Moslem Suni,FY 2008,31,Iraq,31,289
+From: 23 Jun 2008,To: 23 Jun 2008,No Religion,FY 2008,4,Belarus,4,289
+From: 23 Jun 2008,To: 23 Jun 2008,Orthodox,FY 2008,1,Iraq,1,289
+From: 23 Jun 2008,To: 23 Jun 2008,Sabeans-Mandean,FY 2008,9,Iraq,9,289
+

@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Aug 2011,To: 18 Aug 2011,Bhutan,FY 2011,98,Buddhist,31,399
+From: 18 Aug 2011,To: 18 Aug 2011,Bhutan,FY 2011,98,Christian,10,399
+From: 18 Aug 2011,To: 18 Aug 2011,Bhutan,FY 2011,98,Hindu,45,399
+From: 18 Aug 2011,To: 18 Aug 2011,Bhutan,FY 2011,98,Kirat,12,399
+From: 18 Aug 2011,To: 18 Aug 2011,Burma,FY 2011,116,Baptist,3,399
+From: 18 Aug 2011,To: 18 Aug 2011,Burma,FY 2011,116,Buddhist,10,399
+From: 18 Aug 2011,To: 18 Aug 2011,Burma,FY 2011,116,Catholic,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Burma,FY 2011,116,Christian,91,399
+From: 18 Aug 2011,To: 18 Aug 2011,Burma,FY 2011,116,Hindu,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Burma,FY 2011,116,Moslem,6,399
+From: 18 Aug 2011,To: 18 Aug 2011,Central African Republic,FY 2011,33,Catholic,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Central African Republic,FY 2011,33,Moslem,17,399
+From: 18 Aug 2011,To: 18 Aug 2011,Central African Republic,FY 2011,33,Protestant,15,399
+From: 18 Aug 2011,To: 18 Aug 2011,Congo,FY 2011,2,Christian,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Cuba,FY 2011,43,Catholic,19,399
+From: 18 Aug 2011,To: 18 Aug 2011,Cuba,FY 2011,43,Evangelical Christian,3,399
+From: 18 Aug 2011,To: 18 Aug 2011,Cuba,FY 2011,43,Jehovah Witness,7,399
+From: 18 Aug 2011,To: 18 Aug 2011,Cuba,FY 2011,43,No Religion,12,399
+From: 18 Aug 2011,To: 18 Aug 2011,Cuba,FY 2011,43,Seventh Day Adventist,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Eritrea,FY 2011,2,Orthodox,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Eritrea,FY 2011,2,Pentecostalist,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Ethiopia,FY 2011,4,Christian,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iran,FY 2011,17,Bahai,5,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iran,FY 2011,17,Christian,6,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iran,FY 2011,17,Kaaka'i,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iran,FY 2011,17,Moslem,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iraq,FY 2011,60,Catholic,17,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iraq,FY 2011,60,Christian,30,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iraq,FY 2011,60,Moslem Shiite,7,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iraq,FY 2011,60,Moslem Suni,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Iraq,FY 2011,60,Orthodox,5,399
+From: 18 Aug 2011,To: 18 Aug 2011,Liberia,FY 2011,4,Christian,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Somalia,FY 2011,19,Moslem,19,399
+From: 18 Aug 2011,To: 18 Aug 2011,Togo,FY 2011,1,Moslem,1,399
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Aug 2011,To: 18 Aug 2011,Bahai,FY 2011,5,Iran,5,399
+From: 18 Aug 2011,To: 18 Aug 2011,Baptist,FY 2011,3,Burma,3,399
+From: 18 Aug 2011,To: 18 Aug 2011,Buddhist,FY 2011,41,Bhutan,31,399
+From: 18 Aug 2011,To: 18 Aug 2011,Buddhist,FY 2011,41,Burma,10,399
+From: 18 Aug 2011,To: 18 Aug 2011,Catholic,FY 2011,41,Burma,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Catholic,FY 2011,41,Central African Republic,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Catholic,FY 2011,41,Cuba,19,399
+From: 18 Aug 2011,To: 18 Aug 2011,Catholic,FY 2011,41,Iraq,17,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Bhutan,10,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Burma,91,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Congo,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Ethiopia,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Iran,6,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Iraq,30,399
+From: 18 Aug 2011,To: 18 Aug 2011,Christian,FY 2011,147,Liberia,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Evangelical Christian,FY 2011,3,Cuba,3,399
+From: 18 Aug 2011,To: 18 Aug 2011,Hindu,FY 2011,47,Bhutan,45,399
+From: 18 Aug 2011,To: 18 Aug 2011,Hindu,FY 2011,47,Burma,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Jehovah Witness,FY 2011,7,Cuba,7,399
+From: 18 Aug 2011,To: 18 Aug 2011,Kaaka'i,FY 2011,2,Iran,2,399
+From: 18 Aug 2011,To: 18 Aug 2011,Kirat,FY 2011,12,Bhutan,12,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem,FY 2011,47,Burma,6,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem,FY 2011,47,Central African Republic,17,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem,FY 2011,47,Iran,4,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem,FY 2011,47,Somalia,19,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem,FY 2011,47,Togo,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem Shiite,FY 2011,7,Iraq,7,399
+From: 18 Aug 2011,To: 18 Aug 2011,Moslem Suni,FY 2011,1,Iraq,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,No Religion,FY 2011,12,Cuba,12,399
+From: 18 Aug 2011,To: 18 Aug 2011,Orthodox,FY 2011,6,Eritrea,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Orthodox,FY 2011,6,Iraq,5,399
+From: 18 Aug 2011,To: 18 Aug 2011,Pentecostalist,FY 2011,1,Eritrea,1,399
+From: 18 Aug 2011,To: 18 Aug 2011,Protestant,FY 2011,15,Central African Republic,15,399
+From: 18 Aug 2011,To: 18 Aug 2011,Seventh Day Adventist,FY 2011,2,Cuba,2,399
+

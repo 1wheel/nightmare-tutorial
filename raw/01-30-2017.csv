@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jan 2017,To: 30 Jan 2017,Afghanistan,FY 2017,1,Moslem Shiite,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Bhutan,FY 2017,51,Buddhist,18,89
+From: 30 Jan 2017,To: 30 Jan 2017,Bhutan,FY 2017,51,Christian,9,89
+From: 30 Jan 2017,To: 30 Jan 2017,Bhutan,FY 2017,51,Hindu,21,89
+From: 30 Jan 2017,To: 30 Jan 2017,Bhutan,FY 2017,51,Kirat,3,89
+From: 30 Jan 2017,To: 30 Jan 2017,Dem. Rep. Congo,FY 2017,20,Christian,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Dem. Rep. Congo,FY 2017,20,Jehovah Witness,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Dem. Rep. Congo,FY 2017,20,Pentecostalist,7,89
+From: 30 Jan 2017,To: 30 Jan 2017,Dem. Rep. Congo,FY 2017,20,Protestant,9,89
+From: 30 Jan 2017,To: 30 Jan 2017,El Salvador,FY 2017,11,Catholic,7,89
+From: 30 Jan 2017,To: 30 Jan 2017,El Salvador,FY 2017,11,Evangelical Christian,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,El Salvador,FY 2017,11,No Religion,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Eritrea,FY 2017,2,Christian,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Eritrea,FY 2017,2,Moslem,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Ethiopia,FY 2017,1,Moslem,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Ivory Coast,FY 2017,3,Christian,3,89
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jan 2017,To: 30 Jan 2017,Buddhist,FY 2017,18,Bhutan,18,89
+From: 30 Jan 2017,To: 30 Jan 2017,Catholic,FY 2017,7,El Salvador,7,89
+From: 30 Jan 2017,To: 30 Jan 2017,Christian,FY 2017,15,Bhutan,9,89
+From: 30 Jan 2017,To: 30 Jan 2017,Christian,FY 2017,15,Dem. Rep. Congo,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Christian,FY 2017,15,Eritrea,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Christian,FY 2017,15,Ivory Coast,3,89
+From: 30 Jan 2017,To: 30 Jan 2017,Evangelical Christian,FY 2017,2,El Salvador,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Hindu,FY 2017,21,Bhutan,21,89
+From: 30 Jan 2017,To: 30 Jan 2017,Jehovah Witness,FY 2017,2,Dem. Rep. Congo,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Kirat,FY 2017,3,Bhutan,3,89
+From: 30 Jan 2017,To: 30 Jan 2017,Moslem,FY 2017,2,Eritrea,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Moslem,FY 2017,2,Ethiopia,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,Moslem Shiite,FY 2017,1,Afghanistan,1,89
+From: 30 Jan 2017,To: 30 Jan 2017,No Religion,FY 2017,2,El Salvador,2,89
+From: 30 Jan 2017,To: 30 Jan 2017,Pentecostalist,FY 2017,7,Dem. Rep. Congo,7,89
+From: 30 Jan 2017,To: 30 Jan 2017,Protestant,FY 2017,9,Dem. Rep. Congo,9,89
+

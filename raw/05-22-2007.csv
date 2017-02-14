@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 May 2007,To: 22 May 2007,Burma,FY 2007,65,Buddhist,1,292
+From: 22 May 2007,To: 22 May 2007,Burma,FY 2007,65,Christian,64,292
+From: 22 May 2007,To: 22 May 2007,Burundi,FY 2007,71,Catholic,43,292
+From: 22 May 2007,To: 22 May 2007,Burundi,FY 2007,71,Christian,1,292
+From: 22 May 2007,To: 22 May 2007,Burundi,FY 2007,71,Jehovah Witness,3,292
+From: 22 May 2007,To: 22 May 2007,Burundi,FY 2007,71,Methodist,5,292
+From: 22 May 2007,To: 22 May 2007,Burundi,FY 2007,71,Pentecostalist,11,292
+From: 22 May 2007,To: 22 May 2007,Burundi,FY 2007,71,Seventh Day Adventist,8,292
+From: 22 May 2007,To: 22 May 2007,Cuba,FY 2007,70,Baptist,3,292
+From: 22 May 2007,To: 22 May 2007,Cuba,FY 2007,70,Catholic,22,292
+From: 22 May 2007,To: 22 May 2007,Cuba,FY 2007,70,Christian,3,292
+From: 22 May 2007,To: 22 May 2007,Cuba,FY 2007,70,Evangelical Christian,2,292
+From: 22 May 2007,To: 22 May 2007,Cuba,FY 2007,70,Jehovah Witness,15,292
+From: 22 May 2007,To: 22 May 2007,Cuba,FY 2007,70,No Religion,25,292
+From: 22 May 2007,To: 22 May 2007,Dem. Rep. Congo,FY 2007,4,Jehovah Witness,4,292
+From: 22 May 2007,To: 22 May 2007,Iran,FY 2007,11,Bahai,2,292
+From: 22 May 2007,To: 22 May 2007,Iran,FY 2007,11,Christian,8,292
+From: 22 May 2007,To: 22 May 2007,Iran,FY 2007,11,Zoroastrian,1,292
+From: 22 May 2007,To: 22 May 2007,Liberia,FY 2007,13,Christian,13,292
+From: 22 May 2007,To: 22 May 2007,Rwanda,FY 2007,16,Catholic,2,292
+From: 22 May 2007,To: 22 May 2007,Rwanda,FY 2007,16,Christian,5,292
+From: 22 May 2007,To: 22 May 2007,Rwanda,FY 2007,16,Jehovah Witness,4,292
+From: 22 May 2007,To: 22 May 2007,Rwanda,FY 2007,16,No Religion,1,292
+From: 22 May 2007,To: 22 May 2007,Rwanda,FY 2007,16,Seventh Day Adventist,4,292
+From: 22 May 2007,To: 22 May 2007,Ukraine,FY 2007,28,Baptist,12,292
+From: 22 May 2007,To: 22 May 2007,Ukraine,FY 2007,28,Pentecostalist,16,292
+From: 22 May 2007,To: 22 May 2007,Vietnam,FY 2007,14,Protestant,14,292
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 May 2007,To: 22 May 2007,Bahai,FY 2007,2,Iran,2,292
+From: 22 May 2007,To: 22 May 2007,Baptist,FY 2007,15,Cuba,3,292
+From: 22 May 2007,To: 22 May 2007,Baptist,FY 2007,15,Ukraine,12,292
+From: 22 May 2007,To: 22 May 2007,Buddhist,FY 2007,1,Burma,1,292
+From: 22 May 2007,To: 22 May 2007,Catholic,FY 2007,67,Burundi,43,292
+From: 22 May 2007,To: 22 May 2007,Catholic,FY 2007,67,Cuba,22,292
+From: 22 May 2007,To: 22 May 2007,Catholic,FY 2007,67,Rwanda,2,292
+From: 22 May 2007,To: 22 May 2007,Christian,FY 2007,94,Burma,64,292
+From: 22 May 2007,To: 22 May 2007,Christian,FY 2007,94,Burundi,1,292
+From: 22 May 2007,To: 22 May 2007,Christian,FY 2007,94,Cuba,3,292
+From: 22 May 2007,To: 22 May 2007,Christian,FY 2007,94,Iran,8,292
+From: 22 May 2007,To: 22 May 2007,Christian,FY 2007,94,Liberia,13,292
+From: 22 May 2007,To: 22 May 2007,Christian,FY 2007,94,Rwanda,5,292
+From: 22 May 2007,To: 22 May 2007,Evangelical Christian,FY 2007,2,Cuba,2,292
+From: 22 May 2007,To: 22 May 2007,Jehovah Witness,FY 2007,26,Burundi,3,292
+From: 22 May 2007,To: 22 May 2007,Jehovah Witness,FY 2007,26,Cuba,15,292
+From: 22 May 2007,To: 22 May 2007,Jehovah Witness,FY 2007,26,Dem. Rep. Congo,4,292
+From: 22 May 2007,To: 22 May 2007,Jehovah Witness,FY 2007,26,Rwanda,4,292
+From: 22 May 2007,To: 22 May 2007,Methodist,FY 2007,5,Burundi,5,292
+From: 22 May 2007,To: 22 May 2007,No Religion,FY 2007,26,Cuba,25,292
+From: 22 May 2007,To: 22 May 2007,No Religion,FY 2007,26,Rwanda,1,292
+From: 22 May 2007,To: 22 May 2007,Pentecostalist,FY 2007,27,Burundi,11,292
+From: 22 May 2007,To: 22 May 2007,Pentecostalist,FY 2007,27,Ukraine,16,292
+From: 22 May 2007,To: 22 May 2007,Protestant,FY 2007,14,Vietnam,14,292
+From: 22 May 2007,To: 22 May 2007,Seventh Day Adventist,FY 2007,12,Burundi,8,292
+From: 22 May 2007,To: 22 May 2007,Seventh Day Adventist,FY 2007,12,Rwanda,4,292
+From: 22 May 2007,To: 22 May 2007,Zoroastrian,FY 2007,1,Iran,1,292
+

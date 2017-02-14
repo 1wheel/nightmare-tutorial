@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Dec 2010,To: 10 Dec 2010,Bhutan,FY 2011,20,Hindu,17,25
+From: 10 Dec 2010,To: 10 Dec 2010,Bhutan,FY 2011,20,Kirat,3,25
+From: 10 Dec 2010,To: 10 Dec 2010,Iraq,FY 2011,4,Christian,4,25
+From: 10 Dec 2010,To: 10 Dec 2010,"Korea, North",FY 2011,1,Atheist,1,25
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Dec 2010,To: 10 Dec 2010,Atheist,FY 2011,1,"Korea, North",1,25
+From: 10 Dec 2010,To: 10 Dec 2010,Christian,FY 2011,4,Iraq,4,25
+From: 10 Dec 2010,To: 10 Dec 2010,Hindu,FY 2011,17,Bhutan,17,25
+From: 10 Dec 2010,To: 10 Dec 2010,Kirat,FY 2011,3,Bhutan,3,25
+

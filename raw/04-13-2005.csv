@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Apr 2005,To: 13 Apr 2005,Burundi,FY 2005,6,Catholic,5,147
+From: 13 Apr 2005,To: 13 Apr 2005,Burundi,FY 2005,6,Christian,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Dem. Rep. Congo,FY 2005,13,Christian,8,147
+From: 13 Apr 2005,To: 13 Apr 2005,Dem. Rep. Congo,FY 2005,13,Pentecostalist,5,147
+From: 13 Apr 2005,To: 13 Apr 2005,Ethiopia,FY 2005,2,Orthodox,2,147
+From: 13 Apr 2005,To: 13 Apr 2005,Iran,FY 2005,24,Bahai,4,147
+From: 13 Apr 2005,To: 13 Apr 2005,Iran,FY 2005,24,Christian,7,147
+From: 13 Apr 2005,To: 13 Apr 2005,Iran,FY 2005,24,Jewish,8,147
+From: 13 Apr 2005,To: 13 Apr 2005,Iran,FY 2005,24,Moslem Shiite,2,147
+From: 13 Apr 2005,To: 13 Apr 2005,Iran,FY 2005,24,Zoroastrian,3,147
+From: 13 Apr 2005,To: 13 Apr 2005,Liberia,FY 2005,9,Christian,9,147
+From: 13 Apr 2005,To: 13 Apr 2005,Russia,FY 2005,35,Moslem,35,147
+From: 13 Apr 2005,To: 13 Apr 2005,Sierra Leone,FY 2005,1,Moslem,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Somalia,FY 2005,29,Moslem,29,147
+From: 13 Apr 2005,To: 13 Apr 2005,Sudan,FY 2005,1,Christian,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Ukraine,FY 2005,26,Baptist,8,147
+From: 13 Apr 2005,To: 13 Apr 2005,Ukraine,FY 2005,26,Jewish,3,147
+From: 13 Apr 2005,To: 13 Apr 2005,Ukraine,FY 2005,26,Pentecostalist,15,147
+From: 13 Apr 2005,To: 13 Apr 2005,Vietnam,FY 2005,1,Catholic,1,147
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Apr 2005,To: 13 Apr 2005,Bahai,FY 2005,4,Iran,4,147
+From: 13 Apr 2005,To: 13 Apr 2005,Baptist,FY 2005,8,Ukraine,8,147
+From: 13 Apr 2005,To: 13 Apr 2005,Catholic,FY 2005,6,Burundi,5,147
+From: 13 Apr 2005,To: 13 Apr 2005,Catholic,FY 2005,6,Vietnam,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Christian,FY 2005,26,Burundi,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Christian,FY 2005,26,Dem. Rep. Congo,8,147
+From: 13 Apr 2005,To: 13 Apr 2005,Christian,FY 2005,26,Iran,7,147
+From: 13 Apr 2005,To: 13 Apr 2005,Christian,FY 2005,26,Liberia,9,147
+From: 13 Apr 2005,To: 13 Apr 2005,Christian,FY 2005,26,Sudan,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Jewish,FY 2005,11,Iran,8,147
+From: 13 Apr 2005,To: 13 Apr 2005,Jewish,FY 2005,11,Ukraine,3,147
+From: 13 Apr 2005,To: 13 Apr 2005,Moslem,FY 2005,65,Russia,35,147
+From: 13 Apr 2005,To: 13 Apr 2005,Moslem,FY 2005,65,Sierra Leone,1,147
+From: 13 Apr 2005,To: 13 Apr 2005,Moslem,FY 2005,65,Somalia,29,147
+From: 13 Apr 2005,To: 13 Apr 2005,Moslem Shiite,FY 2005,2,Iran,2,147
+From: 13 Apr 2005,To: 13 Apr 2005,Orthodox,FY 2005,2,Ethiopia,2,147
+From: 13 Apr 2005,To: 13 Apr 2005,Pentecostalist,FY 2005,20,Dem. Rep. Congo,5,147
+From: 13 Apr 2005,To: 13 Apr 2005,Pentecostalist,FY 2005,20,Ukraine,15,147
+From: 13 Apr 2005,To: 13 Apr 2005,Zoroastrian,FY 2005,3,Iran,3,147
+

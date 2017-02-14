@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Oct 2005,To: 31 Oct 2005,Belarus,FY 2006,3,Jewish,2,159
+From: 31 Oct 2005,To: 31 Oct 2005,Belarus,FY 2006,3,Pentecostalist,1,159
+From: 31 Oct 2005,To: 31 Oct 2005,Kazakhstan,FY 2006,5,Baptist,5,159
+From: 31 Oct 2005,To: 31 Oct 2005,Laos,FY 2006,35,Ancestral Worship,35,159
+From: 31 Oct 2005,To: 31 Oct 2005,Liberia,FY 2006,25,Christian,20,159
+From: 31 Oct 2005,To: 31 Oct 2005,Liberia,FY 2006,25,Methodist,5,159
+From: 31 Oct 2005,To: 31 Oct 2005,Russia,FY 2006,22,Baptist,1,159
+From: 31 Oct 2005,To: 31 Oct 2005,Russia,FY 2006,22,Jewish,6,159
+From: 31 Oct 2005,To: 31 Oct 2005,Russia,FY 2006,22,No Religion,4,159
+From: 31 Oct 2005,To: 31 Oct 2005,Russia,FY 2006,22,Pentecostalist,11,159
+From: 31 Oct 2005,To: 31 Oct 2005,Sierra Leone,FY 2006,1,Christian,1,159
+From: 31 Oct 2005,To: 31 Oct 2005,Somalia,FY 2006,22,Moslem,22,159
+From: 31 Oct 2005,To: 31 Oct 2005,Sudan,FY 2006,13,Catholic,13,159
+From: 31 Oct 2005,To: 31 Oct 2005,Ukraine,FY 2006,33,Baptist,2,159
+From: 31 Oct 2005,To: 31 Oct 2005,Ukraine,FY 2006,33,Evangelical Christian,4,159
+From: 31 Oct 2005,To: 31 Oct 2005,Ukraine,FY 2006,33,Jewish,3,159
+From: 31 Oct 2005,To: 31 Oct 2005,Ukraine,FY 2006,33,Pentecostalist,19,159
+From: 31 Oct 2005,To: 31 Oct 2005,Ukraine,FY 2006,33,Russian Orthodox,2,159
+From: 31 Oct 2005,To: 31 Oct 2005,Ukraine,FY 2006,33,Seventh Day Adventist,3,159
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Oct 2005,To: 31 Oct 2005,Ancestral Worship,FY 2006,35,Laos,35,159
+From: 31 Oct 2005,To: 31 Oct 2005,Baptist,FY 2006,8,Kazakhstan,5,159
+From: 31 Oct 2005,To: 31 Oct 2005,Baptist,FY 2006,8,Russia,1,159
+From: 31 Oct 2005,To: 31 Oct 2005,Baptist,FY 2006,8,Ukraine,2,159
+From: 31 Oct 2005,To: 31 Oct 2005,Catholic,FY 2006,13,Sudan,13,159
+From: 31 Oct 2005,To: 31 Oct 2005,Christian,FY 2006,21,Liberia,20,159
+From: 31 Oct 2005,To: 31 Oct 2005,Christian,FY 2006,21,Sierra Leone,1,159
+From: 31 Oct 2005,To: 31 Oct 2005,Evangelical Christian,FY 2006,4,Ukraine,4,159
+From: 31 Oct 2005,To: 31 Oct 2005,Jewish,FY 2006,11,Belarus,2,159
+From: 31 Oct 2005,To: 31 Oct 2005,Jewish,FY 2006,11,Russia,6,159
+From: 31 Oct 2005,To: 31 Oct 2005,Jewish,FY 2006,11,Ukraine,3,159
+From: 31 Oct 2005,To: 31 Oct 2005,Methodist,FY 2006,5,Liberia,5,159
+From: 31 Oct 2005,To: 31 Oct 2005,Moslem,FY 2006,22,Somalia,22,159
+From: 31 Oct 2005,To: 31 Oct 2005,No Religion,FY 2006,4,Russia,4,159
+From: 31 Oct 2005,To: 31 Oct 2005,Pentecostalist,FY 2006,31,Belarus,1,159
+From: 31 Oct 2005,To: 31 Oct 2005,Pentecostalist,FY 2006,31,Russia,11,159
+From: 31 Oct 2005,To: 31 Oct 2005,Pentecostalist,FY 2006,31,Ukraine,19,159
+From: 31 Oct 2005,To: 31 Oct 2005,Russian Orthodox,FY 2006,2,Ukraine,2,159
+From: 31 Oct 2005,To: 31 Oct 2005,Seventh Day Adventist,FY 2006,3,Ukraine,3,159
+

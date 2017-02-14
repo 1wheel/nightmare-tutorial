@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 May 2005,To: 16 May 2005,Azerbaijan,FY 2005,3,Unknown,3,153
+From: 16 May 2005,To: 16 May 2005,Belarus,FY 2005,25,Baptist,8,153
+From: 16 May 2005,To: 16 May 2005,Belarus,FY 2005,25,Jewish,3,153
+From: 16 May 2005,To: 16 May 2005,Belarus,FY 2005,25,No Religion,2,153
+From: 16 May 2005,To: 16 May 2005,Belarus,FY 2005,25,Orthodox,1,153
+From: 16 May 2005,To: 16 May 2005,Belarus,FY 2005,25,Pentecostalist,11,153
+From: 16 May 2005,To: 16 May 2005,Eritrea,FY 2005,1,Christian,1,153
+From: 16 May 2005,To: 16 May 2005,Ethiopia,FY 2005,10,Christian,1,153
+From: 16 May 2005,To: 16 May 2005,Ethiopia,FY 2005,10,Moslem,3,153
+From: 16 May 2005,To: 16 May 2005,Ethiopia,FY 2005,10,Orthodox,6,153
+From: 16 May 2005,To: 16 May 2005,Laos,FY 2005,12,Ancestral Worship,12,153
+From: 16 May 2005,To: 16 May 2005,Russia,FY 2005,53,Baptist,11,153
+From: 16 May 2005,To: 16 May 2005,Russia,FY 2005,53,Jewish,6,153
+From: 16 May 2005,To: 16 May 2005,Russia,FY 2005,53,Moslem,35,153
+From: 16 May 2005,To: 16 May 2005,Russia,FY 2005,53,Pentecostalist,1,153
+From: 16 May 2005,To: 16 May 2005,Somalia,FY 2005,20,Moslem,20,153
+From: 16 May 2005,To: 16 May 2005,Ukraine,FY 2005,29,Baptist,6,153
+From: 16 May 2005,To: 16 May 2005,Ukraine,FY 2005,29,Jewish,8,153
+From: 16 May 2005,To: 16 May 2005,Ukraine,FY 2005,29,Pentecostalist,15,153
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 May 2005,To: 16 May 2005,Ancestral Worship,FY 2005,12,Laos,12,153
+From: 16 May 2005,To: 16 May 2005,Baptist,FY 2005,25,Belarus,8,153
+From: 16 May 2005,To: 16 May 2005,Baptist,FY 2005,25,Russia,11,153
+From: 16 May 2005,To: 16 May 2005,Baptist,FY 2005,25,Ukraine,6,153
+From: 16 May 2005,To: 16 May 2005,Christian,FY 2005,2,Eritrea,1,153
+From: 16 May 2005,To: 16 May 2005,Christian,FY 2005,2,Ethiopia,1,153
+From: 16 May 2005,To: 16 May 2005,Jewish,FY 2005,17,Belarus,3,153
+From: 16 May 2005,To: 16 May 2005,Jewish,FY 2005,17,Russia,6,153
+From: 16 May 2005,To: 16 May 2005,Jewish,FY 2005,17,Ukraine,8,153
+From: 16 May 2005,To: 16 May 2005,Moslem,FY 2005,58,Ethiopia,3,153
+From: 16 May 2005,To: 16 May 2005,Moslem,FY 2005,58,Russia,35,153
+From: 16 May 2005,To: 16 May 2005,Moslem,FY 2005,58,Somalia,20,153
+From: 16 May 2005,To: 16 May 2005,No Religion,FY 2005,2,Belarus,2,153
+From: 16 May 2005,To: 16 May 2005,Orthodox,FY 2005,7,Belarus,1,153
+From: 16 May 2005,To: 16 May 2005,Orthodox,FY 2005,7,Ethiopia,6,153
+From: 16 May 2005,To: 16 May 2005,Pentecostalist,FY 2005,27,Belarus,11,153
+From: 16 May 2005,To: 16 May 2005,Pentecostalist,FY 2005,27,Russia,1,153
+From: 16 May 2005,To: 16 May 2005,Pentecostalist,FY 2005,27,Ukraine,15,153
+From: 16 May 2005,To: 16 May 2005,Unknown,FY 2005,3,Azerbaijan,3,153
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Apr 2005,To: 27 Apr 2005,Afghanistan,FY 2005,13,Moslem Shiite,9,179
+From: 27 Apr 2005,To: 27 Apr 2005,Afghanistan,FY 2005,13,Moslem Suni,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Dem. Rep. Congo,FY 2005,2,Catholic,2,179
+From: 27 Apr 2005,To: 27 Apr 2005,Eritrea,FY 2005,1,Orthodox,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ethiopia,FY 2005,6,Christian,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ethiopia,FY 2005,6,Moslem,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ethiopia,FY 2005,6,Orthodox,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Iran,FY 2005,19,Bahai,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Iran,FY 2005,19,Christian,10,179
+From: 27 Apr 2005,To: 27 Apr 2005,Iran,FY 2005,19,Sabeans-Mandean,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Iran,FY 2005,19,Zoroastrian,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Laos,FY 2005,19,Ancestral Worship,19,179
+From: 27 Apr 2005,To: 27 Apr 2005,Liberia,FY 2005,24,Catholic,5,179
+From: 27 Apr 2005,To: 27 Apr 2005,Liberia,FY 2005,24,Christian,8,179
+From: 27 Apr 2005,To: 27 Apr 2005,Liberia,FY 2005,24,Moslem,11,179
+From: 27 Apr 2005,To: 27 Apr 2005,Mauritania,FY 2005,3,Moslem,3,179
+From: 27 Apr 2005,To: 27 Apr 2005,Russia,FY 2005,40,Baptist,5,179
+From: 27 Apr 2005,To: 27 Apr 2005,Russia,FY 2005,40,Moslem,35,179
+From: 27 Apr 2005,To: 27 Apr 2005,Rwanda,FY 2005,5,Catholic,5,179
+From: 27 Apr 2005,To: 27 Apr 2005,Sierra Leone,FY 2005,10,Catholic,3,179
+From: 27 Apr 2005,To: 27 Apr 2005,Sierra Leone,FY 2005,10,Moslem,7,179
+From: 27 Apr 2005,To: 27 Apr 2005,Somalia,FY 2005,12,Moslem,12,179
+From: 27 Apr 2005,To: 27 Apr 2005,Sudan,FY 2005,2,Christian,2,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ukraine,FY 2005,23,Baptist,6,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ukraine,FY 2005,23,Christian,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ukraine,FY 2005,23,Evangelical Christian,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ukraine,FY 2005,23,Jewish,2,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ukraine,FY 2005,23,Pentecostalist,9,179
+From: 27 Apr 2005,To: 27 Apr 2005,Ukraine,FY 2005,23,Seventh Day Adventist,4,179
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Apr 2005,To: 27 Apr 2005,Ancestral Worship,FY 2005,19,Laos,19,179
+From: 27 Apr 2005,To: 27 Apr 2005,Bahai,FY 2005,4,Iran,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Baptist,FY 2005,11,Russia,5,179
+From: 27 Apr 2005,To: 27 Apr 2005,Baptist,FY 2005,11,Ukraine,6,179
+From: 27 Apr 2005,To: 27 Apr 2005,Catholic,FY 2005,15,Dem. Rep. Congo,2,179
+From: 27 Apr 2005,To: 27 Apr 2005,Catholic,FY 2005,15,Liberia,5,179
+From: 27 Apr 2005,To: 27 Apr 2005,Catholic,FY 2005,15,Rwanda,5,179
+From: 27 Apr 2005,To: 27 Apr 2005,Catholic,FY 2005,15,Sierra Leone,3,179
+From: 27 Apr 2005,To: 27 Apr 2005,Christian,FY 2005,22,Ethiopia,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Christian,FY 2005,22,Iran,10,179
+From: 27 Apr 2005,To: 27 Apr 2005,Christian,FY 2005,22,Liberia,8,179
+From: 27 Apr 2005,To: 27 Apr 2005,Christian,FY 2005,22,Sudan,2,179
+From: 27 Apr 2005,To: 27 Apr 2005,Christian,FY 2005,22,Ukraine,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Evangelical Christian,FY 2005,1,Ukraine,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Jewish,FY 2005,2,Ukraine,2,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem,FY 2005,72,Ethiopia,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem,FY 2005,72,Liberia,11,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem,FY 2005,72,Mauritania,3,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem,FY 2005,72,Russia,35,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem,FY 2005,72,Sierra Leone,7,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem,FY 2005,72,Somalia,12,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem Shiite,FY 2005,9,Afghanistan,9,179
+From: 27 Apr 2005,To: 27 Apr 2005,Moslem Suni,FY 2005,4,Afghanistan,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Orthodox,FY 2005,2,Eritrea,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Orthodox,FY 2005,2,Ethiopia,1,179
+From: 27 Apr 2005,To: 27 Apr 2005,Pentecostalist,FY 2005,9,Ukraine,9,179
+From: 27 Apr 2005,To: 27 Apr 2005,Sabeans-Mandean,FY 2005,4,Iran,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Seventh Day Adventist,FY 2005,4,Ukraine,4,179
+From: 27 Apr 2005,To: 27 Apr 2005,Zoroastrian,FY 2005,1,Iran,1,179
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Aug 2011,To: 10 Aug 2011,Afghanistan,FY 2011,12,Moslem Suni,12,352
+From: 10 Aug 2011,To: 10 Aug 2011,Belarus,FY 2011,2,Baptist,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Belarus,FY 2011,2,Pentecostalist,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Bhutan,FY 2011,120,Buddhist,19,352
+From: 10 Aug 2011,To: 10 Aug 2011,Bhutan,FY 2011,120,Christian,17,352
+From: 10 Aug 2011,To: 10 Aug 2011,Bhutan,FY 2011,120,Hindu,81,352
+From: 10 Aug 2011,To: 10 Aug 2011,Bhutan,FY 2011,120,Kirat,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Burma,FY 2011,100,Animist,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Burma,FY 2011,100,Baptist,11,352
+From: 10 Aug 2011,To: 10 Aug 2011,Burma,FY 2011,100,Buddhist,5,352
+From: 10 Aug 2011,To: 10 Aug 2011,Burma,FY 2011,100,Catholic,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Burma,FY 2011,100,Christian,60,352
+From: 10 Aug 2011,To: 10 Aug 2011,Burma,FY 2011,100,Moslem,21,352
+From: 10 Aug 2011,To: 10 Aug 2011,Eritrea,FY 2011,19,Catholic,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Eritrea,FY 2011,19,Moslem,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Eritrea,FY 2011,19,Orthodox,12,352
+From: 10 Aug 2011,To: 10 Aug 2011,Eritrea,FY 2011,19,Pentecostalist,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Ethiopia,FY 2011,1,Christian,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Iraq,FY 2011,36,Catholic,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Iraq,FY 2011,36,Christian,13,352
+From: 10 Aug 2011,To: 10 Aug 2011,Iraq,FY 2011,36,Moslem Shiite,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Iraq,FY 2011,36,Moslem Suni,15,352
+From: 10 Aug 2011,To: 10 Aug 2011,Iraq,FY 2011,36,Orthodox,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Iraq,FY 2011,36,Sabeans-Mandean,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Russia,FY 2011,7,Evangelical Christian,5,352
+From: 10 Aug 2011,To: 10 Aug 2011,Russia,FY 2011,7,Jewish,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Somalia,FY 2011,52,Moslem,39,352
+From: 10 Aug 2011,To: 10 Aug 2011,Somalia,FY 2011,52,Moslem Suni,13,352
+From: 10 Aug 2011,To: 10 Aug 2011,Sudan,FY 2011,3,Moslem,3,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Aug 2011,To: 10 Aug 2011,Animist,FY 2011,1,Burma,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Baptist,FY 2011,12,Belarus,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Baptist,FY 2011,12,Burma,11,352
+From: 10 Aug 2011,To: 10 Aug 2011,Buddhist,FY 2011,24,Bhutan,19,352
+From: 10 Aug 2011,To: 10 Aug 2011,Buddhist,FY 2011,24,Burma,5,352
+From: 10 Aug 2011,To: 10 Aug 2011,Catholic,FY 2011,7,Burma,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Catholic,FY 2011,7,Eritrea,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Catholic,FY 2011,7,Iraq,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Christian,FY 2011,91,Bhutan,17,352
+From: 10 Aug 2011,To: 10 Aug 2011,Christian,FY 2011,91,Burma,60,352
+From: 10 Aug 2011,To: 10 Aug 2011,Christian,FY 2011,91,Ethiopia,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Christian,FY 2011,91,Iraq,13,352
+From: 10 Aug 2011,To: 10 Aug 2011,Evangelical Christian,FY 2011,5,Russia,5,352
+From: 10 Aug 2011,To: 10 Aug 2011,Hindu,FY 2011,81,Bhutan,81,352
+From: 10 Aug 2011,To: 10 Aug 2011,Jewish,FY 2011,2,Russia,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Kirat,FY 2011,3,Bhutan,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem,FY 2011,64,Burma,21,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem,FY 2011,64,Eritrea,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem,FY 2011,64,Somalia,39,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem,FY 2011,64,Sudan,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem Shiite,FY 2011,2,Iraq,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem Suni,FY 2011,40,Afghanistan,12,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem Suni,FY 2011,40,Iraq,15,352
+From: 10 Aug 2011,To: 10 Aug 2011,Moslem Suni,FY 2011,40,Somalia,13,352
+From: 10 Aug 2011,To: 10 Aug 2011,Orthodox,FY 2011,14,Eritrea,12,352
+From: 10 Aug 2011,To: 10 Aug 2011,Orthodox,FY 2011,14,Iraq,2,352
+From: 10 Aug 2011,To: 10 Aug 2011,Pentecostalist,FY 2011,4,Belarus,1,352
+From: 10 Aug 2011,To: 10 Aug 2011,Pentecostalist,FY 2011,4,Eritrea,3,352
+From: 10 Aug 2011,To: 10 Aug 2011,Sabeans-Mandean,FY 2011,2,Iraq,2,352
+

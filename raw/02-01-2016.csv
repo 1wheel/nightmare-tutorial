@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Feb 2016,To: 01 Feb 2016,Armenia,FY 2016,4,Evangelical Christian,4,99
+From: 01 Feb 2016,To: 01 Feb 2016,Burma,FY 2016,4,Christian,4,99
+From: 01 Feb 2016,To: 01 Feb 2016,Congo,FY 2016,1,Christian,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Dem. Rep. Congo,FY 2016,32,Catholic,3,99
+From: 01 Feb 2016,To: 01 Feb 2016,Dem. Rep. Congo,FY 2016,32,Christian,6,99
+From: 01 Feb 2016,To: 01 Feb 2016,Dem. Rep. Congo,FY 2016,32,Jehovah Witness,7,99
+From: 01 Feb 2016,To: 01 Feb 2016,Dem. Rep. Congo,FY 2016,32,Methodist,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Dem. Rep. Congo,FY 2016,32,Moslem,4,99
+From: 01 Feb 2016,To: 01 Feb 2016,Dem. Rep. Congo,FY 2016,32,Pentecostalist,11,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iran,FY 2016,3,Bahai,3,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Baptist,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Catholic,6,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Chaldean,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Christian,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Moslem Shiite,11,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Moslem Suni,16,99
+From: 01 Feb 2016,To: 01 Feb 2016,Iraq,FY 2016,47,Yazidi,11,99
+From: 01 Feb 2016,To: 01 Feb 2016,Syria,FY 2016,8,Moslem Suni,8,99
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Feb 2016,To: 01 Feb 2016,Bahai,FY 2016,3,Iran,3,99
+From: 01 Feb 2016,To: 01 Feb 2016,Baptist,FY 2016,1,Iraq,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Catholic,FY 2016,9,Dem. Rep. Congo,3,99
+From: 01 Feb 2016,To: 01 Feb 2016,Catholic,FY 2016,9,Iraq,6,99
+From: 01 Feb 2016,To: 01 Feb 2016,Chaldean,FY 2016,1,Iraq,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Christian,FY 2016,12,Burma,4,99
+From: 01 Feb 2016,To: 01 Feb 2016,Christian,FY 2016,12,Congo,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Christian,FY 2016,12,Dem. Rep. Congo,6,99
+From: 01 Feb 2016,To: 01 Feb 2016,Christian,FY 2016,12,Iraq,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Evangelical Christian,FY 2016,4,Armenia,4,99
+From: 01 Feb 2016,To: 01 Feb 2016,Jehovah Witness,FY 2016,7,Dem. Rep. Congo,7,99
+From: 01 Feb 2016,To: 01 Feb 2016,Methodist,FY 2016,1,Dem. Rep. Congo,1,99
+From: 01 Feb 2016,To: 01 Feb 2016,Moslem,FY 2016,4,Dem. Rep. Congo,4,99
+From: 01 Feb 2016,To: 01 Feb 2016,Moslem Shiite,FY 2016,11,Iraq,11,99
+From: 01 Feb 2016,To: 01 Feb 2016,Moslem Suni,FY 2016,24,Iraq,16,99
+From: 01 Feb 2016,To: 01 Feb 2016,Moslem Suni,FY 2016,24,Syria,8,99
+From: 01 Feb 2016,To: 01 Feb 2016,Pentecostalist,FY 2016,11,Dem. Rep. Congo,11,99
+From: 01 Feb 2016,To: 01 Feb 2016,Yazidi,FY 2016,11,Iraq,11,99
+

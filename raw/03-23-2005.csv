@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Mar 2005,To: 23 Mar 2005,Azerbaijan,FY 2005,6,Jewish,6,222
+From: 23 Mar 2005,To: 23 Mar 2005,Burma,FY 2005,14,Buddhist,10,222
+From: 23 Mar 2005,To: 23 Mar 2005,Burma,FY 2005,14,Moslem,2,222
+From: 23 Mar 2005,To: 23 Mar 2005,Burma,FY 2005,14,Protestant,2,222
+From: 23 Mar 2005,To: 23 Mar 2005,Iran,FY 2005,5,Bahai,4,222
+From: 23 Mar 2005,To: 23 Mar 2005,Iran,FY 2005,5,Moslem,1,222
+From: 23 Mar 2005,To: 23 Mar 2005,Laos,FY 2005,64,Ancestral Worship,64,222
+From: 23 Mar 2005,To: 23 Mar 2005,Liberia,FY 2005,19,Catholic,7,222
+From: 23 Mar 2005,To: 23 Mar 2005,Liberia,FY 2005,19,Christian,1,222
+From: 23 Mar 2005,To: 23 Mar 2005,Liberia,FY 2005,19,Moslem,3,222
+From: 23 Mar 2005,To: 23 Mar 2005,Liberia,FY 2005,19,Pentecostalist,5,222
+From: 23 Mar 2005,To: 23 Mar 2005,Liberia,FY 2005,19,Protestant,3,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moldova,FY 2005,26,Baptist,16,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moldova,FY 2005,26,Pentecostalist,10,222
+From: 23 Mar 2005,To: 23 Mar 2005,Russia,FY 2005,41,Moslem,34,222
+From: 23 Mar 2005,To: 23 Mar 2005,Russia,FY 2005,41,Moslem Suni,7,222
+From: 23 Mar 2005,To: 23 Mar 2005,Somalia,FY 2005,38,Moslem,38,222
+From: 23 Mar 2005,To: 23 Mar 2005,Sudan,FY 2005,9,Catholic,1,222
+From: 23 Mar 2005,To: 23 Mar 2005,Sudan,FY 2005,9,Christian,8,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Mar 2005,To: 23 Mar 2005,Ancestral Worship,FY 2005,64,Laos,64,222
+From: 23 Mar 2005,To: 23 Mar 2005,Bahai,FY 2005,4,Iran,4,222
+From: 23 Mar 2005,To: 23 Mar 2005,Baptist,FY 2005,16,Moldova,16,222
+From: 23 Mar 2005,To: 23 Mar 2005,Buddhist,FY 2005,10,Burma,10,222
+From: 23 Mar 2005,To: 23 Mar 2005,Catholic,FY 2005,8,Liberia,7,222
+From: 23 Mar 2005,To: 23 Mar 2005,Catholic,FY 2005,8,Sudan,1,222
+From: 23 Mar 2005,To: 23 Mar 2005,Christian,FY 2005,9,Liberia,1,222
+From: 23 Mar 2005,To: 23 Mar 2005,Christian,FY 2005,9,Sudan,8,222
+From: 23 Mar 2005,To: 23 Mar 2005,Jewish,FY 2005,6,Azerbaijan,6,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moslem,FY 2005,78,Burma,2,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moslem,FY 2005,78,Iran,1,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moslem,FY 2005,78,Liberia,3,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moslem,FY 2005,78,Russia,34,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moslem,FY 2005,78,Somalia,38,222
+From: 23 Mar 2005,To: 23 Mar 2005,Moslem Suni,FY 2005,7,Russia,7,222
+From: 23 Mar 2005,To: 23 Mar 2005,Pentecostalist,FY 2005,15,Liberia,5,222
+From: 23 Mar 2005,To: 23 Mar 2005,Pentecostalist,FY 2005,15,Moldova,10,222
+From: 23 Mar 2005,To: 23 Mar 2005,Protestant,FY 2005,5,Burma,2,222
+From: 23 Mar 2005,To: 23 Mar 2005,Protestant,FY 2005,5,Liberia,3,222
+

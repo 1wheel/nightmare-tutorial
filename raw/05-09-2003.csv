@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 May 2003,To: 09 May 2003,Afghanistan,FY 2003,16,Moslem,5,116
+From: 09 May 2003,To: 09 May 2003,Afghanistan,FY 2003,16,Moslem Shiite,6,116
+From: 09 May 2003,To: 09 May 2003,Afghanistan,FY 2003,16,Moslem Suni,5,116
+From: 09 May 2003,To: 09 May 2003,Ghana,FY 2003,1,Christian,1,116
+From: 09 May 2003,To: 09 May 2003,Iran,FY 2003,3,Moslem Shiite,3,116
+From: 09 May 2003,To: 09 May 2003,Latvia,FY 2003,1,Jewish,1,116
+From: 09 May 2003,To: 09 May 2003,Liberia,FY 2003,59,Catholic,3,116
+From: 09 May 2003,To: 09 May 2003,Liberia,FY 2003,59,Christian,56,116
+From: 09 May 2003,To: 09 May 2003,Serbia,FY 2003,31,Orthodox,31,116
+From: 09 May 2003,To: 09 May 2003,Sierra Leone,FY 2003,5,Christian,3,116
+From: 09 May 2003,To: 09 May 2003,Sierra Leone,FY 2003,5,Moslem,2,116
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 May 2003,To: 09 May 2003,Catholic,FY 2003,3,Liberia,3,116
+From: 09 May 2003,To: 09 May 2003,Christian,FY 2003,60,Ghana,1,116
+From: 09 May 2003,To: 09 May 2003,Christian,FY 2003,60,Liberia,56,116
+From: 09 May 2003,To: 09 May 2003,Christian,FY 2003,60,Sierra Leone,3,116
+From: 09 May 2003,To: 09 May 2003,Jewish,FY 2003,1,Latvia,1,116
+From: 09 May 2003,To: 09 May 2003,Moslem,FY 2003,7,Afghanistan,5,116
+From: 09 May 2003,To: 09 May 2003,Moslem,FY 2003,7,Sierra Leone,2,116
+From: 09 May 2003,To: 09 May 2003,Moslem Shiite,FY 2003,9,Afghanistan,6,116
+From: 09 May 2003,To: 09 May 2003,Moslem Shiite,FY 2003,9,Iran,3,116
+From: 09 May 2003,To: 09 May 2003,Moslem Suni,FY 2003,5,Afghanistan,5,116
+From: 09 May 2003,To: 09 May 2003,Orthodox,FY 2003,31,Serbia,31,116
+

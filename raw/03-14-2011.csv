@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Mar 2011,To: 14 Mar 2011,Burma,FY 2011,26,Baptist,1,48
+From: 14 Mar 2011,To: 14 Mar 2011,Burma,FY 2011,26,Buddhist,12,48
+From: 14 Mar 2011,To: 14 Mar 2011,Burma,FY 2011,26,Christian,13,48
+From: 14 Mar 2011,To: 14 Mar 2011,Moldova,FY 2011,22,Baptist,12,48
+From: 14 Mar 2011,To: 14 Mar 2011,Moldova,FY 2011,22,Jehovah Witness,4,48
+From: 14 Mar 2011,To: 14 Mar 2011,Moldova,FY 2011,22,Pentecostalist,6,48
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Mar 2011,To: 14 Mar 2011,Baptist,FY 2011,13,Burma,1,48
+From: 14 Mar 2011,To: 14 Mar 2011,Baptist,FY 2011,13,Moldova,12,48
+From: 14 Mar 2011,To: 14 Mar 2011,Buddhist,FY 2011,12,Burma,12,48
+From: 14 Mar 2011,To: 14 Mar 2011,Christian,FY 2011,13,Burma,13,48
+From: 14 Mar 2011,To: 14 Mar 2011,Jehovah Witness,FY 2011,4,Moldova,4,48
+From: 14 Mar 2011,To: 14 Mar 2011,Pentecostalist,FY 2011,6,Moldova,6,48
+

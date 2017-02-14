@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 May 2010,To: 17 May 2010,Afghanistan,FY 2010,3,Moslem Shiite,3,164
+From: 17 May 2010,To: 17 May 2010,Burma,FY 2010,14,Animist,2,164
+From: 17 May 2010,To: 17 May 2010,Burma,FY 2010,14,Catholic,2,164
+From: 17 May 2010,To: 17 May 2010,Burma,FY 2010,14,Christian,10,164
+From: 17 May 2010,To: 17 May 2010,Chad,FY 2010,2,Moslem,2,164
+From: 17 May 2010,To: 17 May 2010,Dem. Rep. Congo,FY 2010,6,Catholic,6,164
+From: 17 May 2010,To: 17 May 2010,Ethiopia,FY 2010,12,Moslem,7,164
+From: 17 May 2010,To: 17 May 2010,Ethiopia,FY 2010,12,Orthodox,5,164
+From: 17 May 2010,To: 17 May 2010,Iraq,FY 2010,85,Catholic,12,164
+From: 17 May 2010,To: 17 May 2010,Iraq,FY 2010,85,Christian,5,164
+From: 17 May 2010,To: 17 May 2010,Iraq,FY 2010,85,Moslem,3,164
+From: 17 May 2010,To: 17 May 2010,Iraq,FY 2010,85,Moslem Shiite,16,164
+From: 17 May 2010,To: 17 May 2010,Iraq,FY 2010,85,Moslem Suni,45,164
+From: 17 May 2010,To: 17 May 2010,Iraq,FY 2010,85,Sabeans-Mandean,4,164
+From: 17 May 2010,To: 17 May 2010,Somalia,FY 2010,40,Moslem,37,164
+From: 17 May 2010,To: 17 May 2010,Somalia,FY 2010,40,Moslem Suni,3,164
+From: 17 May 2010,To: 17 May 2010,Sudan,FY 2010,2,Moslem,2,164
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 May 2010,To: 17 May 2010,Animist,FY 2010,2,Burma,2,164
+From: 17 May 2010,To: 17 May 2010,Catholic,FY 2010,20,Burma,2,164
+From: 17 May 2010,To: 17 May 2010,Catholic,FY 2010,20,Dem. Rep. Congo,6,164
+From: 17 May 2010,To: 17 May 2010,Catholic,FY 2010,20,Iraq,12,164
+From: 17 May 2010,To: 17 May 2010,Christian,FY 2010,15,Burma,10,164
+From: 17 May 2010,To: 17 May 2010,Christian,FY 2010,15,Iraq,5,164
+From: 17 May 2010,To: 17 May 2010,Moslem,FY 2010,51,Chad,2,164
+From: 17 May 2010,To: 17 May 2010,Moslem,FY 2010,51,Ethiopia,7,164
+From: 17 May 2010,To: 17 May 2010,Moslem,FY 2010,51,Iraq,3,164
+From: 17 May 2010,To: 17 May 2010,Moslem,FY 2010,51,Somalia,37,164
+From: 17 May 2010,To: 17 May 2010,Moslem,FY 2010,51,Sudan,2,164
+From: 17 May 2010,To: 17 May 2010,Moslem Shiite,FY 2010,19,Afghanistan,3,164
+From: 17 May 2010,To: 17 May 2010,Moslem Shiite,FY 2010,19,Iraq,16,164
+From: 17 May 2010,To: 17 May 2010,Moslem Suni,FY 2010,48,Iraq,45,164
+From: 17 May 2010,To: 17 May 2010,Moslem Suni,FY 2010,48,Somalia,3,164
+From: 17 May 2010,To: 17 May 2010,Orthodox,FY 2010,5,Ethiopia,5,164
+From: 17 May 2010,To: 17 May 2010,Sabeans-Mandean,FY 2010,4,Iraq,4,164
+

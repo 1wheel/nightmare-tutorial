@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Sep 2006,To: 12 Sep 2006,Burma,FY 2006,62,Buddhist,5,380
+From: 12 Sep 2006,To: 12 Sep 2006,Burma,FY 2006,62,Christian,57,380
+From: 12 Sep 2006,To: 12 Sep 2006,Congo,FY 2006,2,Christian,2,380
+From: 12 Sep 2006,To: 12 Sep 2006,Cuba,FY 2006,70,Baptist,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Cuba,FY 2006,70,Catholic,28,380
+From: 12 Sep 2006,To: 12 Sep 2006,Cuba,FY 2006,70,Evangelical Christian,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Cuba,FY 2006,70,Jehovah Witness,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Cuba,FY 2006,70,No Religion,29,380
+From: 12 Sep 2006,To: 12 Sep 2006,Cuba,FY 2006,70,Orthodox,4,380
+From: 12 Sep 2006,To: 12 Sep 2006,Ethiopia,FY 2006,50,Christian,4,380
+From: 12 Sep 2006,To: 12 Sep 2006,Ethiopia,FY 2006,50,Moslem,43,380
+From: 12 Sep 2006,To: 12 Sep 2006,Ethiopia,FY 2006,50,Unknown,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Ivory Coast,FY 2006,1,Christian,1,380
+From: 12 Sep 2006,To: 12 Sep 2006,Liberia,FY 2006,4,Christian,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Liberia,FY 2006,4,Unknown,1,380
+From: 12 Sep 2006,To: 12 Sep 2006,Somalia,FY 2006,159,Moslem,159,380
+From: 12 Sep 2006,To: 12 Sep 2006,Sudan,FY 2006,3,Catholic,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Ukraine,FY 2006,29,Baptist,4,380
+From: 12 Sep 2006,To: 12 Sep 2006,Ukraine,FY 2006,29,Pentecostalist,25,380
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Sep 2006,To: 12 Sep 2006,Baptist,FY 2006,7,Cuba,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Baptist,FY 2006,7,Ukraine,4,380
+From: 12 Sep 2006,To: 12 Sep 2006,Buddhist,FY 2006,5,Burma,5,380
+From: 12 Sep 2006,To: 12 Sep 2006,Catholic,FY 2006,31,Cuba,28,380
+From: 12 Sep 2006,To: 12 Sep 2006,Catholic,FY 2006,31,Sudan,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Christian,FY 2006,67,Burma,57,380
+From: 12 Sep 2006,To: 12 Sep 2006,Christian,FY 2006,67,Congo,2,380
+From: 12 Sep 2006,To: 12 Sep 2006,Christian,FY 2006,67,Ethiopia,4,380
+From: 12 Sep 2006,To: 12 Sep 2006,Christian,FY 2006,67,Ivory Coast,1,380
+From: 12 Sep 2006,To: 12 Sep 2006,Christian,FY 2006,67,Liberia,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Evangelical Christian,FY 2006,3,Cuba,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Jehovah Witness,FY 2006,3,Cuba,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Moslem,FY 2006,202,Ethiopia,43,380
+From: 12 Sep 2006,To: 12 Sep 2006,Moslem,FY 2006,202,Somalia,159,380
+From: 12 Sep 2006,To: 12 Sep 2006,No Religion,FY 2006,29,Cuba,29,380
+From: 12 Sep 2006,To: 12 Sep 2006,Orthodox,FY 2006,4,Cuba,4,380
+From: 12 Sep 2006,To: 12 Sep 2006,Pentecostalist,FY 2006,25,Ukraine,25,380
+From: 12 Sep 2006,To: 12 Sep 2006,Unknown,FY 2006,4,Ethiopia,3,380
+From: 12 Sep 2006,To: 12 Sep 2006,Unknown,FY 2006,4,Liberia,1,380
+

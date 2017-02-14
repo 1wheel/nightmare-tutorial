@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jun 2011,To: 15 Jun 2011,Bhutan,FY 2011,99,Buddhist,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Bhutan,FY 2011,99,Christian,21,466
+From: 15 Jun 2011,To: 15 Jun 2011,Bhutan,FY 2011,99,Hindu,67,466
+From: 15 Jun 2011,To: 15 Jun 2011,Bhutan,FY 2011,99,Kirat,7,466
+From: 15 Jun 2011,To: 15 Jun 2011,Burma,FY 2011,233,Animist,21,466
+From: 15 Jun 2011,To: 15 Jun 2011,Burma,FY 2011,233,Baptist,11,466
+From: 15 Jun 2011,To: 15 Jun 2011,Burma,FY 2011,233,Buddhist,42,466
+From: 15 Jun 2011,To: 15 Jun 2011,Burma,FY 2011,233,Catholic,14,466
+From: 15 Jun 2011,To: 15 Jun 2011,Burma,FY 2011,233,Christian,135,466
+From: 15 Jun 2011,To: 15 Jun 2011,Burma,FY 2011,233,Moslem,10,466
+From: 15 Jun 2011,To: 15 Jun 2011,China,FY 2011,2,Buddhist,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Eritrea,FY 2011,3,Christian,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Eritrea,FY 2011,3,Orthodox,1,466
+From: 15 Jun 2011,To: 15 Jun 2011,Ethiopia,FY 2011,13,Christian,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Ethiopia,FY 2011,13,Orthodox,11,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Bahai,19,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Christian,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Moslem,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Moslem Shiite,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,No Religion,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Protestant,1,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Sabeans-Mandean,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iran,FY 2011,41,Zoroastrian,3,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iraq,FY 2011,47,Catholic,12,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iraq,FY 2011,47,Christian,18,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iraq,FY 2011,47,Moslem Shiite,11,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iraq,FY 2011,47,Moslem Suni,5,466
+From: 15 Jun 2011,To: 15 Jun 2011,Iraq,FY 2011,47,Orthodox,1,466
+From: 15 Jun 2011,To: 15 Jun 2011,Kazakhstan,FY 2011,3,Baptist,3,466
+From: 15 Jun 2011,To: 15 Jun 2011,Somalia,FY 2011,25,Moslem,25,466
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jun 2011,To: 15 Jun 2011,Animist,FY 2011,21,Burma,21,466
+From: 15 Jun 2011,To: 15 Jun 2011,Bahai,FY 2011,19,Iran,19,466
+From: 15 Jun 2011,To: 15 Jun 2011,Baptist,FY 2011,14,Burma,11,466
+From: 15 Jun 2011,To: 15 Jun 2011,Baptist,FY 2011,14,Kazakhstan,3,466
+From: 15 Jun 2011,To: 15 Jun 2011,Buddhist,FY 2011,48,Bhutan,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Buddhist,FY 2011,48,Burma,42,466
+From: 15 Jun 2011,To: 15 Jun 2011,Buddhist,FY 2011,48,China,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Catholic,FY 2011,26,Burma,14,466
+From: 15 Jun 2011,To: 15 Jun 2011,Catholic,FY 2011,26,Iraq,12,466
+From: 15 Jun 2011,To: 15 Jun 2011,Christian,FY 2011,182,Bhutan,21,466
+From: 15 Jun 2011,To: 15 Jun 2011,Christian,FY 2011,182,Burma,135,466
+From: 15 Jun 2011,To: 15 Jun 2011,Christian,FY 2011,182,Eritrea,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Christian,FY 2011,182,Ethiopia,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Christian,FY 2011,182,Iran,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Christian,FY 2011,182,Iraq,18,466
+From: 15 Jun 2011,To: 15 Jun 2011,Hindu,FY 2011,67,Bhutan,67,466
+From: 15 Jun 2011,To: 15 Jun 2011,Kirat,FY 2011,7,Bhutan,7,466
+From: 15 Jun 2011,To: 15 Jun 2011,Moslem,FY 2011,39,Burma,10,466
+From: 15 Jun 2011,To: 15 Jun 2011,Moslem,FY 2011,39,Iran,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Moslem,FY 2011,39,Somalia,25,466
+From: 15 Jun 2011,To: 15 Jun 2011,Moslem Shiite,FY 2011,15,Iran,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Moslem Shiite,FY 2011,15,Iraq,11,466
+From: 15 Jun 2011,To: 15 Jun 2011,Moslem Suni,FY 2011,5,Iraq,5,466
+From: 15 Jun 2011,To: 15 Jun 2011,No Religion,FY 2011,2,Iran,2,466
+From: 15 Jun 2011,To: 15 Jun 2011,Orthodox,FY 2011,13,Eritrea,1,466
+From: 15 Jun 2011,To: 15 Jun 2011,Orthodox,FY 2011,13,Ethiopia,11,466
+From: 15 Jun 2011,To: 15 Jun 2011,Orthodox,FY 2011,13,Iraq,1,466
+From: 15 Jun 2011,To: 15 Jun 2011,Protestant,FY 2011,1,Iran,1,466
+From: 15 Jun 2011,To: 15 Jun 2011,Sabeans-Mandean,FY 2011,4,Iran,4,466
+From: 15 Jun 2011,To: 15 Jun 2011,Zoroastrian,FY 2011,3,Iran,3,466
+

@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Aug 2004,To: 31 Aug 2004,Burma,FY 2004,30,Buddhist,20,284
+From: 31 Aug 2004,To: 31 Aug 2004,Burma,FY 2004,30,Protestant,10,284
+From: 31 Aug 2004,To: 31 Aug 2004,Central African Republic,FY 2004,3,Christian,3,284
+From: 31 Aug 2004,To: 31 Aug 2004,Cuba,FY 2004,70,Catholic,41,284
+From: 31 Aug 2004,To: 31 Aug 2004,Cuba,FY 2004,70,Jehovah Witness,4,284
+From: 31 Aug 2004,To: 31 Aug 2004,Cuba,FY 2004,70,No Religion,23,284
+From: 31 Aug 2004,To: 31 Aug 2004,Cuba,FY 2004,70,Seventh Day Adventist,2,284
+From: 31 Aug 2004,To: 31 Aug 2004,Dem. Rep. Congo,FY 2004,4,Protestant,4,284
+From: 31 Aug 2004,To: 31 Aug 2004,Laos,FY 2004,35,Ancestral Worship,35,284
+From: 31 Aug 2004,To: 31 Aug 2004,Liberia,FY 2004,32,Baptist,3,284
+From: 31 Aug 2004,To: 31 Aug 2004,Liberia,FY 2004,32,Catholic,1,284
+From: 31 Aug 2004,To: 31 Aug 2004,Liberia,FY 2004,32,Christian,23,284
+From: 31 Aug 2004,To: 31 Aug 2004,Liberia,FY 2004,32,Moslem,4,284
+From: 31 Aug 2004,To: 31 Aug 2004,Liberia,FY 2004,32,Other Religion,1,284
+From: 31 Aug 2004,To: 31 Aug 2004,Somalia,FY 2004,69,Moslem,69,284
+From: 31 Aug 2004,To: 31 Aug 2004,Sudan,FY 2004,7,Catholic,7,284
+From: 31 Aug 2004,To: 31 Aug 2004,Ukraine,FY 2004,34,Pentecostalist,34,284
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Aug 2004,To: 31 Aug 2004,Ancestral Worship,FY 2004,35,Laos,35,284
+From: 31 Aug 2004,To: 31 Aug 2004,Baptist,FY 2004,3,Liberia,3,284
+From: 31 Aug 2004,To: 31 Aug 2004,Buddhist,FY 2004,20,Burma,20,284
+From: 31 Aug 2004,To: 31 Aug 2004,Catholic,FY 2004,49,Cuba,41,284
+From: 31 Aug 2004,To: 31 Aug 2004,Catholic,FY 2004,49,Liberia,1,284
+From: 31 Aug 2004,To: 31 Aug 2004,Catholic,FY 2004,49,Sudan,7,284
+From: 31 Aug 2004,To: 31 Aug 2004,Christian,FY 2004,26,Central African Republic,3,284
+From: 31 Aug 2004,To: 31 Aug 2004,Christian,FY 2004,26,Liberia,23,284
+From: 31 Aug 2004,To: 31 Aug 2004,Jehovah Witness,FY 2004,4,Cuba,4,284
+From: 31 Aug 2004,To: 31 Aug 2004,Moslem,FY 2004,73,Liberia,4,284
+From: 31 Aug 2004,To: 31 Aug 2004,Moslem,FY 2004,73,Somalia,69,284
+From: 31 Aug 2004,To: 31 Aug 2004,No Religion,FY 2004,23,Cuba,23,284
+From: 31 Aug 2004,To: 31 Aug 2004,Other Religion,FY 2004,1,Liberia,1,284
+From: 31 Aug 2004,To: 31 Aug 2004,Pentecostalist,FY 2004,34,Ukraine,34,284
+From: 31 Aug 2004,To: 31 Aug 2004,Protestant,FY 2004,14,Burma,10,284
+From: 31 Aug 2004,To: 31 Aug 2004,Protestant,FY 2004,14,Dem. Rep. Congo,4,284
+From: 31 Aug 2004,To: 31 Aug 2004,Seventh Day Adventist,FY 2004,2,Cuba,2,284
+

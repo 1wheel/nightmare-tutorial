@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Feb 2007,To: 21 Feb 2007,Afghanistan,FY 2007,3,Moslem,3,119
+From: 21 Feb 2007,To: 21 Feb 2007,Burma,FY 2007,32,Christian,32,119
+From: 21 Feb 2007,To: 21 Feb 2007,Iran,FY 2007,41,Bahai,29,119
+From: 21 Feb 2007,To: 21 Feb 2007,Iran,FY 2007,41,Christian,11,119
+From: 21 Feb 2007,To: 21 Feb 2007,Iran,FY 2007,41,Moslem,1,119
+From: 21 Feb 2007,To: 21 Feb 2007,Iraq,FY 2007,5,Christian,5,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moldova,FY 2007,26,Baptist,19,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moldova,FY 2007,26,Pentecostalist,7,119
+From: 21 Feb 2007,To: 21 Feb 2007,Somalia,FY 2007,3,Moslem,3,119
+From: 21 Feb 2007,To: 21 Feb 2007,Sudan,FY 2007,4,Moslem,4,119
+From: 21 Feb 2007,To: 21 Feb 2007,Uzbekistan,FY 2007,5,Moslem Suni,5,119
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Feb 2007,To: 21 Feb 2007,Bahai,FY 2007,29,Iran,29,119
+From: 21 Feb 2007,To: 21 Feb 2007,Baptist,FY 2007,19,Moldova,19,119
+From: 21 Feb 2007,To: 21 Feb 2007,Christian,FY 2007,48,Burma,32,119
+From: 21 Feb 2007,To: 21 Feb 2007,Christian,FY 2007,48,Iran,11,119
+From: 21 Feb 2007,To: 21 Feb 2007,Christian,FY 2007,48,Iraq,5,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moslem,FY 2007,11,Afghanistan,3,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moslem,FY 2007,11,Iran,1,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moslem,FY 2007,11,Somalia,3,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moslem,FY 2007,11,Sudan,4,119
+From: 21 Feb 2007,To: 21 Feb 2007,Moslem Suni,FY 2007,5,Uzbekistan,5,119
+From: 21 Feb 2007,To: 21 Feb 2007,Pentecostalist,FY 2007,7,Moldova,7,119
+

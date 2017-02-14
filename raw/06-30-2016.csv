@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jun 2016,To: 30 Jun 2016,Afghanistan,FY 2016,30,Moslem Shiite,4,232
+From: 30 Jun 2016,To: 30 Jun 2016,Afghanistan,FY 2016,30,Moslem Suni,26,232
+From: 30 Jun 2016,To: 30 Jun 2016,Bhutan,FY 2016,72,Buddhist,29,232
+From: 30 Jun 2016,To: 30 Jun 2016,Bhutan,FY 2016,72,Christian,15,232
+From: 30 Jun 2016,To: 30 Jun 2016,Bhutan,FY 2016,72,Hindu,25,232
+From: 30 Jun 2016,To: 30 Jun 2016,Bhutan,FY 2016,72,Kirat,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Burma,FY 2016,4,Christian,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Burma,FY 2016,4,Moslem,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Burundi,FY 2016,12,Christian,11,232
+From: 30 Jun 2016,To: 30 Jun 2016,Burundi,FY 2016,12,Pentecostalist,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Congo,FY 2016,3,Catholic,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Catholic,5,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Christian,12,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Jehovah Witness,4,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Moslem,6,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Pentecostalist,7,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Protestant,2,232
+From: 30 Jun 2016,To: 30 Jun 2016,Dem. Rep. Congo,FY 2016,48,Seventh Day Adventist,12,232
+From: 30 Jun 2016,To: 30 Jun 2016,Pakistan,FY 2016,8,Christian,6,232
+From: 30 Jun 2016,To: 30 Jun 2016,Pakistan,FY 2016,8,Moslem Suni,2,232
+From: 30 Jun 2016,To: 30 Jun 2016,Somalia,FY 2016,4,Moslem,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Somalia,FY 2016,4,Moslem Suni,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Sudan,FY 2016,4,Christian,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Sudan,FY 2016,4,Moslem,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Syria,FY 2016,17,Moslem,4,232
+From: 30 Jun 2016,To: 30 Jun 2016,Syria,FY 2016,17,Moslem Suni,13,232
+From: 30 Jun 2016,To: 30 Jun 2016,Ukraine,FY 2016,30,Baptist,5,232
+From: 30 Jun 2016,To: 30 Jun 2016,Ukraine,FY 2016,30,Jewish,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Ukraine,FY 2016,30,Pentecostalist,19,232
+From: 30 Jun 2016,To: 30 Jun 2016,Ukraine,FY 2016,30,Uniate,3,232
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jun 2016,To: 30 Jun 2016,Baptist,FY 2016,5,Ukraine,5,232
+From: 30 Jun 2016,To: 30 Jun 2016,Buddhist,FY 2016,29,Bhutan,29,232
+From: 30 Jun 2016,To: 30 Jun 2016,Catholic,FY 2016,8,Congo,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Catholic,FY 2016,8,Dem. Rep. Congo,5,232
+From: 30 Jun 2016,To: 30 Jun 2016,Christian,FY 2016,48,Bhutan,15,232
+From: 30 Jun 2016,To: 30 Jun 2016,Christian,FY 2016,48,Burma,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Christian,FY 2016,48,Burundi,11,232
+From: 30 Jun 2016,To: 30 Jun 2016,Christian,FY 2016,48,Dem. Rep. Congo,12,232
+From: 30 Jun 2016,To: 30 Jun 2016,Christian,FY 2016,48,Pakistan,6,232
+From: 30 Jun 2016,To: 30 Jun 2016,Christian,FY 2016,48,Sudan,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Hindu,FY 2016,25,Bhutan,25,232
+From: 30 Jun 2016,To: 30 Jun 2016,Jehovah Witness,FY 2016,4,Dem. Rep. Congo,4,232
+From: 30 Jun 2016,To: 30 Jun 2016,Jewish,FY 2016,3,Ukraine,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Kirat,FY 2016,3,Bhutan,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem,FY 2016,17,Burma,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem,FY 2016,17,Dem. Rep. Congo,6,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem,FY 2016,17,Somalia,3,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem,FY 2016,17,Sudan,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem,FY 2016,17,Syria,4,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem Shiite,FY 2016,4,Afghanistan,4,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem Suni,FY 2016,42,Afghanistan,26,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem Suni,FY 2016,42,Pakistan,2,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem Suni,FY 2016,42,Somalia,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Moslem Suni,FY 2016,42,Syria,13,232
+From: 30 Jun 2016,To: 30 Jun 2016,Pentecostalist,FY 2016,27,Burundi,1,232
+From: 30 Jun 2016,To: 30 Jun 2016,Pentecostalist,FY 2016,27,Dem. Rep. Congo,7,232
+From: 30 Jun 2016,To: 30 Jun 2016,Pentecostalist,FY 2016,27,Ukraine,19,232
+From: 30 Jun 2016,To: 30 Jun 2016,Protestant,FY 2016,2,Dem. Rep. Congo,2,232
+From: 30 Jun 2016,To: 30 Jun 2016,Seventh Day Adventist,FY 2016,12,Dem. Rep. Congo,12,232
+From: 30 Jun 2016,To: 30 Jun 2016,Uniate,FY 2016,3,Ukraine,3,232
+

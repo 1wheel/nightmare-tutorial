@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jun 2006,To: 29 Jun 2006,Congo,FY 2006,2,Catholic,2,169
+From: 29 Jun 2006,To: 29 Jun 2006,Ethiopia,FY 2006,5,Moslem,5,169
+From: 29 Jun 2006,To: 29 Jun 2006,Iran,FY 2006,4,Bahai,4,169
+From: 29 Jun 2006,To: 29 Jun 2006,Iraq,FY 2006,39,Chaldean,2,169
+From: 29 Jun 2006,To: 29 Jun 2006,Iraq,FY 2006,39,Moslem,9,169
+From: 29 Jun 2006,To: 29 Jun 2006,Iraq,FY 2006,39,Moslem Shiite,28,169
+From: 29 Jun 2006,To: 29 Jun 2006,Liberia,FY 2006,20,Catholic,8,169
+From: 29 Jun 2006,To: 29 Jun 2006,Liberia,FY 2006,20,Christian,11,169
+From: 29 Jun 2006,To: 29 Jun 2006,Liberia,FY 2006,20,Moslem,1,169
+From: 29 Jun 2006,To: 29 Jun 2006,Russia,FY 2006,21,Moslem,21,169
+From: 29 Jun 2006,To: 29 Jun 2006,Sierra Leone,FY 2006,9,Moslem,9,169
+From: 29 Jun 2006,To: 29 Jun 2006,Somalia,FY 2006,50,Moslem,50,169
+From: 29 Jun 2006,To: 29 Jun 2006,Sudan,FY 2006,15,Christian,10,169
+From: 29 Jun 2006,To: 29 Jun 2006,Sudan,FY 2006,15,Moslem Suni,3,169
+From: 29 Jun 2006,To: 29 Jun 2006,Sudan,FY 2006,15,Protestant,2,169
+From: 29 Jun 2006,To: 29 Jun 2006,Yemen,FY 2006,4,Moslem Suni,4,169
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jun 2006,To: 29 Jun 2006,Bahai,FY 2006,4,Iran,4,169
+From: 29 Jun 2006,To: 29 Jun 2006,Catholic,FY 2006,10,Congo,2,169
+From: 29 Jun 2006,To: 29 Jun 2006,Catholic,FY 2006,10,Liberia,8,169
+From: 29 Jun 2006,To: 29 Jun 2006,Chaldean,FY 2006,2,Iraq,2,169
+From: 29 Jun 2006,To: 29 Jun 2006,Christian,FY 2006,21,Liberia,11,169
+From: 29 Jun 2006,To: 29 Jun 2006,Christian,FY 2006,21,Sudan,10,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem,FY 2006,95,Ethiopia,5,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem,FY 2006,95,Iraq,9,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem,FY 2006,95,Liberia,1,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem,FY 2006,95,Russia,21,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem,FY 2006,95,Sierra Leone,9,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem,FY 2006,95,Somalia,50,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem Shiite,FY 2006,28,Iraq,28,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem Suni,FY 2006,7,Sudan,3,169
+From: 29 Jun 2006,To: 29 Jun 2006,Moslem Suni,FY 2006,7,Yemen,4,169
+From: 29 Jun 2006,To: 29 Jun 2006,Protestant,FY 2006,2,Sudan,2,169
+

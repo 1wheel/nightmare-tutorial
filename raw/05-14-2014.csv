@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 May 2014,To: 14 May 2014,Afghanistan,FY 2014,1,Moslem,1,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Baptist,19,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Buddhist,14,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Catholic,3,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Christian,108,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Evangelical Christian,1,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Methodist,1,311
+From: 14 May 2014,To: 14 May 2014,Burma,FY 2014,161,Moslem,15,311
+From: 14 May 2014,To: 14 May 2014,Dem. Rep. Congo,FY 2014,70,Catholic,17,311
+From: 14 May 2014,To: 14 May 2014,Dem. Rep. Congo,FY 2014,70,Christian,2,311
+From: 14 May 2014,To: 14 May 2014,Dem. Rep. Congo,FY 2014,70,Pentecostalist,9,311
+From: 14 May 2014,To: 14 May 2014,Dem. Rep. Congo,FY 2014,70,Seventh Day Adventist,42,311
+From: 14 May 2014,To: 14 May 2014,Iraq,FY 2014,72,Catholic,4,311
+From: 14 May 2014,To: 14 May 2014,Iraq,FY 2014,72,Moslem Shiite,41,311
+From: 14 May 2014,To: 14 May 2014,Iraq,FY 2014,72,Moslem Suni,20,311
+From: 14 May 2014,To: 14 May 2014,Iraq,FY 2014,72,Orthodox,7,311
+From: 14 May 2014,To: 14 May 2014,Kyrgyzstan,FY 2014,5,Pentecostalist,5,311
+From: 14 May 2014,To: 14 May 2014,Russia,FY 2014,2,Jewish,2,311
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 May 2014,To: 14 May 2014,Baptist,FY 2014,19,Burma,19,311
+From: 14 May 2014,To: 14 May 2014,Buddhist,FY 2014,14,Burma,14,311
+From: 14 May 2014,To: 14 May 2014,Catholic,FY 2014,24,Burma,3,311
+From: 14 May 2014,To: 14 May 2014,Catholic,FY 2014,24,Dem. Rep. Congo,17,311
+From: 14 May 2014,To: 14 May 2014,Catholic,FY 2014,24,Iraq,4,311
+From: 14 May 2014,To: 14 May 2014,Christian,FY 2014,110,Burma,108,311
+From: 14 May 2014,To: 14 May 2014,Christian,FY 2014,110,Dem. Rep. Congo,2,311
+From: 14 May 2014,To: 14 May 2014,Evangelical Christian,FY 2014,1,Burma,1,311
+From: 14 May 2014,To: 14 May 2014,Jewish,FY 2014,2,Russia,2,311
+From: 14 May 2014,To: 14 May 2014,Methodist,FY 2014,1,Burma,1,311
+From: 14 May 2014,To: 14 May 2014,Moslem,FY 2014,16,Afghanistan,1,311
+From: 14 May 2014,To: 14 May 2014,Moslem,FY 2014,16,Burma,15,311
+From: 14 May 2014,To: 14 May 2014,Moslem Shiite,FY 2014,41,Iraq,41,311
+From: 14 May 2014,To: 14 May 2014,Moslem Suni,FY 2014,20,Iraq,20,311
+From: 14 May 2014,To: 14 May 2014,Orthodox,FY 2014,7,Iraq,7,311
+From: 14 May 2014,To: 14 May 2014,Pentecostalist,FY 2014,14,Dem. Rep. Congo,9,311
+From: 14 May 2014,To: 14 May 2014,Pentecostalist,FY 2014,14,Kyrgyzstan,5,311
+From: 14 May 2014,To: 14 May 2014,Seventh Day Adventist,FY 2014,42,Dem. Rep. Congo,42,311
+

@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Apr 2008,To: 23 Apr 2008,Burma,FY 2008,192,Buddhist,56,377
+From: 23 Apr 2008,To: 23 Apr 2008,Burma,FY 2008,192,Catholic,1,377
+From: 23 Apr 2008,To: 23 Apr 2008,Burma,FY 2008,192,Christian,106,377
+From: 23 Apr 2008,To: 23 Apr 2008,Burma,FY 2008,192,Moslem,29,377
+From: 23 Apr 2008,To: 23 Apr 2008,Colombia,FY 2008,9,Catholic,3,377
+From: 23 Apr 2008,To: 23 Apr 2008,Colombia,FY 2008,9,Unknown,6,377
+From: 23 Apr 2008,To: 23 Apr 2008,Dem. Rep. Congo,FY 2008,9,Protestant,9,377
+From: 23 Apr 2008,To: 23 Apr 2008,Ethiopia,FY 2008,2,Catholic,2,377
+From: 23 Apr 2008,To: 23 Apr 2008,Iraq,FY 2008,111,Catholic,3,377
+From: 23 Apr 2008,To: 23 Apr 2008,Iraq,FY 2008,111,Christian,51,377
+From: 23 Apr 2008,To: 23 Apr 2008,Iraq,FY 2008,111,Moslem Shiite,14,377
+From: 23 Apr 2008,To: 23 Apr 2008,Iraq,FY 2008,111,Moslem Suni,38,377
+From: 23 Apr 2008,To: 23 Apr 2008,Iraq,FY 2008,111,Sabeans-Mandean,5,377
+From: 23 Apr 2008,To: 23 Apr 2008,Moldova,FY 2008,2,Baptist,2,377
+From: 23 Apr 2008,To: 23 Apr 2008,Rwanda,FY 2008,1,Pentecostalist,1,377
+From: 23 Apr 2008,To: 23 Apr 2008,Somalia,FY 2008,15,Moslem,15,377
+From: 23 Apr 2008,To: 23 Apr 2008,Sudan,FY 2008,1,Catholic,1,377
+From: 23 Apr 2008,To: 23 Apr 2008,Vietnam,FY 2008,35,Ancestral Worship,7,377
+From: 23 Apr 2008,To: 23 Apr 2008,Vietnam,FY 2008,35,Buddhist,7,377
+From: 23 Apr 2008,To: 23 Apr 2008,Vietnam,FY 2008,35,Catholic,3,377
+From: 23 Apr 2008,To: 23 Apr 2008,Vietnam,FY 2008,35,No Religion,17,377
+From: 23 Apr 2008,To: 23 Apr 2008,Vietnam,FY 2008,35,Unknown,1,377
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Apr 2008,To: 23 Apr 2008,Ancestral Worship,FY 2008,7,Vietnam,7,377
+From: 23 Apr 2008,To: 23 Apr 2008,Baptist,FY 2008,2,Moldova,2,377
+From: 23 Apr 2008,To: 23 Apr 2008,Buddhist,FY 2008,63,Burma,56,377
+From: 23 Apr 2008,To: 23 Apr 2008,Buddhist,FY 2008,63,Vietnam,7,377
+From: 23 Apr 2008,To: 23 Apr 2008,Catholic,FY 2008,13,Burma,1,377
+From: 23 Apr 2008,To: 23 Apr 2008,Catholic,FY 2008,13,Colombia,3,377
+From: 23 Apr 2008,To: 23 Apr 2008,Catholic,FY 2008,13,Ethiopia,2,377
+From: 23 Apr 2008,To: 23 Apr 2008,Catholic,FY 2008,13,Iraq,3,377
+From: 23 Apr 2008,To: 23 Apr 2008,Catholic,FY 2008,13,Sudan,1,377
+From: 23 Apr 2008,To: 23 Apr 2008,Catholic,FY 2008,13,Vietnam,3,377
+From: 23 Apr 2008,To: 23 Apr 2008,Christian,FY 2008,157,Burma,106,377
+From: 23 Apr 2008,To: 23 Apr 2008,Christian,FY 2008,157,Iraq,51,377
+From: 23 Apr 2008,To: 23 Apr 2008,Moslem,FY 2008,44,Burma,29,377
+From: 23 Apr 2008,To: 23 Apr 2008,Moslem,FY 2008,44,Somalia,15,377
+From: 23 Apr 2008,To: 23 Apr 2008,Moslem Shiite,FY 2008,14,Iraq,14,377
+From: 23 Apr 2008,To: 23 Apr 2008,Moslem Suni,FY 2008,38,Iraq,38,377
+From: 23 Apr 2008,To: 23 Apr 2008,No Religion,FY 2008,17,Vietnam,17,377
+From: 23 Apr 2008,To: 23 Apr 2008,Pentecostalist,FY 2008,1,Rwanda,1,377
+From: 23 Apr 2008,To: 23 Apr 2008,Protestant,FY 2008,9,Dem. Rep. Congo,9,377
+From: 23 Apr 2008,To: 23 Apr 2008,Sabeans-Mandean,FY 2008,5,Iraq,5,377
+From: 23 Apr 2008,To: 23 Apr 2008,Unknown,FY 2008,7,Colombia,6,377
+From: 23 Apr 2008,To: 23 Apr 2008,Unknown,FY 2008,7,Vietnam,1,377
+

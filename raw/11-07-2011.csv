@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Nov 2011,To: 07 Nov 2011,Bhutan,FY 2012,36,Buddhist,7,80
+From: 07 Nov 2011,To: 07 Nov 2011,Bhutan,FY 2012,36,Christian,8,80
+From: 07 Nov 2011,To: 07 Nov 2011,Bhutan,FY 2012,36,Hindu,21,80
+From: 07 Nov 2011,To: 07 Nov 2011,Dem. Rep. Congo,FY 2012,39,Catholic,9,80
+From: 07 Nov 2011,To: 07 Nov 2011,Dem. Rep. Congo,FY 2012,39,Moslem,2,80
+From: 07 Nov 2011,To: 07 Nov 2011,Dem. Rep. Congo,FY 2012,39,Pentecostalist,8,80
+From: 07 Nov 2011,To: 07 Nov 2011,Dem. Rep. Congo,FY 2012,39,Seventh Day Adventist,20,80
+From: 07 Nov 2011,To: 07 Nov 2011,Ethiopia,FY 2012,5,Moslem,4,80
+From: 07 Nov 2011,To: 07 Nov 2011,Ethiopia,FY 2012,5,Orthodox,1,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Nov 2011,To: 07 Nov 2011,Buddhist,FY 2012,7,Bhutan,7,80
+From: 07 Nov 2011,To: 07 Nov 2011,Catholic,FY 2012,9,Dem. Rep. Congo,9,80
+From: 07 Nov 2011,To: 07 Nov 2011,Christian,FY 2012,8,Bhutan,8,80
+From: 07 Nov 2011,To: 07 Nov 2011,Hindu,FY 2012,21,Bhutan,21,80
+From: 07 Nov 2011,To: 07 Nov 2011,Moslem,FY 2012,6,Dem. Rep. Congo,2,80
+From: 07 Nov 2011,To: 07 Nov 2011,Moslem,FY 2012,6,Ethiopia,4,80
+From: 07 Nov 2011,To: 07 Nov 2011,Orthodox,FY 2012,1,Ethiopia,1,80
+From: 07 Nov 2011,To: 07 Nov 2011,Pentecostalist,FY 2012,8,Dem. Rep. Congo,8,80
+From: 07 Nov 2011,To: 07 Nov 2011,Seventh Day Adventist,FY 2012,20,Dem. Rep. Congo,20,80
+

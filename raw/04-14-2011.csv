@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Apr 2011,To: 14 Apr 2011,Burma,FY 2011,14,Christian,14,59
+From: 14 Apr 2011,To: 14 Apr 2011,Eritrea,FY 2011,2,Moslem,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Eritrea,FY 2011,2,Orthodox,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Ethiopia,FY 2011,1,Moslem,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Iran,FY 2011,1,Jewish,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Iraq,FY 2011,19,Catholic,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Iraq,FY 2011,19,Moslem Shiite,6,59
+From: 14 Apr 2011,To: 14 Apr 2011,Iraq,FY 2011,19,Moslem Suni,12,59
+From: 14 Apr 2011,To: 14 Apr 2011,Sudan,FY 2011,9,Moslem,9,59
+From: 14 Apr 2011,To: 14 Apr 2011,Ukraine,FY 2011,13,Pentecostalist,8,59
+From: 14 Apr 2011,To: 14 Apr 2011,Ukraine,FY 2011,13,Seventh Day Adventist,5,59
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Apr 2011,To: 14 Apr 2011,Catholic,FY 2011,1,Iraq,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Christian,FY 2011,14,Burma,14,59
+From: 14 Apr 2011,To: 14 Apr 2011,Jewish,FY 2011,1,Iran,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Moslem,FY 2011,11,Eritrea,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Moslem,FY 2011,11,Ethiopia,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Moslem,FY 2011,11,Sudan,9,59
+From: 14 Apr 2011,To: 14 Apr 2011,Moslem Shiite,FY 2011,6,Iraq,6,59
+From: 14 Apr 2011,To: 14 Apr 2011,Moslem Suni,FY 2011,12,Iraq,12,59
+From: 14 Apr 2011,To: 14 Apr 2011,Orthodox,FY 2011,1,Eritrea,1,59
+From: 14 Apr 2011,To: 14 Apr 2011,Pentecostalist,FY 2011,8,Ukraine,8,59
+From: 14 Apr 2011,To: 14 Apr 2011,Seventh Day Adventist,FY 2011,5,Ukraine,5,59
+

@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Sep 2009,To: 28 Sep 2009,Afghanistan,FY 2009,1,Moslem Suni,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Albania,FY 2009,1,Orthodox,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Bhutan,FY 2009,103,Buddhist,9,374
+From: 28 Sep 2009,To: 28 Sep 2009,Bhutan,FY 2009,103,Christian,9,374
+From: 28 Sep 2009,To: 28 Sep 2009,Bhutan,FY 2009,103,Hindu,69,374
+From: 28 Sep 2009,To: 28 Sep 2009,Bhutan,FY 2009,103,Kirat,16,374
+From: 28 Sep 2009,To: 28 Sep 2009,Burma,FY 2009,80,Animist,12,374
+From: 28 Sep 2009,To: 28 Sep 2009,Burma,FY 2009,80,Buddhist,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Burma,FY 2009,80,Catholic,5,374
+From: 28 Sep 2009,To: 28 Sep 2009,Burma,FY 2009,80,Christian,61,374
+From: 28 Sep 2009,To: 28 Sep 2009,Congo,FY 2009,39,Catholic,5,374
+From: 28 Sep 2009,To: 28 Sep 2009,Congo,FY 2009,39,Christian,8,374
+From: 28 Sep 2009,To: 28 Sep 2009,Congo,FY 2009,39,Other Religion,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Congo,FY 2009,39,Pentecostalist,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Congo,FY 2009,39,Protestant,23,374
+From: 28 Sep 2009,To: 28 Sep 2009,Equatorial Guinea,FY 2009,8,Catholic,7,374
+From: 28 Sep 2009,To: 28 Sep 2009,Equatorial Guinea,FY 2009,8,Christian,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iran,FY 2009,37,Bahai,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iran,FY 2009,37,Catholic,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iran,FY 2009,37,Christian,32,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iran,FY 2009,37,Sabeans-Mandean,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iraq,FY 2009,68,Catholic,16,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iraq,FY 2009,68,Christian,30,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iraq,FY 2009,68,Moslem Shiite,6,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iraq,FY 2009,68,Moslem Suni,14,374
+From: 28 Sep 2009,To: 28 Sep 2009,Iraq,FY 2009,68,Orthodox,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Pakistan,FY 2009,4,Moslem,4,374
+From: 28 Sep 2009,To: 28 Sep 2009,Palestine,FY 2009,24,Moslem Suni,24,374
+From: 28 Sep 2009,To: 28 Sep 2009,Sudan,FY 2009,1,Moslem,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Ukraine,FY 2009,8,Jewish,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Ukraine,FY 2009,8,Pentecostalist,6,374
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Sep 2009,To: 28 Sep 2009,Animist,FY 2009,12,Burma,12,374
+From: 28 Sep 2009,To: 28 Sep 2009,Bahai,FY 2009,2,Iran,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Buddhist,FY 2009,11,Bhutan,9,374
+From: 28 Sep 2009,To: 28 Sep 2009,Buddhist,FY 2009,11,Burma,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Catholic,FY 2009,35,Burma,5,374
+From: 28 Sep 2009,To: 28 Sep 2009,Catholic,FY 2009,35,Congo,5,374
+From: 28 Sep 2009,To: 28 Sep 2009,Catholic,FY 2009,35,Equatorial Guinea,7,374
+From: 28 Sep 2009,To: 28 Sep 2009,Catholic,FY 2009,35,Iran,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Catholic,FY 2009,35,Iraq,16,374
+From: 28 Sep 2009,To: 28 Sep 2009,Christian,FY 2009,141,Bhutan,9,374
+From: 28 Sep 2009,To: 28 Sep 2009,Christian,FY 2009,141,Burma,61,374
+From: 28 Sep 2009,To: 28 Sep 2009,Christian,FY 2009,141,Congo,8,374
+From: 28 Sep 2009,To: 28 Sep 2009,Christian,FY 2009,141,Equatorial Guinea,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Christian,FY 2009,141,Iran,32,374
+From: 28 Sep 2009,To: 28 Sep 2009,Christian,FY 2009,141,Iraq,30,374
+From: 28 Sep 2009,To: 28 Sep 2009,Hindu,FY 2009,69,Bhutan,69,374
+From: 28 Sep 2009,To: 28 Sep 2009,Jewish,FY 2009,2,Ukraine,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Kirat,FY 2009,16,Bhutan,16,374
+From: 28 Sep 2009,To: 28 Sep 2009,Moslem,FY 2009,5,Pakistan,4,374
+From: 28 Sep 2009,To: 28 Sep 2009,Moslem,FY 2009,5,Sudan,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Moslem Shiite,FY 2009,6,Iraq,6,374
+From: 28 Sep 2009,To: 28 Sep 2009,Moslem Suni,FY 2009,39,Afghanistan,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Moslem Suni,FY 2009,39,Iraq,14,374
+From: 28 Sep 2009,To: 28 Sep 2009,Moslem Suni,FY 2009,39,Palestine,24,374
+From: 28 Sep 2009,To: 28 Sep 2009,Orthodox,FY 2009,3,Albania,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Orthodox,FY 2009,3,Iraq,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Other Religion,FY 2009,2,Congo,2,374
+From: 28 Sep 2009,To: 28 Sep 2009,Pentecostalist,FY 2009,7,Congo,1,374
+From: 28 Sep 2009,To: 28 Sep 2009,Pentecostalist,FY 2009,7,Ukraine,6,374
+From: 28 Sep 2009,To: 28 Sep 2009,Protestant,FY 2009,23,Congo,23,374
+From: 28 Sep 2009,To: 28 Sep 2009,Sabeans-Mandean,FY 2009,1,Iran,1,374
+

@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Sep 2008,To: 15 Sep 2008,Bhutan,FY 2008,76,Buddhist,6,264
+From: 15 Sep 2008,To: 15 Sep 2008,Bhutan,FY 2008,76,Hindu,68,264
+From: 15 Sep 2008,To: 15 Sep 2008,Bhutan,FY 2008,76,Kirat,2,264
+From: 15 Sep 2008,To: 15 Sep 2008,Congo,FY 2008,44,Catholic,1,264
+From: 15 Sep 2008,To: 15 Sep 2008,Congo,FY 2008,44,Christian,5,264
+From: 15 Sep 2008,To: 15 Sep 2008,Congo,FY 2008,44,Other Religion,4,264
+From: 15 Sep 2008,To: 15 Sep 2008,Congo,FY 2008,44,Pentecostalist,3,264
+From: 15 Sep 2008,To: 15 Sep 2008,Congo,FY 2008,44,Protestant,31,264
+From: 15 Sep 2008,To: 15 Sep 2008,Iraq,FY 2008,138,Catholic,10,264
+From: 15 Sep 2008,To: 15 Sep 2008,Iraq,FY 2008,138,Chaldean,3,264
+From: 15 Sep 2008,To: 15 Sep 2008,Iraq,FY 2008,138,Christian,98,264
+From: 15 Sep 2008,To: 15 Sep 2008,Iraq,FY 2008,138,Moslem Shiite,10,264
+From: 15 Sep 2008,To: 15 Sep 2008,Iraq,FY 2008,138,Moslem Suni,12,264
+From: 15 Sep 2008,To: 15 Sep 2008,Iraq,FY 2008,138,Sabeans-Mandean,5,264
+From: 15 Sep 2008,To: 15 Sep 2008,Liberia,FY 2008,5,Christian,2,264
+From: 15 Sep 2008,To: 15 Sep 2008,Liberia,FY 2008,5,Protestant,3,264
+From: 15 Sep 2008,To: 15 Sep 2008,Pakistan,FY 2008,1,Other Religion,1,264
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Sep 2008,To: 15 Sep 2008,Buddhist,FY 2008,6,Bhutan,6,264
+From: 15 Sep 2008,To: 15 Sep 2008,Catholic,FY 2008,11,Congo,1,264
+From: 15 Sep 2008,To: 15 Sep 2008,Catholic,FY 2008,11,Iraq,10,264
+From: 15 Sep 2008,To: 15 Sep 2008,Chaldean,FY 2008,3,Iraq,3,264
+From: 15 Sep 2008,To: 15 Sep 2008,Christian,FY 2008,105,Congo,5,264
+From: 15 Sep 2008,To: 15 Sep 2008,Christian,FY 2008,105,Iraq,98,264
+From: 15 Sep 2008,To: 15 Sep 2008,Christian,FY 2008,105,Liberia,2,264
+From: 15 Sep 2008,To: 15 Sep 2008,Hindu,FY 2008,68,Bhutan,68,264
+From: 15 Sep 2008,To: 15 Sep 2008,Kirat,FY 2008,2,Bhutan,2,264
+From: 15 Sep 2008,To: 15 Sep 2008,Moslem Shiite,FY 2008,10,Iraq,10,264
+From: 15 Sep 2008,To: 15 Sep 2008,Moslem Suni,FY 2008,12,Iraq,12,264
+From: 15 Sep 2008,To: 15 Sep 2008,Other Religion,FY 2008,5,Congo,4,264
+From: 15 Sep 2008,To: 15 Sep 2008,Other Religion,FY 2008,5,Pakistan,1,264
+From: 15 Sep 2008,To: 15 Sep 2008,Pentecostalist,FY 2008,3,Congo,3,264
+From: 15 Sep 2008,To: 15 Sep 2008,Protestant,FY 2008,34,Congo,31,264
+From: 15 Sep 2008,To: 15 Sep 2008,Protestant,FY 2008,34,Liberia,3,264
+From: 15 Sep 2008,To: 15 Sep 2008,Sabeans-Mandean,FY 2008,5,Iraq,5,264
+

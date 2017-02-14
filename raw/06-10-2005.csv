@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jun 2005,To: 10 Jun 2005,Burma,FY 2005,15,Buddhist,13,145
+From: 10 Jun 2005,To: 10 Jun 2005,Burma,FY 2005,15,Protestant,2,145
+From: 10 Jun 2005,To: 10 Jun 2005,Laos,FY 2005,30,Ancestral Worship,26,145
+From: 10 Jun 2005,To: 10 Jun 2005,Laos,FY 2005,30,Christian,4,145
+From: 10 Jun 2005,To: 10 Jun 2005,Russia,FY 2005,70,Moslem,70,145
+From: 10 Jun 2005,To: 10 Jun 2005,Ukraine,FY 2005,30,Baptist,7,145
+From: 10 Jun 2005,To: 10 Jun 2005,Ukraine,FY 2005,30,Evangelical Christian,3,145
+From: 10 Jun 2005,To: 10 Jun 2005,Ukraine,FY 2005,30,Pentecostalist,20,145
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jun 2005,To: 10 Jun 2005,Ancestral Worship,FY 2005,26,Laos,26,145
+From: 10 Jun 2005,To: 10 Jun 2005,Baptist,FY 2005,7,Ukraine,7,145
+From: 10 Jun 2005,To: 10 Jun 2005,Buddhist,FY 2005,13,Burma,13,145
+From: 10 Jun 2005,To: 10 Jun 2005,Christian,FY 2005,4,Laos,4,145
+From: 10 Jun 2005,To: 10 Jun 2005,Evangelical Christian,FY 2005,3,Ukraine,3,145
+From: 10 Jun 2005,To: 10 Jun 2005,Moslem,FY 2005,70,Russia,70,145
+From: 10 Jun 2005,To: 10 Jun 2005,Pentecostalist,FY 2005,20,Ukraine,20,145
+From: 10 Jun 2005,To: 10 Jun 2005,Protestant,FY 2005,2,Burma,2,145
+

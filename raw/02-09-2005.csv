@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Feb 2005,To: 09 Feb 2005,Burma,FY 2005,24,Buddhist,18,182
+From: 09 Feb 2005,To: 09 Feb 2005,Burma,FY 2005,24,Protestant,6,182
+From: 09 Feb 2005,To: 09 Feb 2005,Dem. Rep. Congo,FY 2005,1,Catholic,1,182
+From: 09 Feb 2005,To: 09 Feb 2005,Ethiopia,FY 2005,45,Christian,19,182
+From: 09 Feb 2005,To: 09 Feb 2005,Ethiopia,FY 2005,45,Moslem,26,182
+From: 09 Feb 2005,To: 09 Feb 2005,Iran,FY 2005,21,Bahai,5,182
+From: 09 Feb 2005,To: 09 Feb 2005,Iran,FY 2005,21,Christian,11,182
+From: 09 Feb 2005,To: 09 Feb 2005,Iran,FY 2005,21,Jewish,5,182
+From: 09 Feb 2005,To: 09 Feb 2005,Liberia,FY 2005,39,Baptist,14,182
+From: 09 Feb 2005,To: 09 Feb 2005,Liberia,FY 2005,39,Christian,16,182
+From: 09 Feb 2005,To: 09 Feb 2005,Liberia,FY 2005,39,Methodist,9,182
+From: 09 Feb 2005,To: 09 Feb 2005,Somalia,FY 2005,26,Moslem,26,182
+From: 09 Feb 2005,To: 09 Feb 2005,Sudan,FY 2005,1,Catholic,1,182
+From: 09 Feb 2005,To: 09 Feb 2005,Ukraine,FY 2005,25,Baptist,10,182
+From: 09 Feb 2005,To: 09 Feb 2005,Ukraine,FY 2005,25,Orthodox,2,182
+From: 09 Feb 2005,To: 09 Feb 2005,Ukraine,FY 2005,25,Pentecostalist,13,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Feb 2005,To: 09 Feb 2005,Bahai,FY 2005,5,Iran,5,182
+From: 09 Feb 2005,To: 09 Feb 2005,Baptist,FY 2005,24,Liberia,14,182
+From: 09 Feb 2005,To: 09 Feb 2005,Baptist,FY 2005,24,Ukraine,10,182
+From: 09 Feb 2005,To: 09 Feb 2005,Buddhist,FY 2005,18,Burma,18,182
+From: 09 Feb 2005,To: 09 Feb 2005,Catholic,FY 2005,2,Dem. Rep. Congo,1,182
+From: 09 Feb 2005,To: 09 Feb 2005,Catholic,FY 2005,2,Sudan,1,182
+From: 09 Feb 2005,To: 09 Feb 2005,Christian,FY 2005,46,Ethiopia,19,182
+From: 09 Feb 2005,To: 09 Feb 2005,Christian,FY 2005,46,Iran,11,182
+From: 09 Feb 2005,To: 09 Feb 2005,Christian,FY 2005,46,Liberia,16,182
+From: 09 Feb 2005,To: 09 Feb 2005,Jewish,FY 2005,5,Iran,5,182
+From: 09 Feb 2005,To: 09 Feb 2005,Methodist,FY 2005,9,Liberia,9,182
+From: 09 Feb 2005,To: 09 Feb 2005,Moslem,FY 2005,52,Ethiopia,26,182
+From: 09 Feb 2005,To: 09 Feb 2005,Moslem,FY 2005,52,Somalia,26,182
+From: 09 Feb 2005,To: 09 Feb 2005,Orthodox,FY 2005,2,Ukraine,2,182
+From: 09 Feb 2005,To: 09 Feb 2005,Pentecostalist,FY 2005,13,Ukraine,13,182
+From: 09 Feb 2005,To: 09 Feb 2005,Protestant,FY 2005,6,Burma,6,182
+

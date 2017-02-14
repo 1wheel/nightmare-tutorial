@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Nov 2003,To: 25 Nov 2003,Afghanistan,FY 2004,5,Moslem Suni,5,310
+From: 25 Nov 2003,To: 25 Nov 2003,Azerbaijan,FY 2004,21,Christian,6,310
+From: 25 Nov 2003,To: 25 Nov 2003,Azerbaijan,FY 2004,21,Unknown,15,310
+From: 25 Nov 2003,To: 25 Nov 2003,Colombia,FY 2004,11,Catholic,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Ethiopia,FY 2004,25,Moslem,25,310
+From: 25 Nov 2003,To: 25 Nov 2003,Kazakhstan,FY 2004,24,Baptist,7,310
+From: 25 Nov 2003,To: 25 Nov 2003,Kazakhstan,FY 2004,24,No Religion,3,310
+From: 25 Nov 2003,To: 25 Nov 2003,Kazakhstan,FY 2004,24,Pentecostalist,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Kazakhstan,FY 2004,24,Seventh Day Adventist,3,310
+From: 25 Nov 2003,To: 25 Nov 2003,Kyrgyzstan,FY 2004,3,Pentecostalist,3,310
+From: 25 Nov 2003,To: 25 Nov 2003,Liberia,FY 2004,167,Baptist,27,310
+From: 25 Nov 2003,To: 25 Nov 2003,Liberia,FY 2004,167,Catholic,15,310
+From: 25 Nov 2003,To: 25 Nov 2003,Liberia,FY 2004,167,Christian,74,310
+From: 25 Nov 2003,To: 25 Nov 2003,Liberia,FY 2004,167,Lutheran,10,310
+From: 25 Nov 2003,To: 25 Nov 2003,Liberia,FY 2004,167,Methodist,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Liberia,FY 2004,167,Pentecostalist,30,310
+From: 25 Nov 2003,To: 25 Nov 2003,Russia,FY 2004,4,Baptist,2,310
+From: 25 Nov 2003,To: 25 Nov 2003,Russia,FY 2004,4,Jewish,2,310
+From: 25 Nov 2003,To: 25 Nov 2003,Sierra Leone,FY 2004,1,Protestant,1,310
+From: 25 Nov 2003,To: 25 Nov 2003,Somalia,FY 2004,12,Moslem,12,310
+From: 25 Nov 2003,To: 25 Nov 2003,Sudan,FY 2004,1,Moslem,1,310
+From: 25 Nov 2003,To: 25 Nov 2003,Ukraine,FY 2004,35,Baptist,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Ukraine,FY 2004,35,Jewish,5,310
+From: 25 Nov 2003,To: 25 Nov 2003,Ukraine,FY 2004,35,Pentecostalist,19,310
+From: 25 Nov 2003,To: 25 Nov 2003,Uzbekistan,FY 2004,1,Unknown,1,310
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Nov 2003,To: 25 Nov 2003,Baptist,FY 2004,47,Kazakhstan,7,310
+From: 25 Nov 2003,To: 25 Nov 2003,Baptist,FY 2004,47,Liberia,27,310
+From: 25 Nov 2003,To: 25 Nov 2003,Baptist,FY 2004,47,Russia,2,310
+From: 25 Nov 2003,To: 25 Nov 2003,Baptist,FY 2004,47,Ukraine,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Catholic,FY 2004,26,Colombia,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Catholic,FY 2004,26,Liberia,15,310
+From: 25 Nov 2003,To: 25 Nov 2003,Christian,FY 2004,80,Azerbaijan,6,310
+From: 25 Nov 2003,To: 25 Nov 2003,Christian,FY 2004,80,Liberia,74,310
+From: 25 Nov 2003,To: 25 Nov 2003,Jewish,FY 2004,7,Russia,2,310
+From: 25 Nov 2003,To: 25 Nov 2003,Jewish,FY 2004,7,Ukraine,5,310
+From: 25 Nov 2003,To: 25 Nov 2003,Lutheran,FY 2004,10,Liberia,10,310
+From: 25 Nov 2003,To: 25 Nov 2003,Methodist,FY 2004,11,Liberia,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Moslem,FY 2004,38,Ethiopia,25,310
+From: 25 Nov 2003,To: 25 Nov 2003,Moslem,FY 2004,38,Somalia,12,310
+From: 25 Nov 2003,To: 25 Nov 2003,Moslem,FY 2004,38,Sudan,1,310
+From: 25 Nov 2003,To: 25 Nov 2003,Moslem Suni,FY 2004,5,Afghanistan,5,310
+From: 25 Nov 2003,To: 25 Nov 2003,No Religion,FY 2004,3,Kazakhstan,3,310
+From: 25 Nov 2003,To: 25 Nov 2003,Pentecostalist,FY 2004,63,Kazakhstan,11,310
+From: 25 Nov 2003,To: 25 Nov 2003,Pentecostalist,FY 2004,63,Kyrgyzstan,3,310
+From: 25 Nov 2003,To: 25 Nov 2003,Pentecostalist,FY 2004,63,Liberia,30,310
+From: 25 Nov 2003,To: 25 Nov 2003,Pentecostalist,FY 2004,63,Ukraine,19,310
+From: 25 Nov 2003,To: 25 Nov 2003,Protestant,FY 2004,1,Sierra Leone,1,310
+From: 25 Nov 2003,To: 25 Nov 2003,Seventh Day Adventist,FY 2004,3,Kazakhstan,3,310
+From: 25 Nov 2003,To: 25 Nov 2003,Unknown,FY 2004,16,Azerbaijan,15,310
+From: 25 Nov 2003,To: 25 Nov 2003,Unknown,FY 2004,16,Uzbekistan,1,310
+

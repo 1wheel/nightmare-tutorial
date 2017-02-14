@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Apr 2013,To: 04 Apr 2013,Afghanistan,FY 2013,3,Moslem Suni,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Bhutan,FY 2013,31,Buddhist,6,226
+From: 04 Apr 2013,To: 04 Apr 2013,Bhutan,FY 2013,31,Christian,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Bhutan,FY 2013,31,Hindu,17,226
+From: 04 Apr 2013,To: 04 Apr 2013,Bhutan,FY 2013,31,Kirat,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Burma,FY 2013,5,Christian,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Colombia,FY 2013,1,Catholic,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Baptist,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Catholic,10,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Evangelical Christian,4,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Jehovah Witness,28,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,No Religion,16,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Pentecostalist,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Seventh Day Adventist,4,226
+From: 04 Apr 2013,To: 04 Apr 2013,Cuba,FY 2013,68,Unknown,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Dem. Rep. Congo,FY 2013,1,Protestant,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Eritrea,FY 2013,5,Christian,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Eritrea,FY 2013,5,Orthodox,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Ethiopia,FY 2013,3,Christian,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Ethiopia,FY 2013,3,Orthodox,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iran,FY 2013,12,Bahai,4,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iran,FY 2013,12,Christian,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iran,FY 2013,12,No Religion,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iran,FY 2013,12,Sabeans-Mandean,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iraq,FY 2013,15,Catholic,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iraq,FY 2013,15,Moslem Shiite,9,226
+From: 04 Apr 2013,To: 04 Apr 2013,Iraq,FY 2013,15,Moslem Suni,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Somalia,FY 2013,53,Moslem,50,226
+From: 04 Apr 2013,To: 04 Apr 2013,Somalia,FY 2013,53,Moslem Suni,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Sudan,FY 2013,29,Moslem,29,226
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Apr 2013,To: 04 Apr 2013,Bahai,FY 2013,4,Iran,4,226
+From: 04 Apr 2013,To: 04 Apr 2013,Baptist,FY 2013,3,Cuba,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Buddhist,FY 2013,6,Bhutan,6,226
+From: 04 Apr 2013,To: 04 Apr 2013,Catholic,FY 2013,16,Colombia,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Catholic,FY 2013,16,Cuba,10,226
+From: 04 Apr 2013,To: 04 Apr 2013,Catholic,FY 2013,16,Iraq,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Christian,FY 2013,14,Bhutan,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Christian,FY 2013,14,Burma,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Christian,FY 2013,14,Eritrea,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Christian,FY 2013,14,Ethiopia,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Christian,FY 2013,14,Iran,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Evangelical Christian,FY 2013,4,Cuba,4,226
+From: 04 Apr 2013,To: 04 Apr 2013,Hindu,FY 2013,17,Bhutan,17,226
+From: 04 Apr 2013,To: 04 Apr 2013,Jehovah Witness,FY 2013,28,Cuba,28,226
+From: 04 Apr 2013,To: 04 Apr 2013,Kirat,FY 2013,5,Bhutan,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Moslem,FY 2013,79,Somalia,50,226
+From: 04 Apr 2013,To: 04 Apr 2013,Moslem,FY 2013,79,Sudan,29,226
+From: 04 Apr 2013,To: 04 Apr 2013,Moslem Shiite,FY 2013,9,Iraq,9,226
+From: 04 Apr 2013,To: 04 Apr 2013,Moslem Suni,FY 2013,7,Afghanistan,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Moslem Suni,FY 2013,7,Iraq,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Moslem Suni,FY 2013,7,Somalia,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,No Religion,FY 2013,17,Cuba,16,226
+From: 04 Apr 2013,To: 04 Apr 2013,No Religion,FY 2013,17,Iran,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Orthodox,FY 2013,4,Eritrea,3,226
+From: 04 Apr 2013,To: 04 Apr 2013,Orthodox,FY 2013,4,Ethiopia,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Pentecostalist,FY 2013,2,Cuba,2,226
+From: 04 Apr 2013,To: 04 Apr 2013,Protestant,FY 2013,1,Dem. Rep. Congo,1,226
+From: 04 Apr 2013,To: 04 Apr 2013,Sabeans-Mandean,FY 2013,5,Iran,5,226
+From: 04 Apr 2013,To: 04 Apr 2013,Seventh Day Adventist,FY 2013,4,Cuba,4,226
+From: 04 Apr 2013,To: 04 Apr 2013,Unknown,FY 2013,1,Cuba,1,226
+

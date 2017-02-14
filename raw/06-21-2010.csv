@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jun 2010,To: 21 Jun 2010,Iran,FY 2010,5,Christian,1,116
+From: 21 Jun 2010,To: 21 Jun 2010,Iran,FY 2010,5,Other Religion,4,116
+From: 21 Jun 2010,To: 21 Jun 2010,Iraq,FY 2010,111,Catholic,6,116
+From: 21 Jun 2010,To: 21 Jun 2010,Iraq,FY 2010,111,Christian,24,116
+From: 21 Jun 2010,To: 21 Jun 2010,Iraq,FY 2010,111,Moslem Shiite,30,116
+From: 21 Jun 2010,To: 21 Jun 2010,Iraq,FY 2010,111,Moslem Suni,46,116
+From: 21 Jun 2010,To: 21 Jun 2010,Iraq,FY 2010,111,Orthodox,5,116
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jun 2010,To: 21 Jun 2010,Catholic,FY 2010,6,Iraq,6,116
+From: 21 Jun 2010,To: 21 Jun 2010,Christian,FY 2010,25,Iran,1,116
+From: 21 Jun 2010,To: 21 Jun 2010,Christian,FY 2010,25,Iraq,24,116
+From: 21 Jun 2010,To: 21 Jun 2010,Moslem Shiite,FY 2010,30,Iraq,30,116
+From: 21 Jun 2010,To: 21 Jun 2010,Moslem Suni,FY 2010,46,Iraq,46,116
+From: 21 Jun 2010,To: 21 Jun 2010,Orthodox,FY 2010,5,Iraq,5,116
+From: 21 Jun 2010,To: 21 Jun 2010,Other Religion,FY 2010,4,Iran,4,116
+

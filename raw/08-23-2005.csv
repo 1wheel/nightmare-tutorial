@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Aug 2005,To: 23 Aug 2005,Burma,FY 2005,10,Buddhist,9,178
+From: 23 Aug 2005,To: 23 Aug 2005,Burma,FY 2005,10,Protestant,1,178
+From: 23 Aug 2005,To: 23 Aug 2005,Cuba,FY 2005,69,Catholic,13,178
+From: 23 Aug 2005,To: 23 Aug 2005,Cuba,FY 2005,69,Evangelical Christian,2,178
+From: 23 Aug 2005,To: 23 Aug 2005,Cuba,FY 2005,69,Methodist,6,178
+From: 23 Aug 2005,To: 23 Aug 2005,Cuba,FY 2005,69,No Religion,44,178
+From: 23 Aug 2005,To: 23 Aug 2005,Cuba,FY 2005,69,Seventh Day Adventist,4,178
+From: 23 Aug 2005,To: 23 Aug 2005,Dem. Rep. Congo,FY 2005,4,Christian,4,178
+From: 23 Aug 2005,To: 23 Aug 2005,Iran,FY 2005,20,Christian,9,178
+From: 23 Aug 2005,To: 23 Aug 2005,Iran,FY 2005,20,Jewish,7,178
+From: 23 Aug 2005,To: 23 Aug 2005,Iran,FY 2005,20,Zoroastrian,4,178
+From: 23 Aug 2005,To: 23 Aug 2005,Kyrgyzstan,FY 2005,5,Seventh Day Adventist,5,178
+From: 23 Aug 2005,To: 23 Aug 2005,Laos,FY 2005,35,Ancestral Worship,35,178
+From: 23 Aug 2005,To: 23 Aug 2005,Somalia,FY 2005,35,Moslem,35,178
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Aug 2005,To: 23 Aug 2005,Ancestral Worship,FY 2005,35,Laos,35,178
+From: 23 Aug 2005,To: 23 Aug 2005,Buddhist,FY 2005,9,Burma,9,178
+From: 23 Aug 2005,To: 23 Aug 2005,Catholic,FY 2005,13,Cuba,13,178
+From: 23 Aug 2005,To: 23 Aug 2005,Christian,FY 2005,13,Dem. Rep. Congo,4,178
+From: 23 Aug 2005,To: 23 Aug 2005,Christian,FY 2005,13,Iran,9,178
+From: 23 Aug 2005,To: 23 Aug 2005,Evangelical Christian,FY 2005,2,Cuba,2,178
+From: 23 Aug 2005,To: 23 Aug 2005,Jewish,FY 2005,7,Iran,7,178
+From: 23 Aug 2005,To: 23 Aug 2005,Methodist,FY 2005,6,Cuba,6,178
+From: 23 Aug 2005,To: 23 Aug 2005,Moslem,FY 2005,35,Somalia,35,178
+From: 23 Aug 2005,To: 23 Aug 2005,No Religion,FY 2005,44,Cuba,44,178
+From: 23 Aug 2005,To: 23 Aug 2005,Protestant,FY 2005,1,Burma,1,178
+From: 23 Aug 2005,To: 23 Aug 2005,Seventh Day Adventist,FY 2005,9,Cuba,4,178
+From: 23 Aug 2005,To: 23 Aug 2005,Seventh Day Adventist,FY 2005,9,Kyrgyzstan,5,178
+From: 23 Aug 2005,To: 23 Aug 2005,Zoroastrian,FY 2005,4,Iran,4,178
+

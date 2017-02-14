@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jun 2004,To: 14 Jun 2004,Afghanistan,FY 2004,10,Moslem Suni,10,119
+From: 14 Jun 2004,To: 14 Jun 2004,Azerbaijan,FY 2004,6,Jewish,6,119
+From: 14 Jun 2004,To: 14 Jun 2004,Moldova,FY 2004,35,Baptist,15,119
+From: 14 Jun 2004,To: 14 Jun 2004,Moldova,FY 2004,35,Jewish,8,119
+From: 14 Jun 2004,To: 14 Jun 2004,Moldova,FY 2004,35,Pentecostalist,12,119
+From: 14 Jun 2004,To: 14 Jun 2004,Somalia,FY 2004,66,Moslem,66,119
+From: 14 Jun 2004,To: 14 Jun 2004,Uzbekistan,FY 2004,2,Jewish,2,119
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jun 2004,To: 14 Jun 2004,Baptist,FY 2004,15,Moldova,15,119
+From: 14 Jun 2004,To: 14 Jun 2004,Jewish,FY 2004,16,Azerbaijan,6,119
+From: 14 Jun 2004,To: 14 Jun 2004,Jewish,FY 2004,16,Moldova,8,119
+From: 14 Jun 2004,To: 14 Jun 2004,Jewish,FY 2004,16,Uzbekistan,2,119
+From: 14 Jun 2004,To: 14 Jun 2004,Moslem,FY 2004,66,Somalia,66,119
+From: 14 Jun 2004,To: 14 Jun 2004,Moslem Suni,FY 2004,10,Afghanistan,10,119
+From: 14 Jun 2004,To: 14 Jun 2004,Pentecostalist,FY 2004,12,Moldova,12,119
+

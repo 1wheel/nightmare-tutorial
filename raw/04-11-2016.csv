@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Apr 2016,To: 11 Apr 2016,Afghanistan,FY 2016,6,Moslem Suni,6,201
+From: 11 Apr 2016,To: 11 Apr 2016,Belarus,FY 2016,8,Baptist,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Belarus,FY 2016,8,Evangelical Christian,1,201
+From: 11 Apr 2016,To: 11 Apr 2016,Belarus,FY 2016,8,Pentecostalist,4,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iran,FY 2016,8,Bahai,5,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iran,FY 2016,8,Moslem Shiite,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iraq,FY 2016,79,Catholic,12,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iraq,FY 2016,79,Christian,2,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iraq,FY 2016,79,Moslem,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iraq,FY 2016,79,Moslem Shiite,23,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iraq,FY 2016,79,Moslem Suni,33,201
+From: 11 Apr 2016,To: 11 Apr 2016,Iraq,FY 2016,79,Orthodox,6,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moldova,FY 2016,24,Baptist,21,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moldova,FY 2016,24,Jehovah Witness,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Somalia,FY 2016,22,Moslem,22,201
+From: 11 Apr 2016,To: 11 Apr 2016,Sudan,FY 2016,13,Christian,1,201
+From: 11 Apr 2016,To: 11 Apr 2016,Sudan,FY 2016,13,Evangelical Christian,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Sudan,FY 2016,13,Moslem,9,201
+From: 11 Apr 2016,To: 11 Apr 2016,Syria,FY 2016,41,Moslem Suni,41,201
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Apr 2016,To: 11 Apr 2016,Bahai,FY 2016,5,Iran,5,201
+From: 11 Apr 2016,To: 11 Apr 2016,Baptist,FY 2016,24,Belarus,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Baptist,FY 2016,24,Moldova,21,201
+From: 11 Apr 2016,To: 11 Apr 2016,Catholic,FY 2016,12,Iraq,12,201
+From: 11 Apr 2016,To: 11 Apr 2016,Christian,FY 2016,3,Iraq,2,201
+From: 11 Apr 2016,To: 11 Apr 2016,Christian,FY 2016,3,Sudan,1,201
+From: 11 Apr 2016,To: 11 Apr 2016,Evangelical Christian,FY 2016,4,Belarus,1,201
+From: 11 Apr 2016,To: 11 Apr 2016,Evangelical Christian,FY 2016,4,Sudan,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Jehovah Witness,FY 2016,3,Moldova,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem,FY 2016,34,Iraq,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem,FY 2016,34,Somalia,22,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem,FY 2016,34,Sudan,9,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem Shiite,FY 2016,26,Iran,3,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem Shiite,FY 2016,26,Iraq,23,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem Suni,FY 2016,80,Afghanistan,6,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem Suni,FY 2016,80,Iraq,33,201
+From: 11 Apr 2016,To: 11 Apr 2016,Moslem Suni,FY 2016,80,Syria,41,201
+From: 11 Apr 2016,To: 11 Apr 2016,Orthodox,FY 2016,6,Iraq,6,201
+From: 11 Apr 2016,To: 11 Apr 2016,Pentecostalist,FY 2016,4,Belarus,4,201
+

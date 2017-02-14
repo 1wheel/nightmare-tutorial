@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Apr 2012,To: 16 Apr 2012,Bhutan,FY 2012,35,Buddhist,7,144
+From: 16 Apr 2012,To: 16 Apr 2012,Bhutan,FY 2012,35,Hindu,16,144
+From: 16 Apr 2012,To: 16 Apr 2012,Bhutan,FY 2012,35,Kirat,12,144
+From: 16 Apr 2012,To: 16 Apr 2012,Burma,FY 2012,29,Baptist,1,144
+From: 16 Apr 2012,To: 16 Apr 2012,Burma,FY 2012,29,Buddhist,3,144
+From: 16 Apr 2012,To: 16 Apr 2012,Burma,FY 2012,29,Christian,19,144
+From: 16 Apr 2012,To: 16 Apr 2012,Burma,FY 2012,29,Methodist,1,144
+From: 16 Apr 2012,To: 16 Apr 2012,Burma,FY 2012,29,Moslem,5,144
+From: 16 Apr 2012,To: 16 Apr 2012,Colombia,FY 2012,2,Catholic,2,144
+From: 16 Apr 2012,To: 16 Apr 2012,Iran,FY 2012,11,Bahai,11,144
+From: 16 Apr 2012,To: 16 Apr 2012,Iraq,FY 2012,61,Catholic,19,144
+From: 16 Apr 2012,To: 16 Apr 2012,Iraq,FY 2012,61,Christian,8,144
+From: 16 Apr 2012,To: 16 Apr 2012,Iraq,FY 2012,61,Moslem,5,144
+From: 16 Apr 2012,To: 16 Apr 2012,Iraq,FY 2012,61,Moslem Suni,28,144
+From: 16 Apr 2012,To: 16 Apr 2012,Iraq,FY 2012,61,Orthodox,1,144
+From: 16 Apr 2012,To: 16 Apr 2012,Palestine,FY 2012,4,Moslem Suni,4,144
+From: 16 Apr 2012,To: 16 Apr 2012,Sudan,FY 2012,2,Moslem,2,144
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Apr 2012,To: 16 Apr 2012,Bahai,FY 2012,11,Iran,11,144
+From: 16 Apr 2012,To: 16 Apr 2012,Baptist,FY 2012,1,Burma,1,144
+From: 16 Apr 2012,To: 16 Apr 2012,Buddhist,FY 2012,10,Bhutan,7,144
+From: 16 Apr 2012,To: 16 Apr 2012,Buddhist,FY 2012,10,Burma,3,144
+From: 16 Apr 2012,To: 16 Apr 2012,Catholic,FY 2012,21,Colombia,2,144
+From: 16 Apr 2012,To: 16 Apr 2012,Catholic,FY 2012,21,Iraq,19,144
+From: 16 Apr 2012,To: 16 Apr 2012,Christian,FY 2012,27,Burma,19,144
+From: 16 Apr 2012,To: 16 Apr 2012,Christian,FY 2012,27,Iraq,8,144
+From: 16 Apr 2012,To: 16 Apr 2012,Hindu,FY 2012,16,Bhutan,16,144
+From: 16 Apr 2012,To: 16 Apr 2012,Kirat,FY 2012,12,Bhutan,12,144
+From: 16 Apr 2012,To: 16 Apr 2012,Methodist,FY 2012,1,Burma,1,144
+From: 16 Apr 2012,To: 16 Apr 2012,Moslem,FY 2012,12,Burma,5,144
+From: 16 Apr 2012,To: 16 Apr 2012,Moslem,FY 2012,12,Iraq,5,144
+From: 16 Apr 2012,To: 16 Apr 2012,Moslem,FY 2012,12,Sudan,2,144
+From: 16 Apr 2012,To: 16 Apr 2012,Moslem Suni,FY 2012,32,Iraq,28,144
+From: 16 Apr 2012,To: 16 Apr 2012,Moslem Suni,FY 2012,32,Palestine,4,144
+From: 16 Apr 2012,To: 16 Apr 2012,Orthodox,FY 2012,1,Iraq,1,144
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 May 2014,To: 27 May 2014,Bhutan,FY 2014,110,Buddhist,20,364
+From: 27 May 2014,To: 27 May 2014,Bhutan,FY 2014,110,Christian,18,364
+From: 27 May 2014,To: 27 May 2014,Bhutan,FY 2014,110,Hindu,57,364
+From: 27 May 2014,To: 27 May 2014,Bhutan,FY 2014,110,Kirat,15,364
+From: 27 May 2014,To: 27 May 2014,Burma,FY 2014,109,Baptist,23,364
+From: 27 May 2014,To: 27 May 2014,Burma,FY 2014,109,Buddhist,12,364
+From: 27 May 2014,To: 27 May 2014,Burma,FY 2014,109,Christian,65,364
+From: 27 May 2014,To: 27 May 2014,Burma,FY 2014,109,Moslem,5,364
+From: 27 May 2014,To: 27 May 2014,Burma,FY 2014,109,Seventh Day Adventist,4,364
+From: 27 May 2014,To: 27 May 2014,Dem. Rep. Congo,FY 2014,30,Catholic,2,364
+From: 27 May 2014,To: 27 May 2014,Dem. Rep. Congo,FY 2014,30,No Religion,4,364
+From: 27 May 2014,To: 27 May 2014,Dem. Rep. Congo,FY 2014,30,Seventh Day Adventist,24,364
+From: 27 May 2014,To: 27 May 2014,Gabon,FY 2014,1,Christian,1,364
+From: 27 May 2014,To: 27 May 2014,Iran,FY 2014,8,Bahai,8,364
+From: 27 May 2014,To: 27 May 2014,Iraq,FY 2014,62,Catholic,13,364
+From: 27 May 2014,To: 27 May 2014,Iraq,FY 2014,62,Christian,8,364
+From: 27 May 2014,To: 27 May 2014,Iraq,FY 2014,62,Moslem Shiite,8,364
+From: 27 May 2014,To: 27 May 2014,Iraq,FY 2014,62,Moslem Suni,24,364
+From: 27 May 2014,To: 27 May 2014,Iraq,FY 2014,62,Orthodox,9,364
+From: 27 May 2014,To: 27 May 2014,Moldova,FY 2014,10,Baptist,2,364
+From: 27 May 2014,To: 27 May 2014,Moldova,FY 2014,10,Jehovah Witness,3,364
+From: 27 May 2014,To: 27 May 2014,Moldova,FY 2014,10,Pentecostalist,5,364
+From: 27 May 2014,To: 27 May 2014,Palestine,FY 2014,2,Moslem,2,364
+From: 27 May 2014,To: 27 May 2014,Somalia,FY 2014,25,Moslem,25,364
+From: 27 May 2014,To: 27 May 2014,Ukraine,FY 2014,7,Baptist,7,364
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 May 2014,To: 27 May 2014,Bahai,FY 2014,8,Iran,8,364
+From: 27 May 2014,To: 27 May 2014,Baptist,FY 2014,32,Burma,23,364
+From: 27 May 2014,To: 27 May 2014,Baptist,FY 2014,32,Moldova,2,364
+From: 27 May 2014,To: 27 May 2014,Baptist,FY 2014,32,Ukraine,7,364
+From: 27 May 2014,To: 27 May 2014,Buddhist,FY 2014,32,Bhutan,20,364
+From: 27 May 2014,To: 27 May 2014,Buddhist,FY 2014,32,Burma,12,364
+From: 27 May 2014,To: 27 May 2014,Catholic,FY 2014,15,Dem. Rep. Congo,2,364
+From: 27 May 2014,To: 27 May 2014,Catholic,FY 2014,15,Iraq,13,364
+From: 27 May 2014,To: 27 May 2014,Christian,FY 2014,92,Bhutan,18,364
+From: 27 May 2014,To: 27 May 2014,Christian,FY 2014,92,Burma,65,364
+From: 27 May 2014,To: 27 May 2014,Christian,FY 2014,92,Gabon,1,364
+From: 27 May 2014,To: 27 May 2014,Christian,FY 2014,92,Iraq,8,364
+From: 27 May 2014,To: 27 May 2014,Hindu,FY 2014,57,Bhutan,57,364
+From: 27 May 2014,To: 27 May 2014,Jehovah Witness,FY 2014,3,Moldova,3,364
+From: 27 May 2014,To: 27 May 2014,Kirat,FY 2014,15,Bhutan,15,364
+From: 27 May 2014,To: 27 May 2014,Moslem,FY 2014,32,Burma,5,364
+From: 27 May 2014,To: 27 May 2014,Moslem,FY 2014,32,Palestine,2,364
+From: 27 May 2014,To: 27 May 2014,Moslem,FY 2014,32,Somalia,25,364
+From: 27 May 2014,To: 27 May 2014,Moslem Shiite,FY 2014,8,Iraq,8,364
+From: 27 May 2014,To: 27 May 2014,Moslem Suni,FY 2014,24,Iraq,24,364
+From: 27 May 2014,To: 27 May 2014,No Religion,FY 2014,4,Dem. Rep. Congo,4,364
+From: 27 May 2014,To: 27 May 2014,Orthodox,FY 2014,9,Iraq,9,364
+From: 27 May 2014,To: 27 May 2014,Pentecostalist,FY 2014,5,Moldova,5,364
+From: 27 May 2014,To: 27 May 2014,Seventh Day Adventist,FY 2014,28,Burma,4,364
+From: 27 May 2014,To: 27 May 2014,Seventh Day Adventist,FY 2014,28,Dem. Rep. Congo,24,364
+

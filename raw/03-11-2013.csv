@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Mar 2013,To: 11 Mar 2013,Bhutan,FY 2013,35,Buddhist,5,161
+From: 11 Mar 2013,To: 11 Mar 2013,Bhutan,FY 2013,35,Christian,5,161
+From: 11 Mar 2013,To: 11 Mar 2013,Bhutan,FY 2013,35,Hindu,22,161
+From: 11 Mar 2013,To: 11 Mar 2013,Bhutan,FY 2013,35,Kirat,3,161
+From: 11 Mar 2013,To: 11 Mar 2013,Eritrea,FY 2013,1,Orthodox,1,161
+From: 11 Mar 2013,To: 11 Mar 2013,Iraq,FY 2013,125,Catholic,10,161
+From: 11 Mar 2013,To: 11 Mar 2013,Iraq,FY 2013,125,Christian,9,161
+From: 11 Mar 2013,To: 11 Mar 2013,Iraq,FY 2013,125,Moslem,7,161
+From: 11 Mar 2013,To: 11 Mar 2013,Iraq,FY 2013,125,Moslem Shiite,24,161
+From: 11 Mar 2013,To: 11 Mar 2013,Iraq,FY 2013,125,Moslem Suni,52,161
+From: 11 Mar 2013,To: 11 Mar 2013,Iraq,FY 2013,125,Orthodox,23,161
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Mar 2013,To: 11 Mar 2013,Buddhist,FY 2013,5,Bhutan,5,161
+From: 11 Mar 2013,To: 11 Mar 2013,Catholic,FY 2013,10,Iraq,10,161
+From: 11 Mar 2013,To: 11 Mar 2013,Christian,FY 2013,14,Bhutan,5,161
+From: 11 Mar 2013,To: 11 Mar 2013,Christian,FY 2013,14,Iraq,9,161
+From: 11 Mar 2013,To: 11 Mar 2013,Hindu,FY 2013,22,Bhutan,22,161
+From: 11 Mar 2013,To: 11 Mar 2013,Kirat,FY 2013,3,Bhutan,3,161
+From: 11 Mar 2013,To: 11 Mar 2013,Moslem,FY 2013,7,Iraq,7,161
+From: 11 Mar 2013,To: 11 Mar 2013,Moslem Shiite,FY 2013,24,Iraq,24,161
+From: 11 Mar 2013,To: 11 Mar 2013,Moslem Suni,FY 2013,52,Iraq,52,161
+From: 11 Mar 2013,To: 11 Mar 2013,Orthodox,FY 2013,24,Eritrea,1,161
+From: 11 Mar 2013,To: 11 Mar 2013,Orthodox,FY 2013,24,Iraq,23,161
+

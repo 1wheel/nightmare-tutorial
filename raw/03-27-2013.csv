@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Mar 2013,To: 27 Mar 2013,Afghanistan,FY 2013,9,Moslem Suni,9,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Animist,7,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Baptist,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Buddhist,50,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Catholic,9,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Christian,68,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Evangelical Christian,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Methodist,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burma,FY 2013,141,Moslem,3,474
+From: 27 Mar 2013,To: 27 Mar 2013,Burundi,FY 2013,7,Christian,7,474
+From: 27 Mar 2013,To: 27 Mar 2013,Dem. Rep. Congo,FY 2013,9,Catholic,6,474
+From: 27 Mar 2013,To: 27 Mar 2013,Dem. Rep. Congo,FY 2013,9,Moslem,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Dem. Rep. Congo,FY 2013,9,Pentecostalist,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Eritrea,FY 2013,15,Moslem,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Eritrea,FY 2013,15,Orthodox,8,474
+From: 27 Mar 2013,To: 27 Mar 2013,Eritrea,FY 2013,15,Pentecostalist,6,474
+From: 27 Mar 2013,To: 27 Mar 2013,Ethiopia,FY 2013,2,Moslem,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Ethiopia,FY 2013,2,Orthodox,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Catholic,22,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Christian,12,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Moslem Shiite,17,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Moslem Suni,50,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Orthodox,12,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Sabeans-Mandean,14,474
+From: 27 Mar 2013,To: 27 Mar 2013,Iraq,FY 2013,130,Yazidi,3,474
+From: 27 Mar 2013,To: 27 Mar 2013,Russia,FY 2013,9,Jewish,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Russia,FY 2013,9,No Religion,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Russia,FY 2013,9,Seventh Day Adventist,5,474
+From: 27 Mar 2013,To: 27 Mar 2013,Somalia,FY 2013,149,Moslem,149,474
+From: 27 Mar 2013,To: 27 Mar 2013,Uzbekistan,FY 2013,3,Protestant,3,474
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Mar 2013,To: 27 Mar 2013,Animist,FY 2013,7,Burma,7,474
+From: 27 Mar 2013,To: 27 Mar 2013,Baptist,FY 2013,2,Burma,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Buddhist,FY 2013,50,Burma,50,474
+From: 27 Mar 2013,To: 27 Mar 2013,Catholic,FY 2013,37,Burma,9,474
+From: 27 Mar 2013,To: 27 Mar 2013,Catholic,FY 2013,37,Dem. Rep. Congo,6,474
+From: 27 Mar 2013,To: 27 Mar 2013,Catholic,FY 2013,37,Iraq,22,474
+From: 27 Mar 2013,To: 27 Mar 2013,Christian,FY 2013,87,Burma,68,474
+From: 27 Mar 2013,To: 27 Mar 2013,Christian,FY 2013,87,Burundi,7,474
+From: 27 Mar 2013,To: 27 Mar 2013,Christian,FY 2013,87,Iraq,12,474
+From: 27 Mar 2013,To: 27 Mar 2013,Evangelical Christian,FY 2013,1,Burma,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Jewish,FY 2013,2,Russia,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Methodist,FY 2013,1,Burma,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem,FY 2013,156,Burma,3,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem,FY 2013,156,Dem. Rep. Congo,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem,FY 2013,156,Eritrea,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem,FY 2013,156,Ethiopia,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem,FY 2013,156,Somalia,149,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem Shiite,FY 2013,17,Iraq,17,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem Suni,FY 2013,59,Afghanistan,9,474
+From: 27 Mar 2013,To: 27 Mar 2013,Moslem Suni,FY 2013,59,Iraq,50,474
+From: 27 Mar 2013,To: 27 Mar 2013,No Religion,FY 2013,2,Russia,2,474
+From: 27 Mar 2013,To: 27 Mar 2013,Orthodox,FY 2013,21,Eritrea,8,474
+From: 27 Mar 2013,To: 27 Mar 2013,Orthodox,FY 2013,21,Ethiopia,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Orthodox,FY 2013,21,Iraq,12,474
+From: 27 Mar 2013,To: 27 Mar 2013,Pentecostalist,FY 2013,7,Dem. Rep. Congo,1,474
+From: 27 Mar 2013,To: 27 Mar 2013,Pentecostalist,FY 2013,7,Eritrea,6,474
+From: 27 Mar 2013,To: 27 Mar 2013,Protestant,FY 2013,3,Uzbekistan,3,474
+From: 27 Mar 2013,To: 27 Mar 2013,Sabeans-Mandean,FY 2013,14,Iraq,14,474
+From: 27 Mar 2013,To: 27 Mar 2013,Seventh Day Adventist,FY 2013,5,Russia,5,474
+From: 27 Mar 2013,To: 27 Mar 2013,Yazidi,FY 2013,3,Iraq,3,474
+

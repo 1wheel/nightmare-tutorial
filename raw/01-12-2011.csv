@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jan 2011,To: 12 Jan 2011,Angola,FY 2011,1,Protestant,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Bhutan,FY 2011,100,Buddhist,8,418
+From: 12 Jan 2011,To: 12 Jan 2011,Bhutan,FY 2011,100,Christian,10,418
+From: 12 Jan 2011,To: 12 Jan 2011,Bhutan,FY 2011,100,Hindu,62,418
+From: 12 Jan 2011,To: 12 Jan 2011,Bhutan,FY 2011,100,Kirat,20,418
+From: 12 Jan 2011,To: 12 Jan 2011,Burma,FY 2011,118,Baptist,4,418
+From: 12 Jan 2011,To: 12 Jan 2011,Burma,FY 2011,118,Buddhist,30,418
+From: 12 Jan 2011,To: 12 Jan 2011,Burma,FY 2011,118,Catholic,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Burma,FY 2011,118,Christian,72,418
+From: 12 Jan 2011,To: 12 Jan 2011,Burma,FY 2011,118,Methodist,6,418
+From: 12 Jan 2011,To: 12 Jan 2011,Burma,FY 2011,118,Moslem,4,418
+From: 12 Jan 2011,To: 12 Jan 2011,Central African Republic,FY 2011,15,Catholic,15,418
+From: 12 Jan 2011,To: 12 Jan 2011,Congo,FY 2011,2,Christian,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Dem. Rep. Congo,FY 2011,26,Catholic,11,418
+From: 12 Jan 2011,To: 12 Jan 2011,Dem. Rep. Congo,FY 2011,26,Christian,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Dem. Rep. Congo,FY 2011,26,Methodist,3,418
+From: 12 Jan 2011,To: 12 Jan 2011,Dem. Rep. Congo,FY 2011,26,Pentecostalist,5,418
+From: 12 Jan 2011,To: 12 Jan 2011,Dem. Rep. Congo,FY 2011,26,Protestant,6,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iran,FY 2011,71,Bahai,12,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iran,FY 2011,71,Christian,39,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iran,FY 2011,71,Jewish,3,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iran,FY 2011,71,Moslem Suni,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iran,FY 2011,71,Sabeans-Mandean,7,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iran,FY 2011,71,Zoroastrian,9,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iraq,FY 2011,64,Catholic,7,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iraq,FY 2011,64,Christian,22,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iraq,FY 2011,64,Moslem Shiite,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iraq,FY 2011,64,Moslem Suni,30,418
+From: 12 Jan 2011,To: 12 Jan 2011,Iraq,FY 2011,64,Sabeans-Mandean,4,418
+From: 12 Jan 2011,To: 12 Jan 2011,Ukraine,FY 2011,19,Baptist,5,418
+From: 12 Jan 2011,To: 12 Jan 2011,Ukraine,FY 2011,19,Jewish,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Ukraine,FY 2011,19,Pentecostalist,12,418
+From: 12 Jan 2011,To: 12 Jan 2011,Zimbabwe,FY 2011,2,Christian,2,418
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jan 2011,To: 12 Jan 2011,Bahai,FY 2011,12,Iran,12,418
+From: 12 Jan 2011,To: 12 Jan 2011,Baptist,FY 2011,9,Burma,4,418
+From: 12 Jan 2011,To: 12 Jan 2011,Baptist,FY 2011,9,Ukraine,5,418
+From: 12 Jan 2011,To: 12 Jan 2011,Buddhist,FY 2011,38,Bhutan,8,418
+From: 12 Jan 2011,To: 12 Jan 2011,Buddhist,FY 2011,38,Burma,30,418
+From: 12 Jan 2011,To: 12 Jan 2011,Catholic,FY 2011,35,Burma,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Catholic,FY 2011,35,Central African Republic,15,418
+From: 12 Jan 2011,To: 12 Jan 2011,Catholic,FY 2011,35,Dem. Rep. Congo,11,418
+From: 12 Jan 2011,To: 12 Jan 2011,Catholic,FY 2011,35,Iraq,7,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Bhutan,10,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Burma,72,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Congo,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Dem. Rep. Congo,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Iran,39,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Iraq,22,418
+From: 12 Jan 2011,To: 12 Jan 2011,Christian,FY 2011,148,Zimbabwe,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Hindu,FY 2011,62,Bhutan,62,418
+From: 12 Jan 2011,To: 12 Jan 2011,Jewish,FY 2011,5,Iran,3,418
+From: 12 Jan 2011,To: 12 Jan 2011,Jewish,FY 2011,5,Ukraine,2,418
+From: 12 Jan 2011,To: 12 Jan 2011,Kirat,FY 2011,20,Bhutan,20,418
+From: 12 Jan 2011,To: 12 Jan 2011,Methodist,FY 2011,9,Burma,6,418
+From: 12 Jan 2011,To: 12 Jan 2011,Methodist,FY 2011,9,Dem. Rep. Congo,3,418
+From: 12 Jan 2011,To: 12 Jan 2011,Moslem,FY 2011,4,Burma,4,418
+From: 12 Jan 2011,To: 12 Jan 2011,Moslem Shiite,FY 2011,1,Iraq,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Moslem Suni,FY 2011,31,Iran,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Moslem Suni,FY 2011,31,Iraq,30,418
+From: 12 Jan 2011,To: 12 Jan 2011,Pentecostalist,FY 2011,17,Dem. Rep. Congo,5,418
+From: 12 Jan 2011,To: 12 Jan 2011,Pentecostalist,FY 2011,17,Ukraine,12,418
+From: 12 Jan 2011,To: 12 Jan 2011,Protestant,FY 2011,7,Angola,1,418
+From: 12 Jan 2011,To: 12 Jan 2011,Protestant,FY 2011,7,Dem. Rep. Congo,6,418
+From: 12 Jan 2011,To: 12 Jan 2011,Sabeans-Mandean,FY 2011,11,Iran,7,418
+From: 12 Jan 2011,To: 12 Jan 2011,Sabeans-Mandean,FY 2011,11,Iraq,4,418
+From: 12 Jan 2011,To: 12 Jan 2011,Zoroastrian,FY 2011,9,Iran,9,418
+

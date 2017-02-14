@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Mar 2016,To: 22 Mar 2016,Belarus,FY 2016,4,Baptist,4,365
+From: 22 Mar 2016,To: 22 Mar 2016,Burma,FY 2016,70,Buddhist,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Burma,FY 2016,70,Christian,59,365
+From: 22 Mar 2016,To: 22 Mar 2016,Burma,FY 2016,70,Methodist,3,365
+From: 22 Mar 2016,To: 22 Mar 2016,Burma,FY 2016,70,Moslem,7,365
+From: 22 Mar 2016,To: 22 Mar 2016,Burundi,FY 2016,1,Pentecostalist,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Dem. Rep. Congo,FY 2016,84,Baptist,5,365
+From: 22 Mar 2016,To: 22 Mar 2016,Dem. Rep. Congo,FY 2016,84,Catholic,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Dem. Rep. Congo,FY 2016,84,Christian,14,365
+From: 22 Mar 2016,To: 22 Mar 2016,Dem. Rep. Congo,FY 2016,84,Methodist,18,365
+From: 22 Mar 2016,To: 22 Mar 2016,Dem. Rep. Congo,FY 2016,84,Pentecostalist,19,365
+From: 22 Mar 2016,To: 22 Mar 2016,Dem. Rep. Congo,FY 2016,84,Seventh Day Adventist,26,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iran,FY 2016,14,Bahai,3,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iran,FY 2016,14,Christian,9,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iran,FY 2016,14,Protestant,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iraq,FY 2016,35,Moslem,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iraq,FY 2016,35,Moslem Shiite,23,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iraq,FY 2016,35,Moslem Suni,8,365
+From: 22 Mar 2016,To: 22 Mar 2016,Iraq,FY 2016,35,Sabeans-Mandean,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Jordan,FY 2016,1,Moslem,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Russia,FY 2016,8,Baptist,4,365
+From: 22 Mar 2016,To: 22 Mar 2016,Russia,FY 2016,8,Jehovah Witness,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Russia,FY 2016,8,Pentecostalist,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Somalia,FY 2016,87,Moslem,87,365
+From: 22 Mar 2016,To: 22 Mar 2016,Syria,FY 2016,17,Moslem Suni,17,365
+From: 22 Mar 2016,To: 22 Mar 2016,Ukraine,FY 2016,44,Baptist,31,365
+From: 22 Mar 2016,To: 22 Mar 2016,Ukraine,FY 2016,44,Evangelical Christian,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Ukraine,FY 2016,44,No Religion,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Ukraine,FY 2016,44,Pentecostalist,8,365
+From: 22 Mar 2016,To: 22 Mar 2016,Ukraine,FY 2016,44,Seventh Day Adventist,3,365
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Mar 2016,To: 22 Mar 2016,Bahai,FY 2016,3,Iran,3,365
+From: 22 Mar 2016,To: 22 Mar 2016,Baptist,FY 2016,44,Belarus,4,365
+From: 22 Mar 2016,To: 22 Mar 2016,Baptist,FY 2016,44,Dem. Rep. Congo,5,365
+From: 22 Mar 2016,To: 22 Mar 2016,Baptist,FY 2016,44,Russia,4,365
+From: 22 Mar 2016,To: 22 Mar 2016,Baptist,FY 2016,44,Ukraine,31,365
+From: 22 Mar 2016,To: 22 Mar 2016,Buddhist,FY 2016,1,Burma,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Catholic,FY 2016,2,Dem. Rep. Congo,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Christian,FY 2016,82,Burma,59,365
+From: 22 Mar 2016,To: 22 Mar 2016,Christian,FY 2016,82,Dem. Rep. Congo,14,365
+From: 22 Mar 2016,To: 22 Mar 2016,Christian,FY 2016,82,Iran,9,365
+From: 22 Mar 2016,To: 22 Mar 2016,Evangelical Christian,FY 2016,1,Ukraine,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Jehovah Witness,FY 2016,2,Russia,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Methodist,FY 2016,21,Burma,3,365
+From: 22 Mar 2016,To: 22 Mar 2016,Methodist,FY 2016,21,Dem. Rep. Congo,18,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem,FY 2016,97,Burma,7,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem,FY 2016,97,Iraq,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem,FY 2016,97,Jordan,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem,FY 2016,97,Somalia,87,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem Shiite,FY 2016,23,Iraq,23,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem Suni,FY 2016,25,Iraq,8,365
+From: 22 Mar 2016,To: 22 Mar 2016,Moslem Suni,FY 2016,25,Syria,17,365
+From: 22 Mar 2016,To: 22 Mar 2016,No Religion,FY 2016,1,Ukraine,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Pentecostalist,FY 2016,30,Burundi,1,365
+From: 22 Mar 2016,To: 22 Mar 2016,Pentecostalist,FY 2016,30,Dem. Rep. Congo,19,365
+From: 22 Mar 2016,To: 22 Mar 2016,Pentecostalist,FY 2016,30,Russia,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Pentecostalist,FY 2016,30,Ukraine,8,365
+From: 22 Mar 2016,To: 22 Mar 2016,Protestant,FY 2016,2,Iran,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Sabeans-Mandean,FY 2016,2,Iraq,2,365
+From: 22 Mar 2016,To: 22 Mar 2016,Seventh Day Adventist,FY 2016,29,Dem. Rep. Congo,26,365
+From: 22 Mar 2016,To: 22 Mar 2016,Seventh Day Adventist,FY 2016,29,Ukraine,3,365
+

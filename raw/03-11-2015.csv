@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Mar 2015,To: 11 Mar 2015,Bhutan,FY 2015,32,Buddhist,7,206
+From: 11 Mar 2015,To: 11 Mar 2015,Bhutan,FY 2015,32,Christian,2,206
+From: 11 Mar 2015,To: 11 Mar 2015,Bhutan,FY 2015,32,Hindu,23,206
+From: 11 Mar 2015,To: 11 Mar 2015,Burma,FY 2015,98,Animist,9,206
+From: 11 Mar 2015,To: 11 Mar 2015,Burma,FY 2015,98,Buddhist,16,206
+From: 11 Mar 2015,To: 11 Mar 2015,Burma,FY 2015,98,Catholic,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Burma,FY 2015,98,Christian,54,206
+From: 11 Mar 2015,To: 11 Mar 2015,Burma,FY 2015,98,Moslem,18,206
+From: 11 Mar 2015,To: 11 Mar 2015,China,FY 2015,1,Unknown,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Egypt,FY 2015,2,Moslem,2,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iran,FY 2015,2,Christian,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iran,FY 2015,2,Zoroastrian,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Catholic,3,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Christian,10,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Moslem,3,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Moslem Shiite,6,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Moslem Suni,13,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Orthodox,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Iraq,FY 2015,46,Yazidi,10,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moldova,FY 2015,18,Baptist,7,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moldova,FY 2015,18,Pentecostalist,6,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moldova,FY 2015,18,Seventh Day Adventist,5,206
+From: 11 Mar 2015,To: 11 Mar 2015,Somalia,FY 2015,2,Moslem,2,206
+From: 11 Mar 2015,To: 11 Mar 2015,Sudan,FY 2015,5,Moslem,5,206
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Mar 2015,To: 11 Mar 2015,Animist,FY 2015,9,Burma,9,206
+From: 11 Mar 2015,To: 11 Mar 2015,Baptist,FY 2015,7,Moldova,7,206
+From: 11 Mar 2015,To: 11 Mar 2015,Buddhist,FY 2015,23,Bhutan,7,206
+From: 11 Mar 2015,To: 11 Mar 2015,Buddhist,FY 2015,23,Burma,16,206
+From: 11 Mar 2015,To: 11 Mar 2015,Catholic,FY 2015,4,Burma,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Catholic,FY 2015,4,Iraq,3,206
+From: 11 Mar 2015,To: 11 Mar 2015,Christian,FY 2015,67,Bhutan,2,206
+From: 11 Mar 2015,To: 11 Mar 2015,Christian,FY 2015,67,Burma,54,206
+From: 11 Mar 2015,To: 11 Mar 2015,Christian,FY 2015,67,Iran,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Christian,FY 2015,67,Iraq,10,206
+From: 11 Mar 2015,To: 11 Mar 2015,Hindu,FY 2015,23,Bhutan,23,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem,FY 2015,30,Burma,18,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem,FY 2015,30,Egypt,2,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem,FY 2015,30,Iraq,3,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem,FY 2015,30,Somalia,2,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem,FY 2015,30,Sudan,5,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem Shiite,FY 2015,6,Iraq,6,206
+From: 11 Mar 2015,To: 11 Mar 2015,Moslem Suni,FY 2015,13,Iraq,13,206
+From: 11 Mar 2015,To: 11 Mar 2015,Orthodox,FY 2015,1,Iraq,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Pentecostalist,FY 2015,6,Moldova,6,206
+From: 11 Mar 2015,To: 11 Mar 2015,Seventh Day Adventist,FY 2015,5,Moldova,5,206
+From: 11 Mar 2015,To: 11 Mar 2015,Unknown,FY 2015,1,China,1,206
+From: 11 Mar 2015,To: 11 Mar 2015,Yazidi,FY 2015,10,Iraq,10,206
+From: 11 Mar 2015,To: 11 Mar 2015,Zoroastrian,FY 2015,1,Iran,1,206
+

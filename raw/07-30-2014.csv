@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jul 2014,To: 30 Jul 2014,Afghanistan,FY 2014,16,Atheist,6,233
+From: 30 Jul 2014,To: 30 Jul 2014,Afghanistan,FY 2014,16,Moslem Shiite,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Afghanistan,FY 2014,16,Moslem Suni,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Afghanistan,FY 2014,16,Protestant,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Burma,FY 2014,32,Baptist,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Burma,FY 2014,32,Buddhist,9,233
+From: 30 Jul 2014,To: 30 Jul 2014,Burma,FY 2014,32,Christian,21,233
+From: 30 Jul 2014,To: 30 Jul 2014,China,FY 2014,1,Other Religion,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Colombia,FY 2014,10,Catholic,3,233
+From: 30 Jul 2014,To: 30 Jul 2014,Colombia,FY 2014,10,Christian,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Colombia,FY 2014,10,Other Religion,5,233
+From: 30 Jul 2014,To: 30 Jul 2014,Dem. Rep. Congo,FY 2014,20,Catholic,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Dem. Rep. Congo,FY 2014,20,Christian,5,233
+From: 30 Jul 2014,To: 30 Jul 2014,Dem. Rep. Congo,FY 2014,20,Pentecostalist,3,233
+From: 30 Jul 2014,To: 30 Jul 2014,Dem. Rep. Congo,FY 2014,20,Protestant,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Dem. Rep. Congo,FY 2014,20,Seventh Day Adventist,9,233
+From: 30 Jul 2014,To: 30 Jul 2014,Eritrea,FY 2014,7,Moslem,3,233
+From: 30 Jul 2014,To: 30 Jul 2014,Eritrea,FY 2014,7,Orthodox,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Ethiopia,FY 2014,6,Moslem,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Ethiopia,FY 2014,6,Orthodox,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Ethiopia,FY 2014,6,Pentecostalist,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Iran,FY 2014,14,Bahai,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Iran,FY 2014,14,Moslem Shiite,5,233
+From: 30 Jul 2014,To: 30 Jul 2014,Iran,FY 2014,14,No Religion,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Iran,FY 2014,14,Protestant,7,233
+From: 30 Jul 2014,To: 30 Jul 2014,Iraq,FY 2014,15,Moslem Shiite,6,233
+From: 30 Jul 2014,To: 30 Jul 2014,Iraq,FY 2014,15,Moslem Suni,9,233
+From: 30 Jul 2014,To: 30 Jul 2014,Somalia,FY 2014,106,Moslem,80,233
+From: 30 Jul 2014,To: 30 Jul 2014,Somalia,FY 2014,106,Moslem Suni,26,233
+From: 30 Jul 2014,To: 30 Jul 2014,Sudan,FY 2014,5,Moslem,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Sudan,FY 2014,5,Moslem Suni,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Uzbekistan,FY 2014,1,Moslem Suni,1,233
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jul 2014,To: 30 Jul 2014,Atheist,FY 2014,6,Afghanistan,6,233
+From: 30 Jul 2014,To: 30 Jul 2014,Bahai,FY 2014,1,Iran,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Baptist,FY 2014,2,Burma,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Buddhist,FY 2014,9,Burma,9,233
+From: 30 Jul 2014,To: 30 Jul 2014,Catholic,FY 2014,4,Colombia,3,233
+From: 30 Jul 2014,To: 30 Jul 2014,Catholic,FY 2014,4,Dem. Rep. Congo,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Christian,FY 2014,28,Burma,21,233
+From: 30 Jul 2014,To: 30 Jul 2014,Christian,FY 2014,28,Colombia,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Christian,FY 2014,28,Dem. Rep. Congo,5,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem,FY 2014,85,Eritrea,3,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem,FY 2014,85,Ethiopia,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem,FY 2014,85,Somalia,80,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem,FY 2014,85,Sudan,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Shiite,FY 2014,13,Afghanistan,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Shiite,FY 2014,13,Iran,5,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Shiite,FY 2014,13,Iraq,6,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Suni,FY 2014,44,Afghanistan,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Suni,FY 2014,44,Iraq,9,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Suni,FY 2014,44,Somalia,26,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Suni,FY 2014,44,Sudan,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Moslem Suni,FY 2014,44,Uzbekistan,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,No Religion,FY 2014,1,Iran,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Orthodox,FY 2014,8,Eritrea,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Orthodox,FY 2014,8,Ethiopia,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Other Religion,FY 2014,6,China,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Other Religion,FY 2014,6,Colombia,5,233
+From: 30 Jul 2014,To: 30 Jul 2014,Pentecostalist,FY 2014,4,Dem. Rep. Congo,3,233
+From: 30 Jul 2014,To: 30 Jul 2014,Pentecostalist,FY 2014,4,Ethiopia,1,233
+From: 30 Jul 2014,To: 30 Jul 2014,Protestant,FY 2014,13,Afghanistan,4,233
+From: 30 Jul 2014,To: 30 Jul 2014,Protestant,FY 2014,13,Dem. Rep. Congo,2,233
+From: 30 Jul 2014,To: 30 Jul 2014,Protestant,FY 2014,13,Iran,7,233
+From: 30 Jul 2014,To: 30 Jul 2014,Seventh Day Adventist,FY 2014,9,Dem. Rep. Congo,9,233
+

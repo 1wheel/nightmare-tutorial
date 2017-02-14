@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jun 2014,To: 30 Jun 2014,Burma,FY 2014,10,Baptist,1,229
+From: 30 Jun 2014,To: 30 Jun 2014,Burma,FY 2014,10,Christian,5,229
+From: 30 Jun 2014,To: 30 Jun 2014,Burma,FY 2014,10,Moslem,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Eritrea,FY 2014,5,Christian,5,229
+From: 30 Jun 2014,To: 30 Jun 2014,Ethiopia,FY 2014,9,Christian,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Ethiopia,FY 2014,9,Moslem,1,229
+From: 30 Jun 2014,To: 30 Jun 2014,Ethiopia,FY 2014,9,Orthodox,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iran,FY 2014,7,Bahai,3,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iran,FY 2014,7,Moslem Shiite,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iraq,FY 2014,140,Catholic,20,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iraq,FY 2014,140,Christian,25,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iraq,FY 2014,140,Moslem Shiite,37,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iraq,FY 2014,140,Moslem Suni,57,229
+From: 30 Jun 2014,To: 30 Jun 2014,Iraq,FY 2014,140,Orthodox,1,229
+From: 30 Jun 2014,To: 30 Jun 2014,Somalia,FY 2014,44,Moslem,44,229
+From: 30 Jun 2014,To: 30 Jun 2014,Sudan,FY 2014,9,Moslem,9,229
+From: 30 Jun 2014,To: 30 Jun 2014,Ukraine,FY 2014,5,Pentecostalist,5,229
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jun 2014,To: 30 Jun 2014,Bahai,FY 2014,3,Iran,3,229
+From: 30 Jun 2014,To: 30 Jun 2014,Baptist,FY 2014,1,Burma,1,229
+From: 30 Jun 2014,To: 30 Jun 2014,Catholic,FY 2014,20,Iraq,20,229
+From: 30 Jun 2014,To: 30 Jun 2014,Christian,FY 2014,39,Burma,5,229
+From: 30 Jun 2014,To: 30 Jun 2014,Christian,FY 2014,39,Eritrea,5,229
+From: 30 Jun 2014,To: 30 Jun 2014,Christian,FY 2014,39,Ethiopia,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Christian,FY 2014,39,Iraq,25,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem,FY 2014,58,Burma,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem,FY 2014,58,Ethiopia,1,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem,FY 2014,58,Somalia,44,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem,FY 2014,58,Sudan,9,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem Shiite,FY 2014,41,Iran,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem Shiite,FY 2014,41,Iraq,37,229
+From: 30 Jun 2014,To: 30 Jun 2014,Moslem Suni,FY 2014,57,Iraq,57,229
+From: 30 Jun 2014,To: 30 Jun 2014,Orthodox,FY 2014,5,Ethiopia,4,229
+From: 30 Jun 2014,To: 30 Jun 2014,Orthodox,FY 2014,5,Iraq,1,229
+From: 30 Jun 2014,To: 30 Jun 2014,Pentecostalist,FY 2014,5,Ukraine,5,229
+

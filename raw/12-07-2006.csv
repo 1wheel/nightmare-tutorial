@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Dec 2006,To: 07 Dec 2006,Azerbaijan,FY 2007,12,Christian,4,269
+From: 07 Dec 2006,To: 07 Dec 2006,Azerbaijan,FY 2007,12,Jewish,5,269
+From: 07 Dec 2006,To: 07 Dec 2006,Azerbaijan,FY 2007,12,Orthodox,3,269
+From: 07 Dec 2006,To: 07 Dec 2006,Belarus,FY 2007,5,Baptist,3,269
+From: 07 Dec 2006,To: 07 Dec 2006,Belarus,FY 2007,5,No Religion,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Burma,FY 2007,57,Christian,57,269
+From: 07 Dec 2006,To: 07 Dec 2006,Dem. Rep. Congo,FY 2007,32,Catholic,6,269
+From: 07 Dec 2006,To: 07 Dec 2006,Dem. Rep. Congo,FY 2007,32,Christian,16,269
+From: 07 Dec 2006,To: 07 Dec 2006,Dem. Rep. Congo,FY 2007,32,Jehovah Witness,7,269
+From: 07 Dec 2006,To: 07 Dec 2006,Dem. Rep. Congo,FY 2007,32,Protestant,3,269
+From: 07 Dec 2006,To: 07 Dec 2006,Eritrea,FY 2007,9,Christian,4,269
+From: 07 Dec 2006,To: 07 Dec 2006,Eritrea,FY 2007,9,Moslem,5,269
+From: 07 Dec 2006,To: 07 Dec 2006,Ethiopia,FY 2007,9,Moslem,9,269
+From: 07 Dec 2006,To: 07 Dec 2006,Iran,FY 2007,37,Bahai,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Iran,FY 2007,37,Christian,31,269
+From: 07 Dec 2006,To: 07 Dec 2006,Iran,FY 2007,37,Jewish,4,269
+From: 07 Dec 2006,To: 07 Dec 2006,Iraq,FY 2007,1,Moslem Shiite,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Laos,FY 2007,1,Christian,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Russia,FY 2007,16,Baptist,12,269
+From: 07 Dec 2006,To: 07 Dec 2006,Russia,FY 2007,16,Jewish,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Russia,FY 2007,16,No Religion,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Russia,FY 2007,16,Pentecostalist,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Rwanda,FY 2007,1,Methodist,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Somalia,FY 2007,83,Moslem,83,269
+From: 07 Dec 2006,To: 07 Dec 2006,Sudan,FY 2007,2,Christian,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Uzbekistan,FY 2007,1,Moslem,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Vietnam,FY 2007,3,Buddhist,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Vietnam,FY 2007,3,Catholic,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Vietnam,FY 2007,3,Christian,1,269
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Dec 2006,To: 07 Dec 2006,Bahai,FY 2007,2,Iran,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Baptist,FY 2007,15,Belarus,3,269
+From: 07 Dec 2006,To: 07 Dec 2006,Baptist,FY 2007,15,Russia,12,269
+From: 07 Dec 2006,To: 07 Dec 2006,Buddhist,FY 2007,1,Vietnam,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Catholic,FY 2007,7,Dem. Rep. Congo,6,269
+From: 07 Dec 2006,To: 07 Dec 2006,Catholic,FY 2007,7,Vietnam,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Azerbaijan,4,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Burma,57,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Dem. Rep. Congo,16,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Eritrea,4,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Iran,31,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Laos,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Sudan,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Christian,FY 2007,116,Vietnam,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Jehovah Witness,FY 2007,7,Dem. Rep. Congo,7,269
+From: 07 Dec 2006,To: 07 Dec 2006,Jewish,FY 2007,11,Azerbaijan,5,269
+From: 07 Dec 2006,To: 07 Dec 2006,Jewish,FY 2007,11,Iran,4,269
+From: 07 Dec 2006,To: 07 Dec 2006,Jewish,FY 2007,11,Russia,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,Methodist,FY 2007,1,Rwanda,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Moslem,FY 2007,98,Eritrea,5,269
+From: 07 Dec 2006,To: 07 Dec 2006,Moslem,FY 2007,98,Ethiopia,9,269
+From: 07 Dec 2006,To: 07 Dec 2006,Moslem,FY 2007,98,Somalia,83,269
+From: 07 Dec 2006,To: 07 Dec 2006,Moslem,FY 2007,98,Uzbekistan,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Moslem Shiite,FY 2007,1,Iraq,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,No Religion,FY 2007,3,Belarus,2,269
+From: 07 Dec 2006,To: 07 Dec 2006,No Religion,FY 2007,3,Russia,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Orthodox,FY 2007,3,Azerbaijan,3,269
+From: 07 Dec 2006,To: 07 Dec 2006,Pentecostalist,FY 2007,1,Russia,1,269
+From: 07 Dec 2006,To: 07 Dec 2006,Protestant,FY 2007,3,Dem. Rep. Congo,3,269
+

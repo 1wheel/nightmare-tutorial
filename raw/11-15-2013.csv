@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Nov 2013,To: 15 Nov 2013,Burma,FY 2014,1,Buddhist,1,17
+From: 15 Nov 2013,To: 15 Nov 2013,Eritrea,FY 2014,1,Christian,1,17
+From: 15 Nov 2013,To: 15 Nov 2013,Ethiopia,FY 2014,4,Moslem,4,17
+From: 15 Nov 2013,To: 15 Nov 2013,Somalia,FY 2014,1,Moslem,1,17
+From: 15 Nov 2013,To: 15 Nov 2013,Sudan,FY 2014,10,Moslem,10,17
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Nov 2013,To: 15 Nov 2013,Buddhist,FY 2014,1,Burma,1,17
+From: 15 Nov 2013,To: 15 Nov 2013,Christian,FY 2014,1,Eritrea,1,17
+From: 15 Nov 2013,To: 15 Nov 2013,Moslem,FY 2014,15,Ethiopia,4,17
+From: 15 Nov 2013,To: 15 Nov 2013,Moslem,FY 2014,15,Somalia,1,17
+From: 15 Nov 2013,To: 15 Nov 2013,Moslem,FY 2014,15,Sudan,10,17
+

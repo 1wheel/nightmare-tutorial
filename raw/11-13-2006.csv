@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Nov 2006,To: 13 Nov 2006,Ethiopia,FY 2007,1,Moslem,1,192
+From: 13 Nov 2006,To: 13 Nov 2006,Iran,FY 2007,70,Bahai,31,192
+From: 13 Nov 2006,To: 13 Nov 2006,Iran,FY 2007,70,Christian,28,192
+From: 13 Nov 2006,To: 13 Nov 2006,Iran,FY 2007,70,Sabeans-Mandean,11,192
+From: 13 Nov 2006,To: 13 Nov 2006,Liberia,FY 2007,14,Christian,13,192
+From: 13 Nov 2006,To: 13 Nov 2006,Liberia,FY 2007,14,Moslem,1,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moldova,FY 2007,23,Baptist,2,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moldova,FY 2007,23,Jewish,1,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moldova,FY 2007,23,Pentecostalist,16,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moldova,FY 2007,23,Seventh Day Adventist,4,192
+From: 13 Nov 2006,To: 13 Nov 2006,Somalia,FY 2007,80,Moslem,80,192
+From: 13 Nov 2006,To: 13 Nov 2006,Ukraine,FY 2007,4,Baptist,4,192
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Nov 2006,To: 13 Nov 2006,Bahai,FY 2007,31,Iran,31,192
+From: 13 Nov 2006,To: 13 Nov 2006,Baptist,FY 2007,6,Moldova,2,192
+From: 13 Nov 2006,To: 13 Nov 2006,Baptist,FY 2007,6,Ukraine,4,192
+From: 13 Nov 2006,To: 13 Nov 2006,Christian,FY 2007,41,Iran,28,192
+From: 13 Nov 2006,To: 13 Nov 2006,Christian,FY 2007,41,Liberia,13,192
+From: 13 Nov 2006,To: 13 Nov 2006,Jewish,FY 2007,1,Moldova,1,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moslem,FY 2007,82,Ethiopia,1,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moslem,FY 2007,82,Liberia,1,192
+From: 13 Nov 2006,To: 13 Nov 2006,Moslem,FY 2007,82,Somalia,80,192
+From: 13 Nov 2006,To: 13 Nov 2006,Pentecostalist,FY 2007,16,Moldova,16,192
+From: 13 Nov 2006,To: 13 Nov 2006,Sabeans-Mandean,FY 2007,11,Iran,11,192
+From: 13 Nov 2006,To: 13 Nov 2006,Seventh Day Adventist,FY 2007,4,Moldova,4,192
+

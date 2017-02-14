@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 May 2012,To: 03 May 2012,Bhutan,FY 2012,101,Buddhist,37,207
+From: 03 May 2012,To: 03 May 2012,Bhutan,FY 2012,101,Christian,4,207
+From: 03 May 2012,To: 03 May 2012,Bhutan,FY 2012,101,Hindu,47,207
+From: 03 May 2012,To: 03 May 2012,Bhutan,FY 2012,101,Kirat,13,207
+From: 03 May 2012,To: 03 May 2012,Burma,FY 2012,9,Christian,9,207
+From: 03 May 2012,To: 03 May 2012,Burundi,FY 2012,14,Pentecostalist,14,207
+From: 03 May 2012,To: 03 May 2012,Cuba,FY 2012,1,No Religion,1,207
+From: 03 May 2012,To: 03 May 2012,Dem. Rep. Congo,FY 2012,25,Catholic,3,207
+From: 03 May 2012,To: 03 May 2012,Dem. Rep. Congo,FY 2012,25,Christian,12,207
+From: 03 May 2012,To: 03 May 2012,Dem. Rep. Congo,FY 2012,25,Methodist,3,207
+From: 03 May 2012,To: 03 May 2012,Dem. Rep. Congo,FY 2012,25,Moslem,4,207
+From: 03 May 2012,To: 03 May 2012,Dem. Rep. Congo,FY 2012,25,Pentecostalist,1,207
+From: 03 May 2012,To: 03 May 2012,Dem. Rep. Congo,FY 2012,25,Protestant,2,207
+From: 03 May 2012,To: 03 May 2012,Ethiopia,FY 2012,1,Orthodox,1,207
+From: 03 May 2012,To: 03 May 2012,Iraq,FY 2012,47,Christian,4,207
+From: 03 May 2012,To: 03 May 2012,Iraq,FY 2012,47,Moslem,4,207
+From: 03 May 2012,To: 03 May 2012,Iraq,FY 2012,47,Moslem Shiite,16,207
+From: 03 May 2012,To: 03 May 2012,Iraq,FY 2012,47,Moslem Suni,23,207
+From: 03 May 2012,To: 03 May 2012,Somalia,FY 2012,9,Moslem,6,207
+From: 03 May 2012,To: 03 May 2012,Somalia,FY 2012,9,Moslem Suni,3,207
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 May 2012,To: 03 May 2012,Buddhist,FY 2012,37,Bhutan,37,207
+From: 03 May 2012,To: 03 May 2012,Catholic,FY 2012,3,Dem. Rep. Congo,3,207
+From: 03 May 2012,To: 03 May 2012,Christian,FY 2012,29,Bhutan,4,207
+From: 03 May 2012,To: 03 May 2012,Christian,FY 2012,29,Burma,9,207
+From: 03 May 2012,To: 03 May 2012,Christian,FY 2012,29,Dem. Rep. Congo,12,207
+From: 03 May 2012,To: 03 May 2012,Christian,FY 2012,29,Iraq,4,207
+From: 03 May 2012,To: 03 May 2012,Hindu,FY 2012,47,Bhutan,47,207
+From: 03 May 2012,To: 03 May 2012,Kirat,FY 2012,13,Bhutan,13,207
+From: 03 May 2012,To: 03 May 2012,Methodist,FY 2012,3,Dem. Rep. Congo,3,207
+From: 03 May 2012,To: 03 May 2012,Moslem,FY 2012,14,Dem. Rep. Congo,4,207
+From: 03 May 2012,To: 03 May 2012,Moslem,FY 2012,14,Iraq,4,207
+From: 03 May 2012,To: 03 May 2012,Moslem,FY 2012,14,Somalia,6,207
+From: 03 May 2012,To: 03 May 2012,Moslem Shiite,FY 2012,16,Iraq,16,207
+From: 03 May 2012,To: 03 May 2012,Moslem Suni,FY 2012,26,Iraq,23,207
+From: 03 May 2012,To: 03 May 2012,Moslem Suni,FY 2012,26,Somalia,3,207
+From: 03 May 2012,To: 03 May 2012,No Religion,FY 2012,1,Cuba,1,207
+From: 03 May 2012,To: 03 May 2012,Orthodox,FY 2012,1,Ethiopia,1,207
+From: 03 May 2012,To: 03 May 2012,Pentecostalist,FY 2012,15,Burundi,14,207
+From: 03 May 2012,To: 03 May 2012,Pentecostalist,FY 2012,15,Dem. Rep. Congo,1,207
+From: 03 May 2012,To: 03 May 2012,Protestant,FY 2012,2,Dem. Rep. Congo,2,207
+

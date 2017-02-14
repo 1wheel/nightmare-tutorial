@@ -1,0 +1,95 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Sep 2016,To: 15 Sep 2016,Afghanistan,FY 2016,118,Christian,8,785
+From: 15 Sep 2016,To: 15 Sep 2016,Afghanistan,FY 2016,118,Moslem Shiite,38,785
+From: 15 Sep 2016,To: 15 Sep 2016,Afghanistan,FY 2016,118,Moslem Suni,72,785
+From: 15 Sep 2016,To: 15 Sep 2016,Azerbaijan,FY 2016,6,Moslem,6,785
+From: 15 Sep 2016,To: 15 Sep 2016,Bhutan,FY 2016,23,Buddhist,5,785
+From: 15 Sep 2016,To: 15 Sep 2016,Bhutan,FY 2016,23,Christian,10,785
+From: 15 Sep 2016,To: 15 Sep 2016,Bhutan,FY 2016,23,Hindu,8,785
+From: 15 Sep 2016,To: 15 Sep 2016,Burma,FY 2016,102,Christian,41,785
+From: 15 Sep 2016,To: 15 Sep 2016,Burma,FY 2016,102,Moslem,61,785
+From: 15 Sep 2016,To: 15 Sep 2016,China,FY 2016,1,Other Religion,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Baptist,9,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Catholic,15,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Christian,114,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Jehovah Witness,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Methodist,5,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Moslem,7,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Pentecostalist,31,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Protestant,40,785
+From: 15 Sep 2016,To: 15 Sep 2016,Dem. Rep. Congo,FY 2016,242,Seventh Day Adventist,20,785
+From: 15 Sep 2016,To: 15 Sep 2016,Eritrea,FY 2016,11,Orthodox,11,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ethiopia,FY 2016,25,Moslem,12,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ethiopia,FY 2016,25,Orthodox,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ethiopia,FY 2016,25,Protestant,12,785
+From: 15 Sep 2016,To: 15 Sep 2016,Iran,FY 2016,4,Christian,4,785
+From: 15 Sep 2016,To: 15 Sep 2016,Iraq,FY 2016,46,Christian,9,785
+From: 15 Sep 2016,To: 15 Sep 2016,Iraq,FY 2016,46,Moslem Shiite,20,785
+From: 15 Sep 2016,To: 15 Sep 2016,Iraq,FY 2016,46,Moslem Suni,16,785
+From: 15 Sep 2016,To: 15 Sep 2016,Iraq,FY 2016,46,Yazidi,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moldova,FY 2016,8,Baptist,8,785
+From: 15 Sep 2016,To: 15 Sep 2016,Pakistan,FY 2016,7,Ahmadiyya,3,785
+From: 15 Sep 2016,To: 15 Sep 2016,Pakistan,FY 2016,7,Christian,3,785
+From: 15 Sep 2016,To: 15 Sep 2016,Pakistan,FY 2016,7,Moslem Shiite,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Republic of South Sudan,FY 2016,7,Christian,7,785
+From: 15 Sep 2016,To: 15 Sep 2016,Somalia,FY 2016,79,Moslem,79,785
+From: 15 Sep 2016,To: 15 Sep 2016,Sudan,FY 2016,11,Moslem,2,785
+From: 15 Sep 2016,To: 15 Sep 2016,Sudan,FY 2016,11,Moslem Suni,3,785
+From: 15 Sep 2016,To: 15 Sep 2016,Sudan,FY 2016,11,Protestant,6,785
+From: 15 Sep 2016,To: 15 Sep 2016,Syria,FY 2016,63,Christian,4,785
+From: 15 Sep 2016,To: 15 Sep 2016,Syria,FY 2016,63,Moslem Suni,59,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ukraine,FY 2016,32,Baptist,10,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ukraine,FY 2016,32,Evangelical Christian,2,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ukraine,FY 2016,32,Jewish,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ukraine,FY 2016,32,Pentecostalist,14,785
+From: 15 Sep 2016,To: 15 Sep 2016,Ukraine,FY 2016,32,Uniate,5,785
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Sep 2016,To: 15 Sep 2016,Ahmadiyya,FY 2016,3,Pakistan,3,785
+From: 15 Sep 2016,To: 15 Sep 2016,Baptist,FY 2016,27,Dem. Rep. Congo,9,785
+From: 15 Sep 2016,To: 15 Sep 2016,Baptist,FY 2016,27,Moldova,8,785
+From: 15 Sep 2016,To: 15 Sep 2016,Baptist,FY 2016,27,Ukraine,10,785
+From: 15 Sep 2016,To: 15 Sep 2016,Buddhist,FY 2016,5,Bhutan,5,785
+From: 15 Sep 2016,To: 15 Sep 2016,Catholic,FY 2016,15,Dem. Rep. Congo,15,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Afghanistan,8,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Bhutan,10,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Burma,41,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Dem. Rep. Congo,114,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Iran,4,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Iraq,9,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Pakistan,3,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Republic of South Sudan,7,785
+From: 15 Sep 2016,To: 15 Sep 2016,Christian,FY 2016,200,Syria,4,785
+From: 15 Sep 2016,To: 15 Sep 2016,Evangelical Christian,FY 2016,2,Ukraine,2,785
+From: 15 Sep 2016,To: 15 Sep 2016,Hindu,FY 2016,8,Bhutan,8,785
+From: 15 Sep 2016,To: 15 Sep 2016,Jehovah Witness,FY 2016,1,Dem. Rep. Congo,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Jewish,FY 2016,1,Ukraine,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Methodist,FY 2016,5,Dem. Rep. Congo,5,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem,FY 2016,167,Azerbaijan,6,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem,FY 2016,167,Burma,61,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem,FY 2016,167,Dem. Rep. Congo,7,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem,FY 2016,167,Ethiopia,12,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem,FY 2016,167,Somalia,79,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem,FY 2016,167,Sudan,2,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Shiite,FY 2016,59,Afghanistan,38,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Shiite,FY 2016,59,Iraq,20,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Shiite,FY 2016,59,Pakistan,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Suni,FY 2016,150,Afghanistan,72,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Suni,FY 2016,150,Iraq,16,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Suni,FY 2016,150,Sudan,3,785
+From: 15 Sep 2016,To: 15 Sep 2016,Moslem Suni,FY 2016,150,Syria,59,785
+From: 15 Sep 2016,To: 15 Sep 2016,Orthodox,FY 2016,12,Eritrea,11,785
+From: 15 Sep 2016,To: 15 Sep 2016,Orthodox,FY 2016,12,Ethiopia,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Other Religion,FY 2016,1,China,1,785
+From: 15 Sep 2016,To: 15 Sep 2016,Pentecostalist,FY 2016,45,Dem. Rep. Congo,31,785
+From: 15 Sep 2016,To: 15 Sep 2016,Pentecostalist,FY 2016,45,Ukraine,14,785
+From: 15 Sep 2016,To: 15 Sep 2016,Protestant,FY 2016,58,Dem. Rep. Congo,40,785
+From: 15 Sep 2016,To: 15 Sep 2016,Protestant,FY 2016,58,Ethiopia,12,785
+From: 15 Sep 2016,To: 15 Sep 2016,Protestant,FY 2016,58,Sudan,6,785
+From: 15 Sep 2016,To: 15 Sep 2016,Seventh Day Adventist,FY 2016,20,Dem. Rep. Congo,20,785
+From: 15 Sep 2016,To: 15 Sep 2016,Uniate,FY 2016,5,Ukraine,5,785
+From: 15 Sep 2016,To: 15 Sep 2016,Yazidi,FY 2016,1,Iraq,1,785
+

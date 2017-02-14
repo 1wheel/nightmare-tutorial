@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 May 2005,To: 02 May 2005,Belarus,FY 2005,27,Baptist,4,97
+From: 02 May 2005,To: 02 May 2005,Belarus,FY 2005,27,Evangelical Christian,1,97
+From: 02 May 2005,To: 02 May 2005,Belarus,FY 2005,27,Jewish,5,97
+From: 02 May 2005,To: 02 May 2005,Belarus,FY 2005,27,Pentecostalist,17,97
+From: 02 May 2005,To: 02 May 2005,Ethiopia,FY 2005,1,Orthodox,1,97
+From: 02 May 2005,To: 02 May 2005,Laos,FY 2005,4,Ancestral Worship,4,97
+From: 02 May 2005,To: 02 May 2005,Liberia,FY 2005,1,Christian,1,97
+From: 02 May 2005,To: 02 May 2005,Russia,FY 2005,35,Moslem,35,97
+From: 02 May 2005,To: 02 May 2005,Sierra Leone,FY 2005,2,Christian,2,97
+From: 02 May 2005,To: 02 May 2005,Somalia,FY 2005,27,Moslem,27,97
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 May 2005,To: 02 May 2005,Ancestral Worship,FY 2005,4,Laos,4,97
+From: 02 May 2005,To: 02 May 2005,Baptist,FY 2005,4,Belarus,4,97
+From: 02 May 2005,To: 02 May 2005,Christian,FY 2005,3,Liberia,1,97
+From: 02 May 2005,To: 02 May 2005,Christian,FY 2005,3,Sierra Leone,2,97
+From: 02 May 2005,To: 02 May 2005,Evangelical Christian,FY 2005,1,Belarus,1,97
+From: 02 May 2005,To: 02 May 2005,Jewish,FY 2005,5,Belarus,5,97
+From: 02 May 2005,To: 02 May 2005,Moslem,FY 2005,62,Russia,35,97
+From: 02 May 2005,To: 02 May 2005,Moslem,FY 2005,62,Somalia,27,97
+From: 02 May 2005,To: 02 May 2005,Orthodox,FY 2005,1,Ethiopia,1,97
+From: 02 May 2005,To: 02 May 2005,Pentecostalist,FY 2005,17,Belarus,17,97
+

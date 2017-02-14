@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Feb 2017,To: 14 Feb 2017,Afghanistan,FY 2017,8,Moslem Shiite,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Afghanistan,FY 2017,8,Moslem Suni,2,87
+From: 14 Feb 2017,To: 14 Feb 2017,Eritrea,FY 2017,2,Moslem,2,87
+From: 14 Feb 2017,To: 14 Feb 2017,Iraq,FY 2017,6,Christian,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Baptist,5,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Pentecostalist,4,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moldova,FY 2017,10,Seventh Day Adventist,1,87
+From: 14 Feb 2017,To: 14 Feb 2017,Syria,FY 2017,15,Moslem Suni,15,87
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Baptist,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Pentecostalist,32,87
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Seventh Day Adventist,2,87
+From: 14 Feb 2017,To: 14 Feb 2017,Ukraine,FY 2017,46,Uniate,6,87
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,11,Moldova,5,87
+From: 14 Feb 2017,To: 14 Feb 2017,Baptist,FY 2017,11,Ukraine,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Christian,FY 2017,6,Iraq,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem,FY 2017,2,Eritrea,2,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Shiite,FY 2017,6,Afghanistan,6,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,17,Afghanistan,2,87
+From: 14 Feb 2017,To: 14 Feb 2017,Moslem Suni,FY 2017,17,Syria,15,87
+From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,36,Moldova,4,87
+From: 14 Feb 2017,To: 14 Feb 2017,Pentecostalist,FY 2017,36,Ukraine,32,87
+From: 14 Feb 2017,To: 14 Feb 2017,Seventh Day Adventist,FY 2017,3,Moldova,1,87
+From: 14 Feb 2017,To: 14 Feb 2017,Seventh Day Adventist,FY 2017,3,Ukraine,2,87
+From: 14 Feb 2017,To: 14 Feb 2017,Uniate,FY 2017,6,Ukraine,6,87
+

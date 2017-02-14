@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jun 2015,To: 22 Jun 2015,Bhutan,FY 2015,3,Hindu,3,134
+From: 22 Jun 2015,To: 22 Jun 2015,Dem. Rep. Congo,FY 2015,60,Pentecostalist,20,134
+From: 22 Jun 2015,To: 22 Jun 2015,Dem. Rep. Congo,FY 2015,60,Protestant,40,134
+From: 22 Jun 2015,To: 22 Jun 2015,Eritrea,FY 2015,4,Moslem,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Eritrea,FY 2015,4,Orthodox,3,134
+From: 22 Jun 2015,To: 22 Jun 2015,Ethiopia,FY 2015,2,Protestant,2,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iran,FY 2015,4,Bahai,4,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Catholic,13,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Chaldean,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Christian,2,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Moslem,3,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Moslem Shiite,11,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Moslem Suni,16,134
+From: 22 Jun 2015,To: 22 Jun 2015,Iraq,FY 2015,47,Orthodox,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Somalia,FY 2015,1,Moslem,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Sudan,FY 2015,5,Moslem,5,134
+From: 22 Jun 2015,To: 22 Jun 2015,Syria,FY 2015,8,Moslem Suni,8,134
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jun 2015,To: 22 Jun 2015,Bahai,FY 2015,4,Iran,4,134
+From: 22 Jun 2015,To: 22 Jun 2015,Catholic,FY 2015,13,Iraq,13,134
+From: 22 Jun 2015,To: 22 Jun 2015,Chaldean,FY 2015,1,Iraq,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Christian,FY 2015,2,Iraq,2,134
+From: 22 Jun 2015,To: 22 Jun 2015,Hindu,FY 2015,3,Bhutan,3,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem,FY 2015,10,Eritrea,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem,FY 2015,10,Iraq,3,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem,FY 2015,10,Somalia,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem,FY 2015,10,Sudan,5,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem Shiite,FY 2015,11,Iraq,11,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem Suni,FY 2015,24,Iraq,16,134
+From: 22 Jun 2015,To: 22 Jun 2015,Moslem Suni,FY 2015,24,Syria,8,134
+From: 22 Jun 2015,To: 22 Jun 2015,Orthodox,FY 2015,4,Eritrea,3,134
+From: 22 Jun 2015,To: 22 Jun 2015,Orthodox,FY 2015,4,Iraq,1,134
+From: 22 Jun 2015,To: 22 Jun 2015,Pentecostalist,FY 2015,20,Dem. Rep. Congo,20,134
+From: 22 Jun 2015,To: 22 Jun 2015,Protestant,FY 2015,42,Dem. Rep. Congo,40,134
+From: 22 Jun 2015,To: 22 Jun 2015,Protestant,FY 2015,42,Ethiopia,2,134
+

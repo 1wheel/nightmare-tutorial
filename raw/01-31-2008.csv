@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jan 2008,To: 31 Jan 2008,Belarus,FY 2008,3,Jewish,3,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burma,FY 2008,146,Buddhist,28,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burma,FY 2008,146,Christian,76,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burma,FY 2008,146,Moslem,42,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burundi,FY 2008,92,Catholic,30,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burundi,FY 2008,92,Christian,6,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burundi,FY 2008,92,Methodist,21,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burundi,FY 2008,92,Other Religion,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Burundi,FY 2008,92,Pentecostalist,34,350
+From: 31 Jan 2008,To: 31 Jan 2008,Egypt,FY 2008,1,Christian,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Iran,FY 2008,53,Bahai,2,350
+From: 31 Jan 2008,To: 31 Jan 2008,Iran,FY 2008,53,Christian,40,350
+From: 31 Jan 2008,To: 31 Jan 2008,Iran,FY 2008,53,Jewish,6,350
+From: 31 Jan 2008,To: 31 Jan 2008,Iran,FY 2008,53,Moslem Shiite,2,350
+From: 31 Jan 2008,To: 31 Jan 2008,Iran,FY 2008,53,Zoroastrian,3,350
+From: 31 Jan 2008,To: 31 Jan 2008,Iraq,FY 2008,1,Orthodox,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Laos,FY 2008,7,Ancestral Worship,7,350
+From: 31 Jan 2008,To: 31 Jan 2008,Pakistan,FY 2008,2,Other Religion,2,350
+From: 31 Jan 2008,To: 31 Jan 2008,Somalia,FY 2008,26,Moslem,26,350
+From: 31 Jan 2008,To: 31 Jan 2008,Ukraine,FY 2008,19,Baptist,18,350
+From: 31 Jan 2008,To: 31 Jan 2008,Ukraine,FY 2008,19,Pentecostalist,1,350
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jan 2008,To: 31 Jan 2008,Ancestral Worship,FY 2008,7,Laos,7,350
+From: 31 Jan 2008,To: 31 Jan 2008,Bahai,FY 2008,2,Iran,2,350
+From: 31 Jan 2008,To: 31 Jan 2008,Baptist,FY 2008,18,Ukraine,18,350
+From: 31 Jan 2008,To: 31 Jan 2008,Buddhist,FY 2008,28,Burma,28,350
+From: 31 Jan 2008,To: 31 Jan 2008,Catholic,FY 2008,30,Burundi,30,350
+From: 31 Jan 2008,To: 31 Jan 2008,Christian,FY 2008,123,Burma,76,350
+From: 31 Jan 2008,To: 31 Jan 2008,Christian,FY 2008,123,Burundi,6,350
+From: 31 Jan 2008,To: 31 Jan 2008,Christian,FY 2008,123,Egypt,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Christian,FY 2008,123,Iran,40,350
+From: 31 Jan 2008,To: 31 Jan 2008,Jewish,FY 2008,9,Belarus,3,350
+From: 31 Jan 2008,To: 31 Jan 2008,Jewish,FY 2008,9,Iran,6,350
+From: 31 Jan 2008,To: 31 Jan 2008,Methodist,FY 2008,21,Burundi,21,350
+From: 31 Jan 2008,To: 31 Jan 2008,Moslem,FY 2008,68,Burma,42,350
+From: 31 Jan 2008,To: 31 Jan 2008,Moslem,FY 2008,68,Somalia,26,350
+From: 31 Jan 2008,To: 31 Jan 2008,Moslem Shiite,FY 2008,2,Iran,2,350
+From: 31 Jan 2008,To: 31 Jan 2008,Orthodox,FY 2008,1,Iraq,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Other Religion,FY 2008,3,Burundi,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Other Religion,FY 2008,3,Pakistan,2,350
+From: 31 Jan 2008,To: 31 Jan 2008,Pentecostalist,FY 2008,35,Burundi,34,350
+From: 31 Jan 2008,To: 31 Jan 2008,Pentecostalist,FY 2008,35,Ukraine,1,350
+From: 31 Jan 2008,To: 31 Jan 2008,Zoroastrian,FY 2008,3,Iran,3,350
+

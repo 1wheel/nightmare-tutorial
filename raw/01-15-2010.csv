@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,FY 2010,35,Buddhist,9,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,FY 2010,35,Hindu,25,67
+From: 15 Jan 2010,To: 15 Jan 2010,Bhutan,FY 2010,35,Kirat,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Burma,FY 2010,9,Christian,9,67
+From: 15 Jan 2010,To: 15 Jan 2010,Somalia,FY 2010,23,Moslem,23,67
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jan 2010,To: 15 Jan 2010,Buddhist,FY 2010,9,Bhutan,9,67
+From: 15 Jan 2010,To: 15 Jan 2010,Christian,FY 2010,9,Burma,9,67
+From: 15 Jan 2010,To: 15 Jan 2010,Hindu,FY 2010,25,Bhutan,25,67
+From: 15 Jan 2010,To: 15 Jan 2010,Kirat,FY 2010,1,Bhutan,1,67
+From: 15 Jan 2010,To: 15 Jan 2010,Moslem,FY 2010,23,Somalia,23,67
+

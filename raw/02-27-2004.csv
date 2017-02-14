@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Feb 2004,To: 27 Feb 2004,Cuba,FY 2004,20,Catholic,5,279
+From: 27 Feb 2004,To: 27 Feb 2004,Cuba,FY 2004,20,Christian,4,279
+From: 27 Feb 2004,To: 27 Feb 2004,Cuba,FY 2004,20,Jehovah Witness,9,279
+From: 27 Feb 2004,To: 27 Feb 2004,Cuba,FY 2004,20,No Religion,2,279
+From: 27 Feb 2004,To: 27 Feb 2004,Liberia,FY 2004,22,Baptist,9,279
+From: 27 Feb 2004,To: 27 Feb 2004,Liberia,FY 2004,22,Christian,10,279
+From: 27 Feb 2004,To: 27 Feb 2004,Liberia,FY 2004,22,Lutheran,1,279
+From: 27 Feb 2004,To: 27 Feb 2004,Liberia,FY 2004,22,Methodist,1,279
+From: 27 Feb 2004,To: 27 Feb 2004,Liberia,FY 2004,22,Protestant,1,279
+From: 27 Feb 2004,To: 27 Feb 2004,Moldova,FY 2004,35,Baptist,29,279
+From: 27 Feb 2004,To: 27 Feb 2004,Moldova,FY 2004,35,Jewish,6,279
+From: 27 Feb 2004,To: 27 Feb 2004,Somalia,FY 2004,202,Moslem,202,279
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Feb 2004,To: 27 Feb 2004,Baptist,FY 2004,38,Liberia,9,279
+From: 27 Feb 2004,To: 27 Feb 2004,Baptist,FY 2004,38,Moldova,29,279
+From: 27 Feb 2004,To: 27 Feb 2004,Catholic,FY 2004,5,Cuba,5,279
+From: 27 Feb 2004,To: 27 Feb 2004,Christian,FY 2004,14,Cuba,4,279
+From: 27 Feb 2004,To: 27 Feb 2004,Christian,FY 2004,14,Liberia,10,279
+From: 27 Feb 2004,To: 27 Feb 2004,Jehovah Witness,FY 2004,9,Cuba,9,279
+From: 27 Feb 2004,To: 27 Feb 2004,Jewish,FY 2004,6,Moldova,6,279
+From: 27 Feb 2004,To: 27 Feb 2004,Lutheran,FY 2004,1,Liberia,1,279
+From: 27 Feb 2004,To: 27 Feb 2004,Methodist,FY 2004,1,Liberia,1,279
+From: 27 Feb 2004,To: 27 Feb 2004,Moslem,FY 2004,202,Somalia,202,279
+From: 27 Feb 2004,To: 27 Feb 2004,No Religion,FY 2004,2,Cuba,2,279
+From: 27 Feb 2004,To: 27 Feb 2004,Protestant,FY 2004,1,Liberia,1,279
+

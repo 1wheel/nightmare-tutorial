@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2015,To: 02 Nov 2015,Bhutan,FY 2016,21,Christian,14,161
+From: 02 Nov 2015,To: 02 Nov 2015,Bhutan,FY 2016,21,Hindu,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Bhutan,FY 2016,21,Kirat,6,161
+From: 02 Nov 2015,To: 02 Nov 2015,Burma,FY 2016,41,Baptist,12,161
+From: 02 Nov 2015,To: 02 Nov 2015,Burma,FY 2016,41,Buddhist,10,161
+From: 02 Nov 2015,To: 02 Nov 2015,Burma,FY 2016,41,Christian,9,161
+From: 02 Nov 2015,To: 02 Nov 2015,Burma,FY 2016,41,Moslem,10,161
+From: 02 Nov 2015,To: 02 Nov 2015,Dem. Rep. Congo,FY 2016,9,Catholic,5,161
+From: 02 Nov 2015,To: 02 Nov 2015,Dem. Rep. Congo,FY 2016,9,Christian,4,161
+From: 02 Nov 2015,To: 02 Nov 2015,Ethiopia,FY 2016,6,Moslem,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Ethiopia,FY 2016,6,Orthodox,3,161
+From: 02 Nov 2015,To: 02 Nov 2015,Ethiopia,FY 2016,6,Protestant,2,161
+From: 02 Nov 2015,To: 02 Nov 2015,Iran,FY 2016,22,Bahai,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Iran,FY 2016,22,Christian,20,161
+From: 02 Nov 2015,To: 02 Nov 2015,Iran,FY 2016,22,Moslem,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Iraq,FY 2016,25,Moslem,4,161
+From: 02 Nov 2015,To: 02 Nov 2015,Iraq,FY 2016,25,Moslem Shiite,13,161
+From: 02 Nov 2015,To: 02 Nov 2015,Iraq,FY 2016,25,Moslem Suni,8,161
+From: 02 Nov 2015,To: 02 Nov 2015,Rwanda,FY 2016,7,Pentecostalist,6,161
+From: 02 Nov 2015,To: 02 Nov 2015,Rwanda,FY 2016,7,Protestant,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Somalia,FY 2016,14,Moslem,14,161
+From: 02 Nov 2015,To: 02 Nov 2015,Sudan,FY 2016,6,Moslem,6,161
+From: 02 Nov 2015,To: 02 Nov 2015,Syria,FY 2016,10,Moslem Suni,10,161
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2015,To: 02 Nov 2015,Bahai,FY 2016,1,Iran,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Baptist,FY 2016,12,Burma,12,161
+From: 02 Nov 2015,To: 02 Nov 2015,Buddhist,FY 2016,10,Burma,10,161
+From: 02 Nov 2015,To: 02 Nov 2015,Catholic,FY 2016,5,Dem. Rep. Congo,5,161
+From: 02 Nov 2015,To: 02 Nov 2015,Christian,FY 2016,47,Bhutan,14,161
+From: 02 Nov 2015,To: 02 Nov 2015,Christian,FY 2016,47,Burma,9,161
+From: 02 Nov 2015,To: 02 Nov 2015,Christian,FY 2016,47,Dem. Rep. Congo,4,161
+From: 02 Nov 2015,To: 02 Nov 2015,Christian,FY 2016,47,Iran,20,161
+From: 02 Nov 2015,To: 02 Nov 2015,Hindu,FY 2016,1,Bhutan,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Kirat,FY 2016,6,Bhutan,6,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem,FY 2016,36,Burma,10,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem,FY 2016,36,Ethiopia,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem,FY 2016,36,Iran,1,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem,FY 2016,36,Iraq,4,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem,FY 2016,36,Somalia,14,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem,FY 2016,36,Sudan,6,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem Shiite,FY 2016,13,Iraq,13,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem Suni,FY 2016,18,Iraq,8,161
+From: 02 Nov 2015,To: 02 Nov 2015,Moslem Suni,FY 2016,18,Syria,10,161
+From: 02 Nov 2015,To: 02 Nov 2015,Orthodox,FY 2016,3,Ethiopia,3,161
+From: 02 Nov 2015,To: 02 Nov 2015,Pentecostalist,FY 2016,6,Rwanda,6,161
+From: 02 Nov 2015,To: 02 Nov 2015,Protestant,FY 2016,3,Ethiopia,2,161
+From: 02 Nov 2015,To: 02 Nov 2015,Protestant,FY 2016,3,Rwanda,1,161
+

@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Mar 2003,To: 12 Mar 2003,Afghanistan,FY 2003,33,Bahai,5,208
+From: 12 Mar 2003,To: 12 Mar 2003,Afghanistan,FY 2003,33,Moslem,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Afghanistan,FY 2003,33,Moslem Shiite,7,208
+From: 12 Mar 2003,To: 12 Mar 2003,Afghanistan,FY 2003,33,Moslem Suni,20,208
+From: 12 Mar 2003,To: 12 Mar 2003,Belarus,FY 2003,31,Jewish,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Belarus,FY 2003,31,Pentecostalist,28,208
+From: 12 Mar 2003,To: 12 Mar 2003,Belarus,FY 2003,31,Unknown,2,208
+From: 12 Mar 2003,To: 12 Mar 2003,Burma,FY 2003,14,Buddhist,4,208
+From: 12 Mar 2003,To: 12 Mar 2003,Burma,FY 2003,14,Christian,10,208
+From: 12 Mar 2003,To: 12 Mar 2003,Dem. Rep. Congo,FY 2003,1,Catholic,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Ethiopia,FY 2003,10,Christian,10,208
+From: 12 Mar 2003,To: 12 Mar 2003,Iran,FY 2003,30,Bahai,4,208
+From: 12 Mar 2003,To: 12 Mar 2003,Iran,FY 2003,30,Christian,8,208
+From: 12 Mar 2003,To: 12 Mar 2003,Iran,FY 2003,30,Jewish,8,208
+From: 12 Mar 2003,To: 12 Mar 2003,Iran,FY 2003,30,Moslem,7,208
+From: 12 Mar 2003,To: 12 Mar 2003,Iran,FY 2003,30,Zoroastrian,3,208
+From: 12 Mar 2003,To: 12 Mar 2003,Somalia,FY 2003,21,Moslem,21,208
+From: 12 Mar 2003,To: 12 Mar 2003,Sudan,FY 2003,4,Christian,4,208
+From: 12 Mar 2003,To: 12 Mar 2003,Togo,FY 2003,1,Catholic,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Ukraine,FY 2003,35,Baptist,14,208
+From: 12 Mar 2003,To: 12 Mar 2003,Ukraine,FY 2003,35,Jewish,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Ukraine,FY 2003,35,Pentecostalist,20,208
+From: 12 Mar 2003,To: 12 Mar 2003,Vietnam,FY 2003,28,Unknown,28,208
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Mar 2003,To: 12 Mar 2003,Bahai,FY 2003,9,Afghanistan,5,208
+From: 12 Mar 2003,To: 12 Mar 2003,Bahai,FY 2003,9,Iran,4,208
+From: 12 Mar 2003,To: 12 Mar 2003,Baptist,FY 2003,14,Ukraine,14,208
+From: 12 Mar 2003,To: 12 Mar 2003,Buddhist,FY 2003,4,Burma,4,208
+From: 12 Mar 2003,To: 12 Mar 2003,Catholic,FY 2003,2,Dem. Rep. Congo,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Catholic,FY 2003,2,Togo,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Christian,FY 2003,32,Burma,10,208
+From: 12 Mar 2003,To: 12 Mar 2003,Christian,FY 2003,32,Ethiopia,10,208
+From: 12 Mar 2003,To: 12 Mar 2003,Christian,FY 2003,32,Iran,8,208
+From: 12 Mar 2003,To: 12 Mar 2003,Christian,FY 2003,32,Sudan,4,208
+From: 12 Mar 2003,To: 12 Mar 2003,Jewish,FY 2003,10,Belarus,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Jewish,FY 2003,10,Iran,8,208
+From: 12 Mar 2003,To: 12 Mar 2003,Jewish,FY 2003,10,Ukraine,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Moslem,FY 2003,29,Afghanistan,1,208
+From: 12 Mar 2003,To: 12 Mar 2003,Moslem,FY 2003,29,Iran,7,208
+From: 12 Mar 2003,To: 12 Mar 2003,Moslem,FY 2003,29,Somalia,21,208
+From: 12 Mar 2003,To: 12 Mar 2003,Moslem Shiite,FY 2003,7,Afghanistan,7,208
+From: 12 Mar 2003,To: 12 Mar 2003,Moslem Suni,FY 2003,20,Afghanistan,20,208
+From: 12 Mar 2003,To: 12 Mar 2003,Pentecostalist,FY 2003,48,Belarus,28,208
+From: 12 Mar 2003,To: 12 Mar 2003,Pentecostalist,FY 2003,48,Ukraine,20,208
+From: 12 Mar 2003,To: 12 Mar 2003,Unknown,FY 2003,30,Belarus,2,208
+From: 12 Mar 2003,To: 12 Mar 2003,Unknown,FY 2003,30,Vietnam,28,208
+From: 12 Mar 2003,To: 12 Mar 2003,Zoroastrian,FY 2003,3,Iran,3,208
+

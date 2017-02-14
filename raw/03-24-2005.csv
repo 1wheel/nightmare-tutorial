@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Mar 2005,To: 24 Mar 2005,Afghanistan,FY 2005,2,Moslem Suni,2,153
+From: 24 Mar 2005,To: 24 Mar 2005,Azerbaijan,FY 2005,6,Unknown,6,153
+From: 24 Mar 2005,To: 24 Mar 2005,Burma,FY 2005,15,Buddhist,11,153
+From: 24 Mar 2005,To: 24 Mar 2005,Burma,FY 2005,15,Protestant,4,153
+From: 24 Mar 2005,To: 24 Mar 2005,China,FY 2005,1,Buddhist,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Cuba,FY 2005,68,Catholic,27,153
+From: 24 Mar 2005,To: 24 Mar 2005,Cuba,FY 2005,68,Christian,3,153
+From: 24 Mar 2005,To: 24 Mar 2005,Cuba,FY 2005,68,Jehovah Witness,14,153
+From: 24 Mar 2005,To: 24 Mar 2005,Cuba,FY 2005,68,No Religion,24,153
+From: 24 Mar 2005,To: 24 Mar 2005,Russia,FY 2005,20,Baptist,5,153
+From: 24 Mar 2005,To: 24 Mar 2005,Russia,FY 2005,20,Jewish,4,153
+From: 24 Mar 2005,To: 24 Mar 2005,Russia,FY 2005,20,No Religion,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Russia,FY 2005,20,Pentecostalist,9,153
+From: 24 Mar 2005,To: 24 Mar 2005,Russia,FY 2005,20,Seventh Day Adventist,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Somalia,FY 2005,28,Moslem,28,153
+From: 24 Mar 2005,To: 24 Mar 2005,Uzbekistan,FY 2005,3,Jewish,2,153
+From: 24 Mar 2005,To: 24 Mar 2005,Uzbekistan,FY 2005,3,Pentecostalist,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Vietnam,FY 2005,10,Catholic,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Vietnam,FY 2005,10,No Religion,4,153
+From: 24 Mar 2005,To: 24 Mar 2005,Vietnam,FY 2005,10,Protestant,3,153
+From: 24 Mar 2005,To: 24 Mar 2005,Vietnam,FY 2005,10,Unknown,2,153
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Mar 2005,To: 24 Mar 2005,Baptist,FY 2005,5,Russia,5,153
+From: 24 Mar 2005,To: 24 Mar 2005,Buddhist,FY 2005,12,Burma,11,153
+From: 24 Mar 2005,To: 24 Mar 2005,Buddhist,FY 2005,12,China,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Catholic,FY 2005,28,Cuba,27,153
+From: 24 Mar 2005,To: 24 Mar 2005,Catholic,FY 2005,28,Vietnam,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Christian,FY 2005,3,Cuba,3,153
+From: 24 Mar 2005,To: 24 Mar 2005,Jehovah Witness,FY 2005,14,Cuba,14,153
+From: 24 Mar 2005,To: 24 Mar 2005,Jewish,FY 2005,6,Russia,4,153
+From: 24 Mar 2005,To: 24 Mar 2005,Jewish,FY 2005,6,Uzbekistan,2,153
+From: 24 Mar 2005,To: 24 Mar 2005,Moslem,FY 2005,28,Somalia,28,153
+From: 24 Mar 2005,To: 24 Mar 2005,Moslem Suni,FY 2005,2,Afghanistan,2,153
+From: 24 Mar 2005,To: 24 Mar 2005,No Religion,FY 2005,29,Cuba,24,153
+From: 24 Mar 2005,To: 24 Mar 2005,No Religion,FY 2005,29,Russia,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,No Religion,FY 2005,29,Vietnam,4,153
+From: 24 Mar 2005,To: 24 Mar 2005,Pentecostalist,FY 2005,10,Russia,9,153
+From: 24 Mar 2005,To: 24 Mar 2005,Pentecostalist,FY 2005,10,Uzbekistan,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Protestant,FY 2005,7,Burma,4,153
+From: 24 Mar 2005,To: 24 Mar 2005,Protestant,FY 2005,7,Vietnam,3,153
+From: 24 Mar 2005,To: 24 Mar 2005,Seventh Day Adventist,FY 2005,1,Russia,1,153
+From: 24 Mar 2005,To: 24 Mar 2005,Unknown,FY 2005,8,Azerbaijan,6,153
+From: 24 Mar 2005,To: 24 Mar 2005,Unknown,FY 2005,8,Vietnam,2,153
+

@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jun 2005,To: 15 Jun 2005,Burundi,FY 2005,7,Catholic,7,233
+From: 15 Jun 2005,To: 15 Jun 2005,Dem. Rep. Congo,FY 2005,6,Christian,1,233
+From: 15 Jun 2005,To: 15 Jun 2005,Dem. Rep. Congo,FY 2005,6,Pentecostalist,5,233
+From: 15 Jun 2005,To: 15 Jun 2005,Iran,FY 2005,5,Christian,3,233
+From: 15 Jun 2005,To: 15 Jun 2005,Iran,FY 2005,5,Zoroastrian,2,233
+From: 15 Jun 2005,To: 15 Jun 2005,Laos,FY 2005,90,Ancestral Worship,85,233
+From: 15 Jun 2005,To: 15 Jun 2005,Laos,FY 2005,90,Christian,5,233
+From: 15 Jun 2005,To: 15 Jun 2005,Liberia,FY 2005,28,Baptist,5,233
+From: 15 Jun 2005,To: 15 Jun 2005,Liberia,FY 2005,28,Christian,4,233
+From: 15 Jun 2005,To: 15 Jun 2005,Liberia,FY 2005,28,Methodist,2,233
+From: 15 Jun 2005,To: 15 Jun 2005,Liberia,FY 2005,28,Moslem,17,233
+From: 15 Jun 2005,To: 15 Jun 2005,Russia,FY 2005,35,Moslem,35,233
+From: 15 Jun 2005,To: 15 Jun 2005,Sierra Leone,FY 2005,7,Pentecostalist,7,233
+From: 15 Jun 2005,To: 15 Jun 2005,Somalia,FY 2005,33,Moslem,33,233
+From: 15 Jun 2005,To: 15 Jun 2005,Vietnam,FY 2005,22,Buddhist,12,233
+From: 15 Jun 2005,To: 15 Jun 2005,Vietnam,FY 2005,22,Catholic,3,233
+From: 15 Jun 2005,To: 15 Jun 2005,Vietnam,FY 2005,22,No Religion,3,233
+From: 15 Jun 2005,To: 15 Jun 2005,Vietnam,FY 2005,22,Protestant,4,233
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jun 2005,To: 15 Jun 2005,Ancestral Worship,FY 2005,85,Laos,85,233
+From: 15 Jun 2005,To: 15 Jun 2005,Baptist,FY 2005,5,Liberia,5,233
+From: 15 Jun 2005,To: 15 Jun 2005,Buddhist,FY 2005,12,Vietnam,12,233
+From: 15 Jun 2005,To: 15 Jun 2005,Catholic,FY 2005,10,Burundi,7,233
+From: 15 Jun 2005,To: 15 Jun 2005,Catholic,FY 2005,10,Vietnam,3,233
+From: 15 Jun 2005,To: 15 Jun 2005,Christian,FY 2005,13,Dem. Rep. Congo,1,233
+From: 15 Jun 2005,To: 15 Jun 2005,Christian,FY 2005,13,Iran,3,233
+From: 15 Jun 2005,To: 15 Jun 2005,Christian,FY 2005,13,Laos,5,233
+From: 15 Jun 2005,To: 15 Jun 2005,Christian,FY 2005,13,Liberia,4,233
+From: 15 Jun 2005,To: 15 Jun 2005,Methodist,FY 2005,2,Liberia,2,233
+From: 15 Jun 2005,To: 15 Jun 2005,Moslem,FY 2005,85,Liberia,17,233
+From: 15 Jun 2005,To: 15 Jun 2005,Moslem,FY 2005,85,Russia,35,233
+From: 15 Jun 2005,To: 15 Jun 2005,Moslem,FY 2005,85,Somalia,33,233
+From: 15 Jun 2005,To: 15 Jun 2005,No Religion,FY 2005,3,Vietnam,3,233
+From: 15 Jun 2005,To: 15 Jun 2005,Pentecostalist,FY 2005,12,Dem. Rep. Congo,5,233
+From: 15 Jun 2005,To: 15 Jun 2005,Pentecostalist,FY 2005,12,Sierra Leone,7,233
+From: 15 Jun 2005,To: 15 Jun 2005,Protestant,FY 2005,4,Vietnam,4,233
+From: 15 Jun 2005,To: 15 Jun 2005,Zoroastrian,FY 2005,2,Iran,2,233
+

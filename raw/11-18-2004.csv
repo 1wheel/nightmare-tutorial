@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Nov 2004,To: 18 Nov 2004,Cuba,FY 2005,68,Baptist,2,386
+From: 18 Nov 2004,To: 18 Nov 2004,Cuba,FY 2005,68,Catholic,20,386
+From: 18 Nov 2004,To: 18 Nov 2004,Cuba,FY 2005,68,Christian,4,386
+From: 18 Nov 2004,To: 18 Nov 2004,Cuba,FY 2005,68,Jehovah Witness,12,386
+From: 18 Nov 2004,To: 18 Nov 2004,Cuba,FY 2005,68,No Religion,29,386
+From: 18 Nov 2004,To: 18 Nov 2004,Cuba,FY 2005,68,Protestant,1,386
+From: 18 Nov 2004,To: 18 Nov 2004,Laos,FY 2005,172,Ancestral Worship,170,386
+From: 18 Nov 2004,To: 18 Nov 2004,Laos,FY 2005,172,Christian,2,386
+From: 18 Nov 2004,To: 18 Nov 2004,Somalia,FY 2005,91,Moslem,91,386
+From: 18 Nov 2004,To: 18 Nov 2004,Sudan,FY 2005,11,Catholic,10,386
+From: 18 Nov 2004,To: 18 Nov 2004,Sudan,FY 2005,11,Christian,1,386
+From: 18 Nov 2004,To: 18 Nov 2004,Ukraine,FY 2005,30,Baptist,10,386
+From: 18 Nov 2004,To: 18 Nov 2004,Ukraine,FY 2005,30,Evangelical Christian,4,386
+From: 18 Nov 2004,To: 18 Nov 2004,Ukraine,FY 2005,30,Jewish,2,386
+From: 18 Nov 2004,To: 18 Nov 2004,Ukraine,FY 2005,30,No Religion,3,386
+From: 18 Nov 2004,To: 18 Nov 2004,Ukraine,FY 2005,30,Pentecostalist,11,386
+From: 18 Nov 2004,To: 18 Nov 2004,Vietnam,FY 2005,14,Ancestral Worship,4,386
+From: 18 Nov 2004,To: 18 Nov 2004,Vietnam,FY 2005,14,Buddhist,3,386
+From: 18 Nov 2004,To: 18 Nov 2004,Vietnam,FY 2005,14,Catholic,1,386
+From: 18 Nov 2004,To: 18 Nov 2004,Vietnam,FY 2005,14,No Religion,5,386
+From: 18 Nov 2004,To: 18 Nov 2004,Vietnam,FY 2005,14,Unknown,1,386
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Nov 2004,To: 18 Nov 2004,Ancestral Worship,FY 2005,174,Laos,170,386
+From: 18 Nov 2004,To: 18 Nov 2004,Ancestral Worship,FY 2005,174,Vietnam,4,386
+From: 18 Nov 2004,To: 18 Nov 2004,Baptist,FY 2005,12,Cuba,2,386
+From: 18 Nov 2004,To: 18 Nov 2004,Baptist,FY 2005,12,Ukraine,10,386
+From: 18 Nov 2004,To: 18 Nov 2004,Buddhist,FY 2005,3,Vietnam,3,386
+From: 18 Nov 2004,To: 18 Nov 2004,Catholic,FY 2005,31,Cuba,20,386
+From: 18 Nov 2004,To: 18 Nov 2004,Catholic,FY 2005,31,Sudan,10,386
+From: 18 Nov 2004,To: 18 Nov 2004,Catholic,FY 2005,31,Vietnam,1,386
+From: 18 Nov 2004,To: 18 Nov 2004,Christian,FY 2005,7,Cuba,4,386
+From: 18 Nov 2004,To: 18 Nov 2004,Christian,FY 2005,7,Laos,2,386
+From: 18 Nov 2004,To: 18 Nov 2004,Christian,FY 2005,7,Sudan,1,386
+From: 18 Nov 2004,To: 18 Nov 2004,Evangelical Christian,FY 2005,4,Ukraine,4,386
+From: 18 Nov 2004,To: 18 Nov 2004,Jehovah Witness,FY 2005,12,Cuba,12,386
+From: 18 Nov 2004,To: 18 Nov 2004,Jewish,FY 2005,2,Ukraine,2,386
+From: 18 Nov 2004,To: 18 Nov 2004,Moslem,FY 2005,91,Somalia,91,386
+From: 18 Nov 2004,To: 18 Nov 2004,No Religion,FY 2005,37,Cuba,29,386
+From: 18 Nov 2004,To: 18 Nov 2004,No Religion,FY 2005,37,Ukraine,3,386
+From: 18 Nov 2004,To: 18 Nov 2004,No Religion,FY 2005,37,Vietnam,5,386
+From: 18 Nov 2004,To: 18 Nov 2004,Pentecostalist,FY 2005,11,Ukraine,11,386
+From: 18 Nov 2004,To: 18 Nov 2004,Protestant,FY 2005,1,Cuba,1,386
+From: 18 Nov 2004,To: 18 Nov 2004,Unknown,FY 2005,1,Vietnam,1,386
+

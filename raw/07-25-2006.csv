@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jul 2006,To: 25 Jul 2006,Colombia,FY 2006,1,Christian,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Dem. Rep. Congo,FY 2006,1,Catholic,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Eritrea,FY 2006,27,Catholic,3,186
+From: 25 Jul 2006,To: 25 Jul 2006,Eritrea,FY 2006,27,Moslem,7,186
+From: 25 Jul 2006,To: 25 Jul 2006,Eritrea,FY 2006,27,Orthodox,16,186
+From: 25 Jul 2006,To: 25 Jul 2006,Eritrea,FY 2006,27,Protestant,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Ethiopia,FY 2006,12,Christian,2,186
+From: 25 Jul 2006,To: 25 Jul 2006,Ethiopia,FY 2006,12,Moslem,10,186
+From: 25 Jul 2006,To: 25 Jul 2006,Russia,FY 2006,14,Moslem,14,186
+From: 25 Jul 2006,To: 25 Jul 2006,Rwanda,FY 2006,1,Moslem,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Somalia,FY 2006,101,Christian,3,186
+From: 25 Jul 2006,To: 25 Jul 2006,Somalia,FY 2006,101,Moslem,98,186
+From: 25 Jul 2006,To: 25 Jul 2006,Sudan,FY 2006,15,Catholic,4,186
+From: 25 Jul 2006,To: 25 Jul 2006,Sudan,FY 2006,15,Christian,4,186
+From: 25 Jul 2006,To: 25 Jul 2006,Sudan,FY 2006,15,Moslem,6,186
+From: 25 Jul 2006,To: 25 Jul 2006,Sudan,FY 2006,15,Protestant,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Vietnam,FY 2006,14,Christian,11,186
+From: 25 Jul 2006,To: 25 Jul 2006,Vietnam,FY 2006,14,Other Religion,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Vietnam,FY 2006,14,Protestant,2,186
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jul 2006,To: 25 Jul 2006,Catholic,FY 2006,8,Dem. Rep. Congo,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Catholic,FY 2006,8,Eritrea,3,186
+From: 25 Jul 2006,To: 25 Jul 2006,Catholic,FY 2006,8,Sudan,4,186
+From: 25 Jul 2006,To: 25 Jul 2006,Christian,FY 2006,21,Colombia,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Christian,FY 2006,21,Ethiopia,2,186
+From: 25 Jul 2006,To: 25 Jul 2006,Christian,FY 2006,21,Somalia,3,186
+From: 25 Jul 2006,To: 25 Jul 2006,Christian,FY 2006,21,Sudan,4,186
+From: 25 Jul 2006,To: 25 Jul 2006,Christian,FY 2006,21,Vietnam,11,186
+From: 25 Jul 2006,To: 25 Jul 2006,Moslem,FY 2006,136,Eritrea,7,186
+From: 25 Jul 2006,To: 25 Jul 2006,Moslem,FY 2006,136,Ethiopia,10,186
+From: 25 Jul 2006,To: 25 Jul 2006,Moslem,FY 2006,136,Russia,14,186
+From: 25 Jul 2006,To: 25 Jul 2006,Moslem,FY 2006,136,Rwanda,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Moslem,FY 2006,136,Somalia,98,186
+From: 25 Jul 2006,To: 25 Jul 2006,Moslem,FY 2006,136,Sudan,6,186
+From: 25 Jul 2006,To: 25 Jul 2006,Orthodox,FY 2006,16,Eritrea,16,186
+From: 25 Jul 2006,To: 25 Jul 2006,Other Religion,FY 2006,1,Vietnam,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Protestant,FY 2006,4,Eritrea,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Protestant,FY 2006,4,Sudan,1,186
+From: 25 Jul 2006,To: 25 Jul 2006,Protestant,FY 2006,4,Vietnam,2,186
+

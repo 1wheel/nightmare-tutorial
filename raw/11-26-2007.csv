@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Nov 2007,To: 26 Nov 2007,Iran,FY 2008,25,Christian,24,66
+From: 26 Nov 2007,To: 26 Nov 2007,Iran,FY 2008,25,Zoroastrian,1,66
+From: 26 Nov 2007,To: 26 Nov 2007,Iraq,FY 2008,26,Catholic,7,66
+From: 26 Nov 2007,To: 26 Nov 2007,Iraq,FY 2008,26,Christian,4,66
+From: 26 Nov 2007,To: 26 Nov 2007,Iraq,FY 2008,26,Moslem,3,66
+From: 26 Nov 2007,To: 26 Nov 2007,Iraq,FY 2008,26,Orthodox,6,66
+From: 26 Nov 2007,To: 26 Nov 2007,Iraq,FY 2008,26,Sabeans-Mandean,6,66
+From: 26 Nov 2007,To: 26 Nov 2007,Russia,FY 2008,15,Baptist,10,66
+From: 26 Nov 2007,To: 26 Nov 2007,Russia,FY 2008,15,Jewish,2,66
+From: 26 Nov 2007,To: 26 Nov 2007,Russia,FY 2008,15,Russian Orthodox,1,66
+From: 26 Nov 2007,To: 26 Nov 2007,Russia,FY 2008,15,Seventh Day Adventist,2,66
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Nov 2007,To: 26 Nov 2007,Baptist,FY 2008,10,Russia,10,66
+From: 26 Nov 2007,To: 26 Nov 2007,Catholic,FY 2008,7,Iraq,7,66
+From: 26 Nov 2007,To: 26 Nov 2007,Christian,FY 2008,28,Iran,24,66
+From: 26 Nov 2007,To: 26 Nov 2007,Christian,FY 2008,28,Iraq,4,66
+From: 26 Nov 2007,To: 26 Nov 2007,Jewish,FY 2008,2,Russia,2,66
+From: 26 Nov 2007,To: 26 Nov 2007,Moslem,FY 2008,3,Iraq,3,66
+From: 26 Nov 2007,To: 26 Nov 2007,Orthodox,FY 2008,6,Iraq,6,66
+From: 26 Nov 2007,To: 26 Nov 2007,Russian Orthodox,FY 2008,1,Russia,1,66
+From: 26 Nov 2007,To: 26 Nov 2007,Sabeans-Mandean,FY 2008,6,Iraq,6,66
+From: 26 Nov 2007,To: 26 Nov 2007,Seventh Day Adventist,FY 2008,2,Russia,2,66
+From: 26 Nov 2007,To: 26 Nov 2007,Zoroastrian,FY 2008,1,Iran,1,66
+

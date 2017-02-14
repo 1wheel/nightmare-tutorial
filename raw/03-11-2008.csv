@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Mar 2008,To: 11 Mar 2008,Afghanistan,FY 2008,4,Moslem Suni,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Bhutan,FY 2008,20,Hindu,20,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burma,FY 2008,127,Buddhist,24,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burma,FY 2008,127,Christian,83,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burma,FY 2008,127,Moslem,20,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burundi,FY 2008,69,Baptist,1,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burundi,FY 2008,69,Catholic,18,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burundi,FY 2008,69,Christian,8,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burundi,FY 2008,69,Methodist,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Burundi,FY 2008,69,Pentecostalist,38,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iran,FY 2008,70,Christian,61,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iran,FY 2008,70,Zoroastrian,9,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iraq,FY 2008,34,Catholic,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iraq,FY 2008,34,Christian,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iraq,FY 2008,34,Moslem Shiite,12,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iraq,FY 2008,34,Moslem Suni,8,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iraq,FY 2008,34,Orthodox,5,334
+From: 11 Mar 2008,To: 11 Mar 2008,Iraq,FY 2008,34,Sabeans-Mandean,1,334
+From: 11 Mar 2008,To: 11 Mar 2008,Pakistan,FY 2008,4,Moslem,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Sudan,FY 2008,4,Moslem,1,334
+From: 11 Mar 2008,To: 11 Mar 2008,Sudan,FY 2008,4,Moslem Suni,3,334
+From: 11 Mar 2008,To: 11 Mar 2008,Vietnam,FY 2008,2,Protestant,2,334
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Mar 2008,To: 11 Mar 2008,Baptist,FY 2008,1,Burundi,1,334
+From: 11 Mar 2008,To: 11 Mar 2008,Buddhist,FY 2008,24,Burma,24,334
+From: 11 Mar 2008,To: 11 Mar 2008,Catholic,FY 2008,22,Burundi,18,334
+From: 11 Mar 2008,To: 11 Mar 2008,Catholic,FY 2008,22,Iraq,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Christian,FY 2008,156,Burma,83,334
+From: 11 Mar 2008,To: 11 Mar 2008,Christian,FY 2008,156,Burundi,8,334
+From: 11 Mar 2008,To: 11 Mar 2008,Christian,FY 2008,156,Iran,61,334
+From: 11 Mar 2008,To: 11 Mar 2008,Christian,FY 2008,156,Iraq,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Hindu,FY 2008,20,Bhutan,20,334
+From: 11 Mar 2008,To: 11 Mar 2008,Methodist,FY 2008,4,Burundi,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem,FY 2008,25,Burma,20,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem,FY 2008,25,Pakistan,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem,FY 2008,25,Sudan,1,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem Shiite,FY 2008,12,Iraq,12,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem Suni,FY 2008,15,Afghanistan,4,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem Suni,FY 2008,15,Iraq,8,334
+From: 11 Mar 2008,To: 11 Mar 2008,Moslem Suni,FY 2008,15,Sudan,3,334
+From: 11 Mar 2008,To: 11 Mar 2008,Orthodox,FY 2008,5,Iraq,5,334
+From: 11 Mar 2008,To: 11 Mar 2008,Pentecostalist,FY 2008,38,Burundi,38,334
+From: 11 Mar 2008,To: 11 Mar 2008,Protestant,FY 2008,2,Vietnam,2,334
+From: 11 Mar 2008,To: 11 Mar 2008,Sabeans-Mandean,FY 2008,1,Iraq,1,334
+From: 11 Mar 2008,To: 11 Mar 2008,Zoroastrian,FY 2008,9,Iran,9,334
+

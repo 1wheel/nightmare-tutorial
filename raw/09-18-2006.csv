@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Sep 2006,To: 18 Sep 2006,Afghanistan,FY 2006,1,Moslem Suni,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Belarus,FY 2006,19,Baptist,5,238
+From: 18 Sep 2006,To: 18 Sep 2006,Belarus,FY 2006,19,Jewish,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Belarus,FY 2006,19,Pentecostalist,13,238
+From: 18 Sep 2006,To: 18 Sep 2006,Burundi,FY 2006,23,Baptist,7,238
+From: 18 Sep 2006,To: 18 Sep 2006,Burundi,FY 2006,23,Catholic,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Burundi,FY 2006,23,Christian,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Burundi,FY 2006,23,Pentecostalist,14,238
+From: 18 Sep 2006,To: 18 Sep 2006,Dem. Rep. Congo,FY 2006,13,Catholic,8,238
+From: 18 Sep 2006,To: 18 Sep 2006,Dem. Rep. Congo,FY 2006,13,Lutheran,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Dem. Rep. Congo,FY 2006,13,Methodist,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Dem. Rep. Congo,FY 2006,13,Other Religion,3,238
+From: 18 Sep 2006,To: 18 Sep 2006,Ethiopia,FY 2006,17,Moslem,13,238
+From: 18 Sep 2006,To: 18 Sep 2006,Ethiopia,FY 2006,17,Protestant,4,238
+From: 18 Sep 2006,To: 18 Sep 2006,Iran,FY 2006,37,Christian,34,238
+From: 18 Sep 2006,To: 18 Sep 2006,Iran,FY 2006,37,Moslem Shiite,2,238
+From: 18 Sep 2006,To: 18 Sep 2006,Iran,FY 2006,37,Sabeans-Mandean,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Liberia,FY 2006,1,Moslem,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Russia,FY 2006,29,Jewish,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Russia,FY 2006,29,Moslem,20,238
+From: 18 Sep 2006,To: 18 Sep 2006,Russia,FY 2006,29,Pentecostalist,6,238
+From: 18 Sep 2006,To: 18 Sep 2006,Russia,FY 2006,29,Seventh Day Adventist,2,238
+From: 18 Sep 2006,To: 18 Sep 2006,Somalia,FY 2006,21,Moslem,21,238
+From: 18 Sep 2006,To: 18 Sep 2006,Sudan,FY 2006,27,Catholic,11,238
+From: 18 Sep 2006,To: 18 Sep 2006,Sudan,FY 2006,27,Moslem,16,238
+From: 18 Sep 2006,To: 18 Sep 2006,Ukraine,FY 2006,34,Jewish,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Ukraine,FY 2006,34,Pentecostalist,33,238
+From: 18 Sep 2006,To: 18 Sep 2006,Uzbekistan,FY 2006,16,Moslem Suni,16,238
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Sep 2006,To: 18 Sep 2006,Baptist,FY 2006,12,Belarus,5,238
+From: 18 Sep 2006,To: 18 Sep 2006,Baptist,FY 2006,12,Burundi,7,238
+From: 18 Sep 2006,To: 18 Sep 2006,Catholic,FY 2006,20,Burundi,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Catholic,FY 2006,20,Dem. Rep. Congo,8,238
+From: 18 Sep 2006,To: 18 Sep 2006,Catholic,FY 2006,20,Sudan,11,238
+From: 18 Sep 2006,To: 18 Sep 2006,Christian,FY 2006,35,Burundi,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Christian,FY 2006,35,Iran,34,238
+From: 18 Sep 2006,To: 18 Sep 2006,Jewish,FY 2006,3,Belarus,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Jewish,FY 2006,3,Russia,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Jewish,FY 2006,3,Ukraine,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Lutheran,FY 2006,1,Dem. Rep. Congo,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Methodist,FY 2006,1,Dem. Rep. Congo,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem,FY 2006,71,Ethiopia,13,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem,FY 2006,71,Liberia,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem,FY 2006,71,Russia,20,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem,FY 2006,71,Somalia,21,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem,FY 2006,71,Sudan,16,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem Shiite,FY 2006,2,Iran,2,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem Suni,FY 2006,17,Afghanistan,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Moslem Suni,FY 2006,17,Uzbekistan,16,238
+From: 18 Sep 2006,To: 18 Sep 2006,Other Religion,FY 2006,3,Dem. Rep. Congo,3,238
+From: 18 Sep 2006,To: 18 Sep 2006,Pentecostalist,FY 2006,66,Belarus,13,238
+From: 18 Sep 2006,To: 18 Sep 2006,Pentecostalist,FY 2006,66,Burundi,14,238
+From: 18 Sep 2006,To: 18 Sep 2006,Pentecostalist,FY 2006,66,Russia,6,238
+From: 18 Sep 2006,To: 18 Sep 2006,Pentecostalist,FY 2006,66,Ukraine,33,238
+From: 18 Sep 2006,To: 18 Sep 2006,Protestant,FY 2006,4,Ethiopia,4,238
+From: 18 Sep 2006,To: 18 Sep 2006,Sabeans-Mandean,FY 2006,1,Iran,1,238
+From: 18 Sep 2006,To: 18 Sep 2006,Seventh Day Adventist,FY 2006,2,Russia,2,238
+

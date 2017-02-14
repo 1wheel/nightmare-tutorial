@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Dec 2015,To: 02 Dec 2015,Afghanistan,FY 2016,1,Atheist,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Bhutan,FY 2016,26,Buddhist,12,306
+From: 02 Dec 2015,To: 02 Dec 2015,Bhutan,FY 2016,26,Christian,4,306
+From: 02 Dec 2015,To: 02 Dec 2015,Bhutan,FY 2016,26,Hindu,10,306
+From: 02 Dec 2015,To: 02 Dec 2015,Burma,FY 2016,8,Animist,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Burma,FY 2016,8,Christian,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Burma,FY 2016,8,Moslem,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Burma,FY 2016,8,Moslem Suni,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Colombia,FY 2016,29,Catholic,22,306
+From: 02 Dec 2015,To: 02 Dec 2015,Colombia,FY 2016,29,Christian,5,306
+From: 02 Dec 2015,To: 02 Dec 2015,Colombia,FY 2016,29,No Religion,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Catholic,5,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Christian,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Jehovah Witness,9,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Moslem,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Pentecostalist,7,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Protestant,22,306
+From: 02 Dec 2015,To: 02 Dec 2015,Dem. Rep. Congo,FY 2016,49,Seventh Day Adventist,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Eritrea,FY 2016,8,Moslem,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Eritrea,FY 2016,8,Pentecostalist,7,306
+From: 02 Dec 2015,To: 02 Dec 2015,Ethiopia,FY 2016,13,Christian,5,306
+From: 02 Dec 2015,To: 02 Dec 2015,Ethiopia,FY 2016,13,Moslem,6,306
+From: 02 Dec 2015,To: 02 Dec 2015,Ethiopia,FY 2016,13,Orthodox,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iran,FY 2016,6,Bahai,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iran,FY 2016,6,Moslem,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iran,FY 2016,6,Moslem Shiite,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iraq,FY 2016,68,Chaldean,6,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iraq,FY 2016,68,Christian,7,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iraq,FY 2016,68,Moslem Shiite,20,306
+From: 02 Dec 2015,To: 02 Dec 2015,Iraq,FY 2016,68,Moslem Suni,35,306
+From: 02 Dec 2015,To: 02 Dec 2015,Republic of South Sudan,FY 2016,4,Christian,4,306
+From: 02 Dec 2015,To: 02 Dec 2015,Russia,FY 2016,7,Pentecostalist,4,306
+From: 02 Dec 2015,To: 02 Dec 2015,Russia,FY 2016,7,Seventh Day Adventist,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Somalia,FY 2016,49,Moslem,49,306
+From: 02 Dec 2015,To: 02 Dec 2015,Sudan,FY 2016,13,Moslem,13,306
+From: 02 Dec 2015,To: 02 Dec 2015,Syria,FY 2016,23,Moslem Suni,23,306
+From: 02 Dec 2015,To: 02 Dec 2015,Ukraine,FY 2016,2,Baptist,2,306
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Dec 2015,To: 02 Dec 2015,Animist,FY 2016,2,Burma,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Atheist,FY 2016,1,Afghanistan,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Bahai,FY 2016,2,Iran,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Baptist,FY 2016,2,Ukraine,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Buddhist,FY 2016,12,Bhutan,12,306
+From: 02 Dec 2015,To: 02 Dec 2015,Catholic,FY 2016,27,Colombia,22,306
+From: 02 Dec 2015,To: 02 Dec 2015,Catholic,FY 2016,27,Dem. Rep. Congo,5,306
+From: 02 Dec 2015,To: 02 Dec 2015,Chaldean,FY 2016,6,Iraq,6,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Bhutan,4,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Burma,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Colombia,5,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Dem. Rep. Congo,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Ethiopia,5,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Iraq,7,306
+From: 02 Dec 2015,To: 02 Dec 2015,Christian,FY 2016,28,Republic of South Sudan,4,306
+From: 02 Dec 2015,To: 02 Dec 2015,Hindu,FY 2016,10,Bhutan,10,306
+From: 02 Dec 2015,To: 02 Dec 2015,Jehovah Witness,FY 2016,9,Dem. Rep. Congo,9,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Burma,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Dem. Rep. Congo,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Eritrea,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Ethiopia,6,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Iran,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Somalia,49,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem,FY 2016,75,Sudan,13,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem Shiite,FY 2016,23,Iran,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem Shiite,FY 2016,23,Iraq,20,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem Suni,FY 2016,61,Burma,3,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem Suni,FY 2016,61,Iraq,35,306
+From: 02 Dec 2015,To: 02 Dec 2015,Moslem Suni,FY 2016,61,Syria,23,306
+From: 02 Dec 2015,To: 02 Dec 2015,No Religion,FY 2016,2,Colombia,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Orthodox,FY 2016,2,Ethiopia,2,306
+From: 02 Dec 2015,To: 02 Dec 2015,Pentecostalist,FY 2016,18,Dem. Rep. Congo,7,306
+From: 02 Dec 2015,To: 02 Dec 2015,Pentecostalist,FY 2016,18,Eritrea,7,306
+From: 02 Dec 2015,To: 02 Dec 2015,Pentecostalist,FY 2016,18,Russia,4,306
+From: 02 Dec 2015,To: 02 Dec 2015,Protestant,FY 2016,22,Dem. Rep. Congo,22,306
+From: 02 Dec 2015,To: 02 Dec 2015,Seventh Day Adventist,FY 2016,4,Dem. Rep. Congo,1,306
+From: 02 Dec 2015,To: 02 Dec 2015,Seventh Day Adventist,FY 2016,4,Russia,3,306
+

@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jan 2014,To: 13 Jan 2014,Afghanistan,FY 2014,12,Moslem Shiite,8,121
+From: 13 Jan 2014,To: 13 Jan 2014,Afghanistan,FY 2014,12,Moslem Suni,4,121
+From: 13 Jan 2014,To: 13 Jan 2014,Burma,FY 2014,20,Baptist,4,121
+From: 13 Jan 2014,To: 13 Jan 2014,Burma,FY 2014,20,Buddhist,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Burma,FY 2014,20,Christian,15,121
+From: 13 Jan 2014,To: 13 Jan 2014,Eritrea,FY 2014,3,Christian,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Eritrea,FY 2014,3,Moslem,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Eritrea,FY 2014,3,Orthodox,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iran,FY 2014,39,Bahai,17,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iran,FY 2014,39,Christian,13,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iran,FY 2014,39,Jewish,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iran,FY 2014,39,No Religion,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iran,FY 2014,39,Protestant,4,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iran,FY 2014,39,Zoroastrian,3,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iraq,FY 2014,15,Catholic,9,121
+From: 13 Jan 2014,To: 13 Jan 2014,Iraq,FY 2014,15,Moslem Suni,6,121
+From: 13 Jan 2014,To: 13 Jan 2014,Somalia,FY 2014,18,Moslem,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Somalia,FY 2014,18,Moslem Suni,17,121
+From: 13 Jan 2014,To: 13 Jan 2014,Sri Lanka (Ceylon),FY 2014,1,Hindu,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Sudan,FY 2014,13,Moslem,12,121
+From: 13 Jan 2014,To: 13 Jan 2014,Sudan,FY 2014,13,Moslem Suni,1,121
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jan 2014,To: 13 Jan 2014,Bahai,FY 2014,17,Iran,17,121
+From: 13 Jan 2014,To: 13 Jan 2014,Baptist,FY 2014,4,Burma,4,121
+From: 13 Jan 2014,To: 13 Jan 2014,Buddhist,FY 2014,1,Burma,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Catholic,FY 2014,9,Iraq,9,121
+From: 13 Jan 2014,To: 13 Jan 2014,Christian,FY 2014,29,Burma,15,121
+From: 13 Jan 2014,To: 13 Jan 2014,Christian,FY 2014,29,Eritrea,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Christian,FY 2014,29,Iran,13,121
+From: 13 Jan 2014,To: 13 Jan 2014,Hindu,FY 2014,1,Sri Lanka (Ceylon),1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Jewish,FY 2014,1,Iran,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem,FY 2014,14,Eritrea,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem,FY 2014,14,Somalia,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem,FY 2014,14,Sudan,12,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem Shiite,FY 2014,8,Afghanistan,8,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem Suni,FY 2014,28,Afghanistan,4,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem Suni,FY 2014,28,Iraq,6,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem Suni,FY 2014,28,Somalia,17,121
+From: 13 Jan 2014,To: 13 Jan 2014,Moslem Suni,FY 2014,28,Sudan,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,No Religion,FY 2014,1,Iran,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Orthodox,FY 2014,1,Eritrea,1,121
+From: 13 Jan 2014,To: 13 Jan 2014,Protestant,FY 2014,4,Iran,4,121
+From: 13 Jan 2014,To: 13 Jan 2014,Zoroastrian,FY 2014,3,Iran,3,121
+

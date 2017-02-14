@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Dec 2012,To: 20 Dec 2012,Burma,FY 2013,34,Baptist,4,79
+From: 20 Dec 2012,To: 20 Dec 2012,Burma,FY 2013,34,Buddhist,5,79
+From: 20 Dec 2012,To: 20 Dec 2012,Burma,FY 2013,34,Catholic,1,79
+From: 20 Dec 2012,To: 20 Dec 2012,Burma,FY 2013,34,Christian,18,79
+From: 20 Dec 2012,To: 20 Dec 2012,Burma,FY 2013,34,Methodist,6,79
+From: 20 Dec 2012,To: 20 Dec 2012,Iraq,FY 2013,41,Christian,36,79
+From: 20 Dec 2012,To: 20 Dec 2012,Iraq,FY 2013,41,Moslem Shiite,5,79
+From: 20 Dec 2012,To: 20 Dec 2012,Somalia,FY 2013,4,Moslem,4,79
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Dec 2012,To: 20 Dec 2012,Baptist,FY 2013,4,Burma,4,79
+From: 20 Dec 2012,To: 20 Dec 2012,Buddhist,FY 2013,5,Burma,5,79
+From: 20 Dec 2012,To: 20 Dec 2012,Catholic,FY 2013,1,Burma,1,79
+From: 20 Dec 2012,To: 20 Dec 2012,Christian,FY 2013,54,Burma,18,79
+From: 20 Dec 2012,To: 20 Dec 2012,Christian,FY 2013,54,Iraq,36,79
+From: 20 Dec 2012,To: 20 Dec 2012,Methodist,FY 2013,6,Burma,6,79
+From: 20 Dec 2012,To: 20 Dec 2012,Moslem,FY 2013,4,Somalia,4,79
+From: 20 Dec 2012,To: 20 Dec 2012,Moslem Shiite,FY 2013,5,Iraq,5,79
+

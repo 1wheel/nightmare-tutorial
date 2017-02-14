@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 May 2006,To: 23 May 2006,Afghanistan,FY 2006,1,Moslem,1,133
+From: 23 May 2006,To: 23 May 2006,Colombia,FY 2006,10,Catholic,8,133
+From: 23 May 2006,To: 23 May 2006,Colombia,FY 2006,10,Christian,2,133
+From: 23 May 2006,To: 23 May 2006,Iran,FY 2006,16,Christian,12,133
+From: 23 May 2006,To: 23 May 2006,Iran,FY 2006,16,Zoroastrian,4,133
+From: 23 May 2006,To: 23 May 2006,Liberia,FY 2006,36,Christian,31,133
+From: 23 May 2006,To: 23 May 2006,Liberia,FY 2006,36,Lutheran,1,133
+From: 23 May 2006,To: 23 May 2006,Liberia,FY 2006,36,Moslem,4,133
+From: 23 May 2006,To: 23 May 2006,Sierra Leone,FY 2006,3,Christian,3,133
+From: 23 May 2006,To: 23 May 2006,Somalia,FY 2006,55,Moslem,55,133
+From: 23 May 2006,To: 23 May 2006,Sudan,FY 2006,12,Catholic,3,133
+From: 23 May 2006,To: 23 May 2006,Sudan,FY 2006,12,Christian,9,133
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 May 2006,To: 23 May 2006,Catholic,FY 2006,11,Colombia,8,133
+From: 23 May 2006,To: 23 May 2006,Catholic,FY 2006,11,Sudan,3,133
+From: 23 May 2006,To: 23 May 2006,Christian,FY 2006,57,Colombia,2,133
+From: 23 May 2006,To: 23 May 2006,Christian,FY 2006,57,Iran,12,133
+From: 23 May 2006,To: 23 May 2006,Christian,FY 2006,57,Liberia,31,133
+From: 23 May 2006,To: 23 May 2006,Christian,FY 2006,57,Sierra Leone,3,133
+From: 23 May 2006,To: 23 May 2006,Christian,FY 2006,57,Sudan,9,133
+From: 23 May 2006,To: 23 May 2006,Lutheran,FY 2006,1,Liberia,1,133
+From: 23 May 2006,To: 23 May 2006,Moslem,FY 2006,60,Afghanistan,1,133
+From: 23 May 2006,To: 23 May 2006,Moslem,FY 2006,60,Liberia,4,133
+From: 23 May 2006,To: 23 May 2006,Moslem,FY 2006,60,Somalia,55,133
+From: 23 May 2006,To: 23 May 2006,Zoroastrian,FY 2006,4,Iran,4,133
+

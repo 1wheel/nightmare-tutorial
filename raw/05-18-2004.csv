@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 May 2004,To: 18 May 2004,Dem. Rep. Congo,FY 2004,3,Protestant,3,341
+From: 18 May 2004,To: 18 May 2004,Eritrea,FY 2004,16,Jehovah Witness,16,341
+From: 18 May 2004,To: 18 May 2004,Ethiopia,FY 2004,17,Christian,6,341
+From: 18 May 2004,To: 18 May 2004,Ethiopia,FY 2004,17,Moslem,4,341
+From: 18 May 2004,To: 18 May 2004,Ethiopia,FY 2004,17,Orthodox,7,341
+From: 18 May 2004,To: 18 May 2004,Kazakhstan,FY 2004,1,Jewish,1,341
+From: 18 May 2004,To: 18 May 2004,Kyrgyzstan,FY 2004,25,Baptist,25,341
+From: 18 May 2004,To: 18 May 2004,Liberia,FY 2004,67,Baptist,8,341
+From: 18 May 2004,To: 18 May 2004,Liberia,FY 2004,67,Catholic,1,341
+From: 18 May 2004,To: 18 May 2004,Liberia,FY 2004,67,Christian,45,341
+From: 18 May 2004,To: 18 May 2004,Liberia,FY 2004,67,Evangelical Christian,4,341
+From: 18 May 2004,To: 18 May 2004,Liberia,FY 2004,67,Moslem,1,341
+From: 18 May 2004,To: 18 May 2004,Liberia,FY 2004,67,Pentecostalist,8,341
+From: 18 May 2004,To: 18 May 2004,Russia,FY 2004,13,Atheist,2,341
+From: 18 May 2004,To: 18 May 2004,Russia,FY 2004,13,Jewish,4,341
+From: 18 May 2004,To: 18 May 2004,Russia,FY 2004,13,No Religion,2,341
+From: 18 May 2004,To: 18 May 2004,Russia,FY 2004,13,Pentecostalist,5,341
+From: 18 May 2004,To: 18 May 2004,Somalia,FY 2004,96,Moslem,96,341
+From: 18 May 2004,To: 18 May 2004,Sudan,FY 2004,69,Catholic,18,341
+From: 18 May 2004,To: 18 May 2004,Sudan,FY 2004,69,Christian,3,341
+From: 18 May 2004,To: 18 May 2004,Sudan,FY 2004,69,Evangelical Christian,1,341
+From: 18 May 2004,To: 18 May 2004,Sudan,FY 2004,69,Moslem,34,341
+From: 18 May 2004,To: 18 May 2004,Sudan,FY 2004,69,Protestant,13,341
+From: 18 May 2004,To: 18 May 2004,Ukraine,FY 2004,29,Baptist,7,341
+From: 18 May 2004,To: 18 May 2004,Ukraine,FY 2004,29,Jewish,3,341
+From: 18 May 2004,To: 18 May 2004,Ukraine,FY 2004,29,Pentecostalist,19,341
+From: 18 May 2004,To: 18 May 2004,Yemen,FY 2004,5,Moslem,5,341
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 May 2004,To: 18 May 2004,Atheist,FY 2004,2,Russia,2,341
+From: 18 May 2004,To: 18 May 2004,Baptist,FY 2004,40,Kyrgyzstan,25,341
+From: 18 May 2004,To: 18 May 2004,Baptist,FY 2004,40,Liberia,8,341
+From: 18 May 2004,To: 18 May 2004,Baptist,FY 2004,40,Ukraine,7,341
+From: 18 May 2004,To: 18 May 2004,Catholic,FY 2004,19,Liberia,1,341
+From: 18 May 2004,To: 18 May 2004,Catholic,FY 2004,19,Sudan,18,341
+From: 18 May 2004,To: 18 May 2004,Christian,FY 2004,54,Ethiopia,6,341
+From: 18 May 2004,To: 18 May 2004,Christian,FY 2004,54,Liberia,45,341
+From: 18 May 2004,To: 18 May 2004,Christian,FY 2004,54,Sudan,3,341
+From: 18 May 2004,To: 18 May 2004,Evangelical Christian,FY 2004,5,Liberia,4,341
+From: 18 May 2004,To: 18 May 2004,Evangelical Christian,FY 2004,5,Sudan,1,341
+From: 18 May 2004,To: 18 May 2004,Jehovah Witness,FY 2004,16,Eritrea,16,341
+From: 18 May 2004,To: 18 May 2004,Jewish,FY 2004,8,Kazakhstan,1,341
+From: 18 May 2004,To: 18 May 2004,Jewish,FY 2004,8,Russia,4,341
+From: 18 May 2004,To: 18 May 2004,Jewish,FY 2004,8,Ukraine,3,341
+From: 18 May 2004,To: 18 May 2004,Moslem,FY 2004,140,Ethiopia,4,341
+From: 18 May 2004,To: 18 May 2004,Moslem,FY 2004,140,Liberia,1,341
+From: 18 May 2004,To: 18 May 2004,Moslem,FY 2004,140,Somalia,96,341
+From: 18 May 2004,To: 18 May 2004,Moslem,FY 2004,140,Sudan,34,341
+From: 18 May 2004,To: 18 May 2004,Moslem,FY 2004,140,Yemen,5,341
+From: 18 May 2004,To: 18 May 2004,No Religion,FY 2004,2,Russia,2,341
+From: 18 May 2004,To: 18 May 2004,Orthodox,FY 2004,7,Ethiopia,7,341
+From: 18 May 2004,To: 18 May 2004,Pentecostalist,FY 2004,32,Liberia,8,341
+From: 18 May 2004,To: 18 May 2004,Pentecostalist,FY 2004,32,Russia,5,341
+From: 18 May 2004,To: 18 May 2004,Pentecostalist,FY 2004,32,Ukraine,19,341
+From: 18 May 2004,To: 18 May 2004,Protestant,FY 2004,16,Dem. Rep. Congo,3,341
+From: 18 May 2004,To: 18 May 2004,Protestant,FY 2004,16,Sudan,13,341
+

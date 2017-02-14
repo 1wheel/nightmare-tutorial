@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Oct 2011,To: 05 Oct 2011,Iran,FY 2012,9,Bahai,1,16
+From: 05 Oct 2011,To: 05 Oct 2011,Iran,FY 2012,9,Christian,2,16
+From: 05 Oct 2011,To: 05 Oct 2011,Iran,FY 2012,9,Sabeans-Mandean,6,16
+From: 05 Oct 2011,To: 05 Oct 2011,Iraq,FY 2012,1,Orthodox,1,16
+From: 05 Oct 2011,To: 05 Oct 2011,Somalia,FY 2012,6,Moslem,4,16
+From: 05 Oct 2011,To: 05 Oct 2011,Somalia,FY 2012,6,Moslem Suni,2,16
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Oct 2011,To: 05 Oct 2011,Bahai,FY 2012,1,Iran,1,16
+From: 05 Oct 2011,To: 05 Oct 2011,Christian,FY 2012,2,Iran,2,16
+From: 05 Oct 2011,To: 05 Oct 2011,Moslem,FY 2012,4,Somalia,4,16
+From: 05 Oct 2011,To: 05 Oct 2011,Moslem Suni,FY 2012,2,Somalia,2,16
+From: 05 Oct 2011,To: 05 Oct 2011,Orthodox,FY 2012,1,Iraq,1,16
+From: 05 Oct 2011,To: 05 Oct 2011,Sabeans-Mandean,FY 2012,6,Iran,6,16
+

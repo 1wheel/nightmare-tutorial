@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Feb 2006,To: 21 Feb 2006,Burundi,FY 2006,1,Moslem,1,302
+From: 21 Feb 2006,To: 21 Feb 2006,Cameroon,FY 2006,14,Catholic,1,302
+From: 21 Feb 2006,To: 21 Feb 2006,Cameroon,FY 2006,14,Christian,13,302
+From: 21 Feb 2006,To: 21 Feb 2006,Ethiopia,FY 2006,5,Christian,1,302
+From: 21 Feb 2006,To: 21 Feb 2006,Ethiopia,FY 2006,5,Moslem,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Iraq,FY 2006,2,Moslem,2,302
+From: 21 Feb 2006,To: 21 Feb 2006,Laos,FY 2006,33,Ancestral Worship,24,302
+From: 21 Feb 2006,To: 21 Feb 2006,Laos,FY 2006,33,Christian,9,302
+From: 21 Feb 2006,To: 21 Feb 2006,Liberia,FY 2006,39,Christian,18,302
+From: 21 Feb 2006,To: 21 Feb 2006,Liberia,FY 2006,39,Moslem,21,302
+From: 21 Feb 2006,To: 21 Feb 2006,Russia,FY 2006,8,Baptist,2,302
+From: 21 Feb 2006,To: 21 Feb 2006,Russia,FY 2006,8,Jewish,6,302
+From: 21 Feb 2006,To: 21 Feb 2006,Sierra Leone,FY 2006,23,Christian,3,302
+From: 21 Feb 2006,To: 21 Feb 2006,Sierra Leone,FY 2006,23,Moslem,20,302
+From: 21 Feb 2006,To: 21 Feb 2006,Somalia,FY 2006,91,Moslem,91,302
+From: 21 Feb 2006,To: 21 Feb 2006,Sudan,FY 2006,28,Catholic,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Sudan,FY 2006,28,Christian,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Sudan,FY 2006,28,Moslem,14,302
+From: 21 Feb 2006,To: 21 Feb 2006,Sudan,FY 2006,28,Protestant,6,302
+From: 21 Feb 2006,To: 21 Feb 2006,Ukraine,FY 2006,28,Baptist,8,302
+From: 21 Feb 2006,To: 21 Feb 2006,Ukraine,FY 2006,28,Jewish,3,302
+From: 21 Feb 2006,To: 21 Feb 2006,Ukraine,FY 2006,28,Pentecostalist,17,302
+From: 21 Feb 2006,To: 21 Feb 2006,Vietnam,FY 2006,30,Buddhist,6,302
+From: 21 Feb 2006,To: 21 Feb 2006,Vietnam,FY 2006,30,Catholic,17,302
+From: 21 Feb 2006,To: 21 Feb 2006,Vietnam,FY 2006,30,Christian,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Vietnam,FY 2006,30,Other Religion,3,302
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Feb 2006,To: 21 Feb 2006,Ancestral Worship,FY 2006,24,Laos,24,302
+From: 21 Feb 2006,To: 21 Feb 2006,Baptist,FY 2006,10,Russia,2,302
+From: 21 Feb 2006,To: 21 Feb 2006,Baptist,FY 2006,10,Ukraine,8,302
+From: 21 Feb 2006,To: 21 Feb 2006,Buddhist,FY 2006,6,Vietnam,6,302
+From: 21 Feb 2006,To: 21 Feb 2006,Catholic,FY 2006,22,Cameroon,1,302
+From: 21 Feb 2006,To: 21 Feb 2006,Catholic,FY 2006,22,Sudan,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Catholic,FY 2006,22,Vietnam,17,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Cameroon,13,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Ethiopia,1,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Laos,9,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Liberia,18,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Sierra Leone,3,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Sudan,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Christian,FY 2006,52,Vietnam,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Jewish,FY 2006,9,Russia,6,302
+From: 21 Feb 2006,To: 21 Feb 2006,Jewish,FY 2006,9,Ukraine,3,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Burundi,1,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Ethiopia,4,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Iraq,2,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Liberia,21,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Sierra Leone,20,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Somalia,91,302
+From: 21 Feb 2006,To: 21 Feb 2006,Moslem,FY 2006,153,Sudan,14,302
+From: 21 Feb 2006,To: 21 Feb 2006,Other Religion,FY 2006,3,Vietnam,3,302
+From: 21 Feb 2006,To: 21 Feb 2006,Pentecostalist,FY 2006,17,Ukraine,17,302
+From: 21 Feb 2006,To: 21 Feb 2006,Protestant,FY 2006,6,Sudan,6,302
+

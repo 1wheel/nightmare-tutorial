@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Feb 2010,To: 23 Feb 2010,Bhutan,FY 2010,142,Buddhist,10,349
+From: 23 Feb 2010,To: 23 Feb 2010,Bhutan,FY 2010,142,Christian,4,349
+From: 23 Feb 2010,To: 23 Feb 2010,Bhutan,FY 2010,142,Hindu,128,349
+From: 23 Feb 2010,To: 23 Feb 2010,Burma,FY 2010,90,Baptist,7,349
+From: 23 Feb 2010,To: 23 Feb 2010,Burma,FY 2010,90,Buddhist,11,349
+From: 23 Feb 2010,To: 23 Feb 2010,Burma,FY 2010,90,Christian,68,349
+From: 23 Feb 2010,To: 23 Feb 2010,Burma,FY 2010,90,Moslem,4,349
+From: 23 Feb 2010,To: 23 Feb 2010,China,FY 2010,1,Other Religion,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Colombia,FY 2010,4,Catholic,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Colombia,FY 2010,4,Christian,3,349
+From: 23 Feb 2010,To: 23 Feb 2010,Congo,FY 2010,2,Protestant,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Congo,FY 2010,2,Unknown,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Dem. Rep. Congo,FY 2010,28,Catholic,19,349
+From: 23 Feb 2010,To: 23 Feb 2010,Dem. Rep. Congo,FY 2010,28,Christian,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Dem. Rep. Congo,FY 2010,28,Jehovah Witness,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Dem. Rep. Congo,FY 2010,28,Lutheran,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Dem. Rep. Congo,FY 2010,28,Methodist,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Dem. Rep. Congo,FY 2010,28,Pentecostalist,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Iran,FY 2010,5,Christian,5,349
+From: 23 Feb 2010,To: 23 Feb 2010,Iraq,FY 2010,2,Moslem,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Palestine,FY 2010,61,Moslem Suni,61,349
+From: 23 Feb 2010,To: 23 Feb 2010,Rwanda,FY 2010,1,Unknown,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Ukraine,FY 2010,12,Baptist,3,349
+From: 23 Feb 2010,To: 23 Feb 2010,Ukraine,FY 2010,12,Pentecostalist,9,349
+From: 23 Feb 2010,To: 23 Feb 2010,Uzbekistan,FY 2010,1,Seventh Day Adventist,1,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Feb 2010,To: 23 Feb 2010,Baptist,FY 2010,10,Burma,7,349
+From: 23 Feb 2010,To: 23 Feb 2010,Baptist,FY 2010,10,Ukraine,3,349
+From: 23 Feb 2010,To: 23 Feb 2010,Buddhist,FY 2010,21,Bhutan,10,349
+From: 23 Feb 2010,To: 23 Feb 2010,Buddhist,FY 2010,21,Burma,11,349
+From: 23 Feb 2010,To: 23 Feb 2010,Catholic,FY 2010,20,Colombia,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Catholic,FY 2010,20,Dem. Rep. Congo,19,349
+From: 23 Feb 2010,To: 23 Feb 2010,Christian,FY 2010,81,Bhutan,4,349
+From: 23 Feb 2010,To: 23 Feb 2010,Christian,FY 2010,81,Burma,68,349
+From: 23 Feb 2010,To: 23 Feb 2010,Christian,FY 2010,81,Colombia,3,349
+From: 23 Feb 2010,To: 23 Feb 2010,Christian,FY 2010,81,Dem. Rep. Congo,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Christian,FY 2010,81,Iran,5,349
+From: 23 Feb 2010,To: 23 Feb 2010,Hindu,FY 2010,128,Bhutan,128,349
+From: 23 Feb 2010,To: 23 Feb 2010,Jehovah Witness,FY 2010,2,Dem. Rep. Congo,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Lutheran,FY 2010,2,Dem. Rep. Congo,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Methodist,FY 2010,2,Dem. Rep. Congo,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Moslem,FY 2010,6,Burma,4,349
+From: 23 Feb 2010,To: 23 Feb 2010,Moslem,FY 2010,6,Iraq,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Moslem Suni,FY 2010,61,Palestine,61,349
+From: 23 Feb 2010,To: 23 Feb 2010,Other Religion,FY 2010,1,China,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Pentecostalist,FY 2010,11,Dem. Rep. Congo,2,349
+From: 23 Feb 2010,To: 23 Feb 2010,Pentecostalist,FY 2010,11,Ukraine,9,349
+From: 23 Feb 2010,To: 23 Feb 2010,Protestant,FY 2010,1,Congo,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Seventh Day Adventist,FY 2010,1,Uzbekistan,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Unknown,FY 2010,2,Congo,1,349
+From: 23 Feb 2010,To: 23 Feb 2010,Unknown,FY 2010,2,Rwanda,1,349
+

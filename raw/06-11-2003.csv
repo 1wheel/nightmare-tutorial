@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Jun 2003,To: 11 Jun 2003,Afghanistan,FY 2003,22,Moslem,1,224
+From: 11 Jun 2003,To: 11 Jun 2003,Afghanistan,FY 2003,22,Moslem Shiite,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Afghanistan,FY 2003,22,Moslem Suni,17,224
+From: 11 Jun 2003,To: 11 Jun 2003,Azerbaijan,FY 2003,3,Jewish,3,224
+From: 11 Jun 2003,To: 11 Jun 2003,Belarus,FY 2003,19,Evangelical Christian,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Belarus,FY 2003,19,Pentecostalist,14,224
+From: 11 Jun 2003,To: 11 Jun 2003,Belarus,FY 2003,19,Unknown,1,224
+From: 11 Jun 2003,To: 11 Jun 2003,Cuba,FY 2003,18,Catholic,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Cuba,FY 2003,18,Christian,1,224
+From: 11 Jun 2003,To: 11 Jun 2003,Cuba,FY 2003,18,Jehovah Witness,10,224
+From: 11 Jun 2003,To: 11 Jun 2003,Cuba,FY 2003,18,No Religion,3,224
+From: 11 Jun 2003,To: 11 Jun 2003,Liberia,FY 2003,35,Christian,31,224
+From: 11 Jun 2003,To: 11 Jun 2003,Liberia,FY 2003,35,Methodist,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Serbia,FY 2003,20,Orthodox,20,224
+From: 11 Jun 2003,To: 11 Jun 2003,Sierra Leone,FY 2003,35,Christian,13,224
+From: 11 Jun 2003,To: 11 Jun 2003,Sierra Leone,FY 2003,35,Moslem,20,224
+From: 11 Jun 2003,To: 11 Jun 2003,Sierra Leone,FY 2003,35,Pentecostalist,2,224
+From: 11 Jun 2003,To: 11 Jun 2003,Somalia,FY 2003,72,Moslem,72,224
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Jun 2003,To: 11 Jun 2003,Catholic,FY 2003,4,Cuba,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Christian,FY 2003,45,Cuba,1,224
+From: 11 Jun 2003,To: 11 Jun 2003,Christian,FY 2003,45,Liberia,31,224
+From: 11 Jun 2003,To: 11 Jun 2003,Christian,FY 2003,45,Sierra Leone,13,224
+From: 11 Jun 2003,To: 11 Jun 2003,Evangelical Christian,FY 2003,4,Belarus,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Jehovah Witness,FY 2003,10,Cuba,10,224
+From: 11 Jun 2003,To: 11 Jun 2003,Jewish,FY 2003,3,Azerbaijan,3,224
+From: 11 Jun 2003,To: 11 Jun 2003,Methodist,FY 2003,4,Liberia,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Moslem,FY 2003,93,Afghanistan,1,224
+From: 11 Jun 2003,To: 11 Jun 2003,Moslem,FY 2003,93,Sierra Leone,20,224
+From: 11 Jun 2003,To: 11 Jun 2003,Moslem,FY 2003,93,Somalia,72,224
+From: 11 Jun 2003,To: 11 Jun 2003,Moslem Shiite,FY 2003,4,Afghanistan,4,224
+From: 11 Jun 2003,To: 11 Jun 2003,Moslem Suni,FY 2003,17,Afghanistan,17,224
+From: 11 Jun 2003,To: 11 Jun 2003,No Religion,FY 2003,3,Cuba,3,224
+From: 11 Jun 2003,To: 11 Jun 2003,Orthodox,FY 2003,20,Serbia,20,224
+From: 11 Jun 2003,To: 11 Jun 2003,Pentecostalist,FY 2003,16,Belarus,14,224
+From: 11 Jun 2003,To: 11 Jun 2003,Pentecostalist,FY 2003,16,Sierra Leone,2,224
+From: 11 Jun 2003,To: 11 Jun 2003,Unknown,FY 2003,1,Belarus,1,224
+

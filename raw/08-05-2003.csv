@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Aug 2003,To: 05 Aug 2003,Azerbaijan,FY 2003,3,Jewish,3,145
+From: 05 Aug 2003,To: 05 Aug 2003,Bosnia and Herzegovina,FY 2003,2,Orthodox,2,145
+From: 05 Aug 2003,To: 05 Aug 2003,Croatia,FY 2003,1,Orthodox,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Iran,FY 2003,1,Christian,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Russia,FY 2003,18,Atheist,3,145
+From: 05 Aug 2003,To: 05 Aug 2003,Russia,FY 2003,18,Baptist,5,145
+From: 05 Aug 2003,To: 05 Aug 2003,Russia,FY 2003,18,Jewish,4,145
+From: 05 Aug 2003,To: 05 Aug 2003,Russia,FY 2003,18,No Religion,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Russia,FY 2003,18,Seventh Day Adventist,3,145
+From: 05 Aug 2003,To: 05 Aug 2003,Russia,FY 2003,18,Unknown,2,145
+From: 05 Aug 2003,To: 05 Aug 2003,Serbia,FY 2003,7,Orthodox,7,145
+From: 05 Aug 2003,To: 05 Aug 2003,Somalia,FY 2003,35,Moslem,35,145
+From: 05 Aug 2003,To: 05 Aug 2003,Sudan,FY 2003,43,Catholic,12,145
+From: 05 Aug 2003,To: 05 Aug 2003,Sudan,FY 2003,43,Christian,9,145
+From: 05 Aug 2003,To: 05 Aug 2003,Sudan,FY 2003,43,Moslem,14,145
+From: 05 Aug 2003,To: 05 Aug 2003,Sudan,FY 2003,43,Protestant,7,145
+From: 05 Aug 2003,To: 05 Aug 2003,Sudan,FY 2003,43,Unknown,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Ukraine,FY 2003,35,Baptist,28,145
+From: 05 Aug 2003,To: 05 Aug 2003,Ukraine,FY 2003,35,Jewish,2,145
+From: 05 Aug 2003,To: 05 Aug 2003,Ukraine,FY 2003,35,No Religion,4,145
+From: 05 Aug 2003,To: 05 Aug 2003,Ukraine,FY 2003,35,Pentecostalist,1,145
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Aug 2003,To: 05 Aug 2003,Atheist,FY 2003,3,Russia,3,145
+From: 05 Aug 2003,To: 05 Aug 2003,Baptist,FY 2003,33,Russia,5,145
+From: 05 Aug 2003,To: 05 Aug 2003,Baptist,FY 2003,33,Ukraine,28,145
+From: 05 Aug 2003,To: 05 Aug 2003,Catholic,FY 2003,12,Sudan,12,145
+From: 05 Aug 2003,To: 05 Aug 2003,Christian,FY 2003,10,Iran,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Christian,FY 2003,10,Sudan,9,145
+From: 05 Aug 2003,To: 05 Aug 2003,Jewish,FY 2003,9,Azerbaijan,3,145
+From: 05 Aug 2003,To: 05 Aug 2003,Jewish,FY 2003,9,Russia,4,145
+From: 05 Aug 2003,To: 05 Aug 2003,Jewish,FY 2003,9,Ukraine,2,145
+From: 05 Aug 2003,To: 05 Aug 2003,Moslem,FY 2003,49,Somalia,35,145
+From: 05 Aug 2003,To: 05 Aug 2003,Moslem,FY 2003,49,Sudan,14,145
+From: 05 Aug 2003,To: 05 Aug 2003,No Religion,FY 2003,5,Russia,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,No Religion,FY 2003,5,Ukraine,4,145
+From: 05 Aug 2003,To: 05 Aug 2003,Orthodox,FY 2003,10,Bosnia and Herzegovina,2,145
+From: 05 Aug 2003,To: 05 Aug 2003,Orthodox,FY 2003,10,Croatia,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Orthodox,FY 2003,10,Serbia,7,145
+From: 05 Aug 2003,To: 05 Aug 2003,Pentecostalist,FY 2003,1,Ukraine,1,145
+From: 05 Aug 2003,To: 05 Aug 2003,Protestant,FY 2003,7,Sudan,7,145
+From: 05 Aug 2003,To: 05 Aug 2003,Seventh Day Adventist,FY 2003,3,Russia,3,145
+From: 05 Aug 2003,To: 05 Aug 2003,Unknown,FY 2003,3,Russia,2,145
+From: 05 Aug 2003,To: 05 Aug 2003,Unknown,FY 2003,3,Sudan,1,145
+

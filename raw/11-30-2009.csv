@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Nov 2009,To: 30 Nov 2009,Bhutan,FY 2010,99,Buddhist,10,255
+From: 30 Nov 2009,To: 30 Nov 2009,Bhutan,FY 2010,99,Christian,4,255
+From: 30 Nov 2009,To: 30 Nov 2009,Bhutan,FY 2010,99,Hindu,82,255
+From: 30 Nov 2009,To: 30 Nov 2009,Bhutan,FY 2010,99,Kirat,3,255
+From: 30 Nov 2009,To: 30 Nov 2009,Burma,FY 2010,88,Animist,6,255
+From: 30 Nov 2009,To: 30 Nov 2009,Burma,FY 2010,88,Baptist,2,255
+From: 30 Nov 2009,To: 30 Nov 2009,Burma,FY 2010,88,Buddhist,4,255
+From: 30 Nov 2009,To: 30 Nov 2009,Burma,FY 2010,88,Catholic,5,255
+From: 30 Nov 2009,To: 30 Nov 2009,Burma,FY 2010,88,Christian,65,255
+From: 30 Nov 2009,To: 30 Nov 2009,Burma,FY 2010,88,Moslem,6,255
+From: 30 Nov 2009,To: 30 Nov 2009,Egypt,FY 2010,2,Coptic,2,255
+From: 30 Nov 2009,To: 30 Nov 2009,Iraq,FY 2010,37,Christian,9,255
+From: 30 Nov 2009,To: 30 Nov 2009,Iraq,FY 2010,37,Moslem Shiite,18,255
+From: 30 Nov 2009,To: 30 Nov 2009,Iraq,FY 2010,37,Moslem Suni,9,255
+From: 30 Nov 2009,To: 30 Nov 2009,Iraq,FY 2010,37,Sabeans-Mandean,1,255
+From: 30 Nov 2009,To: 30 Nov 2009,Kazakhstan,FY 2010,5,Baptist,5,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moldova,FY 2010,17,Baptist,8,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moldova,FY 2010,17,Jehovah Witness,7,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moldova,FY 2010,17,Jewish,2,255
+From: 30 Nov 2009,To: 30 Nov 2009,Uzbekistan,FY 2010,7,Atheist,4,255
+From: 30 Nov 2009,To: 30 Nov 2009,Uzbekistan,FY 2010,7,Moslem,3,255
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Nov 2009,To: 30 Nov 2009,Animist,FY 2010,6,Burma,6,255
+From: 30 Nov 2009,To: 30 Nov 2009,Atheist,FY 2010,4,Uzbekistan,4,255
+From: 30 Nov 2009,To: 30 Nov 2009,Baptist,FY 2010,15,Burma,2,255
+From: 30 Nov 2009,To: 30 Nov 2009,Baptist,FY 2010,15,Kazakhstan,5,255
+From: 30 Nov 2009,To: 30 Nov 2009,Baptist,FY 2010,15,Moldova,8,255
+From: 30 Nov 2009,To: 30 Nov 2009,Buddhist,FY 2010,14,Bhutan,10,255
+From: 30 Nov 2009,To: 30 Nov 2009,Buddhist,FY 2010,14,Burma,4,255
+From: 30 Nov 2009,To: 30 Nov 2009,Catholic,FY 2010,5,Burma,5,255
+From: 30 Nov 2009,To: 30 Nov 2009,Christian,FY 2010,78,Bhutan,4,255
+From: 30 Nov 2009,To: 30 Nov 2009,Christian,FY 2010,78,Burma,65,255
+From: 30 Nov 2009,To: 30 Nov 2009,Christian,FY 2010,78,Iraq,9,255
+From: 30 Nov 2009,To: 30 Nov 2009,Coptic,FY 2010,2,Egypt,2,255
+From: 30 Nov 2009,To: 30 Nov 2009,Hindu,FY 2010,82,Bhutan,82,255
+From: 30 Nov 2009,To: 30 Nov 2009,Jehovah Witness,FY 2010,7,Moldova,7,255
+From: 30 Nov 2009,To: 30 Nov 2009,Jewish,FY 2010,2,Moldova,2,255
+From: 30 Nov 2009,To: 30 Nov 2009,Kirat,FY 2010,3,Bhutan,3,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moslem,FY 2010,9,Burma,6,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moslem,FY 2010,9,Uzbekistan,3,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moslem Shiite,FY 2010,18,Iraq,18,255
+From: 30 Nov 2009,To: 30 Nov 2009,Moslem Suni,FY 2010,9,Iraq,9,255
+From: 30 Nov 2009,To: 30 Nov 2009,Sabeans-Mandean,FY 2010,1,Iraq,1,255
+

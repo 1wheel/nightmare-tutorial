@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Nov 2015,To: 16 Nov 2015,Armenia,FY 2016,5,Pentecostalist,5,153
+From: 16 Nov 2015,To: 16 Nov 2015,Burma,FY 2016,7,Christian,7,153
+From: 16 Nov 2015,To: 16 Nov 2015,Dem. Rep. Congo,FY 2016,61,Christian,20,153
+From: 16 Nov 2015,To: 16 Nov 2015,Dem. Rep. Congo,FY 2016,61,Pentecostalist,39,153
+From: 16 Nov 2015,To: 16 Nov 2015,Dem. Rep. Congo,FY 2016,61,Protestant,2,153
+From: 16 Nov 2015,To: 16 Nov 2015,Ethiopia,FY 2016,5,Moslem,4,153
+From: 16 Nov 2015,To: 16 Nov 2015,Ethiopia,FY 2016,5,Protestant,1,153
+From: 16 Nov 2015,To: 16 Nov 2015,Iraq,FY 2016,21,Catholic,3,153
+From: 16 Nov 2015,To: 16 Nov 2015,Iraq,FY 2016,21,Moslem,1,153
+From: 16 Nov 2015,To: 16 Nov 2015,Iraq,FY 2016,21,Moslem Shiite,12,153
+From: 16 Nov 2015,To: 16 Nov 2015,Iraq,FY 2016,21,Moslem Suni,5,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moldova,FY 2016,9,Baptist,5,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moldova,FY 2016,9,Seventh Day Adventist,4,153
+From: 16 Nov 2015,To: 16 Nov 2015,Somalia,FY 2016,13,Moslem,13,153
+From: 16 Nov 2015,To: 16 Nov 2015,Sudan,FY 2016,12,Moslem,11,153
+From: 16 Nov 2015,To: 16 Nov 2015,Sudan,FY 2016,12,Moslem Suni,1,153
+From: 16 Nov 2015,To: 16 Nov 2015,Syria,FY 2016,20,Moslem Suni,20,153
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Nov 2015,To: 16 Nov 2015,Baptist,FY 2016,5,Moldova,5,153
+From: 16 Nov 2015,To: 16 Nov 2015,Catholic,FY 2016,3,Iraq,3,153
+From: 16 Nov 2015,To: 16 Nov 2015,Christian,FY 2016,27,Burma,7,153
+From: 16 Nov 2015,To: 16 Nov 2015,Christian,FY 2016,27,Dem. Rep. Congo,20,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem,FY 2016,29,Ethiopia,4,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem,FY 2016,29,Iraq,1,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem,FY 2016,29,Somalia,13,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem,FY 2016,29,Sudan,11,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem Shiite,FY 2016,12,Iraq,12,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem Suni,FY 2016,26,Iraq,5,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem Suni,FY 2016,26,Sudan,1,153
+From: 16 Nov 2015,To: 16 Nov 2015,Moslem Suni,FY 2016,26,Syria,20,153
+From: 16 Nov 2015,To: 16 Nov 2015,Pentecostalist,FY 2016,44,Armenia,5,153
+From: 16 Nov 2015,To: 16 Nov 2015,Pentecostalist,FY 2016,44,Dem. Rep. Congo,39,153
+From: 16 Nov 2015,To: 16 Nov 2015,Protestant,FY 2016,3,Dem. Rep. Congo,2,153
+From: 16 Nov 2015,To: 16 Nov 2015,Protestant,FY 2016,3,Ethiopia,1,153
+From: 16 Nov 2015,To: 16 Nov 2015,Seventh Day Adventist,FY 2016,4,Moldova,4,153
+

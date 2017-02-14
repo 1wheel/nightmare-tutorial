@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Aug 2003,To: 07 Aug 2003,Afghanistan,FY 2003,1,Moslem,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Ethiopia,FY 2003,12,Christian,9,265
+From: 07 Aug 2003,To: 07 Aug 2003,Ethiopia,FY 2003,12,Moslem,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Ethiopia,FY 2003,12,Orthodox,2,265
+From: 07 Aug 2003,To: 07 Aug 2003,Iran,FY 2003,24,Bahai,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Iran,FY 2003,24,Christian,8,265
+From: 07 Aug 2003,To: 07 Aug 2003,Iran,FY 2003,24,Jewish,12,265
+From: 07 Aug 2003,To: 07 Aug 2003,Liberia,FY 2003,45,Catholic,7,265
+From: 07 Aug 2003,To: 07 Aug 2003,Liberia,FY 2003,45,Christian,38,265
+From: 07 Aug 2003,To: 07 Aug 2003,Russia,FY 2003,20,Baptist,6,265
+From: 07 Aug 2003,To: 07 Aug 2003,Russia,FY 2003,20,Jewish,6,265
+From: 07 Aug 2003,To: 07 Aug 2003,Russia,FY 2003,20,Pentecostalist,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Russia,FY 2003,20,Unknown,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sierra Leone,FY 2003,9,Methodist,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sierra Leone,FY 2003,9,Moslem,6,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sierra Leone,FY 2003,9,Pentecostalist,2,265
+From: 07 Aug 2003,To: 07 Aug 2003,Somalia,FY 2003,34,Moslem,34,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sudan,FY 2003,34,Catholic,25,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sudan,FY 2003,34,Christian,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sudan,FY 2003,34,Moslem,2,265
+From: 07 Aug 2003,To: 07 Aug 2003,Sudan,FY 2003,34,Protestant,3,265
+From: 07 Aug 2003,To: 07 Aug 2003,Ukraine,FY 2003,35,Baptist,14,265
+From: 07 Aug 2003,To: 07 Aug 2003,Ukraine,FY 2003,35,Pentecostalist,18,265
+From: 07 Aug 2003,To: 07 Aug 2003,Ukraine,FY 2003,35,Uniate,3,265
+From: 07 Aug 2003,To: 07 Aug 2003,Vietnam,FY 2003,51,Ancestral Worship,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Vietnam,FY 2003,51,Catholic,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Vietnam,FY 2003,51,No Religion,19,265
+From: 07 Aug 2003,To: 07 Aug 2003,Vietnam,FY 2003,51,Unknown,30,265
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Aug 2003,To: 07 Aug 2003,Ancestral Worship,FY 2003,1,Vietnam,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Bahai,FY 2003,4,Iran,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Baptist,FY 2003,20,Russia,6,265
+From: 07 Aug 2003,To: 07 Aug 2003,Baptist,FY 2003,20,Ukraine,14,265
+From: 07 Aug 2003,To: 07 Aug 2003,Catholic,FY 2003,33,Liberia,7,265
+From: 07 Aug 2003,To: 07 Aug 2003,Catholic,FY 2003,33,Sudan,25,265
+From: 07 Aug 2003,To: 07 Aug 2003,Catholic,FY 2003,33,Vietnam,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Christian,FY 2003,59,Ethiopia,9,265
+From: 07 Aug 2003,To: 07 Aug 2003,Christian,FY 2003,59,Iran,8,265
+From: 07 Aug 2003,To: 07 Aug 2003,Christian,FY 2003,59,Liberia,38,265
+From: 07 Aug 2003,To: 07 Aug 2003,Christian,FY 2003,59,Sudan,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Jewish,FY 2003,18,Iran,12,265
+From: 07 Aug 2003,To: 07 Aug 2003,Jewish,FY 2003,18,Russia,6,265
+From: 07 Aug 2003,To: 07 Aug 2003,Methodist,FY 2003,1,Sierra Leone,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Moslem,FY 2003,44,Afghanistan,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Moslem,FY 2003,44,Ethiopia,1,265
+From: 07 Aug 2003,To: 07 Aug 2003,Moslem,FY 2003,44,Sierra Leone,6,265
+From: 07 Aug 2003,To: 07 Aug 2003,Moslem,FY 2003,44,Somalia,34,265
+From: 07 Aug 2003,To: 07 Aug 2003,Moslem,FY 2003,44,Sudan,2,265
+From: 07 Aug 2003,To: 07 Aug 2003,No Religion,FY 2003,19,Vietnam,19,265
+From: 07 Aug 2003,To: 07 Aug 2003,Orthodox,FY 2003,2,Ethiopia,2,265
+From: 07 Aug 2003,To: 07 Aug 2003,Pentecostalist,FY 2003,24,Russia,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Pentecostalist,FY 2003,24,Sierra Leone,2,265
+From: 07 Aug 2003,To: 07 Aug 2003,Pentecostalist,FY 2003,24,Ukraine,18,265
+From: 07 Aug 2003,To: 07 Aug 2003,Protestant,FY 2003,3,Sudan,3,265
+From: 07 Aug 2003,To: 07 Aug 2003,Uniate,FY 2003,3,Ukraine,3,265
+From: 07 Aug 2003,To: 07 Aug 2003,Unknown,FY 2003,34,Russia,4,265
+From: 07 Aug 2003,To: 07 Aug 2003,Unknown,FY 2003,34,Vietnam,30,265
+

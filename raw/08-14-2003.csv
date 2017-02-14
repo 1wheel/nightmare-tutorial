@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Aug 2003,To: 14 Aug 2003,Russia,FY 2003,34,Baptist,7,124
+From: 14 Aug 2003,To: 14 Aug 2003,Russia,FY 2003,34,Jewish,4,124
+From: 14 Aug 2003,To: 14 Aug 2003,Russia,FY 2003,34,Pentecostalist,19,124
+From: 14 Aug 2003,To: 14 Aug 2003,Russia,FY 2003,34,Seventh Day Adventist,4,124
+From: 14 Aug 2003,To: 14 Aug 2003,Sudan,FY 2003,35,Catholic,14,124
+From: 14 Aug 2003,To: 14 Aug 2003,Sudan,FY 2003,35,Evangelical Christian,1,124
+From: 14 Aug 2003,To: 14 Aug 2003,Sudan,FY 2003,35,Moslem,17,124
+From: 14 Aug 2003,To: 14 Aug 2003,Sudan,FY 2003,35,Protestant,3,124
+From: 14 Aug 2003,To: 14 Aug 2003,Ukraine,FY 2003,23,Baptist,9,124
+From: 14 Aug 2003,To: 14 Aug 2003,Ukraine,FY 2003,23,Jewish,3,124
+From: 14 Aug 2003,To: 14 Aug 2003,Ukraine,FY 2003,23,Pentecostalist,11,124
+From: 14 Aug 2003,To: 14 Aug 2003,Vietnam,FY 2003,32,Buddhist,10,124
+From: 14 Aug 2003,To: 14 Aug 2003,Vietnam,FY 2003,32,Catholic,12,124
+From: 14 Aug 2003,To: 14 Aug 2003,Vietnam,FY 2003,32,No Religion,4,124
+From: 14 Aug 2003,To: 14 Aug 2003,Vietnam,FY 2003,32,Unknown,6,124
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Aug 2003,To: 14 Aug 2003,Baptist,FY 2003,16,Russia,7,124
+From: 14 Aug 2003,To: 14 Aug 2003,Baptist,FY 2003,16,Ukraine,9,124
+From: 14 Aug 2003,To: 14 Aug 2003,Buddhist,FY 2003,10,Vietnam,10,124
+From: 14 Aug 2003,To: 14 Aug 2003,Catholic,FY 2003,26,Sudan,14,124
+From: 14 Aug 2003,To: 14 Aug 2003,Catholic,FY 2003,26,Vietnam,12,124
+From: 14 Aug 2003,To: 14 Aug 2003,Evangelical Christian,FY 2003,1,Sudan,1,124
+From: 14 Aug 2003,To: 14 Aug 2003,Jewish,FY 2003,7,Russia,4,124
+From: 14 Aug 2003,To: 14 Aug 2003,Jewish,FY 2003,7,Ukraine,3,124
+From: 14 Aug 2003,To: 14 Aug 2003,Moslem,FY 2003,17,Sudan,17,124
+From: 14 Aug 2003,To: 14 Aug 2003,No Religion,FY 2003,4,Vietnam,4,124
+From: 14 Aug 2003,To: 14 Aug 2003,Pentecostalist,FY 2003,30,Russia,19,124
+From: 14 Aug 2003,To: 14 Aug 2003,Pentecostalist,FY 2003,30,Ukraine,11,124
+From: 14 Aug 2003,To: 14 Aug 2003,Protestant,FY 2003,3,Sudan,3,124
+From: 14 Aug 2003,To: 14 Aug 2003,Seventh Day Adventist,FY 2003,4,Russia,4,124
+From: 14 Aug 2003,To: 14 Aug 2003,Unknown,FY 2003,6,Vietnam,6,124
+

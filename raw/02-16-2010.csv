@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Feb 2010,To: 16 Feb 2010,Afghanistan,FY 2010,8,Moslem Shiite,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Afghanistan,FY 2010,8,Moslem Suni,7,366
+From: 16 Feb 2010,To: 16 Feb 2010,Bhutan,FY 2010,101,Buddhist,17,366
+From: 16 Feb 2010,To: 16 Feb 2010,Bhutan,FY 2010,101,Christian,10,366
+From: 16 Feb 2010,To: 16 Feb 2010,Bhutan,FY 2010,101,Hindu,65,366
+From: 16 Feb 2010,To: 16 Feb 2010,Bhutan,FY 2010,101,Kirat,9,366
+From: 16 Feb 2010,To: 16 Feb 2010,Burma,FY 2010,59,Animist,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Burma,FY 2010,59,Buddhist,13,366
+From: 16 Feb 2010,To: 16 Feb 2010,Burma,FY 2010,59,Catholic,21,366
+From: 16 Feb 2010,To: 16 Feb 2010,Burma,FY 2010,59,Christian,10,366
+From: 16 Feb 2010,To: 16 Feb 2010,Burma,FY 2010,59,Moslem,12,366
+From: 16 Feb 2010,To: 16 Feb 2010,Cameroon,FY 2010,2,Unknown,2,366
+From: 16 Feb 2010,To: 16 Feb 2010,Central African Republic,FY 2010,2,Unknown,2,366
+From: 16 Feb 2010,To: 16 Feb 2010,China,FY 2010,6,Other Religion,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,China,FY 2010,6,Protestant,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Cuba,FY 2010,48,Catholic,11,366
+From: 16 Feb 2010,To: 16 Feb 2010,Cuba,FY 2010,48,Jehovah Witness,15,366
+From: 16 Feb 2010,To: 16 Feb 2010,Cuba,FY 2010,48,No Religion,18,366
+From: 16 Feb 2010,To: 16 Feb 2010,Cuba,FY 2010,48,Pentecostalist,4,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Catholic,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Chaldean,4,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Christian,14,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Moslem,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Moslem Shiite,49,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Moslem Suni,53,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Orthodox,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Iraq,FY 2010,128,Sabeans-Mandean,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Sudan,FY 2010,3,Moslem Suni,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Thailand,FY 2010,1,Moslem,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Uganda,FY 2010,1,Moslem,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Ukraine,FY 2010,7,Baptist,4,366
+From: 16 Feb 2010,To: 16 Feb 2010,Ukraine,FY 2010,7,Pentecostalist,3,366
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Feb 2010,To: 16 Feb 2010,Animist,FY 2010,3,Burma,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Baptist,FY 2010,4,Ukraine,4,366
+From: 16 Feb 2010,To: 16 Feb 2010,Buddhist,FY 2010,30,Bhutan,17,366
+From: 16 Feb 2010,To: 16 Feb 2010,Buddhist,FY 2010,30,Burma,13,366
+From: 16 Feb 2010,To: 16 Feb 2010,Catholic,FY 2010,33,Burma,21,366
+From: 16 Feb 2010,To: 16 Feb 2010,Catholic,FY 2010,33,Cuba,11,366
+From: 16 Feb 2010,To: 16 Feb 2010,Catholic,FY 2010,33,Iraq,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Chaldean,FY 2010,4,Iraq,4,366
+From: 16 Feb 2010,To: 16 Feb 2010,Christian,FY 2010,34,Bhutan,10,366
+From: 16 Feb 2010,To: 16 Feb 2010,Christian,FY 2010,34,Burma,10,366
+From: 16 Feb 2010,To: 16 Feb 2010,Christian,FY 2010,34,Iraq,14,366
+From: 16 Feb 2010,To: 16 Feb 2010,Hindu,FY 2010,65,Bhutan,65,366
+From: 16 Feb 2010,To: 16 Feb 2010,Jehovah Witness,FY 2010,15,Cuba,15,366
+From: 16 Feb 2010,To: 16 Feb 2010,Kirat,FY 2010,9,Bhutan,9,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem,FY 2010,15,Burma,12,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem,FY 2010,15,Iraq,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem,FY 2010,15,Thailand,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem,FY 2010,15,Uganda,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem Shiite,FY 2010,50,Afghanistan,1,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem Shiite,FY 2010,50,Iraq,49,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem Suni,FY 2010,63,Afghanistan,7,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem Suni,FY 2010,63,Iraq,53,366
+From: 16 Feb 2010,To: 16 Feb 2010,Moslem Suni,FY 2010,63,Sudan,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,No Religion,FY 2010,18,Cuba,18,366
+From: 16 Feb 2010,To: 16 Feb 2010,Orthodox,FY 2010,3,Iraq,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Other Religion,FY 2010,3,China,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Pentecostalist,FY 2010,7,Cuba,4,366
+From: 16 Feb 2010,To: 16 Feb 2010,Pentecostalist,FY 2010,7,Ukraine,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Protestant,FY 2010,3,China,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Sabeans-Mandean,FY 2010,3,Iraq,3,366
+From: 16 Feb 2010,To: 16 Feb 2010,Unknown,FY 2010,4,Cameroon,2,366
+From: 16 Feb 2010,To: 16 Feb 2010,Unknown,FY 2010,4,Central African Republic,2,366
+

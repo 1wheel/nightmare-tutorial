@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Aug 2004,To: 30 Aug 2004,Colombia,FY 2004,25,Atheist,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Colombia,FY 2004,25,Catholic,21,142
+From: 30 Aug 2004,To: 30 Aug 2004,Colombia,FY 2004,25,Christian,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Colombia,FY 2004,25,Jehovah Witness,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Colombia,FY 2004,25,Protestant,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Haiti,FY 2004,6,Catholic,6,142
+From: 30 Aug 2004,To: 30 Aug 2004,Laos,FY 2004,70,Ancestral Worship,67,142
+From: 30 Aug 2004,To: 30 Aug 2004,Laos,FY 2004,70,Christian,3,142
+From: 30 Aug 2004,To: 30 Aug 2004,Sierra Leone,FY 2004,1,Protestant,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Somalia,FY 2004,35,Moslem,35,142
+From: 30 Aug 2004,To: 30 Aug 2004,Vietnam,FY 2004,5,Protestant,5,142
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Aug 2004,To: 30 Aug 2004,Ancestral Worship,FY 2004,67,Laos,67,142
+From: 30 Aug 2004,To: 30 Aug 2004,Atheist,FY 2004,1,Colombia,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Catholic,FY 2004,27,Colombia,21,142
+From: 30 Aug 2004,To: 30 Aug 2004,Catholic,FY 2004,27,Haiti,6,142
+From: 30 Aug 2004,To: 30 Aug 2004,Christian,FY 2004,4,Colombia,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Christian,FY 2004,4,Laos,3,142
+From: 30 Aug 2004,To: 30 Aug 2004,Jehovah Witness,FY 2004,1,Colombia,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Moslem,FY 2004,35,Somalia,35,142
+From: 30 Aug 2004,To: 30 Aug 2004,Protestant,FY 2004,7,Colombia,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Protestant,FY 2004,7,Sierra Leone,1,142
+From: 30 Aug 2004,To: 30 Aug 2004,Protestant,FY 2004,7,Vietnam,5,142
+

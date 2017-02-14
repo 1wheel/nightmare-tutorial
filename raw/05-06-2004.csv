@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 May 2004,To: 06 May 2004,Azerbaijan,FY 2004,1,Unknown,1,204
+From: 06 May 2004,To: 06 May 2004,Belarus,FY 2004,17,Atheist,2,204
+From: 06 May 2004,To: 06 May 2004,Belarus,FY 2004,17,Baptist,2,204
+From: 06 May 2004,To: 06 May 2004,Belarus,FY 2004,17,Pentecostalist,12,204
+From: 06 May 2004,To: 06 May 2004,Belarus,FY 2004,17,Seventh Day Adventist,1,204
+From: 06 May 2004,To: 06 May 2004,Burundi,FY 2004,35,Catholic,12,204
+From: 06 May 2004,To: 06 May 2004,Burundi,FY 2004,35,Christian,19,204
+From: 06 May 2004,To: 06 May 2004,Burundi,FY 2004,35,Moslem,4,204
+From: 06 May 2004,To: 06 May 2004,Dem. Rep. Congo,FY 2004,69,Catholic,5,204
+From: 06 May 2004,To: 06 May 2004,Dem. Rep. Congo,FY 2004,69,Christian,56,204
+From: 06 May 2004,To: 06 May 2004,Dem. Rep. Congo,FY 2004,69,Methodist,8,204
+From: 06 May 2004,To: 06 May 2004,Liberia,FY 2004,77,Baptist,1,204
+From: 06 May 2004,To: 06 May 2004,Liberia,FY 2004,77,Catholic,3,204
+From: 06 May 2004,To: 06 May 2004,Liberia,FY 2004,77,Christian,59,204
+From: 06 May 2004,To: 06 May 2004,Liberia,FY 2004,77,Jehovah Witness,1,204
+From: 06 May 2004,To: 06 May 2004,Liberia,FY 2004,77,Lutheran,8,204
+From: 06 May 2004,To: 06 May 2004,Liberia,FY 2004,77,Other Religion,5,204
+From: 06 May 2004,To: 06 May 2004,Russia,FY 2004,5,Jewish,5,204
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 May 2004,To: 06 May 2004,Atheist,FY 2004,2,Belarus,2,204
+From: 06 May 2004,To: 06 May 2004,Baptist,FY 2004,3,Belarus,2,204
+From: 06 May 2004,To: 06 May 2004,Baptist,FY 2004,3,Liberia,1,204
+From: 06 May 2004,To: 06 May 2004,Catholic,FY 2004,20,Burundi,12,204
+From: 06 May 2004,To: 06 May 2004,Catholic,FY 2004,20,Dem. Rep. Congo,5,204
+From: 06 May 2004,To: 06 May 2004,Catholic,FY 2004,20,Liberia,3,204
+From: 06 May 2004,To: 06 May 2004,Christian,FY 2004,134,Burundi,19,204
+From: 06 May 2004,To: 06 May 2004,Christian,FY 2004,134,Dem. Rep. Congo,56,204
+From: 06 May 2004,To: 06 May 2004,Christian,FY 2004,134,Liberia,59,204
+From: 06 May 2004,To: 06 May 2004,Jehovah Witness,FY 2004,1,Liberia,1,204
+From: 06 May 2004,To: 06 May 2004,Jewish,FY 2004,5,Russia,5,204
+From: 06 May 2004,To: 06 May 2004,Lutheran,FY 2004,8,Liberia,8,204
+From: 06 May 2004,To: 06 May 2004,Methodist,FY 2004,8,Dem. Rep. Congo,8,204
+From: 06 May 2004,To: 06 May 2004,Moslem,FY 2004,4,Burundi,4,204
+From: 06 May 2004,To: 06 May 2004,Other Religion,FY 2004,5,Liberia,5,204
+From: 06 May 2004,To: 06 May 2004,Pentecostalist,FY 2004,12,Belarus,12,204
+From: 06 May 2004,To: 06 May 2004,Seventh Day Adventist,FY 2004,1,Belarus,1,204
+From: 06 May 2004,To: 06 May 2004,Unknown,FY 2004,1,Azerbaijan,1,204
+

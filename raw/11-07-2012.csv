@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Nov 2012,To: 07 Nov 2012,Bhutan,FY 2013,131,Buddhist,37,628
+From: 07 Nov 2012,To: 07 Nov 2012,Bhutan,FY 2013,131,Christian,28,628
+From: 07 Nov 2012,To: 07 Nov 2012,Bhutan,FY 2013,131,Hindu,36,628
+From: 07 Nov 2012,To: 07 Nov 2012,Bhutan,FY 2013,131,Kirat,30,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Animist,5,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Baptist,21,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Buddhist,37,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Catholic,11,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Christian,118,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Evangelical Christian,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Burma,FY 2013,225,Moslem,32,628
+From: 07 Nov 2012,To: 07 Nov 2012,Congo,FY 2013,1,Protestant,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Cuba,FY 2013,65,Baptist,4,628
+From: 07 Nov 2012,To: 07 Nov 2012,Cuba,FY 2013,65,Catholic,20,628
+From: 07 Nov 2012,To: 07 Nov 2012,Cuba,FY 2013,65,Evangelical Christian,9,628
+From: 07 Nov 2012,To: 07 Nov 2012,Cuba,FY 2013,65,Jehovah Witness,4,628
+From: 07 Nov 2012,To: 07 Nov 2012,Cuba,FY 2013,65,No Religion,27,628
+From: 07 Nov 2012,To: 07 Nov 2012,Cuba,FY 2013,65,Other Religion,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Dem. Rep. Congo,FY 2013,60,Catholic,9,628
+From: 07 Nov 2012,To: 07 Nov 2012,Dem. Rep. Congo,FY 2013,60,Christian,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Dem. Rep. Congo,FY 2013,60,Pentecostalist,26,628
+From: 07 Nov 2012,To: 07 Nov 2012,Dem. Rep. Congo,FY 2013,60,Seventh Day Adventist,24,628
+From: 07 Nov 2012,To: 07 Nov 2012,Eritrea,FY 2013,29,Catholic,8,628
+From: 07 Nov 2012,To: 07 Nov 2012,Eritrea,FY 2013,29,Moslem,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Eritrea,FY 2013,29,Orthodox,20,628
+From: 07 Nov 2012,To: 07 Nov 2012,Ethiopia,FY 2013,4,Moslem,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Ethiopia,FY 2013,4,Orthodox,3,628
+From: 07 Nov 2012,To: 07 Nov 2012,Iran,FY 2013,35,Bahai,2,628
+From: 07 Nov 2012,To: 07 Nov 2012,Iran,FY 2013,35,Christian,31,628
+From: 07 Nov 2012,To: 07 Nov 2012,Iran,FY 2013,35,Zoroastrian,2,628
+From: 07 Nov 2012,To: 07 Nov 2012,Iraq,FY 2013,24,Catholic,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Iraq,FY 2013,24,Moslem,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Iraq,FY 2013,24,Moslem Suni,22,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moldova,FY 2013,12,Baptist,12,628
+From: 07 Nov 2012,To: 07 Nov 2012,Somalia,FY 2013,41,Moslem,39,628
+From: 07 Nov 2012,To: 07 Nov 2012,Somalia,FY 2013,41,Moslem Suni,2,628
+From: 07 Nov 2012,To: 07 Nov 2012,Sudan,FY 2013,1,Moslem,1,628
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Nov 2012,To: 07 Nov 2012,Animist,FY 2013,5,Burma,5,628
+From: 07 Nov 2012,To: 07 Nov 2012,Bahai,FY 2013,2,Iran,2,628
+From: 07 Nov 2012,To: 07 Nov 2012,Baptist,FY 2013,37,Burma,21,628
+From: 07 Nov 2012,To: 07 Nov 2012,Baptist,FY 2013,37,Cuba,4,628
+From: 07 Nov 2012,To: 07 Nov 2012,Baptist,FY 2013,37,Moldova,12,628
+From: 07 Nov 2012,To: 07 Nov 2012,Buddhist,FY 2013,74,Bhutan,37,628
+From: 07 Nov 2012,To: 07 Nov 2012,Buddhist,FY 2013,74,Burma,37,628
+From: 07 Nov 2012,To: 07 Nov 2012,Catholic,FY 2013,49,Burma,11,628
+From: 07 Nov 2012,To: 07 Nov 2012,Catholic,FY 2013,49,Cuba,20,628
+From: 07 Nov 2012,To: 07 Nov 2012,Catholic,FY 2013,49,Dem. Rep. Congo,9,628
+From: 07 Nov 2012,To: 07 Nov 2012,Catholic,FY 2013,49,Eritrea,8,628
+From: 07 Nov 2012,To: 07 Nov 2012,Catholic,FY 2013,49,Iraq,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Christian,FY 2013,178,Bhutan,28,628
+From: 07 Nov 2012,To: 07 Nov 2012,Christian,FY 2013,178,Burma,118,628
+From: 07 Nov 2012,To: 07 Nov 2012,Christian,FY 2013,178,Dem. Rep. Congo,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Christian,FY 2013,178,Iran,31,628
+From: 07 Nov 2012,To: 07 Nov 2012,Evangelical Christian,FY 2013,10,Burma,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Evangelical Christian,FY 2013,10,Cuba,9,628
+From: 07 Nov 2012,To: 07 Nov 2012,Hindu,FY 2013,36,Bhutan,36,628
+From: 07 Nov 2012,To: 07 Nov 2012,Jehovah Witness,FY 2013,4,Cuba,4,628
+From: 07 Nov 2012,To: 07 Nov 2012,Kirat,FY 2013,30,Bhutan,30,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem,FY 2013,75,Burma,32,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem,FY 2013,75,Eritrea,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem,FY 2013,75,Ethiopia,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem,FY 2013,75,Iraq,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem,FY 2013,75,Somalia,39,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem,FY 2013,75,Sudan,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem Suni,FY 2013,24,Iraq,22,628
+From: 07 Nov 2012,To: 07 Nov 2012,Moslem Suni,FY 2013,24,Somalia,2,628
+From: 07 Nov 2012,To: 07 Nov 2012,No Religion,FY 2013,27,Cuba,27,628
+From: 07 Nov 2012,To: 07 Nov 2012,Orthodox,FY 2013,23,Eritrea,20,628
+From: 07 Nov 2012,To: 07 Nov 2012,Orthodox,FY 2013,23,Ethiopia,3,628
+From: 07 Nov 2012,To: 07 Nov 2012,Other Religion,FY 2013,1,Cuba,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Pentecostalist,FY 2013,26,Dem. Rep. Congo,26,628
+From: 07 Nov 2012,To: 07 Nov 2012,Protestant,FY 2013,1,Congo,1,628
+From: 07 Nov 2012,To: 07 Nov 2012,Seventh Day Adventist,FY 2013,24,Dem. Rep. Congo,24,628
+From: 07 Nov 2012,To: 07 Nov 2012,Zoroastrian,FY 2013,2,Iran,2,628
+

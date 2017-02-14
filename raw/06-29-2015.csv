@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jun 2015,To: 29 Jun 2015,Afghanistan,FY 2015,9,Moslem Shiite,8,136
+From: 29 Jun 2015,To: 29 Jun 2015,Afghanistan,FY 2015,9,Moslem Suni,1,136
+From: 29 Jun 2015,To: 29 Jun 2015,Dem. Rep. Congo,FY 2015,56,Jehovah Witness,12,136
+From: 29 Jun 2015,To: 29 Jun 2015,Dem. Rep. Congo,FY 2015,56,Methodist,8,136
+From: 29 Jun 2015,To: 29 Jun 2015,Dem. Rep. Congo,FY 2015,56,Protestant,36,136
+From: 29 Jun 2015,To: 29 Jun 2015,Ethiopia,FY 2015,5,Christian,5,136
+From: 29 Jun 2015,To: 29 Jun 2015,Iran,FY 2015,5,Moslem Shiite,4,136
+From: 29 Jun 2015,To: 29 Jun 2015,Iran,FY 2015,5,Protestant,1,136
+From: 29 Jun 2015,To: 29 Jun 2015,Iraq,FY 2015,27,Catholic,8,136
+From: 29 Jun 2015,To: 29 Jun 2015,Iraq,FY 2015,27,Moslem Shiite,7,136
+From: 29 Jun 2015,To: 29 Jun 2015,Iraq,FY 2015,27,Moslem Suni,10,136
+From: 29 Jun 2015,To: 29 Jun 2015,Iraq,FY 2015,27,Yazidi,2,136
+From: 29 Jun 2015,To: 29 Jun 2015,Somalia,FY 2015,13,Moslem,13,136
+From: 29 Jun 2015,To: 29 Jun 2015,Sudan,FY 2015,11,Christian,9,136
+From: 29 Jun 2015,To: 29 Jun 2015,Sudan,FY 2015,11,Moslem,2,136
+From: 29 Jun 2015,To: 29 Jun 2015,Syria,FY 2015,10,Moslem Suni,10,136
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jun 2015,To: 29 Jun 2015,Catholic,FY 2015,8,Iraq,8,136
+From: 29 Jun 2015,To: 29 Jun 2015,Christian,FY 2015,14,Ethiopia,5,136
+From: 29 Jun 2015,To: 29 Jun 2015,Christian,FY 2015,14,Sudan,9,136
+From: 29 Jun 2015,To: 29 Jun 2015,Jehovah Witness,FY 2015,12,Dem. Rep. Congo,12,136
+From: 29 Jun 2015,To: 29 Jun 2015,Methodist,FY 2015,8,Dem. Rep. Congo,8,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem,FY 2015,15,Somalia,13,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem,FY 2015,15,Sudan,2,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem Shiite,FY 2015,19,Afghanistan,8,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem Shiite,FY 2015,19,Iran,4,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem Shiite,FY 2015,19,Iraq,7,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem Suni,FY 2015,21,Afghanistan,1,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem Suni,FY 2015,21,Iraq,10,136
+From: 29 Jun 2015,To: 29 Jun 2015,Moslem Suni,FY 2015,21,Syria,10,136
+From: 29 Jun 2015,To: 29 Jun 2015,Protestant,FY 2015,37,Dem. Rep. Congo,36,136
+From: 29 Jun 2015,To: 29 Jun 2015,Protestant,FY 2015,37,Iran,1,136
+From: 29 Jun 2015,To: 29 Jun 2015,Yazidi,FY 2015,2,Iraq,2,136
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Sep 2009,To: 01 Sep 2009,Afghanistan,FY 2009,4,Moslem Suni,4,383
+From: 01 Sep 2009,To: 01 Sep 2009,Bhutan,FY 2009,70,Buddhist,13,383
+From: 01 Sep 2009,To: 01 Sep 2009,Bhutan,FY 2009,70,Hindu,53,383
+From: 01 Sep 2009,To: 01 Sep 2009,Bhutan,FY 2009,70,Kirat,4,383
+From: 01 Sep 2009,To: 01 Sep 2009,Burma,FY 2009,88,Baptist,6,383
+From: 01 Sep 2009,To: 01 Sep 2009,Burma,FY 2009,88,Buddhist,12,383
+From: 01 Sep 2009,To: 01 Sep 2009,Burma,FY 2009,88,Catholic,6,383
+From: 01 Sep 2009,To: 01 Sep 2009,Burma,FY 2009,88,Christian,64,383
+From: 01 Sep 2009,To: 01 Sep 2009,Burundi,FY 2009,21,Methodist,10,383
+From: 01 Sep 2009,To: 01 Sep 2009,Burundi,FY 2009,21,Pentecostalist,11,383
+From: 01 Sep 2009,To: 01 Sep 2009,Central African Republic,FY 2009,24,Catholic,2,383
+From: 01 Sep 2009,To: 01 Sep 2009,Central African Republic,FY 2009,24,Christian,5,383
+From: 01 Sep 2009,To: 01 Sep 2009,Central African Republic,FY 2009,24,Moslem,17,383
+From: 01 Sep 2009,To: 01 Sep 2009,Dem. Rep. Congo,FY 2009,9,Catholic,2,383
+From: 01 Sep 2009,To: 01 Sep 2009,Dem. Rep. Congo,FY 2009,9,Pentecostalist,7,383
+From: 01 Sep 2009,To: 01 Sep 2009,Eritrea,FY 2009,59,Catholic,8,383
+From: 01 Sep 2009,To: 01 Sep 2009,Eritrea,FY 2009,59,Orthodox,38,383
+From: 01 Sep 2009,To: 01 Sep 2009,Eritrea,FY 2009,59,Pentecostalist,3,383
+From: 01 Sep 2009,To: 01 Sep 2009,Eritrea,FY 2009,59,Protestant,10,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iran,FY 2009,37,Christian,35,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iran,FY 2009,37,Moslem Shiite,2,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iraq,FY 2009,62,Catholic,4,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iraq,FY 2009,62,Christian,17,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iraq,FY 2009,62,Moslem Shiite,5,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iraq,FY 2009,62,Moslem Suni,33,383
+From: 01 Sep 2009,To: 01 Sep 2009,Iraq,FY 2009,62,Sabeans-Mandean,3,383
+From: 01 Sep 2009,To: 01 Sep 2009,Somalia,FY 2009,9,Catholic,1,383
+From: 01 Sep 2009,To: 01 Sep 2009,Somalia,FY 2009,9,Moslem,8,383
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Sep 2009,To: 01 Sep 2009,Baptist,FY 2009,6,Burma,6,383
+From: 01 Sep 2009,To: 01 Sep 2009,Buddhist,FY 2009,25,Bhutan,13,383
+From: 01 Sep 2009,To: 01 Sep 2009,Buddhist,FY 2009,25,Burma,12,383
+From: 01 Sep 2009,To: 01 Sep 2009,Catholic,FY 2009,23,Burma,6,383
+From: 01 Sep 2009,To: 01 Sep 2009,Catholic,FY 2009,23,Central African Republic,2,383
+From: 01 Sep 2009,To: 01 Sep 2009,Catholic,FY 2009,23,Dem. Rep. Congo,2,383
+From: 01 Sep 2009,To: 01 Sep 2009,Catholic,FY 2009,23,Eritrea,8,383
+From: 01 Sep 2009,To: 01 Sep 2009,Catholic,FY 2009,23,Iraq,4,383
+From: 01 Sep 2009,To: 01 Sep 2009,Catholic,FY 2009,23,Somalia,1,383
+From: 01 Sep 2009,To: 01 Sep 2009,Christian,FY 2009,121,Burma,64,383
+From: 01 Sep 2009,To: 01 Sep 2009,Christian,FY 2009,121,Central African Republic,5,383
+From: 01 Sep 2009,To: 01 Sep 2009,Christian,FY 2009,121,Iran,35,383
+From: 01 Sep 2009,To: 01 Sep 2009,Christian,FY 2009,121,Iraq,17,383
+From: 01 Sep 2009,To: 01 Sep 2009,Hindu,FY 2009,53,Bhutan,53,383
+From: 01 Sep 2009,To: 01 Sep 2009,Kirat,FY 2009,4,Bhutan,4,383
+From: 01 Sep 2009,To: 01 Sep 2009,Methodist,FY 2009,10,Burundi,10,383
+From: 01 Sep 2009,To: 01 Sep 2009,Moslem,FY 2009,25,Central African Republic,17,383
+From: 01 Sep 2009,To: 01 Sep 2009,Moslem,FY 2009,25,Somalia,8,383
+From: 01 Sep 2009,To: 01 Sep 2009,Moslem Shiite,FY 2009,7,Iran,2,383
+From: 01 Sep 2009,To: 01 Sep 2009,Moslem Shiite,FY 2009,7,Iraq,5,383
+From: 01 Sep 2009,To: 01 Sep 2009,Moslem Suni,FY 2009,37,Afghanistan,4,383
+From: 01 Sep 2009,To: 01 Sep 2009,Moslem Suni,FY 2009,37,Iraq,33,383
+From: 01 Sep 2009,To: 01 Sep 2009,Orthodox,FY 2009,38,Eritrea,38,383
+From: 01 Sep 2009,To: 01 Sep 2009,Pentecostalist,FY 2009,21,Burundi,11,383
+From: 01 Sep 2009,To: 01 Sep 2009,Pentecostalist,FY 2009,21,Dem. Rep. Congo,7,383
+From: 01 Sep 2009,To: 01 Sep 2009,Pentecostalist,FY 2009,21,Eritrea,3,383
+From: 01 Sep 2009,To: 01 Sep 2009,Protestant,FY 2009,10,Eritrea,10,383
+From: 01 Sep 2009,To: 01 Sep 2009,Sabeans-Mandean,FY 2009,3,Iraq,3,383
+

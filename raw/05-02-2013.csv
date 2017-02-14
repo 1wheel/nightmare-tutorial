@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 May 2013,To: 02 May 2013,Bhutan,FY 2013,101,Buddhist,28,340
+From: 02 May 2013,To: 02 May 2013,Bhutan,FY 2013,101,Christian,11,340
+From: 02 May 2013,To: 02 May 2013,Bhutan,FY 2013,101,Hindu,31,340
+From: 02 May 2013,To: 02 May 2013,Bhutan,FY 2013,101,Kirat,31,340
+From: 02 May 2013,To: 02 May 2013,Burma,FY 2013,48,Baptist,5,340
+From: 02 May 2013,To: 02 May 2013,Burma,FY 2013,48,Buddhist,7,340
+From: 02 May 2013,To: 02 May 2013,Burma,FY 2013,48,Christian,33,340
+From: 02 May 2013,To: 02 May 2013,Burma,FY 2013,48,Seventh Day Adventist,3,340
+From: 02 May 2013,To: 02 May 2013,Eritrea,FY 2013,27,Catholic,1,340
+From: 02 May 2013,To: 02 May 2013,Eritrea,FY 2013,27,Moslem,2,340
+From: 02 May 2013,To: 02 May 2013,Eritrea,FY 2013,27,Orthodox,20,340
+From: 02 May 2013,To: 02 May 2013,Eritrea,FY 2013,27,Pentecostalist,4,340
+From: 02 May 2013,To: 02 May 2013,Iran,FY 2013,14,Bahai,2,340
+From: 02 May 2013,To: 02 May 2013,Iran,FY 2013,14,Christian,8,340
+From: 02 May 2013,To: 02 May 2013,Iran,FY 2013,14,Jewish,2,340
+From: 02 May 2013,To: 02 May 2013,Iran,FY 2013,14,Zoroastrian,2,340
+From: 02 May 2013,To: 02 May 2013,Iraq,FY 2013,100,Catholic,12,340
+From: 02 May 2013,To: 02 May 2013,Iraq,FY 2013,100,Christian,1,340
+From: 02 May 2013,To: 02 May 2013,Iraq,FY 2013,100,Moslem Shiite,42,340
+From: 02 May 2013,To: 02 May 2013,Iraq,FY 2013,100,Moslem Suni,42,340
+From: 02 May 2013,To: 02 May 2013,Iraq,FY 2013,100,Yazidi,3,340
+From: 02 May 2013,To: 02 May 2013,Somalia,FY 2013,45,Moslem,35,340
+From: 02 May 2013,To: 02 May 2013,Somalia,FY 2013,45,Moslem Suni,10,340
+From: 02 May 2013,To: 02 May 2013,Sudan,FY 2013,5,Moslem,2,340
+From: 02 May 2013,To: 02 May 2013,Sudan,FY 2013,5,Moslem Suni,3,340
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 May 2013,To: 02 May 2013,Bahai,FY 2013,2,Iran,2,340
+From: 02 May 2013,To: 02 May 2013,Baptist,FY 2013,5,Burma,5,340
+From: 02 May 2013,To: 02 May 2013,Buddhist,FY 2013,35,Bhutan,28,340
+From: 02 May 2013,To: 02 May 2013,Buddhist,FY 2013,35,Burma,7,340
+From: 02 May 2013,To: 02 May 2013,Catholic,FY 2013,13,Eritrea,1,340
+From: 02 May 2013,To: 02 May 2013,Catholic,FY 2013,13,Iraq,12,340
+From: 02 May 2013,To: 02 May 2013,Christian,FY 2013,53,Bhutan,11,340
+From: 02 May 2013,To: 02 May 2013,Christian,FY 2013,53,Burma,33,340
+From: 02 May 2013,To: 02 May 2013,Christian,FY 2013,53,Iran,8,340
+From: 02 May 2013,To: 02 May 2013,Christian,FY 2013,53,Iraq,1,340
+From: 02 May 2013,To: 02 May 2013,Hindu,FY 2013,31,Bhutan,31,340
+From: 02 May 2013,To: 02 May 2013,Jewish,FY 2013,2,Iran,2,340
+From: 02 May 2013,To: 02 May 2013,Kirat,FY 2013,31,Bhutan,31,340
+From: 02 May 2013,To: 02 May 2013,Moslem,FY 2013,39,Eritrea,2,340
+From: 02 May 2013,To: 02 May 2013,Moslem,FY 2013,39,Somalia,35,340
+From: 02 May 2013,To: 02 May 2013,Moslem,FY 2013,39,Sudan,2,340
+From: 02 May 2013,To: 02 May 2013,Moslem Shiite,FY 2013,42,Iraq,42,340
+From: 02 May 2013,To: 02 May 2013,Moslem Suni,FY 2013,55,Iraq,42,340
+From: 02 May 2013,To: 02 May 2013,Moslem Suni,FY 2013,55,Somalia,10,340
+From: 02 May 2013,To: 02 May 2013,Moslem Suni,FY 2013,55,Sudan,3,340
+From: 02 May 2013,To: 02 May 2013,Orthodox,FY 2013,20,Eritrea,20,340
+From: 02 May 2013,To: 02 May 2013,Pentecostalist,FY 2013,4,Eritrea,4,340
+From: 02 May 2013,To: 02 May 2013,Seventh Day Adventist,FY 2013,3,Burma,3,340
+From: 02 May 2013,To: 02 May 2013,Yazidi,FY 2013,3,Iraq,3,340
+From: 02 May 2013,To: 02 May 2013,Zoroastrian,FY 2013,2,Iran,2,340
+

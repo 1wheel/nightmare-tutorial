@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2010,To: 28 Jun 2010,Burma,FY 2010,90,Baptist,3,193
+From: 28 Jun 2010,To: 28 Jun 2010,Burma,FY 2010,90,Buddhist,18,193
+From: 28 Jun 2010,To: 28 Jun 2010,Burma,FY 2010,90,Catholic,7,193
+From: 28 Jun 2010,To: 28 Jun 2010,Burma,FY 2010,90,Christian,61,193
+From: 28 Jun 2010,To: 28 Jun 2010,Burma,FY 2010,90,Hindu,1,193
+From: 28 Jun 2010,To: 28 Jun 2010,Ethiopia,FY 2010,2,Orthodox,2,193
+From: 28 Jun 2010,To: 28 Jun 2010,Iraq,FY 2010,83,Christian,26,193
+From: 28 Jun 2010,To: 28 Jun 2010,Iraq,FY 2010,83,Moslem Shiite,17,193
+From: 28 Jun 2010,To: 28 Jun 2010,Iraq,FY 2010,83,Moslem Suni,38,193
+From: 28 Jun 2010,To: 28 Jun 2010,Iraq,FY 2010,83,Sabeans-Mandean,2,193
+From: 28 Jun 2010,To: 28 Jun 2010,Ivory Coast,FY 2010,3,Moslem,3,193
+From: 28 Jun 2010,To: 28 Jun 2010,Mauritania,FY 2010,3,Moslem,3,193
+From: 28 Jun 2010,To: 28 Jun 2010,Nigeria,FY 2010,1,Christian,1,193
+From: 28 Jun 2010,To: 28 Jun 2010,Rwanda,FY 2010,2,Methodist,2,193
+From: 28 Jun 2010,To: 28 Jun 2010,Somalia,FY 2010,5,Moslem,4,193
+From: 28 Jun 2010,To: 28 Jun 2010,Somalia,FY 2010,5,Moslem Suni,1,193
+From: 28 Jun 2010,To: 28 Jun 2010,Sudan,FY 2010,4,Moslem,4,193
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2010,To: 28 Jun 2010,Baptist,FY 2010,3,Burma,3,193
+From: 28 Jun 2010,To: 28 Jun 2010,Buddhist,FY 2010,18,Burma,18,193
+From: 28 Jun 2010,To: 28 Jun 2010,Catholic,FY 2010,7,Burma,7,193
+From: 28 Jun 2010,To: 28 Jun 2010,Christian,FY 2010,88,Burma,61,193
+From: 28 Jun 2010,To: 28 Jun 2010,Christian,FY 2010,88,Iraq,26,193
+From: 28 Jun 2010,To: 28 Jun 2010,Christian,FY 2010,88,Nigeria,1,193
+From: 28 Jun 2010,To: 28 Jun 2010,Hindu,FY 2010,1,Burma,1,193
+From: 28 Jun 2010,To: 28 Jun 2010,Methodist,FY 2010,2,Rwanda,2,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem,FY 2010,14,Ivory Coast,3,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem,FY 2010,14,Mauritania,3,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem,FY 2010,14,Somalia,4,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem,FY 2010,14,Sudan,4,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem Shiite,FY 2010,17,Iraq,17,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem Suni,FY 2010,39,Iraq,38,193
+From: 28 Jun 2010,To: 28 Jun 2010,Moslem Suni,FY 2010,39,Somalia,1,193
+From: 28 Jun 2010,To: 28 Jun 2010,Orthodox,FY 2010,2,Ethiopia,2,193
+From: 28 Jun 2010,To: 28 Jun 2010,Sabeans-Mandean,FY 2010,2,Iraq,2,193
+

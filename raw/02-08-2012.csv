@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Feb 2012,To: 08 Feb 2012,Bhutan,FY 2012,105,Buddhist,22,377
+From: 08 Feb 2012,To: 08 Feb 2012,Bhutan,FY 2012,105,Christian,11,377
+From: 08 Feb 2012,To: 08 Feb 2012,Bhutan,FY 2012,105,Hindu,66,377
+From: 08 Feb 2012,To: 08 Feb 2012,Bhutan,FY 2012,105,Kirat,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Burma,FY 2012,178,Baptist,19,377
+From: 08 Feb 2012,To: 08 Feb 2012,Burma,FY 2012,178,Buddhist,29,377
+From: 08 Feb 2012,To: 08 Feb 2012,Burma,FY 2012,178,Catholic,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Burma,FY 2012,178,Christian,99,377
+From: 08 Feb 2012,To: 08 Feb 2012,Burma,FY 2012,178,Moslem,25,377
+From: 08 Feb 2012,To: 08 Feb 2012,Burundi,FY 2012,1,Catholic,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Dem. Rep. Congo,FY 2012,7,Other Religion,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Dem. Rep. Congo,FY 2012,7,Protestant,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Eritrea,FY 2012,19,Catholic,7,377
+From: 08 Feb 2012,To: 08 Feb 2012,Eritrea,FY 2012,19,Orthodox,12,377
+From: 08 Feb 2012,To: 08 Feb 2012,Iraq,FY 2012,13,Catholic,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Iraq,FY 2012,13,Christian,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Iraq,FY 2012,13,Moslem Shiite,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Iraq,FY 2012,13,Moslem Suni,5,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moldova,FY 2012,23,Baptist,8,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moldova,FY 2012,23,Jehovah Witness,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moldova,FY 2012,23,Pentecostalist,9,377
+From: 08 Feb 2012,To: 08 Feb 2012,Nepal,FY 2012,5,Christian,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Nepal,FY 2012,5,Hindu,4,377
+From: 08 Feb 2012,To: 08 Feb 2012,Pakistan,FY 2012,4,Moslem,4,377
+From: 08 Feb 2012,To: 08 Feb 2012,Rwanda,FY 2012,11,Christian,11,377
+From: 08 Feb 2012,To: 08 Feb 2012,Somalia,FY 2012,9,Moslem,7,377
+From: 08 Feb 2012,To: 08 Feb 2012,Somalia,FY 2012,9,Moslem Suni,2,377
+From: 08 Feb 2012,To: 08 Feb 2012,Sudan,FY 2012,2,Moslem,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Sudan,FY 2012,2,Moslem Suni,1,377
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Feb 2012,To: 08 Feb 2012,Baptist,FY 2012,27,Burma,19,377
+From: 08 Feb 2012,To: 08 Feb 2012,Baptist,FY 2012,27,Moldova,8,377
+From: 08 Feb 2012,To: 08 Feb 2012,Buddhist,FY 2012,51,Bhutan,22,377
+From: 08 Feb 2012,To: 08 Feb 2012,Buddhist,FY 2012,51,Burma,29,377
+From: 08 Feb 2012,To: 08 Feb 2012,Catholic,FY 2012,20,Burma,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Catholic,FY 2012,20,Burundi,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Catholic,FY 2012,20,Eritrea,7,377
+From: 08 Feb 2012,To: 08 Feb 2012,Catholic,FY 2012,20,Iraq,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Christian,FY 2012,123,Bhutan,11,377
+From: 08 Feb 2012,To: 08 Feb 2012,Christian,FY 2012,123,Burma,99,377
+From: 08 Feb 2012,To: 08 Feb 2012,Christian,FY 2012,123,Iraq,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Christian,FY 2012,123,Nepal,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Christian,FY 2012,123,Rwanda,11,377
+From: 08 Feb 2012,To: 08 Feb 2012,Hindu,FY 2012,70,Bhutan,66,377
+From: 08 Feb 2012,To: 08 Feb 2012,Hindu,FY 2012,70,Nepal,4,377
+From: 08 Feb 2012,To: 08 Feb 2012,Jehovah Witness,FY 2012,6,Moldova,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Kirat,FY 2012,6,Bhutan,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem,FY 2012,37,Burma,25,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem,FY 2012,37,Pakistan,4,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem,FY 2012,37,Somalia,7,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem,FY 2012,37,Sudan,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem Shiite,FY 2012,1,Iraq,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem Suni,FY 2012,8,Iraq,5,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem Suni,FY 2012,8,Somalia,2,377
+From: 08 Feb 2012,To: 08 Feb 2012,Moslem Suni,FY 2012,8,Sudan,1,377
+From: 08 Feb 2012,To: 08 Feb 2012,Orthodox,FY 2012,12,Eritrea,12,377
+From: 08 Feb 2012,To: 08 Feb 2012,Other Religion,FY 2012,6,Dem. Rep. Congo,6,377
+From: 08 Feb 2012,To: 08 Feb 2012,Pentecostalist,FY 2012,9,Moldova,9,377
+From: 08 Feb 2012,To: 08 Feb 2012,Protestant,FY 2012,1,Dem. Rep. Congo,1,377
+

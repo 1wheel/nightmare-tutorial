@@ -1,0 +1,101 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Apr 2010,To: 13 Apr 2010,Afghanistan,FY 2010,1,Moslem,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Bhutan,FY 2010,178,Buddhist,25,720
+From: 13 Apr 2010,To: 13 Apr 2010,Bhutan,FY 2010,178,Christian,21,720
+From: 13 Apr 2010,To: 13 Apr 2010,Bhutan,FY 2010,178,Hindu,129,720
+From: 13 Apr 2010,To: 13 Apr 2010,Bhutan,FY 2010,178,Kirat,3,720
+From: 13 Apr 2010,To: 13 Apr 2010,Burma,FY 2010,66,Baptist,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Burma,FY 2010,66,Buddhist,3,720
+From: 13 Apr 2010,To: 13 Apr 2010,Burma,FY 2010,66,Catholic,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Burma,FY 2010,66,Christian,51,720
+From: 13 Apr 2010,To: 13 Apr 2010,Burundi,FY 2010,5,Catholic,5,720
+From: 13 Apr 2010,To: 13 Apr 2010,China,FY 2010,2,Moslem,2,720
+From: 13 Apr 2010,To: 13 Apr 2010,Cuba,FY 2010,70,Catholic,29,720
+From: 13 Apr 2010,To: 13 Apr 2010,Cuba,FY 2010,70,Jehovah Witness,14,720
+From: 13 Apr 2010,To: 13 Apr 2010,Cuba,FY 2010,70,No Religion,20,720
+From: 13 Apr 2010,To: 13 Apr 2010,Cuba,FY 2010,70,Pentecostalist,7,720
+From: 13 Apr 2010,To: 13 Apr 2010,Dem. Rep. Congo,FY 2010,29,Catholic,8,720
+From: 13 Apr 2010,To: 13 Apr 2010,Dem. Rep. Congo,FY 2010,29,Christian,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Dem. Rep. Congo,FY 2010,29,Methodist,8,720
+From: 13 Apr 2010,To: 13 Apr 2010,Dem. Rep. Congo,FY 2010,29,Pentecostalist,3,720
+From: 13 Apr 2010,To: 13 Apr 2010,Dem. Rep. Congo,FY 2010,29,Protestant,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Eritrea,FY 2010,37,Catholic,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Eritrea,FY 2010,37,Christian,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Eritrea,FY 2010,37,Moslem,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Eritrea,FY 2010,37,Orthodox,14,720
+From: 13 Apr 2010,To: 13 Apr 2010,Eritrea,FY 2010,37,Pentecostalist,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Eritrea,FY 2010,37,Protestant,16,720
+From: 13 Apr 2010,To: 13 Apr 2010,Ethiopia,FY 2010,6,Moslem,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iran,FY 2010,75,Bahai,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iran,FY 2010,75,Christian,53,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iran,FY 2010,75,Moslem Shiite,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iran,FY 2010,75,Sabeans-Mandean,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iran,FY 2010,75,Zoroastrian,11,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Atheist,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Catholic,15,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Chaldean,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Christian,19,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Moslem,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Moslem Shiite,58,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Moslem Suni,65,720
+From: 13 Apr 2010,To: 13 Apr 2010,Iraq,FY 2010,178,Orthodox,10,720
+From: 13 Apr 2010,To: 13 Apr 2010,Somalia,FY 2010,38,Moslem,38,720
+From: 13 Apr 2010,To: 13 Apr 2010,Sudan,FY 2010,25,Catholic,8,720
+From: 13 Apr 2010,To: 13 Apr 2010,Sudan,FY 2010,25,Moslem,15,720
+From: 13 Apr 2010,To: 13 Apr 2010,Sudan,FY 2010,25,Orthodox,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Sudan,FY 2010,25,Unknown,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Vietnam,FY 2010,10,Other Religion,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Vietnam,FY 2010,10,Unknown,4,720
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Apr 2010,To: 13 Apr 2010,Atheist,FY 2010,1,Iraq,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Bahai,FY 2010,6,Iran,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Baptist,FY 2010,6,Burma,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Buddhist,FY 2010,28,Bhutan,25,720
+From: 13 Apr 2010,To: 13 Apr 2010,Buddhist,FY 2010,28,Burma,3,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Burma,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Burundi,5,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Cuba,29,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Dem. Rep. Congo,8,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Eritrea,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Iraq,15,720
+From: 13 Apr 2010,To: 13 Apr 2010,Catholic,FY 2010,75,Sudan,8,720
+From: 13 Apr 2010,To: 13 Apr 2010,Chaldean,FY 2010,4,Iraq,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Christian,FY 2010,149,Bhutan,21,720
+From: 13 Apr 2010,To: 13 Apr 2010,Christian,FY 2010,149,Burma,51,720
+From: 13 Apr 2010,To: 13 Apr 2010,Christian,FY 2010,149,Dem. Rep. Congo,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Christian,FY 2010,149,Eritrea,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Christian,FY 2010,149,Iran,53,720
+From: 13 Apr 2010,To: 13 Apr 2010,Christian,FY 2010,149,Iraq,19,720
+From: 13 Apr 2010,To: 13 Apr 2010,Hindu,FY 2010,129,Bhutan,129,720
+From: 13 Apr 2010,To: 13 Apr 2010,Jehovah Witness,FY 2010,14,Cuba,14,720
+From: 13 Apr 2010,To: 13 Apr 2010,Kirat,FY 2010,3,Bhutan,3,720
+From: 13 Apr 2010,To: 13 Apr 2010,Methodist,FY 2010,8,Dem. Rep. Congo,8,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,Afghanistan,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,China,2,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,Eritrea,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,Ethiopia,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,Iraq,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,Somalia,38,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem,FY 2010,69,Sudan,15,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem Shiite,FY 2010,59,Iran,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem Shiite,FY 2010,59,Iraq,58,720
+From: 13 Apr 2010,To: 13 Apr 2010,Moslem Suni,FY 2010,65,Iraq,65,720
+From: 13 Apr 2010,To: 13 Apr 2010,No Religion,FY 2010,20,Cuba,20,720
+From: 13 Apr 2010,To: 13 Apr 2010,Orthodox,FY 2010,25,Eritrea,14,720
+From: 13 Apr 2010,To: 13 Apr 2010,Orthodox,FY 2010,25,Iraq,10,720
+From: 13 Apr 2010,To: 13 Apr 2010,Orthodox,FY 2010,25,Sudan,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Other Religion,FY 2010,6,Vietnam,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Pentecostalist,FY 2010,11,Cuba,7,720
+From: 13 Apr 2010,To: 13 Apr 2010,Pentecostalist,FY 2010,11,Dem. Rep. Congo,3,720
+From: 13 Apr 2010,To: 13 Apr 2010,Pentecostalist,FY 2010,11,Eritrea,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Protestant,FY 2010,22,Dem. Rep. Congo,6,720
+From: 13 Apr 2010,To: 13 Apr 2010,Protestant,FY 2010,22,Eritrea,16,720
+From: 13 Apr 2010,To: 13 Apr 2010,Sabeans-Mandean,FY 2010,4,Iran,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Unknown,FY 2010,5,Sudan,1,720
+From: 13 Apr 2010,To: 13 Apr 2010,Unknown,FY 2010,5,Vietnam,4,720
+From: 13 Apr 2010,To: 13 Apr 2010,Zoroastrian,FY 2010,11,Iran,11,720
+

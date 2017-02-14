@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jul 2010,To: 01 Jul 2010,Bhutan,FY 2010,65,Buddhist,24,198
+From: 01 Jul 2010,To: 01 Jul 2010,Bhutan,FY 2010,65,Christian,8,198
+From: 01 Jul 2010,To: 01 Jul 2010,Bhutan,FY 2010,65,Hindu,27,198
+From: 01 Jul 2010,To: 01 Jul 2010,Bhutan,FY 2010,65,Kirat,6,198
+From: 01 Jul 2010,To: 01 Jul 2010,Burma,FY 2010,63,Baptist,4,198
+From: 01 Jul 2010,To: 01 Jul 2010,Burma,FY 2010,63,Buddhist,8,198
+From: 01 Jul 2010,To: 01 Jul 2010,Burma,FY 2010,63,Catholic,5,198
+From: 01 Jul 2010,To: 01 Jul 2010,Burma,FY 2010,63,Christian,46,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Catholic,6,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Christian,6,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Moslem,5,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Moslem Shiite,31,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Moslem Suni,12,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Orthodox,8,198
+From: 01 Jul 2010,To: 01 Jul 2010,Iraq,FY 2010,70,Sabeans-Mandean,2,198
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jul 2010,To: 01 Jul 2010,Baptist,FY 2010,4,Burma,4,198
+From: 01 Jul 2010,To: 01 Jul 2010,Buddhist,FY 2010,32,Bhutan,24,198
+From: 01 Jul 2010,To: 01 Jul 2010,Buddhist,FY 2010,32,Burma,8,198
+From: 01 Jul 2010,To: 01 Jul 2010,Catholic,FY 2010,11,Burma,5,198
+From: 01 Jul 2010,To: 01 Jul 2010,Catholic,FY 2010,11,Iraq,6,198
+From: 01 Jul 2010,To: 01 Jul 2010,Christian,FY 2010,60,Bhutan,8,198
+From: 01 Jul 2010,To: 01 Jul 2010,Christian,FY 2010,60,Burma,46,198
+From: 01 Jul 2010,To: 01 Jul 2010,Christian,FY 2010,60,Iraq,6,198
+From: 01 Jul 2010,To: 01 Jul 2010,Hindu,FY 2010,27,Bhutan,27,198
+From: 01 Jul 2010,To: 01 Jul 2010,Kirat,FY 2010,6,Bhutan,6,198
+From: 01 Jul 2010,To: 01 Jul 2010,Moslem,FY 2010,5,Iraq,5,198
+From: 01 Jul 2010,To: 01 Jul 2010,Moslem Shiite,FY 2010,31,Iraq,31,198
+From: 01 Jul 2010,To: 01 Jul 2010,Moslem Suni,FY 2010,12,Iraq,12,198
+From: 01 Jul 2010,To: 01 Jul 2010,Orthodox,FY 2010,8,Iraq,8,198
+From: 01 Jul 2010,To: 01 Jul 2010,Sabeans-Mandean,FY 2010,2,Iraq,2,198
+

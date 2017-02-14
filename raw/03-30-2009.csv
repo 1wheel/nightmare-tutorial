@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Mar 2009,To: 30 Mar 2009,Bhutan,FY 2009,68,Buddhist,5,183
+From: 30 Mar 2009,To: 30 Mar 2009,Bhutan,FY 2009,68,Hindu,58,183
+From: 30 Mar 2009,To: 30 Mar 2009,Bhutan,FY 2009,68,Kirat,5,183
+From: 30 Mar 2009,To: 30 Mar 2009,Burma,FY 2009,1,Christian,1,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iran,FY 2009,7,Bahai,7,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iraq,FY 2009,95,Catholic,12,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iraq,FY 2009,95,Christian,23,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iraq,FY 2009,95,Moslem,3,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iraq,FY 2009,95,Moslem Shiite,21,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iraq,FY 2009,95,Moslem Suni,22,183
+From: 30 Mar 2009,To: 30 Mar 2009,Iraq,FY 2009,95,Sabeans-Mandean,14,183
+From: 30 Mar 2009,To: 30 Mar 2009,Latvia,FY 2009,1,Pentecostalist,1,183
+From: 30 Mar 2009,To: 30 Mar 2009,Liberia,FY 2009,8,Christian,8,183
+From: 30 Mar 2009,To: 30 Mar 2009,Somalia,FY 2009,3,Moslem,3,183
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Mar 2009,To: 30 Mar 2009,Bahai,FY 2009,7,Iran,7,183
+From: 30 Mar 2009,To: 30 Mar 2009,Buddhist,FY 2009,5,Bhutan,5,183
+From: 30 Mar 2009,To: 30 Mar 2009,Catholic,FY 2009,12,Iraq,12,183
+From: 30 Mar 2009,To: 30 Mar 2009,Christian,FY 2009,32,Burma,1,183
+From: 30 Mar 2009,To: 30 Mar 2009,Christian,FY 2009,32,Iraq,23,183
+From: 30 Mar 2009,To: 30 Mar 2009,Christian,FY 2009,32,Liberia,8,183
+From: 30 Mar 2009,To: 30 Mar 2009,Hindu,FY 2009,58,Bhutan,58,183
+From: 30 Mar 2009,To: 30 Mar 2009,Kirat,FY 2009,5,Bhutan,5,183
+From: 30 Mar 2009,To: 30 Mar 2009,Moslem,FY 2009,6,Iraq,3,183
+From: 30 Mar 2009,To: 30 Mar 2009,Moslem,FY 2009,6,Somalia,3,183
+From: 30 Mar 2009,To: 30 Mar 2009,Moslem Shiite,FY 2009,21,Iraq,21,183
+From: 30 Mar 2009,To: 30 Mar 2009,Moslem Suni,FY 2009,22,Iraq,22,183
+From: 30 Mar 2009,To: 30 Mar 2009,Pentecostalist,FY 2009,1,Latvia,1,183
+From: 30 Mar 2009,To: 30 Mar 2009,Sabeans-Mandean,FY 2009,14,Iraq,14,183
+

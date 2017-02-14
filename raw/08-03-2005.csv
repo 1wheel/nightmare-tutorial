@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Aug 2005,To: 03 Aug 2005,Afghanistan,FY 2005,5,Moslem Suni,5,295
+From: 03 Aug 2005,To: 03 Aug 2005,Burma,FY 2005,4,Moslem,4,295
+From: 03 Aug 2005,To: 03 Aug 2005,Ethiopia,FY 2005,15,Christian,1,295
+From: 03 Aug 2005,To: 03 Aug 2005,Ethiopia,FY 2005,15,Moslem,14,295
+From: 03 Aug 2005,To: 03 Aug 2005,Laos,FY 2005,31,Ancestral Worship,31,295
+From: 03 Aug 2005,To: 03 Aug 2005,Liberia,FY 2005,23,Christian,9,295
+From: 03 Aug 2005,To: 03 Aug 2005,Liberia,FY 2005,23,Methodist,6,295
+From: 03 Aug 2005,To: 03 Aug 2005,Liberia,FY 2005,23,Moslem,8,295
+From: 03 Aug 2005,To: 03 Aug 2005,Russia,FY 2005,65,Moslem,65,295
+From: 03 Aug 2005,To: 03 Aug 2005,Rwanda,FY 2005,6,Catholic,6,295
+From: 03 Aug 2005,To: 03 Aug 2005,Sierra Leone,FY 2005,1,Moslem,1,295
+From: 03 Aug 2005,To: 03 Aug 2005,Somalia,FY 2005,117,Moslem,117,295
+From: 03 Aug 2005,To: 03 Aug 2005,Sudan,FY 2005,28,Catholic,5,295
+From: 03 Aug 2005,To: 03 Aug 2005,Sudan,FY 2005,28,Christian,1,295
+From: 03 Aug 2005,To: 03 Aug 2005,Sudan,FY 2005,28,Moslem,17,295
+From: 03 Aug 2005,To: 03 Aug 2005,Sudan,FY 2005,28,Protestant,5,295
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Aug 2005,To: 03 Aug 2005,Ancestral Worship,FY 2005,31,Laos,31,295
+From: 03 Aug 2005,To: 03 Aug 2005,Catholic,FY 2005,11,Rwanda,6,295
+From: 03 Aug 2005,To: 03 Aug 2005,Catholic,FY 2005,11,Sudan,5,295
+From: 03 Aug 2005,To: 03 Aug 2005,Christian,FY 2005,11,Ethiopia,1,295
+From: 03 Aug 2005,To: 03 Aug 2005,Christian,FY 2005,11,Liberia,9,295
+From: 03 Aug 2005,To: 03 Aug 2005,Christian,FY 2005,11,Sudan,1,295
+From: 03 Aug 2005,To: 03 Aug 2005,Methodist,FY 2005,6,Liberia,6,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Burma,4,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Ethiopia,14,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Liberia,8,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Russia,65,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Sierra Leone,1,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Somalia,117,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem,FY 2005,226,Sudan,17,295
+From: 03 Aug 2005,To: 03 Aug 2005,Moslem Suni,FY 2005,5,Afghanistan,5,295
+From: 03 Aug 2005,To: 03 Aug 2005,Protestant,FY 2005,5,Sudan,5,295
+

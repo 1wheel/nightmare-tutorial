@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Mar 2009,To: 23 Mar 2009,Afghanistan,FY 2009,4,Moslem,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Afghanistan,FY 2009,4,Moslem Suni,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Bhutan,FY 2009,61,Buddhist,7,325
+From: 23 Mar 2009,To: 23 Mar 2009,Bhutan,FY 2009,61,Christian,19,325
+From: 23 Mar 2009,To: 23 Mar 2009,Bhutan,FY 2009,61,Hindu,31,325
+From: 23 Mar 2009,To: 23 Mar 2009,Bhutan,FY 2009,61,Kirat,4,325
+From: 23 Mar 2009,To: 23 Mar 2009,Burma,FY 2009,70,Buddhist,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Burma,FY 2009,70,Christian,67,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iran,FY 2009,11,Bahai,8,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iran,FY 2009,11,Moslem,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iraq,FY 2009,110,Catholic,16,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iraq,FY 2009,110,Christian,47,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iraq,FY 2009,110,Moslem Shiite,19,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iraq,FY 2009,110,Moslem Suni,23,325
+From: 23 Mar 2009,To: 23 Mar 2009,Iraq,FY 2009,110,Sabeans-Mandean,5,325
+From: 23 Mar 2009,To: 23 Mar 2009,Liberia,FY 2009,3,Christian,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moldova,FY 2009,35,Baptist,25,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moldova,FY 2009,35,Pentecostalist,10,325
+From: 23 Mar 2009,To: 23 Mar 2009,Russia,FY 2009,21,Baptist,2,325
+From: 23 Mar 2009,To: 23 Mar 2009,Russia,FY 2009,21,Jewish,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Russia,FY 2009,21,Moslem,4,325
+From: 23 Mar 2009,To: 23 Mar 2009,Russia,FY 2009,21,No Religion,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Russia,FY 2009,21,Pentecostalist,9,325
+From: 23 Mar 2009,To: 23 Mar 2009,Russia,FY 2009,21,Seventh Day Adventist,2,325
+From: 23 Mar 2009,To: 23 Mar 2009,Sierra Leone,FY 2009,3,Methodist,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Somalia,FY 2009,1,Moslem,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Sudan,FY 2009,1,Moslem Suni,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Uzbekistan,FY 2009,5,Atheist,5,325
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Mar 2009,To: 23 Mar 2009,Atheist,FY 2009,5,Uzbekistan,5,325
+From: 23 Mar 2009,To: 23 Mar 2009,Bahai,FY 2009,8,Iran,8,325
+From: 23 Mar 2009,To: 23 Mar 2009,Baptist,FY 2009,27,Moldova,25,325
+From: 23 Mar 2009,To: 23 Mar 2009,Baptist,FY 2009,27,Russia,2,325
+From: 23 Mar 2009,To: 23 Mar 2009,Buddhist,FY 2009,10,Bhutan,7,325
+From: 23 Mar 2009,To: 23 Mar 2009,Buddhist,FY 2009,10,Burma,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Catholic,FY 2009,16,Iraq,16,325
+From: 23 Mar 2009,To: 23 Mar 2009,Christian,FY 2009,136,Bhutan,19,325
+From: 23 Mar 2009,To: 23 Mar 2009,Christian,FY 2009,136,Burma,67,325
+From: 23 Mar 2009,To: 23 Mar 2009,Christian,FY 2009,136,Iraq,47,325
+From: 23 Mar 2009,To: 23 Mar 2009,Christian,FY 2009,136,Liberia,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Hindu,FY 2009,31,Bhutan,31,325
+From: 23 Mar 2009,To: 23 Mar 2009,Jewish,FY 2009,1,Russia,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Kirat,FY 2009,4,Bhutan,4,325
+From: 23 Mar 2009,To: 23 Mar 2009,Methodist,FY 2009,3,Sierra Leone,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem,FY 2009,9,Afghanistan,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem,FY 2009,9,Iran,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem,FY 2009,9,Russia,4,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem,FY 2009,9,Somalia,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem Shiite,FY 2009,19,Iraq,19,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem Suni,FY 2009,27,Afghanistan,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem Suni,FY 2009,27,Iraq,23,325
+From: 23 Mar 2009,To: 23 Mar 2009,Moslem Suni,FY 2009,27,Sudan,1,325
+From: 23 Mar 2009,To: 23 Mar 2009,No Religion,FY 2009,3,Russia,3,325
+From: 23 Mar 2009,To: 23 Mar 2009,Pentecostalist,FY 2009,19,Moldova,10,325
+From: 23 Mar 2009,To: 23 Mar 2009,Pentecostalist,FY 2009,19,Russia,9,325
+From: 23 Mar 2009,To: 23 Mar 2009,Sabeans-Mandean,FY 2009,5,Iraq,5,325
+From: 23 Mar 2009,To: 23 Mar 2009,Seventh Day Adventist,FY 2009,2,Russia,2,325
+

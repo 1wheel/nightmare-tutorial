@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jul 2007,To: 12 Jul 2007,Burma,FY 2007,195,Baptist,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Burma,FY 2007,195,Buddhist,12,468
+From: 12 Jul 2007,To: 12 Jul 2007,Burma,FY 2007,195,Christian,167,468
+From: 12 Jul 2007,To: 12 Jul 2007,Burma,FY 2007,195,Moslem,15,468
+From: 12 Jul 2007,To: 12 Jul 2007,Cuba,FY 2007,48,Baptist,4,468
+From: 12 Jul 2007,To: 12 Jul 2007,Cuba,FY 2007,48,Catholic,9,468
+From: 12 Jul 2007,To: 12 Jul 2007,Cuba,FY 2007,48,Jehovah Witness,18,468
+From: 12 Jul 2007,To: 12 Jul 2007,Cuba,FY 2007,48,No Religion,17,468
+From: 12 Jul 2007,To: 12 Jul 2007,Eritrea,FY 2007,60,Catholic,39,468
+From: 12 Jul 2007,To: 12 Jul 2007,Eritrea,FY 2007,60,Christian,12,468
+From: 12 Jul 2007,To: 12 Jul 2007,Eritrea,FY 2007,60,Moslem,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Eritrea,FY 2007,60,Pentecostalist,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Eritrea,FY 2007,60,Protestant,7,468
+From: 12 Jul 2007,To: 12 Jul 2007,Ethiopia,FY 2007,10,Christian,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Ethiopia,FY 2007,10,Moslem,8,468
+From: 12 Jul 2007,To: 12 Jul 2007,Ethiopia,FY 2007,10,Orthodox,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Iran,FY 2007,32,Bahai,32,468
+From: 12 Jul 2007,To: 12 Jul 2007,Iraq,FY 2007,2,Christian,2,468
+From: 12 Jul 2007,To: 12 Jul 2007,Liberia,FY 2007,32,Catholic,4,468
+From: 12 Jul 2007,To: 12 Jul 2007,Liberia,FY 2007,32,Christian,15,468
+From: 12 Jul 2007,To: 12 Jul 2007,Liberia,FY 2007,32,Pentecostalist,13,468
+From: 12 Jul 2007,To: 12 Jul 2007,Nigeria,FY 2007,3,Christian,3,468
+From: 12 Jul 2007,To: 12 Jul 2007,Russia,FY 2007,4,Moslem,4,468
+From: 12 Jul 2007,To: 12 Jul 2007,Rwanda,FY 2007,9,Catholic,5,468
+From: 12 Jul 2007,To: 12 Jul 2007,Rwanda,FY 2007,9,Christian,3,468
+From: 12 Jul 2007,To: 12 Jul 2007,Rwanda,FY 2007,9,Seventh Day Adventist,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Somalia,FY 2007,65,Moslem,64,468
+From: 12 Jul 2007,To: 12 Jul 2007,Somalia,FY 2007,65,Protestant,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Togo,FY 2007,1,Catholic,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Ukraine,FY 2007,7,Orthodox,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Ukraine,FY 2007,7,Pentecostalist,3,468
+From: 12 Jul 2007,To: 12 Jul 2007,Ukraine,FY 2007,7,Seventh Day Adventist,3,468
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jul 2007,To: 12 Jul 2007,Bahai,FY 2007,32,Iran,32,468
+From: 12 Jul 2007,To: 12 Jul 2007,Baptist,FY 2007,5,Burma,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Baptist,FY 2007,5,Cuba,4,468
+From: 12 Jul 2007,To: 12 Jul 2007,Buddhist,FY 2007,12,Burma,12,468
+From: 12 Jul 2007,To: 12 Jul 2007,Catholic,FY 2007,58,Cuba,9,468
+From: 12 Jul 2007,To: 12 Jul 2007,Catholic,FY 2007,58,Eritrea,39,468
+From: 12 Jul 2007,To: 12 Jul 2007,Catholic,FY 2007,58,Liberia,4,468
+From: 12 Jul 2007,To: 12 Jul 2007,Catholic,FY 2007,58,Rwanda,5,468
+From: 12 Jul 2007,To: 12 Jul 2007,Catholic,FY 2007,58,Togo,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Burma,167,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Eritrea,12,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Ethiopia,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Iraq,2,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Liberia,15,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Nigeria,3,468
+From: 12 Jul 2007,To: 12 Jul 2007,Christian,FY 2007,203,Rwanda,3,468
+From: 12 Jul 2007,To: 12 Jul 2007,Jehovah Witness,FY 2007,18,Cuba,18,468
+From: 12 Jul 2007,To: 12 Jul 2007,Moslem,FY 2007,92,Burma,15,468
+From: 12 Jul 2007,To: 12 Jul 2007,Moslem,FY 2007,92,Eritrea,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Moslem,FY 2007,92,Ethiopia,8,468
+From: 12 Jul 2007,To: 12 Jul 2007,Moslem,FY 2007,92,Russia,4,468
+From: 12 Jul 2007,To: 12 Jul 2007,Moslem,FY 2007,92,Somalia,64,468
+From: 12 Jul 2007,To: 12 Jul 2007,No Religion,FY 2007,17,Cuba,17,468
+From: 12 Jul 2007,To: 12 Jul 2007,Orthodox,FY 2007,2,Ethiopia,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Orthodox,FY 2007,2,Ukraine,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Pentecostalist,FY 2007,17,Eritrea,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Pentecostalist,FY 2007,17,Liberia,13,468
+From: 12 Jul 2007,To: 12 Jul 2007,Pentecostalist,FY 2007,17,Ukraine,3,468
+From: 12 Jul 2007,To: 12 Jul 2007,Protestant,FY 2007,8,Eritrea,7,468
+From: 12 Jul 2007,To: 12 Jul 2007,Protestant,FY 2007,8,Somalia,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Seventh Day Adventist,FY 2007,4,Rwanda,1,468
+From: 12 Jul 2007,To: 12 Jul 2007,Seventh Day Adventist,FY 2007,4,Ukraine,3,468
+

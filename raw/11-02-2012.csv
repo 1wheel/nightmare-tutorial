@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2012,To: 02 Nov 2012,Burma,FY 2013,33,Baptist,4,88
+From: 02 Nov 2012,To: 02 Nov 2012,Burma,FY 2013,33,Buddhist,2,88
+From: 02 Nov 2012,To: 02 Nov 2012,Burma,FY 2013,33,Christian,22,88
+From: 02 Nov 2012,To: 02 Nov 2012,Burma,FY 2013,33,Moslem,5,88
+From: 02 Nov 2012,To: 02 Nov 2012,Burundi,FY 2013,9,Baptist,9,88
+From: 02 Nov 2012,To: 02 Nov 2012,Dem. Rep. Congo,FY 2013,32,Moslem,7,88
+From: 02 Nov 2012,To: 02 Nov 2012,Dem. Rep. Congo,FY 2013,32,Other Religion,7,88
+From: 02 Nov 2012,To: 02 Nov 2012,Dem. Rep. Congo,FY 2013,32,Pentecostalist,17,88
+From: 02 Nov 2012,To: 02 Nov 2012,Dem. Rep. Congo,FY 2013,32,Protestant,1,88
+From: 02 Nov 2012,To: 02 Nov 2012,Iraq,FY 2013,6,Moslem Suni,6,88
+From: 02 Nov 2012,To: 02 Nov 2012,Somalia,FY 2013,8,Moslem,8,88
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2012,To: 02 Nov 2012,Baptist,FY 2013,13,Burma,4,88
+From: 02 Nov 2012,To: 02 Nov 2012,Baptist,FY 2013,13,Burundi,9,88
+From: 02 Nov 2012,To: 02 Nov 2012,Buddhist,FY 2013,2,Burma,2,88
+From: 02 Nov 2012,To: 02 Nov 2012,Christian,FY 2013,22,Burma,22,88
+From: 02 Nov 2012,To: 02 Nov 2012,Moslem,FY 2013,20,Burma,5,88
+From: 02 Nov 2012,To: 02 Nov 2012,Moslem,FY 2013,20,Dem. Rep. Congo,7,88
+From: 02 Nov 2012,To: 02 Nov 2012,Moslem,FY 2013,20,Somalia,8,88
+From: 02 Nov 2012,To: 02 Nov 2012,Moslem Suni,FY 2013,6,Iraq,6,88
+From: 02 Nov 2012,To: 02 Nov 2012,Other Religion,FY 2013,7,Dem. Rep. Congo,7,88
+From: 02 Nov 2012,To: 02 Nov 2012,Pentecostalist,FY 2013,17,Dem. Rep. Congo,17,88
+From: 02 Nov 2012,To: 02 Nov 2012,Protestant,FY 2013,1,Dem. Rep. Congo,1,88
+

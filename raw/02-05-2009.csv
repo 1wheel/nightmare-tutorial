@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Feb 2009,To: 05 Feb 2009,Bhutan,FY 2009,106,Buddhist,2,382
+From: 05 Feb 2009,To: 05 Feb 2009,Bhutan,FY 2009,106,Christian,7,382
+From: 05 Feb 2009,To: 05 Feb 2009,Bhutan,FY 2009,106,Hindu,97,382
+From: 05 Feb 2009,To: 05 Feb 2009,Burma,FY 2009,115,Buddhist,50,382
+From: 05 Feb 2009,To: 05 Feb 2009,Burma,FY 2009,115,Christian,54,382
+From: 05 Feb 2009,To: 05 Feb 2009,Burma,FY 2009,115,Moslem,11,382
+From: 05 Feb 2009,To: 05 Feb 2009,China,FY 2009,5,Other Religion,5,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iran,FY 2009,45,Bahai,5,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iran,FY 2009,45,Christian,33,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iran,FY 2009,45,Sabeans-Mandean,7,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iraq,FY 2009,28,Catholic,1,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iraq,FY 2009,28,Christian,9,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iraq,FY 2009,28,Moslem Shiite,11,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iraq,FY 2009,28,Moslem Suni,4,382
+From: 05 Feb 2009,To: 05 Feb 2009,Iraq,FY 2009,28,Orthodox,3,382
+From: 05 Feb 2009,To: 05 Feb 2009,Pakistan,FY 2009,5,Other Religion,5,382
+From: 05 Feb 2009,To: 05 Feb 2009,Somalia,FY 2009,61,Moslem,61,382
+From: 05 Feb 2009,To: 05 Feb 2009,Ukraine,FY 2009,17,Baptist,4,382
+From: 05 Feb 2009,To: 05 Feb 2009,Ukraine,FY 2009,17,Pentecostalist,13,382
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Feb 2009,To: 05 Feb 2009,Bahai,FY 2009,5,Iran,5,382
+From: 05 Feb 2009,To: 05 Feb 2009,Baptist,FY 2009,4,Ukraine,4,382
+From: 05 Feb 2009,To: 05 Feb 2009,Buddhist,FY 2009,52,Bhutan,2,382
+From: 05 Feb 2009,To: 05 Feb 2009,Buddhist,FY 2009,52,Burma,50,382
+From: 05 Feb 2009,To: 05 Feb 2009,Catholic,FY 2009,1,Iraq,1,382
+From: 05 Feb 2009,To: 05 Feb 2009,Christian,FY 2009,103,Bhutan,7,382
+From: 05 Feb 2009,To: 05 Feb 2009,Christian,FY 2009,103,Burma,54,382
+From: 05 Feb 2009,To: 05 Feb 2009,Christian,FY 2009,103,Iran,33,382
+From: 05 Feb 2009,To: 05 Feb 2009,Christian,FY 2009,103,Iraq,9,382
+From: 05 Feb 2009,To: 05 Feb 2009,Hindu,FY 2009,97,Bhutan,97,382
+From: 05 Feb 2009,To: 05 Feb 2009,Moslem,FY 2009,72,Burma,11,382
+From: 05 Feb 2009,To: 05 Feb 2009,Moslem,FY 2009,72,Somalia,61,382
+From: 05 Feb 2009,To: 05 Feb 2009,Moslem Shiite,FY 2009,11,Iraq,11,382
+From: 05 Feb 2009,To: 05 Feb 2009,Moslem Suni,FY 2009,4,Iraq,4,382
+From: 05 Feb 2009,To: 05 Feb 2009,Orthodox,FY 2009,3,Iraq,3,382
+From: 05 Feb 2009,To: 05 Feb 2009,Other Religion,FY 2009,10,China,5,382
+From: 05 Feb 2009,To: 05 Feb 2009,Other Religion,FY 2009,10,Pakistan,5,382
+From: 05 Feb 2009,To: 05 Feb 2009,Pentecostalist,FY 2009,13,Ukraine,13,382
+From: 05 Feb 2009,To: 05 Feb 2009,Sabeans-Mandean,FY 2009,7,Iran,7,382
+

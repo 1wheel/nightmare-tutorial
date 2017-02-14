@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Dec 2003,To: 05 Dec 2003,Iran,FY 2004,1,Baptist,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Liberia,FY 2004,70,Baptist,2,180
+From: 05 Dec 2003,To: 05 Dec 2003,Liberia,FY 2004,70,Christian,53,180
+From: 05 Dec 2003,To: 05 Dec 2003,Liberia,FY 2004,70,Lutheran,5,180
+From: 05 Dec 2003,To: 05 Dec 2003,Liberia,FY 2004,70,Methodist,5,180
+From: 05 Dec 2003,To: 05 Dec 2003,Liberia,FY 2004,70,Pentecostalist,5,180
+From: 05 Dec 2003,To: 05 Dec 2003,Moldova,FY 2004,35,Baptist,15,180
+From: 05 Dec 2003,To: 05 Dec 2003,Moldova,FY 2004,35,Jewish,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Moldova,FY 2004,35,Pentecostalist,15,180
+From: 05 Dec 2003,To: 05 Dec 2003,Moldova,FY 2004,35,Seventh Day Adventist,4,180
+From: 05 Dec 2003,To: 05 Dec 2003,Rwanda,FY 2004,4,Catholic,3,180
+From: 05 Dec 2003,To: 05 Dec 2003,Rwanda,FY 2004,4,Unknown,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Ukraine,FY 2004,70,Baptist,17,180
+From: 05 Dec 2003,To: 05 Dec 2003,Ukraine,FY 2004,70,Christian,3,180
+From: 05 Dec 2003,To: 05 Dec 2003,Ukraine,FY 2004,70,Jewish,10,180
+From: 05 Dec 2003,To: 05 Dec 2003,Ukraine,FY 2004,70,No Religion,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Ukraine,FY 2004,70,Pentecostalist,33,180
+From: 05 Dec 2003,To: 05 Dec 2003,Ukraine,FY 2004,70,Seventh Day Adventist,6,180
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Dec 2003,To: 05 Dec 2003,Baptist,FY 2004,35,Iran,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Baptist,FY 2004,35,Liberia,2,180
+From: 05 Dec 2003,To: 05 Dec 2003,Baptist,FY 2004,35,Moldova,15,180
+From: 05 Dec 2003,To: 05 Dec 2003,Baptist,FY 2004,35,Ukraine,17,180
+From: 05 Dec 2003,To: 05 Dec 2003,Catholic,FY 2004,3,Rwanda,3,180
+From: 05 Dec 2003,To: 05 Dec 2003,Christian,FY 2004,56,Liberia,53,180
+From: 05 Dec 2003,To: 05 Dec 2003,Christian,FY 2004,56,Ukraine,3,180
+From: 05 Dec 2003,To: 05 Dec 2003,Jewish,FY 2004,11,Moldova,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Jewish,FY 2004,11,Ukraine,10,180
+From: 05 Dec 2003,To: 05 Dec 2003,Lutheran,FY 2004,5,Liberia,5,180
+From: 05 Dec 2003,To: 05 Dec 2003,Methodist,FY 2004,5,Liberia,5,180
+From: 05 Dec 2003,To: 05 Dec 2003,No Religion,FY 2004,1,Ukraine,1,180
+From: 05 Dec 2003,To: 05 Dec 2003,Pentecostalist,FY 2004,53,Liberia,5,180
+From: 05 Dec 2003,To: 05 Dec 2003,Pentecostalist,FY 2004,53,Moldova,15,180
+From: 05 Dec 2003,To: 05 Dec 2003,Pentecostalist,FY 2004,53,Ukraine,33,180
+From: 05 Dec 2003,To: 05 Dec 2003,Seventh Day Adventist,FY 2004,10,Moldova,4,180
+From: 05 Dec 2003,To: 05 Dec 2003,Seventh Day Adventist,FY 2004,10,Ukraine,6,180
+From: 05 Dec 2003,To: 05 Dec 2003,Unknown,FY 2004,1,Rwanda,1,180
+

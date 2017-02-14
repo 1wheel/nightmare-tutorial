@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Mar 2007,To: 13 Mar 2007,Belarus,FY 2007,13,Jewish,2,158
+From: 13 Mar 2007,To: 13 Mar 2007,Belarus,FY 2007,13,Orthodox,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Belarus,FY 2007,13,Pentecostalist,10,158
+From: 13 Mar 2007,To: 13 Mar 2007,Burma,FY 2007,21,Buddhist,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Burma,FY 2007,21,Christian,18,158
+From: 13 Mar 2007,To: 13 Mar 2007,Eritrea,FY 2007,4,Catholic,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Eritrea,FY 2007,4,Moslem,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Ethiopia,FY 2007,9,Moslem,9,158
+From: 13 Mar 2007,To: 13 Mar 2007,Iran,FY 2007,22,Christian,20,158
+From: 13 Mar 2007,To: 13 Mar 2007,Iran,FY 2007,22,Sabeans-Mandean,2,158
+From: 13 Mar 2007,To: 13 Mar 2007,Liberia,FY 2007,34,Christian,10,158
+From: 13 Mar 2007,To: 13 Mar 2007,Liberia,FY 2007,34,Jehovah Witness,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Liberia,FY 2007,34,Moslem,21,158
+From: 13 Mar 2007,To: 13 Mar 2007,Somalia,FY 2007,35,Moslem,35,158
+From: 13 Mar 2007,To: 13 Mar 2007,Sudan,FY 2007,11,Catholic,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Sudan,FY 2007,11,Moslem,9,158
+From: 13 Mar 2007,To: 13 Mar 2007,Sudan,FY 2007,11,Protestant,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Vietnam,FY 2007,9,Christian,4,158
+From: 13 Mar 2007,To: 13 Mar 2007,Vietnam,FY 2007,9,No Religion,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Vietnam,FY 2007,9,Other Religion,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Vietnam,FY 2007,9,Protestant,3,158
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Mar 2007,To: 13 Mar 2007,Buddhist,FY 2007,3,Burma,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Catholic,FY 2007,2,Eritrea,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Catholic,FY 2007,2,Sudan,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Christian,FY 2007,52,Burma,18,158
+From: 13 Mar 2007,To: 13 Mar 2007,Christian,FY 2007,52,Iran,20,158
+From: 13 Mar 2007,To: 13 Mar 2007,Christian,FY 2007,52,Liberia,10,158
+From: 13 Mar 2007,To: 13 Mar 2007,Christian,FY 2007,52,Vietnam,4,158
+From: 13 Mar 2007,To: 13 Mar 2007,Jehovah Witness,FY 2007,3,Liberia,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Jewish,FY 2007,2,Belarus,2,158
+From: 13 Mar 2007,To: 13 Mar 2007,Moslem,FY 2007,77,Eritrea,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Moslem,FY 2007,77,Ethiopia,9,158
+From: 13 Mar 2007,To: 13 Mar 2007,Moslem,FY 2007,77,Liberia,21,158
+From: 13 Mar 2007,To: 13 Mar 2007,Moslem,FY 2007,77,Somalia,35,158
+From: 13 Mar 2007,To: 13 Mar 2007,Moslem,FY 2007,77,Sudan,9,158
+From: 13 Mar 2007,To: 13 Mar 2007,No Religion,FY 2007,1,Vietnam,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Orthodox,FY 2007,1,Belarus,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Other Religion,FY 2007,1,Vietnam,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Pentecostalist,FY 2007,10,Belarus,10,158
+From: 13 Mar 2007,To: 13 Mar 2007,Protestant,FY 2007,4,Sudan,1,158
+From: 13 Mar 2007,To: 13 Mar 2007,Protestant,FY 2007,4,Vietnam,3,158
+From: 13 Mar 2007,To: 13 Mar 2007,Sabeans-Mandean,FY 2007,2,Iran,2,158
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Feb 2011,To: 14 Feb 2011,Bhutan,FY 2011,35,Buddhist,11,238
+From: 14 Feb 2011,To: 14 Feb 2011,Bhutan,FY 2011,35,Christian,3,238
+From: 14 Feb 2011,To: 14 Feb 2011,Bhutan,FY 2011,35,Hindu,21,238
+From: 14 Feb 2011,To: 14 Feb 2011,Burma,FY 2011,67,Baptist,7,238
+From: 14 Feb 2011,To: 14 Feb 2011,Burma,FY 2011,67,Buddhist,5,238
+From: 14 Feb 2011,To: 14 Feb 2011,Burma,FY 2011,67,Christian,55,238
+From: 14 Feb 2011,To: 14 Feb 2011,Eritrea,FY 2011,1,Christian,1,238
+From: 14 Feb 2011,To: 14 Feb 2011,Ethiopia,FY 2011,4,Christian,4,238
+From: 14 Feb 2011,To: 14 Feb 2011,Iraq,FY 2011,97,Christian,26,238
+From: 14 Feb 2011,To: 14 Feb 2011,Iraq,FY 2011,97,Moslem Shiite,45,238
+From: 14 Feb 2011,To: 14 Feb 2011,Iraq,FY 2011,97,Moslem Suni,19,238
+From: 14 Feb 2011,To: 14 Feb 2011,Iraq,FY 2011,97,Sabeans-Mandean,7,238
+From: 14 Feb 2011,To: 14 Feb 2011,"Korea, North",FY 2011,2,Christian,2,238
+From: 14 Feb 2011,To: 14 Feb 2011,Laos,FY 2011,32,Ancestral Worship,1,238
+From: 14 Feb 2011,To: 14 Feb 2011,Laos,FY 2011,32,Animist,31,238
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Feb 2011,To: 14 Feb 2011,Ancestral Worship,FY 2011,1,Laos,1,238
+From: 14 Feb 2011,To: 14 Feb 2011,Animist,FY 2011,31,Laos,31,238
+From: 14 Feb 2011,To: 14 Feb 2011,Baptist,FY 2011,7,Burma,7,238
+From: 14 Feb 2011,To: 14 Feb 2011,Buddhist,FY 2011,16,Bhutan,11,238
+From: 14 Feb 2011,To: 14 Feb 2011,Buddhist,FY 2011,16,Burma,5,238
+From: 14 Feb 2011,To: 14 Feb 2011,Christian,FY 2011,91,Bhutan,3,238
+From: 14 Feb 2011,To: 14 Feb 2011,Christian,FY 2011,91,Burma,55,238
+From: 14 Feb 2011,To: 14 Feb 2011,Christian,FY 2011,91,Eritrea,1,238
+From: 14 Feb 2011,To: 14 Feb 2011,Christian,FY 2011,91,Ethiopia,4,238
+From: 14 Feb 2011,To: 14 Feb 2011,Christian,FY 2011,91,Iraq,26,238
+From: 14 Feb 2011,To: 14 Feb 2011,Christian,FY 2011,91,"Korea, North",2,238
+From: 14 Feb 2011,To: 14 Feb 2011,Hindu,FY 2011,21,Bhutan,21,238
+From: 14 Feb 2011,To: 14 Feb 2011,Moslem Shiite,FY 2011,45,Iraq,45,238
+From: 14 Feb 2011,To: 14 Feb 2011,Moslem Suni,FY 2011,19,Iraq,19,238
+From: 14 Feb 2011,To: 14 Feb 2011,Sabeans-Mandean,FY 2011,7,Iraq,7,238
+

@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jan 2013,To: 31 Jan 2013,Bhutan,FY 2013,43,Buddhist,7,437
+From: 31 Jan 2013,To: 31 Jan 2013,Bhutan,FY 2013,43,Hindu,33,437
+From: 31 Jan 2013,To: 31 Jan 2013,Bhutan,FY 2013,43,Kirat,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burma,FY 2013,204,Baptist,17,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burma,FY 2013,204,Buddhist,30,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burma,FY 2013,204,Catholic,2,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burma,FY 2013,204,Christian,149,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burma,FY 2013,204,Evangelical Christian,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burma,FY 2013,204,Methodist,5,437
+From: 31 Jan 2013,To: 31 Jan 2013,Burundi,FY 2013,1,Christian,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Cuba,FY 2013,60,Baptist,8,437
+From: 31 Jan 2013,To: 31 Jan 2013,Cuba,FY 2013,60,Catholic,19,437
+From: 31 Jan 2013,To: 31 Jan 2013,Cuba,FY 2013,60,Evangelical Christian,4,437
+From: 31 Jan 2013,To: 31 Jan 2013,Cuba,FY 2013,60,Jehovah Witness,18,437
+From: 31 Jan 2013,To: 31 Jan 2013,Cuba,FY 2013,60,No Religion,10,437
+From: 31 Jan 2013,To: 31 Jan 2013,Cuba,FY 2013,60,Seventh Day Adventist,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Dem. Rep. Congo,FY 2013,9,Catholic,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Dem. Rep. Congo,FY 2013,9,Christian,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Dem. Rep. Congo,FY 2013,9,Protestant,5,437
+From: 31 Jan 2013,To: 31 Jan 2013,Eritrea,FY 2013,3,Orthodox,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Iraq,FY 2013,115,Catholic,19,437
+From: 31 Jan 2013,To: 31 Jan 2013,Iraq,FY 2013,115,Christian,32,437
+From: 31 Jan 2013,To: 31 Jan 2013,Iraq,FY 2013,115,Moslem,4,437
+From: 31 Jan 2013,To: 31 Jan 2013,Iraq,FY 2013,115,Moslem Shiite,16,437
+From: 31 Jan 2013,To: 31 Jan 2013,Iraq,FY 2013,115,Moslem Suni,41,437
+From: 31 Jan 2013,To: 31 Jan 2013,Iraq,FY 2013,115,Orthodox,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Somalia,FY 2013,1,Moslem,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Sudan,FY 2013,1,Moslem Suni,1,437
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jan 2013,To: 31 Jan 2013,Baptist,FY 2013,25,Burma,17,437
+From: 31 Jan 2013,To: 31 Jan 2013,Baptist,FY 2013,25,Cuba,8,437
+From: 31 Jan 2013,To: 31 Jan 2013,Buddhist,FY 2013,37,Bhutan,7,437
+From: 31 Jan 2013,To: 31 Jan 2013,Buddhist,FY 2013,37,Burma,30,437
+From: 31 Jan 2013,To: 31 Jan 2013,Catholic,FY 2013,41,Burma,2,437
+From: 31 Jan 2013,To: 31 Jan 2013,Catholic,FY 2013,41,Cuba,19,437
+From: 31 Jan 2013,To: 31 Jan 2013,Catholic,FY 2013,41,Dem. Rep. Congo,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Catholic,FY 2013,41,Iraq,19,437
+From: 31 Jan 2013,To: 31 Jan 2013,Christian,FY 2013,185,Burma,149,437
+From: 31 Jan 2013,To: 31 Jan 2013,Christian,FY 2013,185,Burundi,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Christian,FY 2013,185,Dem. Rep. Congo,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Christian,FY 2013,185,Iraq,32,437
+From: 31 Jan 2013,To: 31 Jan 2013,Evangelical Christian,FY 2013,5,Burma,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Evangelical Christian,FY 2013,5,Cuba,4,437
+From: 31 Jan 2013,To: 31 Jan 2013,Hindu,FY 2013,33,Bhutan,33,437
+From: 31 Jan 2013,To: 31 Jan 2013,Jehovah Witness,FY 2013,18,Cuba,18,437
+From: 31 Jan 2013,To: 31 Jan 2013,Kirat,FY 2013,3,Bhutan,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Methodist,FY 2013,5,Burma,5,437
+From: 31 Jan 2013,To: 31 Jan 2013,Moslem,FY 2013,5,Iraq,4,437
+From: 31 Jan 2013,To: 31 Jan 2013,Moslem,FY 2013,5,Somalia,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,Moslem Shiite,FY 2013,16,Iraq,16,437
+From: 31 Jan 2013,To: 31 Jan 2013,Moslem Suni,FY 2013,42,Iraq,41,437
+From: 31 Jan 2013,To: 31 Jan 2013,Moslem Suni,FY 2013,42,Sudan,1,437
+From: 31 Jan 2013,To: 31 Jan 2013,No Religion,FY 2013,10,Cuba,10,437
+From: 31 Jan 2013,To: 31 Jan 2013,Orthodox,FY 2013,6,Eritrea,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Orthodox,FY 2013,6,Iraq,3,437
+From: 31 Jan 2013,To: 31 Jan 2013,Protestant,FY 2013,5,Dem. Rep. Congo,5,437
+From: 31 Jan 2013,To: 31 Jan 2013,Seventh Day Adventist,FY 2013,1,Cuba,1,437
+

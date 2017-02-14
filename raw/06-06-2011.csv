@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jun 2011,To: 06 Jun 2011,Bhutan,FY 2011,101,Buddhist,24,148
+From: 06 Jun 2011,To: 06 Jun 2011,Bhutan,FY 2011,101,Christian,11,148
+From: 06 Jun 2011,To: 06 Jun 2011,Bhutan,FY 2011,101,Hindu,64,148
+From: 06 Jun 2011,To: 06 Jun 2011,Bhutan,FY 2011,101,Kirat,2,148
+From: 06 Jun 2011,To: 06 Jun 2011,Burma,FY 2011,34,Catholic,1,148
+From: 06 Jun 2011,To: 06 Jun 2011,Burma,FY 2011,34,Christian,33,148
+From: 06 Jun 2011,To: 06 Jun 2011,Congo,FY 2011,7,Christian,7,148
+From: 06 Jun 2011,To: 06 Jun 2011,India,FY 2011,1,Hindu,1,148
+From: 06 Jun 2011,To: 06 Jun 2011,Sri Lanka (Ceylon),FY 2011,4,Hindu,4,148
+From: 06 Jun 2011,To: 06 Jun 2011,Sudan,FY 2011,1,Christian,1,148
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jun 2011,To: 06 Jun 2011,Buddhist,FY 2011,24,Bhutan,24,148
+From: 06 Jun 2011,To: 06 Jun 2011,Catholic,FY 2011,1,Burma,1,148
+From: 06 Jun 2011,To: 06 Jun 2011,Christian,FY 2011,52,Bhutan,11,148
+From: 06 Jun 2011,To: 06 Jun 2011,Christian,FY 2011,52,Burma,33,148
+From: 06 Jun 2011,To: 06 Jun 2011,Christian,FY 2011,52,Congo,7,148
+From: 06 Jun 2011,To: 06 Jun 2011,Christian,FY 2011,52,Sudan,1,148
+From: 06 Jun 2011,To: 06 Jun 2011,Hindu,FY 2011,69,Bhutan,64,148
+From: 06 Jun 2011,To: 06 Jun 2011,Hindu,FY 2011,69,India,1,148
+From: 06 Jun 2011,To: 06 Jun 2011,Hindu,FY 2011,69,Sri Lanka (Ceylon),4,148
+From: 06 Jun 2011,To: 06 Jun 2011,Kirat,FY 2011,2,Bhutan,2,148
+

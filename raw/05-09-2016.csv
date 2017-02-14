@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 May 2016,To: 09 May 2016,Afghanistan,FY 2016,6,Moslem,1,325
+From: 09 May 2016,To: 09 May 2016,Afghanistan,FY 2016,6,Moslem Suni,5,325
+From: 09 May 2016,To: 09 May 2016,Bhutan,FY 2016,64,Buddhist,25,325
+From: 09 May 2016,To: 09 May 2016,Bhutan,FY 2016,64,Christian,10,325
+From: 09 May 2016,To: 09 May 2016,Bhutan,FY 2016,64,Hindu,17,325
+From: 09 May 2016,To: 09 May 2016,Bhutan,FY 2016,64,Kirat,12,325
+From: 09 May 2016,To: 09 May 2016,Burma,FY 2016,30,Buddhist,1,325
+From: 09 May 2016,To: 09 May 2016,Burma,FY 2016,30,Christian,27,325
+From: 09 May 2016,To: 09 May 2016,Burma,FY 2016,30,Moslem,2,325
+From: 09 May 2016,To: 09 May 2016,Dem. Rep. Congo,FY 2016,79,Catholic,12,325
+From: 09 May 2016,To: 09 May 2016,Dem. Rep. Congo,FY 2016,79,Pentecostalist,8,325
+From: 09 May 2016,To: 09 May 2016,Dem. Rep. Congo,FY 2016,79,Seventh Day Adventist,59,325
+From: 09 May 2016,To: 09 May 2016,Ethiopia,FY 2016,1,Moslem,1,325
+From: 09 May 2016,To: 09 May 2016,Iran,FY 2016,4,Bahai,4,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Catholic,5,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Chaldean,4,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Christian,1,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Moslem,1,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Moslem Shiite,2,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Moslem Suni,47,325
+From: 09 May 2016,To: 09 May 2016,Iraq,FY 2016,61,Orthodox,1,325
+From: 09 May 2016,To: 09 May 2016,Somalia,FY 2016,33,Moslem,33,325
+From: 09 May 2016,To: 09 May 2016,Syria,FY 2016,44,Moslem Suni,44,325
+From: 09 May 2016,To: 09 May 2016,Yemen,FY 2016,3,Moslem Suni,3,325
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 May 2016,To: 09 May 2016,Bahai,FY 2016,4,Iran,4,325
+From: 09 May 2016,To: 09 May 2016,Buddhist,FY 2016,26,Bhutan,25,325
+From: 09 May 2016,To: 09 May 2016,Buddhist,FY 2016,26,Burma,1,325
+From: 09 May 2016,To: 09 May 2016,Catholic,FY 2016,17,Dem. Rep. Congo,12,325
+From: 09 May 2016,To: 09 May 2016,Catholic,FY 2016,17,Iraq,5,325
+From: 09 May 2016,To: 09 May 2016,Chaldean,FY 2016,4,Iraq,4,325
+From: 09 May 2016,To: 09 May 2016,Christian,FY 2016,38,Bhutan,10,325
+From: 09 May 2016,To: 09 May 2016,Christian,FY 2016,38,Burma,27,325
+From: 09 May 2016,To: 09 May 2016,Christian,FY 2016,38,Iraq,1,325
+From: 09 May 2016,To: 09 May 2016,Hindu,FY 2016,17,Bhutan,17,325
+From: 09 May 2016,To: 09 May 2016,Kirat,FY 2016,12,Bhutan,12,325
+From: 09 May 2016,To: 09 May 2016,Moslem,FY 2016,38,Afghanistan,1,325
+From: 09 May 2016,To: 09 May 2016,Moslem,FY 2016,38,Burma,2,325
+From: 09 May 2016,To: 09 May 2016,Moslem,FY 2016,38,Ethiopia,1,325
+From: 09 May 2016,To: 09 May 2016,Moslem,FY 2016,38,Iraq,1,325
+From: 09 May 2016,To: 09 May 2016,Moslem,FY 2016,38,Somalia,33,325
+From: 09 May 2016,To: 09 May 2016,Moslem Shiite,FY 2016,2,Iraq,2,325
+From: 09 May 2016,To: 09 May 2016,Moslem Suni,FY 2016,99,Afghanistan,5,325
+From: 09 May 2016,To: 09 May 2016,Moslem Suni,FY 2016,99,Iraq,47,325
+From: 09 May 2016,To: 09 May 2016,Moslem Suni,FY 2016,99,Syria,44,325
+From: 09 May 2016,To: 09 May 2016,Moslem Suni,FY 2016,99,Yemen,3,325
+From: 09 May 2016,To: 09 May 2016,Orthodox,FY 2016,1,Iraq,1,325
+From: 09 May 2016,To: 09 May 2016,Pentecostalist,FY 2016,8,Dem. Rep. Congo,8,325
+From: 09 May 2016,To: 09 May 2016,Seventh Day Adventist,FY 2016,59,Dem. Rep. Congo,59,325
+

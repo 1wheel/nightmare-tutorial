@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Apr 2014,To: 23 Apr 2014,Bhutan,FY 2014,78,Buddhist,19,373
+From: 23 Apr 2014,To: 23 Apr 2014,Bhutan,FY 2014,78,Christian,13,373
+From: 23 Apr 2014,To: 23 Apr 2014,Bhutan,FY 2014,78,Hindu,39,373
+From: 23 Apr 2014,To: 23 Apr 2014,Bhutan,FY 2014,78,Kirat,7,373
+From: 23 Apr 2014,To: 23 Apr 2014,Burma,FY 2014,129,Animist,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Burma,FY 2014,129,Baptist,15,373
+From: 23 Apr 2014,To: 23 Apr 2014,Burma,FY 2014,129,Buddhist,22,373
+From: 23 Apr 2014,To: 23 Apr 2014,Burma,FY 2014,129,Christian,78,373
+From: 23 Apr 2014,To: 23 Apr 2014,Burma,FY 2014,129,Moslem,11,373
+From: 23 Apr 2014,To: 23 Apr 2014,Eritrea,FY 2014,7,Catholic,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Eritrea,FY 2014,7,Orthodox,5,373
+From: 23 Apr 2014,To: 23 Apr 2014,Eritrea,FY 2014,7,Pentecostalist,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Ethiopia,FY 2014,20,Moslem,15,373
+From: 23 Apr 2014,To: 23 Apr 2014,Ethiopia,FY 2014,20,Orthodox,4,373
+From: 23 Apr 2014,To: 23 Apr 2014,Ethiopia,FY 2014,20,Protestant,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iran,FY 2014,8,Christian,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iran,FY 2014,8,Jewish,2,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iran,FY 2014,8,Zoroastrian,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iraq,FY 2014,37,Catholic,4,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iraq,FY 2014,37,Christian,4,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iraq,FY 2014,37,Moslem Shiite,9,373
+From: 23 Apr 2014,To: 23 Apr 2014,Iraq,FY 2014,37,Moslem Suni,20,373
+From: 23 Apr 2014,To: 23 Apr 2014,Pakistan,FY 2014,6,Catholic,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Pakistan,FY 2014,6,Christian,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Somalia,FY 2014,81,Moslem,63,373
+From: 23 Apr 2014,To: 23 Apr 2014,Somalia,FY 2014,81,Moslem Suni,18,373
+From: 23 Apr 2014,To: 23 Apr 2014,Sudan,FY 2014,7,Moslem,6,373
+From: 23 Apr 2014,To: 23 Apr 2014,Sudan,FY 2014,7,Moslem Suni,1,373
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Apr 2014,To: 23 Apr 2014,Animist,FY 2014,3,Burma,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Baptist,FY 2014,15,Burma,15,373
+From: 23 Apr 2014,To: 23 Apr 2014,Buddhist,FY 2014,41,Bhutan,19,373
+From: 23 Apr 2014,To: 23 Apr 2014,Buddhist,FY 2014,41,Burma,22,373
+From: 23 Apr 2014,To: 23 Apr 2014,Catholic,FY 2014,8,Eritrea,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Catholic,FY 2014,8,Iraq,4,373
+From: 23 Apr 2014,To: 23 Apr 2014,Catholic,FY 2014,8,Pakistan,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Christian,FY 2014,101,Bhutan,13,373
+From: 23 Apr 2014,To: 23 Apr 2014,Christian,FY 2014,101,Burma,78,373
+From: 23 Apr 2014,To: 23 Apr 2014,Christian,FY 2014,101,Iran,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Christian,FY 2014,101,Iraq,4,373
+From: 23 Apr 2014,To: 23 Apr 2014,Christian,FY 2014,101,Pakistan,3,373
+From: 23 Apr 2014,To: 23 Apr 2014,Hindu,FY 2014,39,Bhutan,39,373
+From: 23 Apr 2014,To: 23 Apr 2014,Jewish,FY 2014,2,Iran,2,373
+From: 23 Apr 2014,To: 23 Apr 2014,Kirat,FY 2014,7,Bhutan,7,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem,FY 2014,95,Burma,11,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem,FY 2014,95,Ethiopia,15,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem,FY 2014,95,Somalia,63,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem,FY 2014,95,Sudan,6,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem Shiite,FY 2014,9,Iraq,9,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem Suni,FY 2014,39,Iraq,20,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem Suni,FY 2014,39,Somalia,18,373
+From: 23 Apr 2014,To: 23 Apr 2014,Moslem Suni,FY 2014,39,Sudan,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Orthodox,FY 2014,9,Eritrea,5,373
+From: 23 Apr 2014,To: 23 Apr 2014,Orthodox,FY 2014,9,Ethiopia,4,373
+From: 23 Apr 2014,To: 23 Apr 2014,Pentecostalist,FY 2014,1,Eritrea,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Protestant,FY 2014,1,Ethiopia,1,373
+From: 23 Apr 2014,To: 23 Apr 2014,Zoroastrian,FY 2014,3,Iran,3,373
+

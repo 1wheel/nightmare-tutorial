@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Jan 2017,To: 06 Jan 2017,Afghanistan,FY 2017,4,Moslem Suni,4,16
+From: 06 Jan 2017,To: 06 Jan 2017,Eritrea,FY 2017,1,Orthodox,1,16
+From: 06 Jan 2017,To: 06 Jan 2017,Iraq,FY 2017,3,Moslem Suni,3,16
+From: 06 Jan 2017,To: 06 Jan 2017,Syria,FY 2017,8,Moslem Suni,8,16
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Jan 2017,To: 06 Jan 2017,Moslem Suni,FY 2017,15,Afghanistan,4,16
+From: 06 Jan 2017,To: 06 Jan 2017,Moslem Suni,FY 2017,15,Iraq,3,16
+From: 06 Jan 2017,To: 06 Jan 2017,Moslem Suni,FY 2017,15,Syria,8,16
+From: 06 Jan 2017,To: 06 Jan 2017,Orthodox,FY 2017,1,Eritrea,1,16
+

@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jul 2012,To: 12 Jul 2012,Bhutan,FY 2012,120,Buddhist,25,409
+From: 12 Jul 2012,To: 12 Jul 2012,Bhutan,FY 2012,120,Christian,9,409
+From: 12 Jul 2012,To: 12 Jul 2012,Bhutan,FY 2012,120,Hindu,77,409
+From: 12 Jul 2012,To: 12 Jul 2012,Bhutan,FY 2012,120,Kirat,9,409
+From: 12 Jul 2012,To: 12 Jul 2012,Burma,FY 2012,70,Baptist,20,409
+From: 12 Jul 2012,To: 12 Jul 2012,Burma,FY 2012,70,Buddhist,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Burma,FY 2012,70,Catholic,4,409
+From: 12 Jul 2012,To: 12 Jul 2012,Burma,FY 2012,70,Christian,36,409
+From: 12 Jul 2012,To: 12 Jul 2012,Central African Republic,FY 2012,1,Unknown,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Cuba,FY 2012,34,Baptist,2,409
+From: 12 Jul 2012,To: 12 Jul 2012,Cuba,FY 2012,34,Catholic,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Cuba,FY 2012,34,Jehovah Witness,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Cuba,FY 2012,34,No Religion,12,409
+From: 12 Jul 2012,To: 12 Jul 2012,Eritrea,FY 2012,1,Christian,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Ethiopia,FY 2012,1,Christian,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Iran,FY 2012,1,Christian,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Iraq,FY 2012,128,Catholic,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Iraq,FY 2012,128,Christian,26,409
+From: 12 Jul 2012,To: 12 Jul 2012,Iraq,FY 2012,128,Moslem Shiite,37,409
+From: 12 Jul 2012,To: 12 Jul 2012,Iraq,FY 2012,128,Moslem Suni,48,409
+From: 12 Jul 2012,To: 12 Jul 2012,Iraq,FY 2012,128,Sabeans-Mandean,7,409
+From: 12 Jul 2012,To: 12 Jul 2012,Ivory Coast,FY 2012,1,Christian,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Somalia,FY 2012,7,Moslem,6,409
+From: 12 Jul 2012,To: 12 Jul 2012,Somalia,FY 2012,7,Moslem Suni,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Sudan,FY 2012,37,Catholic,6,409
+From: 12 Jul 2012,To: 12 Jul 2012,Sudan,FY 2012,37,Moslem,30,409
+From: 12 Jul 2012,To: 12 Jul 2012,Sudan,FY 2012,37,Moslem Suni,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Ukraine,FY 2012,4,Jewish,2,409
+From: 12 Jul 2012,To: 12 Jul 2012,Ukraine,FY 2012,4,Pentecostalist,2,409
+From: 12 Jul 2012,To: 12 Jul 2012,Uzbekistan,FY 2012,4,Moslem,4,409
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jul 2012,To: 12 Jul 2012,Baptist,FY 2012,22,Burma,20,409
+From: 12 Jul 2012,To: 12 Jul 2012,Baptist,FY 2012,22,Cuba,2,409
+From: 12 Jul 2012,To: 12 Jul 2012,Buddhist,FY 2012,35,Bhutan,25,409
+From: 12 Jul 2012,To: 12 Jul 2012,Buddhist,FY 2012,35,Burma,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Catholic,FY 2012,30,Burma,4,409
+From: 12 Jul 2012,To: 12 Jul 2012,Catholic,FY 2012,30,Cuba,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Catholic,FY 2012,30,Iraq,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Catholic,FY 2012,30,Sudan,6,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Bhutan,9,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Burma,36,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Eritrea,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Ethiopia,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Iran,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Iraq,26,409
+From: 12 Jul 2012,To: 12 Jul 2012,Christian,FY 2012,75,Ivory Coast,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Hindu,FY 2012,77,Bhutan,77,409
+From: 12 Jul 2012,To: 12 Jul 2012,Jehovah Witness,FY 2012,10,Cuba,10,409
+From: 12 Jul 2012,To: 12 Jul 2012,Jewish,FY 2012,2,Ukraine,2,409
+From: 12 Jul 2012,To: 12 Jul 2012,Kirat,FY 2012,9,Bhutan,9,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem,FY 2012,40,Somalia,6,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem,FY 2012,40,Sudan,30,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem,FY 2012,40,Uzbekistan,4,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem Shiite,FY 2012,37,Iraq,37,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem Suni,FY 2012,50,Iraq,48,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem Suni,FY 2012,50,Somalia,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,Moslem Suni,FY 2012,50,Sudan,1,409
+From: 12 Jul 2012,To: 12 Jul 2012,No Religion,FY 2012,12,Cuba,12,409
+From: 12 Jul 2012,To: 12 Jul 2012,Pentecostalist,FY 2012,2,Ukraine,2,409
+From: 12 Jul 2012,To: 12 Jul 2012,Sabeans-Mandean,FY 2012,7,Iraq,7,409
+From: 12 Jul 2012,To: 12 Jul 2012,Unknown,FY 2012,1,Central African Republic,1,409
+

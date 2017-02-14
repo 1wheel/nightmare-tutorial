@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jan 2006,To: 18 Jan 2006,Afghanistan,FY 2006,4,Moslem,4,351
+From: 18 Jan 2006,To: 18 Jan 2006,Azerbaijan,FY 2006,6,Jewish,6,351
+From: 18 Jan 2006,To: 18 Jan 2006,Cuba,FY 2006,70,Catholic,23,351
+From: 18 Jan 2006,To: 18 Jan 2006,Cuba,FY 2006,70,Jehovah Witness,15,351
+From: 18 Jan 2006,To: 18 Jan 2006,Cuba,FY 2006,70,No Religion,27,351
+From: 18 Jan 2006,To: 18 Jan 2006,Cuba,FY 2006,70,Pentecostalist,2,351
+From: 18 Jan 2006,To: 18 Jan 2006,Cuba,FY 2006,70,Seventh Day Adventist,3,351
+From: 18 Jan 2006,To: 18 Jan 2006,Ethiopia,FY 2006,9,Moslem,9,351
+From: 18 Jan 2006,To: 18 Jan 2006,Iran,FY 2006,11,Christian,7,351
+From: 18 Jan 2006,To: 18 Jan 2006,Iran,FY 2006,11,Jewish,4,351
+From: 18 Jan 2006,To: 18 Jan 2006,Liberia,FY 2006,35,Catholic,1,351
+From: 18 Jan 2006,To: 18 Jan 2006,Liberia,FY 2006,35,Christian,28,351
+From: 18 Jan 2006,To: 18 Jan 2006,Liberia,FY 2006,35,Moslem,6,351
+From: 18 Jan 2006,To: 18 Jan 2006,Russia,FY 2006,63,Moslem,63,351
+From: 18 Jan 2006,To: 18 Jan 2006,Somalia,FY 2006,56,Moslem,56,351
+From: 18 Jan 2006,To: 18 Jan 2006,Sudan,FY 2006,32,Catholic,14,351
+From: 18 Jan 2006,To: 18 Jan 2006,Sudan,FY 2006,32,Moslem,15,351
+From: 18 Jan 2006,To: 18 Jan 2006,Sudan,FY 2006,32,Protestant,3,351
+From: 18 Jan 2006,To: 18 Jan 2006,Ukraine,FY 2006,30,Baptist,4,351
+From: 18 Jan 2006,To: 18 Jan 2006,Ukraine,FY 2006,30,Jewish,1,351
+From: 18 Jan 2006,To: 18 Jan 2006,Ukraine,FY 2006,30,Pentecostalist,24,351
+From: 18 Jan 2006,To: 18 Jan 2006,Ukraine,FY 2006,30,Russian Orthodox,1,351
+From: 18 Jan 2006,To: 18 Jan 2006,Vietnam,FY 2006,35,Buddhist,7,351
+From: 18 Jan 2006,To: 18 Jan 2006,Vietnam,FY 2006,35,Catholic,15,351
+From: 18 Jan 2006,To: 18 Jan 2006,Vietnam,FY 2006,35,No Religion,7,351
+From: 18 Jan 2006,To: 18 Jan 2006,Vietnam,FY 2006,35,Protestant,6,351
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jan 2006,To: 18 Jan 2006,Baptist,FY 2006,4,Ukraine,4,351
+From: 18 Jan 2006,To: 18 Jan 2006,Buddhist,FY 2006,7,Vietnam,7,351
+From: 18 Jan 2006,To: 18 Jan 2006,Catholic,FY 2006,53,Cuba,23,351
+From: 18 Jan 2006,To: 18 Jan 2006,Catholic,FY 2006,53,Liberia,1,351
+From: 18 Jan 2006,To: 18 Jan 2006,Catholic,FY 2006,53,Sudan,14,351
+From: 18 Jan 2006,To: 18 Jan 2006,Catholic,FY 2006,53,Vietnam,15,351
+From: 18 Jan 2006,To: 18 Jan 2006,Christian,FY 2006,35,Iran,7,351
+From: 18 Jan 2006,To: 18 Jan 2006,Christian,FY 2006,35,Liberia,28,351
+From: 18 Jan 2006,To: 18 Jan 2006,Jehovah Witness,FY 2006,15,Cuba,15,351
+From: 18 Jan 2006,To: 18 Jan 2006,Jewish,FY 2006,11,Azerbaijan,6,351
+From: 18 Jan 2006,To: 18 Jan 2006,Jewish,FY 2006,11,Iran,4,351
+From: 18 Jan 2006,To: 18 Jan 2006,Jewish,FY 2006,11,Ukraine,1,351
+From: 18 Jan 2006,To: 18 Jan 2006,Moslem,FY 2006,153,Afghanistan,4,351
+From: 18 Jan 2006,To: 18 Jan 2006,Moslem,FY 2006,153,Ethiopia,9,351
+From: 18 Jan 2006,To: 18 Jan 2006,Moslem,FY 2006,153,Liberia,6,351
+From: 18 Jan 2006,To: 18 Jan 2006,Moslem,FY 2006,153,Russia,63,351
+From: 18 Jan 2006,To: 18 Jan 2006,Moslem,FY 2006,153,Somalia,56,351
+From: 18 Jan 2006,To: 18 Jan 2006,Moslem,FY 2006,153,Sudan,15,351
+From: 18 Jan 2006,To: 18 Jan 2006,No Religion,FY 2006,34,Cuba,27,351
+From: 18 Jan 2006,To: 18 Jan 2006,No Religion,FY 2006,34,Vietnam,7,351
+From: 18 Jan 2006,To: 18 Jan 2006,Pentecostalist,FY 2006,26,Cuba,2,351
+From: 18 Jan 2006,To: 18 Jan 2006,Pentecostalist,FY 2006,26,Ukraine,24,351
+From: 18 Jan 2006,To: 18 Jan 2006,Protestant,FY 2006,9,Sudan,3,351
+From: 18 Jan 2006,To: 18 Jan 2006,Protestant,FY 2006,9,Vietnam,6,351
+From: 18 Jan 2006,To: 18 Jan 2006,Russian Orthodox,FY 2006,1,Ukraine,1,351
+From: 18 Jan 2006,To: 18 Jan 2006,Seventh Day Adventist,FY 2006,3,Cuba,3,351
+

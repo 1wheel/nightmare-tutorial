@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Mar 2013,To: 04 Mar 2013,Bhutan,FY 2013,43,Buddhist,26,211
+From: 04 Mar 2013,To: 04 Mar 2013,Bhutan,FY 2013,43,Christian,5,211
+From: 04 Mar 2013,To: 04 Mar 2013,Bhutan,FY 2013,43,Hindu,12,211
+From: 04 Mar 2013,To: 04 Mar 2013,Burma,FY 2013,64,Baptist,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Burma,FY 2013,64,Buddhist,21,211
+From: 04 Mar 2013,To: 04 Mar 2013,Burma,FY 2013,64,Christian,42,211
+From: 04 Mar 2013,To: 04 Mar 2013,Congo,FY 2013,3,Christian,3,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Catholic,12,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Chaldean,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Christian,6,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Moslem,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Moslem Shiite,42,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Moslem Suni,16,211
+From: 04 Mar 2013,To: 04 Mar 2013,Iraq,FY 2013,87,Orthodox,9,211
+From: 04 Mar 2013,To: 04 Mar 2013,Jordan,FY 2013,1,Moslem Suni,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Somalia,FY 2013,10,Moslem,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Somalia,FY 2013,10,Moslem Suni,9,211
+From: 04 Mar 2013,To: 04 Mar 2013,Sudan,FY 2013,3,Catholic,2,211
+From: 04 Mar 2013,To: 04 Mar 2013,Sudan,FY 2013,3,Moslem,1,211
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Mar 2013,To: 04 Mar 2013,Baptist,FY 2013,1,Burma,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Buddhist,FY 2013,47,Bhutan,26,211
+From: 04 Mar 2013,To: 04 Mar 2013,Buddhist,FY 2013,47,Burma,21,211
+From: 04 Mar 2013,To: 04 Mar 2013,Catholic,FY 2013,14,Iraq,12,211
+From: 04 Mar 2013,To: 04 Mar 2013,Catholic,FY 2013,14,Sudan,2,211
+From: 04 Mar 2013,To: 04 Mar 2013,Chaldean,FY 2013,1,Iraq,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Christian,FY 2013,56,Bhutan,5,211
+From: 04 Mar 2013,To: 04 Mar 2013,Christian,FY 2013,56,Burma,42,211
+From: 04 Mar 2013,To: 04 Mar 2013,Christian,FY 2013,56,Congo,3,211
+From: 04 Mar 2013,To: 04 Mar 2013,Christian,FY 2013,56,Iraq,6,211
+From: 04 Mar 2013,To: 04 Mar 2013,Hindu,FY 2013,12,Bhutan,12,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem,FY 2013,3,Iraq,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem,FY 2013,3,Somalia,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem,FY 2013,3,Sudan,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem Shiite,FY 2013,42,Iraq,42,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem Suni,FY 2013,26,Iraq,16,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem Suni,FY 2013,26,Jordan,1,211
+From: 04 Mar 2013,To: 04 Mar 2013,Moslem Suni,FY 2013,26,Somalia,9,211
+From: 04 Mar 2013,To: 04 Mar 2013,Orthodox,FY 2013,9,Iraq,9,211
+

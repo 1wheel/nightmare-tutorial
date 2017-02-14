@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Sep 2016,To: 02 Sep 2016,Bhutan,FY 2016,4,Buddhist,4,88
+From: 02 Sep 2016,To: 02 Sep 2016,Burundi,FY 2016,1,Moslem,1,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Baptist,5,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Catholic,2,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Jehovah Witness,7,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Moslem,1,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Pentecostalist,18,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Protestant,15,88
+From: 02 Sep 2016,To: 02 Sep 2016,Dem. Rep. Congo,FY 2016,50,Seventh Day Adventist,2,88
+From: 02 Sep 2016,To: 02 Sep 2016,Iraq,FY 2016,6,Moslem Shiite,6,88
+From: 02 Sep 2016,To: 02 Sep 2016,Ivory Coast,FY 2016,1,Protestant,1,88
+From: 02 Sep 2016,To: 02 Sep 2016,Rwanda,FY 2016,7,Catholic,7,88
+From: 02 Sep 2016,To: 02 Sep 2016,Syria,FY 2016,19,Moslem Suni,19,88
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Sep 2016,To: 02 Sep 2016,Baptist,FY 2016,5,Dem. Rep. Congo,5,88
+From: 02 Sep 2016,To: 02 Sep 2016,Buddhist,FY 2016,4,Bhutan,4,88
+From: 02 Sep 2016,To: 02 Sep 2016,Catholic,FY 2016,9,Dem. Rep. Congo,2,88
+From: 02 Sep 2016,To: 02 Sep 2016,Catholic,FY 2016,9,Rwanda,7,88
+From: 02 Sep 2016,To: 02 Sep 2016,Jehovah Witness,FY 2016,7,Dem. Rep. Congo,7,88
+From: 02 Sep 2016,To: 02 Sep 2016,Moslem,FY 2016,2,Burundi,1,88
+From: 02 Sep 2016,To: 02 Sep 2016,Moslem,FY 2016,2,Dem. Rep. Congo,1,88
+From: 02 Sep 2016,To: 02 Sep 2016,Moslem Shiite,FY 2016,6,Iraq,6,88
+From: 02 Sep 2016,To: 02 Sep 2016,Moslem Suni,FY 2016,19,Syria,19,88
+From: 02 Sep 2016,To: 02 Sep 2016,Pentecostalist,FY 2016,18,Dem. Rep. Congo,18,88
+From: 02 Sep 2016,To: 02 Sep 2016,Protestant,FY 2016,16,Dem. Rep. Congo,15,88
+From: 02 Sep 2016,To: 02 Sep 2016,Protestant,FY 2016,16,Ivory Coast,1,88
+From: 02 Sep 2016,To: 02 Sep 2016,Seventh Day Adventist,FY 2016,2,Dem. Rep. Congo,2,88
+

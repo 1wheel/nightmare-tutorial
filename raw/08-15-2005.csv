@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Aug 2005,To: 15 Aug 2005,Afghanistan,FY 2005,12,Moslem Suni,12,223
+From: 15 Aug 2005,To: 15 Aug 2005,Azerbaijan,FY 2005,3,Unknown,3,223
+From: 15 Aug 2005,To: 15 Aug 2005,Belarus,FY 2005,11,Baptist,2,223
+From: 15 Aug 2005,To: 15 Aug 2005,Belarus,FY 2005,11,Jewish,1,223
+From: 15 Aug 2005,To: 15 Aug 2005,Belarus,FY 2005,11,No Religion,2,223
+From: 15 Aug 2005,To: 15 Aug 2005,Belarus,FY 2005,11,Pentecostalist,6,223
+From: 15 Aug 2005,To: 15 Aug 2005,Burma,FY 2005,9,Buddhist,9,223
+From: 15 Aug 2005,To: 15 Aug 2005,Ethiopia,FY 2005,7,Moslem,7,223
+From: 15 Aug 2005,To: 15 Aug 2005,Laos,FY 2005,13,Ancestral Worship,13,223
+From: 15 Aug 2005,To: 15 Aug 2005,Liberia,FY 2005,56,Christian,21,223
+From: 15 Aug 2005,To: 15 Aug 2005,Liberia,FY 2005,56,Moslem,35,223
+From: 15 Aug 2005,To: 15 Aug 2005,Russia,FY 2005,46,Baptist,10,223
+From: 15 Aug 2005,To: 15 Aug 2005,Russia,FY 2005,46,Jewish,1,223
+From: 15 Aug 2005,To: 15 Aug 2005,Russia,FY 2005,46,Moslem,35,223
+From: 15 Aug 2005,To: 15 Aug 2005,Somalia,FY 2005,35,Moslem,35,223
+From: 15 Aug 2005,To: 15 Aug 2005,Sudan,FY 2005,27,Catholic,8,223
+From: 15 Aug 2005,To: 15 Aug 2005,Sudan,FY 2005,27,Moslem,4,223
+From: 15 Aug 2005,To: 15 Aug 2005,Sudan,FY 2005,27,Protestant,15,223
+From: 15 Aug 2005,To: 15 Aug 2005,Ukraine,FY 2005,4,Pentecostalist,4,223
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Aug 2005,To: 15 Aug 2005,Ancestral Worship,FY 2005,13,Laos,13,223
+From: 15 Aug 2005,To: 15 Aug 2005,Baptist,FY 2005,12,Belarus,2,223
+From: 15 Aug 2005,To: 15 Aug 2005,Baptist,FY 2005,12,Russia,10,223
+From: 15 Aug 2005,To: 15 Aug 2005,Buddhist,FY 2005,9,Burma,9,223
+From: 15 Aug 2005,To: 15 Aug 2005,Catholic,FY 2005,8,Sudan,8,223
+From: 15 Aug 2005,To: 15 Aug 2005,Christian,FY 2005,21,Liberia,21,223
+From: 15 Aug 2005,To: 15 Aug 2005,Jewish,FY 2005,2,Belarus,1,223
+From: 15 Aug 2005,To: 15 Aug 2005,Jewish,FY 2005,2,Russia,1,223
+From: 15 Aug 2005,To: 15 Aug 2005,Moslem,FY 2005,116,Ethiopia,7,223
+From: 15 Aug 2005,To: 15 Aug 2005,Moslem,FY 2005,116,Liberia,35,223
+From: 15 Aug 2005,To: 15 Aug 2005,Moslem,FY 2005,116,Russia,35,223
+From: 15 Aug 2005,To: 15 Aug 2005,Moslem,FY 2005,116,Somalia,35,223
+From: 15 Aug 2005,To: 15 Aug 2005,Moslem,FY 2005,116,Sudan,4,223
+From: 15 Aug 2005,To: 15 Aug 2005,Moslem Suni,FY 2005,12,Afghanistan,12,223
+From: 15 Aug 2005,To: 15 Aug 2005,No Religion,FY 2005,2,Belarus,2,223
+From: 15 Aug 2005,To: 15 Aug 2005,Pentecostalist,FY 2005,10,Belarus,6,223
+From: 15 Aug 2005,To: 15 Aug 2005,Pentecostalist,FY 2005,10,Ukraine,4,223
+From: 15 Aug 2005,To: 15 Aug 2005,Protestant,FY 2005,15,Sudan,15,223
+From: 15 Aug 2005,To: 15 Aug 2005,Unknown,FY 2005,3,Azerbaijan,3,223
+

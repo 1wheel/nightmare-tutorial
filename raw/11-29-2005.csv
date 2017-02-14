@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Nov 2005,To: 29 Nov 2005,Afghanistan,FY 2006,1,Moslem Shiite,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Bosnia and Herzegovina,FY 2006,5,Orthodox,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Burma,FY 2006,23,Christian,23,346
+From: 29 Nov 2005,To: 29 Nov 2005,Croatia,FY 2006,1,Orthodox,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Cuba,FY 2006,65,Baptist,6,346
+From: 29 Nov 2005,To: 29 Nov 2005,Cuba,FY 2006,65,Catholic,14,346
+From: 29 Nov 2005,To: 29 Nov 2005,Cuba,FY 2006,65,Jehovah Witness,22,346
+From: 29 Nov 2005,To: 29 Nov 2005,Cuba,FY 2006,65,No Religion,17,346
+From: 29 Nov 2005,To: 29 Nov 2005,Cuba,FY 2006,65,Other Religion,4,346
+From: 29 Nov 2005,To: 29 Nov 2005,Cuba,FY 2006,65,Seventh Day Adventist,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Eritrea,FY 2006,20,Jehovah Witness,4,346
+From: 29 Nov 2005,To: 29 Nov 2005,Eritrea,FY 2006,20,Moslem,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Eritrea,FY 2006,20,Orthodox,10,346
+From: 29 Nov 2005,To: 29 Nov 2005,Eritrea,FY 2006,20,Pentecostalist,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Ethiopia,FY 2006,31,Christian,4,346
+From: 29 Nov 2005,To: 29 Nov 2005,Ethiopia,FY 2006,31,Moslem,7,346
+From: 29 Nov 2005,To: 29 Nov 2005,Ethiopia,FY 2006,31,Orthodox,20,346
+From: 29 Nov 2005,To: 29 Nov 2005,Iran,FY 2006,5,Christian,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Iraq,FY 2006,1,Moslem,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Liberia,FY 2006,25,Christian,17,346
+From: 29 Nov 2005,To: 29 Nov 2005,Liberia,FY 2006,25,Lutheran,3,346
+From: 29 Nov 2005,To: 29 Nov 2005,Liberia,FY 2006,25,Moslem,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Russia,FY 2006,43,Baptist,3,346
+From: 29 Nov 2005,To: 29 Nov 2005,Russia,FY 2006,43,Jewish,8,346
+From: 29 Nov 2005,To: 29 Nov 2005,Russia,FY 2006,43,Moslem,29,346
+From: 29 Nov 2005,To: 29 Nov 2005,Russia,FY 2006,43,Seventh Day Adventist,3,346
+From: 29 Nov 2005,To: 29 Nov 2005,Rwanda,FY 2006,1,Christian,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Serbia,FY 2006,1,Unknown,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Somalia,FY 2006,56,Moslem,56,346
+From: 29 Nov 2005,To: 29 Nov 2005,Sudan,FY 2006,2,Catholic,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Ukraine,FY 2006,30,Baptist,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Ukraine,FY 2006,30,Pentecostalist,26,346
+From: 29 Nov 2005,To: 29 Nov 2005,Ukraine,FY 2006,30,Uniate,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Uzbekistan,FY 2006,1,Baptist,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Vietnam,FY 2006,35,Ancestral Worship,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Vietnam,FY 2006,35,Buddhist,9,346
+From: 29 Nov 2005,To: 29 Nov 2005,Vietnam,FY 2006,35,Catholic,24,346
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Nov 2005,To: 29 Nov 2005,Ancestral Worship,FY 2006,2,Vietnam,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Baptist,FY 2006,12,Cuba,6,346
+From: 29 Nov 2005,To: 29 Nov 2005,Baptist,FY 2006,12,Russia,3,346
+From: 29 Nov 2005,To: 29 Nov 2005,Baptist,FY 2006,12,Ukraine,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Baptist,FY 2006,12,Uzbekistan,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Buddhist,FY 2006,9,Vietnam,9,346
+From: 29 Nov 2005,To: 29 Nov 2005,Catholic,FY 2006,40,Cuba,14,346
+From: 29 Nov 2005,To: 29 Nov 2005,Catholic,FY 2006,40,Sudan,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Catholic,FY 2006,40,Vietnam,24,346
+From: 29 Nov 2005,To: 29 Nov 2005,Christian,FY 2006,50,Burma,23,346
+From: 29 Nov 2005,To: 29 Nov 2005,Christian,FY 2006,50,Ethiopia,4,346
+From: 29 Nov 2005,To: 29 Nov 2005,Christian,FY 2006,50,Iran,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Christian,FY 2006,50,Liberia,17,346
+From: 29 Nov 2005,To: 29 Nov 2005,Christian,FY 2006,50,Rwanda,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Jehovah Witness,FY 2006,26,Cuba,22,346
+From: 29 Nov 2005,To: 29 Nov 2005,Jehovah Witness,FY 2006,26,Eritrea,4,346
+From: 29 Nov 2005,To: 29 Nov 2005,Jewish,FY 2006,8,Russia,8,346
+From: 29 Nov 2005,To: 29 Nov 2005,Lutheran,FY 2006,3,Liberia,3,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem,FY 2006,103,Eritrea,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem,FY 2006,103,Ethiopia,7,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem,FY 2006,103,Iraq,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem,FY 2006,103,Liberia,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem,FY 2006,103,Russia,29,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem,FY 2006,103,Somalia,56,346
+From: 29 Nov 2005,To: 29 Nov 2005,Moslem Shiite,FY 2006,1,Afghanistan,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,No Religion,FY 2006,17,Cuba,17,346
+From: 29 Nov 2005,To: 29 Nov 2005,Orthodox,FY 2006,36,Bosnia and Herzegovina,5,346
+From: 29 Nov 2005,To: 29 Nov 2005,Orthodox,FY 2006,36,Croatia,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Orthodox,FY 2006,36,Eritrea,10,346
+From: 29 Nov 2005,To: 29 Nov 2005,Orthodox,FY 2006,36,Ethiopia,20,346
+From: 29 Nov 2005,To: 29 Nov 2005,Other Religion,FY 2006,4,Cuba,4,346
+From: 29 Nov 2005,To: 29 Nov 2005,Pentecostalist,FY 2006,27,Eritrea,1,346
+From: 29 Nov 2005,To: 29 Nov 2005,Pentecostalist,FY 2006,27,Ukraine,26,346
+From: 29 Nov 2005,To: 29 Nov 2005,Seventh Day Adventist,FY 2006,5,Cuba,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Seventh Day Adventist,FY 2006,5,Russia,3,346
+From: 29 Nov 2005,To: 29 Nov 2005,Uniate,FY 2006,2,Ukraine,2,346
+From: 29 Nov 2005,To: 29 Nov 2005,Unknown,FY 2006,1,Serbia,1,346
+

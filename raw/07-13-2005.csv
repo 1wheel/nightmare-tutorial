@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jul 2005,To: 13 Jul 2005,Afghanistan,FY 2005,6,Moslem Shiite,5,484
+From: 13 Jul 2005,To: 13 Jul 2005,Afghanistan,FY 2005,6,Moslem Suni,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Burma,FY 2005,20,Baptist,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Burma,FY 2005,20,Christian,16,484
+From: 13 Jul 2005,To: 13 Jul 2005,Congo,FY 2005,1,Protestant,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Dem. Rep. Congo,FY 2005,4,Christian,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Ethiopia,FY 2005,17,Christian,7,484
+From: 13 Jul 2005,To: 13 Jul 2005,Ethiopia,FY 2005,17,Moslem,8,484
+From: 13 Jul 2005,To: 13 Jul 2005,Ethiopia,FY 2005,17,Orthodox,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Iran,FY 2005,2,Zoroastrian,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Laos,FY 2005,117,Ancestral Worship,117,484
+From: 13 Jul 2005,To: 13 Jul 2005,Liberia,FY 2005,56,Christian,37,484
+From: 13 Jul 2005,To: 13 Jul 2005,Liberia,FY 2005,56,Lutheran,15,484
+From: 13 Jul 2005,To: 13 Jul 2005,Liberia,FY 2005,56,Moslem,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Russia,FY 2005,86,Baptist,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Russia,FY 2005,86,Jewish,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Russia,FY 2005,86,Moslem,70,484
+From: 13 Jul 2005,To: 13 Jul 2005,Russia,FY 2005,86,No Religion,3,484
+From: 13 Jul 2005,To: 13 Jul 2005,Russia,FY 2005,86,Orthodox,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Russia,FY 2005,86,Pentecostalist,5,484
+From: 13 Jul 2005,To: 13 Jul 2005,Somalia,FY 2005,54,Moslem,54,484
+From: 13 Jul 2005,To: 13 Jul 2005,Sudan,FY 2005,32,Catholic,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Sudan,FY 2005,32,Christian,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Sudan,FY 2005,32,Moslem,23,484
+From: 13 Jul 2005,To: 13 Jul 2005,Sudan,FY 2005,32,Protestant,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Ukraine,FY 2005,29,Pentecostalist,26,484
+From: 13 Jul 2005,To: 13 Jul 2005,Ukraine,FY 2005,29,Uniate,3,484
+From: 13 Jul 2005,To: 13 Jul 2005,Vietnam,FY 2005,60,Buddhist,6,484
+From: 13 Jul 2005,To: 13 Jul 2005,Vietnam,FY 2005,60,Christian,6,484
+From: 13 Jul 2005,To: 13 Jul 2005,Vietnam,FY 2005,60,No Religion,10,484
+From: 13 Jul 2005,To: 13 Jul 2005,Vietnam,FY 2005,60,Other Religion,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Vietnam,FY 2005,60,Protestant,37,484
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jul 2005,To: 13 Jul 2005,Ancestral Worship,FY 2005,117,Laos,117,484
+From: 13 Jul 2005,To: 13 Jul 2005,Baptist,FY 2005,6,Burma,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Baptist,FY 2005,6,Russia,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Buddhist,FY 2005,6,Vietnam,6,484
+From: 13 Jul 2005,To: 13 Jul 2005,Catholic,FY 2005,4,Sudan,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Christian,FY 2005,74,Burma,16,484
+From: 13 Jul 2005,To: 13 Jul 2005,Christian,FY 2005,74,Dem. Rep. Congo,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Christian,FY 2005,74,Ethiopia,7,484
+From: 13 Jul 2005,To: 13 Jul 2005,Christian,FY 2005,74,Liberia,37,484
+From: 13 Jul 2005,To: 13 Jul 2005,Christian,FY 2005,74,Sudan,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Christian,FY 2005,74,Vietnam,6,484
+From: 13 Jul 2005,To: 13 Jul 2005,Jewish,FY 2005,4,Russia,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Lutheran,FY 2005,15,Liberia,15,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem,FY 2005,159,Ethiopia,8,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem,FY 2005,159,Liberia,4,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem,FY 2005,159,Russia,70,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem,FY 2005,159,Somalia,54,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem,FY 2005,159,Sudan,23,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem Shiite,FY 2005,5,Afghanistan,5,484
+From: 13 Jul 2005,To: 13 Jul 2005,Moslem Suni,FY 2005,1,Afghanistan,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,No Religion,FY 2005,13,Russia,3,484
+From: 13 Jul 2005,To: 13 Jul 2005,No Religion,FY 2005,13,Vietnam,10,484
+From: 13 Jul 2005,To: 13 Jul 2005,Orthodox,FY 2005,4,Ethiopia,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Orthodox,FY 2005,4,Russia,2,484
+From: 13 Jul 2005,To: 13 Jul 2005,Other Religion,FY 2005,1,Vietnam,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Pentecostalist,FY 2005,31,Russia,5,484
+From: 13 Jul 2005,To: 13 Jul 2005,Pentecostalist,FY 2005,31,Ukraine,26,484
+From: 13 Jul 2005,To: 13 Jul 2005,Protestant,FY 2005,39,Congo,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Protestant,FY 2005,39,Sudan,1,484
+From: 13 Jul 2005,To: 13 Jul 2005,Protestant,FY 2005,39,Vietnam,37,484
+From: 13 Jul 2005,To: 13 Jul 2005,Uniate,FY 2005,3,Ukraine,3,484
+From: 13 Jul 2005,To: 13 Jul 2005,Zoroastrian,FY 2005,2,Iran,2,484
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Feb 2017,To: 13 Feb 2017,Bhutan,FY 2017,48,Buddhist,6,394
+From: 13 Feb 2017,To: 13 Feb 2017,Bhutan,FY 2017,48,Christian,11,394
+From: 13 Feb 2017,To: 13 Feb 2017,Bhutan,FY 2017,48,Hindu,28,394
+From: 13 Feb 2017,To: 13 Feb 2017,Bhutan,FY 2017,48,Kirat,3,394
+From: 13 Feb 2017,To: 13 Feb 2017,Burundi,FY 2017,2,Catholic,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Dem. Rep. Congo,FY 2017,204,Catholic,30,394
+From: 13 Feb 2017,To: 13 Feb 2017,Dem. Rep. Congo,FY 2017,204,Christian,69,394
+From: 13 Feb 2017,To: 13 Feb 2017,Dem. Rep. Congo,FY 2017,204,Jehovah Witness,8,394
+From: 13 Feb 2017,To: 13 Feb 2017,Dem. Rep. Congo,FY 2017,204,Moslem,20,394
+From: 13 Feb 2017,To: 13 Feb 2017,Dem. Rep. Congo,FY 2017,204,Pentecostalist,27,394
+From: 13 Feb 2017,To: 13 Feb 2017,Dem. Rep. Congo,FY 2017,204,Protestant,50,394
+From: 13 Feb 2017,To: 13 Feb 2017,Eritrea,FY 2017,15,Catholic,3,394
+From: 13 Feb 2017,To: 13 Feb 2017,Eritrea,FY 2017,15,Moslem,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Eritrea,FY 2017,15,Moslem Suni,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Eritrea,FY 2017,15,Orthodox,10,394
+From: 13 Feb 2017,To: 13 Feb 2017,Ethiopia,FY 2017,2,Moslem,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iran,FY 2017,2,Moslem Shiite,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iraq,FY 2017,45,Catholic,13,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iraq,FY 2017,45,Moslem,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iraq,FY 2017,45,Moslem Shiite,13,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iraq,FY 2017,45,Moslem Suni,9,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iraq,FY 2017,45,Orthodox,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Iraq,FY 2017,45,Yazidi,6,394
+From: 13 Feb 2017,To: 13 Feb 2017,Somalia,FY 2017,56,Moslem,43,394
+From: 13 Feb 2017,To: 13 Feb 2017,Somalia,FY 2017,56,Moslem Suni,12,394
+From: 13 Feb 2017,To: 13 Feb 2017,Somalia,FY 2017,56,No Religion,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Sudan,FY 2017,1,Moslem Suni,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Syria,FY 2017,18,Moslem Suni,18,394
+From: 13 Feb 2017,To: 13 Feb 2017,Tanzania,FY 2017,1,Christian,1,394
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Feb 2017,To: 13 Feb 2017,Buddhist,FY 2017,6,Bhutan,6,394
+From: 13 Feb 2017,To: 13 Feb 2017,Catholic,FY 2017,48,Burundi,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Catholic,FY 2017,48,Dem. Rep. Congo,30,394
+From: 13 Feb 2017,To: 13 Feb 2017,Catholic,FY 2017,48,Eritrea,3,394
+From: 13 Feb 2017,To: 13 Feb 2017,Catholic,FY 2017,48,Iraq,13,394
+From: 13 Feb 2017,To: 13 Feb 2017,Christian,FY 2017,81,Bhutan,11,394
+From: 13 Feb 2017,To: 13 Feb 2017,Christian,FY 2017,81,Dem. Rep. Congo,69,394
+From: 13 Feb 2017,To: 13 Feb 2017,Christian,FY 2017,81,Tanzania,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Hindu,FY 2017,28,Bhutan,28,394
+From: 13 Feb 2017,To: 13 Feb 2017,Jehovah Witness,FY 2017,8,Dem. Rep. Congo,8,394
+From: 13 Feb 2017,To: 13 Feb 2017,Kirat,FY 2017,3,Bhutan,3,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem,FY 2017,68,Dem. Rep. Congo,20,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem,FY 2017,68,Eritrea,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem,FY 2017,68,Ethiopia,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem,FY 2017,68,Iraq,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem,FY 2017,68,Somalia,43,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Shiite,FY 2017,15,Iran,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Shiite,FY 2017,15,Iraq,13,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Suni,FY 2017,41,Eritrea,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Suni,FY 2017,41,Iraq,9,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Suni,FY 2017,41,Somalia,12,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Suni,FY 2017,41,Sudan,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Moslem Suni,FY 2017,41,Syria,18,394
+From: 13 Feb 2017,To: 13 Feb 2017,No Religion,FY 2017,1,Somalia,1,394
+From: 13 Feb 2017,To: 13 Feb 2017,Orthodox,FY 2017,12,Eritrea,10,394
+From: 13 Feb 2017,To: 13 Feb 2017,Orthodox,FY 2017,12,Iraq,2,394
+From: 13 Feb 2017,To: 13 Feb 2017,Pentecostalist,FY 2017,27,Dem. Rep. Congo,27,394
+From: 13 Feb 2017,To: 13 Feb 2017,Protestant,FY 2017,50,Dem. Rep. Congo,50,394
+From: 13 Feb 2017,To: 13 Feb 2017,Yazidi,FY 2017,6,Iraq,6,394
+

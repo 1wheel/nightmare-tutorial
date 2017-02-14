@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Sep 2011,To: 21 Sep 2011,Afghanistan,FY 2011,6,Moslem Shiite,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Afghanistan,FY 2011,6,Moslem Suni,5,349
+From: 21 Sep 2011,To: 21 Sep 2011,Bhutan,FY 2011,174,Buddhist,63,349
+From: 21 Sep 2011,To: 21 Sep 2011,Bhutan,FY 2011,174,Christian,19,349
+From: 21 Sep 2011,To: 21 Sep 2011,Bhutan,FY 2011,174,Hindu,84,349
+From: 21 Sep 2011,To: 21 Sep 2011,Bhutan,FY 2011,174,Kirat,8,349
+From: 21 Sep 2011,To: 21 Sep 2011,Eritrea,FY 2011,38,Catholic,5,349
+From: 21 Sep 2011,To: 21 Sep 2011,Eritrea,FY 2011,38,Christian,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Eritrea,FY 2011,38,Moslem,3,349
+From: 21 Sep 2011,To: 21 Sep 2011,Eritrea,FY 2011,38,Orthodox,26,349
+From: 21 Sep 2011,To: 21 Sep 2011,Eritrea,FY 2011,38,Protestant,3,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iran,FY 2011,29,Bahai,2,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iran,FY 2011,29,Christian,18,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iran,FY 2011,29,Moslem Shiite,7,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iran,FY 2011,29,Zoroastrian,2,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iraq,FY 2011,16,Catholic,4,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iraq,FY 2011,16,Christian,4,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iraq,FY 2011,16,Moslem Shiite,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iraq,FY 2011,16,Moslem Suni,6,349
+From: 21 Sep 2011,To: 21 Sep 2011,Iraq,FY 2011,16,Orthodox,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Somalia,FY 2011,86,Moslem,86,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Sep 2011,To: 21 Sep 2011,Bahai,FY 2011,2,Iran,2,349
+From: 21 Sep 2011,To: 21 Sep 2011,Buddhist,FY 2011,63,Bhutan,63,349
+From: 21 Sep 2011,To: 21 Sep 2011,Catholic,FY 2011,9,Eritrea,5,349
+From: 21 Sep 2011,To: 21 Sep 2011,Catholic,FY 2011,9,Iraq,4,349
+From: 21 Sep 2011,To: 21 Sep 2011,Christian,FY 2011,42,Bhutan,19,349
+From: 21 Sep 2011,To: 21 Sep 2011,Christian,FY 2011,42,Eritrea,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Christian,FY 2011,42,Iran,18,349
+From: 21 Sep 2011,To: 21 Sep 2011,Christian,FY 2011,42,Iraq,4,349
+From: 21 Sep 2011,To: 21 Sep 2011,Hindu,FY 2011,84,Bhutan,84,349
+From: 21 Sep 2011,To: 21 Sep 2011,Kirat,FY 2011,8,Bhutan,8,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem,FY 2011,89,Eritrea,3,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem,FY 2011,89,Somalia,86,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem Shiite,FY 2011,9,Afghanistan,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem Shiite,FY 2011,9,Iran,7,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem Shiite,FY 2011,9,Iraq,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem Suni,FY 2011,11,Afghanistan,5,349
+From: 21 Sep 2011,To: 21 Sep 2011,Moslem Suni,FY 2011,11,Iraq,6,349
+From: 21 Sep 2011,To: 21 Sep 2011,Orthodox,FY 2011,27,Eritrea,26,349
+From: 21 Sep 2011,To: 21 Sep 2011,Orthodox,FY 2011,27,Iraq,1,349
+From: 21 Sep 2011,To: 21 Sep 2011,Protestant,FY 2011,3,Eritrea,3,349
+From: 21 Sep 2011,To: 21 Sep 2011,Zoroastrian,FY 2011,2,Iran,2,349
+

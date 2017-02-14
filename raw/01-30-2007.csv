@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jan 2007,To: 30 Jan 2007,Afghanistan,FY 2007,7,Moslem,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Afghanistan,FY 2007,7,Moslem Suni,4,337
+From: 30 Jan 2007,To: 30 Jan 2007,Burma,FY 2007,30,Christian,30,337
+From: 30 Jan 2007,To: 30 Jan 2007,Burundi,FY 2007,2,Christian,2,337
+From: 30 Jan 2007,To: 30 Jan 2007,Cambodia,FY 2007,3,Christian,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Cuba,FY 2007,68,Catholic,28,337
+From: 30 Jan 2007,To: 30 Jan 2007,Cuba,FY 2007,68,Evangelical Christian,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Cuba,FY 2007,68,Jehovah Witness,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Cuba,FY 2007,68,No Religion,36,337
+From: 30 Jan 2007,To: 30 Jan 2007,Iran,FY 2007,35,Christian,35,337
+From: 30 Jan 2007,To: 30 Jan 2007,Iraq,FY 2007,1,Moslem,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Laos,FY 2007,14,Ancestral Worship,14,337
+From: 30 Jan 2007,To: 30 Jan 2007,Liberia,FY 2007,26,Catholic,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Liberia,FY 2007,26,Christian,11,337
+From: 30 Jan 2007,To: 30 Jan 2007,Liberia,FY 2007,26,Lutheran,5,337
+From: 30 Jan 2007,To: 30 Jan 2007,Liberia,FY 2007,26,Pentecostalist,7,337
+From: 30 Jan 2007,To: 30 Jan 2007,Rwanda,FY 2007,6,Catholic,5,337
+From: 30 Jan 2007,To: 30 Jan 2007,Rwanda,FY 2007,6,Pentecostalist,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Somalia,FY 2007,94,Moslem,94,337
+From: 30 Jan 2007,To: 30 Jan 2007,Sudan,FY 2007,28,Catholic,15,337
+From: 30 Jan 2007,To: 30 Jan 2007,Sudan,FY 2007,28,Christian,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Sudan,FY 2007,28,Moslem,12,337
+From: 30 Jan 2007,To: 30 Jan 2007,Ukraine,FY 2007,23,Baptist,2,337
+From: 30 Jan 2007,To: 30 Jan 2007,Ukraine,FY 2007,23,Jewish,2,337
+From: 30 Jan 2007,To: 30 Jan 2007,Ukraine,FY 2007,23,Pentecostalist,19,337
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jan 2007,To: 30 Jan 2007,Ancestral Worship,FY 2007,14,Laos,14,337
+From: 30 Jan 2007,To: 30 Jan 2007,Baptist,FY 2007,2,Ukraine,2,337
+From: 30 Jan 2007,To: 30 Jan 2007,Catholic,FY 2007,51,Cuba,28,337
+From: 30 Jan 2007,To: 30 Jan 2007,Catholic,FY 2007,51,Liberia,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Catholic,FY 2007,51,Rwanda,5,337
+From: 30 Jan 2007,To: 30 Jan 2007,Catholic,FY 2007,51,Sudan,15,337
+From: 30 Jan 2007,To: 30 Jan 2007,Christian,FY 2007,82,Burma,30,337
+From: 30 Jan 2007,To: 30 Jan 2007,Christian,FY 2007,82,Burundi,2,337
+From: 30 Jan 2007,To: 30 Jan 2007,Christian,FY 2007,82,Cambodia,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Christian,FY 2007,82,Iran,35,337
+From: 30 Jan 2007,To: 30 Jan 2007,Christian,FY 2007,82,Liberia,11,337
+From: 30 Jan 2007,To: 30 Jan 2007,Christian,FY 2007,82,Sudan,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Evangelical Christian,FY 2007,3,Cuba,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Jehovah Witness,FY 2007,1,Cuba,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Jewish,FY 2007,2,Ukraine,2,337
+From: 30 Jan 2007,To: 30 Jan 2007,Lutheran,FY 2007,5,Liberia,5,337
+From: 30 Jan 2007,To: 30 Jan 2007,Moslem,FY 2007,110,Afghanistan,3,337
+From: 30 Jan 2007,To: 30 Jan 2007,Moslem,FY 2007,110,Iraq,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Moslem,FY 2007,110,Somalia,94,337
+From: 30 Jan 2007,To: 30 Jan 2007,Moslem,FY 2007,110,Sudan,12,337
+From: 30 Jan 2007,To: 30 Jan 2007,Moslem Suni,FY 2007,4,Afghanistan,4,337
+From: 30 Jan 2007,To: 30 Jan 2007,No Religion,FY 2007,36,Cuba,36,337
+From: 30 Jan 2007,To: 30 Jan 2007,Pentecostalist,FY 2007,27,Liberia,7,337
+From: 30 Jan 2007,To: 30 Jan 2007,Pentecostalist,FY 2007,27,Rwanda,1,337
+From: 30 Jan 2007,To: 30 Jan 2007,Pentecostalist,FY 2007,27,Ukraine,19,337
+

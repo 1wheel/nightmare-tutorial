@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Dec 2003,To: 18 Dec 2003,Liberia,FY 2004,1,Christian,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Nigeria,FY 2004,1,Christian,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Russia,FY 2004,34,Atheist,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Russia,FY 2004,34,Baptist,23,123
+From: 18 Dec 2003,To: 18 Dec 2003,Russia,FY 2004,34,Jewish,4,123
+From: 18 Dec 2003,To: 18 Dec 2003,Russia,FY 2004,34,Pentecostalist,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Russia,FY 2004,34,Unknown,5,123
+From: 18 Dec 2003,To: 18 Dec 2003,Ukraine,FY 2004,70,Baptist,28,123
+From: 18 Dec 2003,To: 18 Dec 2003,Ukraine,FY 2004,70,Jewish,10,123
+From: 18 Dec 2003,To: 18 Dec 2003,Ukraine,FY 2004,70,No Religion,3,123
+From: 18 Dec 2003,To: 18 Dec 2003,Ukraine,FY 2004,70,Pentecostalist,29,123
+From: 18 Dec 2003,To: 18 Dec 2003,Vietnam,FY 2004,17,Catholic,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Vietnam,FY 2004,17,No Religion,10,123
+From: 18 Dec 2003,To: 18 Dec 2003,Vietnam,FY 2004,17,Unknown,6,123
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Dec 2003,To: 18 Dec 2003,Atheist,FY 2004,1,Russia,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Baptist,FY 2004,51,Russia,23,123
+From: 18 Dec 2003,To: 18 Dec 2003,Baptist,FY 2004,51,Ukraine,28,123
+From: 18 Dec 2003,To: 18 Dec 2003,Catholic,FY 2004,1,Vietnam,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Christian,FY 2004,2,Liberia,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Christian,FY 2004,2,Nigeria,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Jewish,FY 2004,14,Russia,4,123
+From: 18 Dec 2003,To: 18 Dec 2003,Jewish,FY 2004,14,Ukraine,10,123
+From: 18 Dec 2003,To: 18 Dec 2003,No Religion,FY 2004,13,Ukraine,3,123
+From: 18 Dec 2003,To: 18 Dec 2003,No Religion,FY 2004,13,Vietnam,10,123
+From: 18 Dec 2003,To: 18 Dec 2003,Pentecostalist,FY 2004,30,Russia,1,123
+From: 18 Dec 2003,To: 18 Dec 2003,Pentecostalist,FY 2004,30,Ukraine,29,123
+From: 18 Dec 2003,To: 18 Dec 2003,Unknown,FY 2004,11,Russia,5,123
+From: 18 Dec 2003,To: 18 Dec 2003,Unknown,FY 2004,11,Vietnam,6,123
+

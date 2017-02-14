@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jun 2007,To: 07 Jun 2007,Belarus,FY 2007,1,Pentecostalist,1,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burma,FY 2007,98,Buddhist,10,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burma,FY 2007,98,Christian,65,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burma,FY 2007,98,Moslem,23,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Catholic,65,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Christian,16,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Jehovah Witness,4,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Methodist,3,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Moslem,7,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,No Religion,1,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Pentecostalist,24,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Protestant,1,283
+From: 07 Jun 2007,To: 07 Jun 2007,Burundi,FY 2007,134,Seventh Day Adventist,13,283
+From: 07 Jun 2007,To: 07 Jun 2007,Liberia,FY 2007,10,Other Religion,10,283
+From: 07 Jun 2007,To: 07 Jun 2007,Russia,FY 2007,38,Baptist,3,283
+From: 07 Jun 2007,To: 07 Jun 2007,Russia,FY 2007,38,Moslem,29,283
+From: 07 Jun 2007,To: 07 Jun 2007,Russia,FY 2007,38,Pentecostalist,6,283
+From: 07 Jun 2007,To: 07 Jun 2007,Vietnam,FY 2007,2,Buddhist,2,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jun 2007,To: 07 Jun 2007,Baptist,FY 2007,3,Russia,3,283
+From: 07 Jun 2007,To: 07 Jun 2007,Buddhist,FY 2007,12,Burma,10,283
+From: 07 Jun 2007,To: 07 Jun 2007,Buddhist,FY 2007,12,Vietnam,2,283
+From: 07 Jun 2007,To: 07 Jun 2007,Catholic,FY 2007,65,Burundi,65,283
+From: 07 Jun 2007,To: 07 Jun 2007,Christian,FY 2007,81,Burma,65,283
+From: 07 Jun 2007,To: 07 Jun 2007,Christian,FY 2007,81,Burundi,16,283
+From: 07 Jun 2007,To: 07 Jun 2007,Jehovah Witness,FY 2007,4,Burundi,4,283
+From: 07 Jun 2007,To: 07 Jun 2007,Methodist,FY 2007,3,Burundi,3,283
+From: 07 Jun 2007,To: 07 Jun 2007,Moslem,FY 2007,59,Burma,23,283
+From: 07 Jun 2007,To: 07 Jun 2007,Moslem,FY 2007,59,Burundi,7,283
+From: 07 Jun 2007,To: 07 Jun 2007,Moslem,FY 2007,59,Russia,29,283
+From: 07 Jun 2007,To: 07 Jun 2007,No Religion,FY 2007,1,Burundi,1,283
+From: 07 Jun 2007,To: 07 Jun 2007,Other Religion,FY 2007,10,Liberia,10,283
+From: 07 Jun 2007,To: 07 Jun 2007,Pentecostalist,FY 2007,31,Belarus,1,283
+From: 07 Jun 2007,To: 07 Jun 2007,Pentecostalist,FY 2007,31,Burundi,24,283
+From: 07 Jun 2007,To: 07 Jun 2007,Pentecostalist,FY 2007,31,Russia,6,283
+From: 07 Jun 2007,To: 07 Jun 2007,Protestant,FY 2007,1,Burundi,1,283
+From: 07 Jun 2007,To: 07 Jun 2007,Seventh Day Adventist,FY 2007,13,Burundi,13,283
+

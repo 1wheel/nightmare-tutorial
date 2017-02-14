@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jul 2006,To: 10 Jul 2006,Afghanistan,FY 2006,2,Atheist,2,134
+From: 10 Jul 2006,To: 10 Jul 2006,Burma,FY 2006,30,Buddhist,3,134
+From: 10 Jul 2006,To: 10 Jul 2006,Burma,FY 2006,30,Christian,27,134
+From: 10 Jul 2006,To: 10 Jul 2006,China,FY 2006,1,Moslem,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Ethiopia,FY 2006,9,Christian,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Ethiopia,FY 2006,9,Moslem,7,134
+From: 10 Jul 2006,To: 10 Jul 2006,Ethiopia,FY 2006,9,Orthodox,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Iraq,FY 2006,1,Moslem,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Nigeria,FY 2006,1,Christian,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Russia,FY 2006,26,Jewish,7,134
+From: 10 Jul 2006,To: 10 Jul 2006,Russia,FY 2006,26,Moslem,19,134
+From: 10 Jul 2006,To: 10 Jul 2006,Somalia,FY 2006,30,Moslem,30,134
+From: 10 Jul 2006,To: 10 Jul 2006,Sudan,FY 2006,25,Catholic,10,134
+From: 10 Jul 2006,To: 10 Jul 2006,Sudan,FY 2006,25,Evangelical Christian,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Sudan,FY 2006,25,Moslem,9,134
+From: 10 Jul 2006,To: 10 Jul 2006,Sudan,FY 2006,25,Protestant,5,134
+From: 10 Jul 2006,To: 10 Jul 2006,Ukraine,FY 2006,4,Baptist,4,134
+From: 10 Jul 2006,To: 10 Jul 2006,Uzbekistan,FY 2006,5,Moslem Suni,5,134
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jul 2006,To: 10 Jul 2006,Atheist,FY 2006,2,Afghanistan,2,134
+From: 10 Jul 2006,To: 10 Jul 2006,Baptist,FY 2006,4,Ukraine,4,134
+From: 10 Jul 2006,To: 10 Jul 2006,Buddhist,FY 2006,3,Burma,3,134
+From: 10 Jul 2006,To: 10 Jul 2006,Catholic,FY 2006,10,Sudan,10,134
+From: 10 Jul 2006,To: 10 Jul 2006,Christian,FY 2006,29,Burma,27,134
+From: 10 Jul 2006,To: 10 Jul 2006,Christian,FY 2006,29,Ethiopia,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Christian,FY 2006,29,Nigeria,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Evangelical Christian,FY 2006,1,Sudan,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Jewish,FY 2006,7,Russia,7,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem,FY 2006,67,China,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem,FY 2006,67,Ethiopia,7,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem,FY 2006,67,Iraq,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem,FY 2006,67,Russia,19,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem,FY 2006,67,Somalia,30,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem,FY 2006,67,Sudan,9,134
+From: 10 Jul 2006,To: 10 Jul 2006,Moslem Suni,FY 2006,5,Uzbekistan,5,134
+From: 10 Jul 2006,To: 10 Jul 2006,Orthodox,FY 2006,1,Ethiopia,1,134
+From: 10 Jul 2006,To: 10 Jul 2006,Protestant,FY 2006,5,Sudan,5,134
+

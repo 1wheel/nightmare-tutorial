@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Aug 2012,To: 06 Aug 2012,Afghanistan,FY 2012,5,Christian,5,275
+From: 06 Aug 2012,To: 06 Aug 2012,Bhutan,FY 2012,126,Buddhist,28,275
+From: 06 Aug 2012,To: 06 Aug 2012,Bhutan,FY 2012,126,Christian,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Bhutan,FY 2012,126,Hindu,91,275
+From: 06 Aug 2012,To: 06 Aug 2012,Bhutan,FY 2012,126,Kirat,3,275
+From: 06 Aug 2012,To: 06 Aug 2012,Burma,FY 2012,56,Baptist,6,275
+From: 06 Aug 2012,To: 06 Aug 2012,Burma,FY 2012,56,Buddhist,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Burma,FY 2012,56,Christian,37,275
+From: 06 Aug 2012,To: 06 Aug 2012,Burma,FY 2012,56,Moslem,9,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Catholic,7,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Chaldean,1,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Christian,1,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Moslem Shiite,30,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Moslem Suni,32,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Orthodox,6,275
+From: 06 Aug 2012,To: 06 Aug 2012,Iraq,FY 2012,81,Sabeans-Mandean,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Liberia,FY 2012,4,Christian,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Somalia,FY 2012,2,Moslem,2,275
+From: 06 Aug 2012,To: 06 Aug 2012,Sudan,FY 2012,1,Moslem,1,275
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Aug 2012,To: 06 Aug 2012,Baptist,FY 2012,6,Burma,6,275
+From: 06 Aug 2012,To: 06 Aug 2012,Buddhist,FY 2012,32,Bhutan,28,275
+From: 06 Aug 2012,To: 06 Aug 2012,Buddhist,FY 2012,32,Burma,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Catholic,FY 2012,7,Iraq,7,275
+From: 06 Aug 2012,To: 06 Aug 2012,Chaldean,FY 2012,1,Iraq,1,275
+From: 06 Aug 2012,To: 06 Aug 2012,Christian,FY 2012,51,Afghanistan,5,275
+From: 06 Aug 2012,To: 06 Aug 2012,Christian,FY 2012,51,Bhutan,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Christian,FY 2012,51,Burma,37,275
+From: 06 Aug 2012,To: 06 Aug 2012,Christian,FY 2012,51,Iraq,1,275
+From: 06 Aug 2012,To: 06 Aug 2012,Christian,FY 2012,51,Liberia,4,275
+From: 06 Aug 2012,To: 06 Aug 2012,Hindu,FY 2012,91,Bhutan,91,275
+From: 06 Aug 2012,To: 06 Aug 2012,Kirat,FY 2012,3,Bhutan,3,275
+From: 06 Aug 2012,To: 06 Aug 2012,Moslem,FY 2012,12,Burma,9,275
+From: 06 Aug 2012,To: 06 Aug 2012,Moslem,FY 2012,12,Somalia,2,275
+From: 06 Aug 2012,To: 06 Aug 2012,Moslem,FY 2012,12,Sudan,1,275
+From: 06 Aug 2012,To: 06 Aug 2012,Moslem Shiite,FY 2012,30,Iraq,30,275
+From: 06 Aug 2012,To: 06 Aug 2012,Moslem Suni,FY 2012,32,Iraq,32,275
+From: 06 Aug 2012,To: 06 Aug 2012,Orthodox,FY 2012,6,Iraq,6,275
+From: 06 Aug 2012,To: 06 Aug 2012,Sabeans-Mandean,FY 2012,4,Iraq,4,275
+

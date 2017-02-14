@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Mar 2015,To: 30 Mar 2015,Afghanistan,FY 2015,5,Moslem Shiite,5,181
+From: 30 Mar 2015,To: 30 Mar 2015,Burma,FY 2015,57,Buddhist,12,181
+From: 30 Mar 2015,To: 30 Mar 2015,Burma,FY 2015,57,Catholic,1,181
+From: 30 Mar 2015,To: 30 Mar 2015,Burma,FY 2015,57,Christian,43,181
+From: 30 Mar 2015,To: 30 Mar 2015,Burma,FY 2015,57,Moslem,1,181
+From: 30 Mar 2015,To: 30 Mar 2015,Ethiopia,FY 2015,8,Moslem,8,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iran,FY 2015,11,Bahai,2,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iran,FY 2015,11,Christian,4,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iran,FY 2015,11,Protestant,5,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iraq,FY 2015,29,Catholic,5,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iraq,FY 2015,29,Moslem Shiite,17,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iraq,FY 2015,29,Moslem Suni,4,181
+From: 30 Mar 2015,To: 30 Mar 2015,Iraq,FY 2015,29,Orthodox,3,181
+From: 30 Mar 2015,To: 30 Mar 2015,Somalia,FY 2015,58,Moslem,50,181
+From: 30 Mar 2015,To: 30 Mar 2015,Somalia,FY 2015,58,Moslem Suni,8,181
+From: 30 Mar 2015,To: 30 Mar 2015,Syria,FY 2015,6,Moslem Suni,6,181
+From: 30 Mar 2015,To: 30 Mar 2015,Uganda,FY 2015,7,Christian,6,181
+From: 30 Mar 2015,To: 30 Mar 2015,Uganda,FY 2015,7,Moslem,1,181
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Mar 2015,To: 30 Mar 2015,Bahai,FY 2015,2,Iran,2,181
+From: 30 Mar 2015,To: 30 Mar 2015,Buddhist,FY 2015,12,Burma,12,181
+From: 30 Mar 2015,To: 30 Mar 2015,Catholic,FY 2015,6,Burma,1,181
+From: 30 Mar 2015,To: 30 Mar 2015,Catholic,FY 2015,6,Iraq,5,181
+From: 30 Mar 2015,To: 30 Mar 2015,Christian,FY 2015,53,Burma,43,181
+From: 30 Mar 2015,To: 30 Mar 2015,Christian,FY 2015,53,Iran,4,181
+From: 30 Mar 2015,To: 30 Mar 2015,Christian,FY 2015,53,Uganda,6,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem,FY 2015,60,Burma,1,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem,FY 2015,60,Ethiopia,8,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem,FY 2015,60,Somalia,50,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem,FY 2015,60,Uganda,1,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem Shiite,FY 2015,22,Afghanistan,5,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem Shiite,FY 2015,22,Iraq,17,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem Suni,FY 2015,18,Iraq,4,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem Suni,FY 2015,18,Somalia,8,181
+From: 30 Mar 2015,To: 30 Mar 2015,Moslem Suni,FY 2015,18,Syria,6,181
+From: 30 Mar 2015,To: 30 Mar 2015,Orthodox,FY 2015,3,Iraq,3,181
+From: 30 Mar 2015,To: 30 Mar 2015,Protestant,FY 2015,5,Iran,5,181
+

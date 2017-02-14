@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Sep 2006,To: 06 Sep 2006,Burma,FY 2006,80,Buddhist,6,440
+From: 06 Sep 2006,To: 06 Sep 2006,Burma,FY 2006,80,Catholic,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Burma,FY 2006,80,Christian,73,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cambodia,FY 2006,1,Buddhist,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cuba,FY 2006,68,Baptist,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cuba,FY 2006,68,Catholic,16,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cuba,FY 2006,68,Evangelical Christian,9,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cuba,FY 2006,68,Jehovah Witness,16,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cuba,FY 2006,68,No Religion,18,440
+From: 06 Sep 2006,To: 06 Sep 2006,Cuba,FY 2006,68,Pentecostalist,8,440
+From: 06 Sep 2006,To: 06 Sep 2006,Dem. Rep. Congo,FY 2006,7,Catholic,2,440
+From: 06 Sep 2006,To: 06 Sep 2006,Dem. Rep. Congo,FY 2006,7,Protestant,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Ethiopia,FY 2006,38,Christian,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Ethiopia,FY 2006,38,Moslem,33,440
+From: 06 Sep 2006,To: 06 Sep 2006,Liberia,FY 2006,11,Moslem,11,440
+From: 06 Sep 2006,To: 06 Sep 2006,Russia,FY 2006,54,Baptist,4,440
+From: 06 Sep 2006,To: 06 Sep 2006,Russia,FY 2006,54,Jewish,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Russia,FY 2006,54,Moslem,31,440
+From: 06 Sep 2006,To: 06 Sep 2006,Russia,FY 2006,54,Pentecostalist,11,440
+From: 06 Sep 2006,To: 06 Sep 2006,Russia,FY 2006,54,Seventh Day Adventist,3,440
+From: 06 Sep 2006,To: 06 Sep 2006,Somalia,FY 2006,122,Moslem,122,440
+From: 06 Sep 2006,To: 06 Sep 2006,Sri Lanka (Ceylon),FY 2006,1,Hindu,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Sudan,FY 2006,19,Catholic,4,440
+From: 06 Sep 2006,To: 06 Sep 2006,Sudan,FY 2006,19,Moslem,15,440
+From: 06 Sep 2006,To: 06 Sep 2006,Vietnam,FY 2006,39,Buddhist,11,440
+From: 06 Sep 2006,To: 06 Sep 2006,Vietnam,FY 2006,39,Catholic,7,440
+From: 06 Sep 2006,To: 06 Sep 2006,Vietnam,FY 2006,39,No Religion,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Vietnam,FY 2006,39,Protestant,12,440
+From: 06 Sep 2006,To: 06 Sep 2006,Vietnam,FY 2006,39,Unknown,4,440
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Sep 2006,To: 06 Sep 2006,Baptist,FY 2006,5,Cuba,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Baptist,FY 2006,5,Russia,4,440
+From: 06 Sep 2006,To: 06 Sep 2006,Buddhist,FY 2006,18,Burma,6,440
+From: 06 Sep 2006,To: 06 Sep 2006,Buddhist,FY 2006,18,Cambodia,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Buddhist,FY 2006,18,Vietnam,11,440
+From: 06 Sep 2006,To: 06 Sep 2006,Catholic,FY 2006,30,Burma,1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Catholic,FY 2006,30,Cuba,16,440
+From: 06 Sep 2006,To: 06 Sep 2006,Catholic,FY 2006,30,Dem. Rep. Congo,2,440
+From: 06 Sep 2006,To: 06 Sep 2006,Catholic,FY 2006,30,Sudan,4,440
+From: 06 Sep 2006,To: 06 Sep 2006,Catholic,FY 2006,30,Vietnam,7,440
+From: 06 Sep 2006,To: 06 Sep 2006,Christian,FY 2006,78,Burma,73,440
+From: 06 Sep 2006,To: 06 Sep 2006,Christian,FY 2006,78,Ethiopia,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Evangelical Christian,FY 2006,9,Cuba,9,440
+From: 06 Sep 2006,To: 06 Sep 2006,Hindu,FY 2006,1,Sri Lanka (Ceylon),1,440
+From: 06 Sep 2006,To: 06 Sep 2006,Jehovah Witness,FY 2006,16,Cuba,16,440
+From: 06 Sep 2006,To: 06 Sep 2006,Jewish,FY 2006,5,Russia,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Moslem,FY 2006,212,Ethiopia,33,440
+From: 06 Sep 2006,To: 06 Sep 2006,Moslem,FY 2006,212,Liberia,11,440
+From: 06 Sep 2006,To: 06 Sep 2006,Moslem,FY 2006,212,Russia,31,440
+From: 06 Sep 2006,To: 06 Sep 2006,Moslem,FY 2006,212,Somalia,122,440
+From: 06 Sep 2006,To: 06 Sep 2006,Moslem,FY 2006,212,Sudan,15,440
+From: 06 Sep 2006,To: 06 Sep 2006,No Religion,FY 2006,23,Cuba,18,440
+From: 06 Sep 2006,To: 06 Sep 2006,No Religion,FY 2006,23,Vietnam,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Pentecostalist,FY 2006,19,Cuba,8,440
+From: 06 Sep 2006,To: 06 Sep 2006,Pentecostalist,FY 2006,19,Russia,11,440
+From: 06 Sep 2006,To: 06 Sep 2006,Protestant,FY 2006,17,Dem. Rep. Congo,5,440
+From: 06 Sep 2006,To: 06 Sep 2006,Protestant,FY 2006,17,Vietnam,12,440
+From: 06 Sep 2006,To: 06 Sep 2006,Seventh Day Adventist,FY 2006,3,Russia,3,440
+From: 06 Sep 2006,To: 06 Sep 2006,Unknown,FY 2006,4,Vietnam,4,440
+

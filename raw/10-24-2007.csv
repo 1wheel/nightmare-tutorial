@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Oct 2007,To: 24 Oct 2007,Burma,FY 2008,7,Buddhist,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Burma,FY 2008,7,Christian,6,196
+From: 24 Oct 2007,To: 24 Oct 2007,Dem. Rep. Congo,FY 2008,1,Evangelical Christian,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Iran,FY 2008,30,Christian,30,196
+From: 24 Oct 2007,To: 24 Oct 2007,Iraq,FY 2008,99,Catholic,20,196
+From: 24 Oct 2007,To: 24 Oct 2007,Iraq,FY 2008,99,Christian,32,196
+From: 24 Oct 2007,To: 24 Oct 2007,Iraq,FY 2008,99,Moslem Shiite,22,196
+From: 24 Oct 2007,To: 24 Oct 2007,Iraq,FY 2008,99,Moslem Suni,25,196
+From: 24 Oct 2007,To: 24 Oct 2007,Liberia,FY 2008,25,Christian,16,196
+From: 24 Oct 2007,To: 24 Oct 2007,Liberia,FY 2008,25,Lutheran,8,196
+From: 24 Oct 2007,To: 24 Oct 2007,Liberia,FY 2008,25,Moslem,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Pakistan,FY 2008,1,Atheist,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Somalia,FY 2008,1,Moslem,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Vietnam,FY 2008,32,Buddhist,7,196
+From: 24 Oct 2007,To: 24 Oct 2007,Vietnam,FY 2008,32,Catholic,11,196
+From: 24 Oct 2007,To: 24 Oct 2007,Vietnam,FY 2008,32,No Religion,9,196
+From: 24 Oct 2007,To: 24 Oct 2007,Vietnam,FY 2008,32,Protestant,5,196
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Oct 2007,To: 24 Oct 2007,Atheist,FY 2008,1,Pakistan,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Buddhist,FY 2008,8,Burma,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Buddhist,FY 2008,8,Vietnam,7,196
+From: 24 Oct 2007,To: 24 Oct 2007,Catholic,FY 2008,31,Iraq,20,196
+From: 24 Oct 2007,To: 24 Oct 2007,Catholic,FY 2008,31,Vietnam,11,196
+From: 24 Oct 2007,To: 24 Oct 2007,Christian,FY 2008,84,Burma,6,196
+From: 24 Oct 2007,To: 24 Oct 2007,Christian,FY 2008,84,Iran,30,196
+From: 24 Oct 2007,To: 24 Oct 2007,Christian,FY 2008,84,Iraq,32,196
+From: 24 Oct 2007,To: 24 Oct 2007,Christian,FY 2008,84,Liberia,16,196
+From: 24 Oct 2007,To: 24 Oct 2007,Evangelical Christian,FY 2008,1,Dem. Rep. Congo,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Lutheran,FY 2008,8,Liberia,8,196
+From: 24 Oct 2007,To: 24 Oct 2007,Moslem,FY 2008,2,Liberia,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Moslem,FY 2008,2,Somalia,1,196
+From: 24 Oct 2007,To: 24 Oct 2007,Moslem Shiite,FY 2008,22,Iraq,22,196
+From: 24 Oct 2007,To: 24 Oct 2007,Moslem Suni,FY 2008,25,Iraq,25,196
+From: 24 Oct 2007,To: 24 Oct 2007,No Religion,FY 2008,9,Vietnam,9,196
+From: 24 Oct 2007,To: 24 Oct 2007,Protestant,FY 2008,5,Vietnam,5,196
+

@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Nov 2004,To: 16 Nov 2004,Afghanistan,FY 2005,29,Moslem Shiite,6,486
+From: 16 Nov 2004,To: 16 Nov 2004,Afghanistan,FY 2005,29,Moslem Suni,23,486
+From: 16 Nov 2004,To: 16 Nov 2004,Azerbaijan,FY 2005,3,Unknown,3,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,Baptist,3,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,Catholic,14,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,Evangelical Christian,4,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,Jehovah Witness,4,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,No Religion,41,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,Orthodox,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Cuba,FY 2005,70,Seventh Day Adventist,3,486
+From: 16 Nov 2004,To: 16 Nov 2004,Ethiopia,FY 2005,18,Moslem,18,486
+From: 16 Nov 2004,To: 16 Nov 2004,Georgia,FY 2005,5,Jewish,5,486
+From: 16 Nov 2004,To: 16 Nov 2004,Ivory Coast,FY 2005,2,Unknown,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Kenya,FY 2005,1,Moslem,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Kyrgyzstan,FY 2005,5,Seventh Day Adventist,5,486
+From: 16 Nov 2004,To: 16 Nov 2004,Laos,FY 2005,135,Ancestral Worship,125,486
+From: 16 Nov 2004,To: 16 Nov 2004,Laos,FY 2005,135,Christian,10,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moldova,FY 2005,33,Baptist,10,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moldova,FY 2005,33,Pentecostalist,21,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moldova,FY 2005,33,Seventh Day Adventist,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Russia,FY 2005,5,Atheist,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Russia,FY 2005,5,Baptist,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Russia,FY 2005,5,Seventh Day Adventist,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Rwanda,FY 2005,2,Christian,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Somalia,FY 2005,105,Christian,7,486
+From: 16 Nov 2004,To: 16 Nov 2004,Somalia,FY 2005,105,Moslem,98,486
+From: 16 Nov 2004,To: 16 Nov 2004,Sudan,FY 2005,36,Catholic,8,486
+From: 16 Nov 2004,To: 16 Nov 2004,Sudan,FY 2005,36,Christian,15,486
+From: 16 Nov 2004,To: 16 Nov 2004,Sudan,FY 2005,36,Moslem,11,486
+From: 16 Nov 2004,To: 16 Nov 2004,Sudan,FY 2005,36,Protestant,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Ukraine,FY 2005,30,Jewish,5,486
+From: 16 Nov 2004,To: 16 Nov 2004,Ukraine,FY 2005,30,Pentecostalist,22,486
+From: 16 Nov 2004,To: 16 Nov 2004,Ukraine,FY 2005,30,Seventh Day Adventist,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Ukraine,FY 2005,30,Unknown,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Vietnam,FY 2005,7,Buddhist,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Vietnam,FY 2005,7,Unknown,5,486
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Nov 2004,To: 16 Nov 2004,Ancestral Worship,FY 2005,125,Laos,125,486
+From: 16 Nov 2004,To: 16 Nov 2004,Atheist,FY 2005,2,Russia,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Baptist,FY 2005,14,Cuba,3,486
+From: 16 Nov 2004,To: 16 Nov 2004,Baptist,FY 2005,14,Moldova,10,486
+From: 16 Nov 2004,To: 16 Nov 2004,Baptist,FY 2005,14,Russia,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Buddhist,FY 2005,2,Vietnam,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Catholic,FY 2005,22,Cuba,14,486
+From: 16 Nov 2004,To: 16 Nov 2004,Catholic,FY 2005,22,Sudan,8,486
+From: 16 Nov 2004,To: 16 Nov 2004,Christian,FY 2005,34,Laos,10,486
+From: 16 Nov 2004,To: 16 Nov 2004,Christian,FY 2005,34,Rwanda,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Christian,FY 2005,34,Somalia,7,486
+From: 16 Nov 2004,To: 16 Nov 2004,Christian,FY 2005,34,Sudan,15,486
+From: 16 Nov 2004,To: 16 Nov 2004,Evangelical Christian,FY 2005,4,Cuba,4,486
+From: 16 Nov 2004,To: 16 Nov 2004,Jehovah Witness,FY 2005,4,Cuba,4,486
+From: 16 Nov 2004,To: 16 Nov 2004,Jewish,FY 2005,10,Georgia,5,486
+From: 16 Nov 2004,To: 16 Nov 2004,Jewish,FY 2005,10,Ukraine,5,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moslem,FY 2005,128,Ethiopia,18,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moslem,FY 2005,128,Kenya,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moslem,FY 2005,128,Somalia,98,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moslem,FY 2005,128,Sudan,11,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moslem Shiite,FY 2005,6,Afghanistan,6,486
+From: 16 Nov 2004,To: 16 Nov 2004,Moslem Suni,FY 2005,23,Afghanistan,23,486
+From: 16 Nov 2004,To: 16 Nov 2004,No Religion,FY 2005,41,Cuba,41,486
+From: 16 Nov 2004,To: 16 Nov 2004,Orthodox,FY 2005,1,Cuba,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Pentecostalist,FY 2005,43,Moldova,21,486
+From: 16 Nov 2004,To: 16 Nov 2004,Pentecostalist,FY 2005,43,Ukraine,22,486
+From: 16 Nov 2004,To: 16 Nov 2004,Protestant,FY 2005,2,Sudan,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Seventh Day Adventist,FY 2005,14,Cuba,3,486
+From: 16 Nov 2004,To: 16 Nov 2004,Seventh Day Adventist,FY 2005,14,Kyrgyzstan,5,486
+From: 16 Nov 2004,To: 16 Nov 2004,Seventh Day Adventist,FY 2005,14,Moldova,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Seventh Day Adventist,FY 2005,14,Russia,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Seventh Day Adventist,FY 2005,14,Ukraine,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Unknown,FY 2005,11,Azerbaijan,3,486
+From: 16 Nov 2004,To: 16 Nov 2004,Unknown,FY 2005,11,Ivory Coast,2,486
+From: 16 Nov 2004,To: 16 Nov 2004,Unknown,FY 2005,11,Ukraine,1,486
+From: 16 Nov 2004,To: 16 Nov 2004,Unknown,FY 2005,11,Vietnam,5,486
+

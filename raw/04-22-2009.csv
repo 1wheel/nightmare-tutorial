@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Apr 2009,To: 22 Apr 2009,Belarus,FY 2009,2,Jewish,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Bhutan,FY 2009,100,Buddhist,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Bhutan,FY 2009,100,Christian,1,511
+From: 22 Apr 2009,To: 22 Apr 2009,Bhutan,FY 2009,100,Hindu,92,511
+From: 22 Apr 2009,To: 22 Apr 2009,Bhutan,FY 2009,100,Kirat,5,511
+From: 22 Apr 2009,To: 22 Apr 2009,Burma,FY 2009,189,Animist,52,511
+From: 22 Apr 2009,To: 22 Apr 2009,Burma,FY 2009,189,Buddhist,15,511
+From: 22 Apr 2009,To: 22 Apr 2009,Burma,FY 2009,189,Catholic,39,511
+From: 22 Apr 2009,To: 22 Apr 2009,Burma,FY 2009,189,Christian,76,511
+From: 22 Apr 2009,To: 22 Apr 2009,Burma,FY 2009,189,Hindu,3,511
+From: 22 Apr 2009,To: 22 Apr 2009,Burma,FY 2009,189,Moslem,4,511
+From: 22 Apr 2009,To: 22 Apr 2009,China,FY 2009,1,Other Religion,1,511
+From: 22 Apr 2009,To: 22 Apr 2009,Cuba,FY 2009,70,Baptist,4,511
+From: 22 Apr 2009,To: 22 Apr 2009,Cuba,FY 2009,70,Catholic,21,511
+From: 22 Apr 2009,To: 22 Apr 2009,Cuba,FY 2009,70,Jehovah Witness,22,511
+From: 22 Apr 2009,To: 22 Apr 2009,Cuba,FY 2009,70,No Religion,20,511
+From: 22 Apr 2009,To: 22 Apr 2009,Cuba,FY 2009,70,Seventh Day Adventist,3,511
+From: 22 Apr 2009,To: 22 Apr 2009,Ethiopia,FY 2009,6,Moslem,6,511
+From: 22 Apr 2009,To: 22 Apr 2009,Iraq,FY 2009,80,Catholic,20,511
+From: 22 Apr 2009,To: 22 Apr 2009,Iraq,FY 2009,80,Christian,18,511
+From: 22 Apr 2009,To: 22 Apr 2009,Iraq,FY 2009,80,Moslem,1,511
+From: 22 Apr 2009,To: 22 Apr 2009,Iraq,FY 2009,80,Moslem Shiite,15,511
+From: 22 Apr 2009,To: 22 Apr 2009,Iraq,FY 2009,80,Moslem Suni,26,511
+From: 22 Apr 2009,To: 22 Apr 2009,Somalia,FY 2009,28,Moslem,28,511
+From: 22 Apr 2009,To: 22 Apr 2009,Vietnam,FY 2009,35,Ancestral Worship,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Vietnam,FY 2009,35,Buddhist,19,511
+From: 22 Apr 2009,To: 22 Apr 2009,Vietnam,FY 2009,35,Cao Dai,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Vietnam,FY 2009,35,Catholic,6,511
+From: 22 Apr 2009,To: 22 Apr 2009,Vietnam,FY 2009,35,No Religion,6,511
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Apr 2009,To: 22 Apr 2009,Ancestral Worship,FY 2009,2,Vietnam,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Animist,FY 2009,52,Burma,52,511
+From: 22 Apr 2009,To: 22 Apr 2009,Baptist,FY 2009,4,Cuba,4,511
+From: 22 Apr 2009,To: 22 Apr 2009,Buddhist,FY 2009,36,Bhutan,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Buddhist,FY 2009,36,Burma,15,511
+From: 22 Apr 2009,To: 22 Apr 2009,Buddhist,FY 2009,36,Vietnam,19,511
+From: 22 Apr 2009,To: 22 Apr 2009,Cao Dai,FY 2009,2,Vietnam,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Catholic,FY 2009,86,Burma,39,511
+From: 22 Apr 2009,To: 22 Apr 2009,Catholic,FY 2009,86,Cuba,21,511
+From: 22 Apr 2009,To: 22 Apr 2009,Catholic,FY 2009,86,Iraq,20,511
+From: 22 Apr 2009,To: 22 Apr 2009,Catholic,FY 2009,86,Vietnam,6,511
+From: 22 Apr 2009,To: 22 Apr 2009,Christian,FY 2009,95,Bhutan,1,511
+From: 22 Apr 2009,To: 22 Apr 2009,Christian,FY 2009,95,Burma,76,511
+From: 22 Apr 2009,To: 22 Apr 2009,Christian,FY 2009,95,Iraq,18,511
+From: 22 Apr 2009,To: 22 Apr 2009,Hindu,FY 2009,95,Bhutan,92,511
+From: 22 Apr 2009,To: 22 Apr 2009,Hindu,FY 2009,95,Burma,3,511
+From: 22 Apr 2009,To: 22 Apr 2009,Jehovah Witness,FY 2009,22,Cuba,22,511
+From: 22 Apr 2009,To: 22 Apr 2009,Jewish,FY 2009,2,Belarus,2,511
+From: 22 Apr 2009,To: 22 Apr 2009,Kirat,FY 2009,5,Bhutan,5,511
+From: 22 Apr 2009,To: 22 Apr 2009,Moslem,FY 2009,39,Burma,4,511
+From: 22 Apr 2009,To: 22 Apr 2009,Moslem,FY 2009,39,Ethiopia,6,511
+From: 22 Apr 2009,To: 22 Apr 2009,Moslem,FY 2009,39,Iraq,1,511
+From: 22 Apr 2009,To: 22 Apr 2009,Moslem,FY 2009,39,Somalia,28,511
+From: 22 Apr 2009,To: 22 Apr 2009,Moslem Shiite,FY 2009,15,Iraq,15,511
+From: 22 Apr 2009,To: 22 Apr 2009,Moslem Suni,FY 2009,26,Iraq,26,511
+From: 22 Apr 2009,To: 22 Apr 2009,No Religion,FY 2009,26,Cuba,20,511
+From: 22 Apr 2009,To: 22 Apr 2009,No Religion,FY 2009,26,Vietnam,6,511
+From: 22 Apr 2009,To: 22 Apr 2009,Other Religion,FY 2009,1,China,1,511
+From: 22 Apr 2009,To: 22 Apr 2009,Seventh Day Adventist,FY 2009,3,Cuba,3,511
+

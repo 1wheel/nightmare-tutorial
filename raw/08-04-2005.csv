@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Aug 2005,To: 04 Aug 2005,Afghanistan,FY 2005,20,Moslem Shiite,4,231
+From: 04 Aug 2005,To: 04 Aug 2005,Afghanistan,FY 2005,20,Moslem Suni,16,231
+From: 04 Aug 2005,To: 04 Aug 2005,Burma,FY 2005,35,Buddhist,27,231
+From: 04 Aug 2005,To: 04 Aug 2005,Burma,FY 2005,35,Protestant,8,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Baptist,2,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Catholic,18,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Christian,2,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Evangelical Christian,4,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Jehovah Witness,11,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,No Religion,26,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Pentecostalist,3,231
+From: 04 Aug 2005,To: 04 Aug 2005,Cuba,FY 2005,70,Seventh Day Adventist,4,231
+From: 04 Aug 2005,To: 04 Aug 2005,Ethiopia,FY 2005,2,Moslem,2,231
+From: 04 Aug 2005,To: 04 Aug 2005,Liberia,FY 2005,35,Catholic,3,231
+From: 04 Aug 2005,To: 04 Aug 2005,Liberia,FY 2005,35,Christian,31,231
+From: 04 Aug 2005,To: 04 Aug 2005,Liberia,FY 2005,35,Evangelical Christian,1,231
+From: 04 Aug 2005,To: 04 Aug 2005,Russia,FY 2005,35,Moslem,35,231
+From: 04 Aug 2005,To: 04 Aug 2005,Somalia,FY 2005,33,Moslem,33,231
+From: 04 Aug 2005,To: 04 Aug 2005,Sudan,FY 2005,1,Moslem,1,231
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Aug 2005,To: 04 Aug 2005,Baptist,FY 2005,2,Cuba,2,231
+From: 04 Aug 2005,To: 04 Aug 2005,Buddhist,FY 2005,27,Burma,27,231
+From: 04 Aug 2005,To: 04 Aug 2005,Catholic,FY 2005,21,Cuba,18,231
+From: 04 Aug 2005,To: 04 Aug 2005,Catholic,FY 2005,21,Liberia,3,231
+From: 04 Aug 2005,To: 04 Aug 2005,Christian,FY 2005,33,Cuba,2,231
+From: 04 Aug 2005,To: 04 Aug 2005,Christian,FY 2005,33,Liberia,31,231
+From: 04 Aug 2005,To: 04 Aug 2005,Evangelical Christian,FY 2005,5,Cuba,4,231
+From: 04 Aug 2005,To: 04 Aug 2005,Evangelical Christian,FY 2005,5,Liberia,1,231
+From: 04 Aug 2005,To: 04 Aug 2005,Jehovah Witness,FY 2005,11,Cuba,11,231
+From: 04 Aug 2005,To: 04 Aug 2005,Moslem,FY 2005,71,Ethiopia,2,231
+From: 04 Aug 2005,To: 04 Aug 2005,Moslem,FY 2005,71,Russia,35,231
+From: 04 Aug 2005,To: 04 Aug 2005,Moslem,FY 2005,71,Somalia,33,231
+From: 04 Aug 2005,To: 04 Aug 2005,Moslem,FY 2005,71,Sudan,1,231
+From: 04 Aug 2005,To: 04 Aug 2005,Moslem Shiite,FY 2005,4,Afghanistan,4,231
+From: 04 Aug 2005,To: 04 Aug 2005,Moslem Suni,FY 2005,16,Afghanistan,16,231
+From: 04 Aug 2005,To: 04 Aug 2005,No Religion,FY 2005,26,Cuba,26,231
+From: 04 Aug 2005,To: 04 Aug 2005,Pentecostalist,FY 2005,3,Cuba,3,231
+From: 04 Aug 2005,To: 04 Aug 2005,Protestant,FY 2005,8,Burma,8,231
+From: 04 Aug 2005,To: 04 Aug 2005,Seventh Day Adventist,FY 2005,4,Cuba,4,231
+

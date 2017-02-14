@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2004,To: 02 Nov 2004,Azerbaijan,FY 2005,1,Unknown,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Cuba,FY 2005,68,Catholic,26,418
+From: 02 Nov 2004,To: 02 Nov 2004,Cuba,FY 2005,68,Jehovah Witness,14,418
+From: 02 Nov 2004,To: 02 Nov 2004,Cuba,FY 2005,68,No Religion,23,418
+From: 02 Nov 2004,To: 02 Nov 2004,Cuba,FY 2005,68,Orthodox,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Cuba,FY 2005,68,Pentecostalist,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Cuba,FY 2005,68,Protestant,3,418
+From: 02 Nov 2004,To: 02 Nov 2004,Dem. Rep. Congo,FY 2005,1,Protestant,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Ethiopia,FY 2005,10,Christian,3,418
+From: 02 Nov 2004,To: 02 Nov 2004,Ethiopia,FY 2005,10,Moslem,7,418
+From: 02 Nov 2004,To: 02 Nov 2004,Laos,FY 2005,158,Ancestral Worship,155,418
+From: 02 Nov 2004,To: 02 Nov 2004,Laos,FY 2005,158,Christian,3,418
+From: 02 Nov 2004,To: 02 Nov 2004,Liberia,FY 2005,35,Baptist,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Liberia,FY 2005,35,Catholic,5,418
+From: 02 Nov 2004,To: 02 Nov 2004,Liberia,FY 2005,35,Christian,18,418
+From: 02 Nov 2004,To: 02 Nov 2004,Liberia,FY 2005,35,Moslem,10,418
+From: 02 Nov 2004,To: 02 Nov 2004,Liberia,FY 2005,35,Pentecostalist,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Russia,FY 2005,13,Baptist,8,418
+From: 02 Nov 2004,To: 02 Nov 2004,Russia,FY 2005,13,Jehovah Witness,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Russia,FY 2005,13,Jewish,2,418
+From: 02 Nov 2004,To: 02 Nov 2004,Russia,FY 2005,13,Pentecostalist,2,418
+From: 02 Nov 2004,To: 02 Nov 2004,Somalia,FY 2005,92,Moslem,88,418
+From: 02 Nov 2004,To: 02 Nov 2004,Somalia,FY 2005,92,Moslem Suni,4,418
+From: 02 Nov 2004,To: 02 Nov 2004,Sudan,FY 2005,10,Christian,10,418
+From: 02 Nov 2004,To: 02 Nov 2004,Ukraine,FY 2005,30,Baptist,6,418
+From: 02 Nov 2004,To: 02 Nov 2004,Ukraine,FY 2005,30,Pentecostalist,23,418
+From: 02 Nov 2004,To: 02 Nov 2004,Ukraine,FY 2005,30,Unknown,1,418
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2004,To: 02 Nov 2004,Ancestral Worship,FY 2005,155,Laos,155,418
+From: 02 Nov 2004,To: 02 Nov 2004,Baptist,FY 2005,15,Liberia,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Baptist,FY 2005,15,Russia,8,418
+From: 02 Nov 2004,To: 02 Nov 2004,Baptist,FY 2005,15,Ukraine,6,418
+From: 02 Nov 2004,To: 02 Nov 2004,Catholic,FY 2005,31,Cuba,26,418
+From: 02 Nov 2004,To: 02 Nov 2004,Catholic,FY 2005,31,Liberia,5,418
+From: 02 Nov 2004,To: 02 Nov 2004,Christian,FY 2005,34,Ethiopia,3,418
+From: 02 Nov 2004,To: 02 Nov 2004,Christian,FY 2005,34,Laos,3,418
+From: 02 Nov 2004,To: 02 Nov 2004,Christian,FY 2005,34,Liberia,18,418
+From: 02 Nov 2004,To: 02 Nov 2004,Christian,FY 2005,34,Sudan,10,418
+From: 02 Nov 2004,To: 02 Nov 2004,Jehovah Witness,FY 2005,15,Cuba,14,418
+From: 02 Nov 2004,To: 02 Nov 2004,Jehovah Witness,FY 2005,15,Russia,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Jewish,FY 2005,2,Russia,2,418
+From: 02 Nov 2004,To: 02 Nov 2004,Moslem,FY 2005,105,Ethiopia,7,418
+From: 02 Nov 2004,To: 02 Nov 2004,Moslem,FY 2005,105,Liberia,10,418
+From: 02 Nov 2004,To: 02 Nov 2004,Moslem,FY 2005,105,Somalia,88,418
+From: 02 Nov 2004,To: 02 Nov 2004,Moslem Suni,FY 2005,4,Somalia,4,418
+From: 02 Nov 2004,To: 02 Nov 2004,No Religion,FY 2005,23,Cuba,23,418
+From: 02 Nov 2004,To: 02 Nov 2004,Orthodox,FY 2005,1,Cuba,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Pentecostalist,FY 2005,27,Cuba,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Pentecostalist,FY 2005,27,Liberia,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Pentecostalist,FY 2005,27,Russia,2,418
+From: 02 Nov 2004,To: 02 Nov 2004,Pentecostalist,FY 2005,27,Ukraine,23,418
+From: 02 Nov 2004,To: 02 Nov 2004,Protestant,FY 2005,4,Cuba,3,418
+From: 02 Nov 2004,To: 02 Nov 2004,Protestant,FY 2005,4,Dem. Rep. Congo,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Unknown,FY 2005,2,Azerbaijan,1,418
+From: 02 Nov 2004,To: 02 Nov 2004,Unknown,FY 2005,2,Ukraine,1,418
+

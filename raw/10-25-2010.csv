@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Oct 2010,To: 25 Oct 2010,Bhutan,FY 2011,80,Buddhist,19,315
+From: 25 Oct 2010,To: 25 Oct 2010,Bhutan,FY 2011,80,Christian,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Bhutan,FY 2011,80,Hindu,56,315
+From: 25 Oct 2010,To: 25 Oct 2010,Bhutan,FY 2011,80,Kirat,4,315
+From: 25 Oct 2010,To: 25 Oct 2010,Burma,FY 2011,47,Baptist,6,315
+From: 25 Oct 2010,To: 25 Oct 2010,Burma,FY 2011,47,Buddhist,10,315
+From: 25 Oct 2010,To: 25 Oct 2010,Burma,FY 2011,47,Christian,31,315
+From: 25 Oct 2010,To: 25 Oct 2010,Eritrea,FY 2011,3,Catholic,2,315
+From: 25 Oct 2010,To: 25 Oct 2010,Eritrea,FY 2011,3,Orthodox,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iran,FY 2011,9,Bahai,6,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iran,FY 2011,9,Christian,2,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iran,FY 2011,9,Moslem,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iraq,FY 2011,155,Catholic,25,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iraq,FY 2011,155,Christian,66,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iraq,FY 2011,155,Moslem,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iraq,FY 2011,155,Moslem Shiite,26,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iraq,FY 2011,155,Moslem Suni,34,315
+From: 25 Oct 2010,To: 25 Oct 2010,Iraq,FY 2011,155,Sabeans-Mandean,3,315
+From: 25 Oct 2010,To: 25 Oct 2010,Somalia,FY 2011,21,Moslem,4,315
+From: 25 Oct 2010,To: 25 Oct 2010,Somalia,FY 2011,21,Moslem Suni,17,315
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Oct 2010,To: 25 Oct 2010,Bahai,FY 2011,6,Iran,6,315
+From: 25 Oct 2010,To: 25 Oct 2010,Baptist,FY 2011,6,Burma,6,315
+From: 25 Oct 2010,To: 25 Oct 2010,Buddhist,FY 2011,29,Bhutan,19,315
+From: 25 Oct 2010,To: 25 Oct 2010,Buddhist,FY 2011,29,Burma,10,315
+From: 25 Oct 2010,To: 25 Oct 2010,Catholic,FY 2011,27,Eritrea,2,315
+From: 25 Oct 2010,To: 25 Oct 2010,Catholic,FY 2011,27,Iraq,25,315
+From: 25 Oct 2010,To: 25 Oct 2010,Christian,FY 2011,100,Bhutan,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Christian,FY 2011,100,Burma,31,315
+From: 25 Oct 2010,To: 25 Oct 2010,Christian,FY 2011,100,Iran,2,315
+From: 25 Oct 2010,To: 25 Oct 2010,Christian,FY 2011,100,Iraq,66,315
+From: 25 Oct 2010,To: 25 Oct 2010,Hindu,FY 2011,56,Bhutan,56,315
+From: 25 Oct 2010,To: 25 Oct 2010,Kirat,FY 2011,4,Bhutan,4,315
+From: 25 Oct 2010,To: 25 Oct 2010,Moslem,FY 2011,6,Iran,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Moslem,FY 2011,6,Iraq,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Moslem,FY 2011,6,Somalia,4,315
+From: 25 Oct 2010,To: 25 Oct 2010,Moslem Shiite,FY 2011,26,Iraq,26,315
+From: 25 Oct 2010,To: 25 Oct 2010,Moslem Suni,FY 2011,51,Iraq,34,315
+From: 25 Oct 2010,To: 25 Oct 2010,Moslem Suni,FY 2011,51,Somalia,17,315
+From: 25 Oct 2010,To: 25 Oct 2010,Orthodox,FY 2011,1,Eritrea,1,315
+From: 25 Oct 2010,To: 25 Oct 2010,Sabeans-Mandean,FY 2011,3,Iraq,3,315
+

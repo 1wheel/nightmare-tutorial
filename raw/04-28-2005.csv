@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Apr 2005,To: 28 Apr 2005,Bosnia and Herzegovina,FY 2005,3,Orthodox,3,108
+From: 28 Apr 2005,To: 28 Apr 2005,Cuba,FY 2005,69,Baptist,4,108
+From: 28 Apr 2005,To: 28 Apr 2005,Cuba,FY 2005,69,Catholic,11,108
+From: 28 Apr 2005,To: 28 Apr 2005,Cuba,FY 2005,69,Jehovah Witness,7,108
+From: 28 Apr 2005,To: 28 Apr 2005,Cuba,FY 2005,69,No Religion,45,108
+From: 28 Apr 2005,To: 28 Apr 2005,Cuba,FY 2005,69,Pentecostalist,2,108
+From: 28 Apr 2005,To: 28 Apr 2005,Eritrea,FY 2005,12,Catholic,1,108
+From: 28 Apr 2005,To: 28 Apr 2005,Eritrea,FY 2005,12,Jehovah Witness,2,108
+From: 28 Apr 2005,To: 28 Apr 2005,Eritrea,FY 2005,12,Moslem,4,108
+From: 28 Apr 2005,To: 28 Apr 2005,Eritrea,FY 2005,12,Orthodox,5,108
+From: 28 Apr 2005,To: 28 Apr 2005,Somalia,FY 2005,21,Moslem,21,108
+From: 28 Apr 2005,To: 28 Apr 2005,Sudan,FY 2005,1,Christian,1,108
+From: 28 Apr 2005,To: 28 Apr 2005,Vietnam,FY 2005,2,Protestant,2,108
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Apr 2005,To: 28 Apr 2005,Baptist,FY 2005,4,Cuba,4,108
+From: 28 Apr 2005,To: 28 Apr 2005,Catholic,FY 2005,12,Cuba,11,108
+From: 28 Apr 2005,To: 28 Apr 2005,Catholic,FY 2005,12,Eritrea,1,108
+From: 28 Apr 2005,To: 28 Apr 2005,Christian,FY 2005,1,Sudan,1,108
+From: 28 Apr 2005,To: 28 Apr 2005,Jehovah Witness,FY 2005,9,Cuba,7,108
+From: 28 Apr 2005,To: 28 Apr 2005,Jehovah Witness,FY 2005,9,Eritrea,2,108
+From: 28 Apr 2005,To: 28 Apr 2005,Moslem,FY 2005,25,Eritrea,4,108
+From: 28 Apr 2005,To: 28 Apr 2005,Moslem,FY 2005,25,Somalia,21,108
+From: 28 Apr 2005,To: 28 Apr 2005,No Religion,FY 2005,45,Cuba,45,108
+From: 28 Apr 2005,To: 28 Apr 2005,Orthodox,FY 2005,8,Bosnia and Herzegovina,3,108
+From: 28 Apr 2005,To: 28 Apr 2005,Orthodox,FY 2005,8,Eritrea,5,108
+From: 28 Apr 2005,To: 28 Apr 2005,Pentecostalist,FY 2005,2,Cuba,2,108
+From: 28 Apr 2005,To: 28 Apr 2005,Protestant,FY 2005,2,Vietnam,2,108
+

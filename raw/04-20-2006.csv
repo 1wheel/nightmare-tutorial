@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Apr 2006,To: 20 Apr 2006,Ethiopia,FY 2006,2,Christian,1,182
+From: 20 Apr 2006,To: 20 Apr 2006,Ethiopia,FY 2006,2,Moslem,1,182
+From: 20 Apr 2006,To: 20 Apr 2006,Russia,FY 2006,25,Baptist,10,182
+From: 20 Apr 2006,To: 20 Apr 2006,Russia,FY 2006,25,Christian,1,182
+From: 20 Apr 2006,To: 20 Apr 2006,Russia,FY 2006,25,Jewish,5,182
+From: 20 Apr 2006,To: 20 Apr 2006,Russia,FY 2006,25,Moslem,9,182
+From: 20 Apr 2006,To: 20 Apr 2006,Somalia,FY 2006,129,Christian,3,182
+From: 20 Apr 2006,To: 20 Apr 2006,Somalia,FY 2006,129,Moslem,126,182
+From: 20 Apr 2006,To: 20 Apr 2006,Vietnam,FY 2006,26,Buddhist,3,182
+From: 20 Apr 2006,To: 20 Apr 2006,Vietnam,FY 2006,26,Catholic,8,182
+From: 20 Apr 2006,To: 20 Apr 2006,Vietnam,FY 2006,26,No Religion,4,182
+From: 20 Apr 2006,To: 20 Apr 2006,Vietnam,FY 2006,26,Protestant,11,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Apr 2006,To: 20 Apr 2006,Baptist,FY 2006,10,Russia,10,182
+From: 20 Apr 2006,To: 20 Apr 2006,Buddhist,FY 2006,3,Vietnam,3,182
+From: 20 Apr 2006,To: 20 Apr 2006,Catholic,FY 2006,8,Vietnam,8,182
+From: 20 Apr 2006,To: 20 Apr 2006,Christian,FY 2006,5,Ethiopia,1,182
+From: 20 Apr 2006,To: 20 Apr 2006,Christian,FY 2006,5,Russia,1,182
+From: 20 Apr 2006,To: 20 Apr 2006,Christian,FY 2006,5,Somalia,3,182
+From: 20 Apr 2006,To: 20 Apr 2006,Jewish,FY 2006,5,Russia,5,182
+From: 20 Apr 2006,To: 20 Apr 2006,Moslem,FY 2006,136,Ethiopia,1,182
+From: 20 Apr 2006,To: 20 Apr 2006,Moslem,FY 2006,136,Russia,9,182
+From: 20 Apr 2006,To: 20 Apr 2006,Moslem,FY 2006,136,Somalia,126,182
+From: 20 Apr 2006,To: 20 Apr 2006,No Religion,FY 2006,4,Vietnam,4,182
+From: 20 Apr 2006,To: 20 Apr 2006,Protestant,FY 2006,11,Vietnam,11,182
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Oct 2006,To: 19 Oct 2006,Afghanistan,FY 2007,6,Moslem Suni,6,338
+From: 19 Oct 2006,To: 19 Oct 2006,Azerbaijan,FY 2007,1,Unknown,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Burma,FY 2007,30,Buddhist,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Burma,FY 2007,30,Christian,26,338
+From: 19 Oct 2006,To: 19 Oct 2006,Cuba,FY 2007,70,Baptist,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Cuba,FY 2007,70,Catholic,33,338
+From: 19 Oct 2006,To: 19 Oct 2006,Cuba,FY 2007,70,Jehovah Witness,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Cuba,FY 2007,70,No Religion,28,338
+From: 19 Oct 2006,To: 19 Oct 2006,Cuba,FY 2007,70,Pentecostalist,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Eritrea,FY 2007,35,Catholic,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Eritrea,FY 2007,35,Moslem,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Eritrea,FY 2007,35,Orthodox,27,338
+From: 19 Oct 2006,To: 19 Oct 2006,Eritrea,FY 2007,35,Protestant,3,338
+From: 19 Oct 2006,To: 19 Oct 2006,Iran,FY 2007,11,Christian,11,338
+From: 19 Oct 2006,To: 19 Oct 2006,Kyrgyzstan,FY 2007,6,No Religion,2,338
+From: 19 Oct 2006,To: 19 Oct 2006,Kyrgyzstan,FY 2007,6,Seventh Day Adventist,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moldova,FY 2007,2,Seventh Day Adventist,2,338
+From: 19 Oct 2006,To: 19 Oct 2006,Russia,FY 2007,51,Baptist,10,338
+From: 19 Oct 2006,To: 19 Oct 2006,Russia,FY 2007,51,Jewish,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Russia,FY 2007,51,Moslem,31,338
+From: 19 Oct 2006,To: 19 Oct 2006,Russia,FY 2007,51,Pentecostalist,5,338
+From: 19 Oct 2006,To: 19 Oct 2006,Russia,FY 2007,51,Seventh Day Adventist,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Somalia,FY 2007,120,Moslem,119,338
+From: 19 Oct 2006,To: 19 Oct 2006,Somalia,FY 2007,120,Moslem Suni,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Uzbekistan,FY 2007,6,Moslem,6,338
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Oct 2006,To: 19 Oct 2006,Baptist,FY 2007,14,Cuba,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Baptist,FY 2007,14,Russia,10,338
+From: 19 Oct 2006,To: 19 Oct 2006,Buddhist,FY 2007,4,Burma,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Catholic,FY 2007,37,Cuba,33,338
+From: 19 Oct 2006,To: 19 Oct 2006,Catholic,FY 2007,37,Eritrea,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Christian,FY 2007,37,Burma,26,338
+From: 19 Oct 2006,To: 19 Oct 2006,Christian,FY 2007,37,Iran,11,338
+From: 19 Oct 2006,To: 19 Oct 2006,Jehovah Witness,FY 2007,4,Cuba,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Jewish,FY 2007,4,Russia,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moslem,FY 2007,157,Eritrea,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moslem,FY 2007,157,Russia,31,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moslem,FY 2007,157,Somalia,119,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moslem,FY 2007,157,Uzbekistan,6,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moslem Suni,FY 2007,7,Afghanistan,6,338
+From: 19 Oct 2006,To: 19 Oct 2006,Moslem Suni,FY 2007,7,Somalia,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,No Religion,FY 2007,30,Cuba,28,338
+From: 19 Oct 2006,To: 19 Oct 2006,No Religion,FY 2007,30,Kyrgyzstan,2,338
+From: 19 Oct 2006,To: 19 Oct 2006,Orthodox,FY 2007,27,Eritrea,27,338
+From: 19 Oct 2006,To: 19 Oct 2006,Pentecostalist,FY 2007,6,Cuba,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Pentecostalist,FY 2007,6,Russia,5,338
+From: 19 Oct 2006,To: 19 Oct 2006,Protestant,FY 2007,3,Eritrea,3,338
+From: 19 Oct 2006,To: 19 Oct 2006,Seventh Day Adventist,FY 2007,7,Kyrgyzstan,4,338
+From: 19 Oct 2006,To: 19 Oct 2006,Seventh Day Adventist,FY 2007,7,Moldova,2,338
+From: 19 Oct 2006,To: 19 Oct 2006,Seventh Day Adventist,FY 2007,7,Russia,1,338
+From: 19 Oct 2006,To: 19 Oct 2006,Unknown,FY 2007,1,Azerbaijan,1,338
+

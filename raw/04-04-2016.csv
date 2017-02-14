@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Apr 2016,To: 04 Apr 2016,Dem. Rep. Congo,FY 2016,35,Catholic,1,100
+From: 04 Apr 2016,To: 04 Apr 2016,Dem. Rep. Congo,FY 2016,35,Pentecostalist,9,100
+From: 04 Apr 2016,To: 04 Apr 2016,Dem. Rep. Congo,FY 2016,35,Protestant,2,100
+From: 04 Apr 2016,To: 04 Apr 2016,Dem. Rep. Congo,FY 2016,35,Seventh Day Adventist,23,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iran,FY 2016,18,Bahai,5,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iran,FY 2016,18,Christian,8,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iran,FY 2016,18,Sabeans-Mandean,3,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iran,FY 2016,18,Zoroastrian,2,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iraq,FY 2016,40,Moslem Shiite,20,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iraq,FY 2016,40,Moslem Suni,19,100
+From: 04 Apr 2016,To: 04 Apr 2016,Iraq,FY 2016,40,Orthodox,1,100
+From: 04 Apr 2016,To: 04 Apr 2016,Yemen,FY 2016,7,Jewish,7,100
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Apr 2016,To: 04 Apr 2016,Bahai,FY 2016,5,Iran,5,100
+From: 04 Apr 2016,To: 04 Apr 2016,Catholic,FY 2016,1,Dem. Rep. Congo,1,100
+From: 04 Apr 2016,To: 04 Apr 2016,Christian,FY 2016,8,Iran,8,100
+From: 04 Apr 2016,To: 04 Apr 2016,Jewish,FY 2016,7,Yemen,7,100
+From: 04 Apr 2016,To: 04 Apr 2016,Moslem Shiite,FY 2016,20,Iraq,20,100
+From: 04 Apr 2016,To: 04 Apr 2016,Moslem Suni,FY 2016,19,Iraq,19,100
+From: 04 Apr 2016,To: 04 Apr 2016,Orthodox,FY 2016,1,Iraq,1,100
+From: 04 Apr 2016,To: 04 Apr 2016,Pentecostalist,FY 2016,9,Dem. Rep. Congo,9,100
+From: 04 Apr 2016,To: 04 Apr 2016,Protestant,FY 2016,2,Dem. Rep. Congo,2,100
+From: 04 Apr 2016,To: 04 Apr 2016,Sabeans-Mandean,FY 2016,3,Iran,3,100
+From: 04 Apr 2016,To: 04 Apr 2016,Seventh Day Adventist,FY 2016,23,Dem. Rep. Congo,23,100
+From: 04 Apr 2016,To: 04 Apr 2016,Zoroastrian,FY 2016,2,Iran,2,100
+

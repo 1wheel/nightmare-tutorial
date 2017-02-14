@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jun 2009,To: 01 Jun 2009,Bhutan,FY 2009,88,Buddhist,21,274
+From: 01 Jun 2009,To: 01 Jun 2009,Bhutan,FY 2009,88,Christian,9,274
+From: 01 Jun 2009,To: 01 Jun 2009,Bhutan,FY 2009,88,Hindu,55,274
+From: 01 Jun 2009,To: 01 Jun 2009,Bhutan,FY 2009,88,Kirat,3,274
+From: 01 Jun 2009,To: 01 Jun 2009,Burma,FY 2009,91,Animist,31,274
+From: 01 Jun 2009,To: 01 Jun 2009,Burma,FY 2009,91,Buddhist,6,274
+From: 01 Jun 2009,To: 01 Jun 2009,Burma,FY 2009,91,Catholic,20,274
+From: 01 Jun 2009,To: 01 Jun 2009,Burma,FY 2009,91,Christian,34,274
+From: 01 Jun 2009,To: 01 Jun 2009,Iraq,FY 2009,93,Catholic,2,274
+From: 01 Jun 2009,To: 01 Jun 2009,Iraq,FY 2009,93,Christian,16,274
+From: 01 Jun 2009,To: 01 Jun 2009,Iraq,FY 2009,93,Moslem,4,274
+From: 01 Jun 2009,To: 01 Jun 2009,Iraq,FY 2009,93,Moslem Shiite,36,274
+From: 01 Jun 2009,To: 01 Jun 2009,Iraq,FY 2009,93,Moslem Suni,35,274
+From: 01 Jun 2009,To: 01 Jun 2009,Somalia,FY 2009,2,Moslem,1,274
+From: 01 Jun 2009,To: 01 Jun 2009,Somalia,FY 2009,2,Moslem Suni,1,274
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jun 2009,To: 01 Jun 2009,Animist,FY 2009,31,Burma,31,274
+From: 01 Jun 2009,To: 01 Jun 2009,Buddhist,FY 2009,27,Bhutan,21,274
+From: 01 Jun 2009,To: 01 Jun 2009,Buddhist,FY 2009,27,Burma,6,274
+From: 01 Jun 2009,To: 01 Jun 2009,Catholic,FY 2009,22,Burma,20,274
+From: 01 Jun 2009,To: 01 Jun 2009,Catholic,FY 2009,22,Iraq,2,274
+From: 01 Jun 2009,To: 01 Jun 2009,Christian,FY 2009,59,Bhutan,9,274
+From: 01 Jun 2009,To: 01 Jun 2009,Christian,FY 2009,59,Burma,34,274
+From: 01 Jun 2009,To: 01 Jun 2009,Christian,FY 2009,59,Iraq,16,274
+From: 01 Jun 2009,To: 01 Jun 2009,Hindu,FY 2009,55,Bhutan,55,274
+From: 01 Jun 2009,To: 01 Jun 2009,Kirat,FY 2009,3,Bhutan,3,274
+From: 01 Jun 2009,To: 01 Jun 2009,Moslem,FY 2009,5,Iraq,4,274
+From: 01 Jun 2009,To: 01 Jun 2009,Moslem,FY 2009,5,Somalia,1,274
+From: 01 Jun 2009,To: 01 Jun 2009,Moslem Shiite,FY 2009,36,Iraq,36,274
+From: 01 Jun 2009,To: 01 Jun 2009,Moslem Suni,FY 2009,36,Iraq,35,274
+From: 01 Jun 2009,To: 01 Jun 2009,Moslem Suni,FY 2009,36,Somalia,1,274
+

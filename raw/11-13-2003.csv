@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Nov 2003,To: 13 Nov 2003,Bosnia and Herzegovina,FY 2004,2,Orthodox,2,198
+From: 13 Nov 2003,To: 13 Nov 2003,Burundi,FY 2004,1,Moslem,1,198
+From: 13 Nov 2003,To: 13 Nov 2003,Croatia,FY 2004,4,Orthodox,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,Ethiopia,FY 2004,10,Christian,10,198
+From: 13 Nov 2003,To: 13 Nov 2003,Iran,FY 2004,7,Bahai,7,198
+From: 13 Nov 2003,To: 13 Nov 2003,Liberia,FY 2004,10,Moslem,9,198
+From: 13 Nov 2003,To: 13 Nov 2003,Liberia,FY 2004,10,No Religion,1,198
+From: 13 Nov 2003,To: 13 Nov 2003,Russia,FY 2004,27,Baptist,6,198
+From: 13 Nov 2003,To: 13 Nov 2003,Russia,FY 2004,27,Jewish,9,198
+From: 13 Nov 2003,To: 13 Nov 2003,Russia,FY 2004,27,Pentecostalist,8,198
+From: 13 Nov 2003,To: 13 Nov 2003,Russia,FY 2004,27,Seventh Day Adventist,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,Serbia,FY 2004,19,No Religion,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,Serbia,FY 2004,19,Orthodox,15,198
+From: 13 Nov 2003,To: 13 Nov 2003,Somalia,FY 2004,26,Moslem,26,198
+From: 13 Nov 2003,To: 13 Nov 2003,Sudan,FY 2004,22,Catholic,10,198
+From: 13 Nov 2003,To: 13 Nov 2003,Sudan,FY 2004,22,Christian,7,198
+From: 13 Nov 2003,To: 13 Nov 2003,Sudan,FY 2004,22,Moslem,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,Sudan,FY 2004,22,Protestant,1,198
+From: 13 Nov 2003,To: 13 Nov 2003,Ukraine,FY 2004,48,Baptist,5,198
+From: 13 Nov 2003,To: 13 Nov 2003,Ukraine,FY 2004,48,Evangelical Christian,3,198
+From: 13 Nov 2003,To: 13 Nov 2003,Ukraine,FY 2004,48,Jewish,2,198
+From: 13 Nov 2003,To: 13 Nov 2003,Ukraine,FY 2004,48,Pentecostalist,38,198
+From: 13 Nov 2003,To: 13 Nov 2003,Vietnam,FY 2004,22,Buddhist,11,198
+From: 13 Nov 2003,To: 13 Nov 2003,Vietnam,FY 2004,22,Catholic,3,198
+From: 13 Nov 2003,To: 13 Nov 2003,Vietnam,FY 2004,22,No Religion,7,198
+From: 13 Nov 2003,To: 13 Nov 2003,Vietnam,FY 2004,22,Unknown,1,198
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Nov 2003,To: 13 Nov 2003,Bahai,FY 2004,7,Iran,7,198
+From: 13 Nov 2003,To: 13 Nov 2003,Baptist,FY 2004,11,Russia,6,198
+From: 13 Nov 2003,To: 13 Nov 2003,Baptist,FY 2004,11,Ukraine,5,198
+From: 13 Nov 2003,To: 13 Nov 2003,Buddhist,FY 2004,11,Vietnam,11,198
+From: 13 Nov 2003,To: 13 Nov 2003,Catholic,FY 2004,13,Sudan,10,198
+From: 13 Nov 2003,To: 13 Nov 2003,Catholic,FY 2004,13,Vietnam,3,198
+From: 13 Nov 2003,To: 13 Nov 2003,Christian,FY 2004,17,Ethiopia,10,198
+From: 13 Nov 2003,To: 13 Nov 2003,Christian,FY 2004,17,Sudan,7,198
+From: 13 Nov 2003,To: 13 Nov 2003,Evangelical Christian,FY 2004,3,Ukraine,3,198
+From: 13 Nov 2003,To: 13 Nov 2003,Jewish,FY 2004,11,Russia,9,198
+From: 13 Nov 2003,To: 13 Nov 2003,Jewish,FY 2004,11,Ukraine,2,198
+From: 13 Nov 2003,To: 13 Nov 2003,Moslem,FY 2004,40,Burundi,1,198
+From: 13 Nov 2003,To: 13 Nov 2003,Moslem,FY 2004,40,Liberia,9,198
+From: 13 Nov 2003,To: 13 Nov 2003,Moslem,FY 2004,40,Somalia,26,198
+From: 13 Nov 2003,To: 13 Nov 2003,Moslem,FY 2004,40,Sudan,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,No Religion,FY 2004,12,Liberia,1,198
+From: 13 Nov 2003,To: 13 Nov 2003,No Religion,FY 2004,12,Serbia,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,No Religion,FY 2004,12,Vietnam,7,198
+From: 13 Nov 2003,To: 13 Nov 2003,Orthodox,FY 2004,21,Bosnia and Herzegovina,2,198
+From: 13 Nov 2003,To: 13 Nov 2003,Orthodox,FY 2004,21,Croatia,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,Orthodox,FY 2004,21,Serbia,15,198
+From: 13 Nov 2003,To: 13 Nov 2003,Pentecostalist,FY 2004,46,Russia,8,198
+From: 13 Nov 2003,To: 13 Nov 2003,Pentecostalist,FY 2004,46,Ukraine,38,198
+From: 13 Nov 2003,To: 13 Nov 2003,Protestant,FY 2004,1,Sudan,1,198
+From: 13 Nov 2003,To: 13 Nov 2003,Seventh Day Adventist,FY 2004,4,Russia,4,198
+From: 13 Nov 2003,To: 13 Nov 2003,Unknown,FY 2004,1,Vietnam,1,198
+

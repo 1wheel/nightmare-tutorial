@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Feb 2004,To: 23 Feb 2004,Ethiopia,FY 2004,23,Christian,8,132
+From: 23 Feb 2004,To: 23 Feb 2004,Ethiopia,FY 2004,23,Moslem,15,132
+From: 23 Feb 2004,To: 23 Feb 2004,Iran,FY 2004,32,Bahai,22,132
+From: 23 Feb 2004,To: 23 Feb 2004,Iran,FY 2004,32,Moslem,8,132
+From: 23 Feb 2004,To: 23 Feb 2004,Iran,FY 2004,32,Protestant,2,132
+From: 23 Feb 2004,To: 23 Feb 2004,Liberia,FY 2004,25,Christian,17,132
+From: 23 Feb 2004,To: 23 Feb 2004,Liberia,FY 2004,25,Other Religion,5,132
+From: 23 Feb 2004,To: 23 Feb 2004,Liberia,FY 2004,25,Pentecostalist,3,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moldova,FY 2004,35,Baptist,28,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moldova,FY 2004,35,Pentecostalist,7,132
+From: 23 Feb 2004,To: 23 Feb 2004,Sierra Leone,FY 2004,2,Moslem,2,132
+From: 23 Feb 2004,To: 23 Feb 2004,Somalia,FY 2004,12,Moslem,12,132
+From: 23 Feb 2004,To: 23 Feb 2004,Togo,FY 2004,1,Moslem,1,132
+From: 23 Feb 2004,To: 23 Feb 2004,Uzbekistan,FY 2004,2,Moslem,2,132
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Feb 2004,To: 23 Feb 2004,Bahai,FY 2004,22,Iran,22,132
+From: 23 Feb 2004,To: 23 Feb 2004,Baptist,FY 2004,28,Moldova,28,132
+From: 23 Feb 2004,To: 23 Feb 2004,Christian,FY 2004,25,Ethiopia,8,132
+From: 23 Feb 2004,To: 23 Feb 2004,Christian,FY 2004,25,Liberia,17,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moslem,FY 2004,40,Ethiopia,15,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moslem,FY 2004,40,Iran,8,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moslem,FY 2004,40,Sierra Leone,2,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moslem,FY 2004,40,Somalia,12,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moslem,FY 2004,40,Togo,1,132
+From: 23 Feb 2004,To: 23 Feb 2004,Moslem,FY 2004,40,Uzbekistan,2,132
+From: 23 Feb 2004,To: 23 Feb 2004,Other Religion,FY 2004,5,Liberia,5,132
+From: 23 Feb 2004,To: 23 Feb 2004,Pentecostalist,FY 2004,10,Liberia,3,132
+From: 23 Feb 2004,To: 23 Feb 2004,Pentecostalist,FY 2004,10,Moldova,7,132
+From: 23 Feb 2004,To: 23 Feb 2004,Protestant,FY 2004,2,Iran,2,132
+

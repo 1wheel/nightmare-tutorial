@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Oct 2009,To: 26 Oct 2009,Bhutan,FY 2010,98,Hindu,98,249
+From: 26 Oct 2009,To: 26 Oct 2009,Burma,FY 2010,63,Animist,3,249
+From: 26 Oct 2009,To: 26 Oct 2009,Burma,FY 2010,63,Buddhist,13,249
+From: 26 Oct 2009,To: 26 Oct 2009,Burma,FY 2010,63,Catholic,16,249
+From: 26 Oct 2009,To: 26 Oct 2009,Burma,FY 2010,63,Christian,27,249
+From: 26 Oct 2009,To: 26 Oct 2009,Burma,FY 2010,63,Moslem,4,249
+From: 26 Oct 2009,To: 26 Oct 2009,Dem. Rep. Congo,FY 2010,1,Catholic,1,249
+From: 26 Oct 2009,To: 26 Oct 2009,Iran,FY 2010,21,Bahai,21,249
+From: 26 Oct 2009,To: 26 Oct 2009,Iraq,FY 2010,19,Catholic,3,249
+From: 26 Oct 2009,To: 26 Oct 2009,Iraq,FY 2010,19,Christian,16,249
+From: 26 Oct 2009,To: 26 Oct 2009,Moldova,FY 2010,18,Baptist,18,249
+From: 26 Oct 2009,To: 26 Oct 2009,Somalia,FY 2010,13,Moslem,13,249
+From: 26 Oct 2009,To: 26 Oct 2009,Uganda,FY 2010,3,Christian,3,249
+From: 26 Oct 2009,To: 26 Oct 2009,Ukraine,FY 2010,13,Baptist,5,249
+From: 26 Oct 2009,To: 26 Oct 2009,Ukraine,FY 2010,13,No Religion,2,249
+From: 26 Oct 2009,To: 26 Oct 2009,Ukraine,FY 2010,13,Pentecostalist,5,249
+From: 26 Oct 2009,To: 26 Oct 2009,Ukraine,FY 2010,13,Uniate,1,249
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Oct 2009,To: 26 Oct 2009,Animist,FY 2010,3,Burma,3,249
+From: 26 Oct 2009,To: 26 Oct 2009,Bahai,FY 2010,21,Iran,21,249
+From: 26 Oct 2009,To: 26 Oct 2009,Baptist,FY 2010,23,Moldova,18,249
+From: 26 Oct 2009,To: 26 Oct 2009,Baptist,FY 2010,23,Ukraine,5,249
+From: 26 Oct 2009,To: 26 Oct 2009,Buddhist,FY 2010,13,Burma,13,249
+From: 26 Oct 2009,To: 26 Oct 2009,Catholic,FY 2010,20,Burma,16,249
+From: 26 Oct 2009,To: 26 Oct 2009,Catholic,FY 2010,20,Dem. Rep. Congo,1,249
+From: 26 Oct 2009,To: 26 Oct 2009,Catholic,FY 2010,20,Iraq,3,249
+From: 26 Oct 2009,To: 26 Oct 2009,Christian,FY 2010,46,Burma,27,249
+From: 26 Oct 2009,To: 26 Oct 2009,Christian,FY 2010,46,Iraq,16,249
+From: 26 Oct 2009,To: 26 Oct 2009,Christian,FY 2010,46,Uganda,3,249
+From: 26 Oct 2009,To: 26 Oct 2009,Hindu,FY 2010,98,Bhutan,98,249
+From: 26 Oct 2009,To: 26 Oct 2009,Moslem,FY 2010,17,Burma,4,249
+From: 26 Oct 2009,To: 26 Oct 2009,Moslem,FY 2010,17,Somalia,13,249
+From: 26 Oct 2009,To: 26 Oct 2009,No Religion,FY 2010,2,Ukraine,2,249
+From: 26 Oct 2009,To: 26 Oct 2009,Pentecostalist,FY 2010,5,Ukraine,5,249
+From: 26 Oct 2009,To: 26 Oct 2009,Uniate,FY 2010,1,Ukraine,1,249
+

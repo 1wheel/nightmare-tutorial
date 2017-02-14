@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Nov 2010,To: 02 Nov 2010,Bhutan,FY 2011,108,Buddhist,33,445
+From: 02 Nov 2010,To: 02 Nov 2010,Bhutan,FY 2011,108,Christian,9,445
+From: 02 Nov 2010,To: 02 Nov 2010,Bhutan,FY 2011,108,Hindu,53,445
+From: 02 Nov 2010,To: 02 Nov 2010,Bhutan,FY 2011,108,Kirat,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Burma,FY 2011,126,Animist,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Burma,FY 2011,126,Baptist,4,445
+From: 02 Nov 2010,To: 02 Nov 2010,Burma,FY 2011,126,Buddhist,3,445
+From: 02 Nov 2010,To: 02 Nov 2010,Burma,FY 2011,126,Catholic,23,445
+From: 02 Nov 2010,To: 02 Nov 2010,Burma,FY 2011,126,Christian,77,445
+From: 02 Nov 2010,To: 02 Nov 2010,Burma,FY 2011,126,Moslem,6,445
+From: 02 Nov 2010,To: 02 Nov 2010,Central African Republic,FY 2011,8,Protestant,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Chad,FY 2011,1,Protestant,1,445
+From: 02 Nov 2010,To: 02 Nov 2010,China,FY 2011,1,Moslem Suni,1,445
+From: 02 Nov 2010,To: 02 Nov 2010,Cuba,FY 2011,47,Catholic,27,445
+From: 02 Nov 2010,To: 02 Nov 2010,Cuba,FY 2011,47,Jehovah Witness,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Cuba,FY 2011,47,No Religion,7,445
+From: 02 Nov 2010,To: 02 Nov 2010,Dem. Rep. Congo,FY 2011,13,Catholic,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Dem. Rep. Congo,FY 2011,13,Pentecostalist,3,445
+From: 02 Nov 2010,To: 02 Nov 2010,Dem. Rep. Congo,FY 2011,13,Protestant,2,445
+From: 02 Nov 2010,To: 02 Nov 2010,Eritrea,FY 2011,4,Orthodox,4,445
+From: 02 Nov 2010,To: 02 Nov 2010,Ethiopia,FY 2011,7,Orthodox,7,445
+From: 02 Nov 2010,To: 02 Nov 2010,Iraq,FY 2011,107,Catholic,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Iraq,FY 2011,107,Christian,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Iraq,FY 2011,107,Moslem,1,445
+From: 02 Nov 2010,To: 02 Nov 2010,Iraq,FY 2011,107,Moslem Shiite,49,445
+From: 02 Nov 2010,To: 02 Nov 2010,Iraq,FY 2011,107,Moslem Suni,28,445
+From: 02 Nov 2010,To: 02 Nov 2010,Iraq,FY 2011,107,Orthodox,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,"Korea, North",FY 2011,2,Unknown,2,445
+From: 02 Nov 2010,To: 02 Nov 2010,Kyrgyzstan,FY 2011,5,Seventh Day Adventist,5,445
+From: 02 Nov 2010,To: 02 Nov 2010,Laos,FY 2011,5,Animist,5,445
+From: 02 Nov 2010,To: 02 Nov 2010,Somalia,FY 2011,3,Moslem,3,445
+From: 02 Nov 2010,To: 02 Nov 2010,Uzbekistan,FY 2011,8,Moslem,8,445
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Nov 2010,To: 02 Nov 2010,Animist,FY 2011,18,Burma,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Animist,FY 2011,18,Laos,5,445
+From: 02 Nov 2010,To: 02 Nov 2010,Baptist,FY 2011,4,Burma,4,445
+From: 02 Nov 2010,To: 02 Nov 2010,Buddhist,FY 2011,36,Bhutan,33,445
+From: 02 Nov 2010,To: 02 Nov 2010,Buddhist,FY 2011,36,Burma,3,445
+From: 02 Nov 2010,To: 02 Nov 2010,Catholic,FY 2011,66,Burma,23,445
+From: 02 Nov 2010,To: 02 Nov 2010,Catholic,FY 2011,66,Cuba,27,445
+From: 02 Nov 2010,To: 02 Nov 2010,Catholic,FY 2011,66,Dem. Rep. Congo,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Catholic,FY 2011,66,Iraq,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Christian,FY 2011,99,Bhutan,9,445
+From: 02 Nov 2010,To: 02 Nov 2010,Christian,FY 2011,99,Burma,77,445
+From: 02 Nov 2010,To: 02 Nov 2010,Christian,FY 2011,99,Iraq,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Hindu,FY 2011,53,Bhutan,53,445
+From: 02 Nov 2010,To: 02 Nov 2010,Jehovah Witness,FY 2011,13,Cuba,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Kirat,FY 2011,13,Bhutan,13,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem,FY 2011,18,Burma,6,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem,FY 2011,18,Iraq,1,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem,FY 2011,18,Somalia,3,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem,FY 2011,18,Uzbekistan,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem Shiite,FY 2011,49,Iraq,49,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem Suni,FY 2011,29,China,1,445
+From: 02 Nov 2010,To: 02 Nov 2010,Moslem Suni,FY 2011,29,Iraq,28,445
+From: 02 Nov 2010,To: 02 Nov 2010,No Religion,FY 2011,7,Cuba,7,445
+From: 02 Nov 2010,To: 02 Nov 2010,Orthodox,FY 2011,19,Eritrea,4,445
+From: 02 Nov 2010,To: 02 Nov 2010,Orthodox,FY 2011,19,Ethiopia,7,445
+From: 02 Nov 2010,To: 02 Nov 2010,Orthodox,FY 2011,19,Iraq,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Pentecostalist,FY 2011,3,Dem. Rep. Congo,3,445
+From: 02 Nov 2010,To: 02 Nov 2010,Protestant,FY 2011,11,Central African Republic,8,445
+From: 02 Nov 2010,To: 02 Nov 2010,Protestant,FY 2011,11,Chad,1,445
+From: 02 Nov 2010,To: 02 Nov 2010,Protestant,FY 2011,11,Dem. Rep. Congo,2,445
+From: 02 Nov 2010,To: 02 Nov 2010,Seventh Day Adventist,FY 2011,5,Kyrgyzstan,5,445
+From: 02 Nov 2010,To: 02 Nov 2010,Unknown,FY 2011,2,"Korea, North",2,445
+

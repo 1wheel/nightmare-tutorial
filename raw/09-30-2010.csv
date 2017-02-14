@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Sep 2010,To: 30 Sep 2010,Algeria,FY 2010,2,Moslem,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Burma,FY 2010,116,Baptist,8,377
+From: 30 Sep 2010,To: 30 Sep 2010,Burma,FY 2010,116,Buddhist,13,377
+From: 30 Sep 2010,To: 30 Sep 2010,Burma,FY 2010,116,Catholic,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Burma,FY 2010,116,Christian,84,377
+From: 30 Sep 2010,To: 30 Sep 2010,Burma,FY 2010,116,Moslem,9,377
+From: 30 Sep 2010,To: 30 Sep 2010,Central African Republic,FY 2010,9,Catholic,3,377
+From: 30 Sep 2010,To: 30 Sep 2010,Central African Republic,FY 2010,9,Protestant,6,377
+From: 30 Sep 2010,To: 30 Sep 2010,Chad,FY 2010,1,Protestant,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Dem. Rep. Congo,FY 2010,75,Catholic,17,377
+From: 30 Sep 2010,To: 30 Sep 2010,Dem. Rep. Congo,FY 2010,75,Jehovah Witness,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Dem. Rep. Congo,FY 2010,75,Pentecostalist,30,377
+From: 30 Sep 2010,To: 30 Sep 2010,Dem. Rep. Congo,FY 2010,75,Protestant,10,377
+From: 30 Sep 2010,To: 30 Sep 2010,Dem. Rep. Congo,FY 2010,75,Seventh Day Adventist,17,377
+From: 30 Sep 2010,To: 30 Sep 2010,Eritrea,FY 2010,19,Catholic,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Eritrea,FY 2010,19,Orthodox,17,377
+From: 30 Sep 2010,To: 30 Sep 2010,Eritrea,FY 2010,19,Pentecostalist,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iran,FY 2010,11,Bahai,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iran,FY 2010,11,Christian,8,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iran,FY 2010,11,Moslem Shiite,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iran,FY 2010,11,Zoroastrian,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Bahai,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Catholic,7,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Christian,26,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Moslem Shiite,34,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Moslem Suni,12,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Orthodox,4,377
+From: 30 Sep 2010,To: 30 Sep 2010,Iraq,FY 2010,88,Sabeans-Mandean,4,377
+From: 30 Sep 2010,To: 30 Sep 2010,Lithuania,FY 2010,3,Pentecostalist,3,377
+From: 30 Sep 2010,To: 30 Sep 2010,Sierra Leone,FY 2010,2,Christian,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Somalia,FY 2010,26,Moslem,4,377
+From: 30 Sep 2010,To: 30 Sep 2010,Somalia,FY 2010,26,Moslem Suni,22,377
+From: 30 Sep 2010,To: 30 Sep 2010,Sudan,FY 2010,20,Christian,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Sudan,FY 2010,20,Moslem,10,377
+From: 30 Sep 2010,To: 30 Sep 2010,Sudan,FY 2010,20,Moslem Suni,9,377
+From: 30 Sep 2010,To: 30 Sep 2010,Ukraine,FY 2010,5,Pentecostalist,3,377
+From: 30 Sep 2010,To: 30 Sep 2010,Ukraine,FY 2010,5,Seventh Day Adventist,2,377
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Sep 2010,To: 30 Sep 2010,Bahai,FY 2010,2,Iran,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Bahai,FY 2010,2,Iraq,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Baptist,FY 2010,8,Burma,8,377
+From: 30 Sep 2010,To: 30 Sep 2010,Buddhist,FY 2010,13,Burma,13,377
+From: 30 Sep 2010,To: 30 Sep 2010,Catholic,FY 2010,30,Burma,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Catholic,FY 2010,30,Central African Republic,3,377
+From: 30 Sep 2010,To: 30 Sep 2010,Catholic,FY 2010,30,Dem. Rep. Congo,17,377
+From: 30 Sep 2010,To: 30 Sep 2010,Catholic,FY 2010,30,Eritrea,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Catholic,FY 2010,30,Iraq,7,377
+From: 30 Sep 2010,To: 30 Sep 2010,Christian,FY 2010,121,Burma,84,377
+From: 30 Sep 2010,To: 30 Sep 2010,Christian,FY 2010,121,Iran,8,377
+From: 30 Sep 2010,To: 30 Sep 2010,Christian,FY 2010,121,Iraq,26,377
+From: 30 Sep 2010,To: 30 Sep 2010,Christian,FY 2010,121,Sierra Leone,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Christian,FY 2010,121,Sudan,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Jehovah Witness,FY 2010,1,Dem. Rep. Congo,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem,FY 2010,25,Algeria,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem,FY 2010,25,Burma,9,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem,FY 2010,25,Somalia,4,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem,FY 2010,25,Sudan,10,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem Shiite,FY 2010,35,Iran,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem Shiite,FY 2010,35,Iraq,34,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem Suni,FY 2010,43,Iraq,12,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem Suni,FY 2010,43,Somalia,22,377
+From: 30 Sep 2010,To: 30 Sep 2010,Moslem Suni,FY 2010,43,Sudan,9,377
+From: 30 Sep 2010,To: 30 Sep 2010,Orthodox,FY 2010,21,Eritrea,17,377
+From: 30 Sep 2010,To: 30 Sep 2010,Orthodox,FY 2010,21,Iraq,4,377
+From: 30 Sep 2010,To: 30 Sep 2010,Pentecostalist,FY 2010,37,Dem. Rep. Congo,30,377
+From: 30 Sep 2010,To: 30 Sep 2010,Pentecostalist,FY 2010,37,Eritrea,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Pentecostalist,FY 2010,37,Lithuania,3,377
+From: 30 Sep 2010,To: 30 Sep 2010,Pentecostalist,FY 2010,37,Ukraine,3,377
+From: 30 Sep 2010,To: 30 Sep 2010,Protestant,FY 2010,17,Central African Republic,6,377
+From: 30 Sep 2010,To: 30 Sep 2010,Protestant,FY 2010,17,Chad,1,377
+From: 30 Sep 2010,To: 30 Sep 2010,Protestant,FY 2010,17,Dem. Rep. Congo,10,377
+From: 30 Sep 2010,To: 30 Sep 2010,Sabeans-Mandean,FY 2010,4,Iraq,4,377
+From: 30 Sep 2010,To: 30 Sep 2010,Seventh Day Adventist,FY 2010,19,Dem. Rep. Congo,17,377
+From: 30 Sep 2010,To: 30 Sep 2010,Seventh Day Adventist,FY 2010,19,Ukraine,2,377
+From: 30 Sep 2010,To: 30 Sep 2010,Zoroastrian,FY 2010,1,Iran,1,377
+

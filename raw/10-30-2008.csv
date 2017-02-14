@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Oct 2008,To: 30 Oct 2008,Bhutan,FY 2009,113,Buddhist,7,296
+From: 30 Oct 2008,To: 30 Oct 2008,Bhutan,FY 2009,113,Christian,11,296
+From: 30 Oct 2008,To: 30 Oct 2008,Bhutan,FY 2009,113,Hindu,95,296
+From: 30 Oct 2008,To: 30 Oct 2008,Burma,FY 2009,92,Buddhist,12,296
+From: 30 Oct 2008,To: 30 Oct 2008,Burma,FY 2009,92,Christian,70,296
+From: 30 Oct 2008,To: 30 Oct 2008,Burma,FY 2009,92,Moslem,10,296
+From: 30 Oct 2008,To: 30 Oct 2008,Cuba,FY 2009,43,Baptist,2,296
+From: 30 Oct 2008,To: 30 Oct 2008,Cuba,FY 2009,43,Catholic,24,296
+From: 30 Oct 2008,To: 30 Oct 2008,Cuba,FY 2009,43,Jehovah Witness,10,296
+From: 30 Oct 2008,To: 30 Oct 2008,Cuba,FY 2009,43,No Religion,7,296
+From: 30 Oct 2008,To: 30 Oct 2008,Dem. Rep. Congo,FY 2009,1,Unknown,1,296
+From: 30 Oct 2008,To: 30 Oct 2008,Iran,FY 2009,31,Christian,27,296
+From: 30 Oct 2008,To: 30 Oct 2008,Iran,FY 2009,31,Jewish,2,296
+From: 30 Oct 2008,To: 30 Oct 2008,Iran,FY 2009,31,Zoroastrian,2,296
+From: 30 Oct 2008,To: 30 Oct 2008,Iraq,FY 2009,12,Christian,6,296
+From: 30 Oct 2008,To: 30 Oct 2008,Iraq,FY 2009,12,Orthodox,6,296
+From: 30 Oct 2008,To: 30 Oct 2008,Liberia,FY 2009,4,Christian,4,296
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Oct 2008,To: 30 Oct 2008,Baptist,FY 2009,2,Cuba,2,296
+From: 30 Oct 2008,To: 30 Oct 2008,Buddhist,FY 2009,19,Bhutan,7,296
+From: 30 Oct 2008,To: 30 Oct 2008,Buddhist,FY 2009,19,Burma,12,296
+From: 30 Oct 2008,To: 30 Oct 2008,Catholic,FY 2009,24,Cuba,24,296
+From: 30 Oct 2008,To: 30 Oct 2008,Christian,FY 2009,118,Bhutan,11,296
+From: 30 Oct 2008,To: 30 Oct 2008,Christian,FY 2009,118,Burma,70,296
+From: 30 Oct 2008,To: 30 Oct 2008,Christian,FY 2009,118,Iran,27,296
+From: 30 Oct 2008,To: 30 Oct 2008,Christian,FY 2009,118,Iraq,6,296
+From: 30 Oct 2008,To: 30 Oct 2008,Christian,FY 2009,118,Liberia,4,296
+From: 30 Oct 2008,To: 30 Oct 2008,Hindu,FY 2009,95,Bhutan,95,296
+From: 30 Oct 2008,To: 30 Oct 2008,Jehovah Witness,FY 2009,10,Cuba,10,296
+From: 30 Oct 2008,To: 30 Oct 2008,Jewish,FY 2009,2,Iran,2,296
+From: 30 Oct 2008,To: 30 Oct 2008,Moslem,FY 2009,10,Burma,10,296
+From: 30 Oct 2008,To: 30 Oct 2008,No Religion,FY 2009,7,Cuba,7,296
+From: 30 Oct 2008,To: 30 Oct 2008,Orthodox,FY 2009,6,Iraq,6,296
+From: 30 Oct 2008,To: 30 Oct 2008,Unknown,FY 2009,1,Dem. Rep. Congo,1,296
+From: 30 Oct 2008,To: 30 Oct 2008,Zoroastrian,FY 2009,2,Iran,2,296
+

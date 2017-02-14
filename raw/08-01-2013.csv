@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Aug 2013,To: 01 Aug 2013,Bhutan,FY 2013,27,Buddhist,5,294
+From: 01 Aug 2013,To: 01 Aug 2013,Bhutan,FY 2013,27,Hindu,12,294
+From: 01 Aug 2013,To: 01 Aug 2013,Bhutan,FY 2013,27,Kirat,10,294
+From: 01 Aug 2013,To: 01 Aug 2013,Burma,FY 2013,88,Baptist,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Burma,FY 2013,88,Catholic,10,294
+From: 01 Aug 2013,To: 01 Aug 2013,Burma,FY 2013,88,Christian,72,294
+From: 01 Aug 2013,To: 01 Aug 2013,Burma,FY 2013,88,Moslem,2,294
+From: 01 Aug 2013,To: 01 Aug 2013,Central African Republic,FY 2013,1,Protestant,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,Baptist,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,Catholic,9,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,Evangelical Christian,7,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,Jehovah Witness,10,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,No Religion,26,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,Pentecostalist,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Cuba,FY 2013,66,Seventh Day Adventist,6,294
+From: 01 Aug 2013,To: 01 Aug 2013,Eritrea,FY 2013,1,Christian,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,Catholic,19,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,Christian,7,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,Moslem,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,Moslem Shiite,22,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,Moslem Suni,34,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,No Religion,2,294
+From: 01 Aug 2013,To: 01 Aug 2013,Iraq,FY 2013,89,Orthodox,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Palestine,FY 2013,1,Moslem,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Russia,FY 2013,2,Jewish,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Russia,FY 2013,2,No Religion,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Somalia,FY 2013,12,Moslem,12,294
+From: 01 Aug 2013,To: 01 Aug 2013,Sri Lanka (Ceylon),FY 2013,6,Hindu,6,294
+From: 01 Aug 2013,To: 01 Aug 2013,Sudan,FY 2013,1,Moslem,1,294
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Aug 2013,To: 01 Aug 2013,Baptist,FY 2013,8,Burma,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Baptist,FY 2013,8,Cuba,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Buddhist,FY 2013,5,Bhutan,5,294
+From: 01 Aug 2013,To: 01 Aug 2013,Catholic,FY 2013,38,Burma,10,294
+From: 01 Aug 2013,To: 01 Aug 2013,Catholic,FY 2013,38,Cuba,9,294
+From: 01 Aug 2013,To: 01 Aug 2013,Catholic,FY 2013,38,Iraq,19,294
+From: 01 Aug 2013,To: 01 Aug 2013,Christian,FY 2013,80,Burma,72,294
+From: 01 Aug 2013,To: 01 Aug 2013,Christian,FY 2013,80,Eritrea,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Christian,FY 2013,80,Iraq,7,294
+From: 01 Aug 2013,To: 01 Aug 2013,Evangelical Christian,FY 2013,7,Cuba,7,294
+From: 01 Aug 2013,To: 01 Aug 2013,Hindu,FY 2013,18,Bhutan,12,294
+From: 01 Aug 2013,To: 01 Aug 2013,Hindu,FY 2013,18,Sri Lanka (Ceylon),6,294
+From: 01 Aug 2013,To: 01 Aug 2013,Jehovah Witness,FY 2013,10,Cuba,10,294
+From: 01 Aug 2013,To: 01 Aug 2013,Jewish,FY 2013,1,Russia,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Kirat,FY 2013,10,Bhutan,10,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem,FY 2013,17,Burma,2,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem,FY 2013,17,Iraq,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem,FY 2013,17,Palestine,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem,FY 2013,17,Somalia,12,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem,FY 2013,17,Sudan,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem Shiite,FY 2013,22,Iraq,22,294
+From: 01 Aug 2013,To: 01 Aug 2013,Moslem Suni,FY 2013,34,Iraq,34,294
+From: 01 Aug 2013,To: 01 Aug 2013,No Religion,FY 2013,29,Cuba,26,294
+From: 01 Aug 2013,To: 01 Aug 2013,No Religion,FY 2013,29,Iraq,2,294
+From: 01 Aug 2013,To: 01 Aug 2013,No Religion,FY 2013,29,Russia,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Orthodox,FY 2013,4,Iraq,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Pentecostalist,FY 2013,4,Cuba,4,294
+From: 01 Aug 2013,To: 01 Aug 2013,Protestant,FY 2013,1,Central African Republic,1,294
+From: 01 Aug 2013,To: 01 Aug 2013,Seventh Day Adventist,FY 2013,6,Cuba,6,294
+

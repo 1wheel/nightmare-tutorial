@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Dec 2015,To: 09 Dec 2015,Afghanistan,FY 2016,8,Moslem Shiite,2,284
+From: 09 Dec 2015,To: 09 Dec 2015,Afghanistan,FY 2016,8,Moslem Suni,6,284
+From: 09 Dec 2015,To: 09 Dec 2015,Bhutan,FY 2016,27,Buddhist,6,284
+From: 09 Dec 2015,To: 09 Dec 2015,Bhutan,FY 2016,27,Christian,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Bhutan,FY 2016,27,Hindu,14,284
+From: 09 Dec 2015,To: 09 Dec 2015,Bhutan,FY 2016,27,Kirat,3,284
+From: 09 Dec 2015,To: 09 Dec 2015,Burma,FY 2016,126,Buddhist,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Burma,FY 2016,126,Christian,84,284
+From: 09 Dec 2015,To: 09 Dec 2015,Burma,FY 2016,126,Moslem,41,284
+From: 09 Dec 2015,To: 09 Dec 2015,China,FY 2016,1,Other Religion,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Dem. Rep. Congo,FY 2016,37,Baptist,5,284
+From: 09 Dec 2015,To: 09 Dec 2015,Dem. Rep. Congo,FY 2016,37,Moslem,12,284
+From: 09 Dec 2015,To: 09 Dec 2015,Dem. Rep. Congo,FY 2016,37,Pentecostalist,18,284
+From: 09 Dec 2015,To: 09 Dec 2015,Dem. Rep. Congo,FY 2016,37,Protestant,2,284
+From: 09 Dec 2015,To: 09 Dec 2015,El Salvador,FY 2016,1,Catholic,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iran,FY 2016,31,Christian,18,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iran,FY 2016,31,Jewish,2,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iran,FY 2016,31,Moslem Shiite,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iran,FY 2016,31,Protestant,7,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iraq,FY 2016,31,Moslem,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iraq,FY 2016,31,Moslem Shiite,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Iraq,FY 2016,31,Moslem Suni,23,284
+From: 09 Dec 2015,To: 09 Dec 2015,"Korea, North",FY 2016,1,No Religion,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Pakistan,FY 2016,1,Ahmadiyya,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Somalia,FY 2016,16,Moslem,12,284
+From: 09 Dec 2015,To: 09 Dec 2015,Somalia,FY 2016,16,Moslem Suni,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Sudan,FY 2016,3,Moslem,3,284
+From: 09 Dec 2015,To: 09 Dec 2015,Vietnam,FY 2016,1,Catholic,1,284
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Dec 2015,To: 09 Dec 2015,Ahmadiyya,FY 2016,1,Pakistan,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Baptist,FY 2016,5,Dem. Rep. Congo,5,284
+From: 09 Dec 2015,To: 09 Dec 2015,Buddhist,FY 2016,7,Bhutan,6,284
+From: 09 Dec 2015,To: 09 Dec 2015,Buddhist,FY 2016,7,Burma,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Catholic,FY 2016,2,El Salvador,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Catholic,FY 2016,2,Vietnam,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Christian,FY 2016,106,Bhutan,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Christian,FY 2016,106,Burma,84,284
+From: 09 Dec 2015,To: 09 Dec 2015,Christian,FY 2016,106,Iran,18,284
+From: 09 Dec 2015,To: 09 Dec 2015,Hindu,FY 2016,14,Bhutan,14,284
+From: 09 Dec 2015,To: 09 Dec 2015,Jewish,FY 2016,2,Iran,2,284
+From: 09 Dec 2015,To: 09 Dec 2015,Kirat,FY 2016,3,Bhutan,3,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem,FY 2016,72,Burma,41,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem,FY 2016,72,Dem. Rep. Congo,12,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem,FY 2016,72,Iraq,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem,FY 2016,72,Somalia,12,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem,FY 2016,72,Sudan,3,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem Shiite,FY 2016,10,Afghanistan,2,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem Shiite,FY 2016,10,Iran,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem Shiite,FY 2016,10,Iraq,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem Suni,FY 2016,33,Afghanistan,6,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem Suni,FY 2016,33,Iraq,23,284
+From: 09 Dec 2015,To: 09 Dec 2015,Moslem Suni,FY 2016,33,Somalia,4,284
+From: 09 Dec 2015,To: 09 Dec 2015,No Religion,FY 2016,1,"Korea, North",1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Other Religion,FY 2016,1,China,1,284
+From: 09 Dec 2015,To: 09 Dec 2015,Pentecostalist,FY 2016,18,Dem. Rep. Congo,18,284
+From: 09 Dec 2015,To: 09 Dec 2015,Protestant,FY 2016,9,Dem. Rep. Congo,2,284
+From: 09 Dec 2015,To: 09 Dec 2015,Protestant,FY 2016,9,Iran,7,284
+

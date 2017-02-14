@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jun 2010,To: 10 Jun 2010,Bhutan,FY 2010,140,Buddhist,20,363
+From: 10 Jun 2010,To: 10 Jun 2010,Bhutan,FY 2010,140,Christian,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Bhutan,FY 2010,140,Hindu,108,363
+From: 10 Jun 2010,To: 10 Jun 2010,Bhutan,FY 2010,140,Kirat,11,363
+From: 10 Jun 2010,To: 10 Jun 2010,Burma,FY 2010,130,Animist,16,363
+From: 10 Jun 2010,To: 10 Jun 2010,Burma,FY 2010,130,Baptist,17,363
+From: 10 Jun 2010,To: 10 Jun 2010,Burma,FY 2010,130,Buddhist,18,363
+From: 10 Jun 2010,To: 10 Jun 2010,Burma,FY 2010,130,Catholic,12,363
+From: 10 Jun 2010,To: 10 Jun 2010,Burma,FY 2010,130,Christian,67,363
+From: 10 Jun 2010,To: 10 Jun 2010,Eritrea,FY 2010,5,Catholic,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Eritrea,FY 2010,5,Moslem,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Eritrea,FY 2010,5,Orthodox,3,363
+From: 10 Jun 2010,To: 10 Jun 2010,Iraq,FY 2010,42,Moslem,4,363
+From: 10 Jun 2010,To: 10 Jun 2010,Iraq,FY 2010,42,Moslem Shiite,13,363
+From: 10 Jun 2010,To: 10 Jun 2010,Iraq,FY 2010,42,Moslem Suni,25,363
+From: 10 Jun 2010,To: 10 Jun 2010,Liberia,FY 2010,6,Baptist,5,363
+From: 10 Jun 2010,To: 10 Jun 2010,Liberia,FY 2010,6,Christian,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Somalia,FY 2010,36,Moslem,36,363
+From: 10 Jun 2010,To: 10 Jun 2010,Sudan,FY 2010,4,Moslem,4,363
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jun 2010,To: 10 Jun 2010,Animist,FY 2010,16,Burma,16,363
+From: 10 Jun 2010,To: 10 Jun 2010,Baptist,FY 2010,22,Burma,17,363
+From: 10 Jun 2010,To: 10 Jun 2010,Baptist,FY 2010,22,Liberia,5,363
+From: 10 Jun 2010,To: 10 Jun 2010,Buddhist,FY 2010,38,Bhutan,20,363
+From: 10 Jun 2010,To: 10 Jun 2010,Buddhist,FY 2010,38,Burma,18,363
+From: 10 Jun 2010,To: 10 Jun 2010,Catholic,FY 2010,13,Burma,12,363
+From: 10 Jun 2010,To: 10 Jun 2010,Catholic,FY 2010,13,Eritrea,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Christian,FY 2010,69,Bhutan,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Christian,FY 2010,69,Burma,67,363
+From: 10 Jun 2010,To: 10 Jun 2010,Christian,FY 2010,69,Liberia,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Hindu,FY 2010,108,Bhutan,108,363
+From: 10 Jun 2010,To: 10 Jun 2010,Kirat,FY 2010,11,Bhutan,11,363
+From: 10 Jun 2010,To: 10 Jun 2010,Moslem,FY 2010,45,Eritrea,1,363
+From: 10 Jun 2010,To: 10 Jun 2010,Moslem,FY 2010,45,Iraq,4,363
+From: 10 Jun 2010,To: 10 Jun 2010,Moslem,FY 2010,45,Somalia,36,363
+From: 10 Jun 2010,To: 10 Jun 2010,Moslem,FY 2010,45,Sudan,4,363
+From: 10 Jun 2010,To: 10 Jun 2010,Moslem Shiite,FY 2010,13,Iraq,13,363
+From: 10 Jun 2010,To: 10 Jun 2010,Moslem Suni,FY 2010,25,Iraq,25,363
+From: 10 Jun 2010,To: 10 Jun 2010,Orthodox,FY 2010,3,Eritrea,3,363
+

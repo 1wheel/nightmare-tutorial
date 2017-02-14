@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jan 2013,To: 28 Jan 2013,Burma,FY 2013,62,Buddhist,8,201
+From: 28 Jan 2013,To: 28 Jan 2013,Burma,FY 2013,62,Christian,45,201
+From: 28 Jan 2013,To: 28 Jan 2013,Burma,FY 2013,62,Methodist,5,201
+From: 28 Jan 2013,To: 28 Jan 2013,Burma,FY 2013,62,Moslem,4,201
+From: 28 Jan 2013,To: 28 Jan 2013,Eritrea,FY 2013,2,Christian,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Eritrea,FY 2013,2,Moslem,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Ethiopia,FY 2013,3,Christian,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Ethiopia,FY 2013,3,Moslem,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Ethiopia,FY 2013,3,Moslem Suni,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Iraq,FY 2013,83,Catholic,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Iraq,FY 2013,83,Chaldean,3,201
+From: 28 Jan 2013,To: 28 Jan 2013,Iraq,FY 2013,83,Christian,31,201
+From: 28 Jan 2013,To: 28 Jan 2013,Iraq,FY 2013,83,Moslem Shiite,31,201
+From: 28 Jan 2013,To: 28 Jan 2013,Iraq,FY 2013,83,Moslem Suni,17,201
+From: 28 Jan 2013,To: 28 Jan 2013,Ivory Coast,FY 2013,1,Moslem,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Somalia,FY 2013,11,Moslem,4,201
+From: 28 Jan 2013,To: 28 Jan 2013,Somalia,FY 2013,11,Moslem Suni,7,201
+From: 28 Jan 2013,To: 28 Jan 2013,Sri Lanka (Ceylon),FY 2013,5,Hindu,5,201
+From: 28 Jan 2013,To: 28 Jan 2013,Sudan,FY 2013,34,Moslem,34,201
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jan 2013,To: 28 Jan 2013,Buddhist,FY 2013,8,Burma,8,201
+From: 28 Jan 2013,To: 28 Jan 2013,Catholic,FY 2013,1,Iraq,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Chaldean,FY 2013,3,Iraq,3,201
+From: 28 Jan 2013,To: 28 Jan 2013,Christian,FY 2013,78,Burma,45,201
+From: 28 Jan 2013,To: 28 Jan 2013,Christian,FY 2013,78,Eritrea,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Christian,FY 2013,78,Ethiopia,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Christian,FY 2013,78,Iraq,31,201
+From: 28 Jan 2013,To: 28 Jan 2013,Hindu,FY 2013,5,Sri Lanka (Ceylon),5,201
+From: 28 Jan 2013,To: 28 Jan 2013,Methodist,FY 2013,5,Burma,5,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem,FY 2013,45,Burma,4,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem,FY 2013,45,Eritrea,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem,FY 2013,45,Ethiopia,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem,FY 2013,45,Ivory Coast,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem,FY 2013,45,Somalia,4,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem,FY 2013,45,Sudan,34,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem Shiite,FY 2013,31,Iraq,31,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem Suni,FY 2013,25,Ethiopia,1,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem Suni,FY 2013,25,Iraq,17,201
+From: 28 Jan 2013,To: 28 Jan 2013,Moslem Suni,FY 2013,25,Somalia,7,201
+

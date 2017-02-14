@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Jun 2003,To: 09 Jun 2003,Afghanistan,FY 2003,14,Moslem Suni,14,37
+From: 09 Jun 2003,To: 09 Jun 2003,Iran,FY 2003,13,Bahai,3,37
+From: 09 Jun 2003,To: 09 Jun 2003,Iran,FY 2003,13,Moslem,10,37
+From: 09 Jun 2003,To: 09 Jun 2003,Rwanda,FY 2003,3,Christian,3,37
+From: 09 Jun 2003,To: 09 Jun 2003,Uzbekistan,FY 2003,7,Evangelical Christian,1,37
+From: 09 Jun 2003,To: 09 Jun 2003,Uzbekistan,FY 2003,7,Seventh Day Adventist,6,37
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Jun 2003,To: 09 Jun 2003,Bahai,FY 2003,3,Iran,3,37
+From: 09 Jun 2003,To: 09 Jun 2003,Christian,FY 2003,3,Rwanda,3,37
+From: 09 Jun 2003,To: 09 Jun 2003,Evangelical Christian,FY 2003,1,Uzbekistan,1,37
+From: 09 Jun 2003,To: 09 Jun 2003,Moslem,FY 2003,10,Iran,10,37
+From: 09 Jun 2003,To: 09 Jun 2003,Moslem Suni,FY 2003,14,Afghanistan,14,37
+From: 09 Jun 2003,To: 09 Jun 2003,Seventh Day Adventist,FY 2003,6,Uzbekistan,6,37
+

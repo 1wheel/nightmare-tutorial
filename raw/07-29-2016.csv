@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Jul 2016,To: 29 Jul 2016,Burma,FY 2016,34,Christian,9,118
+From: 29 Jul 2016,To: 29 Jul 2016,Burma,FY 2016,34,Moslem,25,118
+From: 29 Jul 2016,To: 29 Jul 2016,Dem. Rep. Congo,FY 2016,10,Pentecostalist,10,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,FY 2016,11,Christian,1,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,FY 2016,11,Moslem Shiite,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,FY 2016,11,Moslem Suni,2,118
+From: 29 Jul 2016,To: 29 Jul 2016,Iraq,FY 2016,11,Orthodox,5,118
+From: 29 Jul 2016,To: 29 Jul 2016,Sri Lanka (Ceylon),FY 2016,3,Hindu,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Syria,FY 2016,60,Moslem Suni,60,118
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Jul 2016,To: 29 Jul 2016,Christian,FY 2016,10,Burma,9,118
+From: 29 Jul 2016,To: 29 Jul 2016,Christian,FY 2016,10,Iraq,1,118
+From: 29 Jul 2016,To: 29 Jul 2016,Hindu,FY 2016,3,Sri Lanka (Ceylon),3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Moslem,FY 2016,25,Burma,25,118
+From: 29 Jul 2016,To: 29 Jul 2016,Moslem Shiite,FY 2016,3,Iraq,3,118
+From: 29 Jul 2016,To: 29 Jul 2016,Moslem Suni,FY 2016,62,Iraq,2,118
+From: 29 Jul 2016,To: 29 Jul 2016,Moslem Suni,FY 2016,62,Syria,60,118
+From: 29 Jul 2016,To: 29 Jul 2016,Orthodox,FY 2016,5,Iraq,5,118
+From: 29 Jul 2016,To: 29 Jul 2016,Pentecostalist,FY 2016,10,Dem. Rep. Congo,10,118
+

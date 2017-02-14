@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 May 2014,To: 05 May 2014,Burma,FY 2014,3,Christian,3,109
+From: 05 May 2014,To: 05 May 2014,Colombia,FY 2014,4,Catholic,4,109
+From: 05 May 2014,To: 05 May 2014,Cuba,FY 2014,1,No Religion,1,109
+From: 05 May 2014,To: 05 May 2014,Dem. Rep. Congo,FY 2014,1,Catholic,1,109
+From: 05 May 2014,To: 05 May 2014,Iraq,FY 2014,74,Catholic,13,109
+From: 05 May 2014,To: 05 May 2014,Iraq,FY 2014,74,Christian,8,109
+From: 05 May 2014,To: 05 May 2014,Iraq,FY 2014,74,Moslem Shiite,16,109
+From: 05 May 2014,To: 05 May 2014,Iraq,FY 2014,74,Moslem Suni,32,109
+From: 05 May 2014,To: 05 May 2014,Iraq,FY 2014,74,Orthodox,5,109
+From: 05 May 2014,To: 05 May 2014,Somalia,FY 2014,26,Moslem,26,109
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 May 2014,To: 05 May 2014,Catholic,FY 2014,18,Colombia,4,109
+From: 05 May 2014,To: 05 May 2014,Catholic,FY 2014,18,Dem. Rep. Congo,1,109
+From: 05 May 2014,To: 05 May 2014,Catholic,FY 2014,18,Iraq,13,109
+From: 05 May 2014,To: 05 May 2014,Christian,FY 2014,11,Burma,3,109
+From: 05 May 2014,To: 05 May 2014,Christian,FY 2014,11,Iraq,8,109
+From: 05 May 2014,To: 05 May 2014,Moslem,FY 2014,26,Somalia,26,109
+From: 05 May 2014,To: 05 May 2014,Moslem Shiite,FY 2014,16,Iraq,16,109
+From: 05 May 2014,To: 05 May 2014,Moslem Suni,FY 2014,32,Iraq,32,109
+From: 05 May 2014,To: 05 May 2014,No Religion,FY 2014,1,Cuba,1,109
+From: 05 May 2014,To: 05 May 2014,Orthodox,FY 2014,5,Iraq,5,109
+

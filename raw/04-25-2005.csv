@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Apr 2005,To: 25 Apr 2005,Afghanistan,FY 2005,27,Moslem,1,119
+From: 25 Apr 2005,To: 25 Apr 2005,Afghanistan,FY 2005,27,Moslem Shiite,8,119
+From: 25 Apr 2005,To: 25 Apr 2005,Afghanistan,FY 2005,27,Moslem Suni,18,119
+From: 25 Apr 2005,To: 25 Apr 2005,Armenia,FY 2005,4,Pentecostalist,4,119
+From: 25 Apr 2005,To: 25 Apr 2005,Azerbaijan,FY 2005,3,Unknown,3,119
+From: 25 Apr 2005,To: 25 Apr 2005,Ethiopia,FY 2005,9,Moslem,2,119
+From: 25 Apr 2005,To: 25 Apr 2005,Ethiopia,FY 2005,9,Orthodox,7,119
+From: 25 Apr 2005,To: 25 Apr 2005,Iran,FY 2005,2,Moslem Shiite,2,119
+From: 25 Apr 2005,To: 25 Apr 2005,Laos,FY 2005,10,Ancestral Worship,10,119
+From: 25 Apr 2005,To: 25 Apr 2005,Russia,FY 2005,24,Baptist,9,119
+From: 25 Apr 2005,To: 25 Apr 2005,Russia,FY 2005,24,Jewish,9,119
+From: 25 Apr 2005,To: 25 Apr 2005,Russia,FY 2005,24,No Religion,3,119
+From: 25 Apr 2005,To: 25 Apr 2005,Russia,FY 2005,24,Seventh Day Adventist,3,119
+From: 25 Apr 2005,To: 25 Apr 2005,Somalia,FY 2005,14,Moslem,14,119
+From: 25 Apr 2005,To: 25 Apr 2005,Sudan,FY 2005,1,Christian,1,119
+From: 25 Apr 2005,To: 25 Apr 2005,Ukraine,FY 2005,25,Baptist,15,119
+From: 25 Apr 2005,To: 25 Apr 2005,Ukraine,FY 2005,25,Pentecostalist,10,119
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Apr 2005,To: 25 Apr 2005,Ancestral Worship,FY 2005,10,Laos,10,119
+From: 25 Apr 2005,To: 25 Apr 2005,Baptist,FY 2005,24,Russia,9,119
+From: 25 Apr 2005,To: 25 Apr 2005,Baptist,FY 2005,24,Ukraine,15,119
+From: 25 Apr 2005,To: 25 Apr 2005,Christian,FY 2005,1,Sudan,1,119
+From: 25 Apr 2005,To: 25 Apr 2005,Jewish,FY 2005,9,Russia,9,119
+From: 25 Apr 2005,To: 25 Apr 2005,Moslem,FY 2005,17,Afghanistan,1,119
+From: 25 Apr 2005,To: 25 Apr 2005,Moslem,FY 2005,17,Ethiopia,2,119
+From: 25 Apr 2005,To: 25 Apr 2005,Moslem,FY 2005,17,Somalia,14,119
+From: 25 Apr 2005,To: 25 Apr 2005,Moslem Shiite,FY 2005,10,Afghanistan,8,119
+From: 25 Apr 2005,To: 25 Apr 2005,Moslem Shiite,FY 2005,10,Iran,2,119
+From: 25 Apr 2005,To: 25 Apr 2005,Moslem Suni,FY 2005,18,Afghanistan,18,119
+From: 25 Apr 2005,To: 25 Apr 2005,No Religion,FY 2005,3,Russia,3,119
+From: 25 Apr 2005,To: 25 Apr 2005,Orthodox,FY 2005,7,Ethiopia,7,119
+From: 25 Apr 2005,To: 25 Apr 2005,Pentecostalist,FY 2005,14,Armenia,4,119
+From: 25 Apr 2005,To: 25 Apr 2005,Pentecostalist,FY 2005,14,Ukraine,10,119
+From: 25 Apr 2005,To: 25 Apr 2005,Seventh Day Adventist,FY 2005,3,Russia,3,119
+From: 25 Apr 2005,To: 25 Apr 2005,Unknown,FY 2005,3,Azerbaijan,3,119
+

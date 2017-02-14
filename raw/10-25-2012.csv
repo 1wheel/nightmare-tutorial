@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Oct 2012,To: 25 Oct 2012,Burma,FY 2013,124,Animist,2,352
+From: 25 Oct 2012,To: 25 Oct 2012,Burma,FY 2013,124,Baptist,9,352
+From: 25 Oct 2012,To: 25 Oct 2012,Burma,FY 2013,124,Buddhist,27,352
+From: 25 Oct 2012,To: 25 Oct 2012,Burma,FY 2013,124,Catholic,12,352
+From: 25 Oct 2012,To: 25 Oct 2012,Burma,FY 2013,124,Christian,74,352
+From: 25 Oct 2012,To: 25 Oct 2012,Colombia,FY 2013,17,Catholic,11,352
+From: 25 Oct 2012,To: 25 Oct 2012,Colombia,FY 2013,17,Christian,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Congo,FY 2013,12,Catholic,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Congo,FY 2013,12,Christian,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Cuba,FY 2013,68,Catholic,23,352
+From: 25 Oct 2012,To: 25 Oct 2012,Cuba,FY 2013,68,Jehovah Witness,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Cuba,FY 2013,68,Methodist,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Cuba,FY 2013,68,No Religion,32,352
+From: 25 Oct 2012,To: 25 Oct 2012,Cuba,FY 2013,68,Pentecostalist,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Cuba,FY 2013,68,Seventh Day Adventist,4,352
+From: 25 Oct 2012,To: 25 Oct 2012,Dem. Rep. Congo,FY 2013,3,Catholic,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Eritrea,FY 2013,9,Catholic,4,352
+From: 25 Oct 2012,To: 25 Oct 2012,Eritrea,FY 2013,9,Christian,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Eritrea,FY 2013,9,Orthodox,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Eritrea,FY 2013,9,Pentecostalist,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Ethiopia,FY 2013,1,Moslem,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Iraq,FY 2013,47,Christian,31,352
+From: 25 Oct 2012,To: 25 Oct 2012,Iraq,FY 2013,47,Moslem,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Iraq,FY 2013,47,Moslem Suni,15,352
+From: 25 Oct 2012,To: 25 Oct 2012,Kenya,FY 2013,2,Christian,2,352
+From: 25 Oct 2012,To: 25 Oct 2012,Somalia,FY 2013,31,Moslem,28,352
+From: 25 Oct 2012,To: 25 Oct 2012,Somalia,FY 2013,31,Moslem Suni,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Sudan,FY 2013,22,Christian,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Sudan,FY 2013,22,Moslem,16,352
+From: 25 Oct 2012,To: 25 Oct 2012,Ukraine,FY 2013,15,Baptist,11,352
+From: 25 Oct 2012,To: 25 Oct 2012,Ukraine,FY 2013,15,Pentecostalist,4,352
+From: 25 Oct 2012,To: 25 Oct 2012,Yemen,FY 2013,1,Moslem,1,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Oct 2012,To: 25 Oct 2012,Animist,FY 2013,2,Burma,2,352
+From: 25 Oct 2012,To: 25 Oct 2012,Baptist,FY 2013,20,Burma,9,352
+From: 25 Oct 2012,To: 25 Oct 2012,Baptist,FY 2013,20,Ukraine,11,352
+From: 25 Oct 2012,To: 25 Oct 2012,Buddhist,FY 2013,27,Burma,27,352
+From: 25 Oct 2012,To: 25 Oct 2012,Catholic,FY 2013,59,Burma,12,352
+From: 25 Oct 2012,To: 25 Oct 2012,Catholic,FY 2013,59,Colombia,11,352
+From: 25 Oct 2012,To: 25 Oct 2012,Catholic,FY 2013,59,Congo,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Catholic,FY 2013,59,Cuba,23,352
+From: 25 Oct 2012,To: 25 Oct 2012,Catholic,FY 2013,59,Dem. Rep. Congo,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Catholic,FY 2013,59,Eritrea,4,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Burma,74,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Colombia,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Congo,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Eritrea,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Iraq,31,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Kenya,2,352
+From: 25 Oct 2012,To: 25 Oct 2012,Christian,FY 2013,126,Sudan,6,352
+From: 25 Oct 2012,To: 25 Oct 2012,Jehovah Witness,FY 2013,3,Cuba,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Methodist,FY 2013,3,Cuba,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem,FY 2013,47,Ethiopia,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem,FY 2013,47,Iraq,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem,FY 2013,47,Somalia,28,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem,FY 2013,47,Sudan,16,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem,FY 2013,47,Yemen,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem Suni,FY 2013,18,Iraq,15,352
+From: 25 Oct 2012,To: 25 Oct 2012,Moslem Suni,FY 2013,18,Somalia,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,No Religion,FY 2013,32,Cuba,32,352
+From: 25 Oct 2012,To: 25 Oct 2012,Orthodox,FY 2013,3,Eritrea,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Pentecostalist,FY 2013,8,Cuba,3,352
+From: 25 Oct 2012,To: 25 Oct 2012,Pentecostalist,FY 2013,8,Eritrea,1,352
+From: 25 Oct 2012,To: 25 Oct 2012,Pentecostalist,FY 2013,8,Ukraine,4,352
+From: 25 Oct 2012,To: 25 Oct 2012,Seventh Day Adventist,FY 2013,4,Cuba,4,352
+

@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 May 2008,To: 07 May 2008,Bhutan,FY 2008,30,Hindu,30,233
+From: 07 May 2008,To: 07 May 2008,Burma,FY 2008,59,Buddhist,3,233
+From: 07 May 2008,To: 07 May 2008,Burma,FY 2008,59,Christian,48,233
+From: 07 May 2008,To: 07 May 2008,Burma,FY 2008,59,Moslem,8,233
+From: 07 May 2008,To: 07 May 2008,Dem. Rep. Congo,FY 2008,1,Catholic,1,233
+From: 07 May 2008,To: 07 May 2008,Eritrea,FY 2008,12,Catholic,11,233
+From: 07 May 2008,To: 07 May 2008,Eritrea,FY 2008,12,Orthodox,1,233
+From: 07 May 2008,To: 07 May 2008,Iraq,FY 2008,94,Catholic,1,233
+From: 07 May 2008,To: 07 May 2008,Iraq,FY 2008,94,Christian,48,233
+From: 07 May 2008,To: 07 May 2008,Iraq,FY 2008,94,Moslem Shiite,22,233
+From: 07 May 2008,To: 07 May 2008,Iraq,FY 2008,94,Moslem Suni,22,233
+From: 07 May 2008,To: 07 May 2008,Iraq,FY 2008,94,Sabeans-Mandean,1,233
+From: 07 May 2008,To: 07 May 2008,Sudan,FY 2008,2,Moslem,2,233
+From: 07 May 2008,To: 07 May 2008,Vietnam,FY 2008,35,Ancestral Worship,3,233
+From: 07 May 2008,To: 07 May 2008,Vietnam,FY 2008,35,Buddhist,13,233
+From: 07 May 2008,To: 07 May 2008,Vietnam,FY 2008,35,Catholic,7,233
+From: 07 May 2008,To: 07 May 2008,Vietnam,FY 2008,35,No Religion,6,233
+From: 07 May 2008,To: 07 May 2008,Vietnam,FY 2008,35,Other Religion,5,233
+From: 07 May 2008,To: 07 May 2008,Vietnam,FY 2008,35,Protestant,1,233
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 May 2008,To: 07 May 2008,Ancestral Worship,FY 2008,3,Vietnam,3,233
+From: 07 May 2008,To: 07 May 2008,Buddhist,FY 2008,16,Burma,3,233
+From: 07 May 2008,To: 07 May 2008,Buddhist,FY 2008,16,Vietnam,13,233
+From: 07 May 2008,To: 07 May 2008,Catholic,FY 2008,20,Dem. Rep. Congo,1,233
+From: 07 May 2008,To: 07 May 2008,Catholic,FY 2008,20,Eritrea,11,233
+From: 07 May 2008,To: 07 May 2008,Catholic,FY 2008,20,Iraq,1,233
+From: 07 May 2008,To: 07 May 2008,Catholic,FY 2008,20,Vietnam,7,233
+From: 07 May 2008,To: 07 May 2008,Christian,FY 2008,96,Burma,48,233
+From: 07 May 2008,To: 07 May 2008,Christian,FY 2008,96,Iraq,48,233
+From: 07 May 2008,To: 07 May 2008,Hindu,FY 2008,30,Bhutan,30,233
+From: 07 May 2008,To: 07 May 2008,Moslem,FY 2008,10,Burma,8,233
+From: 07 May 2008,To: 07 May 2008,Moslem,FY 2008,10,Sudan,2,233
+From: 07 May 2008,To: 07 May 2008,Moslem Shiite,FY 2008,22,Iraq,22,233
+From: 07 May 2008,To: 07 May 2008,Moslem Suni,FY 2008,22,Iraq,22,233
+From: 07 May 2008,To: 07 May 2008,No Religion,FY 2008,6,Vietnam,6,233
+From: 07 May 2008,To: 07 May 2008,Orthodox,FY 2008,1,Eritrea,1,233
+From: 07 May 2008,To: 07 May 2008,Other Religion,FY 2008,5,Vietnam,5,233
+From: 07 May 2008,To: 07 May 2008,Protestant,FY 2008,1,Vietnam,1,233
+From: 07 May 2008,To: 07 May 2008,Sabeans-Mandean,FY 2008,1,Iraq,1,233
+

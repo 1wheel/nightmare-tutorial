@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Nov 2011,To: 14 Nov 2011,Afghanistan,FY 2012,1,Moslem Suni,1,105
+From: 14 Nov 2011,To: 14 Nov 2011,Bhutan,FY 2012,35,Buddhist,3,105
+From: 14 Nov 2011,To: 14 Nov 2011,Bhutan,FY 2012,35,Hindu,32,105
+From: 14 Nov 2011,To: 14 Nov 2011,Burma,FY 2012,30,Baptist,7,105
+From: 14 Nov 2011,To: 14 Nov 2011,Burma,FY 2012,30,Christian,23,105
+From: 14 Nov 2011,To: 14 Nov 2011,Dem. Rep. Congo,FY 2012,35,Catholic,9,105
+From: 14 Nov 2011,To: 14 Nov 2011,Dem. Rep. Congo,FY 2012,35,Pentecostalist,14,105
+From: 14 Nov 2011,To: 14 Nov 2011,Dem. Rep. Congo,FY 2012,35,Protestant,2,105
+From: 14 Nov 2011,To: 14 Nov 2011,Dem. Rep. Congo,FY 2012,35,Seventh Day Adventist,10,105
+From: 14 Nov 2011,To: 14 Nov 2011,Sri Lanka (Ceylon),FY 2012,3,Hindu,3,105
+From: 14 Nov 2011,To: 14 Nov 2011,Sudan,FY 2012,1,Moslem,1,105
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Nov 2011,To: 14 Nov 2011,Baptist,FY 2012,7,Burma,7,105
+From: 14 Nov 2011,To: 14 Nov 2011,Buddhist,FY 2012,3,Bhutan,3,105
+From: 14 Nov 2011,To: 14 Nov 2011,Catholic,FY 2012,9,Dem. Rep. Congo,9,105
+From: 14 Nov 2011,To: 14 Nov 2011,Christian,FY 2012,23,Burma,23,105
+From: 14 Nov 2011,To: 14 Nov 2011,Hindu,FY 2012,35,Bhutan,32,105
+From: 14 Nov 2011,To: 14 Nov 2011,Hindu,FY 2012,35,Sri Lanka (Ceylon),3,105
+From: 14 Nov 2011,To: 14 Nov 2011,Moslem,FY 2012,1,Sudan,1,105
+From: 14 Nov 2011,To: 14 Nov 2011,Moslem Suni,FY 2012,1,Afghanistan,1,105
+From: 14 Nov 2011,To: 14 Nov 2011,Pentecostalist,FY 2012,14,Dem. Rep. Congo,14,105
+From: 14 Nov 2011,To: 14 Nov 2011,Protestant,FY 2012,2,Dem. Rep. Congo,2,105
+From: 14 Nov 2011,To: 14 Nov 2011,Seventh Day Adventist,FY 2012,10,Dem. Rep. Congo,10,105
+

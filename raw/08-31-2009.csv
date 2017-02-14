@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Aug 2009,To: 31 Aug 2009,Bhutan,FY 2009,103,Buddhist,12,225
+From: 31 Aug 2009,To: 31 Aug 2009,Bhutan,FY 2009,103,Christian,3,225
+From: 31 Aug 2009,To: 31 Aug 2009,Bhutan,FY 2009,103,Hindu,84,225
+From: 31 Aug 2009,To: 31 Aug 2009,Bhutan,FY 2009,103,Kirat,4,225
+From: 31 Aug 2009,To: 31 Aug 2009,Ethiopia,FY 2009,1,Moslem,1,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iran,FY 2009,20,Atheist,1,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iran,FY 2009,20,Bahai,10,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iran,FY 2009,20,Christian,3,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iran,FY 2009,20,Jewish,2,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iran,FY 2009,20,Zoroastrian,4,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iraq,FY 2009,71,Catholic,12,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iraq,FY 2009,71,Christian,17,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iraq,FY 2009,71,Moslem Shiite,18,225
+From: 31 Aug 2009,To: 31 Aug 2009,Iraq,FY 2009,71,Moslem Suni,24,225
+From: 31 Aug 2009,To: 31 Aug 2009,Somalia,FY 2009,29,Moslem,29,225
+From: 31 Aug 2009,To: 31 Aug 2009,Sudan,FY 2009,1,Christian,1,225
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Aug 2009,To: 31 Aug 2009,Atheist,FY 2009,1,Iran,1,225
+From: 31 Aug 2009,To: 31 Aug 2009,Bahai,FY 2009,10,Iran,10,225
+From: 31 Aug 2009,To: 31 Aug 2009,Buddhist,FY 2009,12,Bhutan,12,225
+From: 31 Aug 2009,To: 31 Aug 2009,Catholic,FY 2009,12,Iraq,12,225
+From: 31 Aug 2009,To: 31 Aug 2009,Christian,FY 2009,24,Bhutan,3,225
+From: 31 Aug 2009,To: 31 Aug 2009,Christian,FY 2009,24,Iran,3,225
+From: 31 Aug 2009,To: 31 Aug 2009,Christian,FY 2009,24,Iraq,17,225
+From: 31 Aug 2009,To: 31 Aug 2009,Christian,FY 2009,24,Sudan,1,225
+From: 31 Aug 2009,To: 31 Aug 2009,Hindu,FY 2009,84,Bhutan,84,225
+From: 31 Aug 2009,To: 31 Aug 2009,Jewish,FY 2009,2,Iran,2,225
+From: 31 Aug 2009,To: 31 Aug 2009,Kirat,FY 2009,4,Bhutan,4,225
+From: 31 Aug 2009,To: 31 Aug 2009,Moslem,FY 2009,30,Ethiopia,1,225
+From: 31 Aug 2009,To: 31 Aug 2009,Moslem,FY 2009,30,Somalia,29,225
+From: 31 Aug 2009,To: 31 Aug 2009,Moslem Shiite,FY 2009,18,Iraq,18,225
+From: 31 Aug 2009,To: 31 Aug 2009,Moslem Suni,FY 2009,24,Iraq,24,225
+From: 31 Aug 2009,To: 31 Aug 2009,Zoroastrian,FY 2009,4,Iran,4,225
+

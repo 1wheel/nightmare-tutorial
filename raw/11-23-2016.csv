@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Nov 2016,To: 23 Nov 2016,El Salvador,FY 2017,2,Evangelical Christian,2,12
+From: 23 Nov 2016,To: 23 Nov 2016,"Korea, North",FY 2017,2,Atheist,1,12
+From: 23 Nov 2016,To: 23 Nov 2016,"Korea, North",FY 2017,2,No Religion,1,12
+From: 23 Nov 2016,To: 23 Nov 2016,Ukraine,FY 2017,8,Pentecostalist,8,12
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Nov 2016,To: 23 Nov 2016,Atheist,FY 2017,1,"Korea, North",1,12
+From: 23 Nov 2016,To: 23 Nov 2016,Evangelical Christian,FY 2017,2,El Salvador,2,12
+From: 23 Nov 2016,To: 23 Nov 2016,No Religion,FY 2017,1,"Korea, North",1,12
+From: 23 Nov 2016,To: 23 Nov 2016,Pentecostalist,FY 2017,8,Ukraine,8,12
+

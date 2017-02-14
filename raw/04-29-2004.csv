@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Apr 2004,To: 29 Apr 2004,Armenia,FY 2004,4,Pentecostalist,4,319
+From: 29 Apr 2004,To: 29 Apr 2004,Ethiopia,FY 2004,24,Christian,6,319
+From: 29 Apr 2004,To: 29 Apr 2004,Ethiopia,FY 2004,24,Moslem,11,319
+From: 29 Apr 2004,To: 29 Apr 2004,Ethiopia,FY 2004,24,Orthodox,5,319
+From: 29 Apr 2004,To: 29 Apr 2004,Ethiopia,FY 2004,24,Pentecostalist,2,319
+From: 29 Apr 2004,To: 29 Apr 2004,Liberia,FY 2004,50,Baptist,9,319
+From: 29 Apr 2004,To: 29 Apr 2004,Liberia,FY 2004,50,Catholic,2,319
+From: 29 Apr 2004,To: 29 Apr 2004,Liberia,FY 2004,50,Christian,32,319
+From: 29 Apr 2004,To: 29 Apr 2004,Liberia,FY 2004,50,Lutheran,2,319
+From: 29 Apr 2004,To: 29 Apr 2004,Liberia,FY 2004,50,Methodist,1,319
+From: 29 Apr 2004,To: 29 Apr 2004,Liberia,FY 2004,50,No Religion,4,319
+From: 29 Apr 2004,To: 29 Apr 2004,Somalia,FY 2004,235,Moslem,235,319
+From: 29 Apr 2004,To: 29 Apr 2004,Sudan,FY 2004,6,Christian,5,319
+From: 29 Apr 2004,To: 29 Apr 2004,Sudan,FY 2004,6,Moslem,1,319
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Apr 2004,To: 29 Apr 2004,Baptist,FY 2004,9,Liberia,9,319
+From: 29 Apr 2004,To: 29 Apr 2004,Catholic,FY 2004,2,Liberia,2,319
+From: 29 Apr 2004,To: 29 Apr 2004,Christian,FY 2004,43,Ethiopia,6,319
+From: 29 Apr 2004,To: 29 Apr 2004,Christian,FY 2004,43,Liberia,32,319
+From: 29 Apr 2004,To: 29 Apr 2004,Christian,FY 2004,43,Sudan,5,319
+From: 29 Apr 2004,To: 29 Apr 2004,Lutheran,FY 2004,2,Liberia,2,319
+From: 29 Apr 2004,To: 29 Apr 2004,Methodist,FY 2004,1,Liberia,1,319
+From: 29 Apr 2004,To: 29 Apr 2004,Moslem,FY 2004,247,Ethiopia,11,319
+From: 29 Apr 2004,To: 29 Apr 2004,Moslem,FY 2004,247,Somalia,235,319
+From: 29 Apr 2004,To: 29 Apr 2004,Moslem,FY 2004,247,Sudan,1,319
+From: 29 Apr 2004,To: 29 Apr 2004,No Religion,FY 2004,4,Liberia,4,319
+From: 29 Apr 2004,To: 29 Apr 2004,Orthodox,FY 2004,5,Ethiopia,5,319
+From: 29 Apr 2004,To: 29 Apr 2004,Pentecostalist,FY 2004,6,Armenia,4,319
+From: 29 Apr 2004,To: 29 Apr 2004,Pentecostalist,FY 2004,6,Ethiopia,2,319
+

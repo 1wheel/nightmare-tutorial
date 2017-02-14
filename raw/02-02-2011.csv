@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Feb 2011,To: 02 Feb 2011,Bhutan,FY 2011,105,Buddhist,5,342
+From: 02 Feb 2011,To: 02 Feb 2011,Bhutan,FY 2011,105,Hindu,97,342
+From: 02 Feb 2011,To: 02 Feb 2011,Bhutan,FY 2011,105,Kirat,3,342
+From: 02 Feb 2011,To: 02 Feb 2011,Burma,FY 2011,134,Baptist,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Burma,FY 2011,134,Buddhist,40,342
+From: 02 Feb 2011,To: 02 Feb 2011,Burma,FY 2011,134,Christian,84,342
+From: 02 Feb 2011,To: 02 Feb 2011,Burma,FY 2011,134,Moslem,9,342
+From: 02 Feb 2011,To: 02 Feb 2011,China,FY 2011,1,Christian,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Colombia,FY 2011,3,Catholic,3,342
+From: 02 Feb 2011,To: 02 Feb 2011,Dem. Rep. Congo,FY 2011,6,Protestant,6,342
+From: 02 Feb 2011,To: 02 Feb 2011,Ethiopia,FY 2011,17,Moslem,16,342
+From: 02 Feb 2011,To: 02 Feb 2011,Ethiopia,FY 2011,17,Orthodox,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Iraq,FY 2011,68,Christian,11,342
+From: 02 Feb 2011,To: 02 Feb 2011,Iraq,FY 2011,68,Moslem Shiite,31,342
+From: 02 Feb 2011,To: 02 Feb 2011,Iraq,FY 2011,68,Moslem Suni,17,342
+From: 02 Feb 2011,To: 02 Feb 2011,Iraq,FY 2011,68,Sabeans-Mandean,9,342
+From: 02 Feb 2011,To: 02 Feb 2011,Rwanda,FY 2011,2,Catholic,2,342
+From: 02 Feb 2011,To: 02 Feb 2011,Somalia,FY 2011,6,Christian,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Somalia,FY 2011,6,Moslem,3,342
+From: 02 Feb 2011,To: 02 Feb 2011,Somalia,FY 2011,6,Moslem Suni,2,342
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Feb 2011,To: 02 Feb 2011,Baptist,FY 2011,1,Burma,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Buddhist,FY 2011,45,Bhutan,5,342
+From: 02 Feb 2011,To: 02 Feb 2011,Buddhist,FY 2011,45,Burma,40,342
+From: 02 Feb 2011,To: 02 Feb 2011,Catholic,FY 2011,5,Colombia,3,342
+From: 02 Feb 2011,To: 02 Feb 2011,Catholic,FY 2011,5,Rwanda,2,342
+From: 02 Feb 2011,To: 02 Feb 2011,Christian,FY 2011,97,Burma,84,342
+From: 02 Feb 2011,To: 02 Feb 2011,Christian,FY 2011,97,China,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Christian,FY 2011,97,Iraq,11,342
+From: 02 Feb 2011,To: 02 Feb 2011,Christian,FY 2011,97,Somalia,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Hindu,FY 2011,97,Bhutan,97,342
+From: 02 Feb 2011,To: 02 Feb 2011,Kirat,FY 2011,3,Bhutan,3,342
+From: 02 Feb 2011,To: 02 Feb 2011,Moslem,FY 2011,28,Burma,9,342
+From: 02 Feb 2011,To: 02 Feb 2011,Moslem,FY 2011,28,Ethiopia,16,342
+From: 02 Feb 2011,To: 02 Feb 2011,Moslem,FY 2011,28,Somalia,3,342
+From: 02 Feb 2011,To: 02 Feb 2011,Moslem Shiite,FY 2011,31,Iraq,31,342
+From: 02 Feb 2011,To: 02 Feb 2011,Moslem Suni,FY 2011,19,Iraq,17,342
+From: 02 Feb 2011,To: 02 Feb 2011,Moslem Suni,FY 2011,19,Somalia,2,342
+From: 02 Feb 2011,To: 02 Feb 2011,Orthodox,FY 2011,1,Ethiopia,1,342
+From: 02 Feb 2011,To: 02 Feb 2011,Protestant,FY 2011,6,Dem. Rep. Congo,6,342
+From: 02 Feb 2011,To: 02 Feb 2011,Sabeans-Mandean,FY 2011,9,Iraq,9,342
+

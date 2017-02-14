@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Sep 2010,To: 20 Sep 2010,Bhutan,FY 2010,38,Buddhist,7,220
+From: 20 Sep 2010,To: 20 Sep 2010,Bhutan,FY 2010,38,Christian,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Bhutan,FY 2010,38,Hindu,23,220
+From: 20 Sep 2010,To: 20 Sep 2010,Bhutan,FY 2010,38,Kirat,5,220
+From: 20 Sep 2010,To: 20 Sep 2010,Burma,FY 2010,20,Baptist,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Burma,FY 2010,20,Buddhist,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Burma,FY 2010,20,Christian,16,220
+From: 20 Sep 2010,To: 20 Sep 2010,Gambia,FY 2010,1,Moslem,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iran,FY 2010,3,Bahai,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Catholic,2,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Christian,23,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Moslem,6,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Moslem Shiite,23,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Moslem Suni,57,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Orthodox,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Sabeans-Mandean,6,220
+From: 20 Sep 2010,To: 20 Sep 2010,Iraq,FY 2010,125,Yazidi,5,220
+From: 20 Sep 2010,To: 20 Sep 2010,Palestine,FY 2010,1,Moslem Suni,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Sierra Leone,FY 2010,3,Catholic,2,220
+From: 20 Sep 2010,To: 20 Sep 2010,Sierra Leone,FY 2010,3,Moslem,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Somalia,FY 2010,28,Moslem,28,220
+From: 20 Sep 2010,To: 20 Sep 2010,Sudan,FY 2010,1,Christian,1,220
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Sep 2010,To: 20 Sep 2010,Bahai,FY 2010,3,Iran,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Baptist,FY 2010,3,Burma,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Buddhist,FY 2010,8,Bhutan,7,220
+From: 20 Sep 2010,To: 20 Sep 2010,Buddhist,FY 2010,8,Burma,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Catholic,FY 2010,4,Iraq,2,220
+From: 20 Sep 2010,To: 20 Sep 2010,Catholic,FY 2010,4,Sierra Leone,2,220
+From: 20 Sep 2010,To: 20 Sep 2010,Christian,FY 2010,43,Bhutan,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Christian,FY 2010,43,Burma,16,220
+From: 20 Sep 2010,To: 20 Sep 2010,Christian,FY 2010,43,Iraq,23,220
+From: 20 Sep 2010,To: 20 Sep 2010,Christian,FY 2010,43,Sudan,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Hindu,FY 2010,23,Bhutan,23,220
+From: 20 Sep 2010,To: 20 Sep 2010,Kirat,FY 2010,5,Bhutan,5,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem,FY 2010,36,Gambia,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem,FY 2010,36,Iraq,6,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem,FY 2010,36,Sierra Leone,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem,FY 2010,36,Somalia,28,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem Shiite,FY 2010,23,Iraq,23,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem Suni,FY 2010,58,Iraq,57,220
+From: 20 Sep 2010,To: 20 Sep 2010,Moslem Suni,FY 2010,58,Palestine,1,220
+From: 20 Sep 2010,To: 20 Sep 2010,Orthodox,FY 2010,3,Iraq,3,220
+From: 20 Sep 2010,To: 20 Sep 2010,Sabeans-Mandean,FY 2010,6,Iraq,6,220
+From: 20 Sep 2010,To: 20 Sep 2010,Yazidi,FY 2010,5,Iraq,5,220
+

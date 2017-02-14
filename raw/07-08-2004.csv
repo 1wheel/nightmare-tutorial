@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jul 2004,To: 08 Jul 2004,Ethiopia,FY 2004,27,Christian,11,201
+From: 08 Jul 2004,To: 08 Jul 2004,Ethiopia,FY 2004,27,Moslem,15,201
+From: 08 Jul 2004,To: 08 Jul 2004,Ethiopia,FY 2004,27,Orthodox,1,201
+From: 08 Jul 2004,To: 08 Jul 2004,Iran,FY 2004,35,Bahai,35,201
+From: 08 Jul 2004,To: 08 Jul 2004,Laos,FY 2004,35,Ancestral Worship,35,201
+From: 08 Jul 2004,To: 08 Jul 2004,Liberia,FY 2004,7,Christian,7,201
+From: 08 Jul 2004,To: 08 Jul 2004,Somalia,FY 2004,93,Moslem,93,201
+From: 08 Jul 2004,To: 08 Jul 2004,Sudan,FY 2004,1,Christian,1,201
+From: 08 Jul 2004,To: 08 Jul 2004,Togo,FY 2004,3,Catholic,3,201
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jul 2004,To: 08 Jul 2004,Ancestral Worship,FY 2004,35,Laos,35,201
+From: 08 Jul 2004,To: 08 Jul 2004,Bahai,FY 2004,35,Iran,35,201
+From: 08 Jul 2004,To: 08 Jul 2004,Catholic,FY 2004,3,Togo,3,201
+From: 08 Jul 2004,To: 08 Jul 2004,Christian,FY 2004,19,Ethiopia,11,201
+From: 08 Jul 2004,To: 08 Jul 2004,Christian,FY 2004,19,Liberia,7,201
+From: 08 Jul 2004,To: 08 Jul 2004,Christian,FY 2004,19,Sudan,1,201
+From: 08 Jul 2004,To: 08 Jul 2004,Moslem,FY 2004,108,Ethiopia,15,201
+From: 08 Jul 2004,To: 08 Jul 2004,Moslem,FY 2004,108,Somalia,93,201
+From: 08 Jul 2004,To: 08 Jul 2004,Orthodox,FY 2004,1,Ethiopia,1,201
+

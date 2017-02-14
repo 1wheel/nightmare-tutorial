@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Mar 2014,To: 26 Mar 2014,Bhutan,FY 2014,63,Buddhist,26,329
+From: 26 Mar 2014,To: 26 Mar 2014,Bhutan,FY 2014,63,Christian,5,329
+From: 26 Mar 2014,To: 26 Mar 2014,Bhutan,FY 2014,63,Hindu,23,329
+From: 26 Mar 2014,To: 26 Mar 2014,Bhutan,FY 2014,63,Kirat,9,329
+From: 26 Mar 2014,To: 26 Mar 2014,Burma,FY 2014,131,Animist,10,329
+From: 26 Mar 2014,To: 26 Mar 2014,Burma,FY 2014,131,Baptist,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Burma,FY 2014,131,Buddhist,36,329
+From: 26 Mar 2014,To: 26 Mar 2014,Burma,FY 2014,131,Catholic,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Burma,FY 2014,131,Christian,68,329
+From: 26 Mar 2014,To: 26 Mar 2014,Burma,FY 2014,131,Moslem,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Dem. Rep. Congo,FY 2014,23,Catholic,9,329
+From: 26 Mar 2014,To: 26 Mar 2014,Dem. Rep. Congo,FY 2014,23,Christian,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Dem. Rep. Congo,FY 2014,23,Moslem,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Dem. Rep. Congo,FY 2014,23,Pentecostalist,2,329
+From: 26 Mar 2014,To: 26 Mar 2014,Dem. Rep. Congo,FY 2014,23,Protestant,3,329
+From: 26 Mar 2014,To: 26 Mar 2014,Eritrea,FY 2014,14,Orthodox,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Eritrea,FY 2014,14,Protestant,6,329
+From: 26 Mar 2014,To: 26 Mar 2014,Iran,FY 2014,1,Christian,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Iraq,FY 2014,31,Catholic,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Iraq,FY 2014,31,Christian,12,329
+From: 26 Mar 2014,To: 26 Mar 2014,Iraq,FY 2014,31,Moslem Shiite,14,329
+From: 26 Mar 2014,To: 26 Mar 2014,Iraq,FY 2014,31,Moslem Suni,4,329
+From: 26 Mar 2014,To: 26 Mar 2014,Palestine,FY 2014,9,Moslem Suni,9,329
+From: 26 Mar 2014,To: 26 Mar 2014,Russia,FY 2014,9,Pentecostalist,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Russia,FY 2014,9,Seventh Day Adventist,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Somalia,FY 2014,48,Moslem,48,329
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Mar 2014,To: 26 Mar 2014,Animist,FY 2014,10,Burma,10,329
+From: 26 Mar 2014,To: 26 Mar 2014,Baptist,FY 2014,8,Burma,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Buddhist,FY 2014,62,Bhutan,26,329
+From: 26 Mar 2014,To: 26 Mar 2014,Buddhist,FY 2014,62,Burma,36,329
+From: 26 Mar 2014,To: 26 Mar 2014,Catholic,FY 2014,18,Burma,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Catholic,FY 2014,18,Dem. Rep. Congo,9,329
+From: 26 Mar 2014,To: 26 Mar 2014,Catholic,FY 2014,18,Iraq,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Christian,FY 2014,94,Bhutan,5,329
+From: 26 Mar 2014,To: 26 Mar 2014,Christian,FY 2014,94,Burma,68,329
+From: 26 Mar 2014,To: 26 Mar 2014,Christian,FY 2014,94,Dem. Rep. Congo,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Christian,FY 2014,94,Iran,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Christian,FY 2014,94,Iraq,12,329
+From: 26 Mar 2014,To: 26 Mar 2014,Hindu,FY 2014,23,Bhutan,23,329
+From: 26 Mar 2014,To: 26 Mar 2014,Kirat,FY 2014,9,Bhutan,9,329
+From: 26 Mar 2014,To: 26 Mar 2014,Moslem,FY 2014,50,Burma,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Moslem,FY 2014,50,Dem. Rep. Congo,1,329
+From: 26 Mar 2014,To: 26 Mar 2014,Moslem,FY 2014,50,Somalia,48,329
+From: 26 Mar 2014,To: 26 Mar 2014,Moslem Shiite,FY 2014,14,Iraq,14,329
+From: 26 Mar 2014,To: 26 Mar 2014,Moslem Suni,FY 2014,13,Iraq,4,329
+From: 26 Mar 2014,To: 26 Mar 2014,Moslem Suni,FY 2014,13,Palestine,9,329
+From: 26 Mar 2014,To: 26 Mar 2014,Orthodox,FY 2014,8,Eritrea,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Pentecostalist,FY 2014,10,Dem. Rep. Congo,2,329
+From: 26 Mar 2014,To: 26 Mar 2014,Pentecostalist,FY 2014,10,Russia,8,329
+From: 26 Mar 2014,To: 26 Mar 2014,Protestant,FY 2014,9,Dem. Rep. Congo,3,329
+From: 26 Mar 2014,To: 26 Mar 2014,Protestant,FY 2014,9,Eritrea,6,329
+From: 26 Mar 2014,To: 26 Mar 2014,Seventh Day Adventist,FY 2014,1,Russia,1,329
+

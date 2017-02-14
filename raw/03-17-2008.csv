@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Mar 2008,To: 17 Mar 2008,Afghanistan,FY 2008,10,Moslem Ismaici,1,107
+From: 17 Mar 2008,To: 17 Mar 2008,Afghanistan,FY 2008,10,Moslem Suni,9,107
+From: 17 Mar 2008,To: 17 Mar 2008,Burma,FY 2008,36,Christian,36,107
+From: 17 Mar 2008,To: 17 Mar 2008,Dem. Rep. Congo,FY 2008,5,Protestant,4,107
+From: 17 Mar 2008,To: 17 Mar 2008,Dem. Rep. Congo,FY 2008,5,Seventh Day Adventist,1,107
+From: 17 Mar 2008,To: 17 Mar 2008,Ethiopia,FY 2008,4,Moslem,4,107
+From: 17 Mar 2008,To: 17 Mar 2008,Iraq,FY 2008,35,Moslem Shiite,20,107
+From: 17 Mar 2008,To: 17 Mar 2008,Iraq,FY 2008,35,Moslem Suni,15,107
+From: 17 Mar 2008,To: 17 Mar 2008,Russia,FY 2008,8,Baptist,1,107
+From: 17 Mar 2008,To: 17 Mar 2008,Russia,FY 2008,8,Jewish,7,107
+From: 17 Mar 2008,To: 17 Mar 2008,Somalia,FY 2008,7,Moslem,7,107
+From: 17 Mar 2008,To: 17 Mar 2008,Sudan,FY 2008,2,Catholic,2,107
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Mar 2008,To: 17 Mar 2008,Baptist,FY 2008,1,Russia,1,107
+From: 17 Mar 2008,To: 17 Mar 2008,Catholic,FY 2008,2,Sudan,2,107
+From: 17 Mar 2008,To: 17 Mar 2008,Christian,FY 2008,36,Burma,36,107
+From: 17 Mar 2008,To: 17 Mar 2008,Jewish,FY 2008,7,Russia,7,107
+From: 17 Mar 2008,To: 17 Mar 2008,Moslem,FY 2008,11,Ethiopia,4,107
+From: 17 Mar 2008,To: 17 Mar 2008,Moslem,FY 2008,11,Somalia,7,107
+From: 17 Mar 2008,To: 17 Mar 2008,Moslem Ismaici,FY 2008,1,Afghanistan,1,107
+From: 17 Mar 2008,To: 17 Mar 2008,Moslem Shiite,FY 2008,20,Iraq,20,107
+From: 17 Mar 2008,To: 17 Mar 2008,Moslem Suni,FY 2008,24,Afghanistan,9,107
+From: 17 Mar 2008,To: 17 Mar 2008,Moslem Suni,FY 2008,24,Iraq,15,107
+From: 17 Mar 2008,To: 17 Mar 2008,Protestant,FY 2008,4,Dem. Rep. Congo,4,107
+From: 17 Mar 2008,To: 17 Mar 2008,Seventh Day Adventist,FY 2008,1,Dem. Rep. Congo,1,107
+

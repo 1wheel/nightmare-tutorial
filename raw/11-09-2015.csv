@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Nov 2015,To: 09 Nov 2015,Afghanistan,FY 2016,18,Moslem Shiite,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Afghanistan,FY 2016,18,Moslem Suni,17,305
+From: 09 Nov 2015,To: 09 Nov 2015,Bhutan,FY 2016,92,Buddhist,43,305
+From: 09 Nov 2015,To: 09 Nov 2015,Bhutan,FY 2016,92,Christian,9,305
+From: 09 Nov 2015,To: 09 Nov 2015,Bhutan,FY 2016,92,Hindu,23,305
+From: 09 Nov 2015,To: 09 Nov 2015,Bhutan,FY 2016,92,Kirat,17,305
+From: 09 Nov 2015,To: 09 Nov 2015,Burma,FY 2016,3,Christian,3,305
+From: 09 Nov 2015,To: 09 Nov 2015,Dem. Rep. Congo,FY 2016,25,Christian,8,305
+From: 09 Nov 2015,To: 09 Nov 2015,Dem. Rep. Congo,FY 2016,25,Jehovah Witness,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Dem. Rep. Congo,FY 2016,25,No Religion,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Dem. Rep. Congo,FY 2016,25,Pentecostalist,8,305
+From: 09 Nov 2015,To: 09 Nov 2015,Dem. Rep. Congo,FY 2016,25,Protestant,6,305
+From: 09 Nov 2015,To: 09 Nov 2015,Ethiopia,FY 2016,9,Christian,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Ethiopia,FY 2016,9,Moslem,5,305
+From: 09 Nov 2015,To: 09 Nov 2015,Ethiopia,FY 2016,9,Pentecostalist,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Ethiopia,FY 2016,9,Protestant,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Iran,FY 2016,24,Bahai,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Iran,FY 2016,24,Christian,17,305
+From: 09 Nov 2015,To: 09 Nov 2015,Iran,FY 2016,24,Protestant,3,305
+From: 09 Nov 2015,To: 09 Nov 2015,Iran,FY 2016,24,Zoroastrian,3,305
+From: 09 Nov 2015,To: 09 Nov 2015,Iraq,FY 2016,52,Moslem Shiite,24,305
+From: 09 Nov 2015,To: 09 Nov 2015,Iraq,FY 2016,52,Moslem Suni,28,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moldova,FY 2016,4,Baptist,4,305
+From: 09 Nov 2015,To: 09 Nov 2015,Russia,FY 2016,9,Baptist,4,305
+From: 09 Nov 2015,To: 09 Nov 2015,Russia,FY 2016,9,Pentecostalist,5,305
+From: 09 Nov 2015,To: 09 Nov 2015,Somalia,FY 2016,32,Moslem,5,305
+From: 09 Nov 2015,To: 09 Nov 2015,Somalia,FY 2016,32,Moslem Suni,27,305
+From: 09 Nov 2015,To: 09 Nov 2015,Sudan,FY 2016,29,Moslem,29,305
+From: 09 Nov 2015,To: 09 Nov 2015,Syria,FY 2016,4,Moslem Suni,4,305
+From: 09 Nov 2015,To: 09 Nov 2015,Ukraine,FY 2016,2,Pentecostalist,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Uzbekistan,FY 2016,2,Pentecostalist,2,305
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Nov 2015,To: 09 Nov 2015,Bahai,FY 2016,1,Iran,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Baptist,FY 2016,8,Moldova,4,305
+From: 09 Nov 2015,To: 09 Nov 2015,Baptist,FY 2016,8,Russia,4,305
+From: 09 Nov 2015,To: 09 Nov 2015,Buddhist,FY 2016,43,Bhutan,43,305
+From: 09 Nov 2015,To: 09 Nov 2015,Christian,FY 2016,39,Bhutan,9,305
+From: 09 Nov 2015,To: 09 Nov 2015,Christian,FY 2016,39,Burma,3,305
+From: 09 Nov 2015,To: 09 Nov 2015,Christian,FY 2016,39,Dem. Rep. Congo,8,305
+From: 09 Nov 2015,To: 09 Nov 2015,Christian,FY 2016,39,Ethiopia,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Christian,FY 2016,39,Iran,17,305
+From: 09 Nov 2015,To: 09 Nov 2015,Hindu,FY 2016,23,Bhutan,23,305
+From: 09 Nov 2015,To: 09 Nov 2015,Jehovah Witness,FY 2016,2,Dem. Rep. Congo,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Kirat,FY 2016,17,Bhutan,17,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem,FY 2016,39,Ethiopia,5,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem,FY 2016,39,Somalia,5,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem,FY 2016,39,Sudan,29,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem Shiite,FY 2016,25,Afghanistan,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem Shiite,FY 2016,25,Iraq,24,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem Suni,FY 2016,76,Afghanistan,17,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem Suni,FY 2016,76,Iraq,28,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem Suni,FY 2016,76,Somalia,27,305
+From: 09 Nov 2015,To: 09 Nov 2015,Moslem Suni,FY 2016,76,Syria,4,305
+From: 09 Nov 2015,To: 09 Nov 2015,No Religion,FY 2016,1,Dem. Rep. Congo,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Pentecostalist,FY 2016,18,Dem. Rep. Congo,8,305
+From: 09 Nov 2015,To: 09 Nov 2015,Pentecostalist,FY 2016,18,Ethiopia,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Pentecostalist,FY 2016,18,Russia,5,305
+From: 09 Nov 2015,To: 09 Nov 2015,Pentecostalist,FY 2016,18,Ukraine,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Pentecostalist,FY 2016,18,Uzbekistan,2,305
+From: 09 Nov 2015,To: 09 Nov 2015,Protestant,FY 2016,10,Dem. Rep. Congo,6,305
+From: 09 Nov 2015,To: 09 Nov 2015,Protestant,FY 2016,10,Ethiopia,1,305
+From: 09 Nov 2015,To: 09 Nov 2015,Protestant,FY 2016,10,Iran,3,305
+From: 09 Nov 2015,To: 09 Nov 2015,Zoroastrian,FY 2016,3,Iran,3,305
+

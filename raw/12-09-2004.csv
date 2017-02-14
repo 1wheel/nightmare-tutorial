@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Dec 2004,To: 09 Dec 2004,Afghanistan,FY 2005,4,Moslem Suni,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Cuba,FY 2005,70,Catholic,15,332
+From: 09 Dec 2004,To: 09 Dec 2004,Cuba,FY 2005,70,Christian,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Cuba,FY 2005,70,Evangelical Christian,2,332
+From: 09 Dec 2004,To: 09 Dec 2004,Cuba,FY 2005,70,Jehovah Witness,15,332
+From: 09 Dec 2004,To: 09 Dec 2004,Cuba,FY 2005,70,No Religion,32,332
+From: 09 Dec 2004,To: 09 Dec 2004,Cuba,FY 2005,70,Pentecostalist,2,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Catholic,2,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Christian,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Jehovah Witness,1,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Lutheran,1,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Moslem,12,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Orthodox,40,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Pentecostalist,8,332
+From: 09 Dec 2004,To: 09 Dec 2004,Eritrea,FY 2005,70,Protestant,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Estonia,FY 2005,3,Baptist,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Laos,FY 2005,105,Ancestral Worship,101,332
+From: 09 Dec 2004,To: 09 Dec 2004,Laos,FY 2005,105,Christian,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Latvia,FY 2005,6,Jewish,6,332
+From: 09 Dec 2004,To: 09 Dec 2004,Liberia,FY 2005,29,Methodist,21,332
+From: 09 Dec 2004,To: 09 Dec 2004,Liberia,FY 2005,29,Pentecostalist,8,332
+From: 09 Dec 2004,To: 09 Dec 2004,Sierra Leone,FY 2005,4,Christian,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Ukraine,FY 2005,29,Baptist,17,332
+From: 09 Dec 2004,To: 09 Dec 2004,Ukraine,FY 2005,29,Pentecostalist,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Ukraine,FY 2005,29,Seventh Day Adventist,9,332
+From: 09 Dec 2004,To: 09 Dec 2004,Uzbekistan,FY 2005,12,Baptist,7,332
+From: 09 Dec 2004,To: 09 Dec 2004,Uzbekistan,FY 2005,12,Jewish,5,332
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Dec 2004,To: 09 Dec 2004,Ancestral Worship,FY 2005,101,Laos,101,332
+From: 09 Dec 2004,To: 09 Dec 2004,Baptist,FY 2005,27,Estonia,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Baptist,FY 2005,27,Ukraine,17,332
+From: 09 Dec 2004,To: 09 Dec 2004,Baptist,FY 2005,27,Uzbekistan,7,332
+From: 09 Dec 2004,To: 09 Dec 2004,Catholic,FY 2005,17,Cuba,15,332
+From: 09 Dec 2004,To: 09 Dec 2004,Catholic,FY 2005,17,Eritrea,2,332
+From: 09 Dec 2004,To: 09 Dec 2004,Christian,FY 2005,15,Cuba,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Christian,FY 2005,15,Eritrea,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Christian,FY 2005,15,Laos,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Christian,FY 2005,15,Sierra Leone,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,Evangelical Christian,FY 2005,2,Cuba,2,332
+From: 09 Dec 2004,To: 09 Dec 2004,Jehovah Witness,FY 2005,16,Cuba,15,332
+From: 09 Dec 2004,To: 09 Dec 2004,Jehovah Witness,FY 2005,16,Eritrea,1,332
+From: 09 Dec 2004,To: 09 Dec 2004,Jewish,FY 2005,11,Latvia,6,332
+From: 09 Dec 2004,To: 09 Dec 2004,Jewish,FY 2005,11,Uzbekistan,5,332
+From: 09 Dec 2004,To: 09 Dec 2004,Lutheran,FY 2005,1,Eritrea,1,332
+From: 09 Dec 2004,To: 09 Dec 2004,Methodist,FY 2005,21,Liberia,21,332
+From: 09 Dec 2004,To: 09 Dec 2004,Moslem,FY 2005,12,Eritrea,12,332
+From: 09 Dec 2004,To: 09 Dec 2004,Moslem Suni,FY 2005,4,Afghanistan,4,332
+From: 09 Dec 2004,To: 09 Dec 2004,No Religion,FY 2005,32,Cuba,32,332
+From: 09 Dec 2004,To: 09 Dec 2004,Orthodox,FY 2005,40,Eritrea,40,332
+From: 09 Dec 2004,To: 09 Dec 2004,Pentecostalist,FY 2005,21,Cuba,2,332
+From: 09 Dec 2004,To: 09 Dec 2004,Pentecostalist,FY 2005,21,Eritrea,8,332
+From: 09 Dec 2004,To: 09 Dec 2004,Pentecostalist,FY 2005,21,Liberia,8,332
+From: 09 Dec 2004,To: 09 Dec 2004,Pentecostalist,FY 2005,21,Ukraine,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Protestant,FY 2005,3,Eritrea,3,332
+From: 09 Dec 2004,To: 09 Dec 2004,Seventh Day Adventist,FY 2005,9,Ukraine,9,332
+

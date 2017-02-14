@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Oct 2010,To: 12 Oct 2010,Bhutan,FY 2011,110,Buddhist,17,406
+From: 12 Oct 2010,To: 12 Oct 2010,Bhutan,FY 2011,110,Christian,9,406
+From: 12 Oct 2010,To: 12 Oct 2010,Bhutan,FY 2011,110,Hindu,84,406
+From: 12 Oct 2010,To: 12 Oct 2010,Burma,FY 2011,35,Buddhist,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Burma,FY 2011,35,Christian,34,406
+From: 12 Oct 2010,To: 12 Oct 2010,Dem. Rep. Congo,FY 2011,2,Moslem,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Dem. Rep. Congo,FY 2011,2,Protestant,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Eritrea,FY 2011,33,Catholic,3,406
+From: 12 Oct 2010,To: 12 Oct 2010,Eritrea,FY 2011,33,Christian,6,406
+From: 12 Oct 2010,To: 12 Oct 2010,Eritrea,FY 2011,33,Moslem,2,406
+From: 12 Oct 2010,To: 12 Oct 2010,Eritrea,FY 2011,33,Orthodox,19,406
+From: 12 Oct 2010,To: 12 Oct 2010,Eritrea,FY 2011,33,Pentecostalist,2,406
+From: 12 Oct 2010,To: 12 Oct 2010,Eritrea,FY 2011,33,Protestant,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iran,FY 2011,36,Bahai,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iran,FY 2011,36,Christian,26,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iran,FY 2011,36,Sabeans-Mandean,6,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iran,FY 2011,36,Zoroastrian,3,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iraq,FY 2011,176,Catholic,19,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iraq,FY 2011,176,Christian,83,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iraq,FY 2011,176,Moslem,4,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iraq,FY 2011,176,Moslem Shiite,25,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iraq,FY 2011,176,Moslem Suni,22,406
+From: 12 Oct 2010,To: 12 Oct 2010,Iraq,FY 2011,176,Orthodox,23,406
+From: 12 Oct 2010,To: 12 Oct 2010,Somalia,FY 2011,10,Moslem,10,406
+From: 12 Oct 2010,To: 12 Oct 2010,Vietnam,FY 2011,4,Ancestral Worship,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Vietnam,FY 2011,4,No Religion,3,406
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Oct 2010,To: 12 Oct 2010,Ancestral Worship,FY 2011,1,Vietnam,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Bahai,FY 2011,1,Iran,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Buddhist,FY 2011,18,Bhutan,17,406
+From: 12 Oct 2010,To: 12 Oct 2010,Buddhist,FY 2011,18,Burma,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Catholic,FY 2011,22,Eritrea,3,406
+From: 12 Oct 2010,To: 12 Oct 2010,Catholic,FY 2011,22,Iraq,19,406
+From: 12 Oct 2010,To: 12 Oct 2010,Christian,FY 2011,158,Bhutan,9,406
+From: 12 Oct 2010,To: 12 Oct 2010,Christian,FY 2011,158,Burma,34,406
+From: 12 Oct 2010,To: 12 Oct 2010,Christian,FY 2011,158,Eritrea,6,406
+From: 12 Oct 2010,To: 12 Oct 2010,Christian,FY 2011,158,Iran,26,406
+From: 12 Oct 2010,To: 12 Oct 2010,Christian,FY 2011,158,Iraq,83,406
+From: 12 Oct 2010,To: 12 Oct 2010,Hindu,FY 2011,84,Bhutan,84,406
+From: 12 Oct 2010,To: 12 Oct 2010,Moslem,FY 2011,17,Dem. Rep. Congo,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Moslem,FY 2011,17,Eritrea,2,406
+From: 12 Oct 2010,To: 12 Oct 2010,Moslem,FY 2011,17,Iraq,4,406
+From: 12 Oct 2010,To: 12 Oct 2010,Moslem,FY 2011,17,Somalia,10,406
+From: 12 Oct 2010,To: 12 Oct 2010,Moslem Shiite,FY 2011,25,Iraq,25,406
+From: 12 Oct 2010,To: 12 Oct 2010,Moslem Suni,FY 2011,22,Iraq,22,406
+From: 12 Oct 2010,To: 12 Oct 2010,No Religion,FY 2011,3,Vietnam,3,406
+From: 12 Oct 2010,To: 12 Oct 2010,Orthodox,FY 2011,42,Eritrea,19,406
+From: 12 Oct 2010,To: 12 Oct 2010,Orthodox,FY 2011,42,Iraq,23,406
+From: 12 Oct 2010,To: 12 Oct 2010,Pentecostalist,FY 2011,2,Eritrea,2,406
+From: 12 Oct 2010,To: 12 Oct 2010,Protestant,FY 2011,2,Dem. Rep. Congo,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Protestant,FY 2011,2,Eritrea,1,406
+From: 12 Oct 2010,To: 12 Oct 2010,Sabeans-Mandean,FY 2011,6,Iran,6,406
+From: 12 Oct 2010,To: 12 Oct 2010,Zoroastrian,FY 2011,3,Iran,3,406
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Feb 2012,To: 13 Feb 2012,Bhutan,FY 2012,35,Buddhist,7,182
+From: 13 Feb 2012,To: 13 Feb 2012,Bhutan,FY 2012,35,Christian,11,182
+From: 13 Feb 2012,To: 13 Feb 2012,Bhutan,FY 2012,35,Hindu,14,182
+From: 13 Feb 2012,To: 13 Feb 2012,Bhutan,FY 2012,35,Kirat,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Burma,FY 2012,67,Baptist,8,182
+From: 13 Feb 2012,To: 13 Feb 2012,Burma,FY 2012,67,Buddhist,5,182
+From: 13 Feb 2012,To: 13 Feb 2012,Burma,FY 2012,67,Catholic,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Burma,FY 2012,67,Christian,49,182
+From: 13 Feb 2012,To: 13 Feb 2012,Burma,FY 2012,67,Moslem,2,182
+From: 13 Feb 2012,To: 13 Feb 2012,Dem. Rep. Congo,FY 2012,2,Christian,1,182
+From: 13 Feb 2012,To: 13 Feb 2012,Dem. Rep. Congo,FY 2012,2,Moslem,1,182
+From: 13 Feb 2012,To: 13 Feb 2012,Ethiopia,FY 2012,8,Moslem,8,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iran,FY 2012,9,Bahai,5,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iran,FY 2012,9,Moslem Suni,1,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iran,FY 2012,9,Protestant,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iraq,FY 2012,39,Catholic,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iraq,FY 2012,39,Christian,7,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iraq,FY 2012,39,Moslem Shiite,4,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iraq,FY 2012,39,Moslem Suni,14,182
+From: 13 Feb 2012,To: 13 Feb 2012,Iraq,FY 2012,39,Sabeans-Mandean,11,182
+From: 13 Feb 2012,To: 13 Feb 2012,Laos,FY 2012,3,Animist,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Somalia,FY 2012,15,Moslem,12,182
+From: 13 Feb 2012,To: 13 Feb 2012,Somalia,FY 2012,15,Pentecostalist,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Sudan,FY 2012,4,Moslem,4,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Feb 2012,To: 13 Feb 2012,Animist,FY 2012,3,Laos,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Bahai,FY 2012,5,Iran,5,182
+From: 13 Feb 2012,To: 13 Feb 2012,Baptist,FY 2012,8,Burma,8,182
+From: 13 Feb 2012,To: 13 Feb 2012,Buddhist,FY 2012,12,Bhutan,7,182
+From: 13 Feb 2012,To: 13 Feb 2012,Buddhist,FY 2012,12,Burma,5,182
+From: 13 Feb 2012,To: 13 Feb 2012,Catholic,FY 2012,6,Burma,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Catholic,FY 2012,6,Iraq,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Christian,FY 2012,68,Bhutan,11,182
+From: 13 Feb 2012,To: 13 Feb 2012,Christian,FY 2012,68,Burma,49,182
+From: 13 Feb 2012,To: 13 Feb 2012,Christian,FY 2012,68,Dem. Rep. Congo,1,182
+From: 13 Feb 2012,To: 13 Feb 2012,Christian,FY 2012,68,Iraq,7,182
+From: 13 Feb 2012,To: 13 Feb 2012,Hindu,FY 2012,14,Bhutan,14,182
+From: 13 Feb 2012,To: 13 Feb 2012,Kirat,FY 2012,3,Bhutan,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem,FY 2012,27,Burma,2,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem,FY 2012,27,Dem. Rep. Congo,1,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem,FY 2012,27,Ethiopia,8,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem,FY 2012,27,Somalia,12,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem,FY 2012,27,Sudan,4,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem Shiite,FY 2012,4,Iraq,4,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem Suni,FY 2012,15,Iran,1,182
+From: 13 Feb 2012,To: 13 Feb 2012,Moslem Suni,FY 2012,15,Iraq,14,182
+From: 13 Feb 2012,To: 13 Feb 2012,Pentecostalist,FY 2012,3,Somalia,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Protestant,FY 2012,3,Iran,3,182
+From: 13 Feb 2012,To: 13 Feb 2012,Sabeans-Mandean,FY 2012,11,Iraq,11,182
+

@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Oct 2016,To: 27 Oct 2016,Afghanistan,FY 2017,33,Moslem,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Afghanistan,FY 2017,33,Moslem Shiite,9,393
+From: 27 Oct 2016,To: 27 Oct 2016,Afghanistan,FY 2017,33,Moslem Suni,23,393
+From: 27 Oct 2016,To: 27 Oct 2016,Bhutan,FY 2017,23,Buddhist,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Bhutan,FY 2017,23,Kirat,19,393
+From: 27 Oct 2016,To: 27 Oct 2016,Burma,FY 2017,36,Animist,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Burma,FY 2017,36,Buddhist,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Burma,FY 2017,36,Christian,26,393
+From: 27 Oct 2016,To: 27 Oct 2016,Burma,FY 2017,36,Moslem,8,393
+From: 27 Oct 2016,To: 27 Oct 2016,Burundi,FY 2017,6,Pentecostalist,6,393
+From: 27 Oct 2016,To: 27 Oct 2016,Dem. Rep. Congo,FY 2017,69,Bahai,7,393
+From: 27 Oct 2016,To: 27 Oct 2016,Dem. Rep. Congo,FY 2017,69,Catholic,5,393
+From: 27 Oct 2016,To: 27 Oct 2016,Dem. Rep. Congo,FY 2017,69,Christian,39,393
+From: 27 Oct 2016,To: 27 Oct 2016,Dem. Rep. Congo,FY 2017,69,Moslem,7,393
+From: 27 Oct 2016,To: 27 Oct 2016,Dem. Rep. Congo,FY 2017,69,Pentecostalist,10,393
+From: 27 Oct 2016,To: 27 Oct 2016,Dem. Rep. Congo,FY 2017,69,Protestant,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,El Salvador,FY 2017,18,Catholic,9,393
+From: 27 Oct 2016,To: 27 Oct 2016,El Salvador,FY 2017,18,Christian,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,El Salvador,FY 2017,18,No Religion,5,393
+From: 27 Oct 2016,To: 27 Oct 2016,Eritrea,FY 2017,2,Orthodox,2,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iran,FY 2017,10,Bahai,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iran,FY 2017,10,Christian,8,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iran,FY 2017,10,No Religion,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iraq,FY 2017,51,Christian,11,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iraq,FY 2017,51,Moslem Shiite,26,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iraq,FY 2017,51,Moslem Suni,11,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iraq,FY 2017,51,Orthodox,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Iraq,FY 2017,51,Yazidi,2,393
+From: 27 Oct 2016,To: 27 Oct 2016,Nepal,FY 2017,3,Hindu,3,393
+From: 27 Oct 2016,To: 27 Oct 2016,Pakistan,FY 2017,3,Ahmadiyya,3,393
+From: 27 Oct 2016,To: 27 Oct 2016,Somalia,FY 2017,71,Moslem,71,393
+From: 27 Oct 2016,To: 27 Oct 2016,Sudan,FY 2017,4,Protestant,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Syria,FY 2017,40,Moslem Suni,40,393
+From: 27 Oct 2016,To: 27 Oct 2016,Ukraine,FY 2017,24,Baptist,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Ukraine,FY 2017,24,Pentecostalist,12,393
+From: 27 Oct 2016,To: 27 Oct 2016,Ukraine,FY 2017,24,Seventh Day Adventist,5,393
+From: 27 Oct 2016,To: 27 Oct 2016,Ukraine,FY 2017,24,Uniate,3,393
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Oct 2016,To: 27 Oct 2016,Ahmadiyya,FY 2017,3,Pakistan,3,393
+From: 27 Oct 2016,To: 27 Oct 2016,Animist,FY 2017,1,Burma,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Bahai,FY 2017,8,Dem. Rep. Congo,7,393
+From: 27 Oct 2016,To: 27 Oct 2016,Bahai,FY 2017,8,Iran,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Baptist,FY 2017,4,Ukraine,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Buddhist,FY 2017,5,Bhutan,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Buddhist,FY 2017,5,Burma,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Catholic,FY 2017,14,Dem. Rep. Congo,5,393
+From: 27 Oct 2016,To: 27 Oct 2016,Catholic,FY 2017,14,El Salvador,9,393
+From: 27 Oct 2016,To: 27 Oct 2016,Christian,FY 2017,88,Burma,26,393
+From: 27 Oct 2016,To: 27 Oct 2016,Christian,FY 2017,88,Dem. Rep. Congo,39,393
+From: 27 Oct 2016,To: 27 Oct 2016,Christian,FY 2017,88,El Salvador,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Christian,FY 2017,88,Iran,8,393
+From: 27 Oct 2016,To: 27 Oct 2016,Christian,FY 2017,88,Iraq,11,393
+From: 27 Oct 2016,To: 27 Oct 2016,Hindu,FY 2017,3,Nepal,3,393
+From: 27 Oct 2016,To: 27 Oct 2016,Kirat,FY 2017,19,Bhutan,19,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem,FY 2017,87,Afghanistan,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem,FY 2017,87,Burma,8,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem,FY 2017,87,Dem. Rep. Congo,7,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem,FY 2017,87,Somalia,71,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem Shiite,FY 2017,35,Afghanistan,9,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem Shiite,FY 2017,35,Iraq,26,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem Suni,FY 2017,74,Afghanistan,23,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem Suni,FY 2017,74,Iraq,11,393
+From: 27 Oct 2016,To: 27 Oct 2016,Moslem Suni,FY 2017,74,Syria,40,393
+From: 27 Oct 2016,To: 27 Oct 2016,No Religion,FY 2017,6,El Salvador,5,393
+From: 27 Oct 2016,To: 27 Oct 2016,No Religion,FY 2017,6,Iran,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Orthodox,FY 2017,3,Eritrea,2,393
+From: 27 Oct 2016,To: 27 Oct 2016,Orthodox,FY 2017,3,Iraq,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Pentecostalist,FY 2017,28,Burundi,6,393
+From: 27 Oct 2016,To: 27 Oct 2016,Pentecostalist,FY 2017,28,Dem. Rep. Congo,10,393
+From: 27 Oct 2016,To: 27 Oct 2016,Pentecostalist,FY 2017,28,Ukraine,12,393
+From: 27 Oct 2016,To: 27 Oct 2016,Protestant,FY 2017,5,Dem. Rep. Congo,1,393
+From: 27 Oct 2016,To: 27 Oct 2016,Protestant,FY 2017,5,Sudan,4,393
+From: 27 Oct 2016,To: 27 Oct 2016,Seventh Day Adventist,FY 2017,5,Ukraine,5,393
+From: 27 Oct 2016,To: 27 Oct 2016,Uniate,FY 2017,3,Ukraine,3,393
+From: 27 Oct 2016,To: 27 Oct 2016,Yazidi,FY 2017,2,Iraq,2,393
+

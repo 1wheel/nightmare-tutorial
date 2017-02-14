@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Apr 2005,To: 04 Apr 2005,Afghanistan,FY 2005,13,Moslem Shiite,6,93
+From: 04 Apr 2005,To: 04 Apr 2005,Afghanistan,FY 2005,13,Moslem Suni,7,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,FY 2005,27,Baptist,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,FY 2005,27,Jewish,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Belarus,FY 2005,27,Pentecostalist,24,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,FY 2005,6,Buddhist,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,Burma,FY 2005,6,Protestant,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,China,FY 2005,1,Buddhist,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Colombia,FY 2005,3,Unknown,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,FY 2005,42,Jewish,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,FY 2005,42,Moslem,34,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,FY 2005,42,No Religion,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Russia,FY 2005,42,Pentecostalist,5,93
+From: 04 Apr 2005,To: 04 Apr 2005,Somalia,FY 2005,1,Moslem,1,93
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Apr 2005,To: 04 Apr 2005,Baptist,FY 2005,2,Belarus,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Buddhist,FY 2005,4,Burma,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,Buddhist,FY 2005,4,China,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Jewish,FY 2005,3,Belarus,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Jewish,FY 2005,3,Russia,2,93
+From: 04 Apr 2005,To: 04 Apr 2005,Moslem,FY 2005,35,Russia,34,93
+From: 04 Apr 2005,To: 04 Apr 2005,Moslem,FY 2005,35,Somalia,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Moslem Shiite,FY 2005,6,Afghanistan,6,93
+From: 04 Apr 2005,To: 04 Apr 2005,Moslem Suni,FY 2005,7,Afghanistan,7,93
+From: 04 Apr 2005,To: 04 Apr 2005,No Religion,FY 2005,1,Russia,1,93
+From: 04 Apr 2005,To: 04 Apr 2005,Pentecostalist,FY 2005,29,Belarus,24,93
+From: 04 Apr 2005,To: 04 Apr 2005,Pentecostalist,FY 2005,29,Russia,5,93
+From: 04 Apr 2005,To: 04 Apr 2005,Protestant,FY 2005,3,Burma,3,93
+From: 04 Apr 2005,To: 04 Apr 2005,Unknown,FY 2005,3,Colombia,3,93
+

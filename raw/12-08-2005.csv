@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Dec 2005,To: 08 Dec 2005,Azerbaijan,FY 2006,4,Unknown,4,390
+From: 08 Dec 2005,To: 08 Dec 2005,Eritrea,FY 2006,6,Catholic,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Eritrea,FY 2006,6,Christian,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Eritrea,FY 2006,6,Moslem,3,390
+From: 08 Dec 2005,To: 08 Dec 2005,Ethiopia,FY 2006,12,Christian,12,390
+From: 08 Dec 2005,To: 08 Dec 2005,Iraq,FY 2006,1,Sabeans-Mandean,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Liberia,FY 2006,9,Baptist,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Liberia,FY 2006,9,Christian,5,390
+From: 08 Dec 2005,To: 08 Dec 2005,Liberia,FY 2006,9,Moslem,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Nigeria,FY 2006,3,Christian,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Nigeria,FY 2006,3,Pentecostalist,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Russia,FY 2006,61,Baptist,19,390
+From: 08 Dec 2005,To: 08 Dec 2005,Russia,FY 2006,61,Moslem,35,390
+From: 08 Dec 2005,To: 08 Dec 2005,Russia,FY 2006,61,Pentecostalist,5,390
+From: 08 Dec 2005,To: 08 Dec 2005,Russia,FY 2006,61,Seventh Day Adventist,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Sierra Leone,FY 2006,18,Methodist,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Sierra Leone,FY 2006,18,Moslem,14,390
+From: 08 Dec 2005,To: 08 Dec 2005,Sierra Leone,FY 2006,18,Pentecostalist,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Somalia,FY 2006,166,Moslem,166,390
+From: 08 Dec 2005,To: 08 Dec 2005,Sudan,FY 2006,5,Christian,5,390
+From: 08 Dec 2005,To: 08 Dec 2005,Vietnam,FY 2006,105,Ancestral Worship,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Vietnam,FY 2006,105,Buddhist,28,390
+From: 08 Dec 2005,To: 08 Dec 2005,Vietnam,FY 2006,105,Catholic,24,390
+From: 08 Dec 2005,To: 08 Dec 2005,Vietnam,FY 2006,105,Christian,8,390
+From: 08 Dec 2005,To: 08 Dec 2005,Vietnam,FY 2006,105,Other Religion,6,390
+From: 08 Dec 2005,To: 08 Dec 2005,Vietnam,FY 2006,105,Protestant,38,390
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Dec 2005,To: 08 Dec 2005,Ancestral Worship,FY 2006,1,Vietnam,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Baptist,FY 2006,21,Liberia,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Baptist,FY 2006,21,Russia,19,390
+From: 08 Dec 2005,To: 08 Dec 2005,Buddhist,FY 2006,28,Vietnam,28,390
+From: 08 Dec 2005,To: 08 Dec 2005,Catholic,FY 2006,26,Eritrea,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Catholic,FY 2006,26,Vietnam,24,390
+From: 08 Dec 2005,To: 08 Dec 2005,Christian,FY 2006,33,Eritrea,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Christian,FY 2006,33,Ethiopia,12,390
+From: 08 Dec 2005,To: 08 Dec 2005,Christian,FY 2006,33,Liberia,5,390
+From: 08 Dec 2005,To: 08 Dec 2005,Christian,FY 2006,33,Nigeria,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Christian,FY 2006,33,Sudan,5,390
+From: 08 Dec 2005,To: 08 Dec 2005,Christian,FY 2006,33,Vietnam,8,390
+From: 08 Dec 2005,To: 08 Dec 2005,Methodist,FY 2006,2,Sierra Leone,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Moslem,FY 2006,220,Eritrea,3,390
+From: 08 Dec 2005,To: 08 Dec 2005,Moslem,FY 2006,220,Liberia,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Moslem,FY 2006,220,Russia,35,390
+From: 08 Dec 2005,To: 08 Dec 2005,Moslem,FY 2006,220,Sierra Leone,14,390
+From: 08 Dec 2005,To: 08 Dec 2005,Moslem,FY 2006,220,Somalia,166,390
+From: 08 Dec 2005,To: 08 Dec 2005,Other Religion,FY 2006,6,Vietnam,6,390
+From: 08 Dec 2005,To: 08 Dec 2005,Pentecostalist,FY 2006,8,Nigeria,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Pentecostalist,FY 2006,8,Russia,5,390
+From: 08 Dec 2005,To: 08 Dec 2005,Pentecostalist,FY 2006,8,Sierra Leone,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Protestant,FY 2006,38,Vietnam,38,390
+From: 08 Dec 2005,To: 08 Dec 2005,Sabeans-Mandean,FY 2006,1,Iraq,1,390
+From: 08 Dec 2005,To: 08 Dec 2005,Seventh Day Adventist,FY 2006,2,Russia,2,390
+From: 08 Dec 2005,To: 08 Dec 2005,Unknown,FY 2006,4,Azerbaijan,4,390
+

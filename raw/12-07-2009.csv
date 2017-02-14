@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Dec 2009,To: 07 Dec 2009,Afghanistan,FY 2010,1,Moslem,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Bhutan,FY 2010,138,Buddhist,4,448
+From: 07 Dec 2009,To: 07 Dec 2009,Bhutan,FY 2010,138,Christian,7,448
+From: 07 Dec 2009,To: 07 Dec 2009,Bhutan,FY 2010,138,Hindu,117,448
+From: 07 Dec 2009,To: 07 Dec 2009,Bhutan,FY 2010,138,Kirat,10,448
+From: 07 Dec 2009,To: 07 Dec 2009,Egypt,FY 2010,3,Coptic,3,448
+From: 07 Dec 2009,To: 07 Dec 2009,Eritrea,FY 2010,1,Christian,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iran,FY 2010,77,Bahai,11,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iran,FY 2010,77,Christian,55,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iran,FY 2010,77,Sabeans-Mandean,3,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iran,FY 2010,77,Zoroastrian,8,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Catholic,30,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Christian,19,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Evangelical Christian,5,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Moslem,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Moslem Shiite,30,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Moslem Suni,79,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Orthodox,9,448
+From: 07 Dec 2009,To: 07 Dec 2009,Iraq,FY 2010,179,Sabeans-Mandean,6,448
+From: 07 Dec 2009,To: 07 Dec 2009,Jordan,FY 2010,3,Moslem Suni,3,448
+From: 07 Dec 2009,To: 07 Dec 2009,Palestine,FY 2010,6,Moslem Suni,6,448
+From: 07 Dec 2009,To: 07 Dec 2009,Rwanda,FY 2010,1,Catholic,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Somalia,FY 2010,33,Moslem,32,448
+From: 07 Dec 2009,To: 07 Dec 2009,Somalia,FY 2010,33,Moslem Suni,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Syria,FY 2010,4,Moslem Suni,4,448
+From: 07 Dec 2009,To: 07 Dec 2009,Uzbekistan,FY 2010,2,Baptist,2,448
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Dec 2009,To: 07 Dec 2009,Bahai,FY 2010,11,Iran,11,448
+From: 07 Dec 2009,To: 07 Dec 2009,Baptist,FY 2010,2,Uzbekistan,2,448
+From: 07 Dec 2009,To: 07 Dec 2009,Buddhist,FY 2010,4,Bhutan,4,448
+From: 07 Dec 2009,To: 07 Dec 2009,Catholic,FY 2010,31,Iraq,30,448
+From: 07 Dec 2009,To: 07 Dec 2009,Catholic,FY 2010,31,Rwanda,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Christian,FY 2010,82,Bhutan,7,448
+From: 07 Dec 2009,To: 07 Dec 2009,Christian,FY 2010,82,Eritrea,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Christian,FY 2010,82,Iran,55,448
+From: 07 Dec 2009,To: 07 Dec 2009,Christian,FY 2010,82,Iraq,19,448
+From: 07 Dec 2009,To: 07 Dec 2009,Coptic,FY 2010,3,Egypt,3,448
+From: 07 Dec 2009,To: 07 Dec 2009,Evangelical Christian,FY 2010,5,Iraq,5,448
+From: 07 Dec 2009,To: 07 Dec 2009,Hindu,FY 2010,117,Bhutan,117,448
+From: 07 Dec 2009,To: 07 Dec 2009,Kirat,FY 2010,10,Bhutan,10,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem,FY 2010,34,Afghanistan,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem,FY 2010,34,Iraq,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem,FY 2010,34,Somalia,32,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem Shiite,FY 2010,30,Iraq,30,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem Suni,FY 2010,93,Iraq,79,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem Suni,FY 2010,93,Jordan,3,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem Suni,FY 2010,93,Palestine,6,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem Suni,FY 2010,93,Somalia,1,448
+From: 07 Dec 2009,To: 07 Dec 2009,Moslem Suni,FY 2010,93,Syria,4,448
+From: 07 Dec 2009,To: 07 Dec 2009,Orthodox,FY 2010,9,Iraq,9,448
+From: 07 Dec 2009,To: 07 Dec 2009,Sabeans-Mandean,FY 2010,9,Iran,3,448
+From: 07 Dec 2009,To: 07 Dec 2009,Sabeans-Mandean,FY 2010,9,Iraq,6,448
+From: 07 Dec 2009,To: 07 Dec 2009,Zoroastrian,FY 2010,8,Iran,8,448
+

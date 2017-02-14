@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Feb 2012,To: 28 Feb 2012,Afghanistan,FY 2012,4,Moslem Shiite,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Bhutan,FY 2012,70,Buddhist,3,283
+From: 28 Feb 2012,To: 28 Feb 2012,Bhutan,FY 2012,70,Christian,18,283
+From: 28 Feb 2012,To: 28 Feb 2012,Bhutan,FY 2012,70,Hindu,49,283
+From: 28 Feb 2012,To: 28 Feb 2012,Burma,FY 2012,71,Buddhist,8,283
+From: 28 Feb 2012,To: 28 Feb 2012,Burma,FY 2012,71,Christian,56,283
+From: 28 Feb 2012,To: 28 Feb 2012,Burma,FY 2012,71,Moslem,7,283
+From: 28 Feb 2012,To: 28 Feb 2012,Ethiopia,FY 2012,16,Baptist,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Ethiopia,FY 2012,16,Christian,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Ethiopia,FY 2012,16,Moslem,6,283
+From: 28 Feb 2012,To: 28 Feb 2012,Ethiopia,FY 2012,16,Protestant,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iran,FY 2012,20,Bahai,12,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iran,FY 2012,20,Christian,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iran,FY 2012,20,No Religion,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iran,FY 2012,20,Pentecostalist,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iran,FY 2012,20,Sabeans-Mandean,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iraq,FY 2012,68,Catholic,29,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iraq,FY 2012,68,Christian,27,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iraq,FY 2012,68,Moslem Shiite,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iraq,FY 2012,68,Moslem Suni,5,283
+From: 28 Feb 2012,To: 28 Feb 2012,Iraq,FY 2012,68,Orthodox,6,283
+From: 28 Feb 2012,To: 28 Feb 2012,Russia,FY 2012,15,Baptist,3,283
+From: 28 Feb 2012,To: 28 Feb 2012,Russia,FY 2012,15,Jehovah Witness,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Russia,FY 2012,15,Jewish,5,283
+From: 28 Feb 2012,To: 28 Feb 2012,Russia,FY 2012,15,No Religion,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Russia,FY 2012,15,Orthodox,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Russia,FY 2012,15,Seventh Day Adventist,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,Somalia,FY 2012,12,Moslem,12,283
+From: 28 Feb 2012,To: 28 Feb 2012,Sudan,FY 2012,2,Catholic,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Syria,FY 2012,5,Moslem Suni,5,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Feb 2012,To: 28 Feb 2012,Bahai,FY 2012,12,Iran,12,283
+From: 28 Feb 2012,To: 28 Feb 2012,Baptist,FY 2012,7,Ethiopia,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Baptist,FY 2012,7,Russia,3,283
+From: 28 Feb 2012,To: 28 Feb 2012,Buddhist,FY 2012,11,Bhutan,3,283
+From: 28 Feb 2012,To: 28 Feb 2012,Buddhist,FY 2012,11,Burma,8,283
+From: 28 Feb 2012,To: 28 Feb 2012,Catholic,FY 2012,31,Iraq,29,283
+From: 28 Feb 2012,To: 28 Feb 2012,Catholic,FY 2012,31,Sudan,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Christian,FY 2012,109,Bhutan,18,283
+From: 28 Feb 2012,To: 28 Feb 2012,Christian,FY 2012,109,Burma,56,283
+From: 28 Feb 2012,To: 28 Feb 2012,Christian,FY 2012,109,Ethiopia,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Christian,FY 2012,109,Iran,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Christian,FY 2012,109,Iraq,27,283
+From: 28 Feb 2012,To: 28 Feb 2012,Hindu,FY 2012,49,Bhutan,49,283
+From: 28 Feb 2012,To: 28 Feb 2012,Jehovah Witness,FY 2012,2,Russia,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Jewish,FY 2012,5,Russia,5,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem,FY 2012,25,Burma,7,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem,FY 2012,25,Ethiopia,6,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem,FY 2012,25,Somalia,12,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem Shiite,FY 2012,5,Afghanistan,4,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem Shiite,FY 2012,5,Iraq,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem Suni,FY 2012,10,Iraq,5,283
+From: 28 Feb 2012,To: 28 Feb 2012,Moslem Suni,FY 2012,10,Syria,5,283
+From: 28 Feb 2012,To: 28 Feb 2012,No Religion,FY 2012,3,Iran,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,No Religion,FY 2012,3,Russia,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Orthodox,FY 2012,8,Iraq,6,283
+From: 28 Feb 2012,To: 28 Feb 2012,Orthodox,FY 2012,8,Russia,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Pentecostalist,FY 2012,1,Iran,1,283
+From: 28 Feb 2012,To: 28 Feb 2012,Protestant,FY 2012,2,Ethiopia,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Sabeans-Mandean,FY 2012,2,Iran,2,283
+From: 28 Feb 2012,To: 28 Feb 2012,Seventh Day Adventist,FY 2012,1,Russia,1,283
+

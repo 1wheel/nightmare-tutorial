@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Feb 2003,To: 26 Feb 2003,Afghanistan,FY 2003,1,Moslem,1,154
+From: 26 Feb 2003,To: 26 Feb 2003,Belarus,FY 2003,21,Atheist,1,154
+From: 26 Feb 2003,To: 26 Feb 2003,Belarus,FY 2003,21,Baptist,9,154
+From: 26 Feb 2003,To: 26 Feb 2003,Belarus,FY 2003,21,Jewish,2,154
+From: 26 Feb 2003,To: 26 Feb 2003,Belarus,FY 2003,21,Pentecostalist,9,154
+From: 26 Feb 2003,To: 26 Feb 2003,Iran,FY 2003,47,Bahai,5,154
+From: 26 Feb 2003,To: 26 Feb 2003,Iran,FY 2003,47,Christian,20,154
+From: 26 Feb 2003,To: 26 Feb 2003,Iran,FY 2003,47,Jewish,8,154
+From: 26 Feb 2003,To: 26 Feb 2003,Iran,FY 2003,47,Moslem,1,154
+From: 26 Feb 2003,To: 26 Feb 2003,Iran,FY 2003,47,Sabeans-Mandean,6,154
+From: 26 Feb 2003,To: 26 Feb 2003,Iran,FY 2003,47,Zoroastrian,7,154
+From: 26 Feb 2003,To: 26 Feb 2003,Liberia,FY 2003,5,Christian,5,154
+From: 26 Feb 2003,To: 26 Feb 2003,Sierra Leone,FY 2003,10,Christian,3,154
+From: 26 Feb 2003,To: 26 Feb 2003,Sierra Leone,FY 2003,10,Moslem,7,154
+From: 26 Feb 2003,To: 26 Feb 2003,Somalia,FY 2003,12,Moslem,12,154
+From: 26 Feb 2003,To: 26 Feb 2003,Sudan,FY 2003,22,Catholic,7,154
+From: 26 Feb 2003,To: 26 Feb 2003,Sudan,FY 2003,22,Moslem,10,154
+From: 26 Feb 2003,To: 26 Feb 2003,Sudan,FY 2003,22,Protestant,5,154
+From: 26 Feb 2003,To: 26 Feb 2003,Vietnam,FY 2003,36,Protestant,12,154
+From: 26 Feb 2003,To: 26 Feb 2003,Vietnam,FY 2003,36,Unknown,24,154
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Feb 2003,To: 26 Feb 2003,Atheist,FY 2003,1,Belarus,1,154
+From: 26 Feb 2003,To: 26 Feb 2003,Bahai,FY 2003,5,Iran,5,154
+From: 26 Feb 2003,To: 26 Feb 2003,Baptist,FY 2003,9,Belarus,9,154
+From: 26 Feb 2003,To: 26 Feb 2003,Catholic,FY 2003,7,Sudan,7,154
+From: 26 Feb 2003,To: 26 Feb 2003,Christian,FY 2003,28,Iran,20,154
+From: 26 Feb 2003,To: 26 Feb 2003,Christian,FY 2003,28,Liberia,5,154
+From: 26 Feb 2003,To: 26 Feb 2003,Christian,FY 2003,28,Sierra Leone,3,154
+From: 26 Feb 2003,To: 26 Feb 2003,Jewish,FY 2003,10,Belarus,2,154
+From: 26 Feb 2003,To: 26 Feb 2003,Jewish,FY 2003,10,Iran,8,154
+From: 26 Feb 2003,To: 26 Feb 2003,Moslem,FY 2003,31,Afghanistan,1,154
+From: 26 Feb 2003,To: 26 Feb 2003,Moslem,FY 2003,31,Iran,1,154
+From: 26 Feb 2003,To: 26 Feb 2003,Moslem,FY 2003,31,Sierra Leone,7,154
+From: 26 Feb 2003,To: 26 Feb 2003,Moslem,FY 2003,31,Somalia,12,154
+From: 26 Feb 2003,To: 26 Feb 2003,Moslem,FY 2003,31,Sudan,10,154
+From: 26 Feb 2003,To: 26 Feb 2003,Pentecostalist,FY 2003,9,Belarus,9,154
+From: 26 Feb 2003,To: 26 Feb 2003,Protestant,FY 2003,17,Sudan,5,154
+From: 26 Feb 2003,To: 26 Feb 2003,Protestant,FY 2003,17,Vietnam,12,154
+From: 26 Feb 2003,To: 26 Feb 2003,Sabeans-Mandean,FY 2003,6,Iran,6,154
+From: 26 Feb 2003,To: 26 Feb 2003,Unknown,FY 2003,24,Vietnam,24,154
+From: 26 Feb 2003,To: 26 Feb 2003,Zoroastrian,FY 2003,7,Iran,7,154
+

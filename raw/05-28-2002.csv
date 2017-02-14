@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 May 2002,To: 28 May 2002,Bosnia and Herzegovina,FY 2002,54,Moslem,54,175
+From: 28 May 2002,To: 28 May 2002,Dem. Rep. Congo,FY 2002,6,Unknown,6,175
+From: 28 May 2002,To: 28 May 2002,Iran,FY 2002,14,Bahai,8,175
+From: 28 May 2002,To: 28 May 2002,Iran,FY 2002,14,Jewish,2,175
+From: 28 May 2002,To: 28 May 2002,Iran,FY 2002,14,Zoroastrian,4,175
+From: 28 May 2002,To: 28 May 2002,Iraq,FY 2002,5,Catholic,2,175
+From: 28 May 2002,To: 28 May 2002,Iraq,FY 2002,5,Christian,3,175
+From: 28 May 2002,To: 28 May 2002,Kyrgyzstan,FY 2002,5,Pentecostalist,5,175
+From: 28 May 2002,To: 28 May 2002,Russia,FY 2002,15,Jewish,4,175
+From: 28 May 2002,To: 28 May 2002,Russia,FY 2002,15,No Religion,2,175
+From: 28 May 2002,To: 28 May 2002,Russia,FY 2002,15,Pentecostalist,9,175
+From: 28 May 2002,To: 28 May 2002,Sudan,FY 2002,5,Catholic,5,175
+From: 28 May 2002,To: 28 May 2002,Ukraine,FY 2002,64,Baptist,38,175
+From: 28 May 2002,To: 28 May 2002,Ukraine,FY 2002,64,Jewish,7,175
+From: 28 May 2002,To: 28 May 2002,Ukraine,FY 2002,64,Pentecostalist,18,175
+From: 28 May 2002,To: 28 May 2002,Ukraine,FY 2002,64,Seventh Day Adventist,1,175
+From: 28 May 2002,To: 28 May 2002,Uzbekistan,FY 2002,7,Baptist,1,175
+From: 28 May 2002,To: 28 May 2002,Uzbekistan,FY 2002,7,Jewish,5,175
+From: 28 May 2002,To: 28 May 2002,Uzbekistan,FY 2002,7,Seventh Day Adventist,1,175
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 May 2002,To: 28 May 2002,Bahai,FY 2002,8,Iran,8,175
+From: 28 May 2002,To: 28 May 2002,Baptist,FY 2002,39,Ukraine,38,175
+From: 28 May 2002,To: 28 May 2002,Baptist,FY 2002,39,Uzbekistan,1,175
+From: 28 May 2002,To: 28 May 2002,Catholic,FY 2002,7,Iraq,2,175
+From: 28 May 2002,To: 28 May 2002,Catholic,FY 2002,7,Sudan,5,175
+From: 28 May 2002,To: 28 May 2002,Christian,FY 2002,3,Iraq,3,175
+From: 28 May 2002,To: 28 May 2002,Jewish,FY 2002,18,Iran,2,175
+From: 28 May 2002,To: 28 May 2002,Jewish,FY 2002,18,Russia,4,175
+From: 28 May 2002,To: 28 May 2002,Jewish,FY 2002,18,Ukraine,7,175
+From: 28 May 2002,To: 28 May 2002,Jewish,FY 2002,18,Uzbekistan,5,175
+From: 28 May 2002,To: 28 May 2002,Moslem,FY 2002,54,Bosnia and Herzegovina,54,175
+From: 28 May 2002,To: 28 May 2002,No Religion,FY 2002,2,Russia,2,175
+From: 28 May 2002,To: 28 May 2002,Pentecostalist,FY 2002,32,Kyrgyzstan,5,175
+From: 28 May 2002,To: 28 May 2002,Pentecostalist,FY 2002,32,Russia,9,175
+From: 28 May 2002,To: 28 May 2002,Pentecostalist,FY 2002,32,Ukraine,18,175
+From: 28 May 2002,To: 28 May 2002,Seventh Day Adventist,FY 2002,2,Ukraine,1,175
+From: 28 May 2002,To: 28 May 2002,Seventh Day Adventist,FY 2002,2,Uzbekistan,1,175
+From: 28 May 2002,To: 28 May 2002,Unknown,FY 2002,6,Dem. Rep. Congo,6,175
+From: 28 May 2002,To: 28 May 2002,Zoroastrian,FY 2002,4,Iran,4,175
+

@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 May 2009,To: 19 May 2009,Bhutan,FY 2009,120,Buddhist,7,608
+From: 19 May 2009,To: 19 May 2009,Bhutan,FY 2009,120,Christian,28,608
+From: 19 May 2009,To: 19 May 2009,Bhutan,FY 2009,120,Hindu,82,608
+From: 19 May 2009,To: 19 May 2009,Bhutan,FY 2009,120,Kirat,3,608
+From: 19 May 2009,To: 19 May 2009,Burma,FY 2009,178,Animist,29,608
+From: 19 May 2009,To: 19 May 2009,Burma,FY 2009,178,Buddhist,18,608
+From: 19 May 2009,To: 19 May 2009,Burma,FY 2009,178,Catholic,25,608
+From: 19 May 2009,To: 19 May 2009,Burma,FY 2009,178,Christian,106,608
+From: 19 May 2009,To: 19 May 2009,Cuba,FY 2009,66,Baptist,5,608
+From: 19 May 2009,To: 19 May 2009,Cuba,FY 2009,66,Catholic,26,608
+From: 19 May 2009,To: 19 May 2009,Cuba,FY 2009,66,Evangelical Christian,2,608
+From: 19 May 2009,To: 19 May 2009,Cuba,FY 2009,66,Jehovah Witness,13,608
+From: 19 May 2009,To: 19 May 2009,Cuba,FY 2009,66,No Religion,13,608
+From: 19 May 2009,To: 19 May 2009,Cuba,FY 2009,66,Seventh Day Adventist,7,608
+From: 19 May 2009,To: 19 May 2009,Dem. Rep. Congo,FY 2009,17,Catholic,6,608
+From: 19 May 2009,To: 19 May 2009,Dem. Rep. Congo,FY 2009,17,Christian,1,608
+From: 19 May 2009,To: 19 May 2009,Dem. Rep. Congo,FY 2009,17,Pentecostalist,7,608
+From: 19 May 2009,To: 19 May 2009,Dem. Rep. Congo,FY 2009,17,Protestant,3,608
+From: 19 May 2009,To: 19 May 2009,Eritrea,FY 2009,2,Moslem,1,608
+From: 19 May 2009,To: 19 May 2009,Eritrea,FY 2009,2,Orthodox,1,608
+From: 19 May 2009,To: 19 May 2009,Iran,FY 2009,27,Bahai,2,608
+From: 19 May 2009,To: 19 May 2009,Iran,FY 2009,27,Christian,19,608
+From: 19 May 2009,To: 19 May 2009,Iran,FY 2009,27,Sabeans-Mandean,2,608
+From: 19 May 2009,To: 19 May 2009,Iran,FY 2009,27,Zoroastrian,4,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Catholic,23,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Christian,41,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Moslem,1,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Moslem Shiite,27,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Moslem Suni,47,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Orthodox,4,608
+From: 19 May 2009,To: 19 May 2009,Iraq,FY 2009,147,Sabeans-Mandean,4,608
+From: 19 May 2009,To: 19 May 2009,Kyrgyzstan,FY 2009,5,Pentecostalist,5,608
+From: 19 May 2009,To: 19 May 2009,Rwanda,FY 2009,7,Catholic,1,608
+From: 19 May 2009,To: 19 May 2009,Rwanda,FY 2009,7,Pentecostalist,1,608
+From: 19 May 2009,To: 19 May 2009,Rwanda,FY 2009,7,Seventh Day Adventist,5,608
+From: 19 May 2009,To: 19 May 2009,Somalia,FY 2009,19,Moslem,19,608
+From: 19 May 2009,To: 19 May 2009,Sri Lanka (Ceylon),FY 2009,1,Christian,1,608
+From: 19 May 2009,To: 19 May 2009,Sudan,FY 2009,19,Moslem,6,608
+From: 19 May 2009,To: 19 May 2009,Sudan,FY 2009,19,Moslem Suni,13,608
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 May 2009,To: 19 May 2009,Animist,FY 2009,29,Burma,29,608
+From: 19 May 2009,To: 19 May 2009,Bahai,FY 2009,2,Iran,2,608
+From: 19 May 2009,To: 19 May 2009,Baptist,FY 2009,5,Cuba,5,608
+From: 19 May 2009,To: 19 May 2009,Buddhist,FY 2009,25,Bhutan,7,608
+From: 19 May 2009,To: 19 May 2009,Buddhist,FY 2009,25,Burma,18,608
+From: 19 May 2009,To: 19 May 2009,Catholic,FY 2009,81,Burma,25,608
+From: 19 May 2009,To: 19 May 2009,Catholic,FY 2009,81,Cuba,26,608
+From: 19 May 2009,To: 19 May 2009,Catholic,FY 2009,81,Dem. Rep. Congo,6,608
+From: 19 May 2009,To: 19 May 2009,Catholic,FY 2009,81,Iraq,23,608
+From: 19 May 2009,To: 19 May 2009,Catholic,FY 2009,81,Rwanda,1,608
+From: 19 May 2009,To: 19 May 2009,Christian,FY 2009,196,Bhutan,28,608
+From: 19 May 2009,To: 19 May 2009,Christian,FY 2009,196,Burma,106,608
+From: 19 May 2009,To: 19 May 2009,Christian,FY 2009,196,Dem. Rep. Congo,1,608
+From: 19 May 2009,To: 19 May 2009,Christian,FY 2009,196,Iran,19,608
+From: 19 May 2009,To: 19 May 2009,Christian,FY 2009,196,Iraq,41,608
+From: 19 May 2009,To: 19 May 2009,Christian,FY 2009,196,Sri Lanka (Ceylon),1,608
+From: 19 May 2009,To: 19 May 2009,Evangelical Christian,FY 2009,2,Cuba,2,608
+From: 19 May 2009,To: 19 May 2009,Hindu,FY 2009,82,Bhutan,82,608
+From: 19 May 2009,To: 19 May 2009,Jehovah Witness,FY 2009,13,Cuba,13,608
+From: 19 May 2009,To: 19 May 2009,Kirat,FY 2009,3,Bhutan,3,608
+From: 19 May 2009,To: 19 May 2009,Moslem,FY 2009,27,Eritrea,1,608
+From: 19 May 2009,To: 19 May 2009,Moslem,FY 2009,27,Iraq,1,608
+From: 19 May 2009,To: 19 May 2009,Moslem,FY 2009,27,Somalia,19,608
+From: 19 May 2009,To: 19 May 2009,Moslem,FY 2009,27,Sudan,6,608
+From: 19 May 2009,To: 19 May 2009,Moslem Shiite,FY 2009,27,Iraq,27,608
+From: 19 May 2009,To: 19 May 2009,Moslem Suni,FY 2009,60,Iraq,47,608
+From: 19 May 2009,To: 19 May 2009,Moslem Suni,FY 2009,60,Sudan,13,608
+From: 19 May 2009,To: 19 May 2009,No Religion,FY 2009,13,Cuba,13,608
+From: 19 May 2009,To: 19 May 2009,Orthodox,FY 2009,5,Eritrea,1,608
+From: 19 May 2009,To: 19 May 2009,Orthodox,FY 2009,5,Iraq,4,608
+From: 19 May 2009,To: 19 May 2009,Pentecostalist,FY 2009,13,Dem. Rep. Congo,7,608
+From: 19 May 2009,To: 19 May 2009,Pentecostalist,FY 2009,13,Kyrgyzstan,5,608
+From: 19 May 2009,To: 19 May 2009,Pentecostalist,FY 2009,13,Rwanda,1,608
+From: 19 May 2009,To: 19 May 2009,Protestant,FY 2009,3,Dem. Rep. Congo,3,608
+From: 19 May 2009,To: 19 May 2009,Sabeans-Mandean,FY 2009,6,Iran,2,608
+From: 19 May 2009,To: 19 May 2009,Sabeans-Mandean,FY 2009,6,Iraq,4,608
+From: 19 May 2009,To: 19 May 2009,Seventh Day Adventist,FY 2009,12,Cuba,7,608
+From: 19 May 2009,To: 19 May 2009,Seventh Day Adventist,FY 2009,12,Rwanda,5,608
+From: 19 May 2009,To: 19 May 2009,Zoroastrian,FY 2009,4,Iran,4,608
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Dec 2002,To: 05 Dec 2002,Armenia,FY 2003,8,Pentecostalist,8,136
+From: 05 Dec 2002,To: 05 Dec 2002,Bosnia and Herzegovina,FY 2003,9,Moslem,9,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ethiopia,FY 2003,8,Christian,1,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ethiopia,FY 2003,8,Moslem,5,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ethiopia,FY 2003,8,Orthodox,2,136
+From: 05 Dec 2002,To: 05 Dec 2002,Russia,FY 2003,11,Jewish,6,136
+From: 05 Dec 2002,To: 05 Dec 2002,Russia,FY 2003,11,Pentecostalist,5,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ukraine,FY 2003,68,Baptist,28,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ukraine,FY 2003,68,Jewish,3,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ukraine,FY 2003,68,Pentecostalist,36,136
+From: 05 Dec 2002,To: 05 Dec 2002,Ukraine,FY 2003,68,Uniate,1,136
+From: 05 Dec 2002,To: 05 Dec 2002,Vietnam,FY 2003,32,Unknown,32,136
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Dec 2002,To: 05 Dec 2002,Baptist,FY 2003,28,Ukraine,28,136
+From: 05 Dec 2002,To: 05 Dec 2002,Christian,FY 2003,1,Ethiopia,1,136
+From: 05 Dec 2002,To: 05 Dec 2002,Jewish,FY 2003,9,Russia,6,136
+From: 05 Dec 2002,To: 05 Dec 2002,Jewish,FY 2003,9,Ukraine,3,136
+From: 05 Dec 2002,To: 05 Dec 2002,Moslem,FY 2003,14,Bosnia and Herzegovina,9,136
+From: 05 Dec 2002,To: 05 Dec 2002,Moslem,FY 2003,14,Ethiopia,5,136
+From: 05 Dec 2002,To: 05 Dec 2002,Orthodox,FY 2003,2,Ethiopia,2,136
+From: 05 Dec 2002,To: 05 Dec 2002,Pentecostalist,FY 2003,49,Armenia,8,136
+From: 05 Dec 2002,To: 05 Dec 2002,Pentecostalist,FY 2003,49,Russia,5,136
+From: 05 Dec 2002,To: 05 Dec 2002,Pentecostalist,FY 2003,49,Ukraine,36,136
+From: 05 Dec 2002,To: 05 Dec 2002,Uniate,FY 2003,1,Ukraine,1,136
+From: 05 Dec 2002,To: 05 Dec 2002,Unknown,FY 2003,32,Vietnam,32,136
+

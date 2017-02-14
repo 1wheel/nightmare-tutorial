@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Dec 2007,To: 03 Dec 2007,Burma,FY 2008,61,Christian,61,94
+From: 03 Dec 2007,To: 03 Dec 2007,Iraq,FY 2008,33,Catholic,22,94
+From: 03 Dec 2007,To: 03 Dec 2007,Iraq,FY 2008,33,Moslem Shiite,7,94
+From: 03 Dec 2007,To: 03 Dec 2007,Iraq,FY 2008,33,Moslem Suni,4,94
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Dec 2007,To: 03 Dec 2007,Catholic,FY 2008,22,Iraq,22,94
+From: 03 Dec 2007,To: 03 Dec 2007,Christian,FY 2008,61,Burma,61,94
+From: 03 Dec 2007,To: 03 Dec 2007,Moslem Shiite,FY 2008,7,Iraq,7,94
+From: 03 Dec 2007,To: 03 Dec 2007,Moslem Suni,FY 2008,4,Iraq,4,94
+

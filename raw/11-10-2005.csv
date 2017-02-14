@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Nov 2005,To: 10 Nov 2005,Afghanistan,FY 2006,35,Moslem,9,371
+From: 10 Nov 2005,To: 10 Nov 2005,Afghanistan,FY 2006,35,Moslem Shiite,6,371
+From: 10 Nov 2005,To: 10 Nov 2005,Afghanistan,FY 2006,35,Moslem Suni,20,371
+From: 10 Nov 2005,To: 10 Nov 2005,Bosnia and Herzegovina,FY 2006,3,Moslem,2,371
+From: 10 Nov 2005,To: 10 Nov 2005,Bosnia and Herzegovina,FY 2006,3,Orthodox,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Burma,FY 2006,35,Buddhist,21,371
+From: 10 Nov 2005,To: 10 Nov 2005,Burma,FY 2006,35,Protestant,14,371
+From: 10 Nov 2005,To: 10 Nov 2005,Cuba,FY 2006,69,Baptist,4,371
+From: 10 Nov 2005,To: 10 Nov 2005,Cuba,FY 2006,69,Catholic,24,371
+From: 10 Nov 2005,To: 10 Nov 2005,Cuba,FY 2006,69,Evangelical Christian,6,371
+From: 10 Nov 2005,To: 10 Nov 2005,Cuba,FY 2006,69,Jehovah Witness,21,371
+From: 10 Nov 2005,To: 10 Nov 2005,Cuba,FY 2006,69,No Religion,14,371
+From: 10 Nov 2005,To: 10 Nov 2005,Ethiopia,FY 2006,1,Christian,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Iran,FY 2006,19,Jewish,2,371
+From: 10 Nov 2005,To: 10 Nov 2005,Iran,FY 2006,19,Zoroastrian,17,371
+From: 10 Nov 2005,To: 10 Nov 2005,Iraq,FY 2006,4,Catholic,4,371
+From: 10 Nov 2005,To: 10 Nov 2005,Laos,FY 2006,23,Ancestral Worship,23,371
+From: 10 Nov 2005,To: 10 Nov 2005,Liberia,FY 2006,36,Baptist,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Liberia,FY 2006,36,Christian,22,371
+From: 10 Nov 2005,To: 10 Nov 2005,Liberia,FY 2006,36,Jehovah Witness,5,371
+From: 10 Nov 2005,To: 10 Nov 2005,Liberia,FY 2006,36,Moslem,6,371
+From: 10 Nov 2005,To: 10 Nov 2005,Liberia,FY 2006,36,Pentecostalist,2,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moldova,FY 2006,18,Baptist,13,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moldova,FY 2006,18,Pentecostalist,5,371
+From: 10 Nov 2005,To: 10 Nov 2005,Russia,FY 2006,35,Moslem,35,371
+From: 10 Nov 2005,To: 10 Nov 2005,Sierra Leone,FY 2006,5,Methodist,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Sierra Leone,FY 2006,5,Moslem,4,371
+From: 10 Nov 2005,To: 10 Nov 2005,Somalia,FY 2006,42,Moslem,41,371
+From: 10 Nov 2005,To: 10 Nov 2005,Somalia,FY 2006,42,Moslem Suni,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Sudan,FY 2006,15,Christian,15,371
+From: 10 Nov 2005,To: 10 Nov 2005,Ukraine,FY 2006,30,Baptist,9,371
+From: 10 Nov 2005,To: 10 Nov 2005,Ukraine,FY 2006,30,Pentecostalist,20,371
+From: 10 Nov 2005,To: 10 Nov 2005,Ukraine,FY 2006,30,Seventh Day Adventist,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Uzbekistan,FY 2006,1,Moslem,1,371
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Nov 2005,To: 10 Nov 2005,Ancestral Worship,FY 2006,23,Laos,23,371
+From: 10 Nov 2005,To: 10 Nov 2005,Baptist,FY 2006,27,Cuba,4,371
+From: 10 Nov 2005,To: 10 Nov 2005,Baptist,FY 2006,27,Liberia,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Baptist,FY 2006,27,Moldova,13,371
+From: 10 Nov 2005,To: 10 Nov 2005,Baptist,FY 2006,27,Ukraine,9,371
+From: 10 Nov 2005,To: 10 Nov 2005,Buddhist,FY 2006,21,Burma,21,371
+From: 10 Nov 2005,To: 10 Nov 2005,Catholic,FY 2006,28,Cuba,24,371
+From: 10 Nov 2005,To: 10 Nov 2005,Catholic,FY 2006,28,Iraq,4,371
+From: 10 Nov 2005,To: 10 Nov 2005,Christian,FY 2006,38,Ethiopia,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Christian,FY 2006,38,Liberia,22,371
+From: 10 Nov 2005,To: 10 Nov 2005,Christian,FY 2006,38,Sudan,15,371
+From: 10 Nov 2005,To: 10 Nov 2005,Evangelical Christian,FY 2006,6,Cuba,6,371
+From: 10 Nov 2005,To: 10 Nov 2005,Jehovah Witness,FY 2006,26,Cuba,21,371
+From: 10 Nov 2005,To: 10 Nov 2005,Jehovah Witness,FY 2006,26,Liberia,5,371
+From: 10 Nov 2005,To: 10 Nov 2005,Jewish,FY 2006,2,Iran,2,371
+From: 10 Nov 2005,To: 10 Nov 2005,Methodist,FY 2006,1,Sierra Leone,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Afghanistan,9,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Bosnia and Herzegovina,2,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Liberia,6,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Russia,35,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Sierra Leone,4,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Somalia,41,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem,FY 2006,98,Uzbekistan,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem Shiite,FY 2006,6,Afghanistan,6,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem Suni,FY 2006,21,Afghanistan,20,371
+From: 10 Nov 2005,To: 10 Nov 2005,Moslem Suni,FY 2006,21,Somalia,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,No Religion,FY 2006,14,Cuba,14,371
+From: 10 Nov 2005,To: 10 Nov 2005,Orthodox,FY 2006,1,Bosnia and Herzegovina,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Pentecostalist,FY 2006,27,Liberia,2,371
+From: 10 Nov 2005,To: 10 Nov 2005,Pentecostalist,FY 2006,27,Moldova,5,371
+From: 10 Nov 2005,To: 10 Nov 2005,Pentecostalist,FY 2006,27,Ukraine,20,371
+From: 10 Nov 2005,To: 10 Nov 2005,Protestant,FY 2006,14,Burma,14,371
+From: 10 Nov 2005,To: 10 Nov 2005,Seventh Day Adventist,FY 2006,1,Ukraine,1,371
+From: 10 Nov 2005,To: 10 Nov 2005,Zoroastrian,FY 2006,17,Iran,17,371
+

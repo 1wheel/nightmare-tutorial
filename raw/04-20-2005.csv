@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Apr 2005,To: 20 Apr 2005,Afghanistan,FY 2005,38,Moslem,4,149
+From: 20 Apr 2005,To: 20 Apr 2005,Afghanistan,FY 2005,38,Moslem Shiite,2,149
+From: 20 Apr 2005,To: 20 Apr 2005,Afghanistan,FY 2005,38,Moslem Suni,32,149
+From: 20 Apr 2005,To: 20 Apr 2005,Azerbaijan,FY 2005,2,Jewish,2,149
+From: 20 Apr 2005,To: 20 Apr 2005,Iran,FY 2005,21,Bahai,8,149
+From: 20 Apr 2005,To: 20 Apr 2005,Iran,FY 2005,21,Christian,1,149
+From: 20 Apr 2005,To: 20 Apr 2005,Iran,FY 2005,21,Jewish,12,149
+From: 20 Apr 2005,To: 20 Apr 2005,Laos,FY 2005,30,Ancestral Worship,30,149
+From: 20 Apr 2005,To: 20 Apr 2005,Latvia,FY 2005,4,Jewish,1,149
+From: 20 Apr 2005,To: 20 Apr 2005,Latvia,FY 2005,4,Pentecostalist,3,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moldova,FY 2005,26,Baptist,5,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moldova,FY 2005,26,No Religion,3,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moldova,FY 2005,26,Pentecostalist,11,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moldova,FY 2005,26,Seventh Day Adventist,7,149
+From: 20 Apr 2005,To: 20 Apr 2005,Russia,FY 2005,28,Moslem,28,149
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Apr 2005,To: 20 Apr 2005,Ancestral Worship,FY 2005,30,Laos,30,149
+From: 20 Apr 2005,To: 20 Apr 2005,Bahai,FY 2005,8,Iran,8,149
+From: 20 Apr 2005,To: 20 Apr 2005,Baptist,FY 2005,5,Moldova,5,149
+From: 20 Apr 2005,To: 20 Apr 2005,Christian,FY 2005,1,Iran,1,149
+From: 20 Apr 2005,To: 20 Apr 2005,Jewish,FY 2005,15,Azerbaijan,2,149
+From: 20 Apr 2005,To: 20 Apr 2005,Jewish,FY 2005,15,Iran,12,149
+From: 20 Apr 2005,To: 20 Apr 2005,Jewish,FY 2005,15,Latvia,1,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moslem,FY 2005,32,Afghanistan,4,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moslem,FY 2005,32,Russia,28,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moslem Shiite,FY 2005,2,Afghanistan,2,149
+From: 20 Apr 2005,To: 20 Apr 2005,Moslem Suni,FY 2005,32,Afghanistan,32,149
+From: 20 Apr 2005,To: 20 Apr 2005,No Religion,FY 2005,3,Moldova,3,149
+From: 20 Apr 2005,To: 20 Apr 2005,Pentecostalist,FY 2005,14,Latvia,3,149
+From: 20 Apr 2005,To: 20 Apr 2005,Pentecostalist,FY 2005,14,Moldova,11,149
+From: 20 Apr 2005,To: 20 Apr 2005,Seventh Day Adventist,FY 2005,7,Moldova,7,149
+

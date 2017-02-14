@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Mar 2016,To: 09 Mar 2016,Bhutan,FY 2016,30,Buddhist,5,252
+From: 09 Mar 2016,To: 09 Mar 2016,Bhutan,FY 2016,30,Christian,8,252
+From: 09 Mar 2016,To: 09 Mar 2016,Bhutan,FY 2016,30,Hindu,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Bhutan,FY 2016,30,Kirat,11,252
+From: 09 Mar 2016,To: 09 Mar 2016,Colombia,FY 2016,3,Catholic,3,252
+From: 09 Mar 2016,To: 09 Mar 2016,Cuba,FY 2016,7,Catholic,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Cuba,FY 2016,7,No Religion,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Dem. Rep. Congo,FY 2016,34,Baptist,9,252
+From: 09 Mar 2016,To: 09 Mar 2016,Dem. Rep. Congo,FY 2016,34,Catholic,3,252
+From: 09 Mar 2016,To: 09 Mar 2016,Dem. Rep. Congo,FY 2016,34,Christian,3,252
+From: 09 Mar 2016,To: 09 Mar 2016,Dem. Rep. Congo,FY 2016,34,Methodist,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Dem. Rep. Congo,FY 2016,34,Pentecostalist,17,252
+From: 09 Mar 2016,To: 09 Mar 2016,Dem. Rep. Congo,FY 2016,34,Protestant,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Eritrea,FY 2016,3,Catholic,2,252
+From: 09 Mar 2016,To: 09 Mar 2016,Eritrea,FY 2016,3,Orthodox,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Ethiopia,FY 2016,9,Moslem,9,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iran,FY 2016,14,Moslem Shiite,4,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iran,FY 2016,14,No Religion,4,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iran,FY 2016,14,Protestant,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iraq,FY 2016,42,Chaldean,2,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iraq,FY 2016,42,Christian,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iraq,FY 2016,42,Moslem,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iraq,FY 2016,42,Moslem Shiite,11,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iraq,FY 2016,42,Moslem Suni,13,252
+From: 09 Mar 2016,To: 09 Mar 2016,Iraq,FY 2016,42,Yazidi,4,252
+From: 09 Mar 2016,To: 09 Mar 2016,Somalia,FY 2016,86,Moslem,86,252
+From: 09 Mar 2016,To: 09 Mar 2016,Sudan,FY 2016,1,Moslem,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Syria,FY 2016,23,Moslem Suni,23,252
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Mar 2016,To: 09 Mar 2016,Baptist,FY 2016,9,Dem. Rep. Congo,9,252
+From: 09 Mar 2016,To: 09 Mar 2016,Buddhist,FY 2016,5,Bhutan,5,252
+From: 09 Mar 2016,To: 09 Mar 2016,Catholic,FY 2016,9,Colombia,3,252
+From: 09 Mar 2016,To: 09 Mar 2016,Catholic,FY 2016,9,Cuba,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Catholic,FY 2016,9,Dem. Rep. Congo,3,252
+From: 09 Mar 2016,To: 09 Mar 2016,Catholic,FY 2016,9,Eritrea,2,252
+From: 09 Mar 2016,To: 09 Mar 2016,Chaldean,FY 2016,2,Iraq,2,252
+From: 09 Mar 2016,To: 09 Mar 2016,Christian,FY 2016,17,Bhutan,8,252
+From: 09 Mar 2016,To: 09 Mar 2016,Christian,FY 2016,17,Dem. Rep. Congo,3,252
+From: 09 Mar 2016,To: 09 Mar 2016,Christian,FY 2016,17,Iraq,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Hindu,FY 2016,6,Bhutan,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Kirat,FY 2016,11,Bhutan,11,252
+From: 09 Mar 2016,To: 09 Mar 2016,Methodist,FY 2016,1,Dem. Rep. Congo,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem,FY 2016,102,Ethiopia,9,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem,FY 2016,102,Iraq,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem,FY 2016,102,Somalia,86,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem,FY 2016,102,Sudan,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem Shiite,FY 2016,15,Iran,4,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem Shiite,FY 2016,15,Iraq,11,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem Suni,FY 2016,36,Iraq,13,252
+From: 09 Mar 2016,To: 09 Mar 2016,Moslem Suni,FY 2016,36,Syria,23,252
+From: 09 Mar 2016,To: 09 Mar 2016,No Religion,FY 2016,10,Cuba,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,No Religion,FY 2016,10,Iran,4,252
+From: 09 Mar 2016,To: 09 Mar 2016,Orthodox,FY 2016,1,Eritrea,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Pentecostalist,FY 2016,17,Dem. Rep. Congo,17,252
+From: 09 Mar 2016,To: 09 Mar 2016,Protestant,FY 2016,7,Dem. Rep. Congo,1,252
+From: 09 Mar 2016,To: 09 Mar 2016,Protestant,FY 2016,7,Iran,6,252
+From: 09 Mar 2016,To: 09 Mar 2016,Yazidi,FY 2016,4,Iraq,4,252
+

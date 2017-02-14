@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Apr 2012,To: 17 Apr 2012,Bhutan,FY 2012,100,Buddhist,17,211
+From: 17 Apr 2012,To: 17 Apr 2012,Bhutan,FY 2012,100,Christian,3,211
+From: 17 Apr 2012,To: 17 Apr 2012,Bhutan,FY 2012,100,Hindu,70,211
+From: 17 Apr 2012,To: 17 Apr 2012,Bhutan,FY 2012,100,Kirat,10,211
+From: 17 Apr 2012,To: 17 Apr 2012,Burma,FY 2012,6,Christian,6,211
+From: 17 Apr 2012,To: 17 Apr 2012,Dem. Rep. Congo,FY 2012,37,Christian,9,211
+From: 17 Apr 2012,To: 17 Apr 2012,Dem. Rep. Congo,FY 2012,37,Jehovah Witness,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Dem. Rep. Congo,FY 2012,37,Methodist,17,211
+From: 17 Apr 2012,To: 17 Apr 2012,Dem. Rep. Congo,FY 2012,37,Moslem,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Dem. Rep. Congo,FY 2012,37,Protestant,9,211
+From: 17 Apr 2012,To: 17 Apr 2012,Iran,FY 2012,5,Moslem Shiite,5,211
+From: 17 Apr 2012,To: 17 Apr 2012,Iraq,FY 2012,44,Catholic,4,211
+From: 17 Apr 2012,To: 17 Apr 2012,Iraq,FY 2012,44,Christian,15,211
+From: 17 Apr 2012,To: 17 Apr 2012,Iraq,FY 2012,44,Moslem,5,211
+From: 17 Apr 2012,To: 17 Apr 2012,Iraq,FY 2012,44,Moslem Shiite,16,211
+From: 17 Apr 2012,To: 17 Apr 2012,Iraq,FY 2012,44,Moslem Suni,4,211
+From: 17 Apr 2012,To: 17 Apr 2012,Kazakhstan,FY 2012,5,Pentecostalist,5,211
+From: 17 Apr 2012,To: 17 Apr 2012,Somalia,FY 2012,13,Moslem,12,211
+From: 17 Apr 2012,To: 17 Apr 2012,Somalia,FY 2012,13,Moslem Suni,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Sudan,FY 2012,1,Moslem Suni,1,211
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Apr 2012,To: 17 Apr 2012,Buddhist,FY 2012,17,Bhutan,17,211
+From: 17 Apr 2012,To: 17 Apr 2012,Catholic,FY 2012,4,Iraq,4,211
+From: 17 Apr 2012,To: 17 Apr 2012,Christian,FY 2012,33,Bhutan,3,211
+From: 17 Apr 2012,To: 17 Apr 2012,Christian,FY 2012,33,Burma,6,211
+From: 17 Apr 2012,To: 17 Apr 2012,Christian,FY 2012,33,Dem. Rep. Congo,9,211
+From: 17 Apr 2012,To: 17 Apr 2012,Christian,FY 2012,33,Iraq,15,211
+From: 17 Apr 2012,To: 17 Apr 2012,Hindu,FY 2012,70,Bhutan,70,211
+From: 17 Apr 2012,To: 17 Apr 2012,Jehovah Witness,FY 2012,1,Dem. Rep. Congo,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Kirat,FY 2012,10,Bhutan,10,211
+From: 17 Apr 2012,To: 17 Apr 2012,Methodist,FY 2012,17,Dem. Rep. Congo,17,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem,FY 2012,18,Dem. Rep. Congo,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem,FY 2012,18,Iraq,5,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem,FY 2012,18,Somalia,12,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem Shiite,FY 2012,21,Iran,5,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem Shiite,FY 2012,21,Iraq,16,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem Suni,FY 2012,6,Iraq,4,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem Suni,FY 2012,6,Somalia,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Moslem Suni,FY 2012,6,Sudan,1,211
+From: 17 Apr 2012,To: 17 Apr 2012,Pentecostalist,FY 2012,5,Kazakhstan,5,211
+From: 17 Apr 2012,To: 17 Apr 2012,Protestant,FY 2012,9,Dem. Rep. Congo,9,211
+

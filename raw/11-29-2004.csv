@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Nov 2004,To: 29 Nov 2004,Cuba,FY 2005,1,Catholic,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Dem. Rep. Congo,FY 2005,5,Christian,5,198
+From: 29 Nov 2004,To: 29 Nov 2004,Kazakhstan,FY 2005,9,Seventh Day Adventist,9,198
+From: 29 Nov 2004,To: 29 Nov 2004,Laos,FY 2005,59,Ancestral Worship,42,198
+From: 29 Nov 2004,To: 29 Nov 2004,Laos,FY 2005,59,Christian,17,198
+From: 29 Nov 2004,To: 29 Nov 2004,Moldova,FY 2005,34,Baptist,31,198
+From: 29 Nov 2004,To: 29 Nov 2004,Moldova,FY 2005,34,Pentecostalist,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Baptist,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Catholic,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Christian,13,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Jehovah Witness,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Methodist,5,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Moslem,5,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Pentecostalist,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sierra Leone,FY 2005,32,Seventh Day Adventist,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Somalia,FY 2005,2,Moslem,2,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sudan,FY 2005,25,Catholic,16,198
+From: 29 Nov 2004,To: 29 Nov 2004,Sudan,FY 2005,25,Christian,9,198
+From: 29 Nov 2004,To: 29 Nov 2004,Togo,FY 2005,11,Catholic,10,198
+From: 29 Nov 2004,To: 29 Nov 2004,Togo,FY 2005,11,Christian,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Uzbekistan,FY 2005,20,Jewish,8,198
+From: 29 Nov 2004,To: 29 Nov 2004,Uzbekistan,FY 2005,20,No Religion,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Uzbekistan,FY 2005,20,Seventh Day Adventist,9,198
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Nov 2004,To: 29 Nov 2004,Ancestral Worship,FY 2005,42,Laos,42,198
+From: 29 Nov 2004,To: 29 Nov 2004,Baptist,FY 2005,32,Moldova,31,198
+From: 29 Nov 2004,To: 29 Nov 2004,Baptist,FY 2005,32,Sierra Leone,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Catholic,FY 2005,28,Cuba,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Catholic,FY 2005,28,Sierra Leone,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Catholic,FY 2005,28,Sudan,16,198
+From: 29 Nov 2004,To: 29 Nov 2004,Catholic,FY 2005,28,Togo,10,198
+From: 29 Nov 2004,To: 29 Nov 2004,Christian,FY 2005,45,Dem. Rep. Congo,5,198
+From: 29 Nov 2004,To: 29 Nov 2004,Christian,FY 2005,45,Laos,17,198
+From: 29 Nov 2004,To: 29 Nov 2004,Christian,FY 2005,45,Sierra Leone,13,198
+From: 29 Nov 2004,To: 29 Nov 2004,Christian,FY 2005,45,Sudan,9,198
+From: 29 Nov 2004,To: 29 Nov 2004,Christian,FY 2005,45,Togo,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Jehovah Witness,FY 2005,3,Sierra Leone,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Jewish,FY 2005,8,Uzbekistan,8,198
+From: 29 Nov 2004,To: 29 Nov 2004,Methodist,FY 2005,5,Sierra Leone,5,198
+From: 29 Nov 2004,To: 29 Nov 2004,Moslem,FY 2005,7,Sierra Leone,5,198
+From: 29 Nov 2004,To: 29 Nov 2004,Moslem,FY 2005,7,Somalia,2,198
+From: 29 Nov 2004,To: 29 Nov 2004,No Religion,FY 2005,3,Uzbekistan,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Pentecostalist,FY 2005,4,Moldova,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Pentecostalist,FY 2005,4,Sierra Leone,1,198
+From: 29 Nov 2004,To: 29 Nov 2004,Seventh Day Adventist,FY 2005,21,Kazakhstan,9,198
+From: 29 Nov 2004,To: 29 Nov 2004,Seventh Day Adventist,FY 2005,21,Sierra Leone,3,198
+From: 29 Nov 2004,To: 29 Nov 2004,Seventh Day Adventist,FY 2005,21,Uzbekistan,9,198
+

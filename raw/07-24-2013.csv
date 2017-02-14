@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jul 2013,To: 24 Jul 2013,Afghanistan,FY 2013,15,Moslem,13,414
+From: 24 Jul 2013,To: 24 Jul 2013,Afghanistan,FY 2013,15,Moslem Shiite,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Bhutan,FY 2013,66,Buddhist,26,414
+From: 24 Jul 2013,To: 24 Jul 2013,Bhutan,FY 2013,66,Christian,7,414
+From: 24 Jul 2013,To: 24 Jul 2013,Bhutan,FY 2013,66,Hindu,23,414
+From: 24 Jul 2013,To: 24 Jul 2013,Bhutan,FY 2013,66,Kirat,10,414
+From: 24 Jul 2013,To: 24 Jul 2013,Burma,FY 2013,87,Baptist,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Burma,FY 2013,87,Buddhist,9,414
+From: 24 Jul 2013,To: 24 Jul 2013,Burma,FY 2013,87,Christian,71,414
+From: 24 Jul 2013,To: 24 Jul 2013,Burma,FY 2013,87,Moslem Suni,5,414
+From: 24 Jul 2013,To: 24 Jul 2013,Dem. Rep. Congo,FY 2013,15,Pentecostalist,9,414
+From: 24 Jul 2013,To: 24 Jul 2013,Dem. Rep. Congo,FY 2013,15,Protestant,6,414
+From: 24 Jul 2013,To: 24 Jul 2013,Eritrea,FY 2013,2,Orthodox,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Ethiopia,FY 2013,1,Moslem,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Gambia,FY 2013,1,Moslem,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iran,FY 2013,12,Bahai,3,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iran,FY 2013,12,Moslem Shiite,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iran,FY 2013,12,Protestant,3,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iran,FY 2013,12,Zoroastrian,5,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Catholic,7,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Christian,13,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Moslem,6,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Moslem Shiite,62,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Moslem Suni,34,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Orthodox,4,414
+From: 24 Jul 2013,To: 24 Jul 2013,Iraq,FY 2013,127,Sabeans-Mandean,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Liberia,FY 2013,12,Methodist,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Liberia,FY 2013,12,Pentecostalist,10,414
+From: 24 Jul 2013,To: 24 Jul 2013,Sierra Leone,FY 2013,1,Moslem,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Somalia,FY 2013,68,Moslem,63,414
+From: 24 Jul 2013,To: 24 Jul 2013,Somalia,FY 2013,68,Moslem Suni,5,414
+From: 24 Jul 2013,To: 24 Jul 2013,Sudan,FY 2013,3,Moslem,3,414
+From: 24 Jul 2013,To: 24 Jul 2013,Vietnam,FY 2013,4,Buddhist,4,414
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jul 2013,To: 24 Jul 2013,Bahai,FY 2013,3,Iran,3,414
+From: 24 Jul 2013,To: 24 Jul 2013,Baptist,FY 2013,2,Burma,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Buddhist,FY 2013,39,Bhutan,26,414
+From: 24 Jul 2013,To: 24 Jul 2013,Buddhist,FY 2013,39,Burma,9,414
+From: 24 Jul 2013,To: 24 Jul 2013,Buddhist,FY 2013,39,Vietnam,4,414
+From: 24 Jul 2013,To: 24 Jul 2013,Catholic,FY 2013,7,Iraq,7,414
+From: 24 Jul 2013,To: 24 Jul 2013,Christian,FY 2013,91,Bhutan,7,414
+From: 24 Jul 2013,To: 24 Jul 2013,Christian,FY 2013,91,Burma,71,414
+From: 24 Jul 2013,To: 24 Jul 2013,Christian,FY 2013,91,Iraq,13,414
+From: 24 Jul 2013,To: 24 Jul 2013,Hindu,FY 2013,23,Bhutan,23,414
+From: 24 Jul 2013,To: 24 Jul 2013,Kirat,FY 2013,10,Bhutan,10,414
+From: 24 Jul 2013,To: 24 Jul 2013,Methodist,FY 2013,2,Liberia,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Afghanistan,13,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Ethiopia,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Gambia,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Iraq,6,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Sierra Leone,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Somalia,63,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem,FY 2013,88,Sudan,3,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem Shiite,FY 2013,65,Afghanistan,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem Shiite,FY 2013,65,Iran,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem Shiite,FY 2013,65,Iraq,62,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem Suni,FY 2013,44,Burma,5,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem Suni,FY 2013,44,Iraq,34,414
+From: 24 Jul 2013,To: 24 Jul 2013,Moslem Suni,FY 2013,44,Somalia,5,414
+From: 24 Jul 2013,To: 24 Jul 2013,Orthodox,FY 2013,6,Eritrea,2,414
+From: 24 Jul 2013,To: 24 Jul 2013,Orthodox,FY 2013,6,Iraq,4,414
+From: 24 Jul 2013,To: 24 Jul 2013,Pentecostalist,FY 2013,19,Dem. Rep. Congo,9,414
+From: 24 Jul 2013,To: 24 Jul 2013,Pentecostalist,FY 2013,19,Liberia,10,414
+From: 24 Jul 2013,To: 24 Jul 2013,Protestant,FY 2013,9,Dem. Rep. Congo,6,414
+From: 24 Jul 2013,To: 24 Jul 2013,Protestant,FY 2013,9,Iran,3,414
+From: 24 Jul 2013,To: 24 Jul 2013,Sabeans-Mandean,FY 2013,1,Iraq,1,414
+From: 24 Jul 2013,To: 24 Jul 2013,Zoroastrian,FY 2013,5,Iran,5,414
+

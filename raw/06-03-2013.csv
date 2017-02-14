@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jun 2013,To: 03 Jun 2013,Bhutan,FY 2013,33,Buddhist,11,141
+From: 03 Jun 2013,To: 03 Jun 2013,Bhutan,FY 2013,33,Christian,7,141
+From: 03 Jun 2013,To: 03 Jun 2013,Bhutan,FY 2013,33,Hindu,7,141
+From: 03 Jun 2013,To: 03 Jun 2013,Bhutan,FY 2013,33,Kirat,8,141
+From: 03 Jun 2013,To: 03 Jun 2013,Eritrea,FY 2013,5,Moslem,1,141
+From: 03 Jun 2013,To: 03 Jun 2013,Eritrea,FY 2013,5,Moslem Suni,2,141
+From: 03 Jun 2013,To: 03 Jun 2013,Eritrea,FY 2013,5,Orthodox,2,141
+From: 03 Jun 2013,To: 03 Jun 2013,Iran,FY 2013,4,Sabeans-Mandean,4,141
+From: 03 Jun 2013,To: 03 Jun 2013,Iraq,FY 2013,87,Catholic,6,141
+From: 03 Jun 2013,To: 03 Jun 2013,Iraq,FY 2013,87,Moslem Shiite,36,141
+From: 03 Jun 2013,To: 03 Jun 2013,Iraq,FY 2013,87,Moslem Suni,42,141
+From: 03 Jun 2013,To: 03 Jun 2013,Iraq,FY 2013,87,Orthodox,3,141
+From: 03 Jun 2013,To: 03 Jun 2013,Liberia,FY 2013,5,Christian,5,141
+From: 03 Jun 2013,To: 03 Jun 2013,Somalia,FY 2013,4,Moslem,3,141
+From: 03 Jun 2013,To: 03 Jun 2013,Somalia,FY 2013,4,Moslem Suni,1,141
+From: 03 Jun 2013,To: 03 Jun 2013,Sudan,FY 2013,3,Moslem Suni,3,141
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jun 2013,To: 03 Jun 2013,Buddhist,FY 2013,11,Bhutan,11,141
+From: 03 Jun 2013,To: 03 Jun 2013,Catholic,FY 2013,6,Iraq,6,141
+From: 03 Jun 2013,To: 03 Jun 2013,Christian,FY 2013,12,Bhutan,7,141
+From: 03 Jun 2013,To: 03 Jun 2013,Christian,FY 2013,12,Liberia,5,141
+From: 03 Jun 2013,To: 03 Jun 2013,Hindu,FY 2013,7,Bhutan,7,141
+From: 03 Jun 2013,To: 03 Jun 2013,Kirat,FY 2013,8,Bhutan,8,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem,FY 2013,4,Eritrea,1,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem,FY 2013,4,Somalia,3,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem Shiite,FY 2013,36,Iraq,36,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem Suni,FY 2013,48,Eritrea,2,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem Suni,FY 2013,48,Iraq,42,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem Suni,FY 2013,48,Somalia,1,141
+From: 03 Jun 2013,To: 03 Jun 2013,Moslem Suni,FY 2013,48,Sudan,3,141
+From: 03 Jun 2013,To: 03 Jun 2013,Orthodox,FY 2013,5,Eritrea,2,141
+From: 03 Jun 2013,To: 03 Jun 2013,Orthodox,FY 2013,5,Iraq,3,141
+From: 03 Jun 2013,To: 03 Jun 2013,Sabeans-Mandean,FY 2013,4,Iran,4,141
+

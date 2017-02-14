@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 May 2015,To: 28 May 2015,Burma,FY 2015,102,Baptist,5,279
+From: 28 May 2015,To: 28 May 2015,Burma,FY 2015,102,Buddhist,18,279
+From: 28 May 2015,To: 28 May 2015,Burma,FY 2015,102,Christian,51,279
+From: 28 May 2015,To: 28 May 2015,Burma,FY 2015,102,Moslem,28,279
+From: 28 May 2015,To: 28 May 2015,Burundi,FY 2015,11,Catholic,2,279
+From: 28 May 2015,To: 28 May 2015,Burundi,FY 2015,11,Methodist,9,279
+From: 28 May 2015,To: 28 May 2015,Chad,FY 2015,1,Moslem,1,279
+From: 28 May 2015,To: 28 May 2015,Cuba,FY 2015,36,Catholic,13,279
+From: 28 May 2015,To: 28 May 2015,Cuba,FY 2015,36,Jehovah Witness,3,279
+From: 28 May 2015,To: 28 May 2015,Cuba,FY 2015,36,No Religion,17,279
+From: 28 May 2015,To: 28 May 2015,Cuba,FY 2015,36,Protestant,3,279
+From: 28 May 2015,To: 28 May 2015,Dem. Rep. Congo,FY 2015,32,Catholic,4,279
+From: 28 May 2015,To: 28 May 2015,Dem. Rep. Congo,FY 2015,32,Christian,11,279
+From: 28 May 2015,To: 28 May 2015,Dem. Rep. Congo,FY 2015,32,Pentecostalist,2,279
+From: 28 May 2015,To: 28 May 2015,Dem. Rep. Congo,FY 2015,32,Protestant,15,279
+From: 28 May 2015,To: 28 May 2015,Iran,FY 2015,23,Bahai,2,279
+From: 28 May 2015,To: 28 May 2015,Iran,FY 2015,23,Christian,3,279
+From: 28 May 2015,To: 28 May 2015,Iran,FY 2015,23,Jewish,4,279
+From: 28 May 2015,To: 28 May 2015,Iran,FY 2015,23,Moslem Shiite,2,279
+From: 28 May 2015,To: 28 May 2015,Iran,FY 2015,23,Sabeans-Mandean,6,279
+From: 28 May 2015,To: 28 May 2015,Iran,FY 2015,23,Zoroastrian,6,279
+From: 28 May 2015,To: 28 May 2015,Iraq,FY 2015,26,Catholic,2,279
+From: 28 May 2015,To: 28 May 2015,Iraq,FY 2015,26,Chaldean,5,279
+From: 28 May 2015,To: 28 May 2015,Iraq,FY 2015,26,Moslem Shiite,13,279
+From: 28 May 2015,To: 28 May 2015,Iraq,FY 2015,26,Moslem Suni,6,279
+From: 28 May 2015,To: 28 May 2015,Pakistan,FY 2015,5,Christian,5,279
+From: 28 May 2015,To: 28 May 2015,Somalia,FY 2015,26,Moslem,26,279
+From: 28 May 2015,To: 28 May 2015,Syria,FY 2015,12,Moslem Suni,12,279
+From: 28 May 2015,To: 28 May 2015,Turkmenistan,FY 2015,5,Orthodox,5,279
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 May 2015,To: 28 May 2015,Bahai,FY 2015,2,Iran,2,279
+From: 28 May 2015,To: 28 May 2015,Baptist,FY 2015,5,Burma,5,279
+From: 28 May 2015,To: 28 May 2015,Buddhist,FY 2015,18,Burma,18,279
+From: 28 May 2015,To: 28 May 2015,Catholic,FY 2015,21,Burundi,2,279
+From: 28 May 2015,To: 28 May 2015,Catholic,FY 2015,21,Cuba,13,279
+From: 28 May 2015,To: 28 May 2015,Catholic,FY 2015,21,Dem. Rep. Congo,4,279
+From: 28 May 2015,To: 28 May 2015,Catholic,FY 2015,21,Iraq,2,279
+From: 28 May 2015,To: 28 May 2015,Chaldean,FY 2015,5,Iraq,5,279
+From: 28 May 2015,To: 28 May 2015,Christian,FY 2015,70,Burma,51,279
+From: 28 May 2015,To: 28 May 2015,Christian,FY 2015,70,Dem. Rep. Congo,11,279
+From: 28 May 2015,To: 28 May 2015,Christian,FY 2015,70,Iran,3,279
+From: 28 May 2015,To: 28 May 2015,Christian,FY 2015,70,Pakistan,5,279
+From: 28 May 2015,To: 28 May 2015,Jehovah Witness,FY 2015,3,Cuba,3,279
+From: 28 May 2015,To: 28 May 2015,Jewish,FY 2015,4,Iran,4,279
+From: 28 May 2015,To: 28 May 2015,Methodist,FY 2015,9,Burundi,9,279
+From: 28 May 2015,To: 28 May 2015,Moslem,FY 2015,55,Burma,28,279
+From: 28 May 2015,To: 28 May 2015,Moslem,FY 2015,55,Chad,1,279
+From: 28 May 2015,To: 28 May 2015,Moslem,FY 2015,55,Somalia,26,279
+From: 28 May 2015,To: 28 May 2015,Moslem Shiite,FY 2015,15,Iran,2,279
+From: 28 May 2015,To: 28 May 2015,Moslem Shiite,FY 2015,15,Iraq,13,279
+From: 28 May 2015,To: 28 May 2015,Moslem Suni,FY 2015,18,Iraq,6,279
+From: 28 May 2015,To: 28 May 2015,Moslem Suni,FY 2015,18,Syria,12,279
+From: 28 May 2015,To: 28 May 2015,No Religion,FY 2015,17,Cuba,17,279
+From: 28 May 2015,To: 28 May 2015,Orthodox,FY 2015,5,Turkmenistan,5,279
+From: 28 May 2015,To: 28 May 2015,Pentecostalist,FY 2015,2,Dem. Rep. Congo,2,279
+From: 28 May 2015,To: 28 May 2015,Protestant,FY 2015,18,Cuba,3,279
+From: 28 May 2015,To: 28 May 2015,Protestant,FY 2015,18,Dem. Rep. Congo,15,279
+From: 28 May 2015,To: 28 May 2015,Sabeans-Mandean,FY 2015,6,Iran,6,279
+From: 28 May 2015,To: 28 May 2015,Zoroastrian,FY 2015,6,Iran,6,279
+

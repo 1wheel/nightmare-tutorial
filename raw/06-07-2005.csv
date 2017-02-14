@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jun 2005,To: 07 Jun 2005,Afghanistan,FY 2005,20,Moslem Suni,20,272
+From: 07 Jun 2005,To: 07 Jun 2005,Cuba,FY 2005,56,Baptist,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Cuba,FY 2005,56,Catholic,21,272
+From: 07 Jun 2005,To: 07 Jun 2005,Cuba,FY 2005,56,Evangelical Christian,4,272
+From: 07 Jun 2005,To: 07 Jun 2005,Cuba,FY 2005,56,Jehovah Witness,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Cuba,FY 2005,56,No Religion,25,272
+From: 07 Jun 2005,To: 07 Jun 2005,Dem. Rep. Congo,FY 2005,4,Christian,4,272
+From: 07 Jun 2005,To: 07 Jun 2005,Eritrea,FY 2005,1,Jehovah Witness,1,272
+From: 07 Jun 2005,To: 07 Jun 2005,Ethiopia,FY 2005,2,Moslem,2,272
+From: 07 Jun 2005,To: 07 Jun 2005,Iran,FY 2005,10,Sabeans-Mandean,10,272
+From: 07 Jun 2005,To: 07 Jun 2005,Kyrgyzstan,FY 2005,3,Baptist,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Laos,FY 2005,83,Ancestral Worship,83,272
+From: 07 Jun 2005,To: 07 Jun 2005,Liberia,FY 2005,18,Baptist,2,272
+From: 07 Jun 2005,To: 07 Jun 2005,Liberia,FY 2005,18,Christian,13,272
+From: 07 Jun 2005,To: 07 Jun 2005,Liberia,FY 2005,18,Methodist,2,272
+From: 07 Jun 2005,To: 07 Jun 2005,Liberia,FY 2005,18,Unknown,1,272
+From: 07 Jun 2005,To: 07 Jun 2005,Moldova,FY 2005,17,Baptist,10,272
+From: 07 Jun 2005,To: 07 Jun 2005,Moldova,FY 2005,17,Pentecostalist,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Moldova,FY 2005,17,Seventh Day Adventist,4,272
+From: 07 Jun 2005,To: 07 Jun 2005,Rwanda,FY 2005,1,Catholic,1,272
+From: 07 Jun 2005,To: 07 Jun 2005,Somalia,FY 2005,54,Moslem,54,272
+From: 07 Jun 2005,To: 07 Jun 2005,Sudan,FY 2005,3,Catholic,3,272
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jun 2005,To: 07 Jun 2005,Ancestral Worship,FY 2005,83,Laos,83,272
+From: 07 Jun 2005,To: 07 Jun 2005,Baptist,FY 2005,18,Cuba,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Baptist,FY 2005,18,Kyrgyzstan,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Baptist,FY 2005,18,Liberia,2,272
+From: 07 Jun 2005,To: 07 Jun 2005,Baptist,FY 2005,18,Moldova,10,272
+From: 07 Jun 2005,To: 07 Jun 2005,Catholic,FY 2005,25,Cuba,21,272
+From: 07 Jun 2005,To: 07 Jun 2005,Catholic,FY 2005,25,Rwanda,1,272
+From: 07 Jun 2005,To: 07 Jun 2005,Catholic,FY 2005,25,Sudan,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Christian,FY 2005,17,Dem. Rep. Congo,4,272
+From: 07 Jun 2005,To: 07 Jun 2005,Christian,FY 2005,17,Liberia,13,272
+From: 07 Jun 2005,To: 07 Jun 2005,Evangelical Christian,FY 2005,4,Cuba,4,272
+From: 07 Jun 2005,To: 07 Jun 2005,Jehovah Witness,FY 2005,4,Cuba,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Jehovah Witness,FY 2005,4,Eritrea,1,272
+From: 07 Jun 2005,To: 07 Jun 2005,Methodist,FY 2005,2,Liberia,2,272
+From: 07 Jun 2005,To: 07 Jun 2005,Moslem,FY 2005,56,Ethiopia,2,272
+From: 07 Jun 2005,To: 07 Jun 2005,Moslem,FY 2005,56,Somalia,54,272
+From: 07 Jun 2005,To: 07 Jun 2005,Moslem Suni,FY 2005,20,Afghanistan,20,272
+From: 07 Jun 2005,To: 07 Jun 2005,No Religion,FY 2005,25,Cuba,25,272
+From: 07 Jun 2005,To: 07 Jun 2005,Pentecostalist,FY 2005,3,Moldova,3,272
+From: 07 Jun 2005,To: 07 Jun 2005,Sabeans-Mandean,FY 2005,10,Iran,10,272
+From: 07 Jun 2005,To: 07 Jun 2005,Seventh Day Adventist,FY 2005,4,Moldova,4,272
+From: 07 Jun 2005,To: 07 Jun 2005,Unknown,FY 2005,1,Liberia,1,272
+

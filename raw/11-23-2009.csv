@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Nov 2009,To: 23 Nov 2009,Afghanistan,FY 2010,5,Moslem Suni,5,425
+From: 23 Nov 2009,To: 23 Nov 2009,Bhutan,FY 2010,105,Buddhist,16,425
+From: 23 Nov 2009,To: 23 Nov 2009,Bhutan,FY 2010,105,Christian,5,425
+From: 23 Nov 2009,To: 23 Nov 2009,Bhutan,FY 2010,105,Hindu,84,425
+From: 23 Nov 2009,To: 23 Nov 2009,Congo,FY 2010,5,Christian,5,425
+From: 23 Nov 2009,To: 23 Nov 2009,Ethiopia,FY 2010,1,Orthodox,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iran,FY 2010,38,Bahai,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iran,FY 2010,38,Christian,30,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iran,FY 2010,38,Moslem,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iran,FY 2010,38,Sabeans-Mandean,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iran,FY 2010,38,Zoroastrian,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Catholic,37,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Chaldean,4,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Christian,37,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Moslem,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Moslem Shiite,41,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Moslem Suni,98,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Orthodox,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Protestant,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Iraq,FY 2010,224,Sabeans-Mandean,2,425
+From: 23 Nov 2009,To: 23 Nov 2009,Liberia,FY 2010,5,Christian,2,425
+From: 23 Nov 2009,To: 23 Nov 2009,Liberia,FY 2010,5,Lutheran,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Mauritania,FY 2010,7,Moslem,7,425
+From: 23 Nov 2009,To: 23 Nov 2009,Russia,FY 2010,22,Baptist,10,425
+From: 23 Nov 2009,To: 23 Nov 2009,Russia,FY 2010,22,Pentecostalist,12,425
+From: 23 Nov 2009,To: 23 Nov 2009,Somalia,FY 2010,1,Moslem,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Sudan,FY 2010,12,Catholic,4,425
+From: 23 Nov 2009,To: 23 Nov 2009,Sudan,FY 2010,12,Moslem,8,425
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Nov 2009,To: 23 Nov 2009,Bahai,FY 2010,3,Iran,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Baptist,FY 2010,10,Russia,10,425
+From: 23 Nov 2009,To: 23 Nov 2009,Buddhist,FY 2010,16,Bhutan,16,425
+From: 23 Nov 2009,To: 23 Nov 2009,Catholic,FY 2010,41,Iraq,37,425
+From: 23 Nov 2009,To: 23 Nov 2009,Catholic,FY 2010,41,Sudan,4,425
+From: 23 Nov 2009,To: 23 Nov 2009,Chaldean,FY 2010,4,Iraq,4,425
+From: 23 Nov 2009,To: 23 Nov 2009,Christian,FY 2010,79,Bhutan,5,425
+From: 23 Nov 2009,To: 23 Nov 2009,Christian,FY 2010,79,Congo,5,425
+From: 23 Nov 2009,To: 23 Nov 2009,Christian,FY 2010,79,Iran,30,425
+From: 23 Nov 2009,To: 23 Nov 2009,Christian,FY 2010,79,Iraq,37,425
+From: 23 Nov 2009,To: 23 Nov 2009,Christian,FY 2010,79,Liberia,2,425
+From: 23 Nov 2009,To: 23 Nov 2009,Hindu,FY 2010,84,Bhutan,84,425
+From: 23 Nov 2009,To: 23 Nov 2009,Lutheran,FY 2010,3,Liberia,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem,FY 2010,18,Iran,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem,FY 2010,18,Iraq,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem,FY 2010,18,Mauritania,7,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem,FY 2010,18,Somalia,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem,FY 2010,18,Sudan,8,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem Shiite,FY 2010,41,Iraq,41,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem Suni,FY 2010,103,Afghanistan,5,425
+From: 23 Nov 2009,To: 23 Nov 2009,Moslem Suni,FY 2010,103,Iraq,98,425
+From: 23 Nov 2009,To: 23 Nov 2009,Orthodox,FY 2010,4,Ethiopia,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Orthodox,FY 2010,4,Iraq,3,425
+From: 23 Nov 2009,To: 23 Nov 2009,Pentecostalist,FY 2010,12,Russia,12,425
+From: 23 Nov 2009,To: 23 Nov 2009,Protestant,FY 2010,1,Iraq,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Sabeans-Mandean,FY 2010,3,Iran,1,425
+From: 23 Nov 2009,To: 23 Nov 2009,Sabeans-Mandean,FY 2010,3,Iraq,2,425
+From: 23 Nov 2009,To: 23 Nov 2009,Zoroastrian,FY 2010,3,Iran,3,425
+

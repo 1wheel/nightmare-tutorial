@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Nov 2004,To: 23 Nov 2004,Afghanistan,FY 2005,7,Moslem Suni,7,293
+From: 23 Nov 2004,To: 23 Nov 2004,Azerbaijan,FY 2005,6,Orthodox,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Azerbaijan,FY 2005,6,Unknown,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Burma,FY 2005,1,Baptist,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,Catholic,35,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,Evangelical Christian,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,Jehovah Witness,7,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,Methodist,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,No Religion,16,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,Pentecostalist,3,293
+From: 23 Nov 2004,To: 23 Nov 2004,Cuba,FY 2005,69,Protestant,2,293
+From: 23 Nov 2004,To: 23 Nov 2004,Dem. Rep. Congo,FY 2005,15,Catholic,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Dem. Rep. Congo,FY 2005,15,Moslem,9,293
+From: 23 Nov 2004,To: 23 Nov 2004,Dem. Rep. Congo,FY 2005,15,Unknown,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Ethiopia,FY 2005,3,Moslem,3,293
+From: 23 Nov 2004,To: 23 Nov 2004,Lithuania,FY 2005,2,Jewish,2,293
+From: 23 Nov 2004,To: 23 Nov 2004,Russia,FY 2005,21,Baptist,6,293
+From: 23 Nov 2004,To: 23 Nov 2004,Russia,FY 2005,21,Jewish,15,293
+From: 23 Nov 2004,To: 23 Nov 2004,Somalia,FY 2005,130,Moslem,130,293
+From: 23 Nov 2004,To: 23 Nov 2004,Sudan,FY 2005,16,Baptist,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Sudan,FY 2005,16,Christian,14,293
+From: 23 Nov 2004,To: 23 Nov 2004,Sudan,FY 2005,16,Protestant,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Togo,FY 2005,22,Catholic,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Togo,FY 2005,22,Christian,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Togo,FY 2005,22,Moslem,12,293
+From: 23 Nov 2004,To: 23 Nov 2004,Togo,FY 2005,22,Protestant,4,293
+From: 23 Nov 2004,To: 23 Nov 2004,Ukraine,FY 2005,1,Jewish,1,293
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Nov 2004,To: 23 Nov 2004,Baptist,FY 2005,8,Burma,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Baptist,FY 2005,8,Russia,6,293
+From: 23 Nov 2004,To: 23 Nov 2004,Baptist,FY 2005,8,Sudan,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Catholic,FY 2005,45,Cuba,35,293
+From: 23 Nov 2004,To: 23 Nov 2004,Catholic,FY 2005,45,Dem. Rep. Congo,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Catholic,FY 2005,45,Togo,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Christian,FY 2005,15,Sudan,14,293
+From: 23 Nov 2004,To: 23 Nov 2004,Christian,FY 2005,15,Togo,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Evangelical Christian,FY 2005,5,Cuba,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Jehovah Witness,FY 2005,7,Cuba,7,293
+From: 23 Nov 2004,To: 23 Nov 2004,Jewish,FY 2005,18,Lithuania,2,293
+From: 23 Nov 2004,To: 23 Nov 2004,Jewish,FY 2005,18,Russia,15,293
+From: 23 Nov 2004,To: 23 Nov 2004,Jewish,FY 2005,18,Ukraine,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Methodist,FY 2005,1,Cuba,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Moslem,FY 2005,154,Dem. Rep. Congo,9,293
+From: 23 Nov 2004,To: 23 Nov 2004,Moslem,FY 2005,154,Ethiopia,3,293
+From: 23 Nov 2004,To: 23 Nov 2004,Moslem,FY 2005,154,Somalia,130,293
+From: 23 Nov 2004,To: 23 Nov 2004,Moslem,FY 2005,154,Togo,12,293
+From: 23 Nov 2004,To: 23 Nov 2004,Moslem Suni,FY 2005,7,Afghanistan,7,293
+From: 23 Nov 2004,To: 23 Nov 2004,No Religion,FY 2005,16,Cuba,16,293
+From: 23 Nov 2004,To: 23 Nov 2004,Orthodox,FY 2005,1,Azerbaijan,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Pentecostalist,FY 2005,3,Cuba,3,293
+From: 23 Nov 2004,To: 23 Nov 2004,Protestant,FY 2005,7,Cuba,2,293
+From: 23 Nov 2004,To: 23 Nov 2004,Protestant,FY 2005,7,Sudan,1,293
+From: 23 Nov 2004,To: 23 Nov 2004,Protestant,FY 2005,7,Togo,4,293
+From: 23 Nov 2004,To: 23 Nov 2004,Unknown,FY 2005,6,Azerbaijan,5,293
+From: 23 Nov 2004,To: 23 Nov 2004,Unknown,FY 2005,6,Dem. Rep. Congo,1,293
+

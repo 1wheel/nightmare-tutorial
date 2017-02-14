@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Nov 2003,To: 17 Nov 2003,Afghanistan,FY 2004,2,Moslem Shiite,1,113
+From: 17 Nov 2003,To: 17 Nov 2003,Afghanistan,FY 2004,2,Unknown,1,113
+From: 17 Nov 2003,To: 17 Nov 2003,Armenia,FY 2004,4,Pentecostalist,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Azerbaijan,FY 2004,9,Christian,3,113
+From: 17 Nov 2003,To: 17 Nov 2003,Azerbaijan,FY 2004,9,Jewish,6,113
+From: 17 Nov 2003,To: 17 Nov 2003,Georgia,FY 2004,4,Pentecostalist,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Iran,FY 2004,4,Catholic,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Iran,FY 2004,4,Moslem Shiite,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Liberia,FY 2004,4,Moslem,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Moldova,FY 2004,35,Baptist,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Moldova,FY 2004,35,Pentecostalist,31,113
+From: 17 Nov 2003,To: 17 Nov 2003,Russia,FY 2004,20,Baptist,9,113
+From: 17 Nov 2003,To: 17 Nov 2003,Russia,FY 2004,20,Jewish,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Russia,FY 2004,20,Pentecostalist,9,113
+From: 17 Nov 2003,To: 17 Nov 2003,Sierra Leone,FY 2004,31,Catholic,3,113
+From: 17 Nov 2003,To: 17 Nov 2003,Sierra Leone,FY 2004,31,Methodist,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Sierra Leone,FY 2004,31,Moslem,18,113
+From: 17 Nov 2003,To: 17 Nov 2003,Sierra Leone,FY 2004,31,Pentecostalist,8,113
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Nov 2003,To: 17 Nov 2003,Baptist,FY 2004,13,Moldova,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Baptist,FY 2004,13,Russia,9,113
+From: 17 Nov 2003,To: 17 Nov 2003,Catholic,FY 2004,5,Iran,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Catholic,FY 2004,5,Sierra Leone,3,113
+From: 17 Nov 2003,To: 17 Nov 2003,Christian,FY 2004,3,Azerbaijan,3,113
+From: 17 Nov 2003,To: 17 Nov 2003,Jewish,FY 2004,8,Azerbaijan,6,113
+From: 17 Nov 2003,To: 17 Nov 2003,Jewish,FY 2004,8,Russia,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Methodist,FY 2004,2,Sierra Leone,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Moslem,FY 2004,22,Liberia,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Moslem,FY 2004,22,Sierra Leone,18,113
+From: 17 Nov 2003,To: 17 Nov 2003,Moslem Shiite,FY 2004,3,Afghanistan,1,113
+From: 17 Nov 2003,To: 17 Nov 2003,Moslem Shiite,FY 2004,3,Iran,2,113
+From: 17 Nov 2003,To: 17 Nov 2003,Pentecostalist,FY 2004,56,Armenia,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Pentecostalist,FY 2004,56,Georgia,4,113
+From: 17 Nov 2003,To: 17 Nov 2003,Pentecostalist,FY 2004,56,Moldova,31,113
+From: 17 Nov 2003,To: 17 Nov 2003,Pentecostalist,FY 2004,56,Russia,9,113
+From: 17 Nov 2003,To: 17 Nov 2003,Pentecostalist,FY 2004,56,Sierra Leone,8,113
+From: 17 Nov 2003,To: 17 Nov 2003,Unknown,FY 2004,1,Afghanistan,1,113
+

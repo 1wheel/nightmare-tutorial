@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Sep 2014,To: 22 Sep 2014,Burma,FY 2014,31,Buddhist,2,250
+From: 22 Sep 2014,To: 22 Sep 2014,Burma,FY 2014,31,Christian,26,250
+From: 22 Sep 2014,To: 22 Sep 2014,Burma,FY 2014,31,Moslem,3,250
+From: 22 Sep 2014,To: 22 Sep 2014,Central African Republic,FY 2014,12,Baptist,6,250
+From: 22 Sep 2014,To: 22 Sep 2014,Central African Republic,FY 2014,12,Catholic,4,250
+From: 22 Sep 2014,To: 22 Sep 2014,Central African Republic,FY 2014,12,Christian,1,250
+From: 22 Sep 2014,To: 22 Sep 2014,Central African Republic,FY 2014,12,Protestant,1,250
+From: 22 Sep 2014,To: 22 Sep 2014,Dem. Rep. Congo,FY 2014,1,Protestant,1,250
+From: 22 Sep 2014,To: 22 Sep 2014,Iraq,FY 2014,200,Catholic,41,250
+From: 22 Sep 2014,To: 22 Sep 2014,Iraq,FY 2014,200,Christian,8,250
+From: 22 Sep 2014,To: 22 Sep 2014,Iraq,FY 2014,200,Moslem Shiite,53,250
+From: 22 Sep 2014,To: 22 Sep 2014,Iraq,FY 2014,200,Moslem Suni,90,250
+From: 22 Sep 2014,To: 22 Sep 2014,Iraq,FY 2014,200,Orthodox,8,250
+From: 22 Sep 2014,To: 22 Sep 2014,Sudan,FY 2014,6,Moslem,6,250
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Sep 2014,To: 22 Sep 2014,Baptist,FY 2014,6,Central African Republic,6,250
+From: 22 Sep 2014,To: 22 Sep 2014,Buddhist,FY 2014,2,Burma,2,250
+From: 22 Sep 2014,To: 22 Sep 2014,Catholic,FY 2014,45,Central African Republic,4,250
+From: 22 Sep 2014,To: 22 Sep 2014,Catholic,FY 2014,45,Iraq,41,250
+From: 22 Sep 2014,To: 22 Sep 2014,Christian,FY 2014,35,Burma,26,250
+From: 22 Sep 2014,To: 22 Sep 2014,Christian,FY 2014,35,Central African Republic,1,250
+From: 22 Sep 2014,To: 22 Sep 2014,Christian,FY 2014,35,Iraq,8,250
+From: 22 Sep 2014,To: 22 Sep 2014,Moslem,FY 2014,9,Burma,3,250
+From: 22 Sep 2014,To: 22 Sep 2014,Moslem,FY 2014,9,Sudan,6,250
+From: 22 Sep 2014,To: 22 Sep 2014,Moslem Shiite,FY 2014,53,Iraq,53,250
+From: 22 Sep 2014,To: 22 Sep 2014,Moslem Suni,FY 2014,90,Iraq,90,250
+From: 22 Sep 2014,To: 22 Sep 2014,Orthodox,FY 2014,8,Iraq,8,250
+From: 22 Sep 2014,To: 22 Sep 2014,Protestant,FY 2014,2,Central African Republic,1,250
+From: 22 Sep 2014,To: 22 Sep 2014,Protestant,FY 2014,2,Dem. Rep. Congo,1,250
+

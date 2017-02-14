@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Nov 2012,To: 19 Nov 2012,Afghanistan,FY 2013,1,Christian,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Bhutan,FY 2013,66,Buddhist,20,424
+From: 19 Nov 2012,To: 19 Nov 2012,Bhutan,FY 2013,66,Christian,9,424
+From: 19 Nov 2012,To: 19 Nov 2012,Bhutan,FY 2013,66,Hindu,25,424
+From: 19 Nov 2012,To: 19 Nov 2012,Bhutan,FY 2013,66,Kirat,12,424
+From: 19 Nov 2012,To: 19 Nov 2012,Burma,FY 2013,69,Baptist,7,424
+From: 19 Nov 2012,To: 19 Nov 2012,Burma,FY 2013,69,Buddhist,5,424
+From: 19 Nov 2012,To: 19 Nov 2012,Burma,FY 2013,69,Christian,49,424
+From: 19 Nov 2012,To: 19 Nov 2012,Burma,FY 2013,69,Moslem,7,424
+From: 19 Nov 2012,To: 19 Nov 2012,Burma,FY 2013,69,Seventh Day Adventist,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Dem. Rep. Congo,FY 2013,34,Catholic,3,424
+From: 19 Nov 2012,To: 19 Nov 2012,Dem. Rep. Congo,FY 2013,34,Protestant,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Dem. Rep. Congo,FY 2013,34,Seventh Day Adventist,29,424
+From: 19 Nov 2012,To: 19 Nov 2012,Eritrea,FY 2013,9,Christian,3,424
+From: 19 Nov 2012,To: 19 Nov 2012,Eritrea,FY 2013,9,Moslem,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Eritrea,FY 2013,9,Orthodox,4,424
+From: 19 Nov 2012,To: 19 Nov 2012,Ethiopia,FY 2013,13,Christian,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Ethiopia,FY 2013,13,Moslem,10,424
+From: 19 Nov 2012,To: 19 Nov 2012,Ethiopia,FY 2013,13,Other Religion,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iran,FY 2013,6,Bahai,4,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iran,FY 2013,6,Protestant,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Catholic,20,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Chaldean,5,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Christian,41,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Moslem,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Moslem Shiite,70,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Moslem Suni,40,424
+From: 19 Nov 2012,To: 19 Nov 2012,Iraq,FY 2013,187,Orthodox,9,424
+From: 19 Nov 2012,To: 19 Nov 2012,Palestine,FY 2013,1,Moslem Suni,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Somalia,FY 2013,19,Moslem,18,424
+From: 19 Nov 2012,To: 19 Nov 2012,Somalia,FY 2013,19,Moslem Suni,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Sudan,FY 2013,13,Christian,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Sudan,FY 2013,13,Moslem,12,424
+From: 19 Nov 2012,To: 19 Nov 2012,Syria,FY 2013,6,Jehovah Witness,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Syria,FY 2013,6,Moslem Suni,4,424
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Nov 2012,To: 19 Nov 2012,Bahai,FY 2013,4,Iran,4,424
+From: 19 Nov 2012,To: 19 Nov 2012,Baptist,FY 2013,7,Burma,7,424
+From: 19 Nov 2012,To: 19 Nov 2012,Buddhist,FY 2013,25,Bhutan,20,424
+From: 19 Nov 2012,To: 19 Nov 2012,Buddhist,FY 2013,25,Burma,5,424
+From: 19 Nov 2012,To: 19 Nov 2012,Catholic,FY 2013,23,Dem. Rep. Congo,3,424
+From: 19 Nov 2012,To: 19 Nov 2012,Catholic,FY 2013,23,Iraq,20,424
+From: 19 Nov 2012,To: 19 Nov 2012,Chaldean,FY 2013,5,Iraq,5,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Afghanistan,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Bhutan,9,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Burma,49,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Eritrea,3,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Ethiopia,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Iraq,41,424
+From: 19 Nov 2012,To: 19 Nov 2012,Christian,FY 2013,106,Sudan,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Hindu,FY 2013,25,Bhutan,25,424
+From: 19 Nov 2012,To: 19 Nov 2012,Jehovah Witness,FY 2013,2,Syria,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Kirat,FY 2013,12,Bhutan,12,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem,FY 2013,51,Burma,7,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem,FY 2013,51,Eritrea,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem,FY 2013,51,Ethiopia,10,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem,FY 2013,51,Iraq,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem,FY 2013,51,Somalia,18,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem,FY 2013,51,Sudan,12,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem Shiite,FY 2013,70,Iraq,70,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem Suni,FY 2013,46,Iraq,40,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem Suni,FY 2013,46,Palestine,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem Suni,FY 2013,46,Somalia,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Moslem Suni,FY 2013,46,Syria,4,424
+From: 19 Nov 2012,To: 19 Nov 2012,Orthodox,FY 2013,13,Eritrea,4,424
+From: 19 Nov 2012,To: 19 Nov 2012,Orthodox,FY 2013,13,Iraq,9,424
+From: 19 Nov 2012,To: 19 Nov 2012,Other Religion,FY 2013,1,Ethiopia,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Protestant,FY 2013,4,Dem. Rep. Congo,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Protestant,FY 2013,4,Iran,2,424
+From: 19 Nov 2012,To: 19 Nov 2012,Seventh Day Adventist,FY 2013,30,Burma,1,424
+From: 19 Nov 2012,To: 19 Nov 2012,Seventh Day Adventist,FY 2013,30,Dem. Rep. Congo,29,424
+

@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Mar 2015,To: 02 Mar 2015,Burma,FY 2015,28,Buddhist,2,92
+From: 02 Mar 2015,To: 02 Mar 2015,Burma,FY 2015,28,Catholic,1,92
+From: 02 Mar 2015,To: 02 Mar 2015,Burma,FY 2015,28,Christian,15,92
+From: 02 Mar 2015,To: 02 Mar 2015,Burma,FY 2015,28,Moslem,10,92
+From: 02 Mar 2015,To: 02 Mar 2015,Iraq,FY 2015,34,Christian,1,92
+From: 02 Mar 2015,To: 02 Mar 2015,Iraq,FY 2015,34,Moslem Shiite,16,92
+From: 02 Mar 2015,To: 02 Mar 2015,Iraq,FY 2015,34,Moslem Suni,17,92
+From: 02 Mar 2015,To: 02 Mar 2015,Moldova,FY 2015,5,Pentecostalist,5,92
+From: 02 Mar 2015,To: 02 Mar 2015,Somalia,FY 2015,5,Moslem,5,92
+From: 02 Mar 2015,To: 02 Mar 2015,Syria,FY 2015,5,Christian,5,92
+From: 02 Mar 2015,To: 02 Mar 2015,Ukraine,FY 2015,15,Baptist,8,92
+From: 02 Mar 2015,To: 02 Mar 2015,Ukraine,FY 2015,15,Pentecostalist,7,92
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Mar 2015,To: 02 Mar 2015,Baptist,FY 2015,8,Ukraine,8,92
+From: 02 Mar 2015,To: 02 Mar 2015,Buddhist,FY 2015,2,Burma,2,92
+From: 02 Mar 2015,To: 02 Mar 2015,Catholic,FY 2015,1,Burma,1,92
+From: 02 Mar 2015,To: 02 Mar 2015,Christian,FY 2015,21,Burma,15,92
+From: 02 Mar 2015,To: 02 Mar 2015,Christian,FY 2015,21,Iraq,1,92
+From: 02 Mar 2015,To: 02 Mar 2015,Christian,FY 2015,21,Syria,5,92
+From: 02 Mar 2015,To: 02 Mar 2015,Moslem,FY 2015,15,Burma,10,92
+From: 02 Mar 2015,To: 02 Mar 2015,Moslem,FY 2015,15,Somalia,5,92
+From: 02 Mar 2015,To: 02 Mar 2015,Moslem Shiite,FY 2015,16,Iraq,16,92
+From: 02 Mar 2015,To: 02 Mar 2015,Moslem Suni,FY 2015,17,Iraq,17,92
+From: 02 Mar 2015,To: 02 Mar 2015,Pentecostalist,FY 2015,12,Moldova,5,92
+From: 02 Mar 2015,To: 02 Mar 2015,Pentecostalist,FY 2015,12,Ukraine,7,92
+

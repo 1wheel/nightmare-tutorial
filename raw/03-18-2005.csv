@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Mar 2005,To: 18 Mar 2005,Afghanistan,FY 2005,8,Moslem Shiite,3,68
+From: 18 Mar 2005,To: 18 Mar 2005,Afghanistan,FY 2005,8,Moslem Suni,5,68
+From: 18 Mar 2005,To: 18 Mar 2005,Cambodia,FY 2005,1,Buddhist,1,68
+From: 18 Mar 2005,To: 18 Mar 2005,Russia,FY 2005,27,Moslem,27,68
+From: 18 Mar 2005,To: 18 Mar 2005,Sudan,FY 2005,32,Catholic,14,68
+From: 18 Mar 2005,To: 18 Mar 2005,Sudan,FY 2005,32,Christian,2,68
+From: 18 Mar 2005,To: 18 Mar 2005,Sudan,FY 2005,32,Evangelical Christian,6,68
+From: 18 Mar 2005,To: 18 Mar 2005,Sudan,FY 2005,32,Moslem,8,68
+From: 18 Mar 2005,To: 18 Mar 2005,Sudan,FY 2005,32,Orthodox,1,68
+From: 18 Mar 2005,To: 18 Mar 2005,Sudan,FY 2005,32,Protestant,1,68
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Mar 2005,To: 18 Mar 2005,Buddhist,FY 2005,1,Cambodia,1,68
+From: 18 Mar 2005,To: 18 Mar 2005,Catholic,FY 2005,14,Sudan,14,68
+From: 18 Mar 2005,To: 18 Mar 2005,Christian,FY 2005,2,Sudan,2,68
+From: 18 Mar 2005,To: 18 Mar 2005,Evangelical Christian,FY 2005,6,Sudan,6,68
+From: 18 Mar 2005,To: 18 Mar 2005,Moslem,FY 2005,35,Russia,27,68
+From: 18 Mar 2005,To: 18 Mar 2005,Moslem,FY 2005,35,Sudan,8,68
+From: 18 Mar 2005,To: 18 Mar 2005,Moslem Shiite,FY 2005,3,Afghanistan,3,68
+From: 18 Mar 2005,To: 18 Mar 2005,Moslem Suni,FY 2005,5,Afghanistan,5,68
+From: 18 Mar 2005,To: 18 Mar 2005,Orthodox,FY 2005,1,Sudan,1,68
+From: 18 Mar 2005,To: 18 Mar 2005,Protestant,FY 2005,1,Sudan,1,68
+

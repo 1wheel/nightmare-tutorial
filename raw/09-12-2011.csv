@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Sep 2011,To: 12 Sep 2011,Bhutan,FY 2011,133,Buddhist,41,384
+From: 12 Sep 2011,To: 12 Sep 2011,Bhutan,FY 2011,133,Christian,9,384
+From: 12 Sep 2011,To: 12 Sep 2011,Bhutan,FY 2011,133,Hindu,57,384
+From: 12 Sep 2011,To: 12 Sep 2011,Bhutan,FY 2011,133,Kirat,26,384
+From: 12 Sep 2011,To: 12 Sep 2011,Burma,FY 2011,35,Catholic,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Burma,FY 2011,35,Christian,34,384
+From: 12 Sep 2011,To: 12 Sep 2011,Dem. Rep. Congo,FY 2011,3,Pentecostalist,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Dem. Rep. Congo,FY 2011,3,Protestant,2,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iran,FY 2011,1,Moslem Shiite,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Catholic,28,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Christian,31,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Kaaka'i,6,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Moslem Shiite,10,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Moslem Suni,37,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Orthodox,14,384
+From: 12 Sep 2011,To: 12 Sep 2011,Iraq,FY 2011,130,Sabeans-Mandean,4,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moldova,FY 2011,28,Baptist,18,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moldova,FY 2011,28,Jehovah Witness,8,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moldova,FY 2011,28,Pentecostalist,2,384
+From: 12 Sep 2011,To: 12 Sep 2011,Somalia,FY 2011,48,Moslem,47,384
+From: 12 Sep 2011,To: 12 Sep 2011,Somalia,FY 2011,48,Moslem Suni,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Sudan,FY 2011,6,Moslem,4,384
+From: 12 Sep 2011,To: 12 Sep 2011,Sudan,FY 2011,6,Moslem Suni,2,384
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Sep 2011,To: 12 Sep 2011,Baptist,FY 2011,18,Moldova,18,384
+From: 12 Sep 2011,To: 12 Sep 2011,Buddhist,FY 2011,41,Bhutan,41,384
+From: 12 Sep 2011,To: 12 Sep 2011,Catholic,FY 2011,29,Burma,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Catholic,FY 2011,29,Iraq,28,384
+From: 12 Sep 2011,To: 12 Sep 2011,Christian,FY 2011,74,Bhutan,9,384
+From: 12 Sep 2011,To: 12 Sep 2011,Christian,FY 2011,74,Burma,34,384
+From: 12 Sep 2011,To: 12 Sep 2011,Christian,FY 2011,74,Iraq,31,384
+From: 12 Sep 2011,To: 12 Sep 2011,Hindu,FY 2011,57,Bhutan,57,384
+From: 12 Sep 2011,To: 12 Sep 2011,Jehovah Witness,FY 2011,8,Moldova,8,384
+From: 12 Sep 2011,To: 12 Sep 2011,Kaaka'i,FY 2011,6,Iraq,6,384
+From: 12 Sep 2011,To: 12 Sep 2011,Kirat,FY 2011,26,Bhutan,26,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem,FY 2011,51,Somalia,47,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem,FY 2011,51,Sudan,4,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem Shiite,FY 2011,11,Iran,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem Shiite,FY 2011,11,Iraq,10,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem Suni,FY 2011,40,Iraq,37,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem Suni,FY 2011,40,Somalia,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Moslem Suni,FY 2011,40,Sudan,2,384
+From: 12 Sep 2011,To: 12 Sep 2011,Orthodox,FY 2011,14,Iraq,14,384
+From: 12 Sep 2011,To: 12 Sep 2011,Pentecostalist,FY 2011,3,Dem. Rep. Congo,1,384
+From: 12 Sep 2011,To: 12 Sep 2011,Pentecostalist,FY 2011,3,Moldova,2,384
+From: 12 Sep 2011,To: 12 Sep 2011,Protestant,FY 2011,2,Dem. Rep. Congo,2,384
+From: 12 Sep 2011,To: 12 Sep 2011,Sabeans-Mandean,FY 2011,4,Iraq,4,384
+

@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Nov 2005,To: 28 Nov 2005,Burma,FY 2006,3,Christian,3,98
+From: 28 Nov 2005,To: 28 Nov 2005,Iran,FY 2006,1,Moslem,1,98
+From: 28 Nov 2005,To: 28 Nov 2005,Russia,FY 2006,35,Moslem,35,98
+From: 28 Nov 2005,To: 28 Nov 2005,Somalia,FY 2006,24,Moslem,24,98
+From: 28 Nov 2005,To: 28 Nov 2005,Vietnam,FY 2006,35,Buddhist,8,98
+From: 28 Nov 2005,To: 28 Nov 2005,Vietnam,FY 2006,35,Cao Dai,1,98
+From: 28 Nov 2005,To: 28 Nov 2005,Vietnam,FY 2006,35,Catholic,15,98
+From: 28 Nov 2005,To: 28 Nov 2005,Vietnam,FY 2006,35,Hoa Hao,5,98
+From: 28 Nov 2005,To: 28 Nov 2005,Vietnam,FY 2006,35,Other Religion,3,98
+From: 28 Nov 2005,To: 28 Nov 2005,Vietnam,FY 2006,35,Protestant,3,98
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Nov 2005,To: 28 Nov 2005,Buddhist,FY 2006,8,Vietnam,8,98
+From: 28 Nov 2005,To: 28 Nov 2005,Cao Dai,FY 2006,1,Vietnam,1,98
+From: 28 Nov 2005,To: 28 Nov 2005,Catholic,FY 2006,15,Vietnam,15,98
+From: 28 Nov 2005,To: 28 Nov 2005,Christian,FY 2006,3,Burma,3,98
+From: 28 Nov 2005,To: 28 Nov 2005,Hoa Hao,FY 2006,5,Vietnam,5,98
+From: 28 Nov 2005,To: 28 Nov 2005,Moslem,FY 2006,60,Iran,1,98
+From: 28 Nov 2005,To: 28 Nov 2005,Moslem,FY 2006,60,Russia,35,98
+From: 28 Nov 2005,To: 28 Nov 2005,Moslem,FY 2006,60,Somalia,24,98
+From: 28 Nov 2005,To: 28 Nov 2005,Other Religion,FY 2006,3,Vietnam,3,98
+From: 28 Nov 2005,To: 28 Nov 2005,Protestant,FY 2006,3,Vietnam,3,98
+

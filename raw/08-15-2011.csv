@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Aug 2011,To: 15 Aug 2011,Bhutan,FY 2011,70,Buddhist,10,133
+From: 15 Aug 2011,To: 15 Aug 2011,Bhutan,FY 2011,70,Christian,9,133
+From: 15 Aug 2011,To: 15 Aug 2011,Bhutan,FY 2011,70,Hindu,37,133
+From: 15 Aug 2011,To: 15 Aug 2011,Bhutan,FY 2011,70,Kirat,14,133
+From: 15 Aug 2011,To: 15 Aug 2011,Burma,FY 2011,29,Buddhist,7,133
+From: 15 Aug 2011,To: 15 Aug 2011,Burma,FY 2011,29,Catholic,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Burma,FY 2011,29,Christian,21,133
+From: 15 Aug 2011,To: 15 Aug 2011,Iraq,FY 2011,16,Catholic,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Iraq,FY 2011,16,Moslem,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Iraq,FY 2011,16,Moslem Shiite,9,133
+From: 15 Aug 2011,To: 15 Aug 2011,Iraq,FY 2011,16,Moslem Suni,5,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moldova,FY 2011,18,Baptist,6,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moldova,FY 2011,18,Jewish,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moldova,FY 2011,18,Pentecostalist,8,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moldova,FY 2011,18,Seventh Day Adventist,3,133
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Aug 2011,To: 15 Aug 2011,Baptist,FY 2011,6,Moldova,6,133
+From: 15 Aug 2011,To: 15 Aug 2011,Buddhist,FY 2011,17,Bhutan,10,133
+From: 15 Aug 2011,To: 15 Aug 2011,Buddhist,FY 2011,17,Burma,7,133
+From: 15 Aug 2011,To: 15 Aug 2011,Catholic,FY 2011,2,Burma,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Catholic,FY 2011,2,Iraq,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Christian,FY 2011,30,Bhutan,9,133
+From: 15 Aug 2011,To: 15 Aug 2011,Christian,FY 2011,30,Burma,21,133
+From: 15 Aug 2011,To: 15 Aug 2011,Hindu,FY 2011,37,Bhutan,37,133
+From: 15 Aug 2011,To: 15 Aug 2011,Jewish,FY 2011,1,Moldova,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Kirat,FY 2011,14,Bhutan,14,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moslem,FY 2011,1,Iraq,1,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moslem Shiite,FY 2011,9,Iraq,9,133
+From: 15 Aug 2011,To: 15 Aug 2011,Moslem Suni,FY 2011,5,Iraq,5,133
+From: 15 Aug 2011,To: 15 Aug 2011,Pentecostalist,FY 2011,8,Moldova,8,133
+From: 15 Aug 2011,To: 15 Aug 2011,Seventh Day Adventist,FY 2011,3,Moldova,3,133
+

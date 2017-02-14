@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Jul 2009,To: 20 Jul 2009,Bhutan,FY 2009,44,Buddhist,10,268
+From: 20 Jul 2009,To: 20 Jul 2009,Bhutan,FY 2009,44,Hindu,34,268
+From: 20 Jul 2009,To: 20 Jul 2009,Burma,FY 2009,61,Christian,61,268
+From: 20 Jul 2009,To: 20 Jul 2009,Colombia,FY 2009,3,Unknown,3,268
+From: 20 Jul 2009,To: 20 Jul 2009,Cuba,FY 2009,2,Catholic,2,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iran,FY 2009,2,Bahai,2,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iraq,FY 2009,154,Catholic,11,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iraq,FY 2009,154,Christian,49,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iraq,FY 2009,154,Moslem,7,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iraq,FY 2009,154,Moslem Shiite,30,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iraq,FY 2009,154,Moslem Suni,56,268
+From: 20 Jul 2009,To: 20 Jul 2009,Iraq,FY 2009,154,Orthodox,1,268
+From: 20 Jul 2009,To: 20 Jul 2009,Somalia,FY 2009,1,Moslem,1,268
+From: 20 Jul 2009,To: 20 Jul 2009,Sudan,FY 2009,1,Moslem Suni,1,268
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Jul 2009,To: 20 Jul 2009,Bahai,FY 2009,2,Iran,2,268
+From: 20 Jul 2009,To: 20 Jul 2009,Buddhist,FY 2009,10,Bhutan,10,268
+From: 20 Jul 2009,To: 20 Jul 2009,Catholic,FY 2009,13,Cuba,2,268
+From: 20 Jul 2009,To: 20 Jul 2009,Catholic,FY 2009,13,Iraq,11,268
+From: 20 Jul 2009,To: 20 Jul 2009,Christian,FY 2009,110,Burma,61,268
+From: 20 Jul 2009,To: 20 Jul 2009,Christian,FY 2009,110,Iraq,49,268
+From: 20 Jul 2009,To: 20 Jul 2009,Hindu,FY 2009,34,Bhutan,34,268
+From: 20 Jul 2009,To: 20 Jul 2009,Moslem,FY 2009,8,Iraq,7,268
+From: 20 Jul 2009,To: 20 Jul 2009,Moslem,FY 2009,8,Somalia,1,268
+From: 20 Jul 2009,To: 20 Jul 2009,Moslem Shiite,FY 2009,30,Iraq,30,268
+From: 20 Jul 2009,To: 20 Jul 2009,Moslem Suni,FY 2009,57,Iraq,56,268
+From: 20 Jul 2009,To: 20 Jul 2009,Moslem Suni,FY 2009,57,Sudan,1,268
+From: 20 Jul 2009,To: 20 Jul 2009,Orthodox,FY 2009,1,Iraq,1,268
+From: 20 Jul 2009,To: 20 Jul 2009,Unknown,FY 2009,3,Colombia,3,268
+

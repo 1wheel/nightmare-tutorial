@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 May 2004,To: 24 May 2004,Afghanistan,FY 2004,35,Moslem,6,213
+From: 24 May 2004,To: 24 May 2004,Afghanistan,FY 2004,35,Moslem Shiite,6,213
+From: 24 May 2004,To: 24 May 2004,Afghanistan,FY 2004,35,Moslem Suni,23,213
+From: 24 May 2004,To: 24 May 2004,Belarus,FY 2004,26,Baptist,10,213
+From: 24 May 2004,To: 24 May 2004,Belarus,FY 2004,26,Pentecostalist,16,213
+From: 24 May 2004,To: 24 May 2004,Burma,FY 2004,35,Buddhist,2,213
+From: 24 May 2004,To: 24 May 2004,Burma,FY 2004,35,Catholic,4,213
+From: 24 May 2004,To: 24 May 2004,Burma,FY 2004,35,Protestant,29,213
+From: 24 May 2004,To: 24 May 2004,Burundi,FY 2004,6,Methodist,6,213
+From: 24 May 2004,To: 24 May 2004,Dem. Rep. Congo,FY 2004,11,Christian,11,213
+From: 24 May 2004,To: 24 May 2004,Kazakhstan,FY 2004,6,Baptist,6,213
+From: 24 May 2004,To: 24 May 2004,Moldova,FY 2004,35,Baptist,17,213
+From: 24 May 2004,To: 24 May 2004,Moldova,FY 2004,35,Pentecostalist,18,213
+From: 24 May 2004,To: 24 May 2004,Somalia,FY 2004,49,Moslem,49,213
+From: 24 May 2004,To: 24 May 2004,Ukraine,FY 2004,10,Pentecostalist,3,213
+From: 24 May 2004,To: 24 May 2004,Ukraine,FY 2004,10,Seventh Day Adventist,7,213
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 May 2004,To: 24 May 2004,Baptist,FY 2004,33,Belarus,10,213
+From: 24 May 2004,To: 24 May 2004,Baptist,FY 2004,33,Kazakhstan,6,213
+From: 24 May 2004,To: 24 May 2004,Baptist,FY 2004,33,Moldova,17,213
+From: 24 May 2004,To: 24 May 2004,Buddhist,FY 2004,2,Burma,2,213
+From: 24 May 2004,To: 24 May 2004,Catholic,FY 2004,4,Burma,4,213
+From: 24 May 2004,To: 24 May 2004,Christian,FY 2004,11,Dem. Rep. Congo,11,213
+From: 24 May 2004,To: 24 May 2004,Methodist,FY 2004,6,Burundi,6,213
+From: 24 May 2004,To: 24 May 2004,Moslem,FY 2004,55,Afghanistan,6,213
+From: 24 May 2004,To: 24 May 2004,Moslem,FY 2004,55,Somalia,49,213
+From: 24 May 2004,To: 24 May 2004,Moslem Shiite,FY 2004,6,Afghanistan,6,213
+From: 24 May 2004,To: 24 May 2004,Moslem Suni,FY 2004,23,Afghanistan,23,213
+From: 24 May 2004,To: 24 May 2004,Pentecostalist,FY 2004,37,Belarus,16,213
+From: 24 May 2004,To: 24 May 2004,Pentecostalist,FY 2004,37,Moldova,18,213
+From: 24 May 2004,To: 24 May 2004,Pentecostalist,FY 2004,37,Ukraine,3,213
+From: 24 May 2004,To: 24 May 2004,Protestant,FY 2004,29,Burma,29,213
+From: 24 May 2004,To: 24 May 2004,Seventh Day Adventist,FY 2004,7,Ukraine,7,213
+

@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Nov 2011,To: 15 Nov 2011,Afghanistan,FY 2012,6,Moslem Suni,6,194
+From: 15 Nov 2011,To: 15 Nov 2011,Belarus,FY 2012,9,Jewish,3,194
+From: 15 Nov 2011,To: 15 Nov 2011,Belarus,FY 2012,9,Pentecostalist,6,194
+From: 15 Nov 2011,To: 15 Nov 2011,Bhutan,FY 2012,35,Buddhist,12,194
+From: 15 Nov 2011,To: 15 Nov 2011,Bhutan,FY 2012,35,Hindu,16,194
+From: 15 Nov 2011,To: 15 Nov 2011,Bhutan,FY 2012,35,Kirat,7,194
+From: 15 Nov 2011,To: 15 Nov 2011,Burma,FY 2012,63,Buddhist,16,194
+From: 15 Nov 2011,To: 15 Nov 2011,Burma,FY 2012,63,Catholic,8,194
+From: 15 Nov 2011,To: 15 Nov 2011,Burma,FY 2012,63,Christian,39,194
+From: 15 Nov 2011,To: 15 Nov 2011,Eritrea,FY 2012,5,Orthodox,5,194
+From: 15 Nov 2011,To: 15 Nov 2011,Iran,FY 2012,1,Christian,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Russia,FY 2012,2,Jewish,2,194
+From: 15 Nov 2011,To: 15 Nov 2011,Rwanda,FY 2012,2,Christian,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Rwanda,FY 2012,2,Moslem,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Saudi Arabia,FY 2012,1,Moslem Suni,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Somalia,FY 2012,56,Moslem,56,194
+From: 15 Nov 2011,To: 15 Nov 2011,Sudan,FY 2012,14,Moslem,14,194
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Nov 2011,To: 15 Nov 2011,Buddhist,FY 2012,28,Bhutan,12,194
+From: 15 Nov 2011,To: 15 Nov 2011,Buddhist,FY 2012,28,Burma,16,194
+From: 15 Nov 2011,To: 15 Nov 2011,Catholic,FY 2012,8,Burma,8,194
+From: 15 Nov 2011,To: 15 Nov 2011,Christian,FY 2012,41,Burma,39,194
+From: 15 Nov 2011,To: 15 Nov 2011,Christian,FY 2012,41,Iran,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Christian,FY 2012,41,Rwanda,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Hindu,FY 2012,16,Bhutan,16,194
+From: 15 Nov 2011,To: 15 Nov 2011,Jewish,FY 2012,5,Belarus,3,194
+From: 15 Nov 2011,To: 15 Nov 2011,Jewish,FY 2012,5,Russia,2,194
+From: 15 Nov 2011,To: 15 Nov 2011,Kirat,FY 2012,7,Bhutan,7,194
+From: 15 Nov 2011,To: 15 Nov 2011,Moslem,FY 2012,71,Rwanda,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Moslem,FY 2012,71,Somalia,56,194
+From: 15 Nov 2011,To: 15 Nov 2011,Moslem,FY 2012,71,Sudan,14,194
+From: 15 Nov 2011,To: 15 Nov 2011,Moslem Suni,FY 2012,7,Afghanistan,6,194
+From: 15 Nov 2011,To: 15 Nov 2011,Moslem Suni,FY 2012,7,Saudi Arabia,1,194
+From: 15 Nov 2011,To: 15 Nov 2011,Orthodox,FY 2012,5,Eritrea,5,194
+From: 15 Nov 2011,To: 15 Nov 2011,Pentecostalist,FY 2012,6,Belarus,6,194
+

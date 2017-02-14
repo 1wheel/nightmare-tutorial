@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Dec 2005,To: 15 Dec 2005,Afghanistan,FY 2006,6,Moslem Suni,5,300
+From: 15 Dec 2005,To: 15 Dec 2005,Afghanistan,FY 2006,6,Protestant,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Cuba,FY 2006,21,Catholic,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Cuba,FY 2006,21,Evangelical Christian,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Cuba,FY 2006,21,Jehovah Witness,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Cuba,FY 2006,21,No Religion,11,300
+From: 15 Dec 2005,To: 15 Dec 2005,Eritrea,FY 2006,26,Catholic,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Eritrea,FY 2006,26,Christian,3,300
+From: 15 Dec 2005,To: 15 Dec 2005,Eritrea,FY 2006,26,Moslem,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Eritrea,FY 2006,26,Orthodox,15,300
+From: 15 Dec 2005,To: 15 Dec 2005,Eritrea,FY 2006,26,Pentecostalist,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Eritrea,FY 2006,26,Protestant,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Ethiopia,FY 2006,16,Christian,3,300
+From: 15 Dec 2005,To: 15 Dec 2005,Ethiopia,FY 2006,16,Moslem,12,300
+From: 15 Dec 2005,To: 15 Dec 2005,Ethiopia,FY 2006,16,Orthodox,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Liberia,FY 2006,1,Christian,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Nepal,FY 2006,1,Hindu,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Russia,FY 2006,42,Baptist,9,300
+From: 15 Dec 2005,To: 15 Dec 2005,Russia,FY 2006,42,Jewish,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Russia,FY 2006,42,Moslem,22,300
+From: 15 Dec 2005,To: 15 Dec 2005,Russia,FY 2006,42,No Religion,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Russia,FY 2006,42,Pentecostalist,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Russia,FY 2006,42,Seventh Day Adventist,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Rwanda,FY 2006,8,Christian,7,300
+From: 15 Dec 2005,To: 15 Dec 2005,Rwanda,FY 2006,8,Unknown,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Sierra Leone,FY 2006,2,Moslem,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Somalia,FY 2006,92,Moslem,92,300
+From: 15 Dec 2005,To: 15 Dec 2005,Sudan,FY 2006,4,Catholic,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Sudan,FY 2006,4,Christian,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Vietnam,FY 2006,81,Ancestral Worship,5,300
+From: 15 Dec 2005,To: 15 Dec 2005,Vietnam,FY 2006,81,Buddhist,25,300
+From: 15 Dec 2005,To: 15 Dec 2005,Vietnam,FY 2006,81,Catholic,31,300
+From: 15 Dec 2005,To: 15 Dec 2005,Vietnam,FY 2006,81,No Religion,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Vietnam,FY 2006,81,Protestant,16,300
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Dec 2005,To: 15 Dec 2005,Ancestral Worship,FY 2006,5,Vietnam,5,300
+From: 15 Dec 2005,To: 15 Dec 2005,Baptist,FY 2006,9,Russia,9,300
+From: 15 Dec 2005,To: 15 Dec 2005,Buddhist,FY 2006,25,Vietnam,25,300
+From: 15 Dec 2005,To: 15 Dec 2005,Catholic,FY 2006,39,Cuba,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Catholic,FY 2006,39,Eritrea,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Catholic,FY 2006,39,Sudan,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Catholic,FY 2006,39,Vietnam,31,300
+From: 15 Dec 2005,To: 15 Dec 2005,Christian,FY 2006,16,Eritrea,3,300
+From: 15 Dec 2005,To: 15 Dec 2005,Christian,FY 2006,16,Ethiopia,3,300
+From: 15 Dec 2005,To: 15 Dec 2005,Christian,FY 2006,16,Liberia,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Christian,FY 2006,16,Rwanda,7,300
+From: 15 Dec 2005,To: 15 Dec 2005,Christian,FY 2006,16,Sudan,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Evangelical Christian,FY 2006,2,Cuba,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Hindu,FY 2006,1,Nepal,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Jehovah Witness,FY 2006,4,Cuba,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Jewish,FY 2006,4,Russia,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Moslem,FY 2006,129,Eritrea,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Moslem,FY 2006,129,Ethiopia,12,300
+From: 15 Dec 2005,To: 15 Dec 2005,Moslem,FY 2006,129,Russia,22,300
+From: 15 Dec 2005,To: 15 Dec 2005,Moslem,FY 2006,129,Sierra Leone,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,Moslem,FY 2006,129,Somalia,92,300
+From: 15 Dec 2005,To: 15 Dec 2005,Moslem Suni,FY 2006,5,Afghanistan,5,300
+From: 15 Dec 2005,To: 15 Dec 2005,No Religion,FY 2006,17,Cuba,11,300
+From: 15 Dec 2005,To: 15 Dec 2005,No Religion,FY 2006,17,Russia,2,300
+From: 15 Dec 2005,To: 15 Dec 2005,No Religion,FY 2006,17,Vietnam,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Orthodox,FY 2006,16,Eritrea,15,300
+From: 15 Dec 2005,To: 15 Dec 2005,Orthodox,FY 2006,16,Ethiopia,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Pentecostalist,FY 2006,2,Eritrea,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Pentecostalist,FY 2006,2,Russia,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Protestant,FY 2006,21,Afghanistan,1,300
+From: 15 Dec 2005,To: 15 Dec 2005,Protestant,FY 2006,21,Eritrea,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Protestant,FY 2006,21,Vietnam,16,300
+From: 15 Dec 2005,To: 15 Dec 2005,Seventh Day Adventist,FY 2006,4,Russia,4,300
+From: 15 Dec 2005,To: 15 Dec 2005,Unknown,FY 2006,1,Rwanda,1,300
+

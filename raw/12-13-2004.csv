@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Dec 2004,To: 13 Dec 2004,Afghanistan,FY 2005,2,Moslem Suni,2,183
+From: 13 Dec 2004,To: 13 Dec 2004,Iran,FY 2005,1,Unknown,1,183
+From: 13 Dec 2004,To: 13 Dec 2004,Laos,FY 2005,100,Ancestral Worship,84,183
+From: 13 Dec 2004,To: 13 Dec 2004,Laos,FY 2005,100,Christian,16,183
+From: 13 Dec 2004,To: 13 Dec 2004,Moldova,FY 2005,35,Baptist,12,183
+From: 13 Dec 2004,To: 13 Dec 2004,Moldova,FY 2005,35,Pentecostalist,23,183
+From: 13 Dec 2004,To: 13 Dec 2004,Somalia,FY 2005,35,Moslem,35,183
+From: 13 Dec 2004,To: 13 Dec 2004,Ukraine,FY 2005,10,Baptist,10,183
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Dec 2004,To: 13 Dec 2004,Ancestral Worship,FY 2005,84,Laos,84,183
+From: 13 Dec 2004,To: 13 Dec 2004,Baptist,FY 2005,22,Moldova,12,183
+From: 13 Dec 2004,To: 13 Dec 2004,Baptist,FY 2005,22,Ukraine,10,183
+From: 13 Dec 2004,To: 13 Dec 2004,Christian,FY 2005,16,Laos,16,183
+From: 13 Dec 2004,To: 13 Dec 2004,Moslem,FY 2005,35,Somalia,35,183
+From: 13 Dec 2004,To: 13 Dec 2004,Moslem Suni,FY 2005,2,Afghanistan,2,183
+From: 13 Dec 2004,To: 13 Dec 2004,Pentecostalist,FY 2005,23,Moldova,23,183
+From: 13 Dec 2004,To: 13 Dec 2004,Unknown,FY 2005,1,Iran,1,183
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Aug 2009,To: 11 Aug 2009,Bhutan,FY 2009,68,Buddhist,11,359
+From: 11 Aug 2009,To: 11 Aug 2009,Bhutan,FY 2009,68,Christian,3,359
+From: 11 Aug 2009,To: 11 Aug 2009,Bhutan,FY 2009,68,Hindu,50,359
+From: 11 Aug 2009,To: 11 Aug 2009,Bhutan,FY 2009,68,Kirat,4,359
+From: 11 Aug 2009,To: 11 Aug 2009,Burma,FY 2009,86,Animist,16,359
+From: 11 Aug 2009,To: 11 Aug 2009,Burma,FY 2009,86,Catholic,11,359
+From: 11 Aug 2009,To: 11 Aug 2009,Burma,FY 2009,86,Christian,57,359
+From: 11 Aug 2009,To: 11 Aug 2009,Burma,FY 2009,86,Moslem,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Catholic,14,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Evangelical Christian,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Jehovah Witness,25,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Methodist,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,No Religion,12,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Pentecostalist,9,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Protestant,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Cuba,FY 2009,69,Seventh Day Adventist,4,359
+From: 11 Aug 2009,To: 11 Aug 2009,Dem. Rep. Congo,FY 2009,19,Pentecostalist,10,359
+From: 11 Aug 2009,To: 11 Aug 2009,Dem. Rep. Congo,FY 2009,19,Protestant,9,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iran,FY 2009,64,Bahai,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iran,FY 2009,64,Christian,60,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iran,FY 2009,64,Jewish,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iran,FY 2009,64,Zoroastrian,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iraq,FY 2009,52,Atheist,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iraq,FY 2009,52,Catholic,11,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iraq,FY 2009,52,Christian,19,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iraq,FY 2009,52,Moslem,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iraq,FY 2009,52,Moslem Shiite,7,359
+From: 11 Aug 2009,To: 11 Aug 2009,Iraq,FY 2009,52,Moslem Suni,13,359
+From: 11 Aug 2009,To: 11 Aug 2009,Pakistan,FY 2009,1,Other Religion,1,359
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Aug 2009,To: 11 Aug 2009,Animist,FY 2009,16,Burma,16,359
+From: 11 Aug 2009,To: 11 Aug 2009,Atheist,FY 2009,1,Iraq,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Bahai,FY 2009,1,Iran,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Buddhist,FY 2009,11,Bhutan,11,359
+From: 11 Aug 2009,To: 11 Aug 2009,Catholic,FY 2009,36,Burma,11,359
+From: 11 Aug 2009,To: 11 Aug 2009,Catholic,FY 2009,36,Cuba,14,359
+From: 11 Aug 2009,To: 11 Aug 2009,Catholic,FY 2009,36,Iraq,11,359
+From: 11 Aug 2009,To: 11 Aug 2009,Christian,FY 2009,139,Bhutan,3,359
+From: 11 Aug 2009,To: 11 Aug 2009,Christian,FY 2009,139,Burma,57,359
+From: 11 Aug 2009,To: 11 Aug 2009,Christian,FY 2009,139,Iran,60,359
+From: 11 Aug 2009,To: 11 Aug 2009,Christian,FY 2009,139,Iraq,19,359
+From: 11 Aug 2009,To: 11 Aug 2009,Evangelical Christian,FY 2009,2,Cuba,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Hindu,FY 2009,50,Bhutan,50,359
+From: 11 Aug 2009,To: 11 Aug 2009,Jehovah Witness,FY 2009,25,Cuba,25,359
+From: 11 Aug 2009,To: 11 Aug 2009,Jewish,FY 2009,1,Iran,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Kirat,FY 2009,4,Bhutan,4,359
+From: 11 Aug 2009,To: 11 Aug 2009,Methodist,FY 2009,2,Cuba,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Moslem,FY 2009,3,Burma,2,359
+From: 11 Aug 2009,To: 11 Aug 2009,Moslem,FY 2009,3,Iraq,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Moslem Shiite,FY 2009,7,Iraq,7,359
+From: 11 Aug 2009,To: 11 Aug 2009,Moslem Suni,FY 2009,13,Iraq,13,359
+From: 11 Aug 2009,To: 11 Aug 2009,No Religion,FY 2009,12,Cuba,12,359
+From: 11 Aug 2009,To: 11 Aug 2009,Other Religion,FY 2009,1,Pakistan,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Pentecostalist,FY 2009,19,Cuba,9,359
+From: 11 Aug 2009,To: 11 Aug 2009,Pentecostalist,FY 2009,19,Dem. Rep. Congo,10,359
+From: 11 Aug 2009,To: 11 Aug 2009,Protestant,FY 2009,10,Cuba,1,359
+From: 11 Aug 2009,To: 11 Aug 2009,Protestant,FY 2009,10,Dem. Rep. Congo,9,359
+From: 11 Aug 2009,To: 11 Aug 2009,Seventh Day Adventist,FY 2009,4,Cuba,4,359
+From: 11 Aug 2009,To: 11 Aug 2009,Zoroastrian,FY 2009,2,Iran,2,359
+

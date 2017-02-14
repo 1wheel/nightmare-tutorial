@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Oct 2004,To: 12 Oct 2004,Ethiopia,FY 2005,4,Moslem,4,80
+From: 12 Oct 2004,To: 12 Oct 2004,Laos,FY 2005,10,Ancestral Worship,2,80
+From: 12 Oct 2004,To: 12 Oct 2004,Laos,FY 2005,10,Christian,8,80
+From: 12 Oct 2004,To: 12 Oct 2004,Somalia,FY 2005,62,Moslem,62,80
+From: 12 Oct 2004,To: 12 Oct 2004,Sudan,FY 2005,4,Catholic,1,80
+From: 12 Oct 2004,To: 12 Oct 2004,Sudan,FY 2005,4,Christian,3,80
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Oct 2004,To: 12 Oct 2004,Ancestral Worship,FY 2005,2,Laos,2,80
+From: 12 Oct 2004,To: 12 Oct 2004,Catholic,FY 2005,1,Sudan,1,80
+From: 12 Oct 2004,To: 12 Oct 2004,Christian,FY 2005,11,Laos,8,80
+From: 12 Oct 2004,To: 12 Oct 2004,Christian,FY 2005,11,Sudan,3,80
+From: 12 Oct 2004,To: 12 Oct 2004,Moslem,FY 2005,66,Ethiopia,4,80
+From: 12 Oct 2004,To: 12 Oct 2004,Moslem,FY 2005,66,Somalia,62,80
+

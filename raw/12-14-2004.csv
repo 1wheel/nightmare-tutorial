@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Dec 2004,To: 14 Dec 2004,Afghanistan,FY 2005,30,Moslem,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Afghanistan,FY 2005,30,Moslem Shiite,9,492
+From: 14 Dec 2004,To: 14 Dec 2004,Afghanistan,FY 2005,30,Moslem Suni,20,492
+From: 14 Dec 2004,To: 14 Dec 2004,Belarus,FY 2005,16,No Religion,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Belarus,FY 2005,16,Pentecostalist,15,492
+From: 14 Dec 2004,To: 14 Dec 2004,Burundi,FY 2005,33,Catholic,28,492
+From: 14 Dec 2004,To: 14 Dec 2004,Burundi,FY 2005,33,Christian,5,492
+From: 14 Dec 2004,To: 14 Dec 2004,China,FY 2005,2,Buddhist,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,China,FY 2005,2,Unknown,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Cuba,FY 2005,70,Catholic,30,492
+From: 14 Dec 2004,To: 14 Dec 2004,Cuba,FY 2005,70,Jehovah Witness,4,492
+From: 14 Dec 2004,To: 14 Dec 2004,Cuba,FY 2005,70,No Religion,35,492
+From: 14 Dec 2004,To: 14 Dec 2004,Cuba,FY 2005,70,Seventh Day Adventist,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Dem. Rep. Congo,FY 2005,9,Pentecostalist,9,492
+From: 14 Dec 2004,To: 14 Dec 2004,Iran,FY 2005,39,Baptist,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Iran,FY 2005,39,Christian,35,492
+From: 14 Dec 2004,To: 14 Dec 2004,Iran,FY 2005,39,Jewish,2,492
+From: 14 Dec 2004,To: 14 Dec 2004,Iran,FY 2005,39,Zoroastrian,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Laos,FY 2005,138,Ancestral Worship,138,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Baptist,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Catholic,12,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Christian,26,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Evangelical Christian,6,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Lutheran,7,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Moslem,3,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Pentecostalist,20,492
+From: 14 Dec 2004,To: 14 Dec 2004,Liberia,FY 2005,76,Protestant,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Russia,FY 2005,4,Baptist,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Russia,FY 2005,4,Pentecostalist,3,492
+From: 14 Dec 2004,To: 14 Dec 2004,Somalia,FY 2005,73,Moslem,69,492
+From: 14 Dec 2004,To: 14 Dec 2004,Somalia,FY 2005,73,Moslem Suni,4,492
+From: 14 Dec 2004,To: 14 Dec 2004,Sudan,FY 2005,1,Christian,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Ukraine,FY 2005,1,Pentecostalist,1,492
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Dec 2004,To: 14 Dec 2004,Ancestral Worship,FY 2005,138,Laos,138,492
+From: 14 Dec 2004,To: 14 Dec 2004,Baptist,FY 2005,3,Iran,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Baptist,FY 2005,3,Liberia,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Baptist,FY 2005,3,Russia,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Buddhist,FY 2005,1,China,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Catholic,FY 2005,70,Burundi,28,492
+From: 14 Dec 2004,To: 14 Dec 2004,Catholic,FY 2005,70,Cuba,30,492
+From: 14 Dec 2004,To: 14 Dec 2004,Catholic,FY 2005,70,Liberia,12,492
+From: 14 Dec 2004,To: 14 Dec 2004,Christian,FY 2005,67,Burundi,5,492
+From: 14 Dec 2004,To: 14 Dec 2004,Christian,FY 2005,67,Iran,35,492
+From: 14 Dec 2004,To: 14 Dec 2004,Christian,FY 2005,67,Liberia,26,492
+From: 14 Dec 2004,To: 14 Dec 2004,Christian,FY 2005,67,Sudan,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Evangelical Christian,FY 2005,6,Liberia,6,492
+From: 14 Dec 2004,To: 14 Dec 2004,Jehovah Witness,FY 2005,4,Cuba,4,492
+From: 14 Dec 2004,To: 14 Dec 2004,Jewish,FY 2005,2,Iran,2,492
+From: 14 Dec 2004,To: 14 Dec 2004,Lutheran,FY 2005,7,Liberia,7,492
+From: 14 Dec 2004,To: 14 Dec 2004,Moslem,FY 2005,73,Afghanistan,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Moslem,FY 2005,73,Liberia,3,492
+From: 14 Dec 2004,To: 14 Dec 2004,Moslem,FY 2005,73,Somalia,69,492
+From: 14 Dec 2004,To: 14 Dec 2004,Moslem Shiite,FY 2005,9,Afghanistan,9,492
+From: 14 Dec 2004,To: 14 Dec 2004,Moslem Suni,FY 2005,24,Afghanistan,20,492
+From: 14 Dec 2004,To: 14 Dec 2004,Moslem Suni,FY 2005,24,Somalia,4,492
+From: 14 Dec 2004,To: 14 Dec 2004,No Religion,FY 2005,36,Belarus,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,No Religion,FY 2005,36,Cuba,35,492
+From: 14 Dec 2004,To: 14 Dec 2004,Pentecostalist,FY 2005,48,Belarus,15,492
+From: 14 Dec 2004,To: 14 Dec 2004,Pentecostalist,FY 2005,48,Dem. Rep. Congo,9,492
+From: 14 Dec 2004,To: 14 Dec 2004,Pentecostalist,FY 2005,48,Liberia,20,492
+From: 14 Dec 2004,To: 14 Dec 2004,Pentecostalist,FY 2005,48,Russia,3,492
+From: 14 Dec 2004,To: 14 Dec 2004,Pentecostalist,FY 2005,48,Ukraine,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Protestant,FY 2005,1,Liberia,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Seventh Day Adventist,FY 2005,1,Cuba,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Unknown,FY 2005,1,China,1,492
+From: 14 Dec 2004,To: 14 Dec 2004,Zoroastrian,FY 2005,1,Iran,1,492
+

@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Sep 2006,To: 21 Sep 2006,Colombia,FY 2006,1,Catholic,1,279
+From: 21 Sep 2006,To: 21 Sep 2006,Cuba,FY 2006,70,Baptist,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Cuba,FY 2006,70,Catholic,30,279
+From: 21 Sep 2006,To: 21 Sep 2006,Cuba,FY 2006,70,Jehovah Witness,6,279
+From: 21 Sep 2006,To: 21 Sep 2006,Cuba,FY 2006,70,Methodist,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Cuba,FY 2006,70,No Religion,26,279
+From: 21 Sep 2006,To: 21 Sep 2006,Cuba,FY 2006,70,Pentecostalist,2,279
+From: 21 Sep 2006,To: 21 Sep 2006,Dem. Rep. Congo,FY 2006,3,Protestant,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Ethiopia,FY 2006,36,Christian,10,279
+From: 21 Sep 2006,To: 21 Sep 2006,Ethiopia,FY 2006,36,Moslem,22,279
+From: 21 Sep 2006,To: 21 Sep 2006,Ethiopia,FY 2006,36,Orthodox,4,279
+From: 21 Sep 2006,To: 21 Sep 2006,Iran,FY 2006,18,Christian,15,279
+From: 21 Sep 2006,To: 21 Sep 2006,Iran,FY 2006,18,Moslem,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Liberia,FY 2006,9,Christian,9,279
+From: 21 Sep 2006,To: 21 Sep 2006,Mauritania,FY 2006,9,Moslem,9,279
+From: 21 Sep 2006,To: 21 Sep 2006,Russia,FY 2006,13,Moslem,13,279
+From: 21 Sep 2006,To: 21 Sep 2006,Sierra Leone,FY 2006,6,Christian,6,279
+From: 21 Sep 2006,To: 21 Sep 2006,Somalia,FY 2006,110,Moslem,110,279
+From: 21 Sep 2006,To: 21 Sep 2006,Sudan,FY 2006,4,Christian,4,279
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Sep 2006,To: 21 Sep 2006,Baptist,FY 2006,3,Cuba,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Catholic,FY 2006,31,Colombia,1,279
+From: 21 Sep 2006,To: 21 Sep 2006,Catholic,FY 2006,31,Cuba,30,279
+From: 21 Sep 2006,To: 21 Sep 2006,Christian,FY 2006,44,Ethiopia,10,279
+From: 21 Sep 2006,To: 21 Sep 2006,Christian,FY 2006,44,Iran,15,279
+From: 21 Sep 2006,To: 21 Sep 2006,Christian,FY 2006,44,Liberia,9,279
+From: 21 Sep 2006,To: 21 Sep 2006,Christian,FY 2006,44,Sierra Leone,6,279
+From: 21 Sep 2006,To: 21 Sep 2006,Christian,FY 2006,44,Sudan,4,279
+From: 21 Sep 2006,To: 21 Sep 2006,Jehovah Witness,FY 2006,6,Cuba,6,279
+From: 21 Sep 2006,To: 21 Sep 2006,Methodist,FY 2006,3,Cuba,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Moslem,FY 2006,157,Ethiopia,22,279
+From: 21 Sep 2006,To: 21 Sep 2006,Moslem,FY 2006,157,Iran,3,279
+From: 21 Sep 2006,To: 21 Sep 2006,Moslem,FY 2006,157,Mauritania,9,279
+From: 21 Sep 2006,To: 21 Sep 2006,Moslem,FY 2006,157,Russia,13,279
+From: 21 Sep 2006,To: 21 Sep 2006,Moslem,FY 2006,157,Somalia,110,279
+From: 21 Sep 2006,To: 21 Sep 2006,No Religion,FY 2006,26,Cuba,26,279
+From: 21 Sep 2006,To: 21 Sep 2006,Orthodox,FY 2006,4,Ethiopia,4,279
+From: 21 Sep 2006,To: 21 Sep 2006,Pentecostalist,FY 2006,2,Cuba,2,279
+From: 21 Sep 2006,To: 21 Sep 2006,Protestant,FY 2006,3,Dem. Rep. Congo,3,279
+

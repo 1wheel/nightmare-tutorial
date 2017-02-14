@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Apr 2012,To: 18 Apr 2012,Belarus,FY 2012,2,Baptist,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Belarus,FY 2012,2,Pentecostalist,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Bhutan,FY 2012,102,Buddhist,14,343
+From: 18 Apr 2012,To: 18 Apr 2012,Bhutan,FY 2012,102,Christian,16,343
+From: 18 Apr 2012,To: 18 Apr 2012,Bhutan,FY 2012,102,Hindu,66,343
+From: 18 Apr 2012,To: 18 Apr 2012,Bhutan,FY 2012,102,Kirat,6,343
+From: 18 Apr 2012,To: 18 Apr 2012,Burma,FY 2012,64,Baptist,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Burma,FY 2012,64,Buddhist,5,343
+From: 18 Apr 2012,To: 18 Apr 2012,Burma,FY 2012,64,Christian,55,343
+From: 18 Apr 2012,To: 18 Apr 2012,Eritrea,FY 2012,10,Catholic,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Eritrea,FY 2012,10,Moslem,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Eritrea,FY 2012,10,Orthodox,7,343
+From: 18 Apr 2012,To: 18 Apr 2012,Eritrea,FY 2012,10,Protestant,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Ethiopia,FY 2012,6,Christian,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Ethiopia,FY 2012,6,Moslem,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Ethiopia,FY 2012,6,Orthodox,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iran,FY 2012,3,Moslem,3,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iraq,FY 2012,117,Catholic,6,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iraq,FY 2012,117,Christian,34,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iraq,FY 2012,117,Moslem Shiite,26,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iraq,FY 2012,117,Moslem Suni,43,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iraq,FY 2012,117,Orthodox,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Iraq,FY 2012,117,Yazidi,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Rwanda,FY 2012,4,Christian,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Somalia,FY 2012,31,Moslem,31,343
+From: 18 Apr 2012,To: 18 Apr 2012,Sudan,FY 2012,4,Moslem,3,343
+From: 18 Apr 2012,To: 18 Apr 2012,Sudan,FY 2012,4,Moslem Suni,1,343
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Apr 2012,To: 18 Apr 2012,Baptist,FY 2012,5,Belarus,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Baptist,FY 2012,5,Burma,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Buddhist,FY 2012,19,Bhutan,14,343
+From: 18 Apr 2012,To: 18 Apr 2012,Buddhist,FY 2012,19,Burma,5,343
+From: 18 Apr 2012,To: 18 Apr 2012,Catholic,FY 2012,7,Eritrea,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Catholic,FY 2012,7,Iraq,6,343
+From: 18 Apr 2012,To: 18 Apr 2012,Christian,FY 2012,110,Bhutan,16,343
+From: 18 Apr 2012,To: 18 Apr 2012,Christian,FY 2012,110,Burma,55,343
+From: 18 Apr 2012,To: 18 Apr 2012,Christian,FY 2012,110,Ethiopia,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Christian,FY 2012,110,Iraq,34,343
+From: 18 Apr 2012,To: 18 Apr 2012,Christian,FY 2012,110,Rwanda,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Hindu,FY 2012,66,Bhutan,66,343
+From: 18 Apr 2012,To: 18 Apr 2012,Kirat,FY 2012,6,Bhutan,6,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem,FY 2012,42,Eritrea,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem,FY 2012,42,Ethiopia,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem,FY 2012,42,Iran,3,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem,FY 2012,42,Somalia,31,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem,FY 2012,42,Sudan,3,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem Shiite,FY 2012,26,Iraq,26,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem Suni,FY 2012,44,Iraq,43,343
+From: 18 Apr 2012,To: 18 Apr 2012,Moslem Suni,FY 2012,44,Sudan,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Orthodox,FY 2012,12,Eritrea,7,343
+From: 18 Apr 2012,To: 18 Apr 2012,Orthodox,FY 2012,12,Ethiopia,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Orthodox,FY 2012,12,Iraq,4,343
+From: 18 Apr 2012,To: 18 Apr 2012,Pentecostalist,FY 2012,1,Belarus,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Protestant,FY 2012,1,Eritrea,1,343
+From: 18 Apr 2012,To: 18 Apr 2012,Yazidi,FY 2012,4,Iraq,4,343
+

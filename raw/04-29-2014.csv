@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Apr 2014,To: 29 Apr 2014,Afghanistan,FY 2014,7,Moslem Suni,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,Bhutan,FY 2014,97,Buddhist,21,414
+From: 29 Apr 2014,To: 29 Apr 2014,Bhutan,FY 2014,97,Christian,12,414
+From: 29 Apr 2014,To: 29 Apr 2014,Bhutan,FY 2014,97,Hindu,54,414
+From: 29 Apr 2014,To: 29 Apr 2014,Bhutan,FY 2014,97,Kirat,10,414
+From: 29 Apr 2014,To: 29 Apr 2014,Burma,FY 2014,84,Baptist,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,Burma,FY 2014,84,Buddhist,24,414
+From: 29 Apr 2014,To: 29 Apr 2014,Burma,FY 2014,84,Catholic,2,414
+From: 29 Apr 2014,To: 29 Apr 2014,Burma,FY 2014,84,Christian,34,414
+From: 29 Apr 2014,To: 29 Apr 2014,Burma,FY 2014,84,Moslem,17,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Baptist,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Catholic,24,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Christian,3,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Jehovah Witness,14,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Jewish,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,No Religion,14,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Pentecostalist,2,414
+From: 29 Apr 2014,To: 29 Apr 2014,Cuba,FY 2014,61,Seventh Day Adventist,2,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Baptist,3,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Catholic,5,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Christian,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Jehovah Witness,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Pentecostalist,5,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Protestant,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Dem. Rep. Congo,FY 2014,51,Seventh Day Adventist,35,414
+From: 29 Apr 2014,To: 29 Apr 2014,Eritrea,FY 2014,5,Pentecostalist,5,414
+From: 29 Apr 2014,To: 29 Apr 2014,Iraq,FY 2014,7,Moslem Suni,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,Pakistan,FY 2014,8,Ahmadiyya,8,414
+From: 29 Apr 2014,To: 29 Apr 2014,Somalia,FY 2014,87,Moslem,87,414
+From: 29 Apr 2014,To: 29 Apr 2014,Sudan,FY 2014,7,Moslem,7,414
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Apr 2014,To: 29 Apr 2014,Ahmadiyya,FY 2014,8,Pakistan,8,414
+From: 29 Apr 2014,To: 29 Apr 2014,Baptist,FY 2014,11,Burma,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,Baptist,FY 2014,11,Cuba,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Baptist,FY 2014,11,Dem. Rep. Congo,3,414
+From: 29 Apr 2014,To: 29 Apr 2014,Buddhist,FY 2014,45,Bhutan,21,414
+From: 29 Apr 2014,To: 29 Apr 2014,Buddhist,FY 2014,45,Burma,24,414
+From: 29 Apr 2014,To: 29 Apr 2014,Catholic,FY 2014,31,Burma,2,414
+From: 29 Apr 2014,To: 29 Apr 2014,Catholic,FY 2014,31,Cuba,24,414
+From: 29 Apr 2014,To: 29 Apr 2014,Catholic,FY 2014,31,Dem. Rep. Congo,5,414
+From: 29 Apr 2014,To: 29 Apr 2014,Christian,FY 2014,50,Bhutan,12,414
+From: 29 Apr 2014,To: 29 Apr 2014,Christian,FY 2014,50,Burma,34,414
+From: 29 Apr 2014,To: 29 Apr 2014,Christian,FY 2014,50,Cuba,3,414
+From: 29 Apr 2014,To: 29 Apr 2014,Christian,FY 2014,50,Dem. Rep. Congo,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Hindu,FY 2014,54,Bhutan,54,414
+From: 29 Apr 2014,To: 29 Apr 2014,Jehovah Witness,FY 2014,15,Cuba,14,414
+From: 29 Apr 2014,To: 29 Apr 2014,Jehovah Witness,FY 2014,15,Dem. Rep. Congo,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Jewish,FY 2014,1,Cuba,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Kirat,FY 2014,10,Bhutan,10,414
+From: 29 Apr 2014,To: 29 Apr 2014,Moslem,FY 2014,111,Burma,17,414
+From: 29 Apr 2014,To: 29 Apr 2014,Moslem,FY 2014,111,Somalia,87,414
+From: 29 Apr 2014,To: 29 Apr 2014,Moslem,FY 2014,111,Sudan,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,Moslem Suni,FY 2014,14,Afghanistan,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,Moslem Suni,FY 2014,14,Iraq,7,414
+From: 29 Apr 2014,To: 29 Apr 2014,No Religion,FY 2014,14,Cuba,14,414
+From: 29 Apr 2014,To: 29 Apr 2014,Pentecostalist,FY 2014,12,Cuba,2,414
+From: 29 Apr 2014,To: 29 Apr 2014,Pentecostalist,FY 2014,12,Dem. Rep. Congo,5,414
+From: 29 Apr 2014,To: 29 Apr 2014,Pentecostalist,FY 2014,12,Eritrea,5,414
+From: 29 Apr 2014,To: 29 Apr 2014,Protestant,FY 2014,1,Dem. Rep. Congo,1,414
+From: 29 Apr 2014,To: 29 Apr 2014,Seventh Day Adventist,FY 2014,37,Cuba,2,414
+From: 29 Apr 2014,To: 29 Apr 2014,Seventh Day Adventist,FY 2014,37,Dem. Rep. Congo,35,414
+

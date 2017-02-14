@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Aug 2005,To: 29 Aug 2005,Afghanistan,FY 2005,5,Moslem Suni,5,277
+From: 29 Aug 2005,To: 29 Aug 2005,Angola,FY 2005,2,Catholic,2,277
+From: 29 Aug 2005,To: 29 Aug 2005,Cameroon,FY 2005,1,Christian,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Ethiopia,FY 2005,2,Christian,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Ethiopia,FY 2005,2,Orthodox,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Iran,FY 2005,6,Bahai,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Iran,FY 2005,6,Protestant,4,277
+From: 29 Aug 2005,To: 29 Aug 2005,Iran,FY 2005,6,Zoroastrian,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Ivory Coast,FY 2005,1,Baptist,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Laos,FY 2005,35,Ancestral Worship,35,277
+From: 29 Aug 2005,To: 29 Aug 2005,Liberia,FY 2005,66,Christian,33,277
+From: 29 Aug 2005,To: 29 Aug 2005,Liberia,FY 2005,66,Moslem,32,277
+From: 29 Aug 2005,To: 29 Aug 2005,Liberia,FY 2005,66,Protestant,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Russia,FY 2005,30,Baptist,12,277
+From: 29 Aug 2005,To: 29 Aug 2005,Russia,FY 2005,30,Jewish,3,277
+From: 29 Aug 2005,To: 29 Aug 2005,Russia,FY 2005,30,Pentecostalist,15,277
+From: 29 Aug 2005,To: 29 Aug 2005,Sierra Leone,FY 2005,2,Moslem,2,277
+From: 29 Aug 2005,To: 29 Aug 2005,Somalia,FY 2005,45,Moslem,45,277
+From: 29 Aug 2005,To: 29 Aug 2005,Sudan,FY 2005,25,Catholic,8,277
+From: 29 Aug 2005,To: 29 Aug 2005,Sudan,FY 2005,25,Moslem,12,277
+From: 29 Aug 2005,To: 29 Aug 2005,Sudan,FY 2005,25,Protestant,5,277
+From: 29 Aug 2005,To: 29 Aug 2005,Ukraine,FY 2005,28,Baptist,8,277
+From: 29 Aug 2005,To: 29 Aug 2005,Ukraine,FY 2005,28,Pentecostalist,20,277
+From: 29 Aug 2005,To: 29 Aug 2005,Vietnam,FY 2005,29,Protestant,29,277
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Aug 2005,To: 29 Aug 2005,Ancestral Worship,FY 2005,35,Laos,35,277
+From: 29 Aug 2005,To: 29 Aug 2005,Bahai,FY 2005,1,Iran,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Baptist,FY 2005,21,Ivory Coast,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Baptist,FY 2005,21,Russia,12,277
+From: 29 Aug 2005,To: 29 Aug 2005,Baptist,FY 2005,21,Ukraine,8,277
+From: 29 Aug 2005,To: 29 Aug 2005,Catholic,FY 2005,10,Angola,2,277
+From: 29 Aug 2005,To: 29 Aug 2005,Catholic,FY 2005,10,Sudan,8,277
+From: 29 Aug 2005,To: 29 Aug 2005,Christian,FY 2005,35,Cameroon,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Christian,FY 2005,35,Ethiopia,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Christian,FY 2005,35,Liberia,33,277
+From: 29 Aug 2005,To: 29 Aug 2005,Jewish,FY 2005,3,Russia,3,277
+From: 29 Aug 2005,To: 29 Aug 2005,Moslem,FY 2005,91,Liberia,32,277
+From: 29 Aug 2005,To: 29 Aug 2005,Moslem,FY 2005,91,Sierra Leone,2,277
+From: 29 Aug 2005,To: 29 Aug 2005,Moslem,FY 2005,91,Somalia,45,277
+From: 29 Aug 2005,To: 29 Aug 2005,Moslem,FY 2005,91,Sudan,12,277
+From: 29 Aug 2005,To: 29 Aug 2005,Moslem Suni,FY 2005,5,Afghanistan,5,277
+From: 29 Aug 2005,To: 29 Aug 2005,Orthodox,FY 2005,1,Ethiopia,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Pentecostalist,FY 2005,35,Russia,15,277
+From: 29 Aug 2005,To: 29 Aug 2005,Pentecostalist,FY 2005,35,Ukraine,20,277
+From: 29 Aug 2005,To: 29 Aug 2005,Protestant,FY 2005,39,Iran,4,277
+From: 29 Aug 2005,To: 29 Aug 2005,Protestant,FY 2005,39,Liberia,1,277
+From: 29 Aug 2005,To: 29 Aug 2005,Protestant,FY 2005,39,Sudan,5,277
+From: 29 Aug 2005,To: 29 Aug 2005,Protestant,FY 2005,39,Vietnam,29,277
+From: 29 Aug 2005,To: 29 Aug 2005,Zoroastrian,FY 2005,1,Iran,1,277
+

@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Nov 2015,To: 23 Nov 2015,Dem. Rep. Congo,FY 2016,11,Catholic,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Dem. Rep. Congo,FY 2016,11,Christian,4,57
+From: 23 Nov 2015,To: 23 Nov 2015,Dem. Rep. Congo,FY 2016,11,Protestant,6,57
+From: 23 Nov 2015,To: 23 Nov 2015,Eritrea,FY 2016,1,Orthodox,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Ethiopia,FY 2016,1,Christian,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Iraq,FY 2016,2,Moslem Suni,2,57
+From: 23 Nov 2015,To: 23 Nov 2015,Somalia,FY 2016,35,Moslem,35,57
+From: 23 Nov 2015,To: 23 Nov 2015,Sudan,FY 2016,6,Moslem,6,57
+From: 23 Nov 2015,To: 23 Nov 2015,Uganda,FY 2016,1,Pentecostalist,1,57
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Nov 2015,To: 23 Nov 2015,Catholic,FY 2016,1,Dem. Rep. Congo,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Christian,FY 2016,5,Dem. Rep. Congo,4,57
+From: 23 Nov 2015,To: 23 Nov 2015,Christian,FY 2016,5,Ethiopia,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Moslem,FY 2016,41,Somalia,35,57
+From: 23 Nov 2015,To: 23 Nov 2015,Moslem,FY 2016,41,Sudan,6,57
+From: 23 Nov 2015,To: 23 Nov 2015,Moslem Suni,FY 2016,2,Iraq,2,57
+From: 23 Nov 2015,To: 23 Nov 2015,Orthodox,FY 2016,1,Eritrea,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Pentecostalist,FY 2016,1,Uganda,1,57
+From: 23 Nov 2015,To: 23 Nov 2015,Protestant,FY 2016,6,Dem. Rep. Congo,6,57
+

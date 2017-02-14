@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jun 2006,To: 13 Jun 2006,Afghanistan,FY 2006,9,Moslem Shiite,9,309
+From: 13 Jun 2006,To: 13 Jun 2006,Burundi,FY 2006,1,Catholic,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Cuba,FY 2006,70,Baptist,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Cuba,FY 2006,70,Catholic,28,309
+From: 13 Jun 2006,To: 13 Jun 2006,Cuba,FY 2006,70,Evangelical Christian,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Cuba,FY 2006,70,Jehovah Witness,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Cuba,FY 2006,70,No Religion,30,309
+From: 13 Jun 2006,To: 13 Jun 2006,Cuba,FY 2006,70,Pentecostalist,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ethiopia,FY 2006,17,Christian,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ethiopia,FY 2006,17,Moslem,14,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ethiopia,FY 2006,17,Orthodox,2,309
+From: 13 Jun 2006,To: 13 Jun 2006,Iran,FY 2006,35,Bahai,35,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ivory Coast,FY 2006,3,Christian,2,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ivory Coast,FY 2006,3,Moslem,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Liberia,FY 2006,35,Christian,28,309
+From: 13 Jun 2006,To: 13 Jun 2006,Liberia,FY 2006,35,Methodist,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Liberia,FY 2006,35,Moslem,2,309
+From: 13 Jun 2006,To: 13 Jun 2006,Liberia,FY 2006,35,Pentecostalist,3,309
+From: 13 Jun 2006,To: 13 Jun 2006,Liberia,FY 2006,35,Seventh Day Adventist,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Niger,FY 2006,1,Moslem,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Russia,FY 2006,22,Baptist,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Russia,FY 2006,22,Evangelical Christian,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Russia,FY 2006,22,Jewish,9,309
+From: 13 Jun 2006,To: 13 Jun 2006,Russia,FY 2006,22,No Religion,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Russia,FY 2006,22,Pentecostalist,6,309
+From: 13 Jun 2006,To: 13 Jun 2006,Somalia,FY 2006,73,Moslem,73,309
+From: 13 Jun 2006,To: 13 Jun 2006,Sudan,FY 2006,14,Christian,14,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ukraine,FY 2006,24,Baptist,18,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ukraine,FY 2006,24,Pentecostalist,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Ukraine,FY 2006,24,Seventh Day Adventist,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Uzbekistan,FY 2006,5,Jewish,5,309
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jun 2006,To: 13 Jun 2006,Bahai,FY 2006,35,Iran,35,309
+From: 13 Jun 2006,To: 13 Jun 2006,Baptist,FY 2006,24,Cuba,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Baptist,FY 2006,24,Russia,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Baptist,FY 2006,24,Ukraine,18,309
+From: 13 Jun 2006,To: 13 Jun 2006,Catholic,FY 2006,29,Burundi,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Catholic,FY 2006,29,Cuba,28,309
+From: 13 Jun 2006,To: 13 Jun 2006,Christian,FY 2006,45,Ethiopia,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Christian,FY 2006,45,Ivory Coast,2,309
+From: 13 Jun 2006,To: 13 Jun 2006,Christian,FY 2006,45,Liberia,28,309
+From: 13 Jun 2006,To: 13 Jun 2006,Christian,FY 2006,45,Sudan,14,309
+From: 13 Jun 2006,To: 13 Jun 2006,Evangelical Christian,FY 2006,2,Cuba,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Evangelical Christian,FY 2006,2,Russia,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Jehovah Witness,FY 2006,5,Cuba,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Jewish,FY 2006,14,Russia,9,309
+From: 13 Jun 2006,To: 13 Jun 2006,Jewish,FY 2006,14,Uzbekistan,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Methodist,FY 2006,1,Liberia,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Moslem,FY 2006,91,Ethiopia,14,309
+From: 13 Jun 2006,To: 13 Jun 2006,Moslem,FY 2006,91,Ivory Coast,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Moslem,FY 2006,91,Liberia,2,309
+From: 13 Jun 2006,To: 13 Jun 2006,Moslem,FY 2006,91,Niger,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Moslem,FY 2006,91,Somalia,73,309
+From: 13 Jun 2006,To: 13 Jun 2006,Moslem Shiite,FY 2006,9,Afghanistan,9,309
+From: 13 Jun 2006,To: 13 Jun 2006,No Religion,FY 2006,35,Cuba,30,309
+From: 13 Jun 2006,To: 13 Jun 2006,No Religion,FY 2006,35,Russia,5,309
+From: 13 Jun 2006,To: 13 Jun 2006,Orthodox,FY 2006,2,Ethiopia,2,309
+From: 13 Jun 2006,To: 13 Jun 2006,Pentecostalist,FY 2006,11,Cuba,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Pentecostalist,FY 2006,11,Liberia,3,309
+From: 13 Jun 2006,To: 13 Jun 2006,Pentecostalist,FY 2006,11,Russia,6,309
+From: 13 Jun 2006,To: 13 Jun 2006,Pentecostalist,FY 2006,11,Ukraine,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Seventh Day Adventist,FY 2006,6,Liberia,1,309
+From: 13 Jun 2006,To: 13 Jun 2006,Seventh Day Adventist,FY 2006,6,Ukraine,5,309
+

@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Apr 2007,To: 26 Apr 2007,Azerbaijan,FY 2007,3,Jewish,3,110
+From: 26 Apr 2007,To: 26 Apr 2007,Burma,FY 2007,50,Christian,50,110
+From: 26 Apr 2007,To: 26 Apr 2007,Ethiopia,FY 2007,17,Moslem,16,110
+From: 26 Apr 2007,To: 26 Apr 2007,Ethiopia,FY 2007,17,Protestant,1,110
+From: 26 Apr 2007,To: 26 Apr 2007,Russia,FY 2007,16,Baptist,13,110
+From: 26 Apr 2007,To: 26 Apr 2007,Russia,FY 2007,16,Jewish,3,110
+From: 26 Apr 2007,To: 26 Apr 2007,Somalia,FY 2007,20,Moslem,19,110
+From: 26 Apr 2007,To: 26 Apr 2007,Somalia,FY 2007,20,Pentecostalist,1,110
+From: 26 Apr 2007,To: 26 Apr 2007,Uzbekistan,FY 2007,4,No Religion,3,110
+From: 26 Apr 2007,To: 26 Apr 2007,Uzbekistan,FY 2007,4,Orthodox,1,110
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Apr 2007,To: 26 Apr 2007,Baptist,FY 2007,13,Russia,13,110
+From: 26 Apr 2007,To: 26 Apr 2007,Christian,FY 2007,50,Burma,50,110
+From: 26 Apr 2007,To: 26 Apr 2007,Jewish,FY 2007,6,Azerbaijan,3,110
+From: 26 Apr 2007,To: 26 Apr 2007,Jewish,FY 2007,6,Russia,3,110
+From: 26 Apr 2007,To: 26 Apr 2007,Moslem,FY 2007,35,Ethiopia,16,110
+From: 26 Apr 2007,To: 26 Apr 2007,Moslem,FY 2007,35,Somalia,19,110
+From: 26 Apr 2007,To: 26 Apr 2007,No Religion,FY 2007,3,Uzbekistan,3,110
+From: 26 Apr 2007,To: 26 Apr 2007,Orthodox,FY 2007,1,Uzbekistan,1,110
+From: 26 Apr 2007,To: 26 Apr 2007,Pentecostalist,FY 2007,1,Somalia,1,110
+From: 26 Apr 2007,To: 26 Apr 2007,Protestant,FY 2007,1,Ethiopia,1,110
+

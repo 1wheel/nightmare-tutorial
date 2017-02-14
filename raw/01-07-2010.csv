@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jan 2010,To: 07 Jan 2010,Afghanistan,FY 2010,5,Moslem,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Afghanistan,FY 2010,5,Moslem Suni,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Bhutan,FY 2010,28,Buddhist,5,263
+From: 07 Jan 2010,To: 07 Jan 2010,Bhutan,FY 2010,28,Hindu,19,263
+From: 07 Jan 2010,To: 07 Jan 2010,Bhutan,FY 2010,28,Kirat,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Cuba,FY 2010,79,Baptist,3,263
+From: 07 Jan 2010,To: 07 Jan 2010,Cuba,FY 2010,79,Catholic,21,263
+From: 07 Jan 2010,To: 07 Jan 2010,Cuba,FY 2010,79,Evangelical Christian,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Cuba,FY 2010,79,Jehovah Witness,22,263
+From: 07 Jan 2010,To: 07 Jan 2010,Cuba,FY 2010,79,No Religion,25,263
+From: 07 Jan 2010,To: 07 Jan 2010,Cuba,FY 2010,79,Pentecostalist,7,263
+From: 07 Jan 2010,To: 07 Jan 2010,Guinea,FY 2010,2,Moslem,2,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Atheist,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Catholic,11,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Chaldean,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Christian,11,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Moslem,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Moslem Shiite,34,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Moslem Suni,46,263
+From: 07 Jan 2010,To: 07 Jan 2010,Iraq,FY 2010,112,Orthodox,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Liberia,FY 2010,5,Christian,5,263
+From: 07 Jan 2010,To: 07 Jan 2010,Sierra Leone,FY 2010,1,Christian,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Somalia,FY 2010,30,Moslem,30,263
+From: 07 Jan 2010,To: 07 Jan 2010,Sudan,FY 2010,1,Moslem Suni,1,263
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jan 2010,To: 07 Jan 2010,Atheist,FY 2010,1,Iraq,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Baptist,FY 2010,3,Cuba,3,263
+From: 07 Jan 2010,To: 07 Jan 2010,Buddhist,FY 2010,5,Bhutan,5,263
+From: 07 Jan 2010,To: 07 Jan 2010,Catholic,FY 2010,32,Cuba,21,263
+From: 07 Jan 2010,To: 07 Jan 2010,Catholic,FY 2010,32,Iraq,11,263
+From: 07 Jan 2010,To: 07 Jan 2010,Chaldean,FY 2010,1,Iraq,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Christian,FY 2010,17,Iraq,11,263
+From: 07 Jan 2010,To: 07 Jan 2010,Christian,FY 2010,17,Liberia,5,263
+From: 07 Jan 2010,To: 07 Jan 2010,Christian,FY 2010,17,Sierra Leone,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Evangelical Christian,FY 2010,1,Cuba,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Hindu,FY 2010,19,Bhutan,19,263
+From: 07 Jan 2010,To: 07 Jan 2010,Jehovah Witness,FY 2010,22,Cuba,22,263
+From: 07 Jan 2010,To: 07 Jan 2010,Kirat,FY 2010,4,Bhutan,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem,FY 2010,40,Afghanistan,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem,FY 2010,40,Guinea,2,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem,FY 2010,40,Iraq,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem,FY 2010,40,Somalia,30,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem Shiite,FY 2010,34,Iraq,34,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem Suni,FY 2010,48,Afghanistan,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem Suni,FY 2010,48,Iraq,46,263
+From: 07 Jan 2010,To: 07 Jan 2010,Moslem Suni,FY 2010,48,Sudan,1,263
+From: 07 Jan 2010,To: 07 Jan 2010,No Religion,FY 2010,25,Cuba,25,263
+From: 07 Jan 2010,To: 07 Jan 2010,Orthodox,FY 2010,4,Iraq,4,263
+From: 07 Jan 2010,To: 07 Jan 2010,Pentecostalist,FY 2010,7,Cuba,7,263
+

@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Nov 2013,To: 21 Nov 2013,Afghanistan,FY 2014,17,Moslem Shiite,17,544
+From: 21 Nov 2013,To: 21 Nov 2013,Bhutan,FY 2014,100,Buddhist,33,544
+From: 21 Nov 2013,To: 21 Nov 2013,Bhutan,FY 2014,100,Christian,16,544
+From: 21 Nov 2013,To: 21 Nov 2013,Bhutan,FY 2014,100,Hindu,23,544
+From: 21 Nov 2013,To: 21 Nov 2013,Bhutan,FY 2014,100,Kirat,28,544
+From: 21 Nov 2013,To: 21 Nov 2013,Burma,FY 2014,102,Baptist,4,544
+From: 21 Nov 2013,To: 21 Nov 2013,Burma,FY 2014,102,Buddhist,13,544
+From: 21 Nov 2013,To: 21 Nov 2013,Burma,FY 2014,102,Catholic,10,544
+From: 21 Nov 2013,To: 21 Nov 2013,Burma,FY 2014,102,Christian,63,544
+From: 21 Nov 2013,To: 21 Nov 2013,Burma,FY 2014,102,Moslem,12,544
+From: 21 Nov 2013,To: 21 Nov 2013,Cambodia,FY 2014,2,Buddhist,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,China,FY 2014,4,Other Religion,4,544
+From: 21 Nov 2013,To: 21 Nov 2013,Cuba,FY 2014,68,Catholic,17,544
+From: 21 Nov 2013,To: 21 Nov 2013,Cuba,FY 2014,68,Jehovah Witness,19,544
+From: 21 Nov 2013,To: 21 Nov 2013,Cuba,FY 2014,68,Methodist,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Cuba,FY 2014,68,No Religion,30,544
+From: 21 Nov 2013,To: 21 Nov 2013,Dem. Rep. Congo,FY 2014,40,Catholic,12,544
+From: 21 Nov 2013,To: 21 Nov 2013,Dem. Rep. Congo,FY 2014,40,Christian,14,544
+From: 21 Nov 2013,To: 21 Nov 2013,Dem. Rep. Congo,FY 2014,40,Pentecostalist,7,544
+From: 21 Nov 2013,To: 21 Nov 2013,Dem. Rep. Congo,FY 2014,40,Protestant,7,544
+From: 21 Nov 2013,To: 21 Nov 2013,Egypt,FY 2014,2,Orthodox,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Ethiopia,FY 2014,5,Christian,3,544
+From: 21 Nov 2013,To: 21 Nov 2013,Ethiopia,FY 2014,5,Moslem,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iran,FY 2014,22,Bahai,10,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iran,FY 2014,22,Orthodox,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iran,FY 2014,22,Protestant,1,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iran,FY 2014,22,Sabeans-Mandean,9,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iraq,FY 2014,56,Catholic,6,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iraq,FY 2014,56,Christian,4,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iraq,FY 2014,56,Moslem Shiite,21,544
+From: 21 Nov 2013,To: 21 Nov 2013,Iraq,FY 2014,56,Moslem Suni,25,544
+From: 21 Nov 2013,To: 21 Nov 2013,Pakistan,FY 2014,5,Christian,5,544
+From: 21 Nov 2013,To: 21 Nov 2013,Somalia,FY 2014,120,Moslem,120,544
+From: 21 Nov 2013,To: 21 Nov 2013,Sudan,FY 2014,1,Moslem,1,544
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Nov 2013,To: 21 Nov 2013,Bahai,FY 2014,10,Iran,10,544
+From: 21 Nov 2013,To: 21 Nov 2013,Baptist,FY 2014,4,Burma,4,544
+From: 21 Nov 2013,To: 21 Nov 2013,Buddhist,FY 2014,48,Bhutan,33,544
+From: 21 Nov 2013,To: 21 Nov 2013,Buddhist,FY 2014,48,Burma,13,544
+From: 21 Nov 2013,To: 21 Nov 2013,Buddhist,FY 2014,48,Cambodia,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Catholic,FY 2014,45,Burma,10,544
+From: 21 Nov 2013,To: 21 Nov 2013,Catholic,FY 2014,45,Cuba,17,544
+From: 21 Nov 2013,To: 21 Nov 2013,Catholic,FY 2014,45,Dem. Rep. Congo,12,544
+From: 21 Nov 2013,To: 21 Nov 2013,Catholic,FY 2014,45,Iraq,6,544
+From: 21 Nov 2013,To: 21 Nov 2013,Christian,FY 2014,105,Bhutan,16,544
+From: 21 Nov 2013,To: 21 Nov 2013,Christian,FY 2014,105,Burma,63,544
+From: 21 Nov 2013,To: 21 Nov 2013,Christian,FY 2014,105,Dem. Rep. Congo,14,544
+From: 21 Nov 2013,To: 21 Nov 2013,Christian,FY 2014,105,Ethiopia,3,544
+From: 21 Nov 2013,To: 21 Nov 2013,Christian,FY 2014,105,Iraq,4,544
+From: 21 Nov 2013,To: 21 Nov 2013,Christian,FY 2014,105,Pakistan,5,544
+From: 21 Nov 2013,To: 21 Nov 2013,Hindu,FY 2014,23,Bhutan,23,544
+From: 21 Nov 2013,To: 21 Nov 2013,Jehovah Witness,FY 2014,19,Cuba,19,544
+From: 21 Nov 2013,To: 21 Nov 2013,Kirat,FY 2014,28,Bhutan,28,544
+From: 21 Nov 2013,To: 21 Nov 2013,Methodist,FY 2014,2,Cuba,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem,FY 2014,135,Burma,12,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem,FY 2014,135,Ethiopia,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem,FY 2014,135,Somalia,120,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem,FY 2014,135,Sudan,1,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem Shiite,FY 2014,38,Afghanistan,17,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem Shiite,FY 2014,38,Iraq,21,544
+From: 21 Nov 2013,To: 21 Nov 2013,Moslem Suni,FY 2014,25,Iraq,25,544
+From: 21 Nov 2013,To: 21 Nov 2013,No Religion,FY 2014,30,Cuba,30,544
+From: 21 Nov 2013,To: 21 Nov 2013,Orthodox,FY 2014,4,Egypt,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Orthodox,FY 2014,4,Iran,2,544
+From: 21 Nov 2013,To: 21 Nov 2013,Other Religion,FY 2014,4,China,4,544
+From: 21 Nov 2013,To: 21 Nov 2013,Pentecostalist,FY 2014,7,Dem. Rep. Congo,7,544
+From: 21 Nov 2013,To: 21 Nov 2013,Protestant,FY 2014,8,Dem. Rep. Congo,7,544
+From: 21 Nov 2013,To: 21 Nov 2013,Protestant,FY 2014,8,Iran,1,544
+From: 21 Nov 2013,To: 21 Nov 2013,Sabeans-Mandean,FY 2014,9,Iran,9,544
+

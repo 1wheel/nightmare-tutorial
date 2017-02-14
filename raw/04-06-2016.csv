@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Apr 2016,To: 06 Apr 2016,Afghanistan,FY 2016,18,Moslem Shiite,10,317
+From: 06 Apr 2016,To: 06 Apr 2016,Afghanistan,FY 2016,18,Moslem Suni,8,317
+From: 06 Apr 2016,To: 06 Apr 2016,Armenia,FY 2016,2,Jehovah Witness,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Colombia,FY 2016,4,Catholic,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Colombia,FY 2016,4,No Religion,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Dem. Rep. Congo,FY 2016,29,Catholic,4,317
+From: 06 Apr 2016,To: 06 Apr 2016,Dem. Rep. Congo,FY 2016,29,Moslem,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Dem. Rep. Congo,FY 2016,29,Pentecostalist,17,317
+From: 06 Apr 2016,To: 06 Apr 2016,Dem. Rep. Congo,FY 2016,29,Seventh Day Adventist,7,317
+From: 06 Apr 2016,To: 06 Apr 2016,Eritrea,FY 2016,18,Orthodox,18,317
+From: 06 Apr 2016,To: 06 Apr 2016,Ethiopia,FY 2016,10,Christian,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Ethiopia,FY 2016,10,Moslem,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Ethiopia,FY 2016,10,Other Religion,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Ethiopia,FY 2016,10,Protestant,4,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Bahai,10,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Christian,17,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Kaaka'i,8,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Moslem,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Moslem Shiite,6,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,No Religion,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Other Religion,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Protestant,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iran,FY 2016,50,Zoroastrian,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,Catholic,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,Christian,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,Moslem,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,Moslem Shiite,34,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,Moslem Suni,16,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,No Religion,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Iraq,FY 2016,60,Yazidi,5,317
+From: 06 Apr 2016,To: 06 Apr 2016,Liberia,FY 2016,5,Christian,5,317
+From: 06 Apr 2016,To: 06 Apr 2016,Pakistan,FY 2016,3,Ahmadiyya,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Pakistan,FY 2016,3,Christian,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Somalia,FY 2016,47,Moslem,47,317
+From: 06 Apr 2016,To: 06 Apr 2016,Sudan,FY 2016,28,Moslem,25,317
+From: 06 Apr 2016,To: 06 Apr 2016,Sudan,FY 2016,28,Moslem Suni,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Syria,FY 2016,43,Moslem Suni,43,317
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Apr 2016,To: 06 Apr 2016,Ahmadiyya,FY 2016,2,Pakistan,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Bahai,FY 2016,10,Iran,10,317
+From: 06 Apr 2016,To: 06 Apr 2016,Catholic,FY 2016,9,Colombia,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Catholic,FY 2016,9,Dem. Rep. Congo,4,317
+From: 06 Apr 2016,To: 06 Apr 2016,Catholic,FY 2016,9,Iraq,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Christian,FY 2016,26,Ethiopia,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Christian,FY 2016,26,Iran,17,317
+From: 06 Apr 2016,To: 06 Apr 2016,Christian,FY 2016,26,Iraq,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Christian,FY 2016,26,Liberia,5,317
+From: 06 Apr 2016,To: 06 Apr 2016,Christian,FY 2016,26,Pakistan,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Jehovah Witness,FY 2016,2,Armenia,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Kaaka'i,FY 2016,8,Iran,8,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem,FY 2016,78,Dem. Rep. Congo,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem,FY 2016,78,Ethiopia,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem,FY 2016,78,Iran,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem,FY 2016,78,Iraq,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem,FY 2016,78,Somalia,47,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem,FY 2016,78,Sudan,25,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Shiite,FY 2016,50,Afghanistan,10,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Shiite,FY 2016,50,Iran,6,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Shiite,FY 2016,50,Iraq,34,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Suni,FY 2016,70,Afghanistan,8,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Suni,FY 2016,70,Iraq,16,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Suni,FY 2016,70,Sudan,3,317
+From: 06 Apr 2016,To: 06 Apr 2016,Moslem Suni,FY 2016,70,Syria,43,317
+From: 06 Apr 2016,To: 06 Apr 2016,No Religion,FY 2016,3,Colombia,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,No Religion,FY 2016,3,Iran,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,No Religion,FY 2016,3,Iraq,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Orthodox,FY 2016,18,Eritrea,18,317
+From: 06 Apr 2016,To: 06 Apr 2016,Other Religion,FY 2016,3,Ethiopia,1,317
+From: 06 Apr 2016,To: 06 Apr 2016,Other Religion,FY 2016,3,Iran,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Pentecostalist,FY 2016,17,Dem. Rep. Congo,17,317
+From: 06 Apr 2016,To: 06 Apr 2016,Protestant,FY 2016,6,Ethiopia,4,317
+From: 06 Apr 2016,To: 06 Apr 2016,Protestant,FY 2016,6,Iran,2,317
+From: 06 Apr 2016,To: 06 Apr 2016,Seventh Day Adventist,FY 2016,7,Dem. Rep. Congo,7,317
+From: 06 Apr 2016,To: 06 Apr 2016,Yazidi,FY 2016,5,Iraq,5,317
+From: 06 Apr 2016,To: 06 Apr 2016,Zoroastrian,FY 2016,3,Iran,3,317
+

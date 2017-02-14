@@ -1,0 +1,87 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Mar 2014,To: 19 Mar 2014,Bhutan,FY 2014,35,Buddhist,8,367
+From: 19 Mar 2014,To: 19 Mar 2014,Bhutan,FY 2014,35,Hindu,16,367
+From: 19 Mar 2014,To: 19 Mar 2014,Bhutan,FY 2014,35,Kirat,11,367
+From: 19 Mar 2014,To: 19 Mar 2014,Burma,FY 2014,113,Animist,5,367
+From: 19 Mar 2014,To: 19 Mar 2014,Burma,FY 2014,113,Baptist,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Burma,FY 2014,113,Buddhist,17,367
+From: 19 Mar 2014,To: 19 Mar 2014,Burma,FY 2014,113,Catholic,4,367
+From: 19 Mar 2014,To: 19 Mar 2014,Burma,FY 2014,113,Christian,85,367
+From: 19 Mar 2014,To: 19 Mar 2014,Colombia,FY 2014,34,Catholic,26,367
+From: 19 Mar 2014,To: 19 Mar 2014,Colombia,FY 2014,34,Christian,7,367
+From: 19 Mar 2014,To: 19 Mar 2014,Colombia,FY 2014,34,Evangelical Christian,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Cuba,FY 2014,1,Catholic,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Dem. Rep. Congo,FY 2014,9,Christian,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Dem. Rep. Congo,FY 2014,9,Methodist,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Dem. Rep. Congo,FY 2014,9,Pentecostalist,5,367
+From: 19 Mar 2014,To: 19 Mar 2014,Eritrea,FY 2014,16,Moslem,12,367
+From: 19 Mar 2014,To: 19 Mar 2014,Eritrea,FY 2014,16,Orthodox,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Eritrea,FY 2014,16,Pentecostalist,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Ethiopia,FY 2014,3,Orthodox,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iran,FY 2014,23,Atheist,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iran,FY 2014,23,Bahai,13,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iran,FY 2014,23,Christian,4,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iran,FY 2014,23,Jewish,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iran,FY 2014,23,Moslem Shiite,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iran,FY 2014,23,No Religion,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iraq,FY 2014,60,Catholic,11,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iraq,FY 2014,60,Christian,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iraq,FY 2014,60,Moslem Shiite,14,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iraq,FY 2014,60,Moslem Suni,31,367
+From: 19 Mar 2014,To: 19 Mar 2014,Iraq,FY 2014,60,Orthodox,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Kenya,FY 2014,3,Pentecostalist,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Sierra Leone,FY 2014,2,Moslem,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Somalia,FY 2014,45,Christian,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Somalia,FY 2014,45,Moslem,44,367
+From: 19 Mar 2014,To: 19 Mar 2014,Sudan,FY 2014,9,Christian,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Sudan,FY 2014,9,Moslem,8,367
+From: 19 Mar 2014,To: 19 Mar 2014,Ukraine,FY 2014,8,Baptist,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Ukraine,FY 2014,8,Pentecostalist,6,367
+From: 19 Mar 2014,To: 19 Mar 2014,Vietnam,FY 2014,6,Catholic,4,367
+From: 19 Mar 2014,To: 19 Mar 2014,Vietnam,FY 2014,6,Christian,2,367
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Mar 2014,To: 19 Mar 2014,Animist,FY 2014,5,Burma,5,367
+From: 19 Mar 2014,To: 19 Mar 2014,Atheist,FY 2014,1,Iran,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Bahai,FY 2014,13,Iran,13,367
+From: 19 Mar 2014,To: 19 Mar 2014,Baptist,FY 2014,4,Burma,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Baptist,FY 2014,4,Ukraine,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Buddhist,FY 2014,25,Bhutan,8,367
+From: 19 Mar 2014,To: 19 Mar 2014,Buddhist,FY 2014,25,Burma,17,367
+From: 19 Mar 2014,To: 19 Mar 2014,Catholic,FY 2014,46,Burma,4,367
+From: 19 Mar 2014,To: 19 Mar 2014,Catholic,FY 2014,46,Colombia,26,367
+From: 19 Mar 2014,To: 19 Mar 2014,Catholic,FY 2014,46,Cuba,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Catholic,FY 2014,46,Iraq,11,367
+From: 19 Mar 2014,To: 19 Mar 2014,Catholic,FY 2014,46,Vietnam,4,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Burma,85,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Colombia,7,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Dem. Rep. Congo,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Iran,4,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Iraq,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Somalia,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Sudan,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Christian,FY 2014,102,Vietnam,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Evangelical Christian,FY 2014,1,Colombia,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Hindu,FY 2014,16,Bhutan,16,367
+From: 19 Mar 2014,To: 19 Mar 2014,Jewish,FY 2014,1,Iran,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Kirat,FY 2014,11,Bhutan,11,367
+From: 19 Mar 2014,To: 19 Mar 2014,Methodist,FY 2014,3,Dem. Rep. Congo,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem,FY 2014,66,Eritrea,12,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem,FY 2014,66,Sierra Leone,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem,FY 2014,66,Somalia,44,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem,FY 2014,66,Sudan,8,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem Shiite,FY 2014,16,Iran,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem Shiite,FY 2014,16,Iraq,14,367
+From: 19 Mar 2014,To: 19 Mar 2014,Moslem Suni,FY 2014,31,Iraq,31,367
+From: 19 Mar 2014,To: 19 Mar 2014,No Religion,FY 2014,2,Iran,2,367
+From: 19 Mar 2014,To: 19 Mar 2014,Orthodox,FY 2014,9,Eritrea,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Orthodox,FY 2014,9,Ethiopia,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Orthodox,FY 2014,9,Iraq,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Pentecostalist,FY 2014,15,Dem. Rep. Congo,5,367
+From: 19 Mar 2014,To: 19 Mar 2014,Pentecostalist,FY 2014,15,Eritrea,1,367
+From: 19 Mar 2014,To: 19 Mar 2014,Pentecostalist,FY 2014,15,Kenya,3,367
+From: 19 Mar 2014,To: 19 Mar 2014,Pentecostalist,FY 2014,15,Ukraine,6,367
+

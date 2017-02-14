@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Aug 2004,To: 13 Aug 2004,Afghanistan,FY 2004,2,Moslem,2,114
+From: 13 Aug 2004,To: 13 Aug 2004,Cameroon,FY 2004,1,Unknown,1,114
+From: 13 Aug 2004,To: 13 Aug 2004,Cuba,FY 2004,1,Christian,1,114
+From: 13 Aug 2004,To: 13 Aug 2004,Dem. Rep. Congo,FY 2004,9,Christian,8,114
+From: 13 Aug 2004,To: 13 Aug 2004,Dem. Rep. Congo,FY 2004,9,Evangelical Christian,1,114
+From: 13 Aug 2004,To: 13 Aug 2004,Laos,FY 2004,35,Ancestral Worship,35,114
+From: 13 Aug 2004,To: 13 Aug 2004,Somalia,FY 2004,66,Moslem,66,114
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Aug 2004,To: 13 Aug 2004,Ancestral Worship,FY 2004,35,Laos,35,114
+From: 13 Aug 2004,To: 13 Aug 2004,Christian,FY 2004,9,Cuba,1,114
+From: 13 Aug 2004,To: 13 Aug 2004,Christian,FY 2004,9,Dem. Rep. Congo,8,114
+From: 13 Aug 2004,To: 13 Aug 2004,Evangelical Christian,FY 2004,1,Dem. Rep. Congo,1,114
+From: 13 Aug 2004,To: 13 Aug 2004,Moslem,FY 2004,68,Afghanistan,2,114
+From: 13 Aug 2004,To: 13 Aug 2004,Moslem,FY 2004,68,Somalia,66,114
+From: 13 Aug 2004,To: 13 Aug 2004,Unknown,FY 2004,1,Cameroon,1,114
+

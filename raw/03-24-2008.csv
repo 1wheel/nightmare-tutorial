@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Mar 2008,To: 24 Mar 2008,Bhutan,FY 2008,21,Hindu,21,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iran,FY 2008,13,Bahai,8,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iran,FY 2008,13,Christian,1,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iran,FY 2008,13,Moslem Shiite,1,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iran,FY 2008,13,Moslem Suni,1,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iran,FY 2008,13,Protestant,2,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iraq,FY 2008,79,Catholic,8,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iraq,FY 2008,79,Christian,39,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iraq,FY 2008,79,Moslem,6,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iraq,FY 2008,79,Moslem Shiite,7,113
+From: 24 Mar 2008,To: 24 Mar 2008,Iraq,FY 2008,79,Moslem Suni,19,113
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Mar 2008,To: 24 Mar 2008,Bahai,FY 2008,8,Iran,8,113
+From: 24 Mar 2008,To: 24 Mar 2008,Catholic,FY 2008,8,Iraq,8,113
+From: 24 Mar 2008,To: 24 Mar 2008,Christian,FY 2008,40,Iran,1,113
+From: 24 Mar 2008,To: 24 Mar 2008,Christian,FY 2008,40,Iraq,39,113
+From: 24 Mar 2008,To: 24 Mar 2008,Hindu,FY 2008,21,Bhutan,21,113
+From: 24 Mar 2008,To: 24 Mar 2008,Moslem,FY 2008,6,Iraq,6,113
+From: 24 Mar 2008,To: 24 Mar 2008,Moslem Shiite,FY 2008,8,Iran,1,113
+From: 24 Mar 2008,To: 24 Mar 2008,Moslem Shiite,FY 2008,8,Iraq,7,113
+From: 24 Mar 2008,To: 24 Mar 2008,Moslem Suni,FY 2008,20,Iran,1,113
+From: 24 Mar 2008,To: 24 Mar 2008,Moslem Suni,FY 2008,20,Iraq,19,113
+From: 24 Mar 2008,To: 24 Mar 2008,Protestant,FY 2008,2,Iran,2,113
+

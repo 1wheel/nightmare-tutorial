@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Mar 2008,To: 03 Mar 2008,Iraq,FY 2008,61,Catholic,1,64
+From: 03 Mar 2008,To: 03 Mar 2008,Iraq,FY 2008,61,Christian,37,64
+From: 03 Mar 2008,To: 03 Mar 2008,Iraq,FY 2008,61,Moslem,4,64
+From: 03 Mar 2008,To: 03 Mar 2008,Iraq,FY 2008,61,Moslem Shiite,3,64
+From: 03 Mar 2008,To: 03 Mar 2008,Iraq,FY 2008,61,Moslem Suni,15,64
+From: 03 Mar 2008,To: 03 Mar 2008,Iraq,FY 2008,61,Sabeans-Mandean,1,64
+From: 03 Mar 2008,To: 03 Mar 2008,Pakistan,FY 2008,3,Moslem,2,64
+From: 03 Mar 2008,To: 03 Mar 2008,Pakistan,FY 2008,3,Unknown,1,64
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Mar 2008,To: 03 Mar 2008,Catholic,FY 2008,1,Iraq,1,64
+From: 03 Mar 2008,To: 03 Mar 2008,Christian,FY 2008,37,Iraq,37,64
+From: 03 Mar 2008,To: 03 Mar 2008,Moslem,FY 2008,6,Iraq,4,64
+From: 03 Mar 2008,To: 03 Mar 2008,Moslem,FY 2008,6,Pakistan,2,64
+From: 03 Mar 2008,To: 03 Mar 2008,Moslem Shiite,FY 2008,3,Iraq,3,64
+From: 03 Mar 2008,To: 03 Mar 2008,Moslem Suni,FY 2008,15,Iraq,15,64
+From: 03 Mar 2008,To: 03 Mar 2008,Sabeans-Mandean,FY 2008,1,Iraq,1,64
+From: 03 Mar 2008,To: 03 Mar 2008,Unknown,FY 2008,1,Pakistan,1,64
+

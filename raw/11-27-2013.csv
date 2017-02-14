@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Nov 2013,To: 27 Nov 2013,Dem. Rep. Congo,FY 2014,4,Protestant,4,17
+From: 27 Nov 2013,To: 27 Nov 2013,Iran,FY 2014,1,Moslem Shiite,1,17
+From: 27 Nov 2013,To: 27 Nov 2013,Iraq,FY 2014,10,Christian,5,17
+From: 27 Nov 2013,To: 27 Nov 2013,Iraq,FY 2014,10,Moslem Shiite,4,17
+From: 27 Nov 2013,To: 27 Nov 2013,Iraq,FY 2014,10,Moslem Suni,1,17
+From: 27 Nov 2013,To: 27 Nov 2013,Rwanda,FY 2014,2,Unknown,2,17
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Nov 2013,To: 27 Nov 2013,Christian,FY 2014,5,Iraq,5,17
+From: 27 Nov 2013,To: 27 Nov 2013,Moslem Shiite,FY 2014,5,Iran,1,17
+From: 27 Nov 2013,To: 27 Nov 2013,Moslem Shiite,FY 2014,5,Iraq,4,17
+From: 27 Nov 2013,To: 27 Nov 2013,Moslem Suni,FY 2014,1,Iraq,1,17
+From: 27 Nov 2013,To: 27 Nov 2013,Protestant,FY 2014,4,Dem. Rep. Congo,4,17
+From: 27 Nov 2013,To: 27 Nov 2013,Unknown,FY 2014,2,Rwanda,2,17
+

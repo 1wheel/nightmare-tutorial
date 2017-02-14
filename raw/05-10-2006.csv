@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 May 2006,To: 10 May 2006,Afghanistan,FY 2006,5,Moslem,4,244
+From: 10 May 2006,To: 10 May 2006,Afghanistan,FY 2006,5,Unknown,1,244
+From: 10 May 2006,To: 10 May 2006,Azerbaijan,FY 2006,4,Jewish,3,244
+From: 10 May 2006,To: 10 May 2006,Azerbaijan,FY 2006,4,Moslem,1,244
+From: 10 May 2006,To: 10 May 2006,Burma,FY 2006,1,Unknown,1,244
+From: 10 May 2006,To: 10 May 2006,Dem. Rep. Congo,FY 2006,3,Christian,3,244
+From: 10 May 2006,To: 10 May 2006,Eritrea,FY 2006,2,Jehovah Witness,2,244
+From: 10 May 2006,To: 10 May 2006,Ethiopia,FY 2006,4,Moslem,3,244
+From: 10 May 2006,To: 10 May 2006,Ethiopia,FY 2006,4,Orthodox,1,244
+From: 10 May 2006,To: 10 May 2006,Iran,FY 2006,17,Bahai,4,244
+From: 10 May 2006,To: 10 May 2006,Iran,FY 2006,17,Christian,4,244
+From: 10 May 2006,To: 10 May 2006,Iran,FY 2006,17,Sabeans-Mandean,6,244
+From: 10 May 2006,To: 10 May 2006,Iran,FY 2006,17,Zoroastrian,3,244
+From: 10 May 2006,To: 10 May 2006,Laos,FY 2006,28,Ancestral Worship,28,244
+From: 10 May 2006,To: 10 May 2006,Liberia,FY 2006,44,Christian,41,244
+From: 10 May 2006,To: 10 May 2006,Liberia,FY 2006,44,Pentecostalist,3,244
+From: 10 May 2006,To: 10 May 2006,Russia,FY 2006,17,Moslem,17,244
+From: 10 May 2006,To: 10 May 2006,Rwanda,FY 2006,5,Catholic,5,244
+From: 10 May 2006,To: 10 May 2006,Sierra Leone,FY 2006,2,Catholic,2,244
+From: 10 May 2006,To: 10 May 2006,Somalia,FY 2006,80,Moslem,77,244
+From: 10 May 2006,To: 10 May 2006,Somalia,FY 2006,80,Moslem Suni,3,244
+From: 10 May 2006,To: 10 May 2006,Sudan,FY 2006,1,Christian,1,244
+From: 10 May 2006,To: 10 May 2006,Vietnam,FY 2006,31,Buddhist,2,244
+From: 10 May 2006,To: 10 May 2006,Vietnam,FY 2006,31,Catholic,11,244
+From: 10 May 2006,To: 10 May 2006,Vietnam,FY 2006,31,No Religion,18,244
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 May 2006,To: 10 May 2006,Ancestral Worship,FY 2006,28,Laos,28,244
+From: 10 May 2006,To: 10 May 2006,Bahai,FY 2006,4,Iran,4,244
+From: 10 May 2006,To: 10 May 2006,Buddhist,FY 2006,2,Vietnam,2,244
+From: 10 May 2006,To: 10 May 2006,Catholic,FY 2006,18,Rwanda,5,244
+From: 10 May 2006,To: 10 May 2006,Catholic,FY 2006,18,Sierra Leone,2,244
+From: 10 May 2006,To: 10 May 2006,Catholic,FY 2006,18,Vietnam,11,244
+From: 10 May 2006,To: 10 May 2006,Christian,FY 2006,49,Dem. Rep. Congo,3,244
+From: 10 May 2006,To: 10 May 2006,Christian,FY 2006,49,Iran,4,244
+From: 10 May 2006,To: 10 May 2006,Christian,FY 2006,49,Liberia,41,244
+From: 10 May 2006,To: 10 May 2006,Christian,FY 2006,49,Sudan,1,244
+From: 10 May 2006,To: 10 May 2006,Jehovah Witness,FY 2006,2,Eritrea,2,244
+From: 10 May 2006,To: 10 May 2006,Jewish,FY 2006,3,Azerbaijan,3,244
+From: 10 May 2006,To: 10 May 2006,Moslem,FY 2006,102,Afghanistan,4,244
+From: 10 May 2006,To: 10 May 2006,Moslem,FY 2006,102,Azerbaijan,1,244
+From: 10 May 2006,To: 10 May 2006,Moslem,FY 2006,102,Ethiopia,3,244
+From: 10 May 2006,To: 10 May 2006,Moslem,FY 2006,102,Russia,17,244
+From: 10 May 2006,To: 10 May 2006,Moslem,FY 2006,102,Somalia,77,244
+From: 10 May 2006,To: 10 May 2006,Moslem Suni,FY 2006,3,Somalia,3,244
+From: 10 May 2006,To: 10 May 2006,No Religion,FY 2006,18,Vietnam,18,244
+From: 10 May 2006,To: 10 May 2006,Orthodox,FY 2006,1,Ethiopia,1,244
+From: 10 May 2006,To: 10 May 2006,Pentecostalist,FY 2006,3,Liberia,3,244
+From: 10 May 2006,To: 10 May 2006,Sabeans-Mandean,FY 2006,6,Iran,6,244
+From: 10 May 2006,To: 10 May 2006,Unknown,FY 2006,2,Afghanistan,1,244
+From: 10 May 2006,To: 10 May 2006,Unknown,FY 2006,2,Burma,1,244
+From: 10 May 2006,To: 10 May 2006,Zoroastrian,FY 2006,3,Iran,3,244
+

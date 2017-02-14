@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Mar 2007,To: 06 Mar 2007,Burundi,FY 2007,37,Catholic,3,160
+From: 06 Mar 2007,To: 06 Mar 2007,Burundi,FY 2007,37,Evangelical Christian,7,160
+From: 06 Mar 2007,To: 06 Mar 2007,Burundi,FY 2007,37,Methodist,6,160
+From: 06 Mar 2007,To: 06 Mar 2007,Burundi,FY 2007,37,Pentecostalist,21,160
+From: 06 Mar 2007,To: 06 Mar 2007,Dem. Rep. Congo,FY 2007,4,Catholic,4,160
+From: 06 Mar 2007,To: 06 Mar 2007,Ethiopia,FY 2007,8,Moslem,8,160
+From: 06 Mar 2007,To: 06 Mar 2007,Iran,FY 2007,35,Bahai,30,160
+From: 06 Mar 2007,To: 06 Mar 2007,Iran,FY 2007,35,Catholic,2,160
+From: 06 Mar 2007,To: 06 Mar 2007,Iran,FY 2007,35,Pentecostalist,3,160
+From: 06 Mar 2007,To: 06 Mar 2007,Rwanda,FY 2007,18,Christian,11,160
+From: 06 Mar 2007,To: 06 Mar 2007,Rwanda,FY 2007,18,Pentecostalist,1,160
+From: 06 Mar 2007,To: 06 Mar 2007,Rwanda,FY 2007,18,Seventh Day Adventist,6,160
+From: 06 Mar 2007,To: 06 Mar 2007,Somalia,FY 2007,26,Moslem,26,160
+From: 06 Mar 2007,To: 06 Mar 2007,Sudan,FY 2007,9,Christian,9,160
+From: 06 Mar 2007,To: 06 Mar 2007,Ukraine,FY 2007,23,Baptist,9,160
+From: 06 Mar 2007,To: 06 Mar 2007,Ukraine,FY 2007,23,Jehovah Witness,4,160
+From: 06 Mar 2007,To: 06 Mar 2007,Ukraine,FY 2007,23,Pentecostalist,10,160
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Mar 2007,To: 06 Mar 2007,Bahai,FY 2007,30,Iran,30,160
+From: 06 Mar 2007,To: 06 Mar 2007,Baptist,FY 2007,9,Ukraine,9,160
+From: 06 Mar 2007,To: 06 Mar 2007,Catholic,FY 2007,9,Burundi,3,160
+From: 06 Mar 2007,To: 06 Mar 2007,Catholic,FY 2007,9,Dem. Rep. Congo,4,160
+From: 06 Mar 2007,To: 06 Mar 2007,Catholic,FY 2007,9,Iran,2,160
+From: 06 Mar 2007,To: 06 Mar 2007,Christian,FY 2007,20,Rwanda,11,160
+From: 06 Mar 2007,To: 06 Mar 2007,Christian,FY 2007,20,Sudan,9,160
+From: 06 Mar 2007,To: 06 Mar 2007,Evangelical Christian,FY 2007,7,Burundi,7,160
+From: 06 Mar 2007,To: 06 Mar 2007,Jehovah Witness,FY 2007,4,Ukraine,4,160
+From: 06 Mar 2007,To: 06 Mar 2007,Methodist,FY 2007,6,Burundi,6,160
+From: 06 Mar 2007,To: 06 Mar 2007,Moslem,FY 2007,34,Ethiopia,8,160
+From: 06 Mar 2007,To: 06 Mar 2007,Moslem,FY 2007,34,Somalia,26,160
+From: 06 Mar 2007,To: 06 Mar 2007,Pentecostalist,FY 2007,35,Burundi,21,160
+From: 06 Mar 2007,To: 06 Mar 2007,Pentecostalist,FY 2007,35,Iran,3,160
+From: 06 Mar 2007,To: 06 Mar 2007,Pentecostalist,FY 2007,35,Rwanda,1,160
+From: 06 Mar 2007,To: 06 Mar 2007,Pentecostalist,FY 2007,35,Ukraine,10,160
+From: 06 Mar 2007,To: 06 Mar 2007,Seventh Day Adventist,FY 2007,6,Rwanda,6,160
+

@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Mar 2012,To: 12 Mar 2012,Burma,FY 2012,59,Baptist,9,71
+From: 12 Mar 2012,To: 12 Mar 2012,Burma,FY 2012,59,Buddhist,7,71
+From: 12 Mar 2012,To: 12 Mar 2012,Burma,FY 2012,59,Catholic,4,71
+From: 12 Mar 2012,To: 12 Mar 2012,Burma,FY 2012,59,Christian,38,71
+From: 12 Mar 2012,To: 12 Mar 2012,Burma,FY 2012,59,Methodist,1,71
+From: 12 Mar 2012,To: 12 Mar 2012,Dem. Rep. Congo,FY 2012,6,Seventh Day Adventist,6,71
+From: 12 Mar 2012,To: 12 Mar 2012,Iran,FY 2012,3,No Religion,3,71
+From: 12 Mar 2012,To: 12 Mar 2012,Pakistan,FY 2012,3,Christian,3,71
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Mar 2012,To: 12 Mar 2012,Baptist,FY 2012,9,Burma,9,71
+From: 12 Mar 2012,To: 12 Mar 2012,Buddhist,FY 2012,7,Burma,7,71
+From: 12 Mar 2012,To: 12 Mar 2012,Catholic,FY 2012,4,Burma,4,71
+From: 12 Mar 2012,To: 12 Mar 2012,Christian,FY 2012,41,Burma,38,71
+From: 12 Mar 2012,To: 12 Mar 2012,Christian,FY 2012,41,Pakistan,3,71
+From: 12 Mar 2012,To: 12 Mar 2012,Methodist,FY 2012,1,Burma,1,71
+From: 12 Mar 2012,To: 12 Mar 2012,No Religion,FY 2012,3,Iran,3,71
+From: 12 Mar 2012,To: 12 Mar 2012,Seventh Day Adventist,FY 2012,6,Dem. Rep. Congo,6,71
+

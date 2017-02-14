@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jan 2005,To: 25 Jan 2005,Afghanistan,FY 2005,8,Moslem Suni,8,231
+From: 25 Jan 2005,To: 25 Jan 2005,Azerbaijan,FY 2005,8,Orthodox,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Azerbaijan,FY 2005,8,Unknown,7,231
+From: 25 Jan 2005,To: 25 Jan 2005,Burundi,FY 2005,1,Christian,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Colombia,FY 2005,30,Catholic,12,231
+From: 25 Jan 2005,To: 25 Jan 2005,Colombia,FY 2005,30,Christian,13,231
+From: 25 Jan 2005,To: 25 Jan 2005,Colombia,FY 2005,30,Jehovah Witness,5,231
+From: 25 Jan 2005,To: 25 Jan 2005,Dem. Rep. Congo,FY 2005,2,Christian,2,231
+From: 25 Jan 2005,To: 25 Jan 2005,Eritrea,FY 2005,1,Christian,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Iran,FY 2005,4,Baptist,4,231
+From: 25 Jan 2005,To: 25 Jan 2005,Liberia,FY 2005,27,Catholic,8,231
+From: 25 Jan 2005,To: 25 Jan 2005,Liberia,FY 2005,27,Christian,16,231
+From: 25 Jan 2005,To: 25 Jan 2005,Liberia,FY 2005,27,Methodist,3,231
+From: 25 Jan 2005,To: 25 Jan 2005,Somalia,FY 2005,78,Christian,2,231
+From: 25 Jan 2005,To: 25 Jan 2005,Somalia,FY 2005,78,Moslem,76,231
+From: 25 Jan 2005,To: 25 Jan 2005,Sudan,FY 2005,2,Christian,2,231
+From: 25 Jan 2005,To: 25 Jan 2005,Togo,FY 2005,9,Catholic,7,231
+From: 25 Jan 2005,To: 25 Jan 2005,Togo,FY 2005,9,Christian,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Togo,FY 2005,9,Moslem,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Ukraine,FY 2005,30,Baptist,5,231
+From: 25 Jan 2005,To: 25 Jan 2005,Ukraine,FY 2005,30,Pentecostalist,21,231
+From: 25 Jan 2005,To: 25 Jan 2005,Ukraine,FY 2005,30,Seventh Day Adventist,4,231
+From: 25 Jan 2005,To: 25 Jan 2005,Uzbekistan,FY 2005,4,Moslem Suni,4,231
+From: 25 Jan 2005,To: 25 Jan 2005,Vietnam,FY 2005,27,Buddhist,6,231
+From: 25 Jan 2005,To: 25 Jan 2005,Vietnam,FY 2005,27,Catholic,5,231
+From: 25 Jan 2005,To: 25 Jan 2005,Vietnam,FY 2005,27,No Religion,6,231
+From: 25 Jan 2005,To: 25 Jan 2005,Vietnam,FY 2005,27,Unknown,10,231
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jan 2005,To: 25 Jan 2005,Baptist,FY 2005,9,Iran,4,231
+From: 25 Jan 2005,To: 25 Jan 2005,Baptist,FY 2005,9,Ukraine,5,231
+From: 25 Jan 2005,To: 25 Jan 2005,Buddhist,FY 2005,6,Vietnam,6,231
+From: 25 Jan 2005,To: 25 Jan 2005,Catholic,FY 2005,32,Colombia,12,231
+From: 25 Jan 2005,To: 25 Jan 2005,Catholic,FY 2005,32,Liberia,8,231
+From: 25 Jan 2005,To: 25 Jan 2005,Catholic,FY 2005,32,Togo,7,231
+From: 25 Jan 2005,To: 25 Jan 2005,Catholic,FY 2005,32,Vietnam,5,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Burundi,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Colombia,13,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Dem. Rep. Congo,2,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Eritrea,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Liberia,16,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Somalia,2,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Sudan,2,231
+From: 25 Jan 2005,To: 25 Jan 2005,Christian,FY 2005,38,Togo,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Jehovah Witness,FY 2005,5,Colombia,5,231
+From: 25 Jan 2005,To: 25 Jan 2005,Methodist,FY 2005,3,Liberia,3,231
+From: 25 Jan 2005,To: 25 Jan 2005,Moslem,FY 2005,77,Somalia,76,231
+From: 25 Jan 2005,To: 25 Jan 2005,Moslem,FY 2005,77,Togo,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Moslem Suni,FY 2005,12,Afghanistan,8,231
+From: 25 Jan 2005,To: 25 Jan 2005,Moslem Suni,FY 2005,12,Uzbekistan,4,231
+From: 25 Jan 2005,To: 25 Jan 2005,No Religion,FY 2005,6,Vietnam,6,231
+From: 25 Jan 2005,To: 25 Jan 2005,Orthodox,FY 2005,1,Azerbaijan,1,231
+From: 25 Jan 2005,To: 25 Jan 2005,Pentecostalist,FY 2005,21,Ukraine,21,231
+From: 25 Jan 2005,To: 25 Jan 2005,Seventh Day Adventist,FY 2005,4,Ukraine,4,231
+From: 25 Jan 2005,To: 25 Jan 2005,Unknown,FY 2005,17,Azerbaijan,7,231
+From: 25 Jan 2005,To: 25 Jan 2005,Unknown,FY 2005,17,Vietnam,10,231
+

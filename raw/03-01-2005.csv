@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Mar 2005,To: 01 Mar 2005,Angola,FY 2005,1,Protestant,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Burma,FY 2005,15,Buddhist,4,209
+From: 01 Mar 2005,To: 01 Mar 2005,Burma,FY 2005,15,Catholic,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Burma,FY 2005,15,Protestant,10,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,Baptist,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,Catholic,30,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,Evangelical Christian,4,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,Jehovah Witness,3,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,No Religion,27,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,Pentecostalist,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Cuba,FY 2005,70,Protestant,3,209
+From: 01 Mar 2005,To: 01 Mar 2005,Dem. Rep. Congo,FY 2005,7,Christian,7,209
+From: 01 Mar 2005,To: 01 Mar 2005,Eritrea,FY 2005,35,Catholic,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Eritrea,FY 2005,35,Christian,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Eritrea,FY 2005,35,Moslem,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Eritrea,FY 2005,35,Orthodox,20,209
+From: 01 Mar 2005,To: 01 Mar 2005,Eritrea,FY 2005,35,Pentecostalist,9,209
+From: 01 Mar 2005,To: 01 Mar 2005,Eritrea,FY 2005,35,Protestant,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Ethiopia,FY 2005,3,Moslem,3,209
+From: 01 Mar 2005,To: 01 Mar 2005,Somalia,FY 2005,47,Moslem,47,209
+From: 01 Mar 2005,To: 01 Mar 2005,Sudan,FY 2005,11,Moslem,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Sudan,FY 2005,11,Protestant,9,209
+From: 01 Mar 2005,To: 01 Mar 2005,Uganda,FY 2005,1,Protestant,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Ukraine,FY 2005,19,Baptist,6,209
+From: 01 Mar 2005,To: 01 Mar 2005,Ukraine,FY 2005,19,Pentecostalist,13,209
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Mar 2005,To: 01 Mar 2005,Baptist,FY 2005,8,Cuba,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Baptist,FY 2005,8,Ukraine,6,209
+From: 01 Mar 2005,To: 01 Mar 2005,Buddhist,FY 2005,4,Burma,4,209
+From: 01 Mar 2005,To: 01 Mar 2005,Catholic,FY 2005,32,Burma,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Catholic,FY 2005,32,Cuba,30,209
+From: 01 Mar 2005,To: 01 Mar 2005,Catholic,FY 2005,32,Eritrea,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Christian,FY 2005,9,Dem. Rep. Congo,7,209
+From: 01 Mar 2005,To: 01 Mar 2005,Christian,FY 2005,9,Eritrea,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Evangelical Christian,FY 2005,4,Cuba,4,209
+From: 01 Mar 2005,To: 01 Mar 2005,Jehovah Witness,FY 2005,3,Cuba,3,209
+From: 01 Mar 2005,To: 01 Mar 2005,Moslem,FY 2005,53,Eritrea,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Moslem,FY 2005,53,Ethiopia,3,209
+From: 01 Mar 2005,To: 01 Mar 2005,Moslem,FY 2005,53,Somalia,47,209
+From: 01 Mar 2005,To: 01 Mar 2005,Moslem,FY 2005,53,Sudan,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,No Religion,FY 2005,27,Cuba,27,209
+From: 01 Mar 2005,To: 01 Mar 2005,Orthodox,FY 2005,20,Eritrea,20,209
+From: 01 Mar 2005,To: 01 Mar 2005,Pentecostalist,FY 2005,23,Cuba,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Pentecostalist,FY 2005,23,Eritrea,9,209
+From: 01 Mar 2005,To: 01 Mar 2005,Pentecostalist,FY 2005,23,Ukraine,13,209
+From: 01 Mar 2005,To: 01 Mar 2005,Protestant,FY 2005,26,Angola,1,209
+From: 01 Mar 2005,To: 01 Mar 2005,Protestant,FY 2005,26,Burma,10,209
+From: 01 Mar 2005,To: 01 Mar 2005,Protestant,FY 2005,26,Cuba,3,209
+From: 01 Mar 2005,To: 01 Mar 2005,Protestant,FY 2005,26,Eritrea,2,209
+From: 01 Mar 2005,To: 01 Mar 2005,Protestant,FY 2005,26,Sudan,9,209
+From: 01 Mar 2005,To: 01 Mar 2005,Protestant,FY 2005,26,Uganda,1,209
+

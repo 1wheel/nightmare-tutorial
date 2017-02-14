@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jul 2005,To: 12 Jul 2005,Afghanistan,FY 2005,2,Moslem,2,458
+From: 12 Jul 2005,To: 12 Jul 2005,Burma,FY 2005,30,Baptist,6,458
+From: 12 Jul 2005,To: 12 Jul 2005,Burma,FY 2005,30,Christian,19,458
+From: 12 Jul 2005,To: 12 Jul 2005,Burma,FY 2005,30,Moslem Suni,5,458
+From: 12 Jul 2005,To: 12 Jul 2005,China,FY 2005,1,Unknown,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Cuba,FY 2005,66,Catholic,22,458
+From: 12 Jul 2005,To: 12 Jul 2005,Cuba,FY 2005,66,Evangelical Christian,4,458
+From: 12 Jul 2005,To: 12 Jul 2005,Cuba,FY 2005,66,Jehovah Witness,15,458
+From: 12 Jul 2005,To: 12 Jul 2005,Cuba,FY 2005,66,No Religion,18,458
+From: 12 Jul 2005,To: 12 Jul 2005,Cuba,FY 2005,66,Seventh Day Adventist,7,458
+From: 12 Jul 2005,To: 12 Jul 2005,Dem. Rep. Congo,FY 2005,3,Christian,3,458
+From: 12 Jul 2005,To: 12 Jul 2005,Ethiopia,FY 2005,7,Christian,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Ethiopia,FY 2005,7,Moslem,5,458
+From: 12 Jul 2005,To: 12 Jul 2005,Ethiopia,FY 2005,7,Orthodox,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Indonesia,FY 2005,2,Moslem,2,458
+From: 12 Jul 2005,To: 12 Jul 2005,Iran,FY 2005,35,Bahai,35,458
+From: 12 Jul 2005,To: 12 Jul 2005,Iraq,FY 2005,24,Christian,8,458
+From: 12 Jul 2005,To: 12 Jul 2005,Iraq,FY 2005,24,Moslem,16,458
+From: 12 Jul 2005,To: 12 Jul 2005,Kazakhstan,FY 2005,15,Baptist,2,458
+From: 12 Jul 2005,To: 12 Jul 2005,Kazakhstan,FY 2005,15,Pentecostalist,13,458
+From: 12 Jul 2005,To: 12 Jul 2005,Laos,FY 2005,130,Ancestral Worship,122,458
+From: 12 Jul 2005,To: 12 Jul 2005,Laos,FY 2005,130,Christian,8,458
+From: 12 Jul 2005,To: 12 Jul 2005,Liberia,FY 2005,31,Christian,6,458
+From: 12 Jul 2005,To: 12 Jul 2005,Liberia,FY 2005,31,Moslem,25,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moldova,FY 2005,12,Baptist,12,458
+From: 12 Jul 2005,To: 12 Jul 2005,Russia,FY 2005,35,Moslem,35,458
+From: 12 Jul 2005,To: 12 Jul 2005,Somalia,FY 2005,60,Moslem,60,458
+From: 12 Jul 2005,To: 12 Jul 2005,Sudan,FY 2005,1,Christian,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Uzbekistan,FY 2005,4,Jewish,4,458
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jul 2005,To: 12 Jul 2005,Ancestral Worship,FY 2005,122,Laos,122,458
+From: 12 Jul 2005,To: 12 Jul 2005,Bahai,FY 2005,35,Iran,35,458
+From: 12 Jul 2005,To: 12 Jul 2005,Baptist,FY 2005,20,Burma,6,458
+From: 12 Jul 2005,To: 12 Jul 2005,Baptist,FY 2005,20,Kazakhstan,2,458
+From: 12 Jul 2005,To: 12 Jul 2005,Baptist,FY 2005,20,Moldova,12,458
+From: 12 Jul 2005,To: 12 Jul 2005,Catholic,FY 2005,22,Cuba,22,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Burma,19,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Dem. Rep. Congo,3,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Ethiopia,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Iraq,8,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Laos,8,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Liberia,6,458
+From: 12 Jul 2005,To: 12 Jul 2005,Christian,FY 2005,46,Sudan,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Evangelical Christian,FY 2005,4,Cuba,4,458
+From: 12 Jul 2005,To: 12 Jul 2005,Jehovah Witness,FY 2005,15,Cuba,15,458
+From: 12 Jul 2005,To: 12 Jul 2005,Jewish,FY 2005,4,Uzbekistan,4,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Afghanistan,2,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Ethiopia,5,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Indonesia,2,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Iraq,16,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Liberia,25,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Russia,35,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem,FY 2005,145,Somalia,60,458
+From: 12 Jul 2005,To: 12 Jul 2005,Moslem Suni,FY 2005,5,Burma,5,458
+From: 12 Jul 2005,To: 12 Jul 2005,No Religion,FY 2005,18,Cuba,18,458
+From: 12 Jul 2005,To: 12 Jul 2005,Orthodox,FY 2005,1,Ethiopia,1,458
+From: 12 Jul 2005,To: 12 Jul 2005,Pentecostalist,FY 2005,13,Kazakhstan,13,458
+From: 12 Jul 2005,To: 12 Jul 2005,Seventh Day Adventist,FY 2005,7,Cuba,7,458
+From: 12 Jul 2005,To: 12 Jul 2005,Unknown,FY 2005,1,China,1,458
+

@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jul 2012,To: 02 Jul 2012,Bhutan,FY 2012,31,Christian,3,167
+From: 02 Jul 2012,To: 02 Jul 2012,Bhutan,FY 2012,31,Hindu,28,167
+From: 02 Jul 2012,To: 02 Jul 2012,Burma,FY 2012,34,Baptist,3,167
+From: 02 Jul 2012,To: 02 Jul 2012,Burma,FY 2012,34,Buddhist,3,167
+From: 02 Jul 2012,To: 02 Jul 2012,Burma,FY 2012,34,Catholic,2,167
+From: 02 Jul 2012,To: 02 Jul 2012,Burma,FY 2012,34,Christian,26,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Catholic,9,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Christian,7,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Moslem Shiite,19,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Moslem Suni,32,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Orthodox,9,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Sabeans-Mandean,4,167
+From: 02 Jul 2012,To: 02 Jul 2012,Iraq,FY 2012,85,Yazidi,5,167
+From: 02 Jul 2012,To: 02 Jul 2012,Somalia,FY 2012,9,Moslem,9,167
+From: 02 Jul 2012,To: 02 Jul 2012,Sudan,FY 2012,8,Christian,8,167
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jul 2012,To: 02 Jul 2012,Baptist,FY 2012,3,Burma,3,167
+From: 02 Jul 2012,To: 02 Jul 2012,Buddhist,FY 2012,3,Burma,3,167
+From: 02 Jul 2012,To: 02 Jul 2012,Catholic,FY 2012,11,Burma,2,167
+From: 02 Jul 2012,To: 02 Jul 2012,Catholic,FY 2012,11,Iraq,9,167
+From: 02 Jul 2012,To: 02 Jul 2012,Christian,FY 2012,44,Bhutan,3,167
+From: 02 Jul 2012,To: 02 Jul 2012,Christian,FY 2012,44,Burma,26,167
+From: 02 Jul 2012,To: 02 Jul 2012,Christian,FY 2012,44,Iraq,7,167
+From: 02 Jul 2012,To: 02 Jul 2012,Christian,FY 2012,44,Sudan,8,167
+From: 02 Jul 2012,To: 02 Jul 2012,Hindu,FY 2012,28,Bhutan,28,167
+From: 02 Jul 2012,To: 02 Jul 2012,Moslem,FY 2012,9,Somalia,9,167
+From: 02 Jul 2012,To: 02 Jul 2012,Moslem Shiite,FY 2012,19,Iraq,19,167
+From: 02 Jul 2012,To: 02 Jul 2012,Moslem Suni,FY 2012,32,Iraq,32,167
+From: 02 Jul 2012,To: 02 Jul 2012,Orthodox,FY 2012,9,Iraq,9,167
+From: 02 Jul 2012,To: 02 Jul 2012,Sabeans-Mandean,FY 2012,4,Iraq,4,167
+From: 02 Jul 2012,To: 02 Jul 2012,Yazidi,FY 2012,5,Iraq,5,167
+

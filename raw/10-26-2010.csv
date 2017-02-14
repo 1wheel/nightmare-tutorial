@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Oct 2010,To: 26 Oct 2010,Bhutan,FY 2011,134,Buddhist,26,472
+From: 26 Oct 2010,To: 26 Oct 2010,Bhutan,FY 2011,134,Christian,14,472
+From: 26 Oct 2010,To: 26 Oct 2010,Bhutan,FY 2011,134,Hindu,89,472
+From: 26 Oct 2010,To: 26 Oct 2010,Bhutan,FY 2011,134,Kirat,5,472
+From: 26 Oct 2010,To: 26 Oct 2010,Burma,FY 2011,156,Animist,17,472
+From: 26 Oct 2010,To: 26 Oct 2010,Burma,FY 2011,156,Baptist,23,472
+From: 26 Oct 2010,To: 26 Oct 2010,Burma,FY 2011,156,Buddhist,8,472
+From: 26 Oct 2010,To: 26 Oct 2010,Burma,FY 2011,156,Catholic,12,472
+From: 26 Oct 2010,To: 26 Oct 2010,Burma,FY 2011,156,Christian,96,472
+From: 26 Oct 2010,To: 26 Oct 2010,Burundi,FY 2011,5,Christian,5,472
+From: 26 Oct 2010,To: 26 Oct 2010,Cuba,FY 2011,50,Catholic,8,472
+From: 26 Oct 2010,To: 26 Oct 2010,Cuba,FY 2011,50,Evangelical Christian,2,472
+From: 26 Oct 2010,To: 26 Oct 2010,Cuba,FY 2011,50,Jehovah Witness,12,472
+From: 26 Oct 2010,To: 26 Oct 2010,Cuba,FY 2011,50,No Religion,28,472
+From: 26 Oct 2010,To: 26 Oct 2010,Dem. Rep. Congo,FY 2011,37,Catholic,23,472
+From: 26 Oct 2010,To: 26 Oct 2010,Dem. Rep. Congo,FY 2011,37,Christian,1,472
+From: 26 Oct 2010,To: 26 Oct 2010,Dem. Rep. Congo,FY 2011,37,Jehovah Witness,10,472
+From: 26 Oct 2010,To: 26 Oct 2010,Dem. Rep. Congo,FY 2011,37,Pentecostalist,3,472
+From: 26 Oct 2010,To: 26 Oct 2010,Ethiopia,FY 2011,1,Orthodox,1,472
+From: 26 Oct 2010,To: 26 Oct 2010,Iraq,FY 2011,45,Christian,5,472
+From: 26 Oct 2010,To: 26 Oct 2010,Iraq,FY 2011,45,Moslem,3,472
+From: 26 Oct 2010,To: 26 Oct 2010,Iraq,FY 2011,45,Moslem Shiite,16,472
+From: 26 Oct 2010,To: 26 Oct 2010,Iraq,FY 2011,45,Moslem Suni,13,472
+From: 26 Oct 2010,To: 26 Oct 2010,Iraq,FY 2011,45,Sabeans-Mandean,8,472
+From: 26 Oct 2010,To: 26 Oct 2010,Palestine,FY 2011,6,Moslem Suni,6,472
+From: 26 Oct 2010,To: 26 Oct 2010,Somalia,FY 2011,21,Moslem,21,472
+From: 26 Oct 2010,To: 26 Oct 2010,Ukraine,FY 2011,17,Pentecostalist,17,472
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Oct 2010,To: 26 Oct 2010,Animist,FY 2011,17,Burma,17,472
+From: 26 Oct 2010,To: 26 Oct 2010,Baptist,FY 2011,23,Burma,23,472
+From: 26 Oct 2010,To: 26 Oct 2010,Buddhist,FY 2011,34,Bhutan,26,472
+From: 26 Oct 2010,To: 26 Oct 2010,Buddhist,FY 2011,34,Burma,8,472
+From: 26 Oct 2010,To: 26 Oct 2010,Catholic,FY 2011,43,Burma,12,472
+From: 26 Oct 2010,To: 26 Oct 2010,Catholic,FY 2011,43,Cuba,8,472
+From: 26 Oct 2010,To: 26 Oct 2010,Catholic,FY 2011,43,Dem. Rep. Congo,23,472
+From: 26 Oct 2010,To: 26 Oct 2010,Christian,FY 2011,121,Bhutan,14,472
+From: 26 Oct 2010,To: 26 Oct 2010,Christian,FY 2011,121,Burma,96,472
+From: 26 Oct 2010,To: 26 Oct 2010,Christian,FY 2011,121,Burundi,5,472
+From: 26 Oct 2010,To: 26 Oct 2010,Christian,FY 2011,121,Dem. Rep. Congo,1,472
+From: 26 Oct 2010,To: 26 Oct 2010,Christian,FY 2011,121,Iraq,5,472
+From: 26 Oct 2010,To: 26 Oct 2010,Evangelical Christian,FY 2011,2,Cuba,2,472
+From: 26 Oct 2010,To: 26 Oct 2010,Hindu,FY 2011,89,Bhutan,89,472
+From: 26 Oct 2010,To: 26 Oct 2010,Jehovah Witness,FY 2011,22,Cuba,12,472
+From: 26 Oct 2010,To: 26 Oct 2010,Jehovah Witness,FY 2011,22,Dem. Rep. Congo,10,472
+From: 26 Oct 2010,To: 26 Oct 2010,Kirat,FY 2011,5,Bhutan,5,472
+From: 26 Oct 2010,To: 26 Oct 2010,Moslem,FY 2011,24,Iraq,3,472
+From: 26 Oct 2010,To: 26 Oct 2010,Moslem,FY 2011,24,Somalia,21,472
+From: 26 Oct 2010,To: 26 Oct 2010,Moslem Shiite,FY 2011,16,Iraq,16,472
+From: 26 Oct 2010,To: 26 Oct 2010,Moslem Suni,FY 2011,19,Iraq,13,472
+From: 26 Oct 2010,To: 26 Oct 2010,Moslem Suni,FY 2011,19,Palestine,6,472
+From: 26 Oct 2010,To: 26 Oct 2010,No Religion,FY 2011,28,Cuba,28,472
+From: 26 Oct 2010,To: 26 Oct 2010,Orthodox,FY 2011,1,Ethiopia,1,472
+From: 26 Oct 2010,To: 26 Oct 2010,Pentecostalist,FY 2011,20,Dem. Rep. Congo,3,472
+From: 26 Oct 2010,To: 26 Oct 2010,Pentecostalist,FY 2011,20,Ukraine,17,472
+From: 26 Oct 2010,To: 26 Oct 2010,Sabeans-Mandean,FY 2011,8,Iraq,8,472
+

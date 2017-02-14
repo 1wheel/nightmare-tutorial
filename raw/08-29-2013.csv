@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Aug 2013,To: 29 Aug 2013,Afghanistan,FY 2013,1,Moslem Suni,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Bhutan,FY 2013,67,Buddhist,21,518
+From: 29 Aug 2013,To: 29 Aug 2013,Bhutan,FY 2013,67,Christian,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Bhutan,FY 2013,67,Hindu,21,518
+From: 29 Aug 2013,To: 29 Aug 2013,Bhutan,FY 2013,67,Kirat,22,518
+From: 29 Aug 2013,To: 29 Aug 2013,Burma,FY 2013,111,Animist,17,518
+From: 29 Aug 2013,To: 29 Aug 2013,Burma,FY 2013,111,Baptist,2,518
+From: 29 Aug 2013,To: 29 Aug 2013,Burma,FY 2013,111,Buddhist,14,518
+From: 29 Aug 2013,To: 29 Aug 2013,Burma,FY 2013,111,Catholic,9,518
+From: 29 Aug 2013,To: 29 Aug 2013,Burma,FY 2013,111,Christian,69,518
+From: 29 Aug 2013,To: 29 Aug 2013,Colombia,FY 2013,13,Catholic,8,518
+From: 29 Aug 2013,To: 29 Aug 2013,Colombia,FY 2013,13,Christian,5,518
+From: 29 Aug 2013,To: 29 Aug 2013,Cuba,FY 2013,66,Baptist,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Cuba,FY 2013,66,Catholic,17,518
+From: 29 Aug 2013,To: 29 Aug 2013,Cuba,FY 2013,66,Jehovah Witness,27,518
+From: 29 Aug 2013,To: 29 Aug 2013,Cuba,FY 2013,66,No Religion,16,518
+From: 29 Aug 2013,To: 29 Aug 2013,Cuba,FY 2013,66,Pentecostalist,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Egypt,FY 2013,2,Catholic,2,518
+From: 29 Aug 2013,To: 29 Aug 2013,Eritrea,FY 2013,1,Pentecostalist,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Georgia,FY 2013,1,Orthodox,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iran,FY 2013,12,Atheist,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iran,FY 2013,12,Bahai,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iran,FY 2013,12,Christian,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iran,FY 2013,12,No Religion,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iran,FY 2013,12,Protestant,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iran,FY 2013,12,Zoroastrian,5,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Catholic,6,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Christian,29,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Moslem,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Moslem Shiite,81,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Moslem Suni,71,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Orthodox,13,518
+From: 29 Aug 2013,To: 29 Aug 2013,Iraq,FY 2013,203,Sabeans-Mandean,2,518
+From: 29 Aug 2013,To: 29 Aug 2013,Nepal,FY 2013,1,Christian,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Pakistan,FY 2013,6,Catholic,6,518
+From: 29 Aug 2013,To: 29 Aug 2013,Palestine,FY 2013,10,Moslem Suni,10,518
+From: 29 Aug 2013,To: 29 Aug 2013,Somalia,FY 2013,9,Moslem,9,518
+From: 29 Aug 2013,To: 29 Aug 2013,Sudan,FY 2013,15,Moslem,15,518
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Aug 2013,To: 29 Aug 2013,Animist,FY 2013,17,Burma,17,518
+From: 29 Aug 2013,To: 29 Aug 2013,Atheist,FY 2013,1,Iran,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Bahai,FY 2013,3,Iran,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Baptist,FY 2013,5,Burma,2,518
+From: 29 Aug 2013,To: 29 Aug 2013,Baptist,FY 2013,5,Cuba,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Buddhist,FY 2013,35,Bhutan,21,518
+From: 29 Aug 2013,To: 29 Aug 2013,Buddhist,FY 2013,35,Burma,14,518
+From: 29 Aug 2013,To: 29 Aug 2013,Catholic,FY 2013,48,Burma,9,518
+From: 29 Aug 2013,To: 29 Aug 2013,Catholic,FY 2013,48,Colombia,8,518
+From: 29 Aug 2013,To: 29 Aug 2013,Catholic,FY 2013,48,Cuba,17,518
+From: 29 Aug 2013,To: 29 Aug 2013,Catholic,FY 2013,48,Egypt,2,518
+From: 29 Aug 2013,To: 29 Aug 2013,Catholic,FY 2013,48,Iraq,6,518
+From: 29 Aug 2013,To: 29 Aug 2013,Catholic,FY 2013,48,Pakistan,6,518
+From: 29 Aug 2013,To: 29 Aug 2013,Christian,FY 2013,108,Bhutan,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Christian,FY 2013,108,Burma,69,518
+From: 29 Aug 2013,To: 29 Aug 2013,Christian,FY 2013,108,Colombia,5,518
+From: 29 Aug 2013,To: 29 Aug 2013,Christian,FY 2013,108,Iran,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Christian,FY 2013,108,Iraq,29,518
+From: 29 Aug 2013,To: 29 Aug 2013,Christian,FY 2013,108,Nepal,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Hindu,FY 2013,21,Bhutan,21,518
+From: 29 Aug 2013,To: 29 Aug 2013,Jehovah Witness,FY 2013,27,Cuba,27,518
+From: 29 Aug 2013,To: 29 Aug 2013,Kirat,FY 2013,22,Bhutan,22,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem,FY 2013,25,Iraq,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem,FY 2013,25,Somalia,9,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem,FY 2013,25,Sudan,15,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem Shiite,FY 2013,81,Iraq,81,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem Suni,FY 2013,82,Afghanistan,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem Suni,FY 2013,82,Iraq,71,518
+From: 29 Aug 2013,To: 29 Aug 2013,Moslem Suni,FY 2013,82,Palestine,10,518
+From: 29 Aug 2013,To: 29 Aug 2013,No Religion,FY 2013,17,Cuba,16,518
+From: 29 Aug 2013,To: 29 Aug 2013,No Religion,FY 2013,17,Iran,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Orthodox,FY 2013,14,Georgia,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Orthodox,FY 2013,14,Iraq,13,518
+From: 29 Aug 2013,To: 29 Aug 2013,Pentecostalist,FY 2013,4,Cuba,3,518
+From: 29 Aug 2013,To: 29 Aug 2013,Pentecostalist,FY 2013,4,Eritrea,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Protestant,FY 2013,1,Iran,1,518
+From: 29 Aug 2013,To: 29 Aug 2013,Sabeans-Mandean,FY 2013,2,Iraq,2,518
+From: 29 Aug 2013,To: 29 Aug 2013,Zoroastrian,FY 2013,5,Iran,5,518
+

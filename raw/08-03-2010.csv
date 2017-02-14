@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Aug 2010,To: 03 Aug 2010,Bhutan,FY 2010,52,Buddhist,7,255
+From: 03 Aug 2010,To: 03 Aug 2010,Bhutan,FY 2010,52,Hindu,45,255
+From: 03 Aug 2010,To: 03 Aug 2010,Burma,FY 2010,45,Buddhist,10,255
+From: 03 Aug 2010,To: 03 Aug 2010,Burma,FY 2010,45,Catholic,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Burma,FY 2010,45,Christian,30,255
+From: 03 Aug 2010,To: 03 Aug 2010,Cuba,FY 2010,8,Catholic,3,255
+From: 03 Aug 2010,To: 03 Aug 2010,Cuba,FY 2010,8,Jehovah Witness,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Eritrea,FY 2010,29,Catholic,3,255
+From: 03 Aug 2010,To: 03 Aug 2010,Eritrea,FY 2010,29,Christian,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Eritrea,FY 2010,29,Moslem,2,255
+From: 03 Aug 2010,To: 03 Aug 2010,Eritrea,FY 2010,29,Orthodox,19,255
+From: 03 Aug 2010,To: 03 Aug 2010,Ethiopia,FY 2010,2,Christian,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Ethiopia,FY 2010,2,Orthodox,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Iraq,FY 2010,115,Chaldean,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Iraq,FY 2010,115,Christian,19,255
+From: 03 Aug 2010,To: 03 Aug 2010,Iraq,FY 2010,115,Moslem,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Iraq,FY 2010,115,Moslem Shiite,39,255
+From: 03 Aug 2010,To: 03 Aug 2010,Iraq,FY 2010,115,Moslem Suni,50,255
+From: 03 Aug 2010,To: 03 Aug 2010,Iraq,FY 2010,115,Sabeans-Mandean,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Somalia,FY 2010,4,Moslem,4,255
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Aug 2010,To: 03 Aug 2010,Buddhist,FY 2010,17,Bhutan,7,255
+From: 03 Aug 2010,To: 03 Aug 2010,Buddhist,FY 2010,17,Burma,10,255
+From: 03 Aug 2010,To: 03 Aug 2010,Catholic,FY 2010,11,Burma,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Catholic,FY 2010,11,Cuba,3,255
+From: 03 Aug 2010,To: 03 Aug 2010,Catholic,FY 2010,11,Eritrea,3,255
+From: 03 Aug 2010,To: 03 Aug 2010,Chaldean,FY 2010,1,Iraq,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Christian,FY 2010,55,Burma,30,255
+From: 03 Aug 2010,To: 03 Aug 2010,Christian,FY 2010,55,Eritrea,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Christian,FY 2010,55,Ethiopia,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Christian,FY 2010,55,Iraq,19,255
+From: 03 Aug 2010,To: 03 Aug 2010,Hindu,FY 2010,45,Bhutan,45,255
+From: 03 Aug 2010,To: 03 Aug 2010,Jehovah Witness,FY 2010,5,Cuba,5,255
+From: 03 Aug 2010,To: 03 Aug 2010,Moslem,FY 2010,7,Eritrea,2,255
+From: 03 Aug 2010,To: 03 Aug 2010,Moslem,FY 2010,7,Iraq,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Moslem,FY 2010,7,Somalia,4,255
+From: 03 Aug 2010,To: 03 Aug 2010,Moslem Shiite,FY 2010,39,Iraq,39,255
+From: 03 Aug 2010,To: 03 Aug 2010,Moslem Suni,FY 2010,50,Iraq,50,255
+From: 03 Aug 2010,To: 03 Aug 2010,Orthodox,FY 2010,20,Eritrea,19,255
+From: 03 Aug 2010,To: 03 Aug 2010,Orthodox,FY 2010,20,Ethiopia,1,255
+From: 03 Aug 2010,To: 03 Aug 2010,Sabeans-Mandean,FY 2010,5,Iraq,5,255
+

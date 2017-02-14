@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Aug 2010,To: 16 Aug 2010,Afghanistan,FY 2010,3,Moslem Suni,3,148
+From: 16 Aug 2010,To: 16 Aug 2010,Bhutan,FY 2010,31,Buddhist,13,148
+From: 16 Aug 2010,To: 16 Aug 2010,Bhutan,FY 2010,31,Hindu,18,148
+From: 16 Aug 2010,To: 16 Aug 2010,Iran,FY 2010,4,Bahai,4,148
+From: 16 Aug 2010,To: 16 Aug 2010,Iraq,FY 2010,74,Catholic,2,148
+From: 16 Aug 2010,To: 16 Aug 2010,Iraq,FY 2010,74,Christian,28,148
+From: 16 Aug 2010,To: 16 Aug 2010,Iraq,FY 2010,74,Moslem Shiite,6,148
+From: 16 Aug 2010,To: 16 Aug 2010,Iraq,FY 2010,74,Moslem Suni,38,148
+From: 16 Aug 2010,To: 16 Aug 2010,Somalia,FY 2010,36,Moslem,16,148
+From: 16 Aug 2010,To: 16 Aug 2010,Somalia,FY 2010,36,Moslem Suni,20,148
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Aug 2010,To: 16 Aug 2010,Bahai,FY 2010,4,Iran,4,148
+From: 16 Aug 2010,To: 16 Aug 2010,Buddhist,FY 2010,13,Bhutan,13,148
+From: 16 Aug 2010,To: 16 Aug 2010,Catholic,FY 2010,2,Iraq,2,148
+From: 16 Aug 2010,To: 16 Aug 2010,Christian,FY 2010,28,Iraq,28,148
+From: 16 Aug 2010,To: 16 Aug 2010,Hindu,FY 2010,18,Bhutan,18,148
+From: 16 Aug 2010,To: 16 Aug 2010,Moslem,FY 2010,16,Somalia,16,148
+From: 16 Aug 2010,To: 16 Aug 2010,Moslem Shiite,FY 2010,6,Iraq,6,148
+From: 16 Aug 2010,To: 16 Aug 2010,Moslem Suni,FY 2010,61,Afghanistan,3,148
+From: 16 Aug 2010,To: 16 Aug 2010,Moslem Suni,FY 2010,61,Iraq,38,148
+From: 16 Aug 2010,To: 16 Aug 2010,Moslem Suni,FY 2010,61,Somalia,20,148
+

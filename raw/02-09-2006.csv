@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Feb 2006,To: 09 Feb 2006,Colombia,FY 2006,6,Catholic,6,214
+From: 09 Feb 2006,To: 09 Feb 2006,Eritrea,FY 2006,1,Orthodox,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Ethiopia,FY 2006,2,Christian,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Ethiopia,FY 2006,2,Moslem,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Liberia,FY 2006,39,Christian,36,214
+From: 09 Feb 2006,To: 09 Feb 2006,Liberia,FY 2006,39,Pentecostalist,3,214
+From: 09 Feb 2006,To: 09 Feb 2006,Russia,FY 2006,35,Moslem,35,214
+From: 09 Feb 2006,To: 09 Feb 2006,Somalia,FY 2006,89,Moslem,89,214
+From: 09 Feb 2006,To: 09 Feb 2006,Sudan,FY 2006,13,Catholic,7,214
+From: 09 Feb 2006,To: 09 Feb 2006,Sudan,FY 2006,13,Christian,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Sudan,FY 2006,13,Moslem,5,214
+From: 09 Feb 2006,To: 09 Feb 2006,Vietnam,FY 2006,29,Buddhist,22,214
+From: 09 Feb 2006,To: 09 Feb 2006,Vietnam,FY 2006,29,Catholic,2,214
+From: 09 Feb 2006,To: 09 Feb 2006,Vietnam,FY 2006,29,Christian,2,214
+From: 09 Feb 2006,To: 09 Feb 2006,Vietnam,FY 2006,29,Hoa Hao,2,214
+From: 09 Feb 2006,To: 09 Feb 2006,Vietnam,FY 2006,29,Unknown,1,214
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Feb 2006,To: 09 Feb 2006,Buddhist,FY 2006,22,Vietnam,22,214
+From: 09 Feb 2006,To: 09 Feb 2006,Catholic,FY 2006,15,Colombia,6,214
+From: 09 Feb 2006,To: 09 Feb 2006,Catholic,FY 2006,15,Sudan,7,214
+From: 09 Feb 2006,To: 09 Feb 2006,Catholic,FY 2006,15,Vietnam,2,214
+From: 09 Feb 2006,To: 09 Feb 2006,Christian,FY 2006,40,Ethiopia,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Christian,FY 2006,40,Liberia,36,214
+From: 09 Feb 2006,To: 09 Feb 2006,Christian,FY 2006,40,Sudan,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Christian,FY 2006,40,Vietnam,2,214
+From: 09 Feb 2006,To: 09 Feb 2006,Hoa Hao,FY 2006,2,Vietnam,2,214
+From: 09 Feb 2006,To: 09 Feb 2006,Moslem,FY 2006,130,Ethiopia,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Moslem,FY 2006,130,Russia,35,214
+From: 09 Feb 2006,To: 09 Feb 2006,Moslem,FY 2006,130,Somalia,89,214
+From: 09 Feb 2006,To: 09 Feb 2006,Moslem,FY 2006,130,Sudan,5,214
+From: 09 Feb 2006,To: 09 Feb 2006,Orthodox,FY 2006,1,Eritrea,1,214
+From: 09 Feb 2006,To: 09 Feb 2006,Pentecostalist,FY 2006,3,Liberia,3,214
+From: 09 Feb 2006,To: 09 Feb 2006,Unknown,FY 2006,1,Vietnam,1,214
+

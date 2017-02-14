@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jun 2007,To: 27 Jun 2007,Burma,FY 2007,94,Buddhist,15,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burma,FY 2007,94,Christian,75,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burma,FY 2007,94,Moslem,4,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Catholic,29,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Christian,1,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Evangelical Christian,8,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Lutheran,5,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Moslem,5,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Pentecostalist,16,311
+From: 27 Jun 2007,To: 27 Jun 2007,Burundi,FY 2007,70,Seventh Day Adventist,6,311
+From: 27 Jun 2007,To: 27 Jun 2007,Iran,FY 2007,73,Bahai,54,311
+From: 27 Jun 2007,To: 27 Jun 2007,Iran,FY 2007,73,Christian,15,311
+From: 27 Jun 2007,To: 27 Jun 2007,Iran,FY 2007,73,Jewish,3,311
+From: 27 Jun 2007,To: 27 Jun 2007,Iran,FY 2007,73,Moslem,1,311
+From: 27 Jun 2007,To: 27 Jun 2007,Iraq,FY 2007,32,Moslem,9,311
+From: 27 Jun 2007,To: 27 Jun 2007,Iraq,FY 2007,32,Moslem Shiite,23,311
+From: 27 Jun 2007,To: 27 Jun 2007,Laos,FY 2007,7,Ancestral Worship,7,311
+From: 27 Jun 2007,To: 27 Jun 2007,Liberia,FY 2007,6,Christian,4,311
+From: 27 Jun 2007,To: 27 Jun 2007,Liberia,FY 2007,6,Moslem,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Sierra Leone,FY 2007,2,Christian,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Somalia,FY 2007,1,Moslem,1,311
+From: 27 Jun 2007,To: 27 Jun 2007,Sudan,FY 2007,8,Christian,4,311
+From: 27 Jun 2007,To: 27 Jun 2007,Sudan,FY 2007,8,Moslem,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Sudan,FY 2007,8,Protestant,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Vietnam,FY 2007,18,Ancestral Worship,11,311
+From: 27 Jun 2007,To: 27 Jun 2007,Vietnam,FY 2007,18,Buddhist,7,311
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jun 2007,To: 27 Jun 2007,Ancestral Worship,FY 2007,18,Laos,7,311
+From: 27 Jun 2007,To: 27 Jun 2007,Ancestral Worship,FY 2007,18,Vietnam,11,311
+From: 27 Jun 2007,To: 27 Jun 2007,Bahai,FY 2007,54,Iran,54,311
+From: 27 Jun 2007,To: 27 Jun 2007,Buddhist,FY 2007,22,Burma,15,311
+From: 27 Jun 2007,To: 27 Jun 2007,Buddhist,FY 2007,22,Vietnam,7,311
+From: 27 Jun 2007,To: 27 Jun 2007,Catholic,FY 2007,29,Burundi,29,311
+From: 27 Jun 2007,To: 27 Jun 2007,Christian,FY 2007,101,Burma,75,311
+From: 27 Jun 2007,To: 27 Jun 2007,Christian,FY 2007,101,Burundi,1,311
+From: 27 Jun 2007,To: 27 Jun 2007,Christian,FY 2007,101,Iran,15,311
+From: 27 Jun 2007,To: 27 Jun 2007,Christian,FY 2007,101,Liberia,4,311
+From: 27 Jun 2007,To: 27 Jun 2007,Christian,FY 2007,101,Sierra Leone,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Christian,FY 2007,101,Sudan,4,311
+From: 27 Jun 2007,To: 27 Jun 2007,Evangelical Christian,FY 2007,8,Burundi,8,311
+From: 27 Jun 2007,To: 27 Jun 2007,Jewish,FY 2007,3,Iran,3,311
+From: 27 Jun 2007,To: 27 Jun 2007,Lutheran,FY 2007,5,Burundi,5,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Burma,4,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Burundi,5,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Iran,1,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Iraq,9,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Liberia,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Somalia,1,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem,FY 2007,24,Sudan,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Moslem Shiite,FY 2007,23,Iraq,23,311
+From: 27 Jun 2007,To: 27 Jun 2007,Pentecostalist,FY 2007,16,Burundi,16,311
+From: 27 Jun 2007,To: 27 Jun 2007,Protestant,FY 2007,2,Sudan,2,311
+From: 27 Jun 2007,To: 27 Jun 2007,Seventh Day Adventist,FY 2007,6,Burundi,6,311
+

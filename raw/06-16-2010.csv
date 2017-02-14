@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jun 2010,To: 16 Jun 2010,Afghanistan,FY 2010,16,Moslem Ismaici,11,411
+From: 16 Jun 2010,To: 16 Jun 2010,Afghanistan,FY 2010,16,Moslem Suni,5,411
+From: 16 Jun 2010,To: 16 Jun 2010,Bhutan,FY 2010,35,Buddhist,11,411
+From: 16 Jun 2010,To: 16 Jun 2010,Bhutan,FY 2010,35,Christian,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Bhutan,FY 2010,35,Hindu,20,411
+From: 16 Jun 2010,To: 16 Jun 2010,Burma,FY 2010,116,Baptist,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Burma,FY 2010,116,Buddhist,33,411
+From: 16 Jun 2010,To: 16 Jun 2010,Burma,FY 2010,116,Christian,82,411
+From: 16 Jun 2010,To: 16 Jun 2010,Burundi,FY 2010,16,Catholic,7,411
+From: 16 Jun 2010,To: 16 Jun 2010,Burundi,FY 2010,16,Other Religion,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Burundi,FY 2010,16,Pentecostalist,5,411
+From: 16 Jun 2010,To: 16 Jun 2010,Colombia,FY 2010,12,Catholic,11,411
+From: 16 Jun 2010,To: 16 Jun 2010,Colombia,FY 2010,12,Unknown,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Dem. Rep. Congo,FY 2010,25,Catholic,3,411
+From: 16 Jun 2010,To: 16 Jun 2010,Dem. Rep. Congo,FY 2010,25,Christian,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Dem. Rep. Congo,FY 2010,25,Lutheran,5,411
+From: 16 Jun 2010,To: 16 Jun 2010,Dem. Rep. Congo,FY 2010,25,Moslem,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Dem. Rep. Congo,FY 2010,25,Pentecostalist,8,411
+From: 16 Jun 2010,To: 16 Jun 2010,Dem. Rep. Congo,FY 2010,25,Protestant,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iran,FY 2010,7,Bahai,7,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iraq,FY 2010,175,Catholic,12,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iraq,FY 2010,175,Christian,35,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iraq,FY 2010,175,Moslem Shiite,26,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iraq,FY 2010,175,Moslem Suni,69,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iraq,FY 2010,175,Orthodox,24,411
+From: 16 Jun 2010,To: 16 Jun 2010,Iraq,FY 2010,175,Sabeans-Mandean,9,411
+From: 16 Jun 2010,To: 16 Jun 2010,Somalia,FY 2010,4,Moslem,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Syria,FY 2010,1,Moslem,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Uzbekistan,FY 2010,4,Other Religion,4,411
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jun 2010,To: 16 Jun 2010,Bahai,FY 2010,7,Iran,7,411
+From: 16 Jun 2010,To: 16 Jun 2010,Baptist,FY 2010,1,Burma,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Buddhist,FY 2010,44,Bhutan,11,411
+From: 16 Jun 2010,To: 16 Jun 2010,Buddhist,FY 2010,44,Burma,33,411
+From: 16 Jun 2010,To: 16 Jun 2010,Catholic,FY 2010,33,Burundi,7,411
+From: 16 Jun 2010,To: 16 Jun 2010,Catholic,FY 2010,33,Colombia,11,411
+From: 16 Jun 2010,To: 16 Jun 2010,Catholic,FY 2010,33,Dem. Rep. Congo,3,411
+From: 16 Jun 2010,To: 16 Jun 2010,Catholic,FY 2010,33,Iraq,12,411
+From: 16 Jun 2010,To: 16 Jun 2010,Christian,FY 2010,125,Bhutan,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Christian,FY 2010,125,Burma,82,411
+From: 16 Jun 2010,To: 16 Jun 2010,Christian,FY 2010,125,Dem. Rep. Congo,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Christian,FY 2010,125,Iraq,35,411
+From: 16 Jun 2010,To: 16 Jun 2010,Hindu,FY 2010,20,Bhutan,20,411
+From: 16 Jun 2010,To: 16 Jun 2010,Lutheran,FY 2010,5,Dem. Rep. Congo,5,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem,FY 2010,6,Dem. Rep. Congo,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem,FY 2010,6,Somalia,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem,FY 2010,6,Syria,1,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem Ismaici,FY 2010,11,Afghanistan,11,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem Shiite,FY 2010,26,Iraq,26,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem Suni,FY 2010,74,Afghanistan,5,411
+From: 16 Jun 2010,To: 16 Jun 2010,Moslem Suni,FY 2010,74,Iraq,69,411
+From: 16 Jun 2010,To: 16 Jun 2010,Orthodox,FY 2010,24,Iraq,24,411
+From: 16 Jun 2010,To: 16 Jun 2010,Other Religion,FY 2010,8,Burundi,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Other Religion,FY 2010,8,Uzbekistan,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Pentecostalist,FY 2010,13,Burundi,5,411
+From: 16 Jun 2010,To: 16 Jun 2010,Pentecostalist,FY 2010,13,Dem. Rep. Congo,8,411
+From: 16 Jun 2010,To: 16 Jun 2010,Protestant,FY 2010,4,Dem. Rep. Congo,4,411
+From: 16 Jun 2010,To: 16 Jun 2010,Sabeans-Mandean,FY 2010,9,Iraq,9,411
+From: 16 Jun 2010,To: 16 Jun 2010,Unknown,FY 2010,1,Colombia,1,411
+

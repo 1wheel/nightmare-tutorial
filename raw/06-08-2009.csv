@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jun 2009,To: 08 Jun 2009,Bhutan,FY 2009,83,Buddhist,13,378
+From: 08 Jun 2009,To: 08 Jun 2009,Bhutan,FY 2009,83,Christian,3,378
+From: 08 Jun 2009,To: 08 Jun 2009,Bhutan,FY 2009,83,Hindu,67,378
+From: 08 Jun 2009,To: 08 Jun 2009,Burma,FY 2009,125,Animist,17,378
+From: 08 Jun 2009,To: 08 Jun 2009,Burma,FY 2009,125,Buddhist,7,378
+From: 08 Jun 2009,To: 08 Jun 2009,Burma,FY 2009,125,Catholic,53,378
+From: 08 Jun 2009,To: 08 Jun 2009,Burma,FY 2009,125,Christian,47,378
+From: 08 Jun 2009,To: 08 Jun 2009,Burma,FY 2009,125,No Religion,1,378
+From: 08 Jun 2009,To: 08 Jun 2009,Gambia,FY 2009,1,Moslem,1,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iran,FY 2009,3,Bahai,3,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Bahai,4,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Catholic,30,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Christian,27,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Moslem Shiite,30,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Moslem Suni,57,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Orthodox,6,378
+From: 08 Jun 2009,To: 08 Jun 2009,Iraq,FY 2009,162,Sabeans-Mandean,8,378
+From: 08 Jun 2009,To: 08 Jun 2009,Sierra Leone,FY 2009,1,Christian,1,378
+From: 08 Jun 2009,To: 08 Jun 2009,Somalia,FY 2009,3,Moslem Suni,3,378
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jun 2009,To: 08 Jun 2009,Animist,FY 2009,17,Burma,17,378
+From: 08 Jun 2009,To: 08 Jun 2009,Bahai,FY 2009,7,Iran,3,378
+From: 08 Jun 2009,To: 08 Jun 2009,Bahai,FY 2009,7,Iraq,4,378
+From: 08 Jun 2009,To: 08 Jun 2009,Buddhist,FY 2009,20,Bhutan,13,378
+From: 08 Jun 2009,To: 08 Jun 2009,Buddhist,FY 2009,20,Burma,7,378
+From: 08 Jun 2009,To: 08 Jun 2009,Catholic,FY 2009,83,Burma,53,378
+From: 08 Jun 2009,To: 08 Jun 2009,Catholic,FY 2009,83,Iraq,30,378
+From: 08 Jun 2009,To: 08 Jun 2009,Christian,FY 2009,78,Bhutan,3,378
+From: 08 Jun 2009,To: 08 Jun 2009,Christian,FY 2009,78,Burma,47,378
+From: 08 Jun 2009,To: 08 Jun 2009,Christian,FY 2009,78,Iraq,27,378
+From: 08 Jun 2009,To: 08 Jun 2009,Christian,FY 2009,78,Sierra Leone,1,378
+From: 08 Jun 2009,To: 08 Jun 2009,Hindu,FY 2009,67,Bhutan,67,378
+From: 08 Jun 2009,To: 08 Jun 2009,Moslem,FY 2009,1,Gambia,1,378
+From: 08 Jun 2009,To: 08 Jun 2009,Moslem Shiite,FY 2009,30,Iraq,30,378
+From: 08 Jun 2009,To: 08 Jun 2009,Moslem Suni,FY 2009,60,Iraq,57,378
+From: 08 Jun 2009,To: 08 Jun 2009,Moslem Suni,FY 2009,60,Somalia,3,378
+From: 08 Jun 2009,To: 08 Jun 2009,No Religion,FY 2009,1,Burma,1,378
+From: 08 Jun 2009,To: 08 Jun 2009,Orthodox,FY 2009,6,Iraq,6,378
+From: 08 Jun 2009,To: 08 Jun 2009,Sabeans-Mandean,FY 2009,8,Iraq,8,378
+

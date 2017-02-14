@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Aug 2006,To: 24 Aug 2006,Afghanistan,FY 2006,6,Moslem Suni,6,188
+From: 24 Aug 2006,To: 24 Aug 2006,Burma,FY 2006,30,Christian,30,188
+From: 24 Aug 2006,To: 24 Aug 2006,Ethiopia,FY 2006,8,Moslem,8,188
+From: 24 Aug 2006,To: 24 Aug 2006,Iran,FY 2006,36,Christian,31,188
+From: 24 Aug 2006,To: 24 Aug 2006,Iran,FY 2006,36,Sabeans-Mandean,2,188
+From: 24 Aug 2006,To: 24 Aug 2006,Iran,FY 2006,36,Zoroastrian,3,188
+From: 24 Aug 2006,To: 24 Aug 2006,Kyrgyzstan,FY 2006,1,Seventh Day Adventist,1,188
+From: 24 Aug 2006,To: 24 Aug 2006,Liberia,FY 2006,22,Christian,19,188
+From: 24 Aug 2006,To: 24 Aug 2006,Liberia,FY 2006,22,Lutheran,3,188
+From: 24 Aug 2006,To: 24 Aug 2006,Russia,FY 2006,9,Moslem,9,188
+From: 24 Aug 2006,To: 24 Aug 2006,Senegal,FY 2006,2,Unknown,2,188
+From: 24 Aug 2006,To: 24 Aug 2006,Somalia,FY 2006,74,Moslem,74,188
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Aug 2006,To: 24 Aug 2006,Christian,FY 2006,80,Burma,30,188
+From: 24 Aug 2006,To: 24 Aug 2006,Christian,FY 2006,80,Iran,31,188
+From: 24 Aug 2006,To: 24 Aug 2006,Christian,FY 2006,80,Liberia,19,188
+From: 24 Aug 2006,To: 24 Aug 2006,Lutheran,FY 2006,3,Liberia,3,188
+From: 24 Aug 2006,To: 24 Aug 2006,Moslem,FY 2006,91,Ethiopia,8,188
+From: 24 Aug 2006,To: 24 Aug 2006,Moslem,FY 2006,91,Russia,9,188
+From: 24 Aug 2006,To: 24 Aug 2006,Moslem,FY 2006,91,Somalia,74,188
+From: 24 Aug 2006,To: 24 Aug 2006,Moslem Suni,FY 2006,6,Afghanistan,6,188
+From: 24 Aug 2006,To: 24 Aug 2006,Sabeans-Mandean,FY 2006,2,Iran,2,188
+From: 24 Aug 2006,To: 24 Aug 2006,Seventh Day Adventist,FY 2006,1,Kyrgyzstan,1,188
+From: 24 Aug 2006,To: 24 Aug 2006,Unknown,FY 2006,2,Senegal,2,188
+From: 24 Aug 2006,To: 24 Aug 2006,Zoroastrian,FY 2006,3,Iran,3,188
+

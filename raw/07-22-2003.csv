@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jul 2003,To: 22 Jul 2003,Afghanistan,FY 2003,8,Moslem Suni,8,189
+From: 22 Jul 2003,To: 22 Jul 2003,Angola,FY 2003,2,Christian,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Angola,FY 2003,2,Protestant,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Azerbaijan,FY 2003,8,Baptist,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Azerbaijan,FY 2003,8,Christian,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Azerbaijan,FY 2003,8,Unknown,6,189
+From: 22 Jul 2003,To: 22 Jul 2003,Bosnia and Herzegovina,FY 2003,11,Moslem,10,189
+From: 22 Jul 2003,To: 22 Jul 2003,Bosnia and Herzegovina,FY 2003,11,Orthodox,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Cameroon,FY 2003,1,Christian,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Congo,FY 2003,2,Catholic,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Congo,FY 2003,2,Christian,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Cuba,FY 2003,1,Pentecostalist,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Dem. Rep. Congo,FY 2003,6,Catholic,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Dem. Rep. Congo,FY 2003,6,Christian,5,189
+From: 22 Jul 2003,To: 22 Jul 2003,Ethiopia,FY 2003,10,Christian,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Ethiopia,FY 2003,10,Moslem,9,189
+From: 22 Jul 2003,To: 22 Jul 2003,Georgia,FY 2003,1,Unknown,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Guinea,FY 2003,1,Moslem,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Kazakhstan,FY 2003,10,Baptist,10,189
+From: 22 Jul 2003,To: 22 Jul 2003,Kyrgyzstan,FY 2003,2,Moslem,2,189
+From: 22 Jul 2003,To: 22 Jul 2003,Russia,FY 2003,9,Baptist,7,189
+From: 22 Jul 2003,To: 22 Jul 2003,Russia,FY 2003,9,Jewish,2,189
+From: 22 Jul 2003,To: 22 Jul 2003,Somalia,FY 2003,44,Moslem,43,189
+From: 22 Jul 2003,To: 22 Jul 2003,Somalia,FY 2003,44,Moslem Suni,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Sudan,FY 2003,36,Catholic,8,189
+From: 22 Jul 2003,To: 22 Jul 2003,Sudan,FY 2003,36,Christian,2,189
+From: 22 Jul 2003,To: 22 Jul 2003,Sudan,FY 2003,36,Evangelical Christian,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Sudan,FY 2003,36,Jehovah Witness,6,189
+From: 22 Jul 2003,To: 22 Jul 2003,Sudan,FY 2003,36,Moslem,4,189
+From: 22 Jul 2003,To: 22 Jul 2003,Sudan,FY 2003,36,Protestant,15,189
+From: 22 Jul 2003,To: 22 Jul 2003,Togo,FY 2003,3,Unknown,3,189
+From: 22 Jul 2003,To: 22 Jul 2003,Ukraine,FY 2003,34,Baptist,4,189
+From: 22 Jul 2003,To: 22 Jul 2003,Ukraine,FY 2003,34,Jewish,3,189
+From: 22 Jul 2003,To: 22 Jul 2003,Ukraine,FY 2003,34,Pentecostalist,27,189
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jul 2003,To: 22 Jul 2003,Baptist,FY 2003,22,Azerbaijan,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Baptist,FY 2003,22,Kazakhstan,10,189
+From: 22 Jul 2003,To: 22 Jul 2003,Baptist,FY 2003,22,Russia,7,189
+From: 22 Jul 2003,To: 22 Jul 2003,Baptist,FY 2003,22,Ukraine,4,189
+From: 22 Jul 2003,To: 22 Jul 2003,Catholic,FY 2003,10,Congo,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Catholic,FY 2003,10,Dem. Rep. Congo,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Catholic,FY 2003,10,Sudan,8,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Angola,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Azerbaijan,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Cameroon,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Congo,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Dem. Rep. Congo,5,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Ethiopia,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Christian,FY 2003,12,Sudan,2,189
+From: 22 Jul 2003,To: 22 Jul 2003,Evangelical Christian,FY 2003,1,Sudan,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Jehovah Witness,FY 2003,6,Sudan,6,189
+From: 22 Jul 2003,To: 22 Jul 2003,Jewish,FY 2003,5,Russia,2,189
+From: 22 Jul 2003,To: 22 Jul 2003,Jewish,FY 2003,5,Ukraine,3,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem,FY 2003,69,Bosnia and Herzegovina,10,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem,FY 2003,69,Ethiopia,9,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem,FY 2003,69,Guinea,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem,FY 2003,69,Kyrgyzstan,2,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem,FY 2003,69,Somalia,43,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem,FY 2003,69,Sudan,4,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem Suni,FY 2003,9,Afghanistan,8,189
+From: 22 Jul 2003,To: 22 Jul 2003,Moslem Suni,FY 2003,9,Somalia,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Orthodox,FY 2003,1,Bosnia and Herzegovina,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Pentecostalist,FY 2003,28,Cuba,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Pentecostalist,FY 2003,28,Ukraine,27,189
+From: 22 Jul 2003,To: 22 Jul 2003,Protestant,FY 2003,16,Angola,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Protestant,FY 2003,16,Sudan,15,189
+From: 22 Jul 2003,To: 22 Jul 2003,Unknown,FY 2003,10,Azerbaijan,6,189
+From: 22 Jul 2003,To: 22 Jul 2003,Unknown,FY 2003,10,Georgia,1,189
+From: 22 Jul 2003,To: 22 Jul 2003,Unknown,FY 2003,10,Togo,3,189
+

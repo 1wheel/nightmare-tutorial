@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Sep 2006,To: 13 Sep 2006,Afghanistan,FY 2006,5,Moslem Shiite,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Burma,FY 2006,61,Buddhist,4,373
+From: 13 Sep 2006,To: 13 Sep 2006,Burma,FY 2006,61,Christian,57,373
+From: 13 Sep 2006,To: 13 Sep 2006,Ethiopia,FY 2006,51,Christian,12,373
+From: 13 Sep 2006,To: 13 Sep 2006,Ethiopia,FY 2006,51,Moslem,32,373
+From: 13 Sep 2006,To: 13 Sep 2006,Ethiopia,FY 2006,51,Orthodox,7,373
+From: 13 Sep 2006,To: 13 Sep 2006,Laos,FY 2006,11,Ancestral Worship,11,373
+From: 13 Sep 2006,To: 13 Sep 2006,Russia,FY 2006,72,Jewish,6,373
+From: 13 Sep 2006,To: 13 Sep 2006,Russia,FY 2006,72,Moslem,57,373
+From: 13 Sep 2006,To: 13 Sep 2006,Russia,FY 2006,72,Pentecostalist,9,373
+From: 13 Sep 2006,To: 13 Sep 2006,Rwanda,FY 2006,2,Pentecostalist,2,373
+From: 13 Sep 2006,To: 13 Sep 2006,Sierra Leone,FY 2006,3,Moslem,3,373
+From: 13 Sep 2006,To: 13 Sep 2006,Somalia,FY 2006,110,Moslem,110,373
+From: 13 Sep 2006,To: 13 Sep 2006,Sudan,FY 2006,1,Pentecostalist,1,373
+From: 13 Sep 2006,To: 13 Sep 2006,Turkmenistan,FY 2006,2,Jewish,2,373
+From: 13 Sep 2006,To: 13 Sep 2006,Uzbekistan,FY 2006,21,Baptist,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Uzbekistan,FY 2006,21,Jewish,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Uzbekistan,FY 2006,21,Orthodox,1,373
+From: 13 Sep 2006,To: 13 Sep 2006,Uzbekistan,FY 2006,21,Pentecostalist,2,373
+From: 13 Sep 2006,To: 13 Sep 2006,Uzbekistan,FY 2006,21,Seventh Day Adventist,8,373
+From: 13 Sep 2006,To: 13 Sep 2006,Vietnam,FY 2006,34,Ancestral Worship,6,373
+From: 13 Sep 2006,To: 13 Sep 2006,Vietnam,FY 2006,34,Buddhist,6,373
+From: 13 Sep 2006,To: 13 Sep 2006,Vietnam,FY 2006,34,Cao Dai,4,373
+From: 13 Sep 2006,To: 13 Sep 2006,Vietnam,FY 2006,34,Catholic,4,373
+From: 13 Sep 2006,To: 13 Sep 2006,Vietnam,FY 2006,34,Christian,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Vietnam,FY 2006,34,Protestant,9,373
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Sep 2006,To: 13 Sep 2006,Ancestral Worship,FY 2006,17,Laos,11,373
+From: 13 Sep 2006,To: 13 Sep 2006,Ancestral Worship,FY 2006,17,Vietnam,6,373
+From: 13 Sep 2006,To: 13 Sep 2006,Baptist,FY 2006,5,Uzbekistan,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Buddhist,FY 2006,10,Burma,4,373
+From: 13 Sep 2006,To: 13 Sep 2006,Buddhist,FY 2006,10,Vietnam,6,373
+From: 13 Sep 2006,To: 13 Sep 2006,Cao Dai,FY 2006,4,Vietnam,4,373
+From: 13 Sep 2006,To: 13 Sep 2006,Catholic,FY 2006,4,Vietnam,4,373
+From: 13 Sep 2006,To: 13 Sep 2006,Christian,FY 2006,74,Burma,57,373
+From: 13 Sep 2006,To: 13 Sep 2006,Christian,FY 2006,74,Ethiopia,12,373
+From: 13 Sep 2006,To: 13 Sep 2006,Christian,FY 2006,74,Vietnam,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Jewish,FY 2006,13,Russia,6,373
+From: 13 Sep 2006,To: 13 Sep 2006,Jewish,FY 2006,13,Turkmenistan,2,373
+From: 13 Sep 2006,To: 13 Sep 2006,Jewish,FY 2006,13,Uzbekistan,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Moslem,FY 2006,202,Ethiopia,32,373
+From: 13 Sep 2006,To: 13 Sep 2006,Moslem,FY 2006,202,Russia,57,373
+From: 13 Sep 2006,To: 13 Sep 2006,Moslem,FY 2006,202,Sierra Leone,3,373
+From: 13 Sep 2006,To: 13 Sep 2006,Moslem,FY 2006,202,Somalia,110,373
+From: 13 Sep 2006,To: 13 Sep 2006,Moslem Shiite,FY 2006,5,Afghanistan,5,373
+From: 13 Sep 2006,To: 13 Sep 2006,Orthodox,FY 2006,8,Ethiopia,7,373
+From: 13 Sep 2006,To: 13 Sep 2006,Orthodox,FY 2006,8,Uzbekistan,1,373
+From: 13 Sep 2006,To: 13 Sep 2006,Pentecostalist,FY 2006,14,Russia,9,373
+From: 13 Sep 2006,To: 13 Sep 2006,Pentecostalist,FY 2006,14,Rwanda,2,373
+From: 13 Sep 2006,To: 13 Sep 2006,Pentecostalist,FY 2006,14,Sudan,1,373
+From: 13 Sep 2006,To: 13 Sep 2006,Pentecostalist,FY 2006,14,Uzbekistan,2,373
+From: 13 Sep 2006,To: 13 Sep 2006,Protestant,FY 2006,9,Vietnam,9,373
+From: 13 Sep 2006,To: 13 Sep 2006,Seventh Day Adventist,FY 2006,8,Uzbekistan,8,373
+

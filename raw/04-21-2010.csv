@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Apr 2010,To: 21 Apr 2010,Afghanistan,FY 2010,1,Moslem Suni,1,358
+From: 21 Apr 2010,To: 21 Apr 2010,Azerbaijan,FY 2010,1,Jewish,1,358
+From: 21 Apr 2010,To: 21 Apr 2010,Bhutan,FY 2010,38,Buddhist,7,358
+From: 21 Apr 2010,To: 21 Apr 2010,Bhutan,FY 2010,38,Christian,8,358
+From: 21 Apr 2010,To: 21 Apr 2010,Bhutan,FY 2010,38,Hindu,23,358
+From: 21 Apr 2010,To: 21 Apr 2010,Burma,FY 2010,148,Buddhist,6,358
+From: 21 Apr 2010,To: 21 Apr 2010,Burma,FY 2010,148,Christian,124,358
+From: 21 Apr 2010,To: 21 Apr 2010,Burma,FY 2010,148,Moslem,18,358
+From: 21 Apr 2010,To: 21 Apr 2010,China,FY 2010,2,Other Religion,2,358
+From: 21 Apr 2010,To: 21 Apr 2010,Cuba,FY 2010,4,Catholic,4,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iran,FY 2010,13,Bahai,7,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iran,FY 2010,13,Christian,2,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iran,FY 2010,13,No Religion,4,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iraq,FY 2010,114,Catholic,18,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iraq,FY 2010,114,Christian,42,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iraq,FY 2010,114,Moslem Shiite,12,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iraq,FY 2010,114,Moslem Suni,39,358
+From: 21 Apr 2010,To: 21 Apr 2010,Iraq,FY 2010,114,Orthodox,3,358
+From: 21 Apr 2010,To: 21 Apr 2010,Kuwait,FY 2010,9,Moslem Suni,9,358
+From: 21 Apr 2010,To: 21 Apr 2010,Russia,FY 2010,5,Jewish,3,358
+From: 21 Apr 2010,To: 21 Apr 2010,Russia,FY 2010,5,No Religion,2,358
+From: 21 Apr 2010,To: 21 Apr 2010,Sri Lanka (Ceylon),FY 2010,2,Hindu,2,358
+From: 21 Apr 2010,To: 21 Apr 2010,Turkmenistan,FY 2010,3,Moslem,3,358
+From: 21 Apr 2010,To: 21 Apr 2010,Vietnam,FY 2010,18,Buddhist,9,358
+From: 21 Apr 2010,To: 21 Apr 2010,Vietnam,FY 2010,18,No Religion,9,358
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Apr 2010,To: 21 Apr 2010,Bahai,FY 2010,7,Iran,7,358
+From: 21 Apr 2010,To: 21 Apr 2010,Buddhist,FY 2010,22,Bhutan,7,358
+From: 21 Apr 2010,To: 21 Apr 2010,Buddhist,FY 2010,22,Burma,6,358
+From: 21 Apr 2010,To: 21 Apr 2010,Buddhist,FY 2010,22,Vietnam,9,358
+From: 21 Apr 2010,To: 21 Apr 2010,Catholic,FY 2010,22,Cuba,4,358
+From: 21 Apr 2010,To: 21 Apr 2010,Catholic,FY 2010,22,Iraq,18,358
+From: 21 Apr 2010,To: 21 Apr 2010,Christian,FY 2010,176,Bhutan,8,358
+From: 21 Apr 2010,To: 21 Apr 2010,Christian,FY 2010,176,Burma,124,358
+From: 21 Apr 2010,To: 21 Apr 2010,Christian,FY 2010,176,Iran,2,358
+From: 21 Apr 2010,To: 21 Apr 2010,Christian,FY 2010,176,Iraq,42,358
+From: 21 Apr 2010,To: 21 Apr 2010,Hindu,FY 2010,25,Bhutan,23,358
+From: 21 Apr 2010,To: 21 Apr 2010,Hindu,FY 2010,25,Sri Lanka (Ceylon),2,358
+From: 21 Apr 2010,To: 21 Apr 2010,Jewish,FY 2010,4,Azerbaijan,1,358
+From: 21 Apr 2010,To: 21 Apr 2010,Jewish,FY 2010,4,Russia,3,358
+From: 21 Apr 2010,To: 21 Apr 2010,Moslem,FY 2010,21,Burma,18,358
+From: 21 Apr 2010,To: 21 Apr 2010,Moslem,FY 2010,21,Turkmenistan,3,358
+From: 21 Apr 2010,To: 21 Apr 2010,Moslem Shiite,FY 2010,12,Iraq,12,358
+From: 21 Apr 2010,To: 21 Apr 2010,Moslem Suni,FY 2010,49,Afghanistan,1,358
+From: 21 Apr 2010,To: 21 Apr 2010,Moslem Suni,FY 2010,49,Iraq,39,358
+From: 21 Apr 2010,To: 21 Apr 2010,Moslem Suni,FY 2010,49,Kuwait,9,358
+From: 21 Apr 2010,To: 21 Apr 2010,No Religion,FY 2010,15,Iran,4,358
+From: 21 Apr 2010,To: 21 Apr 2010,No Religion,FY 2010,15,Russia,2,358
+From: 21 Apr 2010,To: 21 Apr 2010,No Religion,FY 2010,15,Vietnam,9,358
+From: 21 Apr 2010,To: 21 Apr 2010,Orthodox,FY 2010,3,Iraq,3,358
+From: 21 Apr 2010,To: 21 Apr 2010,Other Religion,FY 2010,2,China,2,358
+

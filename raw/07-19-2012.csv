@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Jul 2012,To: 19 Jul 2012,Bhutan,FY 2012,91,Buddhist,25,349
+From: 19 Jul 2012,To: 19 Jul 2012,Bhutan,FY 2012,91,Christian,5,349
+From: 19 Jul 2012,To: 19 Jul 2012,Bhutan,FY 2012,91,Hindu,48,349
+From: 19 Jul 2012,To: 19 Jul 2012,Bhutan,FY 2012,91,Kirat,13,349
+From: 19 Jul 2012,To: 19 Jul 2012,Burma,FY 2012,72,Baptist,9,349
+From: 19 Jul 2012,To: 19 Jul 2012,Burma,FY 2012,72,Buddhist,16,349
+From: 19 Jul 2012,To: 19 Jul 2012,Burma,FY 2012,72,Catholic,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Burma,FY 2012,72,Christian,46,349
+From: 19 Jul 2012,To: 19 Jul 2012,Cuba,FY 2012,38,Baptist,4,349
+From: 19 Jul 2012,To: 19 Jul 2012,Cuba,FY 2012,38,Catholic,16,349
+From: 19 Jul 2012,To: 19 Jul 2012,Cuba,FY 2012,38,Jehovah Witness,10,349
+From: 19 Jul 2012,To: 19 Jul 2012,Cuba,FY 2012,38,No Religion,7,349
+From: 19 Jul 2012,To: 19 Jul 2012,Cuba,FY 2012,38,Pentecostalist,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Ethiopia,FY 2012,1,Orthodox,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iran,FY 2012,11,Bahai,2,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iran,FY 2012,11,Christian,6,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iran,FY 2012,11,Jewish,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iran,FY 2012,11,Zoroastrian,2,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Catholic,32,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Christian,10,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Moslem,2,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Moslem Shiite,27,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Moslem Suni,31,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Orthodox,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Iraq,FY 2012,111,Yazidi,8,349
+From: 19 Jul 2012,To: 19 Jul 2012,Pakistan,FY 2012,4,Ahmadiyya,4,349
+From: 19 Jul 2012,To: 19 Jul 2012,Somalia,FY 2012,18,Moslem,11,349
+From: 19 Jul 2012,To: 19 Jul 2012,Somalia,FY 2012,18,Moslem Suni,7,349
+From: 19 Jul 2012,To: 19 Jul 2012,Sudan,FY 2012,3,Moslem,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Sudan,FY 2012,3,Moslem Suni,2,349
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Jul 2012,To: 19 Jul 2012,Ahmadiyya,FY 2012,4,Pakistan,4,349
+From: 19 Jul 2012,To: 19 Jul 2012,Bahai,FY 2012,2,Iran,2,349
+From: 19 Jul 2012,To: 19 Jul 2012,Baptist,FY 2012,13,Burma,9,349
+From: 19 Jul 2012,To: 19 Jul 2012,Baptist,FY 2012,13,Cuba,4,349
+From: 19 Jul 2012,To: 19 Jul 2012,Buddhist,FY 2012,41,Bhutan,25,349
+From: 19 Jul 2012,To: 19 Jul 2012,Buddhist,FY 2012,41,Burma,16,349
+From: 19 Jul 2012,To: 19 Jul 2012,Catholic,FY 2012,49,Burma,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Catholic,FY 2012,49,Cuba,16,349
+From: 19 Jul 2012,To: 19 Jul 2012,Catholic,FY 2012,49,Iraq,32,349
+From: 19 Jul 2012,To: 19 Jul 2012,Christian,FY 2012,67,Bhutan,5,349
+From: 19 Jul 2012,To: 19 Jul 2012,Christian,FY 2012,67,Burma,46,349
+From: 19 Jul 2012,To: 19 Jul 2012,Christian,FY 2012,67,Iran,6,349
+From: 19 Jul 2012,To: 19 Jul 2012,Christian,FY 2012,67,Iraq,10,349
+From: 19 Jul 2012,To: 19 Jul 2012,Hindu,FY 2012,48,Bhutan,48,349
+From: 19 Jul 2012,To: 19 Jul 2012,Jehovah Witness,FY 2012,10,Cuba,10,349
+From: 19 Jul 2012,To: 19 Jul 2012,Jewish,FY 2012,1,Iran,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Kirat,FY 2012,13,Bhutan,13,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem,FY 2012,14,Iraq,2,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem,FY 2012,14,Somalia,11,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem,FY 2012,14,Sudan,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem Shiite,FY 2012,27,Iraq,27,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem Suni,FY 2012,40,Iraq,31,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem Suni,FY 2012,40,Somalia,7,349
+From: 19 Jul 2012,To: 19 Jul 2012,Moslem Suni,FY 2012,40,Sudan,2,349
+From: 19 Jul 2012,To: 19 Jul 2012,No Religion,FY 2012,7,Cuba,7,349
+From: 19 Jul 2012,To: 19 Jul 2012,Orthodox,FY 2012,2,Ethiopia,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Orthodox,FY 2012,2,Iraq,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Pentecostalist,FY 2012,1,Cuba,1,349
+From: 19 Jul 2012,To: 19 Jul 2012,Yazidi,FY 2012,8,Iraq,8,349
+From: 19 Jul 2012,To: 19 Jul 2012,Zoroastrian,FY 2012,2,Iran,2,349
+

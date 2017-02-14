@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Apr 2003,To: 04 Apr 2003,Afghanistan,FY 2003,1,Unknown,1,111
+From: 04 Apr 2003,To: 04 Apr 2003,Colombia,FY 2003,8,Catholic,4,111
+From: 04 Apr 2003,To: 04 Apr 2003,Colombia,FY 2003,8,Evangelical Christian,4,111
+From: 04 Apr 2003,To: 04 Apr 2003,Serbia,FY 2003,33,Orthodox,33,111
+From: 04 Apr 2003,To: 04 Apr 2003,Sudan,FY 2003,34,Catholic,15,111
+From: 04 Apr 2003,To: 04 Apr 2003,Sudan,FY 2003,34,Moslem,13,111
+From: 04 Apr 2003,To: 04 Apr 2003,Sudan,FY 2003,34,Protestant,6,111
+From: 04 Apr 2003,To: 04 Apr 2003,Ukraine,FY 2003,35,Baptist,15,111
+From: 04 Apr 2003,To: 04 Apr 2003,Ukraine,FY 2003,35,Jewish,2,111
+From: 04 Apr 2003,To: 04 Apr 2003,Ukraine,FY 2003,35,Pentecostalist,14,111
+From: 04 Apr 2003,To: 04 Apr 2003,Ukraine,FY 2003,35,Uniate,4,111
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Apr 2003,To: 04 Apr 2003,Baptist,FY 2003,15,Ukraine,15,111
+From: 04 Apr 2003,To: 04 Apr 2003,Catholic,FY 2003,19,Colombia,4,111
+From: 04 Apr 2003,To: 04 Apr 2003,Catholic,FY 2003,19,Sudan,15,111
+From: 04 Apr 2003,To: 04 Apr 2003,Evangelical Christian,FY 2003,4,Colombia,4,111
+From: 04 Apr 2003,To: 04 Apr 2003,Jewish,FY 2003,2,Ukraine,2,111
+From: 04 Apr 2003,To: 04 Apr 2003,Moslem,FY 2003,13,Sudan,13,111
+From: 04 Apr 2003,To: 04 Apr 2003,Orthodox,FY 2003,33,Serbia,33,111
+From: 04 Apr 2003,To: 04 Apr 2003,Pentecostalist,FY 2003,14,Ukraine,14,111
+From: 04 Apr 2003,To: 04 Apr 2003,Protestant,FY 2003,6,Sudan,6,111
+From: 04 Apr 2003,To: 04 Apr 2003,Uniate,FY 2003,4,Ukraine,4,111
+From: 04 Apr 2003,To: 04 Apr 2003,Unknown,FY 2003,1,Afghanistan,1,111
+

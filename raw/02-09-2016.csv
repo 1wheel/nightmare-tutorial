@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Feb 2016,To: 09 Feb 2016,Afghanistan,FY 2016,17,Moslem Shiite,8,294
+From: 09 Feb 2016,To: 09 Feb 2016,Afghanistan,FY 2016,17,Moslem Suni,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Burma,FY 2016,31,Buddhist,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Burma,FY 2016,31,Christian,17,294
+From: 09 Feb 2016,To: 09 Feb 2016,Burma,FY 2016,31,Moslem,5,294
+From: 09 Feb 2016,To: 09 Feb 2016,Burundi,FY 2016,17,Moslem,4,294
+From: 09 Feb 2016,To: 09 Feb 2016,Burundi,FY 2016,17,Protestant,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Burundi,FY 2016,17,Seventh Day Adventist,12,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Baptist,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Catholic,20,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Christian,23,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Methodist,13,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Moslem,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Other Religion,6,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Pentecostalist,23,294
+From: 09 Feb 2016,To: 09 Feb 2016,Dem. Rep. Congo,FY 2016,119,Protestant,16,294
+From: 09 Feb 2016,To: 09 Feb 2016,Egypt,FY 2016,3,Moslem,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,El Salvador,FY 2016,2,Catholic,2,294
+From: 09 Feb 2016,To: 09 Feb 2016,Eritrea,FY 2016,11,Catholic,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Eritrea,FY 2016,11,Christian,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Eritrea,FY 2016,11,Moslem,2,294
+From: 09 Feb 2016,To: 09 Feb 2016,Eritrea,FY 2016,11,Orthodox,5,294
+From: 09 Feb 2016,To: 09 Feb 2016,Eritrea,FY 2016,11,Protestant,2,294
+From: 09 Feb 2016,To: 09 Feb 2016,Ethiopia,FY 2016,1,Pentecostalist,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Iran,FY 2016,7,Moslem Shiite,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Iran,FY 2016,7,Moslem Suni,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Iran,FY 2016,7,Protestant,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Iraq,FY 2016,24,Moslem Shiite,6,294
+From: 09 Feb 2016,To: 09 Feb 2016,Iraq,FY 2016,24,Moslem Suni,17,294
+From: 09 Feb 2016,To: 09 Feb 2016,Iraq,FY 2016,24,Other Religion,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Pakistan,FY 2016,1,Ahmadiyya,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Russia,FY 2016,18,Jewish,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Russia,FY 2016,18,Pentecostalist,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Russia,FY 2016,18,Seventh Day Adventist,6,294
+From: 09 Feb 2016,To: 09 Feb 2016,Rwanda,FY 2016,1,Pentecostalist,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Somalia,FY 2016,37,Moslem,32,294
+From: 09 Feb 2016,To: 09 Feb 2016,Somalia,FY 2016,37,Moslem Suni,5,294
+From: 09 Feb 2016,To: 09 Feb 2016,Ukraine,FY 2016,4,Baptist,4,294
+From: 09 Feb 2016,To: 09 Feb 2016,Zimbabwe,FY 2016,1,Christian,1,294
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Feb 2016,To: 09 Feb 2016,Ahmadiyya,FY 2016,1,Pakistan,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Baptist,FY 2016,13,Dem. Rep. Congo,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Baptist,FY 2016,13,Ukraine,4,294
+From: 09 Feb 2016,To: 09 Feb 2016,Buddhist,FY 2016,9,Burma,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Catholic,FY 2016,23,Dem. Rep. Congo,20,294
+From: 09 Feb 2016,To: 09 Feb 2016,Catholic,FY 2016,23,El Salvador,2,294
+From: 09 Feb 2016,To: 09 Feb 2016,Catholic,FY 2016,23,Eritrea,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Christian,FY 2016,42,Burma,17,294
+From: 09 Feb 2016,To: 09 Feb 2016,Christian,FY 2016,42,Dem. Rep. Congo,23,294
+From: 09 Feb 2016,To: 09 Feb 2016,Christian,FY 2016,42,Eritrea,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Christian,FY 2016,42,Zimbabwe,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Jewish,FY 2016,3,Russia,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Methodist,FY 2016,13,Dem. Rep. Congo,13,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem,FY 2016,55,Burma,5,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem,FY 2016,55,Burundi,4,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem,FY 2016,55,Dem. Rep. Congo,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem,FY 2016,55,Egypt,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem,FY 2016,55,Eritrea,2,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem,FY 2016,55,Somalia,32,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Shiite,FY 2016,15,Afghanistan,8,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Shiite,FY 2016,15,Iran,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Shiite,FY 2016,15,Iraq,6,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Suni,FY 2016,34,Afghanistan,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Suni,FY 2016,34,Iran,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Suni,FY 2016,34,Iraq,17,294
+From: 09 Feb 2016,To: 09 Feb 2016,Moslem Suni,FY 2016,34,Somalia,5,294
+From: 09 Feb 2016,To: 09 Feb 2016,Orthodox,FY 2016,5,Eritrea,5,294
+From: 09 Feb 2016,To: 09 Feb 2016,Other Religion,FY 2016,7,Dem. Rep. Congo,6,294
+From: 09 Feb 2016,To: 09 Feb 2016,Other Religion,FY 2016,7,Iraq,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Pentecostalist,FY 2016,34,Dem. Rep. Congo,23,294
+From: 09 Feb 2016,To: 09 Feb 2016,Pentecostalist,FY 2016,34,Ethiopia,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Pentecostalist,FY 2016,34,Russia,9,294
+From: 09 Feb 2016,To: 09 Feb 2016,Pentecostalist,FY 2016,34,Rwanda,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Protestant,FY 2016,22,Burundi,1,294
+From: 09 Feb 2016,To: 09 Feb 2016,Protestant,FY 2016,22,Dem. Rep. Congo,16,294
+From: 09 Feb 2016,To: 09 Feb 2016,Protestant,FY 2016,22,Eritrea,2,294
+From: 09 Feb 2016,To: 09 Feb 2016,Protestant,FY 2016,22,Iran,3,294
+From: 09 Feb 2016,To: 09 Feb 2016,Seventh Day Adventist,FY 2016,18,Burundi,12,294
+From: 09 Feb 2016,To: 09 Feb 2016,Seventh Day Adventist,FY 2016,18,Russia,6,294
+

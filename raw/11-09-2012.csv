@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Nov 2012,To: 09 Nov 2012,Afghanistan,FY 2013,2,Moslem Shiite,1,81
+From: 09 Nov 2012,To: 09 Nov 2012,Afghanistan,FY 2013,2,Moslem Suni,1,81
+From: 09 Nov 2012,To: 09 Nov 2012,Bhutan,FY 2013,31,Buddhist,10,81
+From: 09 Nov 2012,To: 09 Nov 2012,Bhutan,FY 2013,31,Christian,5,81
+From: 09 Nov 2012,To: 09 Nov 2012,Bhutan,FY 2013,31,Hindu,12,81
+From: 09 Nov 2012,To: 09 Nov 2012,Bhutan,FY 2013,31,Kirat,4,81
+From: 09 Nov 2012,To: 09 Nov 2012,Iran,FY 2013,9,Bahai,6,81
+From: 09 Nov 2012,To: 09 Nov 2012,Iran,FY 2013,9,Moslem Shiite,1,81
+From: 09 Nov 2012,To: 09 Nov 2012,Iran,FY 2013,9,Protestant,2,81
+From: 09 Nov 2012,To: 09 Nov 2012,Iraq,FY 2013,30,Moslem Shiite,11,81
+From: 09 Nov 2012,To: 09 Nov 2012,Iraq,FY 2013,30,Moslem Suni,16,81
+From: 09 Nov 2012,To: 09 Nov 2012,Iraq,FY 2013,30,Sabeans-Mandean,3,81
+From: 09 Nov 2012,To: 09 Nov 2012,Somalia,FY 2013,2,Moslem,2,81
+From: 09 Nov 2012,To: 09 Nov 2012,Ukraine,FY 2013,7,Baptist,3,81
+From: 09 Nov 2012,To: 09 Nov 2012,Ukraine,FY 2013,7,Uniate,4,81
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Nov 2012,To: 09 Nov 2012,Bahai,FY 2013,6,Iran,6,81
+From: 09 Nov 2012,To: 09 Nov 2012,Baptist,FY 2013,3,Ukraine,3,81
+From: 09 Nov 2012,To: 09 Nov 2012,Buddhist,FY 2013,10,Bhutan,10,81
+From: 09 Nov 2012,To: 09 Nov 2012,Christian,FY 2013,5,Bhutan,5,81
+From: 09 Nov 2012,To: 09 Nov 2012,Hindu,FY 2013,12,Bhutan,12,81
+From: 09 Nov 2012,To: 09 Nov 2012,Kirat,FY 2013,4,Bhutan,4,81
+From: 09 Nov 2012,To: 09 Nov 2012,Moslem,FY 2013,2,Somalia,2,81
+From: 09 Nov 2012,To: 09 Nov 2012,Moslem Shiite,FY 2013,13,Afghanistan,1,81
+From: 09 Nov 2012,To: 09 Nov 2012,Moslem Shiite,FY 2013,13,Iran,1,81
+From: 09 Nov 2012,To: 09 Nov 2012,Moslem Shiite,FY 2013,13,Iraq,11,81
+From: 09 Nov 2012,To: 09 Nov 2012,Moslem Suni,FY 2013,17,Afghanistan,1,81
+From: 09 Nov 2012,To: 09 Nov 2012,Moslem Suni,FY 2013,17,Iraq,16,81
+From: 09 Nov 2012,To: 09 Nov 2012,Protestant,FY 2013,2,Iran,2,81
+From: 09 Nov 2012,To: 09 Nov 2012,Sabeans-Mandean,FY 2013,3,Iraq,3,81
+From: 09 Nov 2012,To: 09 Nov 2012,Uniate,FY 2013,4,Ukraine,4,81
+

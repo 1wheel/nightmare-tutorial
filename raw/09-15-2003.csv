@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Sep 2003,To: 15 Sep 2003,Afghanistan,FY 2003,1,Moslem,1,256
+From: 15 Sep 2003,To: 15 Sep 2003,Ethiopia,FY 2003,24,Christian,10,256
+From: 15 Sep 2003,To: 15 Sep 2003,Ethiopia,FY 2003,24,Orthodox,14,256
+From: 15 Sep 2003,To: 15 Sep 2003,Iran,FY 2003,13,Bahai,13,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Baptist,5,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Catholic,3,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Christian,71,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Evangelical Christian,4,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Methodist,4,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Moslem,3,256
+From: 15 Sep 2003,To: 15 Sep 2003,Liberia,FY 2003,105,Pentecostalist,15,256
+From: 15 Sep 2003,To: 15 Sep 2003,Moldova,FY 2003,16,Pentecostalist,16,256
+From: 15 Sep 2003,To: 15 Sep 2003,Sierra Leone,FY 2003,31,Christian,14,256
+From: 15 Sep 2003,To: 15 Sep 2003,Sierra Leone,FY 2003,31,Moslem,10,256
+From: 15 Sep 2003,To: 15 Sep 2003,Sierra Leone,FY 2003,31,Pentecostalist,7,256
+From: 15 Sep 2003,To: 15 Sep 2003,Somalia,FY 2003,63,Moslem,63,256
+From: 15 Sep 2003,To: 15 Sep 2003,Sudan,FY 2003,3,Christian,3,256
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Sep 2003,To: 15 Sep 2003,Bahai,FY 2003,13,Iran,13,256
+From: 15 Sep 2003,To: 15 Sep 2003,Baptist,FY 2003,5,Liberia,5,256
+From: 15 Sep 2003,To: 15 Sep 2003,Catholic,FY 2003,3,Liberia,3,256
+From: 15 Sep 2003,To: 15 Sep 2003,Christian,FY 2003,98,Ethiopia,10,256
+From: 15 Sep 2003,To: 15 Sep 2003,Christian,FY 2003,98,Liberia,71,256
+From: 15 Sep 2003,To: 15 Sep 2003,Christian,FY 2003,98,Sierra Leone,14,256
+From: 15 Sep 2003,To: 15 Sep 2003,Christian,FY 2003,98,Sudan,3,256
+From: 15 Sep 2003,To: 15 Sep 2003,Evangelical Christian,FY 2003,4,Liberia,4,256
+From: 15 Sep 2003,To: 15 Sep 2003,Methodist,FY 2003,4,Liberia,4,256
+From: 15 Sep 2003,To: 15 Sep 2003,Moslem,FY 2003,77,Afghanistan,1,256
+From: 15 Sep 2003,To: 15 Sep 2003,Moslem,FY 2003,77,Liberia,3,256
+From: 15 Sep 2003,To: 15 Sep 2003,Moslem,FY 2003,77,Sierra Leone,10,256
+From: 15 Sep 2003,To: 15 Sep 2003,Moslem,FY 2003,77,Somalia,63,256
+From: 15 Sep 2003,To: 15 Sep 2003,Orthodox,FY 2003,14,Ethiopia,14,256
+From: 15 Sep 2003,To: 15 Sep 2003,Pentecostalist,FY 2003,38,Liberia,15,256
+From: 15 Sep 2003,To: 15 Sep 2003,Pentecostalist,FY 2003,38,Moldova,16,256
+From: 15 Sep 2003,To: 15 Sep 2003,Pentecostalist,FY 2003,38,Sierra Leone,7,256
+

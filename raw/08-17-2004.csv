@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Aug 2004,To: 17 Aug 2004,Belarus,FY 2004,31,Baptist,14,313
+From: 17 Aug 2004,To: 17 Aug 2004,Belarus,FY 2004,31,Jewish,2,313
+From: 17 Aug 2004,To: 17 Aug 2004,Belarus,FY 2004,31,Pentecostalist,15,313
+From: 17 Aug 2004,To: 17 Aug 2004,Burma,FY 2004,47,Buddhist,27,313
+From: 17 Aug 2004,To: 17 Aug 2004,Burma,FY 2004,47,Moslem,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Burma,FY 2004,47,Protestant,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Cuba,FY 2004,67,Baptist,6,313
+From: 17 Aug 2004,To: 17 Aug 2004,Cuba,FY 2004,67,Catholic,29,313
+From: 17 Aug 2004,To: 17 Aug 2004,Cuba,FY 2004,67,Christian,7,313
+From: 17 Aug 2004,To: 17 Aug 2004,Cuba,FY 2004,67,Jehovah Witness,5,313
+From: 17 Aug 2004,To: 17 Aug 2004,Cuba,FY 2004,67,No Religion,20,313
+From: 17 Aug 2004,To: 17 Aug 2004,Ethiopia,FY 2004,9,Moslem,9,313
+From: 17 Aug 2004,To: 17 Aug 2004,Iran,FY 2004,8,Zoroastrian,8,313
+From: 17 Aug 2004,To: 17 Aug 2004,Laos,FY 2004,9,Ancestral Worship,9,313
+From: 17 Aug 2004,To: 17 Aug 2004,Liberia,FY 2004,35,Baptist,1,313
+From: 17 Aug 2004,To: 17 Aug 2004,Liberia,FY 2004,35,Christian,26,313
+From: 17 Aug 2004,To: 17 Aug 2004,Liberia,FY 2004,35,Lutheran,5,313
+From: 17 Aug 2004,To: 17 Aug 2004,Liberia,FY 2004,35,Methodist,3,313
+From: 17 Aug 2004,To: 17 Aug 2004,Nigeria,FY 2004,1,Christian,1,313
+From: 17 Aug 2004,To: 17 Aug 2004,Russia,FY 2004,18,Baptist,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Russia,FY 2004,18,Jewish,6,313
+From: 17 Aug 2004,To: 17 Aug 2004,Russia,FY 2004,18,No Religion,2,313
+From: 17 Aug 2004,To: 17 Aug 2004,Somalia,FY 2004,54,Moslem,54,313
+From: 17 Aug 2004,To: 17 Aug 2004,Sudan,FY 2004,34,Catholic,18,313
+From: 17 Aug 2004,To: 17 Aug 2004,Sudan,FY 2004,34,Moslem,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Sudan,FY 2004,34,Protestant,6,313
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Aug 2004,To: 17 Aug 2004,Ancestral Worship,FY 2004,9,Laos,9,313
+From: 17 Aug 2004,To: 17 Aug 2004,Baptist,FY 2004,31,Belarus,14,313
+From: 17 Aug 2004,To: 17 Aug 2004,Baptist,FY 2004,31,Cuba,6,313
+From: 17 Aug 2004,To: 17 Aug 2004,Baptist,FY 2004,31,Liberia,1,313
+From: 17 Aug 2004,To: 17 Aug 2004,Baptist,FY 2004,31,Russia,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Buddhist,FY 2004,27,Burma,27,313
+From: 17 Aug 2004,To: 17 Aug 2004,Catholic,FY 2004,47,Cuba,29,313
+From: 17 Aug 2004,To: 17 Aug 2004,Catholic,FY 2004,47,Sudan,18,313
+From: 17 Aug 2004,To: 17 Aug 2004,Christian,FY 2004,34,Cuba,7,313
+From: 17 Aug 2004,To: 17 Aug 2004,Christian,FY 2004,34,Liberia,26,313
+From: 17 Aug 2004,To: 17 Aug 2004,Christian,FY 2004,34,Nigeria,1,313
+From: 17 Aug 2004,To: 17 Aug 2004,Jehovah Witness,FY 2004,5,Cuba,5,313
+From: 17 Aug 2004,To: 17 Aug 2004,Jewish,FY 2004,8,Belarus,2,313
+From: 17 Aug 2004,To: 17 Aug 2004,Jewish,FY 2004,8,Russia,6,313
+From: 17 Aug 2004,To: 17 Aug 2004,Lutheran,FY 2004,5,Liberia,5,313
+From: 17 Aug 2004,To: 17 Aug 2004,Methodist,FY 2004,3,Liberia,3,313
+From: 17 Aug 2004,To: 17 Aug 2004,Moslem,FY 2004,83,Burma,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Moslem,FY 2004,83,Ethiopia,9,313
+From: 17 Aug 2004,To: 17 Aug 2004,Moslem,FY 2004,83,Somalia,54,313
+From: 17 Aug 2004,To: 17 Aug 2004,Moslem,FY 2004,83,Sudan,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,No Religion,FY 2004,22,Cuba,20,313
+From: 17 Aug 2004,To: 17 Aug 2004,No Religion,FY 2004,22,Russia,2,313
+From: 17 Aug 2004,To: 17 Aug 2004,Pentecostalist,FY 2004,15,Belarus,15,313
+From: 17 Aug 2004,To: 17 Aug 2004,Protestant,FY 2004,16,Burma,10,313
+From: 17 Aug 2004,To: 17 Aug 2004,Protestant,FY 2004,16,Sudan,6,313
+From: 17 Aug 2004,To: 17 Aug 2004,Zoroastrian,FY 2004,8,Iran,8,313
+

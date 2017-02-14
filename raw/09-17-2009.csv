@@ -1,0 +1,81 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Sep 2009,To: 17 Sep 2009,Bhutan,FY 2009,83,Buddhist,20,622
+From: 17 Sep 2009,To: 17 Sep 2009,Bhutan,FY 2009,83,Hindu,58,622
+From: 17 Sep 2009,To: 17 Sep 2009,Bhutan,FY 2009,83,Kirat,5,622
+From: 17 Sep 2009,To: 17 Sep 2009,Burma,FY 2009,210,Animist,26,622
+From: 17 Sep 2009,To: 17 Sep 2009,Burma,FY 2009,210,Buddhist,13,622
+From: 17 Sep 2009,To: 17 Sep 2009,Burma,FY 2009,210,Catholic,19,622
+From: 17 Sep 2009,To: 17 Sep 2009,Burma,FY 2009,210,Christian,140,622
+From: 17 Sep 2009,To: 17 Sep 2009,Burma,FY 2009,210,Moslem,11,622
+From: 17 Sep 2009,To: 17 Sep 2009,Burma,FY 2009,210,Protestant,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cuba,FY 2009,82,Catholic,21,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cuba,FY 2009,82,Evangelical Christian,3,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cuba,FY 2009,82,Jehovah Witness,22,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cuba,FY 2009,82,Methodist,3,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cuba,FY 2009,82,No Religion,32,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cuba,FY 2009,82,Pentecostalist,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Dem. Rep. Congo,FY 2009,18,Christian,7,622
+From: 17 Sep 2009,To: 17 Sep 2009,Dem. Rep. Congo,FY 2009,18,Moslem,11,622
+From: 17 Sep 2009,To: 17 Sep 2009,Ethiopia,FY 2009,6,Orthodox,5,622
+From: 17 Sep 2009,To: 17 Sep 2009,Ethiopia,FY 2009,6,Protestant,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iran,FY 2009,35,Bahai,3,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iran,FY 2009,35,Christian,30,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iran,FY 2009,35,Zoroastrian,2,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Catholic,9,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Christian,36,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Moslem Shiite,7,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Moslem Suni,52,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Orthodox,9,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Sabeans-Mandean,7,622
+From: 17 Sep 2009,To: 17 Sep 2009,Iraq,FY 2009,131,Yazidi,11,622
+From: 17 Sep 2009,To: 17 Sep 2009,"Korea, North",FY 2009,1,Christian,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Somalia,FY 2009,20,Moslem,20,622
+From: 17 Sep 2009,To: 17 Sep 2009,Sudan,FY 2009,1,Christian,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Vietnam,FY 2009,35,Ancestral Worship,4,622
+From: 17 Sep 2009,To: 17 Sep 2009,Vietnam,FY 2009,35,Buddhist,9,622
+From: 17 Sep 2009,To: 17 Sep 2009,Vietnam,FY 2009,35,Cao Dai,2,622
+From: 17 Sep 2009,To: 17 Sep 2009,Vietnam,FY 2009,35,No Religion,6,622
+From: 17 Sep 2009,To: 17 Sep 2009,Vietnam,FY 2009,35,Protestant,14,622
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Sep 2009,To: 17 Sep 2009,Ancestral Worship,FY 2009,4,Vietnam,4,622
+From: 17 Sep 2009,To: 17 Sep 2009,Animist,FY 2009,26,Burma,26,622
+From: 17 Sep 2009,To: 17 Sep 2009,Bahai,FY 2009,3,Iran,3,622
+From: 17 Sep 2009,To: 17 Sep 2009,Buddhist,FY 2009,42,Bhutan,20,622
+From: 17 Sep 2009,To: 17 Sep 2009,Buddhist,FY 2009,42,Burma,13,622
+From: 17 Sep 2009,To: 17 Sep 2009,Buddhist,FY 2009,42,Vietnam,9,622
+From: 17 Sep 2009,To: 17 Sep 2009,Cao Dai,FY 2009,2,Vietnam,2,622
+From: 17 Sep 2009,To: 17 Sep 2009,Catholic,FY 2009,49,Burma,19,622
+From: 17 Sep 2009,To: 17 Sep 2009,Catholic,FY 2009,49,Cuba,21,622
+From: 17 Sep 2009,To: 17 Sep 2009,Catholic,FY 2009,49,Iraq,9,622
+From: 17 Sep 2009,To: 17 Sep 2009,Christian,FY 2009,215,Burma,140,622
+From: 17 Sep 2009,To: 17 Sep 2009,Christian,FY 2009,215,Dem. Rep. Congo,7,622
+From: 17 Sep 2009,To: 17 Sep 2009,Christian,FY 2009,215,Iran,30,622
+From: 17 Sep 2009,To: 17 Sep 2009,Christian,FY 2009,215,Iraq,36,622
+From: 17 Sep 2009,To: 17 Sep 2009,Christian,FY 2009,215,"Korea, North",1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Christian,FY 2009,215,Sudan,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Evangelical Christian,FY 2009,3,Cuba,3,622
+From: 17 Sep 2009,To: 17 Sep 2009,Hindu,FY 2009,58,Bhutan,58,622
+From: 17 Sep 2009,To: 17 Sep 2009,Jehovah Witness,FY 2009,22,Cuba,22,622
+From: 17 Sep 2009,To: 17 Sep 2009,Kirat,FY 2009,5,Bhutan,5,622
+From: 17 Sep 2009,To: 17 Sep 2009,Methodist,FY 2009,3,Cuba,3,622
+From: 17 Sep 2009,To: 17 Sep 2009,Moslem,FY 2009,42,Burma,11,622
+From: 17 Sep 2009,To: 17 Sep 2009,Moslem,FY 2009,42,Dem. Rep. Congo,11,622
+From: 17 Sep 2009,To: 17 Sep 2009,Moslem,FY 2009,42,Somalia,20,622
+From: 17 Sep 2009,To: 17 Sep 2009,Moslem Shiite,FY 2009,7,Iraq,7,622
+From: 17 Sep 2009,To: 17 Sep 2009,Moslem Suni,FY 2009,52,Iraq,52,622
+From: 17 Sep 2009,To: 17 Sep 2009,No Religion,FY 2009,38,Cuba,32,622
+From: 17 Sep 2009,To: 17 Sep 2009,No Religion,FY 2009,38,Vietnam,6,622
+From: 17 Sep 2009,To: 17 Sep 2009,Orthodox,FY 2009,14,Ethiopia,5,622
+From: 17 Sep 2009,To: 17 Sep 2009,Orthodox,FY 2009,14,Iraq,9,622
+From: 17 Sep 2009,To: 17 Sep 2009,Pentecostalist,FY 2009,1,Cuba,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Protestant,FY 2009,16,Burma,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Protestant,FY 2009,16,Ethiopia,1,622
+From: 17 Sep 2009,To: 17 Sep 2009,Protestant,FY 2009,16,Vietnam,14,622
+From: 17 Sep 2009,To: 17 Sep 2009,Sabeans-Mandean,FY 2009,7,Iraq,7,622
+From: 17 Sep 2009,To: 17 Sep 2009,Yazidi,FY 2009,11,Iraq,11,622
+From: 17 Sep 2009,To: 17 Sep 2009,Zoroastrian,FY 2009,2,Iran,2,622
+

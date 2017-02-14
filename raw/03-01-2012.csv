@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Mar 2012,To: 01 Mar 2012,Bhutan,FY 2012,95,Buddhist,25,239
+From: 01 Mar 2012,To: 01 Mar 2012,Bhutan,FY 2012,95,Christian,7,239
+From: 01 Mar 2012,To: 01 Mar 2012,Bhutan,FY 2012,95,Hindu,59,239
+From: 01 Mar 2012,To: 01 Mar 2012,Bhutan,FY 2012,95,Kirat,4,239
+From: 01 Mar 2012,To: 01 Mar 2012,Burma,FY 2012,28,Buddhist,5,239
+From: 01 Mar 2012,To: 01 Mar 2012,Burma,FY 2012,28,Christian,23,239
+From: 01 Mar 2012,To: 01 Mar 2012,Cuba,FY 2012,39,Catholic,18,239
+From: 01 Mar 2012,To: 01 Mar 2012,Cuba,FY 2012,39,Jehovah Witness,9,239
+From: 01 Mar 2012,To: 01 Mar 2012,Cuba,FY 2012,39,No Religion,7,239
+From: 01 Mar 2012,To: 01 Mar 2012,Cuba,FY 2012,39,Pentecostalist,3,239
+From: 01 Mar 2012,To: 01 Mar 2012,Cuba,FY 2012,39,Unknown,2,239
+From: 01 Mar 2012,To: 01 Mar 2012,Eritrea,FY 2012,1,Moslem,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Iraq,FY 2012,46,Catholic,6,239
+From: 01 Mar 2012,To: 01 Mar 2012,Iraq,FY 2012,46,Moslem Shiite,20,239
+From: 01 Mar 2012,To: 01 Mar 2012,Iraq,FY 2012,46,Moslem Suni,18,239
+From: 01 Mar 2012,To: 01 Mar 2012,Iraq,FY 2012,46,Orthodox,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Iraq,FY 2012,46,Sabeans-Mandean,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Russia,FY 2012,1,Pentecostalist,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Somalia,FY 2012,7,Moslem,5,239
+From: 01 Mar 2012,To: 01 Mar 2012,Somalia,FY 2012,7,Moslem Suni,2,239
+From: 01 Mar 2012,To: 01 Mar 2012,Sudan,FY 2012,6,Moslem,6,239
+From: 01 Mar 2012,To: 01 Mar 2012,Ukraine,FY 2012,16,Evangelical Christian,10,239
+From: 01 Mar 2012,To: 01 Mar 2012,Ukraine,FY 2012,16,Pentecostalist,4,239
+From: 01 Mar 2012,To: 01 Mar 2012,Ukraine,FY 2012,16,Uniate,2,239
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Mar 2012,To: 01 Mar 2012,Buddhist,FY 2012,30,Bhutan,25,239
+From: 01 Mar 2012,To: 01 Mar 2012,Buddhist,FY 2012,30,Burma,5,239
+From: 01 Mar 2012,To: 01 Mar 2012,Catholic,FY 2012,24,Cuba,18,239
+From: 01 Mar 2012,To: 01 Mar 2012,Catholic,FY 2012,24,Iraq,6,239
+From: 01 Mar 2012,To: 01 Mar 2012,Christian,FY 2012,30,Bhutan,7,239
+From: 01 Mar 2012,To: 01 Mar 2012,Christian,FY 2012,30,Burma,23,239
+From: 01 Mar 2012,To: 01 Mar 2012,Evangelical Christian,FY 2012,10,Ukraine,10,239
+From: 01 Mar 2012,To: 01 Mar 2012,Hindu,FY 2012,59,Bhutan,59,239
+From: 01 Mar 2012,To: 01 Mar 2012,Jehovah Witness,FY 2012,9,Cuba,9,239
+From: 01 Mar 2012,To: 01 Mar 2012,Kirat,FY 2012,4,Bhutan,4,239
+From: 01 Mar 2012,To: 01 Mar 2012,Moslem,FY 2012,12,Eritrea,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Moslem,FY 2012,12,Somalia,5,239
+From: 01 Mar 2012,To: 01 Mar 2012,Moslem,FY 2012,12,Sudan,6,239
+From: 01 Mar 2012,To: 01 Mar 2012,Moslem Shiite,FY 2012,20,Iraq,20,239
+From: 01 Mar 2012,To: 01 Mar 2012,Moslem Suni,FY 2012,20,Iraq,18,239
+From: 01 Mar 2012,To: 01 Mar 2012,Moslem Suni,FY 2012,20,Somalia,2,239
+From: 01 Mar 2012,To: 01 Mar 2012,No Religion,FY 2012,7,Cuba,7,239
+From: 01 Mar 2012,To: 01 Mar 2012,Orthodox,FY 2012,1,Iraq,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Pentecostalist,FY 2012,8,Cuba,3,239
+From: 01 Mar 2012,To: 01 Mar 2012,Pentecostalist,FY 2012,8,Russia,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Pentecostalist,FY 2012,8,Ukraine,4,239
+From: 01 Mar 2012,To: 01 Mar 2012,Sabeans-Mandean,FY 2012,1,Iraq,1,239
+From: 01 Mar 2012,To: 01 Mar 2012,Uniate,FY 2012,2,Ukraine,2,239
+From: 01 Mar 2012,To: 01 Mar 2012,Unknown,FY 2012,2,Cuba,2,239
+

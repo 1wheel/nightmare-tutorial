@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Dec 2003,To: 17 Dec 2003,Colombia,FY 2004,17,Catholic,12,203
+From: 17 Dec 2003,To: 17 Dec 2003,Colombia,FY 2004,17,Christian,3,203
+From: 17 Dec 2003,To: 17 Dec 2003,Colombia,FY 2004,17,Unknown,2,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cuba,FY 2004,35,Catholic,5,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cuba,FY 2004,35,Christian,2,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cuba,FY 2004,35,Evangelical Christian,4,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cuba,FY 2004,35,Jehovah Witness,6,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cuba,FY 2004,35,No Religion,17,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cuba,FY 2004,35,Pentecostalist,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Iran,FY 2004,32,Bahai,14,203
+From: 17 Dec 2003,To: 17 Dec 2003,Iran,FY 2004,32,Christian,5,203
+From: 17 Dec 2003,To: 17 Dec 2003,Iran,FY 2004,32,Jewish,12,203
+From: 17 Dec 2003,To: 17 Dec 2003,Iran,FY 2004,32,Moslem,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Liberia,FY 2004,35,Baptist,14,203
+From: 17 Dec 2003,To: 17 Dec 2003,Liberia,FY 2004,35,Catholic,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Liberia,FY 2004,35,Christian,6,203
+From: 17 Dec 2003,To: 17 Dec 2003,Liberia,FY 2004,35,Lutheran,14,203
+From: 17 Dec 2003,To: 17 Dec 2003,Somalia,FY 2004,8,Moslem,8,203
+From: 17 Dec 2003,To: 17 Dec 2003,Sudan,FY 2004,25,Catholic,12,203
+From: 17 Dec 2003,To: 17 Dec 2003,Sudan,FY 2004,25,Christian,8,203
+From: 17 Dec 2003,To: 17 Dec 2003,Sudan,FY 2004,25,Evangelical Christian,3,203
+From: 17 Dec 2003,To: 17 Dec 2003,Sudan,FY 2004,25,Moslem,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Sudan,FY 2004,25,Protestant,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Ukraine,FY 2004,30,Baptist,10,203
+From: 17 Dec 2003,To: 17 Dec 2003,Ukraine,FY 2004,30,Evangelical Christian,2,203
+From: 17 Dec 2003,To: 17 Dec 2003,Ukraine,FY 2004,30,Pentecostalist,13,203
+From: 17 Dec 2003,To: 17 Dec 2003,Ukraine,FY 2004,30,Seventh Day Adventist,5,203
+From: 17 Dec 2003,To: 17 Dec 2003,Vietnam,FY 2004,21,Buddhist,7,203
+From: 17 Dec 2003,To: 17 Dec 2003,Vietnam,FY 2004,21,Cao Dai,4,203
+From: 17 Dec 2003,To: 17 Dec 2003,Vietnam,FY 2004,21,Catholic,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Vietnam,FY 2004,21,No Religion,9,203
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Dec 2003,To: 17 Dec 2003,Bahai,FY 2004,14,Iran,14,203
+From: 17 Dec 2003,To: 17 Dec 2003,Baptist,FY 2004,24,Liberia,14,203
+From: 17 Dec 2003,To: 17 Dec 2003,Baptist,FY 2004,24,Ukraine,10,203
+From: 17 Dec 2003,To: 17 Dec 2003,Buddhist,FY 2004,7,Vietnam,7,203
+From: 17 Dec 2003,To: 17 Dec 2003,Cao Dai,FY 2004,4,Vietnam,4,203
+From: 17 Dec 2003,To: 17 Dec 2003,Catholic,FY 2004,31,Colombia,12,203
+From: 17 Dec 2003,To: 17 Dec 2003,Catholic,FY 2004,31,Cuba,5,203
+From: 17 Dec 2003,To: 17 Dec 2003,Catholic,FY 2004,31,Liberia,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Catholic,FY 2004,31,Sudan,12,203
+From: 17 Dec 2003,To: 17 Dec 2003,Catholic,FY 2004,31,Vietnam,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Christian,FY 2004,24,Colombia,3,203
+From: 17 Dec 2003,To: 17 Dec 2003,Christian,FY 2004,24,Cuba,2,203
+From: 17 Dec 2003,To: 17 Dec 2003,Christian,FY 2004,24,Iran,5,203
+From: 17 Dec 2003,To: 17 Dec 2003,Christian,FY 2004,24,Liberia,6,203
+From: 17 Dec 2003,To: 17 Dec 2003,Christian,FY 2004,24,Sudan,8,203
+From: 17 Dec 2003,To: 17 Dec 2003,Evangelical Christian,FY 2004,9,Cuba,4,203
+From: 17 Dec 2003,To: 17 Dec 2003,Evangelical Christian,FY 2004,9,Sudan,3,203
+From: 17 Dec 2003,To: 17 Dec 2003,Evangelical Christian,FY 2004,9,Ukraine,2,203
+From: 17 Dec 2003,To: 17 Dec 2003,Jehovah Witness,FY 2004,6,Cuba,6,203
+From: 17 Dec 2003,To: 17 Dec 2003,Jewish,FY 2004,12,Iran,12,203
+From: 17 Dec 2003,To: 17 Dec 2003,Lutheran,FY 2004,14,Liberia,14,203
+From: 17 Dec 2003,To: 17 Dec 2003,Moslem,FY 2004,10,Iran,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Moslem,FY 2004,10,Somalia,8,203
+From: 17 Dec 2003,To: 17 Dec 2003,Moslem,FY 2004,10,Sudan,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,No Religion,FY 2004,26,Cuba,17,203
+From: 17 Dec 2003,To: 17 Dec 2003,No Religion,FY 2004,26,Vietnam,9,203
+From: 17 Dec 2003,To: 17 Dec 2003,Pentecostalist,FY 2004,14,Cuba,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Pentecostalist,FY 2004,14,Ukraine,13,203
+From: 17 Dec 2003,To: 17 Dec 2003,Protestant,FY 2004,1,Sudan,1,203
+From: 17 Dec 2003,To: 17 Dec 2003,Seventh Day Adventist,FY 2004,5,Ukraine,5,203
+From: 17 Dec 2003,To: 17 Dec 2003,Unknown,FY 2004,2,Colombia,2,203
+

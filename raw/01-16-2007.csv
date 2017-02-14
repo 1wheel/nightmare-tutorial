@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jan 2007,To: 16 Jan 2007,Belarus,FY 2007,22,Baptist,7,188
+From: 16 Jan 2007,To: 16 Jan 2007,Belarus,FY 2007,22,Pentecostalist,15,188
+From: 16 Jan 2007,To: 16 Jan 2007,Dem. Rep. Congo,FY 2007,12,Christian,3,188
+From: 16 Jan 2007,To: 16 Jan 2007,Dem. Rep. Congo,FY 2007,12,Pentecostalist,6,188
+From: 16 Jan 2007,To: 16 Jan 2007,Dem. Rep. Congo,FY 2007,12,Seventh Day Adventist,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Dem. Rep. Congo,FY 2007,12,Unknown,2,188
+From: 16 Jan 2007,To: 16 Jan 2007,Ethiopia,FY 2007,14,Moslem,14,188
+From: 16 Jan 2007,To: 16 Jan 2007,Iran,FY 2007,31,Christian,27,188
+From: 16 Jan 2007,To: 16 Jan 2007,Iran,FY 2007,31,Jewish,4,188
+From: 16 Jan 2007,To: 16 Jan 2007,Iraq,FY 2007,1,Moslem,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Somalia,FY 2007,55,Moslem,55,188
+From: 16 Jan 2007,To: 16 Jan 2007,Sudan,FY 2007,11,Catholic,7,188
+From: 16 Jan 2007,To: 16 Jan 2007,Sudan,FY 2007,11,Christian,3,188
+From: 16 Jan 2007,To: 16 Jan 2007,Sudan,FY 2007,11,Moslem,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Uganda,FY 2007,3,Catholic,2,188
+From: 16 Jan 2007,To: 16 Jan 2007,Uganda,FY 2007,3,Christian,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Ukraine,FY 2007,34,Baptist,10,188
+From: 16 Jan 2007,To: 16 Jan 2007,Ukraine,FY 2007,34,Pentecostalist,24,188
+From: 16 Jan 2007,To: 16 Jan 2007,Yemen,FY 2007,5,Moslem,5,188
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jan 2007,To: 16 Jan 2007,Baptist,FY 2007,17,Belarus,7,188
+From: 16 Jan 2007,To: 16 Jan 2007,Baptist,FY 2007,17,Ukraine,10,188
+From: 16 Jan 2007,To: 16 Jan 2007,Catholic,FY 2007,9,Sudan,7,188
+From: 16 Jan 2007,To: 16 Jan 2007,Catholic,FY 2007,9,Uganda,2,188
+From: 16 Jan 2007,To: 16 Jan 2007,Christian,FY 2007,34,Dem. Rep. Congo,3,188
+From: 16 Jan 2007,To: 16 Jan 2007,Christian,FY 2007,34,Iran,27,188
+From: 16 Jan 2007,To: 16 Jan 2007,Christian,FY 2007,34,Sudan,3,188
+From: 16 Jan 2007,To: 16 Jan 2007,Christian,FY 2007,34,Uganda,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Jewish,FY 2007,4,Iran,4,188
+From: 16 Jan 2007,To: 16 Jan 2007,Moslem,FY 2007,76,Ethiopia,14,188
+From: 16 Jan 2007,To: 16 Jan 2007,Moslem,FY 2007,76,Iraq,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Moslem,FY 2007,76,Somalia,55,188
+From: 16 Jan 2007,To: 16 Jan 2007,Moslem,FY 2007,76,Sudan,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Moslem,FY 2007,76,Yemen,5,188
+From: 16 Jan 2007,To: 16 Jan 2007,Pentecostalist,FY 2007,45,Belarus,15,188
+From: 16 Jan 2007,To: 16 Jan 2007,Pentecostalist,FY 2007,45,Dem. Rep. Congo,6,188
+From: 16 Jan 2007,To: 16 Jan 2007,Pentecostalist,FY 2007,45,Ukraine,24,188
+From: 16 Jan 2007,To: 16 Jan 2007,Seventh Day Adventist,FY 2007,1,Dem. Rep. Congo,1,188
+From: 16 Jan 2007,To: 16 Jan 2007,Unknown,FY 2007,2,Dem. Rep. Congo,2,188
+

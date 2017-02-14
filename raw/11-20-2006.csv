@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Nov 2006,To: 20 Nov 2006,Ethiopia,FY 2007,3,Moslem,3,222
+From: 20 Nov 2006,To: 20 Nov 2006,Guinea,FY 2007,1,Christian,1,222
+From: 20 Nov 2006,To: 20 Nov 2006,Iran,FY 2007,55,Christian,42,222
+From: 20 Nov 2006,To: 20 Nov 2006,Iran,FY 2007,55,Moslem Shiite,11,222
+From: 20 Nov 2006,To: 20 Nov 2006,Iran,FY 2007,55,Zoroastrian,2,222
+From: 20 Nov 2006,To: 20 Nov 2006,Liberia,FY 2007,15,Christian,11,222
+From: 20 Nov 2006,To: 20 Nov 2006,Liberia,FY 2007,15,Methodist,3,222
+From: 20 Nov 2006,To: 20 Nov 2006,Liberia,FY 2007,15,Moslem,1,222
+From: 20 Nov 2006,To: 20 Nov 2006,Mauritania,FY 2007,8,Moslem,8,222
+From: 20 Nov 2006,To: 20 Nov 2006,Russia,FY 2007,33,Moslem,33,222
+From: 20 Nov 2006,To: 20 Nov 2006,Sierra Leone,FY 2007,6,Moslem,5,222
+From: 20 Nov 2006,To: 20 Nov 2006,Sierra Leone,FY 2007,6,Unknown,1,222
+From: 20 Nov 2006,To: 20 Nov 2006,Somalia,FY 2007,67,Moslem,67,222
+From: 20 Nov 2006,To: 20 Nov 2006,Ukraine,FY 2007,34,Baptist,11,222
+From: 20 Nov 2006,To: 20 Nov 2006,Ukraine,FY 2007,34,Jewish,6,222
+From: 20 Nov 2006,To: 20 Nov 2006,Ukraine,FY 2007,34,No Religion,2,222
+From: 20 Nov 2006,To: 20 Nov 2006,Ukraine,FY 2007,34,Pentecostalist,15,222
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Nov 2006,To: 20 Nov 2006,Baptist,FY 2007,11,Ukraine,11,222
+From: 20 Nov 2006,To: 20 Nov 2006,Christian,FY 2007,54,Guinea,1,222
+From: 20 Nov 2006,To: 20 Nov 2006,Christian,FY 2007,54,Iran,42,222
+From: 20 Nov 2006,To: 20 Nov 2006,Christian,FY 2007,54,Liberia,11,222
+From: 20 Nov 2006,To: 20 Nov 2006,Jewish,FY 2007,6,Ukraine,6,222
+From: 20 Nov 2006,To: 20 Nov 2006,Methodist,FY 2007,3,Liberia,3,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem,FY 2007,117,Ethiopia,3,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem,FY 2007,117,Liberia,1,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem,FY 2007,117,Mauritania,8,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem,FY 2007,117,Russia,33,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem,FY 2007,117,Sierra Leone,5,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem,FY 2007,117,Somalia,67,222
+From: 20 Nov 2006,To: 20 Nov 2006,Moslem Shiite,FY 2007,11,Iran,11,222
+From: 20 Nov 2006,To: 20 Nov 2006,No Religion,FY 2007,2,Ukraine,2,222
+From: 20 Nov 2006,To: 20 Nov 2006,Pentecostalist,FY 2007,15,Ukraine,15,222
+From: 20 Nov 2006,To: 20 Nov 2006,Unknown,FY 2007,1,Sierra Leone,1,222
+From: 20 Nov 2006,To: 20 Nov 2006,Zoroastrian,FY 2007,2,Iran,2,222
+

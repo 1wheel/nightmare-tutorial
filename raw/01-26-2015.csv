@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jan 2015,To: 26 Jan 2015,Burma,FY 2015,34,Baptist,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Burma,FY 2015,34,Buddhist,4,243
+From: 26 Jan 2015,To: 26 Jan 2015,Burma,FY 2015,34,Christian,28,243
+From: 26 Jan 2015,To: 26 Jan 2015,Eritrea,FY 2015,19,Catholic,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Eritrea,FY 2015,19,Christian,1,243
+From: 26 Jan 2015,To: 26 Jan 2015,Eritrea,FY 2015,19,Orthodox,16,243
+From: 26 Jan 2015,To: 26 Jan 2015,Ethiopia,FY 2015,8,Moslem,3,243
+From: 26 Jan 2015,To: 26 Jan 2015,Ethiopia,FY 2015,8,Orthodox,5,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Catholic,21,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Chaldean,7,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Christian,4,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Moslem,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Moslem Shiite,60,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Moslem Suni,59,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Sabeans-Mandean,3,243
+From: 26 Jan 2015,To: 26 Jan 2015,Iraq,FY 2015,159,Yazidi,3,243
+From: 26 Jan 2015,To: 26 Jan 2015,Somalia,FY 2015,16,Moslem,16,243
+From: 26 Jan 2015,To: 26 Jan 2015,Sudan,FY 2015,7,Christian,5,243
+From: 26 Jan 2015,To: 26 Jan 2015,Sudan,FY 2015,7,Moslem,2,243
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jan 2015,To: 26 Jan 2015,Baptist,FY 2015,2,Burma,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Buddhist,FY 2015,4,Burma,4,243
+From: 26 Jan 2015,To: 26 Jan 2015,Catholic,FY 2015,23,Eritrea,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Catholic,FY 2015,23,Iraq,21,243
+From: 26 Jan 2015,To: 26 Jan 2015,Chaldean,FY 2015,7,Iraq,7,243
+From: 26 Jan 2015,To: 26 Jan 2015,Christian,FY 2015,38,Burma,28,243
+From: 26 Jan 2015,To: 26 Jan 2015,Christian,FY 2015,38,Eritrea,1,243
+From: 26 Jan 2015,To: 26 Jan 2015,Christian,FY 2015,38,Iraq,4,243
+From: 26 Jan 2015,To: 26 Jan 2015,Christian,FY 2015,38,Sudan,5,243
+From: 26 Jan 2015,To: 26 Jan 2015,Moslem,FY 2015,23,Ethiopia,3,243
+From: 26 Jan 2015,To: 26 Jan 2015,Moslem,FY 2015,23,Iraq,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Moslem,FY 2015,23,Somalia,16,243
+From: 26 Jan 2015,To: 26 Jan 2015,Moslem,FY 2015,23,Sudan,2,243
+From: 26 Jan 2015,To: 26 Jan 2015,Moslem Shiite,FY 2015,60,Iraq,60,243
+From: 26 Jan 2015,To: 26 Jan 2015,Moslem Suni,FY 2015,59,Iraq,59,243
+From: 26 Jan 2015,To: 26 Jan 2015,Orthodox,FY 2015,21,Eritrea,16,243
+From: 26 Jan 2015,To: 26 Jan 2015,Orthodox,FY 2015,21,Ethiopia,5,243
+From: 26 Jan 2015,To: 26 Jan 2015,Sabeans-Mandean,FY 2015,3,Iraq,3,243
+From: 26 Jan 2015,To: 26 Jan 2015,Yazidi,FY 2015,3,Iraq,3,243
+

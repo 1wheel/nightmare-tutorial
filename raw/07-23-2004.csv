@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Jul 2004,To: 23 Jul 2004,Burma,FY 2004,35,Baptist,3,216
+From: 23 Jul 2004,To: 23 Jul 2004,Burma,FY 2004,35,Buddhist,22,216
+From: 23 Jul 2004,To: 23 Jul 2004,Burma,FY 2004,35,Catholic,1,216
+From: 23 Jul 2004,To: 23 Jul 2004,Burma,FY 2004,35,Christian,2,216
+From: 23 Jul 2004,To: 23 Jul 2004,Burma,FY 2004,35,Protestant,7,216
+From: 23 Jul 2004,To: 23 Jul 2004,Cuba,FY 2004,34,Catholic,14,216
+From: 23 Jul 2004,To: 23 Jul 2004,Cuba,FY 2004,34,Christian,2,216
+From: 23 Jul 2004,To: 23 Jul 2004,Cuba,FY 2004,34,No Religion,18,216
+From: 23 Jul 2004,To: 23 Jul 2004,Ethiopia,FY 2004,8,Christian,6,216
+From: 23 Jul 2004,To: 23 Jul 2004,Ethiopia,FY 2004,8,Moslem,2,216
+From: 23 Jul 2004,To: 23 Jul 2004,Kyrgyzstan,FY 2004,7,Baptist,7,216
+From: 23 Jul 2004,To: 23 Jul 2004,Latvia,FY 2004,5,Pentecostalist,5,216
+From: 23 Jul 2004,To: 23 Jul 2004,Liberia,FY 2004,35,Christian,14,216
+From: 23 Jul 2004,To: 23 Jul 2004,Liberia,FY 2004,35,Jehovah Witness,1,216
+From: 23 Jul 2004,To: 23 Jul 2004,Liberia,FY 2004,35,Moslem,20,216
+From: 23 Jul 2004,To: 23 Jul 2004,Somalia,FY 2004,61,Moslem,61,216
+From: 23 Jul 2004,To: 23 Jul 2004,Sudan,FY 2004,1,Christian,1,216
+From: 23 Jul 2004,To: 23 Jul 2004,Uzbekistan,FY 2004,30,Moslem,30,216
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Jul 2004,To: 23 Jul 2004,Baptist,FY 2004,10,Burma,3,216
+From: 23 Jul 2004,To: 23 Jul 2004,Baptist,FY 2004,10,Kyrgyzstan,7,216
+From: 23 Jul 2004,To: 23 Jul 2004,Buddhist,FY 2004,22,Burma,22,216
+From: 23 Jul 2004,To: 23 Jul 2004,Catholic,FY 2004,15,Burma,1,216
+From: 23 Jul 2004,To: 23 Jul 2004,Catholic,FY 2004,15,Cuba,14,216
+From: 23 Jul 2004,To: 23 Jul 2004,Christian,FY 2004,25,Burma,2,216
+From: 23 Jul 2004,To: 23 Jul 2004,Christian,FY 2004,25,Cuba,2,216
+From: 23 Jul 2004,To: 23 Jul 2004,Christian,FY 2004,25,Ethiopia,6,216
+From: 23 Jul 2004,To: 23 Jul 2004,Christian,FY 2004,25,Liberia,14,216
+From: 23 Jul 2004,To: 23 Jul 2004,Christian,FY 2004,25,Sudan,1,216
+From: 23 Jul 2004,To: 23 Jul 2004,Jehovah Witness,FY 2004,1,Liberia,1,216
+From: 23 Jul 2004,To: 23 Jul 2004,Moslem,FY 2004,113,Ethiopia,2,216
+From: 23 Jul 2004,To: 23 Jul 2004,Moslem,FY 2004,113,Liberia,20,216
+From: 23 Jul 2004,To: 23 Jul 2004,Moslem,FY 2004,113,Somalia,61,216
+From: 23 Jul 2004,To: 23 Jul 2004,Moslem,FY 2004,113,Uzbekistan,30,216
+From: 23 Jul 2004,To: 23 Jul 2004,No Religion,FY 2004,18,Cuba,18,216
+From: 23 Jul 2004,To: 23 Jul 2004,Pentecostalist,FY 2004,5,Latvia,5,216
+From: 23 Jul 2004,To: 23 Jul 2004,Protestant,FY 2004,7,Burma,7,216
+

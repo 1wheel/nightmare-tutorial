@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Apr 2014,To: 22 Apr 2014,Bhutan,FY 2014,30,Buddhist,17,257
+From: 22 Apr 2014,To: 22 Apr 2014,Bhutan,FY 2014,30,Hindu,4,257
+From: 22 Apr 2014,To: 22 Apr 2014,Bhutan,FY 2014,30,Kirat,9,257
+From: 22 Apr 2014,To: 22 Apr 2014,Burma,FY 2014,98,Baptist,7,257
+From: 22 Apr 2014,To: 22 Apr 2014,Burma,FY 2014,98,Buddhist,13,257
+From: 22 Apr 2014,To: 22 Apr 2014,Burma,FY 2014,98,Christian,66,257
+From: 22 Apr 2014,To: 22 Apr 2014,Burma,FY 2014,98,Moslem,9,257
+From: 22 Apr 2014,To: 22 Apr 2014,Burma,FY 2014,98,Seventh Day Adventist,3,257
+From: 22 Apr 2014,To: 22 Apr 2014,Cambodia,FY 2014,1,Christian,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Egypt,FY 2014,4,Christian,4,257
+From: 22 Apr 2014,To: 22 Apr 2014,Eritrea,FY 2014,7,Orthodox,4,257
+From: 22 Apr 2014,To: 22 Apr 2014,Eritrea,FY 2014,7,Protestant,3,257
+From: 22 Apr 2014,To: 22 Apr 2014,Ethiopia,FY 2014,3,Christian,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Ethiopia,FY 2014,3,Moslem,2,257
+From: 22 Apr 2014,To: 22 Apr 2014,Iraq,FY 2014,69,Catholic,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Iraq,FY 2014,69,Christian,15,257
+From: 22 Apr 2014,To: 22 Apr 2014,Iraq,FY 2014,69,Moslem Shiite,18,257
+From: 22 Apr 2014,To: 22 Apr 2014,Iraq,FY 2014,69,Moslem Suni,27,257
+From: 22 Apr 2014,To: 22 Apr 2014,Iraq,FY 2014,69,Orthodox,3,257
+From: 22 Apr 2014,To: 22 Apr 2014,Iraq,FY 2014,69,Sabeans-Mandean,5,257
+From: 22 Apr 2014,To: 22 Apr 2014,Russia,FY 2014,1,Orthodox,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Somalia,FY 2014,26,Moslem,25,257
+From: 22 Apr 2014,To: 22 Apr 2014,Somalia,FY 2014,26,Moslem Suni,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Ukraine,FY 2014,15,Baptist,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Ukraine,FY 2014,15,Jewish,2,257
+From: 22 Apr 2014,To: 22 Apr 2014,Ukraine,FY 2014,15,Pentecostalist,12,257
+From: 22 Apr 2014,To: 22 Apr 2014,Uzbekistan,FY 2014,3,Moslem,3,257
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Apr 2014,To: 22 Apr 2014,Baptist,FY 2014,8,Burma,7,257
+From: 22 Apr 2014,To: 22 Apr 2014,Baptist,FY 2014,8,Ukraine,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Buddhist,FY 2014,30,Bhutan,17,257
+From: 22 Apr 2014,To: 22 Apr 2014,Buddhist,FY 2014,30,Burma,13,257
+From: 22 Apr 2014,To: 22 Apr 2014,Catholic,FY 2014,1,Iraq,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Christian,FY 2014,87,Burma,66,257
+From: 22 Apr 2014,To: 22 Apr 2014,Christian,FY 2014,87,Cambodia,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Christian,FY 2014,87,Egypt,4,257
+From: 22 Apr 2014,To: 22 Apr 2014,Christian,FY 2014,87,Ethiopia,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Christian,FY 2014,87,Iraq,15,257
+From: 22 Apr 2014,To: 22 Apr 2014,Hindu,FY 2014,4,Bhutan,4,257
+From: 22 Apr 2014,To: 22 Apr 2014,Jewish,FY 2014,2,Ukraine,2,257
+From: 22 Apr 2014,To: 22 Apr 2014,Kirat,FY 2014,9,Bhutan,9,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem,FY 2014,39,Burma,9,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem,FY 2014,39,Ethiopia,2,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem,FY 2014,39,Somalia,25,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem,FY 2014,39,Uzbekistan,3,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem Shiite,FY 2014,18,Iraq,18,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem Suni,FY 2014,28,Iraq,27,257
+From: 22 Apr 2014,To: 22 Apr 2014,Moslem Suni,FY 2014,28,Somalia,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Orthodox,FY 2014,8,Eritrea,4,257
+From: 22 Apr 2014,To: 22 Apr 2014,Orthodox,FY 2014,8,Iraq,3,257
+From: 22 Apr 2014,To: 22 Apr 2014,Orthodox,FY 2014,8,Russia,1,257
+From: 22 Apr 2014,To: 22 Apr 2014,Pentecostalist,FY 2014,12,Ukraine,12,257
+From: 22 Apr 2014,To: 22 Apr 2014,Protestant,FY 2014,3,Eritrea,3,257
+From: 22 Apr 2014,To: 22 Apr 2014,Sabeans-Mandean,FY 2014,5,Iraq,5,257
+From: 22 Apr 2014,To: 22 Apr 2014,Seventh Day Adventist,FY 2014,3,Burma,3,257
+

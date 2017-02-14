@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Oct 2011,To: 12 Oct 2011,Bhutan,FY 2012,78,Buddhist,20,354
+From: 12 Oct 2011,To: 12 Oct 2011,Bhutan,FY 2012,78,Christian,6,354
+From: 12 Oct 2011,To: 12 Oct 2011,Bhutan,FY 2012,78,Hindu,48,354
+From: 12 Oct 2011,To: 12 Oct 2011,Bhutan,FY 2012,78,Kirat,4,354
+From: 12 Oct 2011,To: 12 Oct 2011,Burma,FY 2012,109,Baptist,5,354
+From: 12 Oct 2011,To: 12 Oct 2011,Burma,FY 2012,109,Buddhist,16,354
+From: 12 Oct 2011,To: 12 Oct 2011,Burma,FY 2012,109,Catholic,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Burma,FY 2012,109,Christian,87,354
+From: 12 Oct 2011,To: 12 Oct 2011,Dem. Rep. Congo,FY 2012,38,Catholic,21,354
+From: 12 Oct 2011,To: 12 Oct 2011,Dem. Rep. Congo,FY 2012,38,Pentecostalist,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Dem. Rep. Congo,FY 2012,38,Protestant,12,354
+From: 12 Oct 2011,To: 12 Oct 2011,Dem. Rep. Congo,FY 2012,38,Seventh Day Adventist,4,354
+From: 12 Oct 2011,To: 12 Oct 2011,Eritrea,FY 2012,9,Catholic,2,354
+From: 12 Oct 2011,To: 12 Oct 2011,Eritrea,FY 2012,9,Orthodox,6,354
+From: 12 Oct 2011,To: 12 Oct 2011,Eritrea,FY 2012,9,Pentecostalist,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iran,FY 2012,38,Bahai,15,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iran,FY 2012,38,Christian,19,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iran,FY 2012,38,No Religion,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iran,FY 2012,38,Zoroastrian,3,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iraq,FY 2012,35,Christian,9,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iraq,FY 2012,35,Moslem Shiite,12,354
+From: 12 Oct 2011,To: 12 Oct 2011,Iraq,FY 2012,35,Moslem Suni,14,354
+From: 12 Oct 2011,To: 12 Oct 2011,Pakistan,FY 2012,6,Ahmadiyya,6,354
+From: 12 Oct 2011,To: 12 Oct 2011,Somalia,FY 2012,35,Moslem,33,354
+From: 12 Oct 2011,To: 12 Oct 2011,Somalia,FY 2012,35,Moslem Suni,2,354
+From: 12 Oct 2011,To: 12 Oct 2011,Sudan,FY 2012,2,Moslem,2,354
+From: 12 Oct 2011,To: 12 Oct 2011,Uganda,FY 2012,4,Christian,4,354
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Oct 2011,To: 12 Oct 2011,Ahmadiyya,FY 2012,6,Pakistan,6,354
+From: 12 Oct 2011,To: 12 Oct 2011,Bahai,FY 2012,15,Iran,15,354
+From: 12 Oct 2011,To: 12 Oct 2011,Baptist,FY 2012,5,Burma,5,354
+From: 12 Oct 2011,To: 12 Oct 2011,Buddhist,FY 2012,36,Bhutan,20,354
+From: 12 Oct 2011,To: 12 Oct 2011,Buddhist,FY 2012,36,Burma,16,354
+From: 12 Oct 2011,To: 12 Oct 2011,Catholic,FY 2012,24,Burma,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Catholic,FY 2012,24,Dem. Rep. Congo,21,354
+From: 12 Oct 2011,To: 12 Oct 2011,Catholic,FY 2012,24,Eritrea,2,354
+From: 12 Oct 2011,To: 12 Oct 2011,Christian,FY 2012,125,Bhutan,6,354
+From: 12 Oct 2011,To: 12 Oct 2011,Christian,FY 2012,125,Burma,87,354
+From: 12 Oct 2011,To: 12 Oct 2011,Christian,FY 2012,125,Iran,19,354
+From: 12 Oct 2011,To: 12 Oct 2011,Christian,FY 2012,125,Iraq,9,354
+From: 12 Oct 2011,To: 12 Oct 2011,Christian,FY 2012,125,Uganda,4,354
+From: 12 Oct 2011,To: 12 Oct 2011,Hindu,FY 2012,48,Bhutan,48,354
+From: 12 Oct 2011,To: 12 Oct 2011,Kirat,FY 2012,4,Bhutan,4,354
+From: 12 Oct 2011,To: 12 Oct 2011,Moslem,FY 2012,35,Somalia,33,354
+From: 12 Oct 2011,To: 12 Oct 2011,Moslem,FY 2012,35,Sudan,2,354
+From: 12 Oct 2011,To: 12 Oct 2011,Moslem Shiite,FY 2012,12,Iraq,12,354
+From: 12 Oct 2011,To: 12 Oct 2011,Moslem Suni,FY 2012,16,Iraq,14,354
+From: 12 Oct 2011,To: 12 Oct 2011,Moslem Suni,FY 2012,16,Somalia,2,354
+From: 12 Oct 2011,To: 12 Oct 2011,No Religion,FY 2012,1,Iran,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Orthodox,FY 2012,6,Eritrea,6,354
+From: 12 Oct 2011,To: 12 Oct 2011,Pentecostalist,FY 2012,2,Dem. Rep. Congo,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Pentecostalist,FY 2012,2,Eritrea,1,354
+From: 12 Oct 2011,To: 12 Oct 2011,Protestant,FY 2012,12,Dem. Rep. Congo,12,354
+From: 12 Oct 2011,To: 12 Oct 2011,Seventh Day Adventist,FY 2012,4,Dem. Rep. Congo,4,354
+From: 12 Oct 2011,To: 12 Oct 2011,Zoroastrian,FY 2012,3,Iran,3,354
+

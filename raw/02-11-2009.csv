@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Feb 2009,To: 11 Feb 2009,Bhutan,FY 2009,70,Buddhist,11,412
+From: 11 Feb 2009,To: 11 Feb 2009,Bhutan,FY 2009,70,Hindu,53,412
+From: 11 Feb 2009,To: 11 Feb 2009,Bhutan,FY 2009,70,Kirat,6,412
+From: 11 Feb 2009,To: 11 Feb 2009,Burma,FY 2009,141,Buddhist,32,412
+From: 11 Feb 2009,To: 11 Feb 2009,Burma,FY 2009,141,Catholic,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Burma,FY 2009,141,Christian,97,412
+From: 11 Feb 2009,To: 11 Feb 2009,Burma,FY 2009,141,Moslem,10,412
+From: 11 Feb 2009,To: 11 Feb 2009,Burma,FY 2009,141,Other Religion,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,China,FY 2009,2,Other Religion,2,412
+From: 11 Feb 2009,To: 11 Feb 2009,Colombia,FY 2009,6,Catholic,2,412
+From: 11 Feb 2009,To: 11 Feb 2009,Colombia,FY 2009,6,Unknown,4,412
+From: 11 Feb 2009,To: 11 Feb 2009,Cuba,FY 2009,67,Catholic,25,412
+From: 11 Feb 2009,To: 11 Feb 2009,Cuba,FY 2009,67,Jehovah Witness,28,412
+From: 11 Feb 2009,To: 11 Feb 2009,Cuba,FY 2009,67,No Religion,14,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iran,FY 2009,2,Bahai,2,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iraq,FY 2009,111,Catholic,15,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iraq,FY 2009,111,Christian,40,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iraq,FY 2009,111,Moslem Shiite,15,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iraq,FY 2009,111,Moslem Suni,16,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iraq,FY 2009,111,Orthodox,13,412
+From: 11 Feb 2009,To: 11 Feb 2009,Iraq,FY 2009,111,Sabeans-Mandean,12,412
+From: 11 Feb 2009,To: 11 Feb 2009,"Korea, North",FY 2009,1,Christian,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Liberia,FY 2009,10,Moslem,10,412
+From: 11 Feb 2009,To: 11 Feb 2009,Sudan,FY 2009,1,Moslem,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Vietnam,FY 2009,1,Protestant,1,412
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Feb 2009,To: 11 Feb 2009,Bahai,FY 2009,2,Iran,2,412
+From: 11 Feb 2009,To: 11 Feb 2009,Buddhist,FY 2009,43,Bhutan,11,412
+From: 11 Feb 2009,To: 11 Feb 2009,Buddhist,FY 2009,43,Burma,32,412
+From: 11 Feb 2009,To: 11 Feb 2009,Catholic,FY 2009,43,Burma,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Catholic,FY 2009,43,Colombia,2,412
+From: 11 Feb 2009,To: 11 Feb 2009,Catholic,FY 2009,43,Cuba,25,412
+From: 11 Feb 2009,To: 11 Feb 2009,Catholic,FY 2009,43,Iraq,15,412
+From: 11 Feb 2009,To: 11 Feb 2009,Christian,FY 2009,138,Burma,97,412
+From: 11 Feb 2009,To: 11 Feb 2009,Christian,FY 2009,138,Iraq,40,412
+From: 11 Feb 2009,To: 11 Feb 2009,Christian,FY 2009,138,"Korea, North",1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Hindu,FY 2009,53,Bhutan,53,412
+From: 11 Feb 2009,To: 11 Feb 2009,Jehovah Witness,FY 2009,28,Cuba,28,412
+From: 11 Feb 2009,To: 11 Feb 2009,Kirat,FY 2009,6,Bhutan,6,412
+From: 11 Feb 2009,To: 11 Feb 2009,Moslem,FY 2009,21,Burma,10,412
+From: 11 Feb 2009,To: 11 Feb 2009,Moslem,FY 2009,21,Liberia,10,412
+From: 11 Feb 2009,To: 11 Feb 2009,Moslem,FY 2009,21,Sudan,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Moslem Shiite,FY 2009,15,Iraq,15,412
+From: 11 Feb 2009,To: 11 Feb 2009,Moslem Suni,FY 2009,16,Iraq,16,412
+From: 11 Feb 2009,To: 11 Feb 2009,No Religion,FY 2009,14,Cuba,14,412
+From: 11 Feb 2009,To: 11 Feb 2009,Orthodox,FY 2009,13,Iraq,13,412
+From: 11 Feb 2009,To: 11 Feb 2009,Other Religion,FY 2009,3,Burma,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Other Religion,FY 2009,3,China,2,412
+From: 11 Feb 2009,To: 11 Feb 2009,Protestant,FY 2009,1,Vietnam,1,412
+From: 11 Feb 2009,To: 11 Feb 2009,Sabeans-Mandean,FY 2009,12,Iraq,12,412
+From: 11 Feb 2009,To: 11 Feb 2009,Unknown,FY 2009,4,Colombia,4,412
+

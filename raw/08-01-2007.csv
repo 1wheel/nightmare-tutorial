@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Aug 2007,To: 01 Aug 2007,Belarus,FY 2007,1,Orthodox,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Burma,FY 2007,38,Christian,38,192
+From: 01 Aug 2007,To: 01 Aug 2007,Dem. Rep. Congo,FY 2007,7,Christian,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Dem. Rep. Congo,FY 2007,7,Pentecostalist,5,192
+From: 01 Aug 2007,To: 01 Aug 2007,Dem. Rep. Congo,FY 2007,7,Protestant,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Eritrea,FY 2007,35,Catholic,9,192
+From: 01 Aug 2007,To: 01 Aug 2007,Eritrea,FY 2007,35,Christian,15,192
+From: 01 Aug 2007,To: 01 Aug 2007,Eritrea,FY 2007,35,Moslem,8,192
+From: 01 Aug 2007,To: 01 Aug 2007,Eritrea,FY 2007,35,Protestant,3,192
+From: 01 Aug 2007,To: 01 Aug 2007,Ethiopia,FY 2007,3,Moslem,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Ethiopia,FY 2007,3,Orthodox,2,192
+From: 01 Aug 2007,To: 01 Aug 2007,Iran,FY 2007,19,Bahai,19,192
+From: 01 Aug 2007,To: 01 Aug 2007,Somalia,FY 2007,58,Christian,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Somalia,FY 2007,58,Moslem,57,192
+From: 01 Aug 2007,To: 01 Aug 2007,Sudan,FY 2007,1,Catholic,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Vietnam,FY 2007,30,Ancestral Worship,8,192
+From: 01 Aug 2007,To: 01 Aug 2007,Vietnam,FY 2007,30,Buddhist,10,192
+From: 01 Aug 2007,To: 01 Aug 2007,Vietnam,FY 2007,30,Catholic,5,192
+From: 01 Aug 2007,To: 01 Aug 2007,Vietnam,FY 2007,30,No Religion,7,192
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Aug 2007,To: 01 Aug 2007,Ancestral Worship,FY 2007,8,Vietnam,8,192
+From: 01 Aug 2007,To: 01 Aug 2007,Bahai,FY 2007,19,Iran,19,192
+From: 01 Aug 2007,To: 01 Aug 2007,Buddhist,FY 2007,10,Vietnam,10,192
+From: 01 Aug 2007,To: 01 Aug 2007,Catholic,FY 2007,15,Eritrea,9,192
+From: 01 Aug 2007,To: 01 Aug 2007,Catholic,FY 2007,15,Sudan,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Catholic,FY 2007,15,Vietnam,5,192
+From: 01 Aug 2007,To: 01 Aug 2007,Christian,FY 2007,55,Burma,38,192
+From: 01 Aug 2007,To: 01 Aug 2007,Christian,FY 2007,55,Dem. Rep. Congo,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Christian,FY 2007,55,Eritrea,15,192
+From: 01 Aug 2007,To: 01 Aug 2007,Christian,FY 2007,55,Somalia,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Moslem,FY 2007,66,Eritrea,8,192
+From: 01 Aug 2007,To: 01 Aug 2007,Moslem,FY 2007,66,Ethiopia,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Moslem,FY 2007,66,Somalia,57,192
+From: 01 Aug 2007,To: 01 Aug 2007,No Religion,FY 2007,7,Vietnam,7,192
+From: 01 Aug 2007,To: 01 Aug 2007,Orthodox,FY 2007,3,Belarus,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Orthodox,FY 2007,3,Ethiopia,2,192
+From: 01 Aug 2007,To: 01 Aug 2007,Pentecostalist,FY 2007,5,Dem. Rep. Congo,5,192
+From: 01 Aug 2007,To: 01 Aug 2007,Protestant,FY 2007,4,Dem. Rep. Congo,1,192
+From: 01 Aug 2007,To: 01 Aug 2007,Protestant,FY 2007,4,Eritrea,3,192
+

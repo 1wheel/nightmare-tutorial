@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Jan 2004,To: 15 Jan 2004,Bosnia and Herzegovina,FY 2004,14,Moslem,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Bosnia and Herzegovina,FY 2004,14,No Religion,3,236
+From: 15 Jan 2004,To: 15 Jan 2004,Bosnia and Herzegovina,FY 2004,14,Orthodox,10,236
+From: 15 Jan 2004,To: 15 Jan 2004,Croatia,FY 2004,11,Orthodox,11,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Baptist,14,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Catholic,6,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Christian,67,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Lutheran,8,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Methodist,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Moslem,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,No Religion,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Pentecostalist,9,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Protestant,2,236
+From: 15 Jan 2004,To: 15 Jan 2004,Liberia,FY 2004,113,Unknown,4,236
+From: 15 Jan 2004,To: 15 Jan 2004,Russia,FY 2004,24,Baptist,4,236
+From: 15 Jan 2004,To: 15 Jan 2004,Russia,FY 2004,24,Jewish,16,236
+From: 15 Jan 2004,To: 15 Jan 2004,Russia,FY 2004,24,No Religion,2,236
+From: 15 Jan 2004,To: 15 Jan 2004,Russia,FY 2004,24,Pentecostalist,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Russia,FY 2004,24,Unknown,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Serbia,FY 2004,5,Orthodox,5,236
+From: 15 Jan 2004,To: 15 Jan 2004,Somalia,FY 2004,35,Moslem,35,236
+From: 15 Jan 2004,To: 15 Jan 2004,Ukraine,FY 2004,34,Pentecostalist,34,236
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Jan 2004,To: 15 Jan 2004,Baptist,FY 2004,18,Liberia,14,236
+From: 15 Jan 2004,To: 15 Jan 2004,Baptist,FY 2004,18,Russia,4,236
+From: 15 Jan 2004,To: 15 Jan 2004,Catholic,FY 2004,6,Liberia,6,236
+From: 15 Jan 2004,To: 15 Jan 2004,Christian,FY 2004,67,Liberia,67,236
+From: 15 Jan 2004,To: 15 Jan 2004,Jewish,FY 2004,16,Russia,16,236
+From: 15 Jan 2004,To: 15 Jan 2004,Lutheran,FY 2004,8,Liberia,8,236
+From: 15 Jan 2004,To: 15 Jan 2004,Methodist,FY 2004,1,Liberia,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Moslem,FY 2004,37,Bosnia and Herzegovina,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Moslem,FY 2004,37,Liberia,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Moslem,FY 2004,37,Somalia,35,236
+From: 15 Jan 2004,To: 15 Jan 2004,No Religion,FY 2004,6,Bosnia and Herzegovina,3,236
+From: 15 Jan 2004,To: 15 Jan 2004,No Religion,FY 2004,6,Liberia,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,No Religion,FY 2004,6,Russia,2,236
+From: 15 Jan 2004,To: 15 Jan 2004,Orthodox,FY 2004,26,Bosnia and Herzegovina,10,236
+From: 15 Jan 2004,To: 15 Jan 2004,Orthodox,FY 2004,26,Croatia,11,236
+From: 15 Jan 2004,To: 15 Jan 2004,Orthodox,FY 2004,26,Serbia,5,236
+From: 15 Jan 2004,To: 15 Jan 2004,Pentecostalist,FY 2004,44,Liberia,9,236
+From: 15 Jan 2004,To: 15 Jan 2004,Pentecostalist,FY 2004,44,Russia,1,236
+From: 15 Jan 2004,To: 15 Jan 2004,Pentecostalist,FY 2004,44,Ukraine,34,236
+From: 15 Jan 2004,To: 15 Jan 2004,Protestant,FY 2004,2,Liberia,2,236
+From: 15 Jan 2004,To: 15 Jan 2004,Unknown,FY 2004,5,Liberia,4,236
+From: 15 Jan 2004,To: 15 Jan 2004,Unknown,FY 2004,5,Russia,1,236
+

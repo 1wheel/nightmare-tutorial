@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jul 2005,To: 18 Jul 2005,Afghanistan,FY 2005,10,Moslem Shiite,6,208
+From: 18 Jul 2005,To: 18 Jul 2005,Afghanistan,FY 2005,10,Moslem Suni,4,208
+From: 18 Jul 2005,To: 18 Jul 2005,Belarus,FY 2005,17,Pentecostalist,17,208
+From: 18 Jul 2005,To: 18 Jul 2005,Ethiopia,FY 2005,6,Moslem,6,208
+From: 18 Jul 2005,To: 18 Jul 2005,Liberia,FY 2005,30,Moslem,30,208
+From: 18 Jul 2005,To: 18 Jul 2005,Russia,FY 2005,28,Baptist,1,208
+From: 18 Jul 2005,To: 18 Jul 2005,Russia,FY 2005,28,Jewish,12,208
+From: 18 Jul 2005,To: 18 Jul 2005,Russia,FY 2005,28,Pentecostalist,15,208
+From: 18 Jul 2005,To: 18 Jul 2005,Somalia,FY 2005,77,Moslem,77,208
+From: 18 Jul 2005,To: 18 Jul 2005,Sudan,FY 2005,21,Catholic,13,208
+From: 18 Jul 2005,To: 18 Jul 2005,Sudan,FY 2005,21,Christian,1,208
+From: 18 Jul 2005,To: 18 Jul 2005,Sudan,FY 2005,21,Moslem,3,208
+From: 18 Jul 2005,To: 18 Jul 2005,Sudan,FY 2005,21,Protestant,4,208
+From: 18 Jul 2005,To: 18 Jul 2005,Uzbekistan,FY 2005,19,Baptist,5,208
+From: 18 Jul 2005,To: 18 Jul 2005,Uzbekistan,FY 2005,19,Jewish,4,208
+From: 18 Jul 2005,To: 18 Jul 2005,Uzbekistan,FY 2005,19,No Religion,1,208
+From: 18 Jul 2005,To: 18 Jul 2005,Uzbekistan,FY 2005,19,Pentecostalist,9,208
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jul 2005,To: 18 Jul 2005,Baptist,FY 2005,6,Russia,1,208
+From: 18 Jul 2005,To: 18 Jul 2005,Baptist,FY 2005,6,Uzbekistan,5,208
+From: 18 Jul 2005,To: 18 Jul 2005,Catholic,FY 2005,13,Sudan,13,208
+From: 18 Jul 2005,To: 18 Jul 2005,Christian,FY 2005,1,Sudan,1,208
+From: 18 Jul 2005,To: 18 Jul 2005,Jewish,FY 2005,16,Russia,12,208
+From: 18 Jul 2005,To: 18 Jul 2005,Jewish,FY 2005,16,Uzbekistan,4,208
+From: 18 Jul 2005,To: 18 Jul 2005,Moslem,FY 2005,116,Ethiopia,6,208
+From: 18 Jul 2005,To: 18 Jul 2005,Moslem,FY 2005,116,Liberia,30,208
+From: 18 Jul 2005,To: 18 Jul 2005,Moslem,FY 2005,116,Somalia,77,208
+From: 18 Jul 2005,To: 18 Jul 2005,Moslem,FY 2005,116,Sudan,3,208
+From: 18 Jul 2005,To: 18 Jul 2005,Moslem Shiite,FY 2005,6,Afghanistan,6,208
+From: 18 Jul 2005,To: 18 Jul 2005,Moslem Suni,FY 2005,4,Afghanistan,4,208
+From: 18 Jul 2005,To: 18 Jul 2005,No Religion,FY 2005,1,Uzbekistan,1,208
+From: 18 Jul 2005,To: 18 Jul 2005,Pentecostalist,FY 2005,41,Belarus,17,208
+From: 18 Jul 2005,To: 18 Jul 2005,Pentecostalist,FY 2005,41,Russia,15,208
+From: 18 Jul 2005,To: 18 Jul 2005,Pentecostalist,FY 2005,41,Uzbekistan,9,208
+From: 18 Jul 2005,To: 18 Jul 2005,Protestant,FY 2005,4,Sudan,4,208
+

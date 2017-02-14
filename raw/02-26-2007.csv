@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Feb 2007,To: 26 Feb 2007,Afghanistan,FY 2007,10,Moslem Shiite,5,116
+From: 26 Feb 2007,To: 26 Feb 2007,Afghanistan,FY 2007,10,Moslem Suni,5,116
+From: 26 Feb 2007,To: 26 Feb 2007,Iran,FY 2007,16,Christian,16,116
+From: 26 Feb 2007,To: 26 Feb 2007,Liberia,FY 2007,42,Baptist,1,116
+From: 26 Feb 2007,To: 26 Feb 2007,Liberia,FY 2007,42,Christian,16,116
+From: 26 Feb 2007,To: 26 Feb 2007,Liberia,FY 2007,42,Moslem,21,116
+From: 26 Feb 2007,To: 26 Feb 2007,Liberia,FY 2007,42,Pentecostalist,1,116
+From: 26 Feb 2007,To: 26 Feb 2007,Liberia,FY 2007,42,Protestant,3,116
+From: 26 Feb 2007,To: 26 Feb 2007,Russia,FY 2007,33,Baptist,2,116
+From: 26 Feb 2007,To: 26 Feb 2007,Russia,FY 2007,33,Moslem,23,116
+From: 26 Feb 2007,To: 26 Feb 2007,Russia,FY 2007,33,No Religion,1,116
+From: 26 Feb 2007,To: 26 Feb 2007,Russia,FY 2007,33,Pentecostalist,7,116
+From: 26 Feb 2007,To: 26 Feb 2007,Sierra Leone,FY 2007,6,Christian,6,116
+From: 26 Feb 2007,To: 26 Feb 2007,Uzbekistan,FY 2007,9,Jewish,2,116
+From: 26 Feb 2007,To: 26 Feb 2007,Uzbekistan,FY 2007,9,Moslem,5,116
+From: 26 Feb 2007,To: 26 Feb 2007,Uzbekistan,FY 2007,9,Orthodox,2,116
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Feb 2007,To: 26 Feb 2007,Baptist,FY 2007,3,Liberia,1,116
+From: 26 Feb 2007,To: 26 Feb 2007,Baptist,FY 2007,3,Russia,2,116
+From: 26 Feb 2007,To: 26 Feb 2007,Christian,FY 2007,38,Iran,16,116
+From: 26 Feb 2007,To: 26 Feb 2007,Christian,FY 2007,38,Liberia,16,116
+From: 26 Feb 2007,To: 26 Feb 2007,Christian,FY 2007,38,Sierra Leone,6,116
+From: 26 Feb 2007,To: 26 Feb 2007,Jewish,FY 2007,2,Uzbekistan,2,116
+From: 26 Feb 2007,To: 26 Feb 2007,Moslem,FY 2007,49,Liberia,21,116
+From: 26 Feb 2007,To: 26 Feb 2007,Moslem,FY 2007,49,Russia,23,116
+From: 26 Feb 2007,To: 26 Feb 2007,Moslem,FY 2007,49,Uzbekistan,5,116
+From: 26 Feb 2007,To: 26 Feb 2007,Moslem Shiite,FY 2007,5,Afghanistan,5,116
+From: 26 Feb 2007,To: 26 Feb 2007,Moslem Suni,FY 2007,5,Afghanistan,5,116
+From: 26 Feb 2007,To: 26 Feb 2007,No Religion,FY 2007,1,Russia,1,116
+From: 26 Feb 2007,To: 26 Feb 2007,Orthodox,FY 2007,2,Uzbekistan,2,116
+From: 26 Feb 2007,To: 26 Feb 2007,Pentecostalist,FY 2007,8,Liberia,1,116
+From: 26 Feb 2007,To: 26 Feb 2007,Pentecostalist,FY 2007,8,Russia,7,116
+From: 26 Feb 2007,To: 26 Feb 2007,Protestant,FY 2007,3,Liberia,3,116
+

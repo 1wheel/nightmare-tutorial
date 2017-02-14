@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Feb 2011,To: 01 Feb 2011,Bhutan,FY 2011,65,Buddhist,11,252
+From: 01 Feb 2011,To: 01 Feb 2011,Bhutan,FY 2011,65,Hindu,54,252
+From: 01 Feb 2011,To: 01 Feb 2011,Burma,FY 2011,81,Baptist,5,252
+From: 01 Feb 2011,To: 01 Feb 2011,Burma,FY 2011,81,Buddhist,11,252
+From: 01 Feb 2011,To: 01 Feb 2011,Burma,FY 2011,81,Catholic,1,252
+From: 01 Feb 2011,To: 01 Feb 2011,Burma,FY 2011,81,Christian,42,252
+From: 01 Feb 2011,To: 01 Feb 2011,Burma,FY 2011,81,Moslem,22,252
+From: 01 Feb 2011,To: 01 Feb 2011,Congo,FY 2011,2,Unknown,2,252
+From: 01 Feb 2011,To: 01 Feb 2011,Cuba,FY 2011,68,Catholic,23,252
+From: 01 Feb 2011,To: 01 Feb 2011,Cuba,FY 2011,68,Evangelical Christian,3,252
+From: 01 Feb 2011,To: 01 Feb 2011,Cuba,FY 2011,68,Jehovah Witness,15,252
+From: 01 Feb 2011,To: 01 Feb 2011,Cuba,FY 2011,68,No Religion,21,252
+From: 01 Feb 2011,To: 01 Feb 2011,Cuba,FY 2011,68,Pentecostalist,3,252
+From: 01 Feb 2011,To: 01 Feb 2011,Cuba,FY 2011,68,Seventh Day Adventist,3,252
+From: 01 Feb 2011,To: 01 Feb 2011,Iran,FY 2011,2,Christian,1,252
+From: 01 Feb 2011,To: 01 Feb 2011,Iran,FY 2011,2,Zoroastrian,1,252
+From: 01 Feb 2011,To: 01 Feb 2011,Iraq,FY 2011,15,Moslem,2,252
+From: 01 Feb 2011,To: 01 Feb 2011,Iraq,FY 2011,15,Moslem Shiite,5,252
+From: 01 Feb 2011,To: 01 Feb 2011,Iraq,FY 2011,15,Moslem Suni,6,252
+From: 01 Feb 2011,To: 01 Feb 2011,Iraq,FY 2011,15,Orthodox,2,252
+From: 01 Feb 2011,To: 01 Feb 2011,Somalia,FY 2011,19,Moslem,19,252
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Feb 2011,To: 01 Feb 2011,Baptist,FY 2011,5,Burma,5,252
+From: 01 Feb 2011,To: 01 Feb 2011,Buddhist,FY 2011,22,Bhutan,11,252
+From: 01 Feb 2011,To: 01 Feb 2011,Buddhist,FY 2011,22,Burma,11,252
+From: 01 Feb 2011,To: 01 Feb 2011,Catholic,FY 2011,24,Burma,1,252
+From: 01 Feb 2011,To: 01 Feb 2011,Catholic,FY 2011,24,Cuba,23,252
+From: 01 Feb 2011,To: 01 Feb 2011,Christian,FY 2011,43,Burma,42,252
+From: 01 Feb 2011,To: 01 Feb 2011,Christian,FY 2011,43,Iran,1,252
+From: 01 Feb 2011,To: 01 Feb 2011,Evangelical Christian,FY 2011,3,Cuba,3,252
+From: 01 Feb 2011,To: 01 Feb 2011,Hindu,FY 2011,54,Bhutan,54,252
+From: 01 Feb 2011,To: 01 Feb 2011,Jehovah Witness,FY 2011,15,Cuba,15,252
+From: 01 Feb 2011,To: 01 Feb 2011,Moslem,FY 2011,43,Burma,22,252
+From: 01 Feb 2011,To: 01 Feb 2011,Moslem,FY 2011,43,Iraq,2,252
+From: 01 Feb 2011,To: 01 Feb 2011,Moslem,FY 2011,43,Somalia,19,252
+From: 01 Feb 2011,To: 01 Feb 2011,Moslem Shiite,FY 2011,5,Iraq,5,252
+From: 01 Feb 2011,To: 01 Feb 2011,Moslem Suni,FY 2011,6,Iraq,6,252
+From: 01 Feb 2011,To: 01 Feb 2011,No Religion,FY 2011,21,Cuba,21,252
+From: 01 Feb 2011,To: 01 Feb 2011,Orthodox,FY 2011,2,Iraq,2,252
+From: 01 Feb 2011,To: 01 Feb 2011,Pentecostalist,FY 2011,3,Cuba,3,252
+From: 01 Feb 2011,To: 01 Feb 2011,Seventh Day Adventist,FY 2011,3,Cuba,3,252
+From: 01 Feb 2011,To: 01 Feb 2011,Unknown,FY 2011,2,Congo,2,252
+From: 01 Feb 2011,To: 01 Feb 2011,Zoroastrian,FY 2011,1,Iran,1,252
+

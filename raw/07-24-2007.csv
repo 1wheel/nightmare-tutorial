@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jul 2007,To: 24 Jul 2007,Burma,FY 2007,245,Ancestral Worship,1,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burma,FY 2007,245,Baptist,1,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burma,FY 2007,245,Buddhist,43,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burma,FY 2007,245,Christian,177,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burma,FY 2007,245,Moslem,23,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burundi,FY 2007,95,Catholic,38,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burundi,FY 2007,95,Jehovah Witness,8,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burundi,FY 2007,95,Methodist,12,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burundi,FY 2007,95,Pentecostalist,31,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burundi,FY 2007,95,Protestant,1,417
+From: 24 Jul 2007,To: 24 Jul 2007,Burundi,FY 2007,95,Seventh Day Adventist,5,417
+From: 24 Jul 2007,To: 24 Jul 2007,Iran,FY 2007,39,Catholic,3,417
+From: 24 Jul 2007,To: 24 Jul 2007,Iran,FY 2007,39,Christian,30,417
+From: 24 Jul 2007,To: 24 Jul 2007,Iran,FY 2007,39,Sabeans-Mandean,4,417
+From: 24 Jul 2007,To: 24 Jul 2007,Iran,FY 2007,39,Zoroastrian,2,417
+From: 24 Jul 2007,To: 24 Jul 2007,Kuwait,FY 2007,6,Moslem Shiite,6,417
+From: 24 Jul 2007,To: 24 Jul 2007,Somalia,FY 2007,6,Moslem,6,417
+From: 24 Jul 2007,To: 24 Jul 2007,Ukraine,FY 2007,26,Pentecostalist,26,417
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jul 2007,To: 24 Jul 2007,Ancestral Worship,FY 2007,1,Burma,1,417
+From: 24 Jul 2007,To: 24 Jul 2007,Baptist,FY 2007,1,Burma,1,417
+From: 24 Jul 2007,To: 24 Jul 2007,Buddhist,FY 2007,43,Burma,43,417
+From: 24 Jul 2007,To: 24 Jul 2007,Catholic,FY 2007,41,Burundi,38,417
+From: 24 Jul 2007,To: 24 Jul 2007,Catholic,FY 2007,41,Iran,3,417
+From: 24 Jul 2007,To: 24 Jul 2007,Christian,FY 2007,207,Burma,177,417
+From: 24 Jul 2007,To: 24 Jul 2007,Christian,FY 2007,207,Iran,30,417
+From: 24 Jul 2007,To: 24 Jul 2007,Jehovah Witness,FY 2007,8,Burundi,8,417
+From: 24 Jul 2007,To: 24 Jul 2007,Methodist,FY 2007,12,Burundi,12,417
+From: 24 Jul 2007,To: 24 Jul 2007,Moslem,FY 2007,29,Burma,23,417
+From: 24 Jul 2007,To: 24 Jul 2007,Moslem,FY 2007,29,Somalia,6,417
+From: 24 Jul 2007,To: 24 Jul 2007,Moslem Shiite,FY 2007,6,Kuwait,6,417
+From: 24 Jul 2007,To: 24 Jul 2007,Pentecostalist,FY 2007,57,Burundi,31,417
+From: 24 Jul 2007,To: 24 Jul 2007,Pentecostalist,FY 2007,57,Ukraine,26,417
+From: 24 Jul 2007,To: 24 Jul 2007,Protestant,FY 2007,1,Burundi,1,417
+From: 24 Jul 2007,To: 24 Jul 2007,Sabeans-Mandean,FY 2007,4,Iran,4,417
+From: 24 Jul 2007,To: 24 Jul 2007,Seventh Day Adventist,FY 2007,5,Burundi,5,417
+From: 24 Jul 2007,To: 24 Jul 2007,Zoroastrian,FY 2007,2,Iran,2,417
+

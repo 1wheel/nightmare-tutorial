@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 May 2013,To: 16 May 2013,Bhutan,FY 2013,48,Buddhist,11,364
+From: 16 May 2013,To: 16 May 2013,Bhutan,FY 2013,48,Christian,10,364
+From: 16 May 2013,To: 16 May 2013,Bhutan,FY 2013,48,Hindu,19,364
+From: 16 May 2013,To: 16 May 2013,Bhutan,FY 2013,48,Kirat,8,364
+From: 16 May 2013,To: 16 May 2013,Burma,FY 2013,75,Baptist,7,364
+From: 16 May 2013,To: 16 May 2013,Burma,FY 2013,75,Buddhist,13,364
+From: 16 May 2013,To: 16 May 2013,Burma,FY 2013,75,Christian,36,364
+From: 16 May 2013,To: 16 May 2013,Burma,FY 2013,75,Evangelical Christian,3,364
+From: 16 May 2013,To: 16 May 2013,Burma,FY 2013,75,Moslem,12,364
+From: 16 May 2013,To: 16 May 2013,Burma,FY 2013,75,Seventh Day Adventist,4,364
+From: 16 May 2013,To: 16 May 2013,China,FY 2013,2,Other Religion,2,364
+From: 16 May 2013,To: 16 May 2013,Cuba,FY 2013,68,Catholic,21,364
+From: 16 May 2013,To: 16 May 2013,Cuba,FY 2013,68,Jehovah Witness,35,364
+From: 16 May 2013,To: 16 May 2013,Cuba,FY 2013,68,No Religion,5,364
+From: 16 May 2013,To: 16 May 2013,Cuba,FY 2013,68,Pentecostalist,7,364
+From: 16 May 2013,To: 16 May 2013,Eritrea,FY 2013,7,Christian,1,364
+From: 16 May 2013,To: 16 May 2013,Eritrea,FY 2013,7,Moslem,4,364
+From: 16 May 2013,To: 16 May 2013,Eritrea,FY 2013,7,Orthodox,2,364
+From: 16 May 2013,To: 16 May 2013,Iran,FY 2013,4,Christian,4,364
+From: 16 May 2013,To: 16 May 2013,Iraq,FY 2013,96,Catholic,10,364
+From: 16 May 2013,To: 16 May 2013,Iraq,FY 2013,96,Christian,2,364
+From: 16 May 2013,To: 16 May 2013,Iraq,FY 2013,96,Moslem Shiite,33,364
+From: 16 May 2013,To: 16 May 2013,Iraq,FY 2013,96,Moslem Suni,30,364
+From: 16 May 2013,To: 16 May 2013,Iraq,FY 2013,96,Orthodox,16,364
+From: 16 May 2013,To: 16 May 2013,Iraq,FY 2013,96,Sabeans-Mandean,5,364
+From: 16 May 2013,To: 16 May 2013,Somalia,FY 2013,51,Moslem,50,364
+From: 16 May 2013,To: 16 May 2013,Somalia,FY 2013,51,Moslem Suni,1,364
+From: 16 May 2013,To: 16 May 2013,Sri Lanka (Ceylon),FY 2013,2,Catholic,2,364
+From: 16 May 2013,To: 16 May 2013,Sudan,FY 2013,11,Moslem,9,364
+From: 16 May 2013,To: 16 May 2013,Sudan,FY 2013,11,Moslem Suni,2,364
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 May 2013,To: 16 May 2013,Baptist,FY 2013,7,Burma,7,364
+From: 16 May 2013,To: 16 May 2013,Buddhist,FY 2013,24,Bhutan,11,364
+From: 16 May 2013,To: 16 May 2013,Buddhist,FY 2013,24,Burma,13,364
+From: 16 May 2013,To: 16 May 2013,Catholic,FY 2013,33,Cuba,21,364
+From: 16 May 2013,To: 16 May 2013,Catholic,FY 2013,33,Iraq,10,364
+From: 16 May 2013,To: 16 May 2013,Catholic,FY 2013,33,Sri Lanka (Ceylon),2,364
+From: 16 May 2013,To: 16 May 2013,Christian,FY 2013,53,Bhutan,10,364
+From: 16 May 2013,To: 16 May 2013,Christian,FY 2013,53,Burma,36,364
+From: 16 May 2013,To: 16 May 2013,Christian,FY 2013,53,Eritrea,1,364
+From: 16 May 2013,To: 16 May 2013,Christian,FY 2013,53,Iran,4,364
+From: 16 May 2013,To: 16 May 2013,Christian,FY 2013,53,Iraq,2,364
+From: 16 May 2013,To: 16 May 2013,Evangelical Christian,FY 2013,3,Burma,3,364
+From: 16 May 2013,To: 16 May 2013,Hindu,FY 2013,19,Bhutan,19,364
+From: 16 May 2013,To: 16 May 2013,Jehovah Witness,FY 2013,35,Cuba,35,364
+From: 16 May 2013,To: 16 May 2013,Kirat,FY 2013,8,Bhutan,8,364
+From: 16 May 2013,To: 16 May 2013,Moslem,FY 2013,75,Burma,12,364
+From: 16 May 2013,To: 16 May 2013,Moslem,FY 2013,75,Eritrea,4,364
+From: 16 May 2013,To: 16 May 2013,Moslem,FY 2013,75,Somalia,50,364
+From: 16 May 2013,To: 16 May 2013,Moslem,FY 2013,75,Sudan,9,364
+From: 16 May 2013,To: 16 May 2013,Moslem Shiite,FY 2013,33,Iraq,33,364
+From: 16 May 2013,To: 16 May 2013,Moslem Suni,FY 2013,33,Iraq,30,364
+From: 16 May 2013,To: 16 May 2013,Moslem Suni,FY 2013,33,Somalia,1,364
+From: 16 May 2013,To: 16 May 2013,Moslem Suni,FY 2013,33,Sudan,2,364
+From: 16 May 2013,To: 16 May 2013,No Religion,FY 2013,5,Cuba,5,364
+From: 16 May 2013,To: 16 May 2013,Orthodox,FY 2013,18,Eritrea,2,364
+From: 16 May 2013,To: 16 May 2013,Orthodox,FY 2013,18,Iraq,16,364
+From: 16 May 2013,To: 16 May 2013,Other Religion,FY 2013,2,China,2,364
+From: 16 May 2013,To: 16 May 2013,Pentecostalist,FY 2013,7,Cuba,7,364
+From: 16 May 2013,To: 16 May 2013,Sabeans-Mandean,FY 2013,5,Iraq,5,364
+From: 16 May 2013,To: 16 May 2013,Seventh Day Adventist,FY 2013,4,Burma,4,364
+

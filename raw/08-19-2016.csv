@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Aug 2016,To: 19 Aug 2016,Afghanistan,FY 2016,5,Moslem Shiite,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Burma,FY 2016,27,Animist,11,229
+From: 19 Aug 2016,To: 19 Aug 2016,Burma,FY 2016,27,Catholic,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Burma,FY 2016,27,Christian,11,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Baptist,3,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Catholic,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Christian,59,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Methodist,7,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Moslem,3,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Pentecostalist,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Protestant,13,229
+From: 19 Aug 2016,To: 19 Aug 2016,Dem. Rep. Congo,FY 2016,99,Seventh Day Adventist,8,229
+From: 19 Aug 2016,To: 19 Aug 2016,El Salvador,FY 2016,3,Catholic,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,El Salvador,FY 2016,3,Christian,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,El Salvador,FY 2016,3,Evangelical Christian,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iran,FY 2016,30,Bahai,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iran,FY 2016,30,Christian,20,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iran,FY 2016,30,Zoroastrian,9,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iraq,FY 2016,19,Chaldean,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iraq,FY 2016,19,Christian,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iraq,FY 2016,19,Moslem Shiite,9,229
+From: 19 Aug 2016,To: 19 Aug 2016,Iraq,FY 2016,19,Moslem Suni,4,229
+From: 19 Aug 2016,To: 19 Aug 2016,Syria,FY 2016,46,Moslem Suni,46,229
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Aug 2016,To: 19 Aug 2016,Animist,FY 2016,11,Burma,11,229
+From: 19 Aug 2016,To: 19 Aug 2016,Bahai,FY 2016,1,Iran,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Baptist,FY 2016,3,Dem. Rep. Congo,3,229
+From: 19 Aug 2016,To: 19 Aug 2016,Catholic,FY 2016,7,Burma,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Catholic,FY 2016,7,Dem. Rep. Congo,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Catholic,FY 2016,7,El Salvador,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Chaldean,FY 2016,5,Iraq,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Christian,FY 2016,92,Burma,11,229
+From: 19 Aug 2016,To: 19 Aug 2016,Christian,FY 2016,92,Dem. Rep. Congo,59,229
+From: 19 Aug 2016,To: 19 Aug 2016,Christian,FY 2016,92,El Salvador,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Christian,FY 2016,92,Iran,20,229
+From: 19 Aug 2016,To: 19 Aug 2016,Christian,FY 2016,92,Iraq,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Evangelical Christian,FY 2016,1,El Salvador,1,229
+From: 19 Aug 2016,To: 19 Aug 2016,Methodist,FY 2016,7,Dem. Rep. Congo,7,229
+From: 19 Aug 2016,To: 19 Aug 2016,Moslem,FY 2016,3,Dem. Rep. Congo,3,229
+From: 19 Aug 2016,To: 19 Aug 2016,Moslem Shiite,FY 2016,14,Afghanistan,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Moslem Shiite,FY 2016,14,Iraq,9,229
+From: 19 Aug 2016,To: 19 Aug 2016,Moslem Suni,FY 2016,50,Iraq,4,229
+From: 19 Aug 2016,To: 19 Aug 2016,Moslem Suni,FY 2016,50,Syria,46,229
+From: 19 Aug 2016,To: 19 Aug 2016,Pentecostalist,FY 2016,5,Dem. Rep. Congo,5,229
+From: 19 Aug 2016,To: 19 Aug 2016,Protestant,FY 2016,13,Dem. Rep. Congo,13,229
+From: 19 Aug 2016,To: 19 Aug 2016,Seventh Day Adventist,FY 2016,8,Dem. Rep. Congo,8,229
+From: 19 Aug 2016,To: 19 Aug 2016,Zoroastrian,FY 2016,9,Iran,9,229
+

@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Nov 2003,To: 19 Nov 2003,Burma,FY 2004,10,Baptist,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Burma,FY 2004,10,Moslem,3,357
+From: 19 Nov 2003,To: 19 Nov 2003,Congo,FY 2004,4,Catholic,4,357
+From: 19 Nov 2003,To: 19 Nov 2003,Cuba,FY 2004,27,Catholic,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Cuba,FY 2004,27,Evangelical Christian,2,357
+From: 19 Nov 2003,To: 19 Nov 2003,Cuba,FY 2004,27,Jehovah Witness,8,357
+From: 19 Nov 2003,To: 19 Nov 2003,Cuba,FY 2004,27,No Religion,6,357
+From: 19 Nov 2003,To: 19 Nov 2003,Cuba,FY 2004,27,Seventh Day Adventist,4,357
+From: 19 Nov 2003,To: 19 Nov 2003,Dem. Rep. Congo,FY 2004,6,Catholic,6,357
+From: 19 Nov 2003,To: 19 Nov 2003,Ethiopia,FY 2004,9,Christian,9,357
+From: 19 Nov 2003,To: 19 Nov 2003,Iran,FY 2004,3,Moslem Suni,3,357
+From: 19 Nov 2003,To: 19 Nov 2003,Liberia,FY 2004,42,Baptist,8,357
+From: 19 Nov 2003,To: 19 Nov 2003,Liberia,FY 2004,42,Christian,19,357
+From: 19 Nov 2003,To: 19 Nov 2003,Liberia,FY 2004,42,Methodist,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Liberia,FY 2004,42,Moslem,8,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moldova,FY 2004,35,Baptist,6,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moldova,FY 2004,35,Jewish,5,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moldova,FY 2004,35,Pentecostalist,24,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sierra Leone,FY 2004,27,Christian,4,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sierra Leone,FY 2004,27,Moslem,22,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sierra Leone,FY 2004,27,Pentecostalist,1,357
+From: 19 Nov 2003,To: 19 Nov 2003,Somalia,FY 2004,75,Moslem,75,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sudan,FY 2004,56,Catholic,31,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sudan,FY 2004,56,Christian,18,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sudan,FY 2004,56,Moslem,5,357
+From: 19 Nov 2003,To: 19 Nov 2003,Sudan,FY 2004,56,Moslem Suni,2,357
+From: 19 Nov 2003,To: 19 Nov 2003,Ukraine,FY 2004,35,Baptist,15,357
+From: 19 Nov 2003,To: 19 Nov 2003,Ukraine,FY 2004,35,Jewish,2,357
+From: 19 Nov 2003,To: 19 Nov 2003,Ukraine,FY 2004,35,Pentecostalist,18,357
+From: 19 Nov 2003,To: 19 Nov 2003,Vietnam,FY 2004,28,Buddhist,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Vietnam,FY 2004,28,Catholic,3,357
+From: 19 Nov 2003,To: 19 Nov 2003,Vietnam,FY 2004,28,No Religion,13,357
+From: 19 Nov 2003,To: 19 Nov 2003,Vietnam,FY 2004,28,Unknown,5,357
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Nov 2003,To: 19 Nov 2003,Baptist,FY 2004,36,Burma,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Baptist,FY 2004,36,Liberia,8,357
+From: 19 Nov 2003,To: 19 Nov 2003,Baptist,FY 2004,36,Moldova,6,357
+From: 19 Nov 2003,To: 19 Nov 2003,Baptist,FY 2004,36,Ukraine,15,357
+From: 19 Nov 2003,To: 19 Nov 2003,Buddhist,FY 2004,7,Vietnam,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Catholic,FY 2004,51,Congo,4,357
+From: 19 Nov 2003,To: 19 Nov 2003,Catholic,FY 2004,51,Cuba,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Catholic,FY 2004,51,Dem. Rep. Congo,6,357
+From: 19 Nov 2003,To: 19 Nov 2003,Catholic,FY 2004,51,Sudan,31,357
+From: 19 Nov 2003,To: 19 Nov 2003,Catholic,FY 2004,51,Vietnam,3,357
+From: 19 Nov 2003,To: 19 Nov 2003,Christian,FY 2004,50,Ethiopia,9,357
+From: 19 Nov 2003,To: 19 Nov 2003,Christian,FY 2004,50,Liberia,19,357
+From: 19 Nov 2003,To: 19 Nov 2003,Christian,FY 2004,50,Sierra Leone,4,357
+From: 19 Nov 2003,To: 19 Nov 2003,Christian,FY 2004,50,Sudan,18,357
+From: 19 Nov 2003,To: 19 Nov 2003,Evangelical Christian,FY 2004,2,Cuba,2,357
+From: 19 Nov 2003,To: 19 Nov 2003,Jehovah Witness,FY 2004,8,Cuba,8,357
+From: 19 Nov 2003,To: 19 Nov 2003,Jewish,FY 2004,7,Moldova,5,357
+From: 19 Nov 2003,To: 19 Nov 2003,Jewish,FY 2004,7,Ukraine,2,357
+From: 19 Nov 2003,To: 19 Nov 2003,Methodist,FY 2004,7,Liberia,7,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem,FY 2004,113,Burma,3,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem,FY 2004,113,Liberia,8,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem,FY 2004,113,Sierra Leone,22,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem,FY 2004,113,Somalia,75,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem,FY 2004,113,Sudan,5,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem Suni,FY 2004,5,Iran,3,357
+From: 19 Nov 2003,To: 19 Nov 2003,Moslem Suni,FY 2004,5,Sudan,2,357
+From: 19 Nov 2003,To: 19 Nov 2003,No Religion,FY 2004,19,Cuba,6,357
+From: 19 Nov 2003,To: 19 Nov 2003,No Religion,FY 2004,19,Vietnam,13,357
+From: 19 Nov 2003,To: 19 Nov 2003,Pentecostalist,FY 2004,43,Moldova,24,357
+From: 19 Nov 2003,To: 19 Nov 2003,Pentecostalist,FY 2004,43,Sierra Leone,1,357
+From: 19 Nov 2003,To: 19 Nov 2003,Pentecostalist,FY 2004,43,Ukraine,18,357
+From: 19 Nov 2003,To: 19 Nov 2003,Seventh Day Adventist,FY 2004,4,Cuba,4,357
+From: 19 Nov 2003,To: 19 Nov 2003,Unknown,FY 2004,5,Vietnam,5,357
+

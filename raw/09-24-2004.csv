@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Sep 2004,To: 24 Sep 2004,Belarus,FY 2004,18,Pentecostalist,18,331
+From: 24 Sep 2004,To: 24 Sep 2004,Dem. Rep. Congo,FY 2004,1,Christian,1,331
+From: 24 Sep 2004,To: 24 Sep 2004,Ethiopia,FY 2004,11,Christian,3,331
+From: 24 Sep 2004,To: 24 Sep 2004,Ethiopia,FY 2004,11,Moslem,6,331
+From: 24 Sep 2004,To: 24 Sep 2004,Ethiopia,FY 2004,11,Orthodox,1,331
+From: 24 Sep 2004,To: 24 Sep 2004,Ethiopia,FY 2004,11,Protestant,1,331
+From: 24 Sep 2004,To: 24 Sep 2004,Iran,FY 2004,7,Christian,4,331
+From: 24 Sep 2004,To: 24 Sep 2004,Iran,FY 2004,7,Unknown,3,331
+From: 24 Sep 2004,To: 24 Sep 2004,Laos,FY 2004,140,Ancestral Worship,118,331
+From: 24 Sep 2004,To: 24 Sep 2004,Laos,FY 2004,140,Catholic,6,331
+From: 24 Sep 2004,To: 24 Sep 2004,Laos,FY 2004,140,Christian,16,331
+From: 24 Sep 2004,To: 24 Sep 2004,Liberia,FY 2004,87,Catholic,8,331
+From: 24 Sep 2004,To: 24 Sep 2004,Liberia,FY 2004,87,Christian,53,331
+From: 24 Sep 2004,To: 24 Sep 2004,Liberia,FY 2004,87,Lutheran,4,331
+From: 24 Sep 2004,To: 24 Sep 2004,Liberia,FY 2004,87,Moslem,13,331
+From: 24 Sep 2004,To: 24 Sep 2004,Liberia,FY 2004,87,Pentecostalist,9,331
+From: 24 Sep 2004,To: 24 Sep 2004,Sierra Leone,FY 2004,18,Christian,18,331
+From: 24 Sep 2004,To: 24 Sep 2004,Somalia,FY 2004,43,Moslem,43,331
+From: 24 Sep 2004,To: 24 Sep 2004,Sudan,FY 2004,6,Christian,6,331
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Sep 2004,To: 24 Sep 2004,Ancestral Worship,FY 2004,118,Laos,118,331
+From: 24 Sep 2004,To: 24 Sep 2004,Catholic,FY 2004,14,Laos,6,331
+From: 24 Sep 2004,To: 24 Sep 2004,Catholic,FY 2004,14,Liberia,8,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Dem. Rep. Congo,1,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Ethiopia,3,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Iran,4,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Laos,16,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Liberia,53,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Sierra Leone,18,331
+From: 24 Sep 2004,To: 24 Sep 2004,Christian,FY 2004,101,Sudan,6,331
+From: 24 Sep 2004,To: 24 Sep 2004,Lutheran,FY 2004,4,Liberia,4,331
+From: 24 Sep 2004,To: 24 Sep 2004,Moslem,FY 2004,62,Ethiopia,6,331
+From: 24 Sep 2004,To: 24 Sep 2004,Moslem,FY 2004,62,Liberia,13,331
+From: 24 Sep 2004,To: 24 Sep 2004,Moslem,FY 2004,62,Somalia,43,331
+From: 24 Sep 2004,To: 24 Sep 2004,Orthodox,FY 2004,1,Ethiopia,1,331
+From: 24 Sep 2004,To: 24 Sep 2004,Pentecostalist,FY 2004,27,Belarus,18,331
+From: 24 Sep 2004,To: 24 Sep 2004,Pentecostalist,FY 2004,27,Liberia,9,331
+From: 24 Sep 2004,To: 24 Sep 2004,Protestant,FY 2004,1,Ethiopia,1,331
+From: 24 Sep 2004,To: 24 Sep 2004,Unknown,FY 2004,3,Iran,3,331
+

@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Feb 2004,To: 19 Feb 2004,Armenia,FY 2004,4,Pentecostalist,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Bosnia and Herzegovina,FY 2004,10,Orthodox,10,298
+From: 19 Feb 2004,To: 19 Feb 2004,Colombia,FY 2004,35,Catholic,32,298
+From: 19 Feb 2004,To: 19 Feb 2004,Colombia,FY 2004,35,Christian,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Colombia,FY 2004,35,Evangelical Christian,2,298
+From: 19 Feb 2004,To: 19 Feb 2004,Croatia,FY 2004,15,Orthodox,15,298
+From: 19 Feb 2004,To: 19 Feb 2004,Dem. Rep. Congo,FY 2004,1,Protestant,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Egypt,FY 2004,3,Christian,3,298
+From: 19 Feb 2004,To: 19 Feb 2004,Eritrea,FY 2004,1,Moslem,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Ethiopia,FY 2004,13,Christian,9,298
+From: 19 Feb 2004,To: 19 Feb 2004,Ethiopia,FY 2004,13,Moslem,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Iraq,FY 2004,1,Moslem Shiite,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Kuwait,FY 2004,12,Moslem Suni,12,298
+From: 19 Feb 2004,To: 19 Feb 2004,Somalia,FY 2004,86,Moslem,74,298
+From: 19 Feb 2004,To: 19 Feb 2004,Somalia,FY 2004,86,Moslem Suni,12,298
+From: 19 Feb 2004,To: 19 Feb 2004,Sudan,FY 2004,53,Catholic,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Sudan,FY 2004,53,Christian,3,298
+From: 19 Feb 2004,To: 19 Feb 2004,Sudan,FY 2004,53,Evangelical Christian,2,298
+From: 19 Feb 2004,To: 19 Feb 2004,Sudan,FY 2004,53,Moslem,21,298
+From: 19 Feb 2004,To: 19 Feb 2004,Sudan,FY 2004,53,Moslem Suni,21,298
+From: 19 Feb 2004,To: 19 Feb 2004,Sudan,FY 2004,53,Protestant,5,298
+From: 19 Feb 2004,To: 19 Feb 2004,Ukraine,FY 2004,40,Baptist,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Ukraine,FY 2004,40,Jewish,5,298
+From: 19 Feb 2004,To: 19 Feb 2004,Ukraine,FY 2004,40,Pentecostalist,31,298
+From: 19 Feb 2004,To: 19 Feb 2004,Uzbekistan,FY 2004,24,Baptist,16,298
+From: 19 Feb 2004,To: 19 Feb 2004,Uzbekistan,FY 2004,24,Jewish,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Uzbekistan,FY 2004,24,No Religion,4,298
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Feb 2004,To: 19 Feb 2004,Baptist,FY 2004,20,Ukraine,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Baptist,FY 2004,20,Uzbekistan,16,298
+From: 19 Feb 2004,To: 19 Feb 2004,Catholic,FY 2004,33,Colombia,32,298
+From: 19 Feb 2004,To: 19 Feb 2004,Catholic,FY 2004,33,Sudan,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Christian,FY 2004,16,Colombia,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Christian,FY 2004,16,Egypt,3,298
+From: 19 Feb 2004,To: 19 Feb 2004,Christian,FY 2004,16,Ethiopia,9,298
+From: 19 Feb 2004,To: 19 Feb 2004,Christian,FY 2004,16,Sudan,3,298
+From: 19 Feb 2004,To: 19 Feb 2004,Evangelical Christian,FY 2004,4,Colombia,2,298
+From: 19 Feb 2004,To: 19 Feb 2004,Evangelical Christian,FY 2004,4,Sudan,2,298
+From: 19 Feb 2004,To: 19 Feb 2004,Jewish,FY 2004,9,Ukraine,5,298
+From: 19 Feb 2004,To: 19 Feb 2004,Jewish,FY 2004,9,Uzbekistan,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem,FY 2004,100,Eritrea,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem,FY 2004,100,Ethiopia,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem,FY 2004,100,Somalia,74,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem,FY 2004,100,Sudan,21,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem Shiite,FY 2004,1,Iraq,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem Suni,FY 2004,45,Kuwait,12,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem Suni,FY 2004,45,Somalia,12,298
+From: 19 Feb 2004,To: 19 Feb 2004,Moslem Suni,FY 2004,45,Sudan,21,298
+From: 19 Feb 2004,To: 19 Feb 2004,No Religion,FY 2004,4,Uzbekistan,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Orthodox,FY 2004,25,Bosnia and Herzegovina,10,298
+From: 19 Feb 2004,To: 19 Feb 2004,Orthodox,FY 2004,25,Croatia,15,298
+From: 19 Feb 2004,To: 19 Feb 2004,Pentecostalist,FY 2004,35,Armenia,4,298
+From: 19 Feb 2004,To: 19 Feb 2004,Pentecostalist,FY 2004,35,Ukraine,31,298
+From: 19 Feb 2004,To: 19 Feb 2004,Protestant,FY 2004,6,Dem. Rep. Congo,1,298
+From: 19 Feb 2004,To: 19 Feb 2004,Protestant,FY 2004,6,Sudan,5,298
+

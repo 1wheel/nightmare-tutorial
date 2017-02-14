@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Mar 2012,To: 07 Mar 2012,Afghanistan,FY 2012,3,Moslem Suni,3,236
+From: 07 Mar 2012,To: 07 Mar 2012,Bhutan,FY 2012,56,Buddhist,20,236
+From: 07 Mar 2012,To: 07 Mar 2012,Bhutan,FY 2012,56,Hindu,32,236
+From: 07 Mar 2012,To: 07 Mar 2012,Bhutan,FY 2012,56,Kirat,4,236
+From: 07 Mar 2012,To: 07 Mar 2012,Burma,FY 2012,37,Buddhist,5,236
+From: 07 Mar 2012,To: 07 Mar 2012,Burma,FY 2012,37,Christian,26,236
+From: 07 Mar 2012,To: 07 Mar 2012,Burma,FY 2012,37,Moslem,6,236
+From: 07 Mar 2012,To: 07 Mar 2012,Chad,FY 2012,5,Moslem,5,236
+From: 07 Mar 2012,To: 07 Mar 2012,Colombia,FY 2012,4,Catholic,4,236
+From: 07 Mar 2012,To: 07 Mar 2012,Congo,FY 2012,11,Catholic,7,236
+From: 07 Mar 2012,To: 07 Mar 2012,Congo,FY 2012,11,Christian,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Congo,FY 2012,11,Protestant,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Eritrea,FY 2012,6,Orthodox,6,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iran,FY 2012,9,Bahai,1,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iran,FY 2012,9,Moslem Shiite,3,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iran,FY 2012,9,No Religion,3,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iran,FY 2012,9,Protestant,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iraq,FY 2012,57,Catholic,9,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iraq,FY 2012,57,Christian,13,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iraq,FY 2012,57,Moslem Shiite,7,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iraq,FY 2012,57,Moslem Suni,26,236
+From: 07 Mar 2012,To: 07 Mar 2012,Iraq,FY 2012,57,Orthodox,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Nepal,FY 2012,2,Hindu,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Pakistan,FY 2012,5,Ahmadiyya,5,236
+From: 07 Mar 2012,To: 07 Mar 2012,Somalia,FY 2012,39,Moslem,38,236
+From: 07 Mar 2012,To: 07 Mar 2012,Somalia,FY 2012,39,Moslem Suni,1,236
+From: 07 Mar 2012,To: 07 Mar 2012,Venezuela,FY 2012,2,Catholic,2,236
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Mar 2012,To: 07 Mar 2012,Ahmadiyya,FY 2012,5,Pakistan,5,236
+From: 07 Mar 2012,To: 07 Mar 2012,Bahai,FY 2012,1,Iran,1,236
+From: 07 Mar 2012,To: 07 Mar 2012,Buddhist,FY 2012,25,Bhutan,20,236
+From: 07 Mar 2012,To: 07 Mar 2012,Buddhist,FY 2012,25,Burma,5,236
+From: 07 Mar 2012,To: 07 Mar 2012,Catholic,FY 2012,22,Colombia,4,236
+From: 07 Mar 2012,To: 07 Mar 2012,Catholic,FY 2012,22,Congo,7,236
+From: 07 Mar 2012,To: 07 Mar 2012,Catholic,FY 2012,22,Iraq,9,236
+From: 07 Mar 2012,To: 07 Mar 2012,Catholic,FY 2012,22,Venezuela,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Christian,FY 2012,41,Burma,26,236
+From: 07 Mar 2012,To: 07 Mar 2012,Christian,FY 2012,41,Congo,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Christian,FY 2012,41,Iraq,13,236
+From: 07 Mar 2012,To: 07 Mar 2012,Hindu,FY 2012,34,Bhutan,32,236
+From: 07 Mar 2012,To: 07 Mar 2012,Hindu,FY 2012,34,Nepal,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Kirat,FY 2012,4,Bhutan,4,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem,FY 2012,49,Burma,6,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem,FY 2012,49,Chad,5,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem,FY 2012,49,Somalia,38,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem Shiite,FY 2012,10,Iran,3,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem Shiite,FY 2012,10,Iraq,7,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem Suni,FY 2012,30,Afghanistan,3,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem Suni,FY 2012,30,Iraq,26,236
+From: 07 Mar 2012,To: 07 Mar 2012,Moslem Suni,FY 2012,30,Somalia,1,236
+From: 07 Mar 2012,To: 07 Mar 2012,No Religion,FY 2012,3,Iran,3,236
+From: 07 Mar 2012,To: 07 Mar 2012,Orthodox,FY 2012,8,Eritrea,6,236
+From: 07 Mar 2012,To: 07 Mar 2012,Orthodox,FY 2012,8,Iraq,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Protestant,FY 2012,4,Congo,2,236
+From: 07 Mar 2012,To: 07 Mar 2012,Protestant,FY 2012,4,Iran,2,236
+

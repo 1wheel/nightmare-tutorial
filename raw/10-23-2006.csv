@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Oct 2006,To: 23 Oct 2006,Azerbaijan,FY 2007,14,Baptist,1,71
+From: 23 Oct 2006,To: 23 Oct 2006,Azerbaijan,FY 2007,14,Jewish,12,71
+From: 23 Oct 2006,To: 23 Oct 2006,Azerbaijan,FY 2007,14,No Religion,1,71
+From: 23 Oct 2006,To: 23 Oct 2006,Moldova,FY 2007,31,Baptist,17,71
+From: 23 Oct 2006,To: 23 Oct 2006,Moldova,FY 2007,31,Jehovah Witness,4,71
+From: 23 Oct 2006,To: 23 Oct 2006,Moldova,FY 2007,31,Pentecostalist,8,71
+From: 23 Oct 2006,To: 23 Oct 2006,Moldova,FY 2007,31,Seventh Day Adventist,2,71
+From: 23 Oct 2006,To: 23 Oct 2006,Russia,FY 2007,26,Moslem,26,71
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Oct 2006,To: 23 Oct 2006,Baptist,FY 2007,18,Azerbaijan,1,71
+From: 23 Oct 2006,To: 23 Oct 2006,Baptist,FY 2007,18,Moldova,17,71
+From: 23 Oct 2006,To: 23 Oct 2006,Jehovah Witness,FY 2007,4,Moldova,4,71
+From: 23 Oct 2006,To: 23 Oct 2006,Jewish,FY 2007,12,Azerbaijan,12,71
+From: 23 Oct 2006,To: 23 Oct 2006,Moslem,FY 2007,26,Russia,26,71
+From: 23 Oct 2006,To: 23 Oct 2006,No Religion,FY 2007,1,Azerbaijan,1,71
+From: 23 Oct 2006,To: 23 Oct 2006,Pentecostalist,FY 2007,8,Moldova,8,71
+From: 23 Oct 2006,To: 23 Oct 2006,Seventh Day Adventist,FY 2007,2,Moldova,2,71
+

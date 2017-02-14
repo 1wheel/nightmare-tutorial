@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Jan 2007,To: 25 Jan 2007,Cuba,FY 2007,69,Baptist,3,201
+From: 25 Jan 2007,To: 25 Jan 2007,Cuba,FY 2007,69,Catholic,16,201
+From: 25 Jan 2007,To: 25 Jan 2007,Cuba,FY 2007,69,No Religion,49,201
+From: 25 Jan 2007,To: 25 Jan 2007,Cuba,FY 2007,69,Seventh Day Adventist,1,201
+From: 25 Jan 2007,To: 25 Jan 2007,Gambia,FY 2007,3,Moslem,3,201
+From: 25 Jan 2007,To: 25 Jan 2007,Iran,FY 2007,35,Christian,35,201
+From: 25 Jan 2007,To: 25 Jan 2007,Iraq,FY 2007,5,Moslem Suni,5,201
+From: 25 Jan 2007,To: 25 Jan 2007,Russia,FY 2007,24,Moslem,24,201
+From: 25 Jan 2007,To: 25 Jan 2007,Rwanda,FY 2007,4,Catholic,4,201
+From: 25 Jan 2007,To: 25 Jan 2007,Somalia,FY 2007,25,Moslem,25,201
+From: 25 Jan 2007,To: 25 Jan 2007,Sudan,FY 2007,2,Orthodox,2,201
+From: 25 Jan 2007,To: 25 Jan 2007,Ukraine,FY 2007,34,Baptist,13,201
+From: 25 Jan 2007,To: 25 Jan 2007,Ukraine,FY 2007,34,Jewish,3,201
+From: 25 Jan 2007,To: 25 Jan 2007,Ukraine,FY 2007,34,Pentecostalist,18,201
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Jan 2007,To: 25 Jan 2007,Baptist,FY 2007,16,Cuba,3,201
+From: 25 Jan 2007,To: 25 Jan 2007,Baptist,FY 2007,16,Ukraine,13,201
+From: 25 Jan 2007,To: 25 Jan 2007,Catholic,FY 2007,20,Cuba,16,201
+From: 25 Jan 2007,To: 25 Jan 2007,Catholic,FY 2007,20,Rwanda,4,201
+From: 25 Jan 2007,To: 25 Jan 2007,Christian,FY 2007,35,Iran,35,201
+From: 25 Jan 2007,To: 25 Jan 2007,Jewish,FY 2007,3,Ukraine,3,201
+From: 25 Jan 2007,To: 25 Jan 2007,Moslem,FY 2007,52,Gambia,3,201
+From: 25 Jan 2007,To: 25 Jan 2007,Moslem,FY 2007,52,Russia,24,201
+From: 25 Jan 2007,To: 25 Jan 2007,Moslem,FY 2007,52,Somalia,25,201
+From: 25 Jan 2007,To: 25 Jan 2007,Moslem Suni,FY 2007,5,Iraq,5,201
+From: 25 Jan 2007,To: 25 Jan 2007,No Religion,FY 2007,49,Cuba,49,201
+From: 25 Jan 2007,To: 25 Jan 2007,Orthodox,FY 2007,2,Sudan,2,201
+From: 25 Jan 2007,To: 25 Jan 2007,Pentecostalist,FY 2007,18,Ukraine,18,201
+From: 25 Jan 2007,To: 25 Jan 2007,Seventh Day Adventist,FY 2007,1,Cuba,1,201
+

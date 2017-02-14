@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 May 2015,To: 04 May 2015,Afghanistan,FY 2015,12,Moslem Shiite,11,92
+From: 04 May 2015,To: 04 May 2015,Afghanistan,FY 2015,12,Moslem Suni,1,92
+From: 04 May 2015,To: 04 May 2015,Azerbaijan,FY 2015,2,Jewish,2,92
+From: 04 May 2015,To: 04 May 2015,Dem. Rep. Congo,FY 2015,54,Catholic,11,92
+From: 04 May 2015,To: 04 May 2015,Dem. Rep. Congo,FY 2015,54,Moslem,9,92
+From: 04 May 2015,To: 04 May 2015,Dem. Rep. Congo,FY 2015,54,Pentecostalist,19,92
+From: 04 May 2015,To: 04 May 2015,Dem. Rep. Congo,FY 2015,54,Protestant,4,92
+From: 04 May 2015,To: 04 May 2015,Dem. Rep. Congo,FY 2015,54,Seventh Day Adventist,11,92
+From: 04 May 2015,To: 04 May 2015,Iran,FY 2015,1,Moslem,1,92
+From: 04 May 2015,To: 04 May 2015,Iraq,FY 2015,22,Moslem Suni,22,92
+From: 04 May 2015,To: 04 May 2015,Moldova,FY 2015,1,Baptist,1,92
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 May 2015,To: 04 May 2015,Baptist,FY 2015,1,Moldova,1,92
+From: 04 May 2015,To: 04 May 2015,Catholic,FY 2015,11,Dem. Rep. Congo,11,92
+From: 04 May 2015,To: 04 May 2015,Jewish,FY 2015,2,Azerbaijan,2,92
+From: 04 May 2015,To: 04 May 2015,Moslem,FY 2015,10,Dem. Rep. Congo,9,92
+From: 04 May 2015,To: 04 May 2015,Moslem,FY 2015,10,Iran,1,92
+From: 04 May 2015,To: 04 May 2015,Moslem Shiite,FY 2015,11,Afghanistan,11,92
+From: 04 May 2015,To: 04 May 2015,Moslem Suni,FY 2015,23,Afghanistan,1,92
+From: 04 May 2015,To: 04 May 2015,Moslem Suni,FY 2015,23,Iraq,22,92
+From: 04 May 2015,To: 04 May 2015,Pentecostalist,FY 2015,19,Dem. Rep. Congo,19,92
+From: 04 May 2015,To: 04 May 2015,Protestant,FY 2015,4,Dem. Rep. Congo,4,92
+From: 04 May 2015,To: 04 May 2015,Seventh Day Adventist,FY 2015,11,Dem. Rep. Congo,11,92
+

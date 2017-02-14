@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Apr 2014,To: 10 Apr 2014,Bhutan,FY 2014,70,Buddhist,14,323
+From: 10 Apr 2014,To: 10 Apr 2014,Bhutan,FY 2014,70,Christian,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Bhutan,FY 2014,70,Hindu,37,323
+From: 10 Apr 2014,To: 10 Apr 2014,Bhutan,FY 2014,70,Kirat,14,323
+From: 10 Apr 2014,To: 10 Apr 2014,Burma,FY 2014,62,Animist,9,323
+From: 10 Apr 2014,To: 10 Apr 2014,Burma,FY 2014,62,Buddhist,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Burma,FY 2014,62,Catholic,10,323
+From: 10 Apr 2014,To: 10 Apr 2014,Burma,FY 2014,62,Christian,38,323
+From: 10 Apr 2014,To: 10 Apr 2014,Dem. Rep. Congo,FY 2014,9,Catholic,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Dem. Rep. Congo,FY 2014,9,Christian,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Dem. Rep. Congo,FY 2014,9,Protestant,4,323
+From: 10 Apr 2014,To: 10 Apr 2014,Eritrea,FY 2014,8,Catholic,7,323
+From: 10 Apr 2014,To: 10 Apr 2014,Eritrea,FY 2014,8,Orthodox,1,323
+From: 10 Apr 2014,To: 10 Apr 2014,Ethiopia,FY 2014,3,Moslem,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Ethiopia,FY 2014,3,Orthodox,1,323
+From: 10 Apr 2014,To: 10 Apr 2014,Georgia,FY 2014,13,Pentecostalist,13,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iran,FY 2014,20,Bahai,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iran,FY 2014,20,Christian,8,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iran,FY 2014,20,Sabeans-Mandean,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iran,FY 2014,20,Zoroastrian,4,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iraq,FY 2014,61,Catholic,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iraq,FY 2014,61,Christian,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iraq,FY 2014,61,Moslem,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iraq,FY 2014,61,Moslem Shiite,17,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iraq,FY 2014,61,Moslem Suni,30,323
+From: 10 Apr 2014,To: 10 Apr 2014,Iraq,FY 2014,61,Orthodox,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Kazakhstan,FY 2014,2,Baptist,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Kuwait,FY 2014,3,Moslem Suni,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Somalia,FY 2014,71,Moslem,68,323
+From: 10 Apr 2014,To: 10 Apr 2014,Somalia,FY 2014,71,Moslem Suni,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Sudan,FY 2014,1,Moslem,1,323
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Apr 2014,To: 10 Apr 2014,Animist,FY 2014,9,Burma,9,323
+From: 10 Apr 2014,To: 10 Apr 2014,Bahai,FY 2014,3,Iran,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Baptist,FY 2014,2,Kazakhstan,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Buddhist,FY 2014,19,Bhutan,14,323
+From: 10 Apr 2014,To: 10 Apr 2014,Buddhist,FY 2014,19,Burma,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Catholic,FY 2014,25,Burma,10,323
+From: 10 Apr 2014,To: 10 Apr 2014,Catholic,FY 2014,25,Dem. Rep. Congo,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Catholic,FY 2014,25,Eritrea,7,323
+From: 10 Apr 2014,To: 10 Apr 2014,Catholic,FY 2014,25,Iraq,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Christian,FY 2014,58,Bhutan,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Christian,FY 2014,58,Burma,38,323
+From: 10 Apr 2014,To: 10 Apr 2014,Christian,FY 2014,58,Dem. Rep. Congo,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Christian,FY 2014,58,Iran,8,323
+From: 10 Apr 2014,To: 10 Apr 2014,Christian,FY 2014,58,Iraq,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Hindu,FY 2014,37,Bhutan,37,323
+From: 10 Apr 2014,To: 10 Apr 2014,Kirat,FY 2014,14,Bhutan,14,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem,FY 2014,73,Ethiopia,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem,FY 2014,73,Iraq,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem,FY 2014,73,Somalia,68,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem,FY 2014,73,Sudan,1,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem Shiite,FY 2014,17,Iraq,17,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem Suni,FY 2014,36,Iraq,30,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem Suni,FY 2014,36,Kuwait,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Moslem Suni,FY 2014,36,Somalia,3,323
+From: 10 Apr 2014,To: 10 Apr 2014,Orthodox,FY 2014,4,Eritrea,1,323
+From: 10 Apr 2014,To: 10 Apr 2014,Orthodox,FY 2014,4,Ethiopia,1,323
+From: 10 Apr 2014,To: 10 Apr 2014,Orthodox,FY 2014,4,Iraq,2,323
+From: 10 Apr 2014,To: 10 Apr 2014,Pentecostalist,FY 2014,13,Georgia,13,323
+From: 10 Apr 2014,To: 10 Apr 2014,Protestant,FY 2014,4,Dem. Rep. Congo,4,323
+From: 10 Apr 2014,To: 10 Apr 2014,Sabeans-Mandean,FY 2014,5,Iran,5,323
+From: 10 Apr 2014,To: 10 Apr 2014,Zoroastrian,FY 2014,4,Iran,4,323
+

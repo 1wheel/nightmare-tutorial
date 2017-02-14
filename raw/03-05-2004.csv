@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Mar 2004,To: 05 Mar 2004,Afghanistan,FY 2004,7,Moslem,5,53
+From: 05 Mar 2004,To: 05 Mar 2004,Afghanistan,FY 2004,7,Moslem Shiite,2,53
+From: 05 Mar 2004,To: 05 Mar 2004,Azerbaijan,FY 2004,3,Jewish,3,53
+From: 05 Mar 2004,To: 05 Mar 2004,Moldova,FY 2004,36,Baptist,33,53
+From: 05 Mar 2004,To: 05 Mar 2004,Moldova,FY 2004,36,Pentecostalist,3,53
+From: 05 Mar 2004,To: 05 Mar 2004,Russia,FY 2004,2,Moslem Suni,2,53
+From: 05 Mar 2004,To: 05 Mar 2004,Ukraine,FY 2004,5,Pentecostalist,5,53
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Mar 2004,To: 05 Mar 2004,Baptist,FY 2004,33,Moldova,33,53
+From: 05 Mar 2004,To: 05 Mar 2004,Jewish,FY 2004,3,Azerbaijan,3,53
+From: 05 Mar 2004,To: 05 Mar 2004,Moslem,FY 2004,5,Afghanistan,5,53
+From: 05 Mar 2004,To: 05 Mar 2004,Moslem Shiite,FY 2004,2,Afghanistan,2,53
+From: 05 Mar 2004,To: 05 Mar 2004,Moslem Suni,FY 2004,2,Russia,2,53
+From: 05 Mar 2004,To: 05 Mar 2004,Pentecostalist,FY 2004,8,Moldova,3,53
+From: 05 Mar 2004,To: 05 Mar 2004,Pentecostalist,FY 2004,8,Ukraine,5,53
+

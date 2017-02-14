@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jun 2003,To: 03 Jun 2003,Afghanistan,FY 2003,1,Unknown,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Azerbaijan,FY 2003,2,Christian,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Azerbaijan,FY 2003,2,Unknown,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Bosnia and Herzegovina,FY 2003,3,Moslem,2,176
+From: 03 Jun 2003,To: 03 Jun 2003,Bosnia and Herzegovina,FY 2003,3,Orthodox,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Croatia,FY 2003,2,No Religion,2,176
+From: 03 Jun 2003,To: 03 Jun 2003,Ethiopia,FY 2003,14,Orthodox,14,176
+From: 03 Jun 2003,To: 03 Jun 2003,Iran,FY 2003,1,Moslem,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Liberia,FY 2003,12,Moslem,12,176
+From: 03 Jun 2003,To: 03 Jun 2003,Russia,FY 2003,28,Baptist,13,176
+From: 03 Jun 2003,To: 03 Jun 2003,Russia,FY 2003,28,Jewish,11,176
+From: 03 Jun 2003,To: 03 Jun 2003,Russia,FY 2003,28,No Religion,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Russia,FY 2003,28,Pentecostalist,3,176
+From: 03 Jun 2003,To: 03 Jun 2003,Serbia,FY 2003,32,Orthodox,32,176
+From: 03 Jun 2003,To: 03 Jun 2003,Sierra Leone,FY 2003,23,Catholic,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Sierra Leone,FY 2003,23,Christian,2,176
+From: 03 Jun 2003,To: 03 Jun 2003,Sierra Leone,FY 2003,23,Moslem,20,176
+From: 03 Jun 2003,To: 03 Jun 2003,Somalia,FY 2003,20,Moslem,20,176
+From: 03 Jun 2003,To: 03 Jun 2003,Sudan,FY 2003,6,Christian,6,176
+From: 03 Jun 2003,To: 03 Jun 2003,Ukraine,FY 2003,32,Baptist,11,176
+From: 03 Jun 2003,To: 03 Jun 2003,Ukraine,FY 2003,32,Jewish,6,176
+From: 03 Jun 2003,To: 03 Jun 2003,Ukraine,FY 2003,32,No Religion,3,176
+From: 03 Jun 2003,To: 03 Jun 2003,Ukraine,FY 2003,32,Pentecostalist,12,176
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jun 2003,To: 03 Jun 2003,Baptist,FY 2003,24,Russia,13,176
+From: 03 Jun 2003,To: 03 Jun 2003,Baptist,FY 2003,24,Ukraine,11,176
+From: 03 Jun 2003,To: 03 Jun 2003,Catholic,FY 2003,1,Sierra Leone,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Christian,FY 2003,9,Azerbaijan,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Christian,FY 2003,9,Sierra Leone,2,176
+From: 03 Jun 2003,To: 03 Jun 2003,Christian,FY 2003,9,Sudan,6,176
+From: 03 Jun 2003,To: 03 Jun 2003,Jewish,FY 2003,17,Russia,11,176
+From: 03 Jun 2003,To: 03 Jun 2003,Jewish,FY 2003,17,Ukraine,6,176
+From: 03 Jun 2003,To: 03 Jun 2003,Moslem,FY 2003,55,Bosnia and Herzegovina,2,176
+From: 03 Jun 2003,To: 03 Jun 2003,Moslem,FY 2003,55,Iran,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Moslem,FY 2003,55,Liberia,12,176
+From: 03 Jun 2003,To: 03 Jun 2003,Moslem,FY 2003,55,Sierra Leone,20,176
+From: 03 Jun 2003,To: 03 Jun 2003,Moslem,FY 2003,55,Somalia,20,176
+From: 03 Jun 2003,To: 03 Jun 2003,No Religion,FY 2003,6,Croatia,2,176
+From: 03 Jun 2003,To: 03 Jun 2003,No Religion,FY 2003,6,Russia,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,No Religion,FY 2003,6,Ukraine,3,176
+From: 03 Jun 2003,To: 03 Jun 2003,Orthodox,FY 2003,47,Bosnia and Herzegovina,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Orthodox,FY 2003,47,Ethiopia,14,176
+From: 03 Jun 2003,To: 03 Jun 2003,Orthodox,FY 2003,47,Serbia,32,176
+From: 03 Jun 2003,To: 03 Jun 2003,Pentecostalist,FY 2003,15,Russia,3,176
+From: 03 Jun 2003,To: 03 Jun 2003,Pentecostalist,FY 2003,15,Ukraine,12,176
+From: 03 Jun 2003,To: 03 Jun 2003,Unknown,FY 2003,2,Afghanistan,1,176
+From: 03 Jun 2003,To: 03 Jun 2003,Unknown,FY 2003,2,Azerbaijan,1,176
+

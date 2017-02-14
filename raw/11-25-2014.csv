@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Nov 2014,To: 25 Nov 2014,Afghanistan,FY 2015,1,Moslem,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Burma,FY 2015,87,Baptist,6,493
+From: 25 Nov 2014,To: 25 Nov 2014,Burma,FY 2015,87,Christian,49,493
+From: 25 Nov 2014,To: 25 Nov 2014,Burma,FY 2015,87,Moslem,32,493
+From: 25 Nov 2014,To: 25 Nov 2014,Burundi,FY 2015,2,Moslem,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Central African Republic,FY 2015,5,Moslem,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Central African Republic,FY 2015,5,Pentecostalist,4,493
+From: 25 Nov 2014,To: 25 Nov 2014,Colombia,FY 2015,35,Catholic,21,493
+From: 25 Nov 2014,To: 25 Nov 2014,Colombia,FY 2015,35,Christian,9,493
+From: 25 Nov 2014,To: 25 Nov 2014,Colombia,FY 2015,35,Evangelical Christian,4,493
+From: 25 Nov 2014,To: 25 Nov 2014,Colombia,FY 2015,35,No Religion,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Congo,FY 2015,9,Catholic,7,493
+From: 25 Nov 2014,To: 25 Nov 2014,Congo,FY 2015,9,Protestant,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Dem. Rep. Congo,FY 2015,29,Catholic,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Dem. Rep. Congo,FY 2015,29,Pentecostalist,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Dem. Rep. Congo,FY 2015,29,Protestant,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Dem. Rep. Congo,FY 2015,29,Seventh Day Adventist,26,493
+From: 25 Nov 2014,To: 25 Nov 2014,Eritrea,FY 2015,9,Orthodox,9,493
+From: 25 Nov 2014,To: 25 Nov 2014,Ethiopia,FY 2015,12,Moslem,11,493
+From: 25 Nov 2014,To: 25 Nov 2014,Ethiopia,FY 2015,12,Protestant,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Iran,FY 2015,2,Moslem,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Iraq,FY 2015,139,Catholic,4,493
+From: 25 Nov 2014,To: 25 Nov 2014,Iraq,FY 2015,139,Moslem,3,493
+From: 25 Nov 2014,To: 25 Nov 2014,Iraq,FY 2015,139,Moslem Shiite,91,493
+From: 25 Nov 2014,To: 25 Nov 2014,Iraq,FY 2015,139,Moslem Suni,41,493
+From: 25 Nov 2014,To: 25 Nov 2014,Ivory Coast,FY 2015,6,Moslem,6,493
+From: 25 Nov 2014,To: 25 Nov 2014,Somalia,FY 2015,148,Moslem,148,493
+From: 25 Nov 2014,To: 25 Nov 2014,Syria,FY 2015,6,Moslem Suni,6,493
+From: 25 Nov 2014,To: 25 Nov 2014,Uganda,FY 2015,3,Christian,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Uganda,FY 2015,3,Protestant,2,493
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Nov 2014,To: 25 Nov 2014,Baptist,FY 2015,6,Burma,6,493
+From: 25 Nov 2014,To: 25 Nov 2014,Catholic,FY 2015,33,Colombia,21,493
+From: 25 Nov 2014,To: 25 Nov 2014,Catholic,FY 2015,33,Congo,7,493
+From: 25 Nov 2014,To: 25 Nov 2014,Catholic,FY 2015,33,Dem. Rep. Congo,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Catholic,FY 2015,33,Iraq,4,493
+From: 25 Nov 2014,To: 25 Nov 2014,Christian,FY 2015,59,Burma,49,493
+From: 25 Nov 2014,To: 25 Nov 2014,Christian,FY 2015,59,Colombia,9,493
+From: 25 Nov 2014,To: 25 Nov 2014,Christian,FY 2015,59,Uganda,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Evangelical Christian,FY 2015,4,Colombia,4,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Afghanistan,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Burma,32,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Burundi,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Central African Republic,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Ethiopia,11,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Iran,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Iraq,3,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Ivory Coast,6,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem,FY 2015,206,Somalia,148,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem Shiite,FY 2015,91,Iraq,91,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem Suni,FY 2015,47,Iraq,41,493
+From: 25 Nov 2014,To: 25 Nov 2014,Moslem Suni,FY 2015,47,Syria,6,493
+From: 25 Nov 2014,To: 25 Nov 2014,No Religion,FY 2015,1,Colombia,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Orthodox,FY 2015,9,Eritrea,9,493
+From: 25 Nov 2014,To: 25 Nov 2014,Pentecostalist,FY 2015,5,Central African Republic,4,493
+From: 25 Nov 2014,To: 25 Nov 2014,Pentecostalist,FY 2015,5,Dem. Rep. Congo,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Protestant,FY 2015,6,Congo,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Protestant,FY 2015,6,Dem. Rep. Congo,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Protestant,FY 2015,6,Ethiopia,1,493
+From: 25 Nov 2014,To: 25 Nov 2014,Protestant,FY 2015,6,Uganda,2,493
+From: 25 Nov 2014,To: 25 Nov 2014,Seventh Day Adventist,FY 2015,26,Dem. Rep. Congo,26,493
+

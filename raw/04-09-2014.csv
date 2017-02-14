@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Apr 2014,To: 09 Apr 2014,Bhutan,FY 2014,59,Buddhist,28,360
+From: 09 Apr 2014,To: 09 Apr 2014,Bhutan,FY 2014,59,Christian,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Bhutan,FY 2014,59,Hindu,23,360
+From: 09 Apr 2014,To: 09 Apr 2014,Bhutan,FY 2014,59,Kirat,5,360
+From: 09 Apr 2014,To: 09 Apr 2014,Burma,FY 2014,118,Animist,5,360
+From: 09 Apr 2014,To: 09 Apr 2014,Burma,FY 2014,118,Baptist,13,360
+From: 09 Apr 2014,To: 09 Apr 2014,Burma,FY 2014,118,Buddhist,22,360
+From: 09 Apr 2014,To: 09 Apr 2014,Burma,FY 2014,118,Catholic,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Burma,FY 2014,118,Christian,68,360
+From: 09 Apr 2014,To: 09 Apr 2014,Burma,FY 2014,118,Moslem,8,360
+From: 09 Apr 2014,To: 09 Apr 2014,Dem. Rep. Congo,FY 2014,1,Protestant,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Eritrea,FY 2014,12,Catholic,9,360
+From: 09 Apr 2014,To: 09 Apr 2014,Eritrea,FY 2014,12,Orthodox,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Ethiopia,FY 2014,1,Moslem,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Guinea,FY 2014,1,Unknown,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,India,FY 2014,1,Hindu,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iran,FY 2014,2,Bahai,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iran,FY 2014,2,Moslem Shiite,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iraq,FY 2014,75,Catholic,6,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iraq,FY 2014,75,Christian,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iraq,FY 2014,75,Moslem,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iraq,FY 2014,75,Moslem Shiite,30,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iraq,FY 2014,75,Moslem Suni,27,360
+From: 09 Apr 2014,To: 09 Apr 2014,Iraq,FY 2014,75,Yazidi,9,360
+From: 09 Apr 2014,To: 09 Apr 2014,Nepal,FY 2014,5,Hindu,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Nepal,FY 2014,5,Kirat,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Rwanda,FY 2014,1,Christian,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Somalia,FY 2014,65,Moslem,53,360
+From: 09 Apr 2014,To: 09 Apr 2014,Somalia,FY 2014,65,Moslem Suni,12,360
+From: 09 Apr 2014,To: 09 Apr 2014,Sudan,FY 2014,10,Christian,5,360
+From: 09 Apr 2014,To: 09 Apr 2014,Sudan,FY 2014,10,Moslem,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Sudan,FY 2014,10,Moslem Suni,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Ukraine,FY 2014,8,Baptist,4,360
+From: 09 Apr 2014,To: 09 Apr 2014,Ukraine,FY 2014,8,Pentecostalist,4,360
+From: 09 Apr 2014,To: 09 Apr 2014,Uzbekistan,FY 2014,1,Baptist,1,360
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Apr 2014,To: 09 Apr 2014,Animist,FY 2014,5,Burma,5,360
+From: 09 Apr 2014,To: 09 Apr 2014,Bahai,FY 2014,1,Iran,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Baptist,FY 2014,18,Burma,13,360
+From: 09 Apr 2014,To: 09 Apr 2014,Baptist,FY 2014,18,Ukraine,4,360
+From: 09 Apr 2014,To: 09 Apr 2014,Baptist,FY 2014,18,Uzbekistan,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Buddhist,FY 2014,50,Bhutan,28,360
+From: 09 Apr 2014,To: 09 Apr 2014,Buddhist,FY 2014,50,Burma,22,360
+From: 09 Apr 2014,To: 09 Apr 2014,Catholic,FY 2014,17,Burma,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Catholic,FY 2014,17,Eritrea,9,360
+From: 09 Apr 2014,To: 09 Apr 2014,Catholic,FY 2014,17,Iraq,6,360
+From: 09 Apr 2014,To: 09 Apr 2014,Christian,FY 2014,79,Bhutan,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Christian,FY 2014,79,Burma,68,360
+From: 09 Apr 2014,To: 09 Apr 2014,Christian,FY 2014,79,Iraq,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Christian,FY 2014,79,Rwanda,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Christian,FY 2014,79,Sudan,5,360
+From: 09 Apr 2014,To: 09 Apr 2014,Hindu,FY 2014,26,Bhutan,23,360
+From: 09 Apr 2014,To: 09 Apr 2014,Hindu,FY 2014,26,India,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Hindu,FY 2014,26,Nepal,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Kirat,FY 2014,8,Bhutan,5,360
+From: 09 Apr 2014,To: 09 Apr 2014,Kirat,FY 2014,8,Nepal,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem,FY 2014,66,Burma,8,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem,FY 2014,66,Ethiopia,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem,FY 2014,66,Iraq,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem,FY 2014,66,Somalia,53,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem,FY 2014,66,Sudan,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem Shiite,FY 2014,31,Iran,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem Shiite,FY 2014,31,Iraq,30,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem Suni,FY 2014,41,Iraq,27,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem Suni,FY 2014,41,Somalia,12,360
+From: 09 Apr 2014,To: 09 Apr 2014,Moslem Suni,FY 2014,41,Sudan,2,360
+From: 09 Apr 2014,To: 09 Apr 2014,Orthodox,FY 2014,3,Eritrea,3,360
+From: 09 Apr 2014,To: 09 Apr 2014,Pentecostalist,FY 2014,4,Ukraine,4,360
+From: 09 Apr 2014,To: 09 Apr 2014,Protestant,FY 2014,1,Dem. Rep. Congo,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Unknown,FY 2014,1,Guinea,1,360
+From: 09 Apr 2014,To: 09 Apr 2014,Yazidi,FY 2014,9,Iraq,9,360
+

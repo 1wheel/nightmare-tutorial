@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Nov 2006,To: 08 Nov 2006,Iran,FY 2007,55,Christian,49,151
+From: 08 Nov 2006,To: 08 Nov 2006,Iran,FY 2007,55,Jewish,3,151
+From: 08 Nov 2006,To: 08 Nov 2006,Iran,FY 2007,55,Zoroastrian,3,151
+From: 08 Nov 2006,To: 08 Nov 2006,Liberia,FY 2007,18,Christian,12,151
+From: 08 Nov 2006,To: 08 Nov 2006,Liberia,FY 2007,18,Pentecostalist,6,151
+From: 08 Nov 2006,To: 08 Nov 2006,Rwanda,FY 2007,1,Catholic,1,151
+From: 08 Nov 2006,To: 08 Nov 2006,Somalia,FY 2007,34,Moslem,34,151
+From: 08 Nov 2006,To: 08 Nov 2006,Sudan,FY 2007,1,Christian,1,151
+From: 08 Nov 2006,To: 08 Nov 2006,Togo,FY 2007,7,Christian,7,151
+From: 08 Nov 2006,To: 08 Nov 2006,Ukraine,FY 2007,20,Pentecostalist,20,151
+From: 08 Nov 2006,To: 08 Nov 2006,Vietnam,FY 2007,15,Ancestral Worship,5,151
+From: 08 Nov 2006,To: 08 Nov 2006,Vietnam,FY 2007,15,Buddhist,6,151
+From: 08 Nov 2006,To: 08 Nov 2006,Vietnam,FY 2007,15,Catholic,4,151
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Nov 2006,To: 08 Nov 2006,Ancestral Worship,FY 2007,5,Vietnam,5,151
+From: 08 Nov 2006,To: 08 Nov 2006,Buddhist,FY 2007,6,Vietnam,6,151
+From: 08 Nov 2006,To: 08 Nov 2006,Catholic,FY 2007,5,Rwanda,1,151
+From: 08 Nov 2006,To: 08 Nov 2006,Catholic,FY 2007,5,Vietnam,4,151
+From: 08 Nov 2006,To: 08 Nov 2006,Christian,FY 2007,69,Iran,49,151
+From: 08 Nov 2006,To: 08 Nov 2006,Christian,FY 2007,69,Liberia,12,151
+From: 08 Nov 2006,To: 08 Nov 2006,Christian,FY 2007,69,Sudan,1,151
+From: 08 Nov 2006,To: 08 Nov 2006,Christian,FY 2007,69,Togo,7,151
+From: 08 Nov 2006,To: 08 Nov 2006,Jewish,FY 2007,3,Iran,3,151
+From: 08 Nov 2006,To: 08 Nov 2006,Moslem,FY 2007,34,Somalia,34,151
+From: 08 Nov 2006,To: 08 Nov 2006,Pentecostalist,FY 2007,26,Liberia,6,151
+From: 08 Nov 2006,To: 08 Nov 2006,Pentecostalist,FY 2007,26,Ukraine,20,151
+From: 08 Nov 2006,To: 08 Nov 2006,Zoroastrian,FY 2007,3,Iran,3,151
+

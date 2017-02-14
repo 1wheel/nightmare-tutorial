@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Feb 2006,To: 08 Feb 2006,Burma,FY 2006,14,Christian,14,301
+From: 08 Feb 2006,To: 08 Feb 2006,China,FY 2006,1,Moslem,1,301
+From: 08 Feb 2006,To: 08 Feb 2006,Ethiopia,FY 2006,4,Moslem,3,301
+From: 08 Feb 2006,To: 08 Feb 2006,Ethiopia,FY 2006,4,Orthodox,1,301
+From: 08 Feb 2006,To: 08 Feb 2006,Indonesia,FY 2006,6,Moslem Suni,6,301
+From: 08 Feb 2006,To: 08 Feb 2006,Iran,FY 2006,35,Bahai,15,301
+From: 08 Feb 2006,To: 08 Feb 2006,Iran,FY 2006,35,Catholic,4,301
+From: 08 Feb 2006,To: 08 Feb 2006,Iran,FY 2006,35,Sabeans-Mandean,16,301
+From: 08 Feb 2006,To: 08 Feb 2006,Iraq,FY 2006,8,Moslem,8,301
+From: 08 Feb 2006,To: 08 Feb 2006,Laos,FY 2006,15,Ancestral Worship,15,301
+From: 08 Feb 2006,To: 08 Feb 2006,Liberia,FY 2006,37,Christian,31,301
+From: 08 Feb 2006,To: 08 Feb 2006,Liberia,FY 2006,37,Moslem,6,301
+From: 08 Feb 2006,To: 08 Feb 2006,Russia,FY 2006,41,Moslem,41,301
+From: 08 Feb 2006,To: 08 Feb 2006,Somalia,FY 2006,33,Moslem,33,301
+From: 08 Feb 2006,To: 08 Feb 2006,Togo,FY 2006,7,Christian,7,301
+From: 08 Feb 2006,To: 08 Feb 2006,Ukraine,FY 2006,30,Baptist,5,301
+From: 08 Feb 2006,To: 08 Feb 2006,Ukraine,FY 2006,30,Pentecostalist,25,301
+From: 08 Feb 2006,To: 08 Feb 2006,Uzbekistan,FY 2006,5,Moslem,5,301
+From: 08 Feb 2006,To: 08 Feb 2006,Vietnam,FY 2006,65,Ancestral Worship,4,301
+From: 08 Feb 2006,To: 08 Feb 2006,Vietnam,FY 2006,65,Buddhist,23,301
+From: 08 Feb 2006,To: 08 Feb 2006,Vietnam,FY 2006,65,Cao Dai,1,301
+From: 08 Feb 2006,To: 08 Feb 2006,Vietnam,FY 2006,65,Catholic,16,301
+From: 08 Feb 2006,To: 08 Feb 2006,Vietnam,FY 2006,65,No Religion,3,301
+From: 08 Feb 2006,To: 08 Feb 2006,Vietnam,FY 2006,65,Protestant,18,301
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Feb 2006,To: 08 Feb 2006,Ancestral Worship,FY 2006,19,Laos,15,301
+From: 08 Feb 2006,To: 08 Feb 2006,Ancestral Worship,FY 2006,19,Vietnam,4,301
+From: 08 Feb 2006,To: 08 Feb 2006,Bahai,FY 2006,15,Iran,15,301
+From: 08 Feb 2006,To: 08 Feb 2006,Baptist,FY 2006,5,Ukraine,5,301
+From: 08 Feb 2006,To: 08 Feb 2006,Buddhist,FY 2006,23,Vietnam,23,301
+From: 08 Feb 2006,To: 08 Feb 2006,Cao Dai,FY 2006,1,Vietnam,1,301
+From: 08 Feb 2006,To: 08 Feb 2006,Catholic,FY 2006,20,Iran,4,301
+From: 08 Feb 2006,To: 08 Feb 2006,Catholic,FY 2006,20,Vietnam,16,301
+From: 08 Feb 2006,To: 08 Feb 2006,Christian,FY 2006,52,Burma,14,301
+From: 08 Feb 2006,To: 08 Feb 2006,Christian,FY 2006,52,Liberia,31,301
+From: 08 Feb 2006,To: 08 Feb 2006,Christian,FY 2006,52,Togo,7,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,China,1,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,Ethiopia,3,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,Iraq,8,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,Liberia,6,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,Russia,41,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,Somalia,33,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem,FY 2006,97,Uzbekistan,5,301
+From: 08 Feb 2006,To: 08 Feb 2006,Moslem Suni,FY 2006,6,Indonesia,6,301
+From: 08 Feb 2006,To: 08 Feb 2006,No Religion,FY 2006,3,Vietnam,3,301
+From: 08 Feb 2006,To: 08 Feb 2006,Orthodox,FY 2006,1,Ethiopia,1,301
+From: 08 Feb 2006,To: 08 Feb 2006,Pentecostalist,FY 2006,25,Ukraine,25,301
+From: 08 Feb 2006,To: 08 Feb 2006,Protestant,FY 2006,18,Vietnam,18,301
+From: 08 Feb 2006,To: 08 Feb 2006,Sabeans-Mandean,FY 2006,16,Iran,16,301
+

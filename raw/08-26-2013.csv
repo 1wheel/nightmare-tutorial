@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Aug 2013,To: 26 Aug 2013,Burma,FY 2013,35,Baptist,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Burma,FY 2013,35,Christian,34,246
+From: 26 Aug 2013,To: 26 Aug 2013,Central African Republic,FY 2013,17,Moslem,2,246
+From: 26 Aug 2013,To: 26 Aug 2013,Central African Republic,FY 2013,17,Protestant,15,246
+From: 26 Aug 2013,To: 26 Aug 2013,Colombia,FY 2013,15,Catholic,15,246
+From: 26 Aug 2013,To: 26 Aug 2013,Eritrea,FY 2013,2,Moslem,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Eritrea,FY 2013,2,Orthodox,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Iran,FY 2013,7,Bahai,5,246
+From: 26 Aug 2013,To: 26 Aug 2013,Iran,FY 2013,7,No Religion,2,246
+From: 26 Aug 2013,To: 26 Aug 2013,Iraq,FY 2013,151,Catholic,15,246
+From: 26 Aug 2013,To: 26 Aug 2013,Iraq,FY 2013,151,Moslem Shiite,61,246
+From: 26 Aug 2013,To: 26 Aug 2013,Iraq,FY 2013,151,Moslem Suni,66,246
+From: 26 Aug 2013,To: 26 Aug 2013,Iraq,FY 2013,151,Orthodox,9,246
+From: 26 Aug 2013,To: 26 Aug 2013,Liberia,FY 2013,1,Christian,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moldova,FY 2013,4,Baptist,4,246
+From: 26 Aug 2013,To: 26 Aug 2013,Pakistan,FY 2013,1,Moslem,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Somalia,FY 2013,12,Moslem,12,246
+From: 26 Aug 2013,To: 26 Aug 2013,Sudan,FY 2013,1,Moslem,1,246
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Aug 2013,To: 26 Aug 2013,Bahai,FY 2013,5,Iran,5,246
+From: 26 Aug 2013,To: 26 Aug 2013,Baptist,FY 2013,5,Burma,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Baptist,FY 2013,5,Moldova,4,246
+From: 26 Aug 2013,To: 26 Aug 2013,Catholic,FY 2013,30,Colombia,15,246
+From: 26 Aug 2013,To: 26 Aug 2013,Catholic,FY 2013,30,Iraq,15,246
+From: 26 Aug 2013,To: 26 Aug 2013,Christian,FY 2013,35,Burma,34,246
+From: 26 Aug 2013,To: 26 Aug 2013,Christian,FY 2013,35,Liberia,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem,FY 2013,17,Central African Republic,2,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem,FY 2013,17,Eritrea,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem,FY 2013,17,Pakistan,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem,FY 2013,17,Somalia,12,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem,FY 2013,17,Sudan,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem Shiite,FY 2013,61,Iraq,61,246
+From: 26 Aug 2013,To: 26 Aug 2013,Moslem Suni,FY 2013,66,Iraq,66,246
+From: 26 Aug 2013,To: 26 Aug 2013,No Religion,FY 2013,2,Iran,2,246
+From: 26 Aug 2013,To: 26 Aug 2013,Orthodox,FY 2013,10,Eritrea,1,246
+From: 26 Aug 2013,To: 26 Aug 2013,Orthodox,FY 2013,10,Iraq,9,246
+From: 26 Aug 2013,To: 26 Aug 2013,Protestant,FY 2013,15,Central African Republic,15,246
+

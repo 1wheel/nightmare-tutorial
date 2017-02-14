@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Aug 2015,To: 17 Aug 2015,Afghanistan,FY 2015,15,Christian,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Afghanistan,FY 2015,15,Moslem Shiite,7,111
+From: 17 Aug 2015,To: 17 Aug 2015,Afghanistan,FY 2015,15,Moslem Suni,6,111
+From: 17 Aug 2015,To: 17 Aug 2015,Eritrea,FY 2015,2,Orthodox,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Ethiopia,FY 2015,5,Moslem,4,111
+From: 17 Aug 2015,To: 17 Aug 2015,Ethiopia,FY 2015,5,Other Religion,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iran,FY 2015,13,Bahai,11,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iran,FY 2015,13,Moslem,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iran,FY 2015,13,Protestant,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iraq,FY 2015,28,Catholic,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iraq,FY 2015,28,Christian,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iraq,FY 2015,28,Moslem Shiite,13,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iraq,FY 2015,28,Moslem Suni,7,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iraq,FY 2015,28,Orthodox,4,111
+From: 17 Aug 2015,To: 17 Aug 2015,Iraq,FY 2015,28,Other Religion,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Somalia,FY 2015,16,Moslem,16,111
+From: 17 Aug 2015,To: 17 Aug 2015,Sudan,FY 2015,6,Christian,4,111
+From: 17 Aug 2015,To: 17 Aug 2015,Sudan,FY 2015,6,Moslem Suni,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Syria,FY 2015,26,Moslem Suni,26,111
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Aug 2015,To: 17 Aug 2015,Bahai,FY 2015,11,Iran,11,111
+From: 17 Aug 2015,To: 17 Aug 2015,Catholic,FY 2015,2,Iraq,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Christian,FY 2015,7,Afghanistan,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Christian,FY 2015,7,Iraq,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Christian,FY 2015,7,Sudan,4,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem,FY 2015,21,Ethiopia,4,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem,FY 2015,21,Iran,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem,FY 2015,21,Somalia,16,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem Shiite,FY 2015,20,Afghanistan,7,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem Shiite,FY 2015,20,Iraq,13,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem Suni,FY 2015,41,Afghanistan,6,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem Suni,FY 2015,41,Iraq,7,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem Suni,FY 2015,41,Sudan,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Moslem Suni,FY 2015,41,Syria,26,111
+From: 17 Aug 2015,To: 17 Aug 2015,Orthodox,FY 2015,6,Eritrea,2,111
+From: 17 Aug 2015,To: 17 Aug 2015,Orthodox,FY 2015,6,Iraq,4,111
+From: 17 Aug 2015,To: 17 Aug 2015,Other Religion,FY 2015,2,Ethiopia,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Other Religion,FY 2015,2,Iraq,1,111
+From: 17 Aug 2015,To: 17 Aug 2015,Protestant,FY 2015,1,Iran,1,111
+

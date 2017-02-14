@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Oct 2011,To: 13 Oct 2011,Afghanistan,FY 2012,10,Moslem Suni,10,360
+From: 13 Oct 2011,To: 13 Oct 2011,Bhutan,FY 2012,139,Buddhist,40,360
+From: 13 Oct 2011,To: 13 Oct 2011,Bhutan,FY 2012,139,Christian,7,360
+From: 13 Oct 2011,To: 13 Oct 2011,Bhutan,FY 2012,139,Hindu,79,360
+From: 13 Oct 2011,To: 13 Oct 2011,Bhutan,FY 2012,139,Kirat,13,360
+From: 13 Oct 2011,To: 13 Oct 2011,Burma,FY 2012,111,Baptist,3,360
+From: 13 Oct 2011,To: 13 Oct 2011,Burma,FY 2012,111,Buddhist,9,360
+From: 13 Oct 2011,To: 13 Oct 2011,Burma,FY 2012,111,Christian,94,360
+From: 13 Oct 2011,To: 13 Oct 2011,Burma,FY 2012,111,Moslem,5,360
+From: 13 Oct 2011,To: 13 Oct 2011,China,FY 2012,1,Other Religion,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Cuba,FY 2012,25,Catholic,9,360
+From: 13 Oct 2011,To: 13 Oct 2011,Cuba,FY 2012,25,Jehovah Witness,12,360
+From: 13 Oct 2011,To: 13 Oct 2011,Cuba,FY 2012,25,No Religion,4,360
+From: 13 Oct 2011,To: 13 Oct 2011,Eritrea,FY 2012,3,Christian,2,360
+From: 13 Oct 2011,To: 13 Oct 2011,Eritrea,FY 2012,3,Pentecostalist,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Ethiopia,FY 2012,1,Seventh Day Adventist,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Iran,FY 2012,4,Bahai,3,360
+From: 13 Oct 2011,To: 13 Oct 2011,Iran,FY 2012,4,Moslem Shiite,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Iraq,FY 2012,31,Catholic,13,360
+From: 13 Oct 2011,To: 13 Oct 2011,Iraq,FY 2012,31,Christian,13,360
+From: 13 Oct 2011,To: 13 Oct 2011,Iraq,FY 2012,31,Moslem Shiite,3,360
+From: 13 Oct 2011,To: 13 Oct 2011,Iraq,FY 2012,31,Moslem Suni,2,360
+From: 13 Oct 2011,To: 13 Oct 2011,Russia,FY 2012,1,Baptist,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Somalia,FY 2012,19,Moslem,19,360
+From: 13 Oct 2011,To: 13 Oct 2011,Sudan,FY 2012,15,Moslem,15,360
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Oct 2011,To: 13 Oct 2011,Bahai,FY 2012,3,Iran,3,360
+From: 13 Oct 2011,To: 13 Oct 2011,Baptist,FY 2012,4,Burma,3,360
+From: 13 Oct 2011,To: 13 Oct 2011,Baptist,FY 2012,4,Russia,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Buddhist,FY 2012,49,Bhutan,40,360
+From: 13 Oct 2011,To: 13 Oct 2011,Buddhist,FY 2012,49,Burma,9,360
+From: 13 Oct 2011,To: 13 Oct 2011,Catholic,FY 2012,22,Cuba,9,360
+From: 13 Oct 2011,To: 13 Oct 2011,Catholic,FY 2012,22,Iraq,13,360
+From: 13 Oct 2011,To: 13 Oct 2011,Christian,FY 2012,116,Bhutan,7,360
+From: 13 Oct 2011,To: 13 Oct 2011,Christian,FY 2012,116,Burma,94,360
+From: 13 Oct 2011,To: 13 Oct 2011,Christian,FY 2012,116,Eritrea,2,360
+From: 13 Oct 2011,To: 13 Oct 2011,Christian,FY 2012,116,Iraq,13,360
+From: 13 Oct 2011,To: 13 Oct 2011,Hindu,FY 2012,79,Bhutan,79,360
+From: 13 Oct 2011,To: 13 Oct 2011,Jehovah Witness,FY 2012,12,Cuba,12,360
+From: 13 Oct 2011,To: 13 Oct 2011,Kirat,FY 2012,13,Bhutan,13,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem,FY 2012,39,Burma,5,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem,FY 2012,39,Somalia,19,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem,FY 2012,39,Sudan,15,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem Shiite,FY 2012,4,Iran,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem Shiite,FY 2012,4,Iraq,3,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem Suni,FY 2012,12,Afghanistan,10,360
+From: 13 Oct 2011,To: 13 Oct 2011,Moslem Suni,FY 2012,12,Iraq,2,360
+From: 13 Oct 2011,To: 13 Oct 2011,No Religion,FY 2012,4,Cuba,4,360
+From: 13 Oct 2011,To: 13 Oct 2011,Other Religion,FY 2012,1,China,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Pentecostalist,FY 2012,1,Eritrea,1,360
+From: 13 Oct 2011,To: 13 Oct 2011,Seventh Day Adventist,FY 2012,1,Ethiopia,1,360
+

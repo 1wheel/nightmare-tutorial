@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Nov 2004,To: 10 Nov 2004,Ethiopia,FY 2005,18,Baptist,1,316
+From: 10 Nov 2004,To: 10 Nov 2004,Ethiopia,FY 2005,18,Catholic,8,316
+From: 10 Nov 2004,To: 10 Nov 2004,Ethiopia,FY 2005,18,Christian,3,316
+From: 10 Nov 2004,To: 10 Nov 2004,Ethiopia,FY 2005,18,Moslem,6,316
+From: 10 Nov 2004,To: 10 Nov 2004,Laos,FY 2005,136,Ancestral Worship,132,316
+From: 10 Nov 2004,To: 10 Nov 2004,Laos,FY 2005,136,Christian,4,316
+From: 10 Nov 2004,To: 10 Nov 2004,Liberia,FY 2005,32,Christian,21,316
+From: 10 Nov 2004,To: 10 Nov 2004,Liberia,FY 2005,32,Moslem,11,316
+From: 10 Nov 2004,To: 10 Nov 2004,Sierra Leone,FY 2005,38,Catholic,9,316
+From: 10 Nov 2004,To: 10 Nov 2004,Sierra Leone,FY 2005,38,Christian,7,316
+From: 10 Nov 2004,To: 10 Nov 2004,Sierra Leone,FY 2005,38,Moslem,22,316
+From: 10 Nov 2004,To: 10 Nov 2004,Somalia,FY 2005,79,Moslem,79,316
+From: 10 Nov 2004,To: 10 Nov 2004,Sudan,FY 2005,8,Catholic,2,316
+From: 10 Nov 2004,To: 10 Nov 2004,Sudan,FY 2005,8,Christian,5,316
+From: 10 Nov 2004,To: 10 Nov 2004,Sudan,FY 2005,8,Moslem,1,316
+From: 10 Nov 2004,To: 10 Nov 2004,Vietnam,FY 2005,5,Buddhist,1,316
+From: 10 Nov 2004,To: 10 Nov 2004,Vietnam,FY 2005,5,Cao Dai,4,316
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Nov 2004,To: 10 Nov 2004,Ancestral Worship,FY 2005,132,Laos,132,316
+From: 10 Nov 2004,To: 10 Nov 2004,Baptist,FY 2005,1,Ethiopia,1,316
+From: 10 Nov 2004,To: 10 Nov 2004,Buddhist,FY 2005,1,Vietnam,1,316
+From: 10 Nov 2004,To: 10 Nov 2004,Cao Dai,FY 2005,4,Vietnam,4,316
+From: 10 Nov 2004,To: 10 Nov 2004,Catholic,FY 2005,19,Ethiopia,8,316
+From: 10 Nov 2004,To: 10 Nov 2004,Catholic,FY 2005,19,Sierra Leone,9,316
+From: 10 Nov 2004,To: 10 Nov 2004,Catholic,FY 2005,19,Sudan,2,316
+From: 10 Nov 2004,To: 10 Nov 2004,Christian,FY 2005,40,Ethiopia,3,316
+From: 10 Nov 2004,To: 10 Nov 2004,Christian,FY 2005,40,Laos,4,316
+From: 10 Nov 2004,To: 10 Nov 2004,Christian,FY 2005,40,Liberia,21,316
+From: 10 Nov 2004,To: 10 Nov 2004,Christian,FY 2005,40,Sierra Leone,7,316
+From: 10 Nov 2004,To: 10 Nov 2004,Christian,FY 2005,40,Sudan,5,316
+From: 10 Nov 2004,To: 10 Nov 2004,Moslem,FY 2005,119,Ethiopia,6,316
+From: 10 Nov 2004,To: 10 Nov 2004,Moslem,FY 2005,119,Liberia,11,316
+From: 10 Nov 2004,To: 10 Nov 2004,Moslem,FY 2005,119,Sierra Leone,22,316
+From: 10 Nov 2004,To: 10 Nov 2004,Moslem,FY 2005,119,Somalia,79,316
+From: 10 Nov 2004,To: 10 Nov 2004,Moslem,FY 2005,119,Sudan,1,316
+

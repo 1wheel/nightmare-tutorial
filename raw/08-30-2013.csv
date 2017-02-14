@@ -1,0 +1,15 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Aug 2013,To: 30 Aug 2013,Central African Republic,FY 2013,4,Catholic,4,24
+From: 30 Aug 2013,To: 30 Aug 2013,Cuba,FY 2013,5,No Religion,5,24
+From: 30 Aug 2013,To: 30 Aug 2013,Iraq,FY 2013,15,Moslem Shiite,9,24
+From: 30 Aug 2013,To: 30 Aug 2013,Iraq,FY 2013,15,Moslem Suni,6,24
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Aug 2013,To: 30 Aug 2013,Catholic,FY 2013,4,Central African Republic,4,24
+From: 30 Aug 2013,To: 30 Aug 2013,Moslem Shiite,FY 2013,9,Iraq,9,24
+From: 30 Aug 2013,To: 30 Aug 2013,Moslem Suni,FY 2013,6,Iraq,6,24
+From: 30 Aug 2013,To: 30 Aug 2013,No Religion,FY 2013,5,Cuba,5,24
+

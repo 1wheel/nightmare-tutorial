@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Dec 2008,To: 08 Dec 2008,Belarus,FY 2009,4,Pentecostalist,4,186
+From: 08 Dec 2008,To: 08 Dec 2008,Bhutan,FY 2009,100,Buddhist,9,186
+From: 08 Dec 2008,To: 08 Dec 2008,Bhutan,FY 2009,100,Christian,4,186
+From: 08 Dec 2008,To: 08 Dec 2008,Bhutan,FY 2009,100,Hindu,74,186
+From: 08 Dec 2008,To: 08 Dec 2008,Bhutan,FY 2009,100,Kirat,13,186
+From: 08 Dec 2008,To: 08 Dec 2008,Iraq,FY 2009,58,Christian,25,186
+From: 08 Dec 2008,To: 08 Dec 2008,Iraq,FY 2009,58,Moslem Shiite,8,186
+From: 08 Dec 2008,To: 08 Dec 2008,Iraq,FY 2009,58,Moslem Suni,25,186
+From: 08 Dec 2008,To: 08 Dec 2008,Russia,FY 2009,24,Baptist,3,186
+From: 08 Dec 2008,To: 08 Dec 2008,Russia,FY 2009,24,Jewish,3,186
+From: 08 Dec 2008,To: 08 Dec 2008,Russia,FY 2009,24,Moslem,16,186
+From: 08 Dec 2008,To: 08 Dec 2008,Russia,FY 2009,24,Pentecostalist,2,186
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Dec 2008,To: 08 Dec 2008,Baptist,FY 2009,3,Russia,3,186
+From: 08 Dec 2008,To: 08 Dec 2008,Buddhist,FY 2009,9,Bhutan,9,186
+From: 08 Dec 2008,To: 08 Dec 2008,Christian,FY 2009,29,Bhutan,4,186
+From: 08 Dec 2008,To: 08 Dec 2008,Christian,FY 2009,29,Iraq,25,186
+From: 08 Dec 2008,To: 08 Dec 2008,Hindu,FY 2009,74,Bhutan,74,186
+From: 08 Dec 2008,To: 08 Dec 2008,Jewish,FY 2009,3,Russia,3,186
+From: 08 Dec 2008,To: 08 Dec 2008,Kirat,FY 2009,13,Bhutan,13,186
+From: 08 Dec 2008,To: 08 Dec 2008,Moslem,FY 2009,16,Russia,16,186
+From: 08 Dec 2008,To: 08 Dec 2008,Moslem Shiite,FY 2009,8,Iraq,8,186
+From: 08 Dec 2008,To: 08 Dec 2008,Moslem Suni,FY 2009,25,Iraq,25,186
+From: 08 Dec 2008,To: 08 Dec 2008,Pentecostalist,FY 2009,6,Belarus,4,186
+From: 08 Dec 2008,To: 08 Dec 2008,Pentecostalist,FY 2009,6,Russia,2,186
+

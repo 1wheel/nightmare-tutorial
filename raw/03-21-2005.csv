@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Mar 2005,To: 21 Mar 2005,Armenia,FY 2005,6,Pentecostalist,6,81
+From: 21 Mar 2005,To: 21 Mar 2005,Laos,FY 2005,19,Ancestral Worship,19,81
+From: 21 Mar 2005,To: 21 Mar 2005,Somalia,FY 2005,11,Moslem,11,81
+From: 21 Mar 2005,To: 21 Mar 2005,Sudan,FY 2005,35,Catholic,24,81
+From: 21 Mar 2005,To: 21 Mar 2005,Sudan,FY 2005,35,Moslem,3,81
+From: 21 Mar 2005,To: 21 Mar 2005,Sudan,FY 2005,35,Protestant,8,81
+From: 21 Mar 2005,To: 21 Mar 2005,Ukraine,FY 2005,10,Jewish,2,81
+From: 21 Mar 2005,To: 21 Mar 2005,Ukraine,FY 2005,10,Pentecostalist,8,81
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Mar 2005,To: 21 Mar 2005,Ancestral Worship,FY 2005,19,Laos,19,81
+From: 21 Mar 2005,To: 21 Mar 2005,Catholic,FY 2005,24,Sudan,24,81
+From: 21 Mar 2005,To: 21 Mar 2005,Jewish,FY 2005,2,Ukraine,2,81
+From: 21 Mar 2005,To: 21 Mar 2005,Moslem,FY 2005,14,Somalia,11,81
+From: 21 Mar 2005,To: 21 Mar 2005,Moslem,FY 2005,14,Sudan,3,81
+From: 21 Mar 2005,To: 21 Mar 2005,Pentecostalist,FY 2005,14,Armenia,6,81
+From: 21 Mar 2005,To: 21 Mar 2005,Pentecostalist,FY 2005,14,Ukraine,8,81
+From: 21 Mar 2005,To: 21 Mar 2005,Protestant,FY 2005,8,Sudan,8,81
+

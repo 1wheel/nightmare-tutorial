@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Jun 2012,To: 04 Jun 2012,Bhutan,FY 2012,18,Buddhist,9,126
+From: 04 Jun 2012,To: 04 Jun 2012,Bhutan,FY 2012,18,Christian,4,126
+From: 04 Jun 2012,To: 04 Jun 2012,Bhutan,FY 2012,18,Hindu,5,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iran,FY 2012,6,Bahai,2,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iran,FY 2012,6,Moslem Shiite,2,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iran,FY 2012,6,Pentecostalist,1,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iran,FY 2012,6,Zoroastrian,1,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iraq,FY 2012,90,Catholic,21,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iraq,FY 2012,90,Christian,2,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iraq,FY 2012,90,Moslem Shiite,34,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iraq,FY 2012,90,Moslem Suni,23,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iraq,FY 2012,90,Orthodox,5,126
+From: 04 Jun 2012,To: 04 Jun 2012,Iraq,FY 2012,90,Sabeans-Mandean,5,126
+From: 04 Jun 2012,To: 04 Jun 2012,Niger,FY 2012,4,Protestant,4,126
+From: 04 Jun 2012,To: 04 Jun 2012,Somalia,FY 2012,7,Moslem,1,126
+From: 04 Jun 2012,To: 04 Jun 2012,Somalia,FY 2012,7,Moslem Suni,6,126
+From: 04 Jun 2012,To: 04 Jun 2012,Syria,FY 2012,1,Moslem Suni,1,126
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Jun 2012,To: 04 Jun 2012,Bahai,FY 2012,2,Iran,2,126
+From: 04 Jun 2012,To: 04 Jun 2012,Buddhist,FY 2012,9,Bhutan,9,126
+From: 04 Jun 2012,To: 04 Jun 2012,Catholic,FY 2012,21,Iraq,21,126
+From: 04 Jun 2012,To: 04 Jun 2012,Christian,FY 2012,6,Bhutan,4,126
+From: 04 Jun 2012,To: 04 Jun 2012,Christian,FY 2012,6,Iraq,2,126
+From: 04 Jun 2012,To: 04 Jun 2012,Hindu,FY 2012,5,Bhutan,5,126
+From: 04 Jun 2012,To: 04 Jun 2012,Moslem,FY 2012,1,Somalia,1,126
+From: 04 Jun 2012,To: 04 Jun 2012,Moslem Shiite,FY 2012,36,Iran,2,126
+From: 04 Jun 2012,To: 04 Jun 2012,Moslem Shiite,FY 2012,36,Iraq,34,126
+From: 04 Jun 2012,To: 04 Jun 2012,Moslem Suni,FY 2012,30,Iraq,23,126
+From: 04 Jun 2012,To: 04 Jun 2012,Moslem Suni,FY 2012,30,Somalia,6,126
+From: 04 Jun 2012,To: 04 Jun 2012,Moslem Suni,FY 2012,30,Syria,1,126
+From: 04 Jun 2012,To: 04 Jun 2012,Orthodox,FY 2012,5,Iraq,5,126
+From: 04 Jun 2012,To: 04 Jun 2012,Pentecostalist,FY 2012,1,Iran,1,126
+From: 04 Jun 2012,To: 04 Jun 2012,Protestant,FY 2012,4,Niger,4,126
+From: 04 Jun 2012,To: 04 Jun 2012,Sabeans-Mandean,FY 2012,5,Iraq,5,126
+From: 04 Jun 2012,To: 04 Jun 2012,Zoroastrian,FY 2012,1,Iran,1,126
+

@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jan 2010,To: 28 Jan 2010,Bhutan,FY 2010,93,Buddhist,7,420
+From: 28 Jan 2010,To: 28 Jan 2010,Bhutan,FY 2010,93,Christian,2,420
+From: 28 Jan 2010,To: 28 Jan 2010,Bhutan,FY 2010,93,Hindu,78,420
+From: 28 Jan 2010,To: 28 Jan 2010,Bhutan,FY 2010,93,Kirat,6,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Animist,14,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Baptist,2,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Buddhist,23,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Catholic,4,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Christian,119,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Hindu,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Moslem,27,420
+From: 28 Jan 2010,To: 28 Jan 2010,Burma,FY 2010,191,Seventh Day Adventist,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,China,FY 2010,1,Other Religion,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Dem. Rep. Congo,FY 2010,17,Pentecostalist,6,420
+From: 28 Jan 2010,To: 28 Jan 2010,Dem. Rep. Congo,FY 2010,17,Protestant,10,420
+From: 28 Jan 2010,To: 28 Jan 2010,Dem. Rep. Congo,FY 2010,17,Unknown,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Ethiopia,FY 2010,1,Moslem,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iran,FY 2010,3,Atheist,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iran,FY 2010,3,Bahai,2,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iraq,FY 2010,47,Catholic,7,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iraq,FY 2010,47,Christian,18,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iraq,FY 2010,47,Moslem,9,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iraq,FY 2010,47,Moslem Shiite,9,420
+From: 28 Jan 2010,To: 28 Jan 2010,Iraq,FY 2010,47,Moslem Suni,4,420
+From: 28 Jan 2010,To: 28 Jan 2010,Palestine,FY 2010,20,Moslem Suni,20,420
+From: 28 Jan 2010,To: 28 Jan 2010,Somalia,FY 2010,31,Moslem,30,420
+From: 28 Jan 2010,To: 28 Jan 2010,Somalia,FY 2010,31,Moslem Suni,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Syria,FY 2010,4,Moslem Suni,4,420
+From: 28 Jan 2010,To: 28 Jan 2010,Thailand,FY 2010,1,Buddhist,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Ukraine,FY 2010,11,Pentecostalist,11,420
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jan 2010,To: 28 Jan 2010,Animist,FY 2010,14,Burma,14,420
+From: 28 Jan 2010,To: 28 Jan 2010,Atheist,FY 2010,1,Iran,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Bahai,FY 2010,2,Iran,2,420
+From: 28 Jan 2010,To: 28 Jan 2010,Baptist,FY 2010,2,Burma,2,420
+From: 28 Jan 2010,To: 28 Jan 2010,Buddhist,FY 2010,31,Bhutan,7,420
+From: 28 Jan 2010,To: 28 Jan 2010,Buddhist,FY 2010,31,Burma,23,420
+From: 28 Jan 2010,To: 28 Jan 2010,Buddhist,FY 2010,31,Thailand,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Catholic,FY 2010,11,Burma,4,420
+From: 28 Jan 2010,To: 28 Jan 2010,Catholic,FY 2010,11,Iraq,7,420
+From: 28 Jan 2010,To: 28 Jan 2010,Christian,FY 2010,139,Bhutan,2,420
+From: 28 Jan 2010,To: 28 Jan 2010,Christian,FY 2010,139,Burma,119,420
+From: 28 Jan 2010,To: 28 Jan 2010,Christian,FY 2010,139,Iraq,18,420
+From: 28 Jan 2010,To: 28 Jan 2010,Hindu,FY 2010,79,Bhutan,78,420
+From: 28 Jan 2010,To: 28 Jan 2010,Hindu,FY 2010,79,Burma,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Kirat,FY 2010,6,Bhutan,6,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem,FY 2010,67,Burma,27,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem,FY 2010,67,Ethiopia,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem,FY 2010,67,Iraq,9,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem,FY 2010,67,Somalia,30,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem Shiite,FY 2010,9,Iraq,9,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem Suni,FY 2010,29,Iraq,4,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem Suni,FY 2010,29,Palestine,20,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem Suni,FY 2010,29,Somalia,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Moslem Suni,FY 2010,29,Syria,4,420
+From: 28 Jan 2010,To: 28 Jan 2010,Other Religion,FY 2010,1,China,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Pentecostalist,FY 2010,17,Dem. Rep. Congo,6,420
+From: 28 Jan 2010,To: 28 Jan 2010,Pentecostalist,FY 2010,17,Ukraine,11,420
+From: 28 Jan 2010,To: 28 Jan 2010,Protestant,FY 2010,10,Dem. Rep. Congo,10,420
+From: 28 Jan 2010,To: 28 Jan 2010,Seventh Day Adventist,FY 2010,1,Burma,1,420
+From: 28 Jan 2010,To: 28 Jan 2010,Unknown,FY 2010,1,Dem. Rep. Congo,1,420
+

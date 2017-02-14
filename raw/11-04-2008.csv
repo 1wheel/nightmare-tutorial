@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Nov 2008,To: 04 Nov 2008,Bhutan,FY 2009,52,Hindu,52,362
+From: 04 Nov 2008,To: 04 Nov 2008,Burma,FY 2009,70,Buddhist,7,362
+From: 04 Nov 2008,To: 04 Nov 2008,Burma,FY 2009,70,Christian,63,362
+From: 04 Nov 2008,To: 04 Nov 2008,Burundi,FY 2009,4,Catholic,4,362
+From: 04 Nov 2008,To: 04 Nov 2008,Cuba,FY 2009,68,Baptist,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Cuba,FY 2009,68,Catholic,33,362
+From: 04 Nov 2008,To: 04 Nov 2008,Cuba,FY 2009,68,Jehovah Witness,12,362
+From: 04 Nov 2008,To: 04 Nov 2008,Cuba,FY 2009,68,Methodist,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Cuba,FY 2009,68,No Religion,15,362
+From: 04 Nov 2008,To: 04 Nov 2008,Cuba,FY 2009,68,Seventh Day Adventist,2,362
+From: 04 Nov 2008,To: 04 Nov 2008,Dem. Rep. Congo,FY 2009,4,Pentecostalist,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Dem. Rep. Congo,FY 2009,4,Protestant,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Eritrea,FY 2009,1,Jehovah Witness,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Ethiopia,FY 2009,7,Catholic,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Ethiopia,FY 2009,7,Christian,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Ethiopia,FY 2009,7,Moslem,5,362
+From: 04 Nov 2008,To: 04 Nov 2008,Gambia,FY 2009,8,Moslem,8,362
+From: 04 Nov 2008,To: 04 Nov 2008,Iran,FY 2009,69,Christian,65,362
+From: 04 Nov 2008,To: 04 Nov 2008,Iran,FY 2009,69,Zoroastrian,4,362
+From: 04 Nov 2008,To: 04 Nov 2008,Iraq,FY 2009,38,Christian,16,362
+From: 04 Nov 2008,To: 04 Nov 2008,Iraq,FY 2009,38,Moslem Shiite,12,362
+From: 04 Nov 2008,To: 04 Nov 2008,Iraq,FY 2009,38,Moslem Suni,10,362
+From: 04 Nov 2008,To: 04 Nov 2008,Kazakhstan,FY 2009,17,Pentecostalist,17,362
+From: 04 Nov 2008,To: 04 Nov 2008,Liberia,FY 2009,1,Christian,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Mauritania,FY 2009,3,Moslem,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Somalia,FY 2009,10,Moslem,10,362
+From: 04 Nov 2008,To: 04 Nov 2008,Sudan,FY 2009,9,Catholic,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Sudan,FY 2009,9,Christian,8,362
+From: 04 Nov 2008,To: 04 Nov 2008,Uzbekistan,FY 2009,1,Atheist,1,362
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Nov 2008,To: 04 Nov 2008,Atheist,FY 2009,1,Uzbekistan,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Baptist,FY 2009,3,Cuba,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Buddhist,FY 2009,7,Burma,7,362
+From: 04 Nov 2008,To: 04 Nov 2008,Catholic,FY 2009,39,Burundi,4,362
+From: 04 Nov 2008,To: 04 Nov 2008,Catholic,FY 2009,39,Cuba,33,362
+From: 04 Nov 2008,To: 04 Nov 2008,Catholic,FY 2009,39,Ethiopia,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Catholic,FY 2009,39,Sudan,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Christian,FY 2009,154,Burma,63,362
+From: 04 Nov 2008,To: 04 Nov 2008,Christian,FY 2009,154,Ethiopia,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Christian,FY 2009,154,Iran,65,362
+From: 04 Nov 2008,To: 04 Nov 2008,Christian,FY 2009,154,Iraq,16,362
+From: 04 Nov 2008,To: 04 Nov 2008,Christian,FY 2009,154,Liberia,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Christian,FY 2009,154,Sudan,8,362
+From: 04 Nov 2008,To: 04 Nov 2008,Hindu,FY 2009,52,Bhutan,52,362
+From: 04 Nov 2008,To: 04 Nov 2008,Jehovah Witness,FY 2009,13,Cuba,12,362
+From: 04 Nov 2008,To: 04 Nov 2008,Jehovah Witness,FY 2009,13,Eritrea,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Methodist,FY 2009,3,Cuba,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Moslem,FY 2009,26,Ethiopia,5,362
+From: 04 Nov 2008,To: 04 Nov 2008,Moslem,FY 2009,26,Gambia,8,362
+From: 04 Nov 2008,To: 04 Nov 2008,Moslem,FY 2009,26,Mauritania,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Moslem,FY 2009,26,Somalia,10,362
+From: 04 Nov 2008,To: 04 Nov 2008,Moslem Shiite,FY 2009,12,Iraq,12,362
+From: 04 Nov 2008,To: 04 Nov 2008,Moslem Suni,FY 2009,10,Iraq,10,362
+From: 04 Nov 2008,To: 04 Nov 2008,No Religion,FY 2009,15,Cuba,15,362
+From: 04 Nov 2008,To: 04 Nov 2008,Pentecostalist,FY 2009,20,Dem. Rep. Congo,3,362
+From: 04 Nov 2008,To: 04 Nov 2008,Pentecostalist,FY 2009,20,Kazakhstan,17,362
+From: 04 Nov 2008,To: 04 Nov 2008,Protestant,FY 2009,1,Dem. Rep. Congo,1,362
+From: 04 Nov 2008,To: 04 Nov 2008,Seventh Day Adventist,FY 2009,2,Cuba,2,362
+From: 04 Nov 2008,To: 04 Nov 2008,Zoroastrian,FY 2009,4,Iran,4,362
+

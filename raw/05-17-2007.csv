@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 May 2007,To: 17 May 2007,Afghanistan,FY 2007,5,Moslem Suni,5,146
+From: 17 May 2007,To: 17 May 2007,Burma,FY 2007,58,Christian,58,146
+From: 17 May 2007,To: 17 May 2007,Eritrea,FY 2007,6,Christian,6,146
+From: 17 May 2007,To: 17 May 2007,Ethiopia,FY 2007,19,Moslem,12,146
+From: 17 May 2007,To: 17 May 2007,Ethiopia,FY 2007,19,Orthodox,1,146
+From: 17 May 2007,To: 17 May 2007,Ethiopia,FY 2007,19,Pentecostalist,1,146
+From: 17 May 2007,To: 17 May 2007,Ethiopia,FY 2007,19,Protestant,5,146
+From: 17 May 2007,To: 17 May 2007,Liberia,FY 2007,15,Baptist,3,146
+From: 17 May 2007,To: 17 May 2007,Liberia,FY 2007,15,Christian,12,146
+From: 17 May 2007,To: 17 May 2007,Somalia,FY 2007,10,Moslem,10,146
+From: 17 May 2007,To: 17 May 2007,Ukraine,FY 2007,30,Baptist,7,146
+From: 17 May 2007,To: 17 May 2007,Ukraine,FY 2007,30,Jewish,1,146
+From: 17 May 2007,To: 17 May 2007,Ukraine,FY 2007,30,Pentecostalist,22,146
+From: 17 May 2007,To: 17 May 2007,Uzbekistan,FY 2007,3,Moslem,2,146
+From: 17 May 2007,To: 17 May 2007,Uzbekistan,FY 2007,3,No Religion,1,146
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 May 2007,To: 17 May 2007,Baptist,FY 2007,10,Liberia,3,146
+From: 17 May 2007,To: 17 May 2007,Baptist,FY 2007,10,Ukraine,7,146
+From: 17 May 2007,To: 17 May 2007,Christian,FY 2007,76,Burma,58,146
+From: 17 May 2007,To: 17 May 2007,Christian,FY 2007,76,Eritrea,6,146
+From: 17 May 2007,To: 17 May 2007,Christian,FY 2007,76,Liberia,12,146
+From: 17 May 2007,To: 17 May 2007,Jewish,FY 2007,1,Ukraine,1,146
+From: 17 May 2007,To: 17 May 2007,Moslem,FY 2007,24,Ethiopia,12,146
+From: 17 May 2007,To: 17 May 2007,Moslem,FY 2007,24,Somalia,10,146
+From: 17 May 2007,To: 17 May 2007,Moslem,FY 2007,24,Uzbekistan,2,146
+From: 17 May 2007,To: 17 May 2007,Moslem Suni,FY 2007,5,Afghanistan,5,146
+From: 17 May 2007,To: 17 May 2007,No Religion,FY 2007,1,Uzbekistan,1,146
+From: 17 May 2007,To: 17 May 2007,Orthodox,FY 2007,1,Ethiopia,1,146
+From: 17 May 2007,To: 17 May 2007,Pentecostalist,FY 2007,23,Ethiopia,1,146
+From: 17 May 2007,To: 17 May 2007,Pentecostalist,FY 2007,23,Ukraine,22,146
+From: 17 May 2007,To: 17 May 2007,Protestant,FY 2007,5,Ethiopia,5,146
+

@@ -1,0 +1,95 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Mar 2015,To: 31 Mar 2015,Afghanistan,FY 2015,25,Christian,3,589
+From: 31 Mar 2015,To: 31 Mar 2015,Afghanistan,FY 2015,25,Moslem,8,589
+From: 31 Mar 2015,To: 31 Mar 2015,Afghanistan,FY 2015,25,Moslem Shiite,5,589
+From: 31 Mar 2015,To: 31 Mar 2015,Afghanistan,FY 2015,25,Moslem Suni,9,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burma,FY 2015,184,Baptist,11,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burma,FY 2015,184,Buddhist,35,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burma,FY 2015,184,Christian,90,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burma,FY 2015,184,Moslem,46,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burma,FY 2015,184,Other Religion,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burundi,FY 2015,39,Catholic,16,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burundi,FY 2015,39,Methodist,17,589
+From: 31 Mar 2015,To: 31 Mar 2015,Burundi,FY 2015,39,Pentecostalist,6,589
+From: 31 Mar 2015,To: 31 Mar 2015,Dem. Rep. Congo,FY 2015,29,Catholic,14,589
+From: 31 Mar 2015,To: 31 Mar 2015,Dem. Rep. Congo,FY 2015,29,Moslem,7,589
+From: 31 Mar 2015,To: 31 Mar 2015,Dem. Rep. Congo,FY 2015,29,Pentecostalist,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Dem. Rep. Congo,FY 2015,29,Protestant,7,589
+From: 31 Mar 2015,To: 31 Mar 2015,Eritrea,FY 2015,10,Catholic,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Eritrea,FY 2015,10,Orthodox,8,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iran,FY 2015,40,Bahai,17,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iran,FY 2015,40,Christian,15,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iran,FY 2015,40,Jewish,3,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iran,FY 2015,40,Protestant,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iran,FY 2015,40,Zoroastrian,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Catholic,16,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Christian,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Evangelical Christian,5,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Moslem,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Moslem Shiite,31,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Moslem Suni,55,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Orthodox,6,589
+From: 31 Mar 2015,To: 31 Mar 2015,Iraq,FY 2015,121,Sabeans-Mandean,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Somalia,FY 2015,33,Moslem,19,589
+From: 31 Mar 2015,To: 31 Mar 2015,Somalia,FY 2015,33,Moslem Suni,14,589
+From: 31 Mar 2015,To: 31 Mar 2015,Sudan,FY 2015,20,Catholic,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Sudan,FY 2015,20,Christian,11,589
+From: 31 Mar 2015,To: 31 Mar 2015,Sudan,FY 2015,20,Moslem,7,589
+From: 31 Mar 2015,To: 31 Mar 2015,Sudan,FY 2015,20,Moslem Suni,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Syria,FY 2015,48,Moslem Suni,48,589
+From: 31 Mar 2015,To: 31 Mar 2015,Tunisia,FY 2015,1,Moslem Suni,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Uganda,FY 2015,4,Moslem,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Ukraine,FY 2015,33,Baptist,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Ukraine,FY 2015,33,Pentecostalist,25,589
+From: 31 Mar 2015,To: 31 Mar 2015,Ukraine,FY 2015,33,Seventh Day Adventist,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Yemen,FY 2015,2,Moslem,2,589
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Mar 2015,To: 31 Mar 2015,Bahai,FY 2015,17,Iran,17,589
+From: 31 Mar 2015,To: 31 Mar 2015,Baptist,FY 2015,15,Burma,11,589
+From: 31 Mar 2015,To: 31 Mar 2015,Baptist,FY 2015,15,Ukraine,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Buddhist,FY 2015,35,Burma,35,589
+From: 31 Mar 2015,To: 31 Mar 2015,Catholic,FY 2015,49,Burundi,16,589
+From: 31 Mar 2015,To: 31 Mar 2015,Catholic,FY 2015,49,Dem. Rep. Congo,14,589
+From: 31 Mar 2015,To: 31 Mar 2015,Catholic,FY 2015,49,Eritrea,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Catholic,FY 2015,49,Iraq,16,589
+From: 31 Mar 2015,To: 31 Mar 2015,Catholic,FY 2015,49,Sudan,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Christian,FY 2015,123,Afghanistan,3,589
+From: 31 Mar 2015,To: 31 Mar 2015,Christian,FY 2015,123,Burma,90,589
+From: 31 Mar 2015,To: 31 Mar 2015,Christian,FY 2015,123,Iran,15,589
+From: 31 Mar 2015,To: 31 Mar 2015,Christian,FY 2015,123,Iraq,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Christian,FY 2015,123,Sudan,11,589
+From: 31 Mar 2015,To: 31 Mar 2015,Evangelical Christian,FY 2015,5,Iraq,5,589
+From: 31 Mar 2015,To: 31 Mar 2015,Jewish,FY 2015,3,Iran,3,589
+From: 31 Mar 2015,To: 31 Mar 2015,Methodist,FY 2015,17,Burundi,17,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Afghanistan,8,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Burma,46,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Dem. Rep. Congo,7,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Iraq,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Somalia,19,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Sudan,7,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Uganda,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem,FY 2015,95,Yemen,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Shiite,FY 2015,36,Afghanistan,5,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Shiite,FY 2015,36,Iraq,31,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Suni,FY 2015,128,Afghanistan,9,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Suni,FY 2015,128,Iraq,55,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Suni,FY 2015,128,Somalia,14,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Suni,FY 2015,128,Sudan,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Suni,FY 2015,128,Syria,48,589
+From: 31 Mar 2015,To: 31 Mar 2015,Moslem Suni,FY 2015,128,Tunisia,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Orthodox,FY 2015,14,Eritrea,8,589
+From: 31 Mar 2015,To: 31 Mar 2015,Orthodox,FY 2015,14,Iraq,6,589
+From: 31 Mar 2015,To: 31 Mar 2015,Other Religion,FY 2015,2,Burma,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Pentecostalist,FY 2015,32,Burundi,6,589
+From: 31 Mar 2015,To: 31 Mar 2015,Pentecostalist,FY 2015,32,Dem. Rep. Congo,1,589
+From: 31 Mar 2015,To: 31 Mar 2015,Pentecostalist,FY 2015,32,Ukraine,25,589
+From: 31 Mar 2015,To: 31 Mar 2015,Protestant,FY 2015,11,Dem. Rep. Congo,7,589
+From: 31 Mar 2015,To: 31 Mar 2015,Protestant,FY 2015,11,Iran,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Sabeans-Mandean,FY 2015,2,Iraq,2,589
+From: 31 Mar 2015,To: 31 Mar 2015,Seventh Day Adventist,FY 2015,4,Ukraine,4,589
+From: 31 Mar 2015,To: 31 Mar 2015,Zoroastrian,FY 2015,1,Iran,1,589
+

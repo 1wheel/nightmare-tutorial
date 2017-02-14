@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Feb 2015,To: 26 Feb 2015,Afghanistan,FY 2015,3,Moslem Shiite,3,268
+From: 26 Feb 2015,To: 26 Feb 2015,Bhutan,FY 2015,26,Buddhist,8,268
+From: 26 Feb 2015,To: 26 Feb 2015,Bhutan,FY 2015,26,Hindu,15,268
+From: 26 Feb 2015,To: 26 Feb 2015,Bhutan,FY 2015,26,Kirat,3,268
+From: 26 Feb 2015,To: 26 Feb 2015,Burma,FY 2015,173,Animist,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Burma,FY 2015,173,Baptist,6,268
+From: 26 Feb 2015,To: 26 Feb 2015,Burma,FY 2015,173,Buddhist,11,268
+From: 26 Feb 2015,To: 26 Feb 2015,Burma,FY 2015,173,Catholic,10,268
+From: 26 Feb 2015,To: 26 Feb 2015,Burma,FY 2015,173,Christian,91,268
+From: 26 Feb 2015,To: 26 Feb 2015,Burma,FY 2015,173,Moslem,53,268
+From: 26 Feb 2015,To: 26 Feb 2015,Cuba,FY 2015,3,Baptist,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Cuba,FY 2015,3,Catholic,1,268
+From: 26 Feb 2015,To: 26 Feb 2015,Dem. Rep. Congo,FY 2015,16,Protestant,16,268
+From: 26 Feb 2015,To: 26 Feb 2015,Eritrea,FY 2015,12,Orthodox,12,268
+From: 26 Feb 2015,To: 26 Feb 2015,Ethiopia,FY 2015,2,Orthodox,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Iran,FY 2015,16,Christian,11,268
+From: 26 Feb 2015,To: 26 Feb 2015,Iran,FY 2015,16,Jewish,3,268
+From: 26 Feb 2015,To: 26 Feb 2015,Iran,FY 2015,16,Protestant,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Iraq,FY 2015,3,Moslem Shiite,1,268
+From: 26 Feb 2015,To: 26 Feb 2015,Iraq,FY 2015,3,Moslem Suni,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Ivory Coast,FY 2015,2,Moslem,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Kazakhstan,FY 2015,2,Jehovah Witness,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Pakistan,FY 2015,4,Moslem,4,268
+From: 26 Feb 2015,To: 26 Feb 2015,Somalia,FY 2015,6,Moslem,6,268
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Feb 2015,To: 26 Feb 2015,Animist,FY 2015,2,Burma,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Baptist,FY 2015,8,Burma,6,268
+From: 26 Feb 2015,To: 26 Feb 2015,Baptist,FY 2015,8,Cuba,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Buddhist,FY 2015,19,Bhutan,8,268
+From: 26 Feb 2015,To: 26 Feb 2015,Buddhist,FY 2015,19,Burma,11,268
+From: 26 Feb 2015,To: 26 Feb 2015,Catholic,FY 2015,11,Burma,10,268
+From: 26 Feb 2015,To: 26 Feb 2015,Catholic,FY 2015,11,Cuba,1,268
+From: 26 Feb 2015,To: 26 Feb 2015,Christian,FY 2015,102,Burma,91,268
+From: 26 Feb 2015,To: 26 Feb 2015,Christian,FY 2015,102,Iran,11,268
+From: 26 Feb 2015,To: 26 Feb 2015,Hindu,FY 2015,15,Bhutan,15,268
+From: 26 Feb 2015,To: 26 Feb 2015,Jehovah Witness,FY 2015,2,Kazakhstan,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Jewish,FY 2015,3,Iran,3,268
+From: 26 Feb 2015,To: 26 Feb 2015,Kirat,FY 2015,3,Bhutan,3,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem,FY 2015,65,Burma,53,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem,FY 2015,65,Ivory Coast,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem,FY 2015,65,Pakistan,4,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem,FY 2015,65,Somalia,6,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem Shiite,FY 2015,4,Afghanistan,3,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem Shiite,FY 2015,4,Iraq,1,268
+From: 26 Feb 2015,To: 26 Feb 2015,Moslem Suni,FY 2015,2,Iraq,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Orthodox,FY 2015,14,Eritrea,12,268
+From: 26 Feb 2015,To: 26 Feb 2015,Orthodox,FY 2015,14,Ethiopia,2,268
+From: 26 Feb 2015,To: 26 Feb 2015,Protestant,FY 2015,18,Dem. Rep. Congo,16,268
+From: 26 Feb 2015,To: 26 Feb 2015,Protestant,FY 2015,18,Iran,2,268
+

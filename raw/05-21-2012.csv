@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 May 2012,To: 21 May 2012,Bhutan,FY 2012,30,Hindu,23,266
+From: 21 May 2012,To: 21 May 2012,Bhutan,FY 2012,30,Kirat,7,266
+From: 21 May 2012,To: 21 May 2012,Burma,FY 2012,75,Baptist,4,266
+From: 21 May 2012,To: 21 May 2012,Burma,FY 2012,75,Buddhist,10,266
+From: 21 May 2012,To: 21 May 2012,Burma,FY 2012,75,Catholic,6,266
+From: 21 May 2012,To: 21 May 2012,Burma,FY 2012,75,Christian,50,266
+From: 21 May 2012,To: 21 May 2012,Burma,FY 2012,75,Moslem,5,266
+From: 21 May 2012,To: 21 May 2012,Dem. Rep. Congo,FY 2012,35,Catholic,10,266
+From: 21 May 2012,To: 21 May 2012,Dem. Rep. Congo,FY 2012,35,Christian,1,266
+From: 21 May 2012,To: 21 May 2012,Dem. Rep. Congo,FY 2012,35,Moslem,5,266
+From: 21 May 2012,To: 21 May 2012,Dem. Rep. Congo,FY 2012,35,Protestant,19,266
+From: 21 May 2012,To: 21 May 2012,Eritrea,FY 2012,17,Catholic,3,266
+From: 21 May 2012,To: 21 May 2012,Eritrea,FY 2012,17,Christian,3,266
+From: 21 May 2012,To: 21 May 2012,Eritrea,FY 2012,17,Moslem,3,266
+From: 21 May 2012,To: 21 May 2012,Eritrea,FY 2012,17,Moslem Suni,1,266
+From: 21 May 2012,To: 21 May 2012,Eritrea,FY 2012,17,Orthodox,7,266
+From: 21 May 2012,To: 21 May 2012,Iran,FY 2012,5,Christian,1,266
+From: 21 May 2012,To: 21 May 2012,Iran,FY 2012,5,Moslem Shiite,3,266
+From: 21 May 2012,To: 21 May 2012,Iran,FY 2012,5,Orthodox,1,266
+From: 21 May 2012,To: 21 May 2012,Iraq,FY 2012,81,Catholic,13,266
+From: 21 May 2012,To: 21 May 2012,Iraq,FY 2012,81,Christian,1,266
+From: 21 May 2012,To: 21 May 2012,Iraq,FY 2012,81,Moslem Shiite,16,266
+From: 21 May 2012,To: 21 May 2012,Iraq,FY 2012,81,Moslem Suni,24,266
+From: 21 May 2012,To: 21 May 2012,Iraq,FY 2012,81,Orthodox,26,266
+From: 21 May 2012,To: 21 May 2012,Iraq,FY 2012,81,Sabeans-Mandean,1,266
+From: 21 May 2012,To: 21 May 2012,Somalia,FY 2012,12,Moslem,3,266
+From: 21 May 2012,To: 21 May 2012,Somalia,FY 2012,12,Moslem Suni,9,266
+From: 21 May 2012,To: 21 May 2012,Sudan,FY 2012,11,Moslem,3,266
+From: 21 May 2012,To: 21 May 2012,Sudan,FY 2012,11,Moslem Suni,8,266
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 May 2012,To: 21 May 2012,Baptist,FY 2012,4,Burma,4,266
+From: 21 May 2012,To: 21 May 2012,Buddhist,FY 2012,10,Burma,10,266
+From: 21 May 2012,To: 21 May 2012,Catholic,FY 2012,32,Burma,6,266
+From: 21 May 2012,To: 21 May 2012,Catholic,FY 2012,32,Dem. Rep. Congo,10,266
+From: 21 May 2012,To: 21 May 2012,Catholic,FY 2012,32,Eritrea,3,266
+From: 21 May 2012,To: 21 May 2012,Catholic,FY 2012,32,Iraq,13,266
+From: 21 May 2012,To: 21 May 2012,Christian,FY 2012,56,Burma,50,266
+From: 21 May 2012,To: 21 May 2012,Christian,FY 2012,56,Dem. Rep. Congo,1,266
+From: 21 May 2012,To: 21 May 2012,Christian,FY 2012,56,Eritrea,3,266
+From: 21 May 2012,To: 21 May 2012,Christian,FY 2012,56,Iran,1,266
+From: 21 May 2012,To: 21 May 2012,Christian,FY 2012,56,Iraq,1,266
+From: 21 May 2012,To: 21 May 2012,Hindu,FY 2012,23,Bhutan,23,266
+From: 21 May 2012,To: 21 May 2012,Kirat,FY 2012,7,Bhutan,7,266
+From: 21 May 2012,To: 21 May 2012,Moslem,FY 2012,19,Burma,5,266
+From: 21 May 2012,To: 21 May 2012,Moslem,FY 2012,19,Dem. Rep. Congo,5,266
+From: 21 May 2012,To: 21 May 2012,Moslem,FY 2012,19,Eritrea,3,266
+From: 21 May 2012,To: 21 May 2012,Moslem,FY 2012,19,Somalia,3,266
+From: 21 May 2012,To: 21 May 2012,Moslem,FY 2012,19,Sudan,3,266
+From: 21 May 2012,To: 21 May 2012,Moslem Shiite,FY 2012,19,Iran,3,266
+From: 21 May 2012,To: 21 May 2012,Moslem Shiite,FY 2012,19,Iraq,16,266
+From: 21 May 2012,To: 21 May 2012,Moslem Suni,FY 2012,42,Eritrea,1,266
+From: 21 May 2012,To: 21 May 2012,Moslem Suni,FY 2012,42,Iraq,24,266
+From: 21 May 2012,To: 21 May 2012,Moslem Suni,FY 2012,42,Somalia,9,266
+From: 21 May 2012,To: 21 May 2012,Moslem Suni,FY 2012,42,Sudan,8,266
+From: 21 May 2012,To: 21 May 2012,Orthodox,FY 2012,34,Eritrea,7,266
+From: 21 May 2012,To: 21 May 2012,Orthodox,FY 2012,34,Iran,1,266
+From: 21 May 2012,To: 21 May 2012,Orthodox,FY 2012,34,Iraq,26,266
+From: 21 May 2012,To: 21 May 2012,Protestant,FY 2012,19,Dem. Rep. Congo,19,266
+From: 21 May 2012,To: 21 May 2012,Sabeans-Mandean,FY 2012,1,Iraq,1,266
+

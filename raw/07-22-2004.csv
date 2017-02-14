@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Jul 2004,To: 22 Jul 2004,Afghanistan,FY 2004,16,Moslem Suni,16,280
+From: 22 Jul 2004,To: 22 Jul 2004,Angola,FY 2004,1,Protestant,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Azerbaijan,FY 2004,1,Unknown,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Burma,FY 2004,34,Buddhist,26,280
+From: 22 Jul 2004,To: 22 Jul 2004,Burma,FY 2004,34,Protestant,8,280
+From: 22 Jul 2004,To: 22 Jul 2004,Dem. Rep. Congo,FY 2004,3,Christian,2,280
+From: 22 Jul 2004,To: 22 Jul 2004,Dem. Rep. Congo,FY 2004,3,Jehovah Witness,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Ethiopia,FY 2004,54,Christian,11,280
+From: 22 Jul 2004,To: 22 Jul 2004,Ethiopia,FY 2004,54,Moslem,25,280
+From: 22 Jul 2004,To: 22 Jul 2004,Ethiopia,FY 2004,54,Orthodox,14,280
+From: 22 Jul 2004,To: 22 Jul 2004,Ethiopia,FY 2004,54,Protestant,4,280
+From: 22 Jul 2004,To: 22 Jul 2004,Liberia,FY 2004,43,Baptist,2,280
+From: 22 Jul 2004,To: 22 Jul 2004,Liberia,FY 2004,43,Catholic,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Liberia,FY 2004,43,Christian,31,280
+From: 22 Jul 2004,To: 22 Jul 2004,Liberia,FY 2004,43,Methodist,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Liberia,FY 2004,43,Pentecostalist,8,280
+From: 22 Jul 2004,To: 22 Jul 2004,Russia,FY 2004,13,Baptist,6,280
+From: 22 Jul 2004,To: 22 Jul 2004,Russia,FY 2004,13,Jewish,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Russia,FY 2004,13,No Religion,2,280
+From: 22 Jul 2004,To: 22 Jul 2004,Russia,FY 2004,13,Pentecostalist,3,280
+From: 22 Jul 2004,To: 22 Jul 2004,Russia,FY 2004,13,Russian Orthodox,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Somalia,FY 2004,115,Moslem,115,280
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Jul 2004,To: 22 Jul 2004,Baptist,FY 2004,8,Liberia,2,280
+From: 22 Jul 2004,To: 22 Jul 2004,Baptist,FY 2004,8,Russia,6,280
+From: 22 Jul 2004,To: 22 Jul 2004,Buddhist,FY 2004,26,Burma,26,280
+From: 22 Jul 2004,To: 22 Jul 2004,Catholic,FY 2004,1,Liberia,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Christian,FY 2004,44,Dem. Rep. Congo,2,280
+From: 22 Jul 2004,To: 22 Jul 2004,Christian,FY 2004,44,Ethiopia,11,280
+From: 22 Jul 2004,To: 22 Jul 2004,Christian,FY 2004,44,Liberia,31,280
+From: 22 Jul 2004,To: 22 Jul 2004,Jehovah Witness,FY 2004,1,Dem. Rep. Congo,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Jewish,FY 2004,1,Russia,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Methodist,FY 2004,1,Liberia,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Moslem,FY 2004,140,Ethiopia,25,280
+From: 22 Jul 2004,To: 22 Jul 2004,Moslem,FY 2004,140,Somalia,115,280
+From: 22 Jul 2004,To: 22 Jul 2004,Moslem Suni,FY 2004,16,Afghanistan,16,280
+From: 22 Jul 2004,To: 22 Jul 2004,No Religion,FY 2004,2,Russia,2,280
+From: 22 Jul 2004,To: 22 Jul 2004,Orthodox,FY 2004,14,Ethiopia,14,280
+From: 22 Jul 2004,To: 22 Jul 2004,Pentecostalist,FY 2004,11,Liberia,8,280
+From: 22 Jul 2004,To: 22 Jul 2004,Pentecostalist,FY 2004,11,Russia,3,280
+From: 22 Jul 2004,To: 22 Jul 2004,Protestant,FY 2004,13,Angola,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Protestant,FY 2004,13,Burma,8,280
+From: 22 Jul 2004,To: 22 Jul 2004,Protestant,FY 2004,13,Ethiopia,4,280
+From: 22 Jul 2004,To: 22 Jul 2004,Russian Orthodox,FY 2004,1,Russia,1,280
+From: 22 Jul 2004,To: 22 Jul 2004,Unknown,FY 2004,1,Azerbaijan,1,280
+

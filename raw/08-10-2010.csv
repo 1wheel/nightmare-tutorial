@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Aug 2010,To: 10 Aug 2010,Benin,FY 2010,1,Catholic,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Bhutan,FY 2010,50,Buddhist,16,276
+From: 10 Aug 2010,To: 10 Aug 2010,Bhutan,FY 2010,50,Hindu,29,276
+From: 10 Aug 2010,To: 10 Aug 2010,Bhutan,FY 2010,50,Kirat,5,276
+From: 10 Aug 2010,To: 10 Aug 2010,Burma,FY 2010,31,Catholic,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Burma,FY 2010,31,Christian,30,276
+From: 10 Aug 2010,To: 10 Aug 2010,Burundi,FY 2010,11,Catholic,11,276
+From: 10 Aug 2010,To: 10 Aug 2010,Dem. Rep. Congo,FY 2010,17,Catholic,17,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Catholic,5,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Christian,7,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Moslem,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Orthodox,39,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Pentecostalist,5,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Protestant,10,276
+From: 10 Aug 2010,To: 10 Aug 2010,Eritrea,FY 2010,70,Seventh Day Adventist,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Ethiopia,FY 2010,2,Orthodox,2,276
+From: 10 Aug 2010,To: 10 Aug 2010,Iraq,FY 2010,85,Catholic,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Iraq,FY 2010,85,Christian,22,276
+From: 10 Aug 2010,To: 10 Aug 2010,Iraq,FY 2010,85,Moslem,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Iraq,FY 2010,85,Moslem Shiite,22,276
+From: 10 Aug 2010,To: 10 Aug 2010,Iraq,FY 2010,85,Moslem Suni,34,276
+From: 10 Aug 2010,To: 10 Aug 2010,Iraq,FY 2010,85,Sabeans-Mandean,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Palestine,FY 2010,6,Moslem Suni,6,276
+From: 10 Aug 2010,To: 10 Aug 2010,Rwanda,FY 2010,3,Christian,3,276
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Aug 2010,To: 10 Aug 2010,Buddhist,FY 2010,16,Bhutan,16,276
+From: 10 Aug 2010,To: 10 Aug 2010,Catholic,FY 2010,38,Benin,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Catholic,FY 2010,38,Burma,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Catholic,FY 2010,38,Burundi,11,276
+From: 10 Aug 2010,To: 10 Aug 2010,Catholic,FY 2010,38,Dem. Rep. Congo,17,276
+From: 10 Aug 2010,To: 10 Aug 2010,Catholic,FY 2010,38,Eritrea,5,276
+From: 10 Aug 2010,To: 10 Aug 2010,Catholic,FY 2010,38,Iraq,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Christian,FY 2010,62,Burma,30,276
+From: 10 Aug 2010,To: 10 Aug 2010,Christian,FY 2010,62,Eritrea,7,276
+From: 10 Aug 2010,To: 10 Aug 2010,Christian,FY 2010,62,Iraq,22,276
+From: 10 Aug 2010,To: 10 Aug 2010,Christian,FY 2010,62,Rwanda,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Hindu,FY 2010,29,Bhutan,29,276
+From: 10 Aug 2010,To: 10 Aug 2010,Kirat,FY 2010,5,Bhutan,5,276
+From: 10 Aug 2010,To: 10 Aug 2010,Moslem,FY 2010,6,Eritrea,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Moslem,FY 2010,6,Iraq,3,276
+From: 10 Aug 2010,To: 10 Aug 2010,Moslem Shiite,FY 2010,22,Iraq,22,276
+From: 10 Aug 2010,To: 10 Aug 2010,Moslem Suni,FY 2010,40,Iraq,34,276
+From: 10 Aug 2010,To: 10 Aug 2010,Moslem Suni,FY 2010,40,Palestine,6,276
+From: 10 Aug 2010,To: 10 Aug 2010,Orthodox,FY 2010,41,Eritrea,39,276
+From: 10 Aug 2010,To: 10 Aug 2010,Orthodox,FY 2010,41,Ethiopia,2,276
+From: 10 Aug 2010,To: 10 Aug 2010,Pentecostalist,FY 2010,5,Eritrea,5,276
+From: 10 Aug 2010,To: 10 Aug 2010,Protestant,FY 2010,10,Eritrea,10,276
+From: 10 Aug 2010,To: 10 Aug 2010,Sabeans-Mandean,FY 2010,1,Iraq,1,276
+From: 10 Aug 2010,To: 10 Aug 2010,Seventh Day Adventist,FY 2010,1,Eritrea,1,276
+

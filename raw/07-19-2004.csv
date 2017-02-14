@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Jul 2004,To: 19 Jul 2004,Azerbaijan,FY 2004,7,Jewish,7,192
+From: 19 Jul 2004,To: 19 Jul 2004,Burma,FY 2004,27,Buddhist,24,192
+From: 19 Jul 2004,To: 19 Jul 2004,Burma,FY 2004,27,Protestant,3,192
+From: 19 Jul 2004,To: 19 Jul 2004,Ethiopia,FY 2004,38,Moslem,31,192
+From: 19 Jul 2004,To: 19 Jul 2004,Ethiopia,FY 2004,38,Orthodox,7,192
+From: 19 Jul 2004,To: 19 Jul 2004,Liberia,FY 2004,2,Christian,2,192
+From: 19 Jul 2004,To: 19 Jul 2004,Moldova,FY 2004,35,Baptist,18,192
+From: 19 Jul 2004,To: 19 Jul 2004,Moldova,FY 2004,35,Pentecostalist,13,192
+From: 19 Jul 2004,To: 19 Jul 2004,Moldova,FY 2004,35,Seventh Day Adventist,4,192
+From: 19 Jul 2004,To: 19 Jul 2004,Sierra Leone,FY 2004,18,Catholic,8,192
+From: 19 Jul 2004,To: 19 Jul 2004,Sierra Leone,FY 2004,18,Christian,5,192
+From: 19 Jul 2004,To: 19 Jul 2004,Sierra Leone,FY 2004,18,Moslem,3,192
+From: 19 Jul 2004,To: 19 Jul 2004,Sierra Leone,FY 2004,18,Protestant,2,192
+From: 19 Jul 2004,To: 19 Jul 2004,Somalia,FY 2004,64,Moslem,64,192
+From: 19 Jul 2004,To: 19 Jul 2004,Sudan,FY 2004,1,Christian,1,192
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Jul 2004,To: 19 Jul 2004,Baptist,FY 2004,18,Moldova,18,192
+From: 19 Jul 2004,To: 19 Jul 2004,Buddhist,FY 2004,24,Burma,24,192
+From: 19 Jul 2004,To: 19 Jul 2004,Catholic,FY 2004,8,Sierra Leone,8,192
+From: 19 Jul 2004,To: 19 Jul 2004,Christian,FY 2004,8,Liberia,2,192
+From: 19 Jul 2004,To: 19 Jul 2004,Christian,FY 2004,8,Sierra Leone,5,192
+From: 19 Jul 2004,To: 19 Jul 2004,Christian,FY 2004,8,Sudan,1,192
+From: 19 Jul 2004,To: 19 Jul 2004,Jewish,FY 2004,7,Azerbaijan,7,192
+From: 19 Jul 2004,To: 19 Jul 2004,Moslem,FY 2004,98,Ethiopia,31,192
+From: 19 Jul 2004,To: 19 Jul 2004,Moslem,FY 2004,98,Sierra Leone,3,192
+From: 19 Jul 2004,To: 19 Jul 2004,Moslem,FY 2004,98,Somalia,64,192
+From: 19 Jul 2004,To: 19 Jul 2004,Orthodox,FY 2004,7,Ethiopia,7,192
+From: 19 Jul 2004,To: 19 Jul 2004,Pentecostalist,FY 2004,13,Moldova,13,192
+From: 19 Jul 2004,To: 19 Jul 2004,Protestant,FY 2004,5,Burma,3,192
+From: 19 Jul 2004,To: 19 Jul 2004,Protestant,FY 2004,5,Sierra Leone,2,192
+From: 19 Jul 2004,To: 19 Jul 2004,Seventh Day Adventist,FY 2004,4,Moldova,4,192
+

@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Apr 2012,To: 26 Apr 2012,Bhutan,FY 2012,94,Buddhist,11,337
+From: 26 Apr 2012,To: 26 Apr 2012,Bhutan,FY 2012,94,Christian,15,337
+From: 26 Apr 2012,To: 26 Apr 2012,Bhutan,FY 2012,94,Hindu,49,337
+From: 26 Apr 2012,To: 26 Apr 2012,Bhutan,FY 2012,94,Kirat,19,337
+From: 26 Apr 2012,To: 26 Apr 2012,Burundi,FY 2012,11,Christian,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Burundi,FY 2012,11,Jehovah Witness,10,337
+From: 26 Apr 2012,To: 26 Apr 2012,Central African Republic,FY 2012,2,Catholic,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Central African Republic,FY 2012,2,Protestant,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Cuba,FY 2012,32,Catholic,15,337
+From: 26 Apr 2012,To: 26 Apr 2012,Cuba,FY 2012,32,Evangelical Christian,2,337
+From: 26 Apr 2012,To: 26 Apr 2012,Cuba,FY 2012,32,Jehovah Witness,4,337
+From: 26 Apr 2012,To: 26 Apr 2012,Cuba,FY 2012,32,No Religion,8,337
+From: 26 Apr 2012,To: 26 Apr 2012,Cuba,FY 2012,32,Pentecostalist,3,337
+From: 26 Apr 2012,To: 26 Apr 2012,Dem. Rep. Congo,FY 2012,35,Catholic,12,337
+From: 26 Apr 2012,To: 26 Apr 2012,Dem. Rep. Congo,FY 2012,35,Christian,2,337
+From: 26 Apr 2012,To: 26 Apr 2012,Dem. Rep. Congo,FY 2012,35,Pentecostalist,7,337
+From: 26 Apr 2012,To: 26 Apr 2012,Dem. Rep. Congo,FY 2012,35,Protestant,14,337
+From: 26 Apr 2012,To: 26 Apr 2012,Eritrea,FY 2012,20,Christian,4,337
+From: 26 Apr 2012,To: 26 Apr 2012,Eritrea,FY 2012,20,Moslem,5,337
+From: 26 Apr 2012,To: 26 Apr 2012,Eritrea,FY 2012,20,Moslem Suni,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Eritrea,FY 2012,20,Orthodox,9,337
+From: 26 Apr 2012,To: 26 Apr 2012,Eritrea,FY 2012,20,Pentecostalist,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Ethiopia,FY 2012,5,Moslem,5,337
+From: 26 Apr 2012,To: 26 Apr 2012,Iraq,FY 2012,47,Christian,31,337
+From: 26 Apr 2012,To: 26 Apr 2012,Iraq,FY 2012,47,Moslem Shiite,10,337
+From: 26 Apr 2012,To: 26 Apr 2012,Iraq,FY 2012,47,Moslem Suni,6,337
+From: 26 Apr 2012,To: 26 Apr 2012,Liberia,FY 2012,1,Christian,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Pakistan,FY 2012,4,Ahmadiyya,4,337
+From: 26 Apr 2012,To: 26 Apr 2012,Rwanda,FY 2012,8,Pentecostalist,6,337
+From: 26 Apr 2012,To: 26 Apr 2012,Rwanda,FY 2012,8,Seventh Day Adventist,2,337
+From: 26 Apr 2012,To: 26 Apr 2012,Somalia,FY 2012,49,Moslem,33,337
+From: 26 Apr 2012,To: 26 Apr 2012,Somalia,FY 2012,49,Moslem Suni,16,337
+From: 26 Apr 2012,To: 26 Apr 2012,Sudan,FY 2012,17,Moslem,16,337
+From: 26 Apr 2012,To: 26 Apr 2012,Sudan,FY 2012,17,Moslem Suni,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Ukraine,FY 2012,12,Baptist,3,337
+From: 26 Apr 2012,To: 26 Apr 2012,Ukraine,FY 2012,12,Pentecostalist,9,337
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Apr 2012,To: 26 Apr 2012,Ahmadiyya,FY 2012,4,Pakistan,4,337
+From: 26 Apr 2012,To: 26 Apr 2012,Baptist,FY 2012,3,Ukraine,3,337
+From: 26 Apr 2012,To: 26 Apr 2012,Buddhist,FY 2012,11,Bhutan,11,337
+From: 26 Apr 2012,To: 26 Apr 2012,Catholic,FY 2012,28,Central African Republic,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Catholic,FY 2012,28,Cuba,15,337
+From: 26 Apr 2012,To: 26 Apr 2012,Catholic,FY 2012,28,Dem. Rep. Congo,12,337
+From: 26 Apr 2012,To: 26 Apr 2012,Christian,FY 2012,54,Bhutan,15,337
+From: 26 Apr 2012,To: 26 Apr 2012,Christian,FY 2012,54,Burundi,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Christian,FY 2012,54,Dem. Rep. Congo,2,337
+From: 26 Apr 2012,To: 26 Apr 2012,Christian,FY 2012,54,Eritrea,4,337
+From: 26 Apr 2012,To: 26 Apr 2012,Christian,FY 2012,54,Iraq,31,337
+From: 26 Apr 2012,To: 26 Apr 2012,Christian,FY 2012,54,Liberia,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Evangelical Christian,FY 2012,2,Cuba,2,337
+From: 26 Apr 2012,To: 26 Apr 2012,Hindu,FY 2012,49,Bhutan,49,337
+From: 26 Apr 2012,To: 26 Apr 2012,Jehovah Witness,FY 2012,14,Burundi,10,337
+From: 26 Apr 2012,To: 26 Apr 2012,Jehovah Witness,FY 2012,14,Cuba,4,337
+From: 26 Apr 2012,To: 26 Apr 2012,Kirat,FY 2012,19,Bhutan,19,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem,FY 2012,59,Eritrea,5,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem,FY 2012,59,Ethiopia,5,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem,FY 2012,59,Somalia,33,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem,FY 2012,59,Sudan,16,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem Shiite,FY 2012,10,Iraq,10,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem Suni,FY 2012,24,Eritrea,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem Suni,FY 2012,24,Iraq,6,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem Suni,FY 2012,24,Somalia,16,337
+From: 26 Apr 2012,To: 26 Apr 2012,Moslem Suni,FY 2012,24,Sudan,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,No Religion,FY 2012,8,Cuba,8,337
+From: 26 Apr 2012,To: 26 Apr 2012,Orthodox,FY 2012,9,Eritrea,9,337
+From: 26 Apr 2012,To: 26 Apr 2012,Pentecostalist,FY 2012,26,Cuba,3,337
+From: 26 Apr 2012,To: 26 Apr 2012,Pentecostalist,FY 2012,26,Dem. Rep. Congo,7,337
+From: 26 Apr 2012,To: 26 Apr 2012,Pentecostalist,FY 2012,26,Eritrea,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Pentecostalist,FY 2012,26,Rwanda,6,337
+From: 26 Apr 2012,To: 26 Apr 2012,Pentecostalist,FY 2012,26,Ukraine,9,337
+From: 26 Apr 2012,To: 26 Apr 2012,Protestant,FY 2012,15,Central African Republic,1,337
+From: 26 Apr 2012,To: 26 Apr 2012,Protestant,FY 2012,15,Dem. Rep. Congo,14,337
+From: 26 Apr 2012,To: 26 Apr 2012,Seventh Day Adventist,FY 2012,2,Rwanda,2,337
+

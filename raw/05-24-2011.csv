@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 May 2011,To: 24 May 2011,Afghanistan,FY 2011,2,Moslem,2,159
+From: 24 May 2011,To: 24 May 2011,Burma,FY 2011,122,Baptist,2,159
+From: 24 May 2011,To: 24 May 2011,Burma,FY 2011,122,Buddhist,13,159
+From: 24 May 2011,To: 24 May 2011,Burma,FY 2011,122,Catholic,5,159
+From: 24 May 2011,To: 24 May 2011,Burma,FY 2011,122,Christian,101,159
+From: 24 May 2011,To: 24 May 2011,Burma,FY 2011,122,Moslem,1,159
+From: 24 May 2011,To: 24 May 2011,Cuba,FY 2011,21,Baptist,1,159
+From: 24 May 2011,To: 24 May 2011,Cuba,FY 2011,21,Catholic,9,159
+From: 24 May 2011,To: 24 May 2011,Cuba,FY 2011,21,Evangelical Christian,1,159
+From: 24 May 2011,To: 24 May 2011,Cuba,FY 2011,21,Jehovah Witness,5,159
+From: 24 May 2011,To: 24 May 2011,Cuba,FY 2011,21,No Religion,5,159
+From: 24 May 2011,To: 24 May 2011,Iran,FY 2011,5,Christian,4,159
+From: 24 May 2011,To: 24 May 2011,Iran,FY 2011,5,Zoroastrian,1,159
+From: 24 May 2011,To: 24 May 2011,Iraq,FY 2011,9,Catholic,7,159
+From: 24 May 2011,To: 24 May 2011,Iraq,FY 2011,9,Moslem,1,159
+From: 24 May 2011,To: 24 May 2011,Iraq,FY 2011,9,Moslem Suni,1,159
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 May 2011,To: 24 May 2011,Baptist,FY 2011,3,Burma,2,159
+From: 24 May 2011,To: 24 May 2011,Baptist,FY 2011,3,Cuba,1,159
+From: 24 May 2011,To: 24 May 2011,Buddhist,FY 2011,13,Burma,13,159
+From: 24 May 2011,To: 24 May 2011,Catholic,FY 2011,21,Burma,5,159
+From: 24 May 2011,To: 24 May 2011,Catholic,FY 2011,21,Cuba,9,159
+From: 24 May 2011,To: 24 May 2011,Catholic,FY 2011,21,Iraq,7,159
+From: 24 May 2011,To: 24 May 2011,Christian,FY 2011,105,Burma,101,159
+From: 24 May 2011,To: 24 May 2011,Christian,FY 2011,105,Iran,4,159
+From: 24 May 2011,To: 24 May 2011,Evangelical Christian,FY 2011,1,Cuba,1,159
+From: 24 May 2011,To: 24 May 2011,Jehovah Witness,FY 2011,5,Cuba,5,159
+From: 24 May 2011,To: 24 May 2011,Moslem,FY 2011,4,Afghanistan,2,159
+From: 24 May 2011,To: 24 May 2011,Moslem,FY 2011,4,Burma,1,159
+From: 24 May 2011,To: 24 May 2011,Moslem,FY 2011,4,Iraq,1,159
+From: 24 May 2011,To: 24 May 2011,Moslem Suni,FY 2011,1,Iraq,1,159
+From: 24 May 2011,To: 24 May 2011,No Religion,FY 2011,5,Cuba,5,159
+From: 24 May 2011,To: 24 May 2011,Zoroastrian,FY 2011,1,Iran,1,159
+

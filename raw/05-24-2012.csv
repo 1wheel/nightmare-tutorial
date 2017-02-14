@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 May 2012,To: 24 May 2012,Afghanistan,FY 2012,5,Moslem Shiite,5,352
+From: 24 May 2012,To: 24 May 2012,Bhutan,FY 2012,97,Buddhist,30,352
+From: 24 May 2012,To: 24 May 2012,Bhutan,FY 2012,97,Hindu,58,352
+From: 24 May 2012,To: 24 May 2012,Bhutan,FY 2012,97,Kirat,9,352
+From: 24 May 2012,To: 24 May 2012,Burma,FY 2012,97,Baptist,10,352
+From: 24 May 2012,To: 24 May 2012,Burma,FY 2012,97,Buddhist,18,352
+From: 24 May 2012,To: 24 May 2012,Burma,FY 2012,97,Christian,66,352
+From: 24 May 2012,To: 24 May 2012,Burma,FY 2012,97,Moslem,3,352
+From: 24 May 2012,To: 24 May 2012,Central African Republic,FY 2012,4,Catholic,4,352
+From: 24 May 2012,To: 24 May 2012,Cuba,FY 2012,35,Baptist,5,352
+From: 24 May 2012,To: 24 May 2012,Cuba,FY 2012,35,Catholic,12,352
+From: 24 May 2012,To: 24 May 2012,Cuba,FY 2012,35,Jehovah Witness,5,352
+From: 24 May 2012,To: 24 May 2012,Cuba,FY 2012,35,No Religion,9,352
+From: 24 May 2012,To: 24 May 2012,Cuba,FY 2012,35,Pentecostalist,1,352
+From: 24 May 2012,To: 24 May 2012,Cuba,FY 2012,35,Seventh Day Adventist,3,352
+From: 24 May 2012,To: 24 May 2012,Eritrea,FY 2012,7,Moslem,1,352
+From: 24 May 2012,To: 24 May 2012,Eritrea,FY 2012,7,Orthodox,6,352
+From: 24 May 2012,To: 24 May 2012,Ethiopia,FY 2012,11,Moslem,9,352
+From: 24 May 2012,To: 24 May 2012,Ethiopia,FY 2012,11,Orthodox,2,352
+From: 24 May 2012,To: 24 May 2012,Iran,FY 2012,3,Sabeans-Mandean,3,352
+From: 24 May 2012,To: 24 May 2012,Iraq,FY 2012,51,Catholic,20,352
+From: 24 May 2012,To: 24 May 2012,Iraq,FY 2012,51,Chaldean,2,352
+From: 24 May 2012,To: 24 May 2012,Iraq,FY 2012,51,Christian,10,352
+From: 24 May 2012,To: 24 May 2012,Iraq,FY 2012,51,Moslem Shiite,9,352
+From: 24 May 2012,To: 24 May 2012,Iraq,FY 2012,51,Moslem Suni,4,352
+From: 24 May 2012,To: 24 May 2012,Iraq,FY 2012,51,Orthodox,6,352
+From: 24 May 2012,To: 24 May 2012,Palestine,FY 2012,3,Moslem Suni,3,352
+From: 24 May 2012,To: 24 May 2012,Rwanda,FY 2012,1,Catholic,1,352
+From: 24 May 2012,To: 24 May 2012,Somalia,FY 2012,38,Moslem,38,352
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 May 2012,To: 24 May 2012,Baptist,FY 2012,15,Burma,10,352
+From: 24 May 2012,To: 24 May 2012,Baptist,FY 2012,15,Cuba,5,352
+From: 24 May 2012,To: 24 May 2012,Buddhist,FY 2012,48,Bhutan,30,352
+From: 24 May 2012,To: 24 May 2012,Buddhist,FY 2012,48,Burma,18,352
+From: 24 May 2012,To: 24 May 2012,Catholic,FY 2012,37,Central African Republic,4,352
+From: 24 May 2012,To: 24 May 2012,Catholic,FY 2012,37,Cuba,12,352
+From: 24 May 2012,To: 24 May 2012,Catholic,FY 2012,37,Iraq,20,352
+From: 24 May 2012,To: 24 May 2012,Catholic,FY 2012,37,Rwanda,1,352
+From: 24 May 2012,To: 24 May 2012,Chaldean,FY 2012,2,Iraq,2,352
+From: 24 May 2012,To: 24 May 2012,Christian,FY 2012,76,Burma,66,352
+From: 24 May 2012,To: 24 May 2012,Christian,FY 2012,76,Iraq,10,352
+From: 24 May 2012,To: 24 May 2012,Hindu,FY 2012,58,Bhutan,58,352
+From: 24 May 2012,To: 24 May 2012,Jehovah Witness,FY 2012,5,Cuba,5,352
+From: 24 May 2012,To: 24 May 2012,Kirat,FY 2012,9,Bhutan,9,352
+From: 24 May 2012,To: 24 May 2012,Moslem,FY 2012,51,Burma,3,352
+From: 24 May 2012,To: 24 May 2012,Moslem,FY 2012,51,Eritrea,1,352
+From: 24 May 2012,To: 24 May 2012,Moslem,FY 2012,51,Ethiopia,9,352
+From: 24 May 2012,To: 24 May 2012,Moslem,FY 2012,51,Somalia,38,352
+From: 24 May 2012,To: 24 May 2012,Moslem Shiite,FY 2012,14,Afghanistan,5,352
+From: 24 May 2012,To: 24 May 2012,Moslem Shiite,FY 2012,14,Iraq,9,352
+From: 24 May 2012,To: 24 May 2012,Moslem Suni,FY 2012,7,Iraq,4,352
+From: 24 May 2012,To: 24 May 2012,Moslem Suni,FY 2012,7,Palestine,3,352
+From: 24 May 2012,To: 24 May 2012,No Religion,FY 2012,9,Cuba,9,352
+From: 24 May 2012,To: 24 May 2012,Orthodox,FY 2012,14,Eritrea,6,352
+From: 24 May 2012,To: 24 May 2012,Orthodox,FY 2012,14,Ethiopia,2,352
+From: 24 May 2012,To: 24 May 2012,Orthodox,FY 2012,14,Iraq,6,352
+From: 24 May 2012,To: 24 May 2012,Pentecostalist,FY 2012,1,Cuba,1,352
+From: 24 May 2012,To: 24 May 2012,Sabeans-Mandean,FY 2012,3,Iran,3,352
+From: 24 May 2012,To: 24 May 2012,Seventh Day Adventist,FY 2012,3,Cuba,3,352
+

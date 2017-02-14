@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jun 2008,To: 30 Jun 2008,Bhutan,FY 2008,28,Buddhist,7,281
+From: 30 Jun 2008,To: 30 Jun 2008,Bhutan,FY 2008,28,Christian,4,281
+From: 30 Jun 2008,To: 30 Jun 2008,Bhutan,FY 2008,28,Hindu,17,281
+From: 30 Jun 2008,To: 30 Jun 2008,Burma,FY 2008,154,Buddhist,23,281
+From: 30 Jun 2008,To: 30 Jun 2008,Burma,FY 2008,154,Christian,108,281
+From: 30 Jun 2008,To: 30 Jun 2008,Burma,FY 2008,154,Moslem,23,281
+From: 30 Jun 2008,To: 30 Jun 2008,Ethiopia,FY 2008,4,Orthodox,3,281
+From: 30 Jun 2008,To: 30 Jun 2008,Ethiopia,FY 2008,4,Protestant,1,281
+From: 30 Jun 2008,To: 30 Jun 2008,Iraq,FY 2008,82,Christian,28,281
+From: 30 Jun 2008,To: 30 Jun 2008,Iraq,FY 2008,82,Moslem Shiite,26,281
+From: 30 Jun 2008,To: 30 Jun 2008,Iraq,FY 2008,82,Moslem Suni,26,281
+From: 30 Jun 2008,To: 30 Jun 2008,Iraq,FY 2008,82,Sabeans-Mandean,2,281
+From: 30 Jun 2008,To: 30 Jun 2008,Pakistan,FY 2008,3,Other Religion,3,281
+From: 30 Jun 2008,To: 30 Jun 2008,Russia,FY 2008,10,Baptist,7,281
+From: 30 Jun 2008,To: 30 Jun 2008,Russia,FY 2008,10,Jewish,1,281
+From: 30 Jun 2008,To: 30 Jun 2008,Russia,FY 2008,10,Seventh Day Adventist,2,281
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jun 2008,To: 30 Jun 2008,Baptist,FY 2008,7,Russia,7,281
+From: 30 Jun 2008,To: 30 Jun 2008,Buddhist,FY 2008,30,Bhutan,7,281
+From: 30 Jun 2008,To: 30 Jun 2008,Buddhist,FY 2008,30,Burma,23,281
+From: 30 Jun 2008,To: 30 Jun 2008,Christian,FY 2008,140,Bhutan,4,281
+From: 30 Jun 2008,To: 30 Jun 2008,Christian,FY 2008,140,Burma,108,281
+From: 30 Jun 2008,To: 30 Jun 2008,Christian,FY 2008,140,Iraq,28,281
+From: 30 Jun 2008,To: 30 Jun 2008,Hindu,FY 2008,17,Bhutan,17,281
+From: 30 Jun 2008,To: 30 Jun 2008,Jewish,FY 2008,1,Russia,1,281
+From: 30 Jun 2008,To: 30 Jun 2008,Moslem,FY 2008,23,Burma,23,281
+From: 30 Jun 2008,To: 30 Jun 2008,Moslem Shiite,FY 2008,26,Iraq,26,281
+From: 30 Jun 2008,To: 30 Jun 2008,Moslem Suni,FY 2008,26,Iraq,26,281
+From: 30 Jun 2008,To: 30 Jun 2008,Orthodox,FY 2008,3,Ethiopia,3,281
+From: 30 Jun 2008,To: 30 Jun 2008,Other Religion,FY 2008,3,Pakistan,3,281
+From: 30 Jun 2008,To: 30 Jun 2008,Protestant,FY 2008,1,Ethiopia,1,281
+From: 30 Jun 2008,To: 30 Jun 2008,Sabeans-Mandean,FY 2008,2,Iraq,2,281
+From: 30 Jun 2008,To: 30 Jun 2008,Seventh Day Adventist,FY 2008,2,Russia,2,281
+

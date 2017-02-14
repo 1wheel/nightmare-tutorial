@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jan 2009,To: 13 Jan 2009,Bhutan,FY 2009,56,Buddhist,3,524
+From: 13 Jan 2009,To: 13 Jan 2009,Bhutan,FY 2009,56,Christian,7,524
+From: 13 Jan 2009,To: 13 Jan 2009,Bhutan,FY 2009,56,Hindu,45,524
+From: 13 Jan 2009,To: 13 Jan 2009,Bhutan,FY 2009,56,Kirat,1,524
+From: 13 Jan 2009,To: 13 Jan 2009,Burma,FY 2009,112,Buddhist,25,524
+From: 13 Jan 2009,To: 13 Jan 2009,Burma,FY 2009,112,Christian,67,524
+From: 13 Jan 2009,To: 13 Jan 2009,Burma,FY 2009,112,Moslem,20,524
+From: 13 Jan 2009,To: 13 Jan 2009,Cuba,FY 2009,69,Catholic,16,524
+From: 13 Jan 2009,To: 13 Jan 2009,Cuba,FY 2009,69,Evangelical Christian,4,524
+From: 13 Jan 2009,To: 13 Jan 2009,Cuba,FY 2009,69,Jehovah Witness,31,524
+From: 13 Jan 2009,To: 13 Jan 2009,Cuba,FY 2009,69,No Religion,17,524
+From: 13 Jan 2009,To: 13 Jan 2009,Cuba,FY 2009,69,Pentecostalist,1,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iran,FY 2009,72,Bahai,2,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iran,FY 2009,72,Christian,66,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iran,FY 2009,72,Jewish,2,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iran,FY 2009,72,Sabeans-Mandean,2,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iraq,FY 2009,116,Catholic,4,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iraq,FY 2009,116,Christian,44,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iraq,FY 2009,116,Moslem,5,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iraq,FY 2009,116,Moslem Shiite,16,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iraq,FY 2009,116,Moslem Suni,42,524
+From: 13 Jan 2009,To: 13 Jan 2009,Iraq,FY 2009,116,Sabeans-Mandean,5,524
+From: 13 Jan 2009,To: 13 Jan 2009,Somalia,FY 2009,37,Moslem,37,524
+From: 13 Jan 2009,To: 13 Jan 2009,Vietnam,FY 2009,62,Ancestral Worship,3,524
+From: 13 Jan 2009,To: 13 Jan 2009,Vietnam,FY 2009,62,Buddhist,24,524
+From: 13 Jan 2009,To: 13 Jan 2009,Vietnam,FY 2009,62,Cao Dai,7,524
+From: 13 Jan 2009,To: 13 Jan 2009,Vietnam,FY 2009,62,Catholic,13,524
+From: 13 Jan 2009,To: 13 Jan 2009,Vietnam,FY 2009,62,No Religion,5,524
+From: 13 Jan 2009,To: 13 Jan 2009,Vietnam,FY 2009,62,Protestant,10,524
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jan 2009,To: 13 Jan 2009,Ancestral Worship,FY 2009,3,Vietnam,3,524
+From: 13 Jan 2009,To: 13 Jan 2009,Bahai,FY 2009,2,Iran,2,524
+From: 13 Jan 2009,To: 13 Jan 2009,Buddhist,FY 2009,52,Bhutan,3,524
+From: 13 Jan 2009,To: 13 Jan 2009,Buddhist,FY 2009,52,Burma,25,524
+From: 13 Jan 2009,To: 13 Jan 2009,Buddhist,FY 2009,52,Vietnam,24,524
+From: 13 Jan 2009,To: 13 Jan 2009,Cao Dai,FY 2009,7,Vietnam,7,524
+From: 13 Jan 2009,To: 13 Jan 2009,Catholic,FY 2009,33,Cuba,16,524
+From: 13 Jan 2009,To: 13 Jan 2009,Catholic,FY 2009,33,Iraq,4,524
+From: 13 Jan 2009,To: 13 Jan 2009,Catholic,FY 2009,33,Vietnam,13,524
+From: 13 Jan 2009,To: 13 Jan 2009,Christian,FY 2009,184,Bhutan,7,524
+From: 13 Jan 2009,To: 13 Jan 2009,Christian,FY 2009,184,Burma,67,524
+From: 13 Jan 2009,To: 13 Jan 2009,Christian,FY 2009,184,Iran,66,524
+From: 13 Jan 2009,To: 13 Jan 2009,Christian,FY 2009,184,Iraq,44,524
+From: 13 Jan 2009,To: 13 Jan 2009,Evangelical Christian,FY 2009,4,Cuba,4,524
+From: 13 Jan 2009,To: 13 Jan 2009,Hindu,FY 2009,45,Bhutan,45,524
+From: 13 Jan 2009,To: 13 Jan 2009,Jehovah Witness,FY 2009,31,Cuba,31,524
+From: 13 Jan 2009,To: 13 Jan 2009,Jewish,FY 2009,2,Iran,2,524
+From: 13 Jan 2009,To: 13 Jan 2009,Kirat,FY 2009,1,Bhutan,1,524
+From: 13 Jan 2009,To: 13 Jan 2009,Moslem,FY 2009,62,Burma,20,524
+From: 13 Jan 2009,To: 13 Jan 2009,Moslem,FY 2009,62,Iraq,5,524
+From: 13 Jan 2009,To: 13 Jan 2009,Moslem,FY 2009,62,Somalia,37,524
+From: 13 Jan 2009,To: 13 Jan 2009,Moslem Shiite,FY 2009,16,Iraq,16,524
+From: 13 Jan 2009,To: 13 Jan 2009,Moslem Suni,FY 2009,42,Iraq,42,524
+From: 13 Jan 2009,To: 13 Jan 2009,No Religion,FY 2009,22,Cuba,17,524
+From: 13 Jan 2009,To: 13 Jan 2009,No Religion,FY 2009,22,Vietnam,5,524
+From: 13 Jan 2009,To: 13 Jan 2009,Pentecostalist,FY 2009,1,Cuba,1,524
+From: 13 Jan 2009,To: 13 Jan 2009,Protestant,FY 2009,10,Vietnam,10,524
+From: 13 Jan 2009,To: 13 Jan 2009,Sabeans-Mandean,FY 2009,7,Iran,2,524
+From: 13 Jan 2009,To: 13 Jan 2009,Sabeans-Mandean,FY 2009,7,Iraq,5,524
+

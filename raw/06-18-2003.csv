@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jun 2003,To: 18 Jun 2003,Burma,FY 2003,10,Baptist,7,182
+From: 18 Jun 2003,To: 18 Jun 2003,Burma,FY 2003,10,Buddhist,3,182
+From: 18 Jun 2003,To: 18 Jun 2003,Eritrea,FY 2003,2,Orthodox,2,182
+From: 18 Jun 2003,To: 18 Jun 2003,Ethiopia,FY 2003,51,Christian,10,182
+From: 18 Jun 2003,To: 18 Jun 2003,Ethiopia,FY 2003,51,Moslem,24,182
+From: 18 Jun 2003,To: 18 Jun 2003,Ethiopia,FY 2003,51,Orthodox,17,182
+From: 18 Jun 2003,To: 18 Jun 2003,Iran,FY 2003,10,Bahai,7,182
+From: 18 Jun 2003,To: 18 Jun 2003,Iran,FY 2003,10,Zoroastrian,3,182
+From: 18 Jun 2003,To: 18 Jun 2003,Liberia,FY 2003,62,Christian,45,182
+From: 18 Jun 2003,To: 18 Jun 2003,Liberia,FY 2003,62,Methodist,8,182
+From: 18 Jun 2003,To: 18 Jun 2003,Liberia,FY 2003,62,Pentecostalist,9,182
+From: 18 Jun 2003,To: 18 Jun 2003,Sierra Leone,FY 2003,2,Christian,2,182
+From: 18 Jun 2003,To: 18 Jun 2003,Somalia,FY 2003,10,Moslem,10,182
+From: 18 Jun 2003,To: 18 Jun 2003,Sudan,FY 2003,27,Catholic,14,182
+From: 18 Jun 2003,To: 18 Jun 2003,Sudan,FY 2003,27,Evangelical Christian,1,182
+From: 18 Jun 2003,To: 18 Jun 2003,Sudan,FY 2003,27,Moslem,9,182
+From: 18 Jun 2003,To: 18 Jun 2003,Sudan,FY 2003,27,Protestant,3,182
+From: 18 Jun 2003,To: 18 Jun 2003,Thailand,FY 2003,2,Buddhist,2,182
+From: 18 Jun 2003,To: 18 Jun 2003,Togo,FY 2003,6,Pentecostalist,6,182
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jun 2003,To: 18 Jun 2003,Bahai,FY 2003,7,Iran,7,182
+From: 18 Jun 2003,To: 18 Jun 2003,Baptist,FY 2003,7,Burma,7,182
+From: 18 Jun 2003,To: 18 Jun 2003,Buddhist,FY 2003,5,Burma,3,182
+From: 18 Jun 2003,To: 18 Jun 2003,Buddhist,FY 2003,5,Thailand,2,182
+From: 18 Jun 2003,To: 18 Jun 2003,Catholic,FY 2003,14,Sudan,14,182
+From: 18 Jun 2003,To: 18 Jun 2003,Christian,FY 2003,57,Ethiopia,10,182
+From: 18 Jun 2003,To: 18 Jun 2003,Christian,FY 2003,57,Liberia,45,182
+From: 18 Jun 2003,To: 18 Jun 2003,Christian,FY 2003,57,Sierra Leone,2,182
+From: 18 Jun 2003,To: 18 Jun 2003,Evangelical Christian,FY 2003,1,Sudan,1,182
+From: 18 Jun 2003,To: 18 Jun 2003,Methodist,FY 2003,8,Liberia,8,182
+From: 18 Jun 2003,To: 18 Jun 2003,Moslem,FY 2003,43,Ethiopia,24,182
+From: 18 Jun 2003,To: 18 Jun 2003,Moslem,FY 2003,43,Somalia,10,182
+From: 18 Jun 2003,To: 18 Jun 2003,Moslem,FY 2003,43,Sudan,9,182
+From: 18 Jun 2003,To: 18 Jun 2003,Orthodox,FY 2003,19,Eritrea,2,182
+From: 18 Jun 2003,To: 18 Jun 2003,Orthodox,FY 2003,19,Ethiopia,17,182
+From: 18 Jun 2003,To: 18 Jun 2003,Pentecostalist,FY 2003,15,Liberia,9,182
+From: 18 Jun 2003,To: 18 Jun 2003,Pentecostalist,FY 2003,15,Togo,6,182
+From: 18 Jun 2003,To: 18 Jun 2003,Protestant,FY 2003,3,Sudan,3,182
+From: 18 Jun 2003,To: 18 Jun 2003,Zoroastrian,FY 2003,3,Iran,3,182
+

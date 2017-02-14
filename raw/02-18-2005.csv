@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Feb 2005,To: 18 Feb 2005,Cuba,FY 2005,34,Catholic,17,113
+From: 18 Feb 2005,To: 18 Feb 2005,Cuba,FY 2005,34,Evangelical Christian,2,113
+From: 18 Feb 2005,To: 18 Feb 2005,Cuba,FY 2005,34,Jehovah Witness,10,113
+From: 18 Feb 2005,To: 18 Feb 2005,Cuba,FY 2005,34,No Religion,5,113
+From: 18 Feb 2005,To: 18 Feb 2005,Russia,FY 2005,26,Moslem,26,113
+From: 18 Feb 2005,To: 18 Feb 2005,Somalia,FY 2005,1,Moslem,1,113
+From: 18 Feb 2005,To: 18 Feb 2005,Sudan,FY 2005,34,Catholic,17,113
+From: 18 Feb 2005,To: 18 Feb 2005,Sudan,FY 2005,34,Moslem,11,113
+From: 18 Feb 2005,To: 18 Feb 2005,Sudan,FY 2005,34,Protestant,6,113
+From: 18 Feb 2005,To: 18 Feb 2005,Vietnam,FY 2005,18,Other Religion,1,113
+From: 18 Feb 2005,To: 18 Feb 2005,Vietnam,FY 2005,18,Protestant,17,113
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Feb 2005,To: 18 Feb 2005,Catholic,FY 2005,34,Cuba,17,113
+From: 18 Feb 2005,To: 18 Feb 2005,Catholic,FY 2005,34,Sudan,17,113
+From: 18 Feb 2005,To: 18 Feb 2005,Evangelical Christian,FY 2005,2,Cuba,2,113
+From: 18 Feb 2005,To: 18 Feb 2005,Jehovah Witness,FY 2005,10,Cuba,10,113
+From: 18 Feb 2005,To: 18 Feb 2005,Moslem,FY 2005,38,Russia,26,113
+From: 18 Feb 2005,To: 18 Feb 2005,Moslem,FY 2005,38,Somalia,1,113
+From: 18 Feb 2005,To: 18 Feb 2005,Moslem,FY 2005,38,Sudan,11,113
+From: 18 Feb 2005,To: 18 Feb 2005,No Religion,FY 2005,5,Cuba,5,113
+From: 18 Feb 2005,To: 18 Feb 2005,Other Religion,FY 2005,1,Vietnam,1,113
+From: 18 Feb 2005,To: 18 Feb 2005,Protestant,FY 2005,23,Sudan,6,113
+From: 18 Feb 2005,To: 18 Feb 2005,Protestant,FY 2005,23,Vietnam,17,113
+

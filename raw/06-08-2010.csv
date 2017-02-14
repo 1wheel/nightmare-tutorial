@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jun 2010,To: 08 Jun 2010,Afghanistan,FY 2010,4,Moslem Suni,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Bhutan,FY 2010,108,Buddhist,5,640
+From: 08 Jun 2010,To: 08 Jun 2010,Bhutan,FY 2010,108,Christian,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Bhutan,FY 2010,108,Hindu,88,640
+From: 08 Jun 2010,To: 08 Jun 2010,Bhutan,FY 2010,108,Kirat,11,640
+From: 08 Jun 2010,To: 08 Jun 2010,Burma,FY 2010,174,Animist,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Burma,FY 2010,174,Baptist,6,640
+From: 08 Jun 2010,To: 08 Jun 2010,Burma,FY 2010,174,Buddhist,21,640
+From: 08 Jun 2010,To: 08 Jun 2010,Burma,FY 2010,174,Catholic,11,640
+From: 08 Jun 2010,To: 08 Jun 2010,Burma,FY 2010,174,Christian,135,640
+From: 08 Jun 2010,To: 08 Jun 2010,Dem. Rep. Congo,FY 2010,4,Protestant,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Eritrea,FY 2010,45,Christian,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Eritrea,FY 2010,45,Moslem,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Eritrea,FY 2010,45,Orthodox,38,640
+From: 08 Jun 2010,To: 08 Jun 2010,Eritrea,FY 2010,45,Pentecostalist,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Eritrea,FY 2010,45,Protestant,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Ethiopia,FY 2010,9,Moslem,5,640
+From: 08 Jun 2010,To: 08 Jun 2010,Ethiopia,FY 2010,9,Orthodox,2,640
+From: 08 Jun 2010,To: 08 Jun 2010,Ethiopia,FY 2010,9,Pentecostalist,2,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iran,FY 2010,83,Bahai,6,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iran,FY 2010,83,Christian,57,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iran,FY 2010,83,Sabeans-Mandean,11,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iran,FY 2010,83,Zoroastrian,9,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iraq,FY 2010,191,Catholic,12,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iraq,FY 2010,191,Christian,29,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iraq,FY 2010,191,Moslem Shiite,92,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iraq,FY 2010,191,Moslem Suni,56,640
+From: 08 Jun 2010,To: 08 Jun 2010,Iraq,FY 2010,191,Sabeans-Mandean,2,640
+From: 08 Jun 2010,To: 08 Jun 2010,Somalia,FY 2010,17,Moslem,17,640
+From: 08 Jun 2010,To: 08 Jun 2010,Sri Lanka (Ceylon),FY 2010,3,Hindu,3,640
+From: 08 Jun 2010,To: 08 Jun 2010,Sudan,FY 2010,1,Moslem,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Yemen,FY 2010,1,No Religion,1,640
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jun 2010,To: 08 Jun 2010,Animist,FY 2010,1,Burma,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Bahai,FY 2010,6,Iran,6,640
+From: 08 Jun 2010,To: 08 Jun 2010,Baptist,FY 2010,6,Burma,6,640
+From: 08 Jun 2010,To: 08 Jun 2010,Buddhist,FY 2010,26,Bhutan,5,640
+From: 08 Jun 2010,To: 08 Jun 2010,Buddhist,FY 2010,26,Burma,21,640
+From: 08 Jun 2010,To: 08 Jun 2010,Catholic,FY 2010,23,Burma,11,640
+From: 08 Jun 2010,To: 08 Jun 2010,Catholic,FY 2010,23,Iraq,12,640
+From: 08 Jun 2010,To: 08 Jun 2010,Christian,FY 2010,226,Bhutan,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Christian,FY 2010,226,Burma,135,640
+From: 08 Jun 2010,To: 08 Jun 2010,Christian,FY 2010,226,Eritrea,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Christian,FY 2010,226,Iran,57,640
+From: 08 Jun 2010,To: 08 Jun 2010,Christian,FY 2010,226,Iraq,29,640
+From: 08 Jun 2010,To: 08 Jun 2010,Hindu,FY 2010,91,Bhutan,88,640
+From: 08 Jun 2010,To: 08 Jun 2010,Hindu,FY 2010,91,Sri Lanka (Ceylon),3,640
+From: 08 Jun 2010,To: 08 Jun 2010,Kirat,FY 2010,11,Bhutan,11,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem,FY 2010,27,Eritrea,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem,FY 2010,27,Ethiopia,5,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem,FY 2010,27,Somalia,17,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem,FY 2010,27,Sudan,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem Shiite,FY 2010,92,Iraq,92,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem Suni,FY 2010,60,Afghanistan,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Moslem Suni,FY 2010,60,Iraq,56,640
+From: 08 Jun 2010,To: 08 Jun 2010,No Religion,FY 2010,1,Yemen,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Orthodox,FY 2010,40,Eritrea,38,640
+From: 08 Jun 2010,To: 08 Jun 2010,Orthodox,FY 2010,40,Ethiopia,2,640
+From: 08 Jun 2010,To: 08 Jun 2010,Pentecostalist,FY 2010,3,Eritrea,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Pentecostalist,FY 2010,3,Ethiopia,2,640
+From: 08 Jun 2010,To: 08 Jun 2010,Protestant,FY 2010,5,Dem. Rep. Congo,4,640
+From: 08 Jun 2010,To: 08 Jun 2010,Protestant,FY 2010,5,Eritrea,1,640
+From: 08 Jun 2010,To: 08 Jun 2010,Sabeans-Mandean,FY 2010,13,Iran,11,640
+From: 08 Jun 2010,To: 08 Jun 2010,Sabeans-Mandean,FY 2010,13,Iraq,2,640
+From: 08 Jun 2010,To: 08 Jun 2010,Zoroastrian,FY 2010,9,Iran,9,640
+

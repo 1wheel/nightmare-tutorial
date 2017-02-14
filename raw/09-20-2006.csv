@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Sep 2006,To: 20 Sep 2006,Afghanistan,FY 2006,11,Moslem,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Afghanistan,FY 2006,11,Moslem Ismaici,8,294
+From: 20 Sep 2006,To: 20 Sep 2006,Afghanistan,FY 2006,11,Moslem Suni,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Azerbaijan,FY 2006,7,Christian,7,294
+From: 20 Sep 2006,To: 20 Sep 2006,Burma,FY 2006,66,Buddhist,8,294
+From: 20 Sep 2006,To: 20 Sep 2006,Burma,FY 2006,66,Christian,52,294
+From: 20 Sep 2006,To: 20 Sep 2006,Burma,FY 2006,66,Moslem,6,294
+From: 20 Sep 2006,To: 20 Sep 2006,Burundi,FY 2006,22,Catholic,18,294
+From: 20 Sep 2006,To: 20 Sep 2006,Burundi,FY 2006,22,Pentecostalist,4,294
+From: 20 Sep 2006,To: 20 Sep 2006,Cambodia,FY 2006,7,Buddhist,7,294
+From: 20 Sep 2006,To: 20 Sep 2006,Congo,FY 2006,8,Christian,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Congo,FY 2006,8,Protestant,6,294
+From: 20 Sep 2006,To: 20 Sep 2006,Dem. Rep. Congo,FY 2006,16,Catholic,9,294
+From: 20 Sep 2006,To: 20 Sep 2006,Dem. Rep. Congo,FY 2006,16,Christian,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Dem. Rep. Congo,FY 2006,16,Methodist,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Dem. Rep. Congo,FY 2006,16,Protestant,5,294
+From: 20 Sep 2006,To: 20 Sep 2006,Ethiopia,FY 2006,3,Christian,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Ethiopia,FY 2006,3,Moslem,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Iraq,FY 2006,1,Moslem Suni,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Russia,FY 2006,19,Baptist,3,294
+From: 20 Sep 2006,To: 20 Sep 2006,Russia,FY 2006,19,Jewish,4,294
+From: 20 Sep 2006,To: 20 Sep 2006,Russia,FY 2006,19,Moslem,10,294
+From: 20 Sep 2006,To: 20 Sep 2006,Russia,FY 2006,19,No Religion,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Somalia,FY 2006,80,Moslem,80,294
+From: 20 Sep 2006,To: 20 Sep 2006,Sri Lanka (Ceylon),FY 2006,3,Hindu,3,294
+From: 20 Sep 2006,To: 20 Sep 2006,Sudan,FY 2006,1,Christian,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Uzbekistan,FY 2006,15,Baptist,5,294
+From: 20 Sep 2006,To: 20 Sep 2006,Uzbekistan,FY 2006,15,Jewish,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Uzbekistan,FY 2006,15,Moslem,7,294
+From: 20 Sep 2006,To: 20 Sep 2006,Uzbekistan,FY 2006,15,No Religion,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Vietnam,FY 2006,35,Ancestral Worship,10,294
+From: 20 Sep 2006,To: 20 Sep 2006,Vietnam,FY 2006,35,Buddhist,15,294
+From: 20 Sep 2006,To: 20 Sep 2006,Vietnam,FY 2006,35,Catholic,4,294
+From: 20 Sep 2006,To: 20 Sep 2006,Vietnam,FY 2006,35,No Religion,6,294
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Sep 2006,To: 20 Sep 2006,Ancestral Worship,FY 2006,10,Vietnam,10,294
+From: 20 Sep 2006,To: 20 Sep 2006,Baptist,FY 2006,8,Russia,3,294
+From: 20 Sep 2006,To: 20 Sep 2006,Baptist,FY 2006,8,Uzbekistan,5,294
+From: 20 Sep 2006,To: 20 Sep 2006,Buddhist,FY 2006,30,Burma,8,294
+From: 20 Sep 2006,To: 20 Sep 2006,Buddhist,FY 2006,30,Cambodia,7,294
+From: 20 Sep 2006,To: 20 Sep 2006,Buddhist,FY 2006,30,Vietnam,15,294
+From: 20 Sep 2006,To: 20 Sep 2006,Catholic,FY 2006,31,Burundi,18,294
+From: 20 Sep 2006,To: 20 Sep 2006,Catholic,FY 2006,31,Dem. Rep. Congo,9,294
+From: 20 Sep 2006,To: 20 Sep 2006,Catholic,FY 2006,31,Vietnam,4,294
+From: 20 Sep 2006,To: 20 Sep 2006,Christian,FY 2006,65,Azerbaijan,7,294
+From: 20 Sep 2006,To: 20 Sep 2006,Christian,FY 2006,65,Burma,52,294
+From: 20 Sep 2006,To: 20 Sep 2006,Christian,FY 2006,65,Congo,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Christian,FY 2006,65,Dem. Rep. Congo,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Christian,FY 2006,65,Ethiopia,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Christian,FY 2006,65,Sudan,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Hindu,FY 2006,3,Sri Lanka (Ceylon),3,294
+From: 20 Sep 2006,To: 20 Sep 2006,Jewish,FY 2006,6,Russia,4,294
+From: 20 Sep 2006,To: 20 Sep 2006,Jewish,FY 2006,6,Uzbekistan,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Methodist,FY 2006,1,Dem. Rep. Congo,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem,FY 2006,105,Afghanistan,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem,FY 2006,105,Burma,6,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem,FY 2006,105,Ethiopia,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem,FY 2006,105,Russia,10,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem,FY 2006,105,Somalia,80,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem,FY 2006,105,Uzbekistan,7,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem Ismaici,FY 2006,8,Afghanistan,8,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem Suni,FY 2006,3,Afghanistan,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,Moslem Suni,FY 2006,3,Iraq,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,No Religion,FY 2006,9,Russia,2,294
+From: 20 Sep 2006,To: 20 Sep 2006,No Religion,FY 2006,9,Uzbekistan,1,294
+From: 20 Sep 2006,To: 20 Sep 2006,No Religion,FY 2006,9,Vietnam,6,294
+From: 20 Sep 2006,To: 20 Sep 2006,Pentecostalist,FY 2006,4,Burundi,4,294
+From: 20 Sep 2006,To: 20 Sep 2006,Protestant,FY 2006,11,Congo,6,294
+From: 20 Sep 2006,To: 20 Sep 2006,Protestant,FY 2006,11,Dem. Rep. Congo,5,294
+

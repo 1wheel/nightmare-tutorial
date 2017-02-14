@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jul 2006,To: 05 Jul 2006,Afghanistan,FY 2006,25,Moslem Suni,25,227
+From: 05 Jul 2006,To: 05 Jul 2006,Belarus,FY 2006,15,Baptist,10,227
+From: 05 Jul 2006,To: 05 Jul 2006,Belarus,FY 2006,15,Pentecostalist,5,227
+From: 05 Jul 2006,To: 05 Jul 2006,Burma,FY 2006,26,Buddhist,8,227
+From: 05 Jul 2006,To: 05 Jul 2006,Burma,FY 2006,26,Christian,10,227
+From: 05 Jul 2006,To: 05 Jul 2006,Burma,FY 2006,26,Protestant,8,227
+From: 05 Jul 2006,To: 05 Jul 2006,Burundi,FY 2006,1,Catholic,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Dem. Rep. Congo,FY 2006,1,Catholic,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Ethiopia,FY 2006,1,Christian,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Iran,FY 2006,41,Bahai,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Iran,FY 2006,41,Catholic,2,227
+From: 05 Jul 2006,To: 05 Jul 2006,Iran,FY 2006,41,Christian,33,227
+From: 05 Jul 2006,To: 05 Jul 2006,Iran,FY 2006,41,Jewish,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Iran,FY 2006,41,Sabeans-Mandean,4,227
+From: 05 Jul 2006,To: 05 Jul 2006,Laos,FY 2006,6,Ancestral Worship,6,227
+From: 05 Jul 2006,To: 05 Jul 2006,Russia,FY 2006,46,Baptist,10,227
+From: 05 Jul 2006,To: 05 Jul 2006,Russia,FY 2006,46,Christian,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Russia,FY 2006,46,Jewish,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Russia,FY 2006,46,Moslem,34,227
+From: 05 Jul 2006,To: 05 Jul 2006,Somalia,FY 2006,62,Moslem,62,227
+From: 05 Jul 2006,To: 05 Jul 2006,Sudan,FY 2006,3,Christian,3,227
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jul 2006,To: 05 Jul 2006,Ancestral Worship,FY 2006,6,Laos,6,227
+From: 05 Jul 2006,To: 05 Jul 2006,Bahai,FY 2006,1,Iran,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Baptist,FY 2006,20,Belarus,10,227
+From: 05 Jul 2006,To: 05 Jul 2006,Baptist,FY 2006,20,Russia,10,227
+From: 05 Jul 2006,To: 05 Jul 2006,Buddhist,FY 2006,8,Burma,8,227
+From: 05 Jul 2006,To: 05 Jul 2006,Catholic,FY 2006,4,Burundi,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Catholic,FY 2006,4,Dem. Rep. Congo,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Catholic,FY 2006,4,Iran,2,227
+From: 05 Jul 2006,To: 05 Jul 2006,Christian,FY 2006,48,Burma,10,227
+From: 05 Jul 2006,To: 05 Jul 2006,Christian,FY 2006,48,Ethiopia,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Christian,FY 2006,48,Iran,33,227
+From: 05 Jul 2006,To: 05 Jul 2006,Christian,FY 2006,48,Russia,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Christian,FY 2006,48,Sudan,3,227
+From: 05 Jul 2006,To: 05 Jul 2006,Jewish,FY 2006,2,Iran,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Jewish,FY 2006,2,Russia,1,227
+From: 05 Jul 2006,To: 05 Jul 2006,Moslem,FY 2006,96,Russia,34,227
+From: 05 Jul 2006,To: 05 Jul 2006,Moslem,FY 2006,96,Somalia,62,227
+From: 05 Jul 2006,To: 05 Jul 2006,Moslem Suni,FY 2006,25,Afghanistan,25,227
+From: 05 Jul 2006,To: 05 Jul 2006,Pentecostalist,FY 2006,5,Belarus,5,227
+From: 05 Jul 2006,To: 05 Jul 2006,Protestant,FY 2006,8,Burma,8,227
+From: 05 Jul 2006,To: 05 Jul 2006,Sabeans-Mandean,FY 2006,4,Iran,4,227
+

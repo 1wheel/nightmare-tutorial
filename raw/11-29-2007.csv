@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Nov 2007,To: 29 Nov 2007,Burma,FY 2008,52,Buddhist,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Burma,FY 2008,52,Catholic,9,281
+From: 29 Nov 2007,To: 29 Nov 2007,Burma,FY 2008,52,Christian,31,281
+From: 29 Nov 2007,To: 29 Nov 2007,Burma,FY 2008,52,Moslem,11,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cameroon,FY 2008,2,Unknown,2,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cuba,FY 2008,69,Baptist,4,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cuba,FY 2008,69,Catholic,24,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cuba,FY 2008,69,Evangelical Christian,2,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cuba,FY 2008,69,Jehovah Witness,22,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cuba,FY 2008,69,No Religion,16,281
+From: 29 Nov 2007,To: 29 Nov 2007,Cuba,FY 2008,69,Seventh Day Adventist,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Dem. Rep. Congo,FY 2008,1,Unknown,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Ethiopia,FY 2008,2,Christian,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Ethiopia,FY 2008,2,Moslem,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iran,FY 2008,26,Christian,26,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iraq,FY 2008,36,Catholic,4,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iraq,FY 2008,36,Christian,5,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iraq,FY 2008,36,Moslem,2,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iraq,FY 2008,36,Moslem Shiite,8,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iraq,FY 2008,36,Moslem Suni,13,281
+From: 29 Nov 2007,To: 29 Nov 2007,Iraq,FY 2008,36,Orthodox,4,281
+From: 29 Nov 2007,To: 29 Nov 2007,Liberia,FY 2008,1,Unknown,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Nepal,FY 2008,1,Christian,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Pakistan,FY 2008,5,Moslem,5,281
+From: 29 Nov 2007,To: 29 Nov 2007,Serbia,FY 2008,1,Moslem,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Sierra Leone,FY 2008,1,Unknown,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Somalia,FY 2008,60,Moslem,60,281
+From: 29 Nov 2007,To: 29 Nov 2007,Sudan,FY 2008,1,Moslem,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Ukraine,FY 2008,23,Baptist,10,281
+From: 29 Nov 2007,To: 29 Nov 2007,Ukraine,FY 2008,23,Pentecostalist,12,281
+From: 29 Nov 2007,To: 29 Nov 2007,Ukraine,FY 2008,23,Seventh Day Adventist,1,281
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Nov 2007,To: 29 Nov 2007,Baptist,FY 2008,14,Cuba,4,281
+From: 29 Nov 2007,To: 29 Nov 2007,Baptist,FY 2008,14,Ukraine,10,281
+From: 29 Nov 2007,To: 29 Nov 2007,Buddhist,FY 2008,1,Burma,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Catholic,FY 2008,37,Burma,9,281
+From: 29 Nov 2007,To: 29 Nov 2007,Catholic,FY 2008,37,Cuba,24,281
+From: 29 Nov 2007,To: 29 Nov 2007,Catholic,FY 2008,37,Iraq,4,281
+From: 29 Nov 2007,To: 29 Nov 2007,Christian,FY 2008,64,Burma,31,281
+From: 29 Nov 2007,To: 29 Nov 2007,Christian,FY 2008,64,Ethiopia,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Christian,FY 2008,64,Iran,26,281
+From: 29 Nov 2007,To: 29 Nov 2007,Christian,FY 2008,64,Iraq,5,281
+From: 29 Nov 2007,To: 29 Nov 2007,Christian,FY 2008,64,Nepal,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Evangelical Christian,FY 2008,2,Cuba,2,281
+From: 29 Nov 2007,To: 29 Nov 2007,Jehovah Witness,FY 2008,22,Cuba,22,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Burma,11,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Ethiopia,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Iraq,2,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Pakistan,5,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Serbia,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Somalia,60,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem,FY 2008,81,Sudan,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem Shiite,FY 2008,8,Iraq,8,281
+From: 29 Nov 2007,To: 29 Nov 2007,Moslem Suni,FY 2008,13,Iraq,13,281
+From: 29 Nov 2007,To: 29 Nov 2007,No Religion,FY 2008,16,Cuba,16,281
+From: 29 Nov 2007,To: 29 Nov 2007,Orthodox,FY 2008,4,Iraq,4,281
+From: 29 Nov 2007,To: 29 Nov 2007,Pentecostalist,FY 2008,12,Ukraine,12,281
+From: 29 Nov 2007,To: 29 Nov 2007,Seventh Day Adventist,FY 2008,2,Cuba,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Seventh Day Adventist,FY 2008,2,Ukraine,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Unknown,FY 2008,5,Cameroon,2,281
+From: 29 Nov 2007,To: 29 Nov 2007,Unknown,FY 2008,5,Dem. Rep. Congo,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Unknown,FY 2008,5,Liberia,1,281
+From: 29 Nov 2007,To: 29 Nov 2007,Unknown,FY 2008,5,Sierra Leone,1,281
+

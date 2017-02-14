@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Feb 2010,To: 26 Feb 2010,Azerbaijan,FY 2010,1,Jewish,1,88
+From: 26 Feb 2010,To: 26 Feb 2010,Dem. Rep. Congo,FY 2010,4,Catholic,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Dem. Rep. Congo,FY 2010,4,Christian,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Eritrea,FY 2010,19,Orthodox,8,88
+From: 26 Feb 2010,To: 26 Feb 2010,Eritrea,FY 2010,19,Pentecostalist,8,88
+From: 26 Feb 2010,To: 26 Feb 2010,Eritrea,FY 2010,19,Protestant,3,88
+From: 26 Feb 2010,To: 26 Feb 2010,Ethiopia,FY 2010,24,Christian,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Ethiopia,FY 2010,24,Moslem,18,88
+From: 26 Feb 2010,To: 26 Feb 2010,Ethiopia,FY 2010,24,Orthodox,4,88
+From: 26 Feb 2010,To: 26 Feb 2010,Kazakhstan,FY 2010,14,Baptist,12,88
+From: 26 Feb 2010,To: 26 Feb 2010,Kazakhstan,FY 2010,14,Jewish,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Somalia,FY 2010,14,Moslem,12,88
+From: 26 Feb 2010,To: 26 Feb 2010,Somalia,FY 2010,14,Moslem Suni,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Sudan,FY 2010,3,Moslem,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Sudan,FY 2010,3,Moslem Suni,1,88
+From: 26 Feb 2010,To: 26 Feb 2010,Uganda,FY 2010,2,Pentecostalist,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Uzbekistan,FY 2010,7,Jewish,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Uzbekistan,FY 2010,7,Orthodox,5,88
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Feb 2010,To: 26 Feb 2010,Baptist,FY 2010,12,Kazakhstan,12,88
+From: 26 Feb 2010,To: 26 Feb 2010,Catholic,FY 2010,2,Dem. Rep. Congo,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Christian,FY 2010,4,Dem. Rep. Congo,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Christian,FY 2010,4,Ethiopia,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Jewish,FY 2010,5,Azerbaijan,1,88
+From: 26 Feb 2010,To: 26 Feb 2010,Jewish,FY 2010,5,Kazakhstan,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Jewish,FY 2010,5,Uzbekistan,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Moslem,FY 2010,32,Ethiopia,18,88
+From: 26 Feb 2010,To: 26 Feb 2010,Moslem,FY 2010,32,Somalia,12,88
+From: 26 Feb 2010,To: 26 Feb 2010,Moslem,FY 2010,32,Sudan,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Moslem Suni,FY 2010,3,Somalia,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Moslem Suni,FY 2010,3,Sudan,1,88
+From: 26 Feb 2010,To: 26 Feb 2010,Orthodox,FY 2010,17,Eritrea,8,88
+From: 26 Feb 2010,To: 26 Feb 2010,Orthodox,FY 2010,17,Ethiopia,4,88
+From: 26 Feb 2010,To: 26 Feb 2010,Orthodox,FY 2010,17,Uzbekistan,5,88
+From: 26 Feb 2010,To: 26 Feb 2010,Pentecostalist,FY 2010,10,Eritrea,8,88
+From: 26 Feb 2010,To: 26 Feb 2010,Pentecostalist,FY 2010,10,Uganda,2,88
+From: 26 Feb 2010,To: 26 Feb 2010,Protestant,FY 2010,3,Eritrea,3,88
+

@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,FY 2012,35,Buddhist,10,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,FY 2012,35,Christian,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,FY 2012,35,Hindu,18,283
+From: 18 Jan 2012,To: 18 Jan 2012,Bhutan,FY 2012,35,Kirat,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,FY 2012,128,Baptist,12,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,FY 2012,128,Buddhist,34,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,FY 2012,128,Christian,63,283
+From: 18 Jan 2012,To: 18 Jan 2012,Burma,FY 2012,128,Moslem,19,283
+From: 18 Jan 2012,To: 18 Jan 2012,Dem. Rep. Congo,FY 2012,4,Other Religion,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ethiopia,FY 2012,11,Moslem,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Ethiopia,FY 2012,11,Orthodox,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iran,FY 2012,6,Bahai,6,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,FY 2012,27,Catholic,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,FY 2012,27,Christian,15,283
+From: 18 Jan 2012,To: 18 Jan 2012,Iraq,FY 2012,27,Moslem Suni,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,FY 2012,27,Baptist,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,FY 2012,27,Pentecostalist,22,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moldova,FY 2012,27,Seventh Day Adventist,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Rwanda,FY 2012,4,Seventh Day Adventist,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Somalia,FY 2012,40,Moslem,40,283
+From: 18 Jan 2012,To: 18 Jan 2012,Sudan,FY 2012,1,Moslem Suni,1,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jan 2012,To: 18 Jan 2012,Bahai,FY 2012,6,Iran,6,283
+From: 18 Jan 2012,To: 18 Jan 2012,Baptist,FY 2012,15,Burma,12,283
+From: 18 Jan 2012,To: 18 Jan 2012,Baptist,FY 2012,15,Moldova,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Buddhist,FY 2012,44,Bhutan,10,283
+From: 18 Jan 2012,To: 18 Jan 2012,Buddhist,FY 2012,44,Burma,34,283
+From: 18 Jan 2012,To: 18 Jan 2012,Catholic,FY 2012,3,Iraq,3,283
+From: 18 Jan 2012,To: 18 Jan 2012,Christian,FY 2012,83,Bhutan,5,283
+From: 18 Jan 2012,To: 18 Jan 2012,Christian,FY 2012,83,Burma,63,283
+From: 18 Jan 2012,To: 18 Jan 2012,Christian,FY 2012,83,Iraq,15,283
+From: 18 Jan 2012,To: 18 Jan 2012,Hindu,FY 2012,18,Bhutan,18,283
+From: 18 Jan 2012,To: 18 Jan 2012,Kirat,FY 2012,2,Bhutan,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moslem,FY 2012,68,Burma,19,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moslem,FY 2012,68,Ethiopia,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moslem,FY 2012,68,Somalia,40,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moslem Suni,FY 2012,10,Iraq,9,283
+From: 18 Jan 2012,To: 18 Jan 2012,Moslem Suni,FY 2012,10,Sudan,1,283
+From: 18 Jan 2012,To: 18 Jan 2012,Orthodox,FY 2012,2,Ethiopia,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Other Religion,FY 2012,4,Dem. Rep. Congo,4,283
+From: 18 Jan 2012,To: 18 Jan 2012,Pentecostalist,FY 2012,22,Moldova,22,283
+From: 18 Jan 2012,To: 18 Jan 2012,Seventh Day Adventist,FY 2012,6,Moldova,2,283
+From: 18 Jan 2012,To: 18 Jan 2012,Seventh Day Adventist,FY 2012,6,Rwanda,4,283
+

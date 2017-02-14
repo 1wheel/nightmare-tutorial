@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jan 2009,To: 12 Jan 2009,Afghanistan,FY 2009,1,Moslem Suni,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Burundi,FY 2009,1,Catholic,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iran,FY 2009,2,Bahai,2,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Catholic,14,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Christian,42,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Moslem,3,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Moslem Shiite,10,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Moslem Suni,40,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Orthodox,4,161
+From: 12 Jan 2009,To: 12 Jan 2009,Iraq,FY 2009,120,Sabeans-Mandean,7,161
+From: 12 Jan 2009,To: 12 Jan 2009,Russia,FY 2009,19,Baptist,8,161
+From: 12 Jan 2009,To: 12 Jan 2009,Russia,FY 2009,19,Jewish,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Russia,FY 2009,19,Moslem,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Russia,FY 2009,19,Pentecostalist,9,161
+From: 12 Jan 2009,To: 12 Jan 2009,Somalia,FY 2009,12,Moslem,12,161
+From: 12 Jan 2009,To: 12 Jan 2009,Sudan,FY 2009,4,Christian,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Sudan,FY 2009,4,Moslem Suni,3,161
+From: 12 Jan 2009,To: 12 Jan 2009,Syria,FY 2009,2,Moslem,2,161
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jan 2009,To: 12 Jan 2009,Bahai,FY 2009,2,Iran,2,161
+From: 12 Jan 2009,To: 12 Jan 2009,Baptist,FY 2009,8,Russia,8,161
+From: 12 Jan 2009,To: 12 Jan 2009,Catholic,FY 2009,15,Burundi,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Catholic,FY 2009,15,Iraq,14,161
+From: 12 Jan 2009,To: 12 Jan 2009,Christian,FY 2009,43,Iraq,42,161
+From: 12 Jan 2009,To: 12 Jan 2009,Christian,FY 2009,43,Sudan,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Jewish,FY 2009,1,Russia,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem,FY 2009,18,Iraq,3,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem,FY 2009,18,Russia,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem,FY 2009,18,Somalia,12,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem,FY 2009,18,Syria,2,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem Shiite,FY 2009,10,Iraq,10,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem Suni,FY 2009,44,Afghanistan,1,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem Suni,FY 2009,44,Iraq,40,161
+From: 12 Jan 2009,To: 12 Jan 2009,Moslem Suni,FY 2009,44,Sudan,3,161
+From: 12 Jan 2009,To: 12 Jan 2009,Orthodox,FY 2009,4,Iraq,4,161
+From: 12 Jan 2009,To: 12 Jan 2009,Pentecostalist,FY 2009,9,Russia,9,161
+From: 12 Jan 2009,To: 12 Jan 2009,Sabeans-Mandean,FY 2009,7,Iraq,7,161
+

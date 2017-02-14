@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jan 2013,To: 08 Jan 2013,Afghanistan,FY 2013,2,Moslem Shiite,2,36
+From: 08 Jan 2013,To: 08 Jan 2013,China,FY 2013,1,Other Religion,1,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iran,FY 2013,13,Bahai,7,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iran,FY 2013,13,Christian,3,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iran,FY 2013,13,Moslem Shiite,1,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iran,FY 2013,13,Protestant,2,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iraq,FY 2013,20,Catholic,6,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iraq,FY 2013,20,Moslem Shiite,8,36
+From: 08 Jan 2013,To: 08 Jan 2013,Iraq,FY 2013,20,Moslem Suni,6,36
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jan 2013,To: 08 Jan 2013,Bahai,FY 2013,7,Iran,7,36
+From: 08 Jan 2013,To: 08 Jan 2013,Catholic,FY 2013,6,Iraq,6,36
+From: 08 Jan 2013,To: 08 Jan 2013,Christian,FY 2013,3,Iran,3,36
+From: 08 Jan 2013,To: 08 Jan 2013,Moslem Shiite,FY 2013,11,Afghanistan,2,36
+From: 08 Jan 2013,To: 08 Jan 2013,Moslem Shiite,FY 2013,11,Iran,1,36
+From: 08 Jan 2013,To: 08 Jan 2013,Moslem Shiite,FY 2013,11,Iraq,8,36
+From: 08 Jan 2013,To: 08 Jan 2013,Moslem Suni,FY 2013,6,Iraq,6,36
+From: 08 Jan 2013,To: 08 Jan 2013,Other Religion,FY 2013,1,China,1,36
+From: 08 Jan 2013,To: 08 Jan 2013,Protestant,FY 2013,2,Iran,2,36
+

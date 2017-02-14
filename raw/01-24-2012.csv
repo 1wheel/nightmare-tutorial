@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jan 2012,To: 24 Jan 2012,Afghanistan,FY 2012,15,Moslem Shiite,6,302
+From: 24 Jan 2012,To: 24 Jan 2012,Afghanistan,FY 2012,15,Moslem Suni,9,302
+From: 24 Jan 2012,To: 24 Jan 2012,Bhutan,FY 2012,102,Buddhist,14,302
+From: 24 Jan 2012,To: 24 Jan 2012,Bhutan,FY 2012,102,Christian,8,302
+From: 24 Jan 2012,To: 24 Jan 2012,Bhutan,FY 2012,102,Hindu,66,302
+From: 24 Jan 2012,To: 24 Jan 2012,Bhutan,FY 2012,102,Kirat,14,302
+From: 24 Jan 2012,To: 24 Jan 2012,Burma,FY 2012,36,Buddhist,10,302
+From: 24 Jan 2012,To: 24 Jan 2012,Burma,FY 2012,36,Christian,21,302
+From: 24 Jan 2012,To: 24 Jan 2012,Burma,FY 2012,36,Moslem,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Cuba,FY 2012,35,Baptist,3,302
+From: 24 Jan 2012,To: 24 Jan 2012,Cuba,FY 2012,35,Catholic,20,302
+From: 24 Jan 2012,To: 24 Jan 2012,Cuba,FY 2012,35,Jehovah Witness,10,302
+From: 24 Jan 2012,To: 24 Jan 2012,Cuba,FY 2012,35,No Religion,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Dem. Rep. Congo,FY 2012,6,Christian,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Dem. Rep. Congo,FY 2012,6,Protestant,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Eritrea,FY 2012,12,Moslem,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Eritrea,FY 2012,12,Orthodox,9,302
+From: 24 Jan 2012,To: 24 Jan 2012,Eritrea,FY 2012,12,Pentecostalist,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Ethiopia,FY 2012,1,Moslem,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Iran,FY 2012,11,Bahai,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Iran,FY 2012,11,Moslem Shiite,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Iran,FY 2012,11,No Religion,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Iraq,FY 2012,24,Catholic,8,302
+From: 24 Jan 2012,To: 24 Jan 2012,Iraq,FY 2012,24,Moslem Shiite,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Iraq,FY 2012,24,Moslem Suni,15,302
+From: 24 Jan 2012,To: 24 Jan 2012,Ivory Coast,FY 2012,2,Moslem,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Nepal,FY 2012,1,Hindu,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Palestine,FY 2012,7,Moslem Suni,7,302
+From: 24 Jan 2012,To: 24 Jan 2012,Russia,FY 2012,6,Baptist,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Russia,FY 2012,6,Pentecostalist,4,302
+From: 24 Jan 2012,To: 24 Jan 2012,Somalia,FY 2012,27,Moslem,26,302
+From: 24 Jan 2012,To: 24 Jan 2012,Somalia,FY 2012,27,Moslem Suni,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Sudan,FY 2012,15,Moslem,14,302
+From: 24 Jan 2012,To: 24 Jan 2012,Sudan,FY 2012,15,Moslem Suni,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Uzbekistan,FY 2012,2,Unknown,2,302
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jan 2012,To: 24 Jan 2012,Bahai,FY 2012,5,Iran,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Baptist,FY 2012,5,Cuba,3,302
+From: 24 Jan 2012,To: 24 Jan 2012,Baptist,FY 2012,5,Russia,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Buddhist,FY 2012,24,Bhutan,14,302
+From: 24 Jan 2012,To: 24 Jan 2012,Buddhist,FY 2012,24,Burma,10,302
+From: 24 Jan 2012,To: 24 Jan 2012,Catholic,FY 2012,28,Cuba,20,302
+From: 24 Jan 2012,To: 24 Jan 2012,Catholic,FY 2012,28,Iraq,8,302
+From: 24 Jan 2012,To: 24 Jan 2012,Christian,FY 2012,30,Bhutan,8,302
+From: 24 Jan 2012,To: 24 Jan 2012,Christian,FY 2012,30,Burma,21,302
+From: 24 Jan 2012,To: 24 Jan 2012,Christian,FY 2012,30,Dem. Rep. Congo,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Hindu,FY 2012,67,Bhutan,66,302
+From: 24 Jan 2012,To: 24 Jan 2012,Hindu,FY 2012,67,Nepal,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Jehovah Witness,FY 2012,10,Cuba,10,302
+From: 24 Jan 2012,To: 24 Jan 2012,Kirat,FY 2012,14,Bhutan,14,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem,FY 2012,50,Burma,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem,FY 2012,50,Eritrea,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem,FY 2012,50,Ethiopia,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem,FY 2012,50,Ivory Coast,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem,FY 2012,50,Somalia,26,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem,FY 2012,50,Sudan,14,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Shiite,FY 2012,12,Afghanistan,6,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Shiite,FY 2012,12,Iran,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Shiite,FY 2012,12,Iraq,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Suni,FY 2012,33,Afghanistan,9,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Suni,FY 2012,33,Iraq,15,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Suni,FY 2012,33,Palestine,7,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Suni,FY 2012,33,Somalia,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Moslem Suni,FY 2012,33,Sudan,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,No Religion,FY 2012,3,Cuba,2,302
+From: 24 Jan 2012,To: 24 Jan 2012,No Religion,FY 2012,3,Iran,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Orthodox,FY 2012,9,Eritrea,9,302
+From: 24 Jan 2012,To: 24 Jan 2012,Pentecostalist,FY 2012,5,Eritrea,1,302
+From: 24 Jan 2012,To: 24 Jan 2012,Pentecostalist,FY 2012,5,Russia,4,302
+From: 24 Jan 2012,To: 24 Jan 2012,Protestant,FY 2012,5,Dem. Rep. Congo,5,302
+From: 24 Jan 2012,To: 24 Jan 2012,Unknown,FY 2012,2,Uzbekistan,2,302
+

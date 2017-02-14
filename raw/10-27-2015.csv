@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Oct 2015,To: 27 Oct 2015,Afghanistan,FY 2016,19,Bahai,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Afghanistan,FY 2016,19,Moslem Suni,12,331
+From: 27 Oct 2015,To: 27 Oct 2015,Afghanistan,FY 2016,19,Protestant,2,331
+From: 27 Oct 2015,To: 27 Oct 2015,Armenia,FY 2016,5,Baptist,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Burma,FY 2016,56,Baptist,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Burma,FY 2016,56,Buddhist,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Burma,FY 2016,56,Christian,19,331
+From: 27 Oct 2015,To: 27 Oct 2015,Burma,FY 2016,56,Moslem,33,331
+From: 27 Oct 2015,To: 27 Oct 2015,Dem. Rep. Congo,FY 2016,9,Catholic,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Dem. Rep. Congo,FY 2016,9,Pentecostalist,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Dem. Rep. Congo,FY 2016,9,Seventh Day Adventist,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Eritrea,FY 2016,1,Orthodox,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Ethiopia,FY 2016,1,Orthodox,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iran,FY 2016,8,Moslem Shiite,4,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iran,FY 2016,8,Moslem Suni,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iran,FY 2016,8,No Religion,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iraq,FY 2016,102,Atheist,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iraq,FY 2016,102,Catholic,10,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iraq,FY 2016,102,Christian,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iraq,FY 2016,102,Moslem,6,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iraq,FY 2016,102,Moslem Shiite,45,331
+From: 27 Oct 2015,To: 27 Oct 2015,Iraq,FY 2016,102,Moslem Suni,33,331
+From: 27 Oct 2015,To: 27 Oct 2015,Kenya,FY 2016,1,Moslem,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moldova,FY 2016,4,Baptist,4,331
+From: 27 Oct 2015,To: 27 Oct 2015,Russia,FY 2016,21,Baptist,9,331
+From: 27 Oct 2015,To: 27 Oct 2015,Russia,FY 2016,21,Seventh Day Adventist,12,331
+From: 27 Oct 2015,To: 27 Oct 2015,Somalia,FY 2016,27,Moslem,20,331
+From: 27 Oct 2015,To: 27 Oct 2015,Somalia,FY 2016,27,Moslem Suni,7,331
+From: 27 Oct 2015,To: 27 Oct 2015,Sudan,FY 2016,20,Moslem,17,331
+From: 27 Oct 2015,To: 27 Oct 2015,Sudan,FY 2016,20,Moslem Suni,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Syria,FY 2016,23,Moslem Suni,23,331
+From: 27 Oct 2015,To: 27 Oct 2015,Ukraine,FY 2016,34,Baptist,15,331
+From: 27 Oct 2015,To: 27 Oct 2015,Ukraine,FY 2016,34,Evangelical Christian,8,331
+From: 27 Oct 2015,To: 27 Oct 2015,Ukraine,FY 2016,34,Orthodox,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Ukraine,FY 2016,34,Pentecostalist,8,331
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Oct 2015,To: 27 Oct 2015,Atheist,FY 2016,3,Iraq,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Bahai,FY 2016,5,Afghanistan,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Baptist,FY 2016,34,Armenia,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Baptist,FY 2016,34,Burma,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Baptist,FY 2016,34,Moldova,4,331
+From: 27 Oct 2015,To: 27 Oct 2015,Baptist,FY 2016,34,Russia,9,331
+From: 27 Oct 2015,To: 27 Oct 2015,Baptist,FY 2016,34,Ukraine,15,331
+From: 27 Oct 2015,To: 27 Oct 2015,Buddhist,FY 2016,3,Burma,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Catholic,FY 2016,11,Dem. Rep. Congo,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Catholic,FY 2016,11,Iraq,10,331
+From: 27 Oct 2015,To: 27 Oct 2015,Christian,FY 2016,24,Burma,19,331
+From: 27 Oct 2015,To: 27 Oct 2015,Christian,FY 2016,24,Iraq,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Evangelical Christian,FY 2016,8,Ukraine,8,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem,FY 2016,77,Burma,33,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem,FY 2016,77,Iraq,6,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem,FY 2016,77,Kenya,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem,FY 2016,77,Somalia,20,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem,FY 2016,77,Sudan,17,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Shiite,FY 2016,49,Iran,4,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Shiite,FY 2016,49,Iraq,45,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Suni,FY 2016,81,Afghanistan,12,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Suni,FY 2016,81,Iran,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Suni,FY 2016,81,Iraq,33,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Suni,FY 2016,81,Somalia,7,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Suni,FY 2016,81,Sudan,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Moslem Suni,FY 2016,81,Syria,23,331
+From: 27 Oct 2015,To: 27 Oct 2015,No Religion,FY 2016,1,Iran,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Orthodox,FY 2016,5,Eritrea,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Orthodox,FY 2016,5,Ethiopia,1,331
+From: 27 Oct 2015,To: 27 Oct 2015,Orthodox,FY 2016,5,Ukraine,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Pentecostalist,FY 2016,11,Dem. Rep. Congo,3,331
+From: 27 Oct 2015,To: 27 Oct 2015,Pentecostalist,FY 2016,11,Ukraine,8,331
+From: 27 Oct 2015,To: 27 Oct 2015,Protestant,FY 2016,2,Afghanistan,2,331
+From: 27 Oct 2015,To: 27 Oct 2015,Seventh Day Adventist,FY 2016,17,Dem. Rep. Congo,5,331
+From: 27 Oct 2015,To: 27 Oct 2015,Seventh Day Adventist,FY 2016,17,Russia,12,331
+

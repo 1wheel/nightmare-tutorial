@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Mar 2006,To: 01 Mar 2006,Colombia,FY 2006,7,Catholic,7,341
+From: 01 Mar 2006,To: 01 Mar 2006,Cuba,FY 2006,33,Catholic,10,341
+From: 01 Mar 2006,To: 01 Mar 2006,Cuba,FY 2006,33,Jehovah Witness,13,341
+From: 01 Mar 2006,To: 01 Mar 2006,Cuba,FY 2006,33,No Religion,5,341
+From: 01 Mar 2006,To: 01 Mar 2006,Cuba,FY 2006,33,Pentecostalist,1,341
+From: 01 Mar 2006,To: 01 Mar 2006,Cuba,FY 2006,33,Seventh Day Adventist,4,341
+From: 01 Mar 2006,To: 01 Mar 2006,Ethiopia,FY 2006,2,Moslem,2,341
+From: 01 Mar 2006,To: 01 Mar 2006,Russia,FY 2006,70,Moslem,70,341
+From: 01 Mar 2006,To: 01 Mar 2006,Somalia,FY 2006,117,Moslem,117,341
+From: 01 Mar 2006,To: 01 Mar 2006,Sudan,FY 2006,16,Catholic,1,341
+From: 01 Mar 2006,To: 01 Mar 2006,Sudan,FY 2006,16,Moslem,13,341
+From: 01 Mar 2006,To: 01 Mar 2006,Sudan,FY 2006,16,Protestant,2,341
+From: 01 Mar 2006,To: 01 Mar 2006,Ukraine,FY 2006,30,Baptist,8,341
+From: 01 Mar 2006,To: 01 Mar 2006,Ukraine,FY 2006,30,Pentecostalist,21,341
+From: 01 Mar 2006,To: 01 Mar 2006,Ukraine,FY 2006,30,Seventh Day Adventist,1,341
+From: 01 Mar 2006,To: 01 Mar 2006,Vietnam,FY 2006,66,Buddhist,27,341
+From: 01 Mar 2006,To: 01 Mar 2006,Vietnam,FY 2006,66,Catholic,19,341
+From: 01 Mar 2006,To: 01 Mar 2006,Vietnam,FY 2006,66,No Religion,17,341
+From: 01 Mar 2006,To: 01 Mar 2006,Vietnam,FY 2006,66,Protestant,3,341
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Mar 2006,To: 01 Mar 2006,Baptist,FY 2006,8,Ukraine,8,341
+From: 01 Mar 2006,To: 01 Mar 2006,Buddhist,FY 2006,27,Vietnam,27,341
+From: 01 Mar 2006,To: 01 Mar 2006,Catholic,FY 2006,37,Colombia,7,341
+From: 01 Mar 2006,To: 01 Mar 2006,Catholic,FY 2006,37,Cuba,10,341
+From: 01 Mar 2006,To: 01 Mar 2006,Catholic,FY 2006,37,Sudan,1,341
+From: 01 Mar 2006,To: 01 Mar 2006,Catholic,FY 2006,37,Vietnam,19,341
+From: 01 Mar 2006,To: 01 Mar 2006,Jehovah Witness,FY 2006,13,Cuba,13,341
+From: 01 Mar 2006,To: 01 Mar 2006,Moslem,FY 2006,202,Ethiopia,2,341
+From: 01 Mar 2006,To: 01 Mar 2006,Moslem,FY 2006,202,Russia,70,341
+From: 01 Mar 2006,To: 01 Mar 2006,Moslem,FY 2006,202,Somalia,117,341
+From: 01 Mar 2006,To: 01 Mar 2006,Moslem,FY 2006,202,Sudan,13,341
+From: 01 Mar 2006,To: 01 Mar 2006,No Religion,FY 2006,22,Cuba,5,341
+From: 01 Mar 2006,To: 01 Mar 2006,No Religion,FY 2006,22,Vietnam,17,341
+From: 01 Mar 2006,To: 01 Mar 2006,Pentecostalist,FY 2006,22,Cuba,1,341
+From: 01 Mar 2006,To: 01 Mar 2006,Pentecostalist,FY 2006,22,Ukraine,21,341
+From: 01 Mar 2006,To: 01 Mar 2006,Protestant,FY 2006,5,Sudan,2,341
+From: 01 Mar 2006,To: 01 Mar 2006,Protestant,FY 2006,5,Vietnam,3,341
+From: 01 Mar 2006,To: 01 Mar 2006,Seventh Day Adventist,FY 2006,5,Cuba,4,341
+From: 01 Mar 2006,To: 01 Mar 2006,Seventh Day Adventist,FY 2006,5,Ukraine,1,341
+

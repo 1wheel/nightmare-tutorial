@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Feb 2017,To: 10 Feb 2017,Bhutan,FY 2017,48,Buddhist,19,283
+From: 10 Feb 2017,To: 10 Feb 2017,Bhutan,FY 2017,48,Christian,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Bhutan,FY 2017,48,Hindu,24,283
+From: 10 Feb 2017,To: 10 Feb 2017,Bhutan,FY 2017,48,Kirat,4,283
+From: 10 Feb 2017,To: 10 Feb 2017,Burma,FY 2017,14,Christian,8,283
+From: 10 Feb 2017,To: 10 Feb 2017,Burma,FY 2017,14,Moslem,6,283
+From: 10 Feb 2017,To: 10 Feb 2017,Dem. Rep. Congo,FY 2017,11,Pentecostalist,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Dem. Rep. Congo,FY 2017,11,Protestant,7,283
+From: 10 Feb 2017,To: 10 Feb 2017,Dem. Rep. Congo,FY 2017,11,Seventh Day Adventist,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ethiopia,FY 2017,10,Christian,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ethiopia,FY 2017,10,Moslem,7,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ethiopia,FY 2017,10,Pentecostalist,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iran,FY 2017,6,Moslem Shiite,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iran,FY 2017,6,No Religion,4,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iran,FY 2017,6,Protestant,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iraq,FY 2017,88,Catholic,19,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iraq,FY 2017,88,Christian,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iraq,FY 2017,88,Moslem Shiite,22,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iraq,FY 2017,88,Moslem Suni,40,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iraq,FY 2017,88,Orthodox,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Iraq,FY 2017,88,Yazidi,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Pakistan,FY 2017,12,Ahmadiyya,12,283
+From: 10 Feb 2017,To: 10 Feb 2017,Somalia,FY 2017,25,Moslem,25,283
+From: 10 Feb 2017,To: 10 Feb 2017,Sudan,FY 2017,6,Moslem,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Sudan,FY 2017,6,Moslem Suni,5,283
+From: 10 Feb 2017,To: 10 Feb 2017,Syria,FY 2017,43,Moslem Suni,43,283
+From: 10 Feb 2017,To: 10 Feb 2017,Uganda,FY 2017,3,Christian,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Uganda,FY 2017,3,Protestant,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ukraine,FY 2017,17,Baptist,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ukraine,FY 2017,17,No Religion,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ukraine,FY 2017,17,Pentecostalist,10,283
+From: 10 Feb 2017,To: 10 Feb 2017,Ukraine,FY 2017,17,Uniate,3,283
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Feb 2017,To: 10 Feb 2017,Ahmadiyya,FY 2017,12,Pakistan,12,283
+From: 10 Feb 2017,To: 10 Feb 2017,Baptist,FY 2017,3,Ukraine,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Buddhist,FY 2017,19,Bhutan,19,283
+From: 10 Feb 2017,To: 10 Feb 2017,Catholic,FY 2017,19,Iraq,19,283
+From: 10 Feb 2017,To: 10 Feb 2017,Christian,FY 2017,15,Bhutan,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Christian,FY 2017,15,Burma,8,283
+From: 10 Feb 2017,To: 10 Feb 2017,Christian,FY 2017,15,Ethiopia,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Christian,FY 2017,15,Iraq,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Christian,FY 2017,15,Uganda,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Hindu,FY 2017,24,Bhutan,24,283
+From: 10 Feb 2017,To: 10 Feb 2017,Kirat,FY 2017,4,Bhutan,4,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem,FY 2017,39,Burma,6,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem,FY 2017,39,Ethiopia,7,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem,FY 2017,39,Somalia,25,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem,FY 2017,39,Sudan,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem Shiite,FY 2017,23,Iran,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem Shiite,FY 2017,23,Iraq,22,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem Suni,FY 2017,88,Iraq,40,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem Suni,FY 2017,88,Sudan,5,283
+From: 10 Feb 2017,To: 10 Feb 2017,Moslem Suni,FY 2017,88,Syria,43,283
+From: 10 Feb 2017,To: 10 Feb 2017,No Religion,FY 2017,5,Iran,4,283
+From: 10 Feb 2017,To: 10 Feb 2017,No Religion,FY 2017,5,Ukraine,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Orthodox,FY 2017,2,Iraq,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Pentecostalist,FY 2017,13,Dem. Rep. Congo,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Pentecostalist,FY 2017,13,Ethiopia,2,283
+From: 10 Feb 2017,To: 10 Feb 2017,Pentecostalist,FY 2017,13,Ukraine,10,283
+From: 10 Feb 2017,To: 10 Feb 2017,Protestant,FY 2017,9,Dem. Rep. Congo,7,283
+From: 10 Feb 2017,To: 10 Feb 2017,Protestant,FY 2017,9,Iran,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Protestant,FY 2017,9,Uganda,1,283
+From: 10 Feb 2017,To: 10 Feb 2017,Seventh Day Adventist,FY 2017,3,Dem. Rep. Congo,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Uniate,FY 2017,3,Ukraine,3,283
+From: 10 Feb 2017,To: 10 Feb 2017,Yazidi,FY 2017,2,Iraq,2,283
+

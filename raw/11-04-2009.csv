@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Nov 2009,To: 04 Nov 2009,Bhutan,FY 2010,30,Buddhist,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Bhutan,FY 2010,30,Hindu,26,359
+From: 04 Nov 2009,To: 04 Nov 2009,Burma,FY 2010,106,Animist,12,359
+From: 04 Nov 2009,To: 04 Nov 2009,Burma,FY 2010,106,Buddhist,39,359
+From: 04 Nov 2009,To: 04 Nov 2009,Burma,FY 2010,106,Catholic,7,359
+From: 04 Nov 2009,To: 04 Nov 2009,Burma,FY 2010,106,Christian,29,359
+From: 04 Nov 2009,To: 04 Nov 2009,Burma,FY 2010,106,Moslem,19,359
+From: 04 Nov 2009,To: 04 Nov 2009,Central African Republic,FY 2010,9,Moslem,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Central African Republic,FY 2010,9,Protestant,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Colombia,FY 2010,5,Catholic,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Colombia,FY 2010,5,Unknown,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Dem. Rep. Congo,FY 2010,30,Catholic,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Dem. Rep. Congo,FY 2010,30,Jehovah Witness,3,359
+From: 04 Nov 2009,To: 04 Nov 2009,Dem. Rep. Congo,FY 2010,30,Methodist,8,359
+From: 04 Nov 2009,To: 04 Nov 2009,Dem. Rep. Congo,FY 2010,30,Pentecostalist,11,359
+From: 04 Nov 2009,To: 04 Nov 2009,Dem. Rep. Congo,FY 2010,30,Protestant,2,359
+From: 04 Nov 2009,To: 04 Nov 2009,Dem. Rep. Congo,FY 2010,30,Seventh Day Adventist,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Egypt,FY 2010,1,Coptic,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Eritrea,FY 2010,5,Orthodox,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Ethiopia,FY 2010,6,Moslem,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Ethiopia,FY 2010,6,Orthodox,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Ethiopia,FY 2010,6,Pentecostalist,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Iraq,FY 2010,120,Atheist,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Iraq,FY 2010,120,Christian,19,359
+From: 04 Nov 2009,To: 04 Nov 2009,Iraq,FY 2010,120,Moslem,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Iraq,FY 2010,120,Moslem Shiite,46,359
+From: 04 Nov 2009,To: 04 Nov 2009,Iraq,FY 2010,120,Moslem Suni,42,359
+From: 04 Nov 2009,To: 04 Nov 2009,Iraq,FY 2010,120,Sabeans-Mandean,11,359
+From: 04 Nov 2009,To: 04 Nov 2009,Somalia,FY 2010,4,Moslem,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Sudan,FY 2010,10,Christian,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Sudan,FY 2010,10,Moslem,8,359
+From: 04 Nov 2009,To: 04 Nov 2009,Sudan,FY 2010,10,Seventh Day Adventist,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Vietnam,FY 2010,33,Buddhist,17,359
+From: 04 Nov 2009,To: 04 Nov 2009,Vietnam,FY 2010,33,Catholic,2,359
+From: 04 Nov 2009,To: 04 Nov 2009,Vietnam,FY 2010,33,No Religion,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Vietnam,FY 2010,33,Protestant,9,359
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Nov 2009,To: 04 Nov 2009,Animist,FY 2010,12,Burma,12,359
+From: 04 Nov 2009,To: 04 Nov 2009,Atheist,FY 2010,1,Iraq,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Buddhist,FY 2010,60,Bhutan,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Buddhist,FY 2010,60,Burma,39,359
+From: 04 Nov 2009,To: 04 Nov 2009,Buddhist,FY 2010,60,Vietnam,17,359
+From: 04 Nov 2009,To: 04 Nov 2009,Catholic,FY 2010,18,Burma,7,359
+From: 04 Nov 2009,To: 04 Nov 2009,Catholic,FY 2010,18,Colombia,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Catholic,FY 2010,18,Dem. Rep. Congo,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Catholic,FY 2010,18,Vietnam,2,359
+From: 04 Nov 2009,To: 04 Nov 2009,Christian,FY 2010,49,Burma,29,359
+From: 04 Nov 2009,To: 04 Nov 2009,Christian,FY 2010,49,Iraq,19,359
+From: 04 Nov 2009,To: 04 Nov 2009,Christian,FY 2010,49,Sudan,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Coptic,FY 2010,1,Egypt,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Hindu,FY 2010,26,Bhutan,26,359
+From: 04 Nov 2009,To: 04 Nov 2009,Jehovah Witness,FY 2010,3,Dem. Rep. Congo,3,359
+From: 04 Nov 2009,To: 04 Nov 2009,Methodist,FY 2010,8,Dem. Rep. Congo,8,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem,FY 2010,40,Burma,19,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem,FY 2010,40,Central African Republic,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem,FY 2010,40,Ethiopia,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem,FY 2010,40,Iraq,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem,FY 2010,40,Somalia,4,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem,FY 2010,40,Sudan,8,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem Shiite,FY 2010,46,Iraq,46,359
+From: 04 Nov 2009,To: 04 Nov 2009,Moslem Suni,FY 2010,42,Iraq,42,359
+From: 04 Nov 2009,To: 04 Nov 2009,No Religion,FY 2010,5,Vietnam,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Orthodox,FY 2010,6,Eritrea,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Orthodox,FY 2010,6,Ethiopia,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Pentecostalist,FY 2010,12,Dem. Rep. Congo,11,359
+From: 04 Nov 2009,To: 04 Nov 2009,Pentecostalist,FY 2010,12,Ethiopia,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Protestant,FY 2010,16,Central African Republic,5,359
+From: 04 Nov 2009,To: 04 Nov 2009,Protestant,FY 2010,16,Dem. Rep. Congo,2,359
+From: 04 Nov 2009,To: 04 Nov 2009,Protestant,FY 2010,16,Vietnam,9,359
+From: 04 Nov 2009,To: 04 Nov 2009,Sabeans-Mandean,FY 2010,11,Iraq,11,359
+From: 04 Nov 2009,To: 04 Nov 2009,Seventh Day Adventist,FY 2010,2,Dem. Rep. Congo,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Seventh Day Adventist,FY 2010,2,Sudan,1,359
+From: 04 Nov 2009,To: 04 Nov 2009,Unknown,FY 2010,1,Colombia,1,359
+

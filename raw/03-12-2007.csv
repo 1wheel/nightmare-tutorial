@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Mar 2007,To: 12 Mar 2007,Iran,FY 2007,32,Bahai,30,92
+From: 12 Mar 2007,To: 12 Mar 2007,Iran,FY 2007,32,Protestant,1,92
+From: 12 Mar 2007,To: 12 Mar 2007,Iran,FY 2007,32,Zoroastrian,1,92
+From: 12 Mar 2007,To: 12 Mar 2007,Liberia,FY 2007,30,Catholic,1,92
+From: 12 Mar 2007,To: 12 Mar 2007,Liberia,FY 2007,30,Christian,10,92
+From: 12 Mar 2007,To: 12 Mar 2007,Liberia,FY 2007,30,Moslem,16,92
+From: 12 Mar 2007,To: 12 Mar 2007,Liberia,FY 2007,30,Protestant,3,92
+From: 12 Mar 2007,To: 12 Mar 2007,Russia,FY 2007,16,Moslem,16,92
+From: 12 Mar 2007,To: 12 Mar 2007,Ukraine,FY 2007,14,Baptist,11,92
+From: 12 Mar 2007,To: 12 Mar 2007,Ukraine,FY 2007,14,Pentecostalist,3,92
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Mar 2007,To: 12 Mar 2007,Bahai,FY 2007,30,Iran,30,92
+From: 12 Mar 2007,To: 12 Mar 2007,Baptist,FY 2007,11,Ukraine,11,92
+From: 12 Mar 2007,To: 12 Mar 2007,Catholic,FY 2007,1,Liberia,1,92
+From: 12 Mar 2007,To: 12 Mar 2007,Christian,FY 2007,10,Liberia,10,92
+From: 12 Mar 2007,To: 12 Mar 2007,Moslem,FY 2007,32,Liberia,16,92
+From: 12 Mar 2007,To: 12 Mar 2007,Moslem,FY 2007,32,Russia,16,92
+From: 12 Mar 2007,To: 12 Mar 2007,Pentecostalist,FY 2007,3,Ukraine,3,92
+From: 12 Mar 2007,To: 12 Mar 2007,Protestant,FY 2007,4,Iran,1,92
+From: 12 Mar 2007,To: 12 Mar 2007,Protestant,FY 2007,4,Liberia,3,92
+From: 12 Mar 2007,To: 12 Mar 2007,Zoroastrian,FY 2007,1,Iran,1,92
+

@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 Aug 2006,To: 25 Aug 2006,Belarus,FY 2006,10,Baptist,4,67
+From: 25 Aug 2006,To: 25 Aug 2006,Belarus,FY 2006,10,Orthodox,3,67
+From: 25 Aug 2006,To: 25 Aug 2006,Belarus,FY 2006,10,Pentecostalist,3,67
+From: 25 Aug 2006,To: 25 Aug 2006,Iran,FY 2006,10,Christian,10,67
+From: 25 Aug 2006,To: 25 Aug 2006,Moldova,FY 2006,17,Baptist,11,67
+From: 25 Aug 2006,To: 25 Aug 2006,Moldova,FY 2006,17,Pentecostalist,6,67
+From: 25 Aug 2006,To: 25 Aug 2006,Ukraine,FY 2006,30,Baptist,16,67
+From: 25 Aug 2006,To: 25 Aug 2006,Ukraine,FY 2006,30,Jewish,6,67
+From: 25 Aug 2006,To: 25 Aug 2006,Ukraine,FY 2006,30,Pentecostalist,8,67
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 Aug 2006,To: 25 Aug 2006,Baptist,FY 2006,31,Belarus,4,67
+From: 25 Aug 2006,To: 25 Aug 2006,Baptist,FY 2006,31,Moldova,11,67
+From: 25 Aug 2006,To: 25 Aug 2006,Baptist,FY 2006,31,Ukraine,16,67
+From: 25 Aug 2006,To: 25 Aug 2006,Christian,FY 2006,10,Iran,10,67
+From: 25 Aug 2006,To: 25 Aug 2006,Jewish,FY 2006,6,Ukraine,6,67
+From: 25 Aug 2006,To: 25 Aug 2006,Orthodox,FY 2006,3,Belarus,3,67
+From: 25 Aug 2006,To: 25 Aug 2006,Pentecostalist,FY 2006,17,Belarus,3,67
+From: 25 Aug 2006,To: 25 Aug 2006,Pentecostalist,FY 2006,17,Moldova,6,67
+From: 25 Aug 2006,To: 25 Aug 2006,Pentecostalist,FY 2006,17,Ukraine,8,67
+

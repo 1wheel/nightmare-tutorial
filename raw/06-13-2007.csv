@@ -1,0 +1,29 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jun 2007,To: 13 Jun 2007,Afghanistan,FY 2007,6,Moslem Suni,6,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burma,FY 2007,131,Buddhist,5,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burma,FY 2007,131,Christian,108,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burma,FY 2007,131,Moslem,14,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burma,FY 2007,131,Old Believer,4,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burundi,FY 2007,34,Catholic,27,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burundi,FY 2007,34,Lutheran,6,215
+From: 13 Jun 2007,To: 13 Jun 2007,Burundi,FY 2007,34,Pentecostalist,1,215
+From: 13 Jun 2007,To: 13 Jun 2007,Iran,FY 2007,40,Christian,39,215
+From: 13 Jun 2007,To: 13 Jun 2007,Iran,FY 2007,40,Zoroastrian,1,215
+From: 13 Jun 2007,To: 13 Jun 2007,Russia,FY 2007,4,Jewish,4,215
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jun 2007,To: 13 Jun 2007,Buddhist,FY 2007,5,Burma,5,215
+From: 13 Jun 2007,To: 13 Jun 2007,Catholic,FY 2007,27,Burundi,27,215
+From: 13 Jun 2007,To: 13 Jun 2007,Christian,FY 2007,147,Burma,108,215
+From: 13 Jun 2007,To: 13 Jun 2007,Christian,FY 2007,147,Iran,39,215
+From: 13 Jun 2007,To: 13 Jun 2007,Jewish,FY 2007,4,Russia,4,215
+From: 13 Jun 2007,To: 13 Jun 2007,Lutheran,FY 2007,6,Burundi,6,215
+From: 13 Jun 2007,To: 13 Jun 2007,Moslem,FY 2007,14,Burma,14,215
+From: 13 Jun 2007,To: 13 Jun 2007,Moslem Suni,FY 2007,6,Afghanistan,6,215
+From: 13 Jun 2007,To: 13 Jun 2007,Old Believer,FY 2007,4,Burma,4,215
+From: 13 Jun 2007,To: 13 Jun 2007,Pentecostalist,FY 2007,1,Burundi,1,215
+From: 13 Jun 2007,To: 13 Jun 2007,Zoroastrian,FY 2007,1,Iran,1,215
+

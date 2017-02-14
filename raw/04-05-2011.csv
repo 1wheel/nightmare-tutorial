@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Apr 2011,To: 05 Apr 2011,Bhutan,FY 2011,14,Buddhist,4,31
+From: 05 Apr 2011,To: 05 Apr 2011,Bhutan,FY 2011,14,Hindu,10,31
+From: 05 Apr 2011,To: 05 Apr 2011,Burma,FY 2011,3,Christian,3,31
+From: 05 Apr 2011,To: 05 Apr 2011,Cuba,FY 2011,4,Jehovah Witness,4,31
+From: 05 Apr 2011,To: 05 Apr 2011,Iran,FY 2011,4,Christian,3,31
+From: 05 Apr 2011,To: 05 Apr 2011,Iran,FY 2011,4,Jewish,1,31
+From: 05 Apr 2011,To: 05 Apr 2011,Iraq,FY 2011,2,Moslem Shiite,1,31
+From: 05 Apr 2011,To: 05 Apr 2011,Iraq,FY 2011,2,Moslem Suni,1,31
+From: 05 Apr 2011,To: 05 Apr 2011,Sudan,FY 2011,4,Moslem,4,31
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Apr 2011,To: 05 Apr 2011,Buddhist,FY 2011,4,Bhutan,4,31
+From: 05 Apr 2011,To: 05 Apr 2011,Christian,FY 2011,6,Burma,3,31
+From: 05 Apr 2011,To: 05 Apr 2011,Christian,FY 2011,6,Iran,3,31
+From: 05 Apr 2011,To: 05 Apr 2011,Hindu,FY 2011,10,Bhutan,10,31
+From: 05 Apr 2011,To: 05 Apr 2011,Jehovah Witness,FY 2011,4,Cuba,4,31
+From: 05 Apr 2011,To: 05 Apr 2011,Jewish,FY 2011,1,Iran,1,31
+From: 05 Apr 2011,To: 05 Apr 2011,Moslem,FY 2011,4,Sudan,4,31
+From: 05 Apr 2011,To: 05 Apr 2011,Moslem Shiite,FY 2011,1,Iraq,1,31
+From: 05 Apr 2011,To: 05 Apr 2011,Moslem Suni,FY 2011,1,Iraq,1,31
+

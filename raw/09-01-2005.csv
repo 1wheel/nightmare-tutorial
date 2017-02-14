@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Sep 2005,To: 01 Sep 2005,Armenia,FY 2005,9,Pentecostalist,9,302
+From: 01 Sep 2005,To: 01 Sep 2005,Burma,FY 2005,32,Buddhist,27,302
+From: 01 Sep 2005,To: 01 Sep 2005,Burma,FY 2005,32,Moslem,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Burma,FY 2005,32,Protestant,4,302
+From: 01 Sep 2005,To: 01 Sep 2005,Cuba,FY 2005,64,Catholic,25,302
+From: 01 Sep 2005,To: 01 Sep 2005,Cuba,FY 2005,64,Evangelical Christian,7,302
+From: 01 Sep 2005,To: 01 Sep 2005,Cuba,FY 2005,64,Jehovah Witness,23,302
+From: 01 Sep 2005,To: 01 Sep 2005,Cuba,FY 2005,64,No Religion,9,302
+From: 01 Sep 2005,To: 01 Sep 2005,Eritrea,FY 2005,12,Catholic,5,302
+From: 01 Sep 2005,To: 01 Sep 2005,Eritrea,FY 2005,12,Moslem,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Eritrea,FY 2005,12,Protestant,6,302
+From: 01 Sep 2005,To: 01 Sep 2005,Ethiopia,FY 2005,11,Christian,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Ethiopia,FY 2005,11,Moslem,5,302
+From: 01 Sep 2005,To: 01 Sep 2005,Ethiopia,FY 2005,11,Orthodox,2,302
+From: 01 Sep 2005,To: 01 Sep 2005,Ethiopia,FY 2005,11,Other Religion,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Ethiopia,FY 2005,11,Protestant,2,302
+From: 01 Sep 2005,To: 01 Sep 2005,Laos,FY 2005,48,Ancestral Worship,39,302
+From: 01 Sep 2005,To: 01 Sep 2005,Laos,FY 2005,48,Christian,9,302
+From: 01 Sep 2005,To: 01 Sep 2005,Russia,FY 2005,30,Baptist,12,302
+From: 01 Sep 2005,To: 01 Sep 2005,Russia,FY 2005,30,No Religion,5,302
+From: 01 Sep 2005,To: 01 Sep 2005,Russia,FY 2005,30,Pentecostalist,13,302
+From: 01 Sep 2005,To: 01 Sep 2005,Rwanda,FY 2005,7,Protestant,7,302
+From: 01 Sep 2005,To: 01 Sep 2005,Somalia,FY 2005,88,Moslem,88,302
+From: 01 Sep 2005,To: 01 Sep 2005,Sudan,FY 2005,1,Catholic,1,302
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Sep 2005,To: 01 Sep 2005,Ancestral Worship,FY 2005,39,Laos,39,302
+From: 01 Sep 2005,To: 01 Sep 2005,Baptist,FY 2005,12,Russia,12,302
+From: 01 Sep 2005,To: 01 Sep 2005,Buddhist,FY 2005,27,Burma,27,302
+From: 01 Sep 2005,To: 01 Sep 2005,Catholic,FY 2005,31,Cuba,25,302
+From: 01 Sep 2005,To: 01 Sep 2005,Catholic,FY 2005,31,Eritrea,5,302
+From: 01 Sep 2005,To: 01 Sep 2005,Catholic,FY 2005,31,Sudan,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Christian,FY 2005,10,Ethiopia,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Christian,FY 2005,10,Laos,9,302
+From: 01 Sep 2005,To: 01 Sep 2005,Evangelical Christian,FY 2005,7,Cuba,7,302
+From: 01 Sep 2005,To: 01 Sep 2005,Jehovah Witness,FY 2005,23,Cuba,23,302
+From: 01 Sep 2005,To: 01 Sep 2005,Moslem,FY 2005,95,Burma,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Moslem,FY 2005,95,Eritrea,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Moslem,FY 2005,95,Ethiopia,5,302
+From: 01 Sep 2005,To: 01 Sep 2005,Moslem,FY 2005,95,Somalia,88,302
+From: 01 Sep 2005,To: 01 Sep 2005,No Religion,FY 2005,14,Cuba,9,302
+From: 01 Sep 2005,To: 01 Sep 2005,No Religion,FY 2005,14,Russia,5,302
+From: 01 Sep 2005,To: 01 Sep 2005,Orthodox,FY 2005,2,Ethiopia,2,302
+From: 01 Sep 2005,To: 01 Sep 2005,Other Religion,FY 2005,1,Ethiopia,1,302
+From: 01 Sep 2005,To: 01 Sep 2005,Pentecostalist,FY 2005,22,Armenia,9,302
+From: 01 Sep 2005,To: 01 Sep 2005,Pentecostalist,FY 2005,22,Russia,13,302
+From: 01 Sep 2005,To: 01 Sep 2005,Protestant,FY 2005,19,Burma,4,302
+From: 01 Sep 2005,To: 01 Sep 2005,Protestant,FY 2005,19,Eritrea,6,302
+From: 01 Sep 2005,To: 01 Sep 2005,Protestant,FY 2005,19,Ethiopia,2,302
+From: 01 Sep 2005,To: 01 Sep 2005,Protestant,FY 2005,19,Rwanda,7,302
+

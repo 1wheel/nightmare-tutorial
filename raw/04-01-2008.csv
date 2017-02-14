@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Apr 2008,To: 01 Apr 2008,Bhutan,FY 2008,34,Christian,6,166
+From: 01 Apr 2008,To: 01 Apr 2008,Bhutan,FY 2008,34,Hindu,26,166
+From: 01 Apr 2008,To: 01 Apr 2008,Bhutan,FY 2008,34,Kirat,2,166
+From: 01 Apr 2008,To: 01 Apr 2008,Burma,FY 2008,124,Buddhist,30,166
+From: 01 Apr 2008,To: 01 Apr 2008,Burma,FY 2008,124,Christian,72,166
+From: 01 Apr 2008,To: 01 Apr 2008,Burma,FY 2008,124,Moslem,22,166
+From: 01 Apr 2008,To: 01 Apr 2008,Ethiopia,FY 2008,2,Orthodox,2,166
+From: 01 Apr 2008,To: 01 Apr 2008,Iraq,FY 2008,3,Moslem Suni,3,166
+From: 01 Apr 2008,To: 01 Apr 2008,Somalia,FY 2008,3,Moslem,3,166
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Apr 2008,To: 01 Apr 2008,Buddhist,FY 2008,30,Burma,30,166
+From: 01 Apr 2008,To: 01 Apr 2008,Christian,FY 2008,78,Bhutan,6,166
+From: 01 Apr 2008,To: 01 Apr 2008,Christian,FY 2008,78,Burma,72,166
+From: 01 Apr 2008,To: 01 Apr 2008,Hindu,FY 2008,26,Bhutan,26,166
+From: 01 Apr 2008,To: 01 Apr 2008,Kirat,FY 2008,2,Bhutan,2,166
+From: 01 Apr 2008,To: 01 Apr 2008,Moslem,FY 2008,25,Burma,22,166
+From: 01 Apr 2008,To: 01 Apr 2008,Moslem,FY 2008,25,Somalia,3,166
+From: 01 Apr 2008,To: 01 Apr 2008,Moslem Suni,FY 2008,3,Iraq,3,166
+From: 01 Apr 2008,To: 01 Apr 2008,Orthodox,FY 2008,2,Ethiopia,2,166
+

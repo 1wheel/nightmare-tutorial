@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Aug 2004,To: 27 Aug 2004,Cuba,FY 2004,66,Catholic,26,262
+From: 27 Aug 2004,To: 27 Aug 2004,Cuba,FY 2004,66,Christian,3,262
+From: 27 Aug 2004,To: 27 Aug 2004,Cuba,FY 2004,66,Jehovah Witness,7,262
+From: 27 Aug 2004,To: 27 Aug 2004,Cuba,FY 2004,66,Methodist,2,262
+From: 27 Aug 2004,To: 27 Aug 2004,Cuba,FY 2004,66,No Religion,26,262
+From: 27 Aug 2004,To: 27 Aug 2004,Cuba,FY 2004,66,Pentecostalist,2,262
+From: 27 Aug 2004,To: 27 Aug 2004,Dem. Rep. Congo,FY 2004,5,Pentecostalist,5,262
+From: 27 Aug 2004,To: 27 Aug 2004,Ethiopia,FY 2004,8,Christian,8,262
+From: 27 Aug 2004,To: 27 Aug 2004,Laos,FY 2004,70,Ancestral Worship,62,262
+From: 27 Aug 2004,To: 27 Aug 2004,Laos,FY 2004,70,Christian,8,262
+From: 27 Aug 2004,To: 27 Aug 2004,Latvia,FY 2004,11,Baptist,5,262
+From: 27 Aug 2004,To: 27 Aug 2004,Latvia,FY 2004,11,Jewish,5,262
+From: 27 Aug 2004,To: 27 Aug 2004,Latvia,FY 2004,11,Pentecostalist,1,262
+From: 27 Aug 2004,To: 27 Aug 2004,Liberia,FY 2004,16,Christian,6,262
+From: 27 Aug 2004,To: 27 Aug 2004,Liberia,FY 2004,16,Moslem,10,262
+From: 27 Aug 2004,To: 27 Aug 2004,Somalia,FY 2004,86,Moslem,86,262
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Aug 2004,To: 27 Aug 2004,Ancestral Worship,FY 2004,62,Laos,62,262
+From: 27 Aug 2004,To: 27 Aug 2004,Baptist,FY 2004,5,Latvia,5,262
+From: 27 Aug 2004,To: 27 Aug 2004,Catholic,FY 2004,26,Cuba,26,262
+From: 27 Aug 2004,To: 27 Aug 2004,Christian,FY 2004,25,Cuba,3,262
+From: 27 Aug 2004,To: 27 Aug 2004,Christian,FY 2004,25,Ethiopia,8,262
+From: 27 Aug 2004,To: 27 Aug 2004,Christian,FY 2004,25,Laos,8,262
+From: 27 Aug 2004,To: 27 Aug 2004,Christian,FY 2004,25,Liberia,6,262
+From: 27 Aug 2004,To: 27 Aug 2004,Jehovah Witness,FY 2004,7,Cuba,7,262
+From: 27 Aug 2004,To: 27 Aug 2004,Jewish,FY 2004,5,Latvia,5,262
+From: 27 Aug 2004,To: 27 Aug 2004,Methodist,FY 2004,2,Cuba,2,262
+From: 27 Aug 2004,To: 27 Aug 2004,Moslem,FY 2004,96,Liberia,10,262
+From: 27 Aug 2004,To: 27 Aug 2004,Moslem,FY 2004,96,Somalia,86,262
+From: 27 Aug 2004,To: 27 Aug 2004,No Religion,FY 2004,26,Cuba,26,262
+From: 27 Aug 2004,To: 27 Aug 2004,Pentecostalist,FY 2004,8,Cuba,2,262
+From: 27 Aug 2004,To: 27 Aug 2004,Pentecostalist,FY 2004,8,Dem. Rep. Congo,5,262
+From: 27 Aug 2004,To: 27 Aug 2004,Pentecostalist,FY 2004,8,Latvia,1,262
+

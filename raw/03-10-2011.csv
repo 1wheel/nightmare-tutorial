@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Mar 2011,To: 10 Mar 2011,Belarus,FY 2011,6,Baptist,3,166
+From: 10 Mar 2011,To: 10 Mar 2011,Belarus,FY 2011,6,Pentecostalist,3,166
+From: 10 Mar 2011,To: 10 Mar 2011,Bhutan,FY 2011,98,Buddhist,10,166
+From: 10 Mar 2011,To: 10 Mar 2011,Bhutan,FY 2011,98,Christian,24,166
+From: 10 Mar 2011,To: 10 Mar 2011,Bhutan,FY 2011,98,Hindu,64,166
+From: 10 Mar 2011,To: 10 Mar 2011,Burma,FY 2011,43,Buddhist,10,166
+From: 10 Mar 2011,To: 10 Mar 2011,Burma,FY 2011,43,Christian,28,166
+From: 10 Mar 2011,To: 10 Mar 2011,Burma,FY 2011,43,Moslem,5,166
+From: 10 Mar 2011,To: 10 Mar 2011,Congo,FY 2011,1,Protestant,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Cuba,FY 2011,1,No Religion,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Iraq,FY 2011,1,Catholic,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Latvia,FY 2011,2,Jewish,2,166
+From: 10 Mar 2011,To: 10 Mar 2011,Liberia,FY 2011,1,Christian,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Palestine,FY 2011,4,Moslem Suni,4,166
+From: 10 Mar 2011,To: 10 Mar 2011,Russia,FY 2011,7,Baptist,2,166
+From: 10 Mar 2011,To: 10 Mar 2011,Russia,FY 2011,7,Evangelical Christian,5,166
+From: 10 Mar 2011,To: 10 Mar 2011,Togo,FY 2011,2,Christian,2,166
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Mar 2011,To: 10 Mar 2011,Baptist,FY 2011,5,Belarus,3,166
+From: 10 Mar 2011,To: 10 Mar 2011,Baptist,FY 2011,5,Russia,2,166
+From: 10 Mar 2011,To: 10 Mar 2011,Buddhist,FY 2011,20,Bhutan,10,166
+From: 10 Mar 2011,To: 10 Mar 2011,Buddhist,FY 2011,20,Burma,10,166
+From: 10 Mar 2011,To: 10 Mar 2011,Catholic,FY 2011,1,Iraq,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Christian,FY 2011,55,Bhutan,24,166
+From: 10 Mar 2011,To: 10 Mar 2011,Christian,FY 2011,55,Burma,28,166
+From: 10 Mar 2011,To: 10 Mar 2011,Christian,FY 2011,55,Liberia,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Christian,FY 2011,55,Togo,2,166
+From: 10 Mar 2011,To: 10 Mar 2011,Evangelical Christian,FY 2011,5,Russia,5,166
+From: 10 Mar 2011,To: 10 Mar 2011,Hindu,FY 2011,64,Bhutan,64,166
+From: 10 Mar 2011,To: 10 Mar 2011,Jewish,FY 2011,2,Latvia,2,166
+From: 10 Mar 2011,To: 10 Mar 2011,Moslem,FY 2011,5,Burma,5,166
+From: 10 Mar 2011,To: 10 Mar 2011,Moslem Suni,FY 2011,4,Palestine,4,166
+From: 10 Mar 2011,To: 10 Mar 2011,No Religion,FY 2011,1,Cuba,1,166
+From: 10 Mar 2011,To: 10 Mar 2011,Pentecostalist,FY 2011,3,Belarus,3,166
+From: 10 Mar 2011,To: 10 Mar 2011,Protestant,FY 2011,1,Congo,1,166
+

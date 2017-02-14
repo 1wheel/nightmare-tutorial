@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Feb 2005,To: 28 Feb 2005,Afghanistan,FY 2005,1,Moslem,1,105
+From: 28 Feb 2005,To: 28 Feb 2005,Burma,FY 2005,25,Buddhist,19,105
+From: 28 Feb 2005,To: 28 Feb 2005,Burma,FY 2005,25,Moslem,1,105
+From: 28 Feb 2005,To: 28 Feb 2005,Burma,FY 2005,25,Protestant,5,105
+From: 28 Feb 2005,To: 28 Feb 2005,Iran,FY 2005,35,Bahai,35,105
+From: 28 Feb 2005,To: 28 Feb 2005,Laos,FY 2005,9,Ancestral Worship,9,105
+From: 28 Feb 2005,To: 28 Feb 2005,Ukraine,FY 2005,35,Baptist,6,105
+From: 28 Feb 2005,To: 28 Feb 2005,Ukraine,FY 2005,35,Jewish,5,105
+From: 28 Feb 2005,To: 28 Feb 2005,Ukraine,FY 2005,35,Pentecostalist,24,105
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Feb 2005,To: 28 Feb 2005,Ancestral Worship,FY 2005,9,Laos,9,105
+From: 28 Feb 2005,To: 28 Feb 2005,Bahai,FY 2005,35,Iran,35,105
+From: 28 Feb 2005,To: 28 Feb 2005,Baptist,FY 2005,6,Ukraine,6,105
+From: 28 Feb 2005,To: 28 Feb 2005,Buddhist,FY 2005,19,Burma,19,105
+From: 28 Feb 2005,To: 28 Feb 2005,Jewish,FY 2005,5,Ukraine,5,105
+From: 28 Feb 2005,To: 28 Feb 2005,Moslem,FY 2005,2,Afghanistan,1,105
+From: 28 Feb 2005,To: 28 Feb 2005,Moslem,FY 2005,2,Burma,1,105
+From: 28 Feb 2005,To: 28 Feb 2005,Pentecostalist,FY 2005,24,Ukraine,24,105
+From: 28 Feb 2005,To: 28 Feb 2005,Protestant,FY 2005,5,Burma,5,105
+

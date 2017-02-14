@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Apr 2013,To: 01 Apr 2013,Burma,FY 2013,34,Baptist,10,134
+From: 01 Apr 2013,To: 01 Apr 2013,Burma,FY 2013,34,Buddhist,10,134
+From: 01 Apr 2013,To: 01 Apr 2013,Burma,FY 2013,34,Christian,11,134
+From: 01 Apr 2013,To: 01 Apr 2013,Burma,FY 2013,34,Methodist,3,134
+From: 01 Apr 2013,To: 01 Apr 2013,Colombia,FY 2013,14,Catholic,6,134
+From: 01 Apr 2013,To: 01 Apr 2013,Colombia,FY 2013,14,Christian,8,134
+From: 01 Apr 2013,To: 01 Apr 2013,Iraq,FY 2013,81,Catholic,4,134
+From: 01 Apr 2013,To: 01 Apr 2013,Iraq,FY 2013,81,Christian,12,134
+From: 01 Apr 2013,To: 01 Apr 2013,Iraq,FY 2013,81,Moslem Shiite,21,134
+From: 01 Apr 2013,To: 01 Apr 2013,Iraq,FY 2013,81,Moslem Suni,43,134
+From: 01 Apr 2013,To: 01 Apr 2013,Iraq,FY 2013,81,Sabeans-Mandean,1,134
+From: 01 Apr 2013,To: 01 Apr 2013,Sudan,FY 2013,5,Moslem Suni,5,134
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Apr 2013,To: 01 Apr 2013,Baptist,FY 2013,10,Burma,10,134
+From: 01 Apr 2013,To: 01 Apr 2013,Buddhist,FY 2013,10,Burma,10,134
+From: 01 Apr 2013,To: 01 Apr 2013,Catholic,FY 2013,10,Colombia,6,134
+From: 01 Apr 2013,To: 01 Apr 2013,Catholic,FY 2013,10,Iraq,4,134
+From: 01 Apr 2013,To: 01 Apr 2013,Christian,FY 2013,31,Burma,11,134
+From: 01 Apr 2013,To: 01 Apr 2013,Christian,FY 2013,31,Colombia,8,134
+From: 01 Apr 2013,To: 01 Apr 2013,Christian,FY 2013,31,Iraq,12,134
+From: 01 Apr 2013,To: 01 Apr 2013,Methodist,FY 2013,3,Burma,3,134
+From: 01 Apr 2013,To: 01 Apr 2013,Moslem Shiite,FY 2013,21,Iraq,21,134
+From: 01 Apr 2013,To: 01 Apr 2013,Moslem Suni,FY 2013,48,Iraq,43,134
+From: 01 Apr 2013,To: 01 Apr 2013,Moslem Suni,FY 2013,48,Sudan,5,134
+From: 01 Apr 2013,To: 01 Apr 2013,Sabeans-Mandean,FY 2013,1,Iraq,1,134
+

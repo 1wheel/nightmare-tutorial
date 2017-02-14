@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Apr 2009,To: 09 Apr 2009,Bhutan,FY 2009,70,Buddhist,8,216
+From: 09 Apr 2009,To: 09 Apr 2009,Bhutan,FY 2009,70,Christian,3,216
+From: 09 Apr 2009,To: 09 Apr 2009,Bhutan,FY 2009,70,Hindu,52,216
+From: 09 Apr 2009,To: 09 Apr 2009,Bhutan,FY 2009,70,Kirat,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Burma,FY 2009,76,Buddhist,3,216
+From: 09 Apr 2009,To: 09 Apr 2009,Burma,FY 2009,76,Catholic,10,216
+From: 09 Apr 2009,To: 09 Apr 2009,Burma,FY 2009,76,Christian,63,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iran,FY 2009,19,Bahai,10,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iran,FY 2009,19,Sabeans-Mandean,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iran,FY 2009,19,Zoroastrian,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iraq,FY 2009,23,Moslem,4,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iraq,FY 2009,23,Moslem Shiite,10,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iraq,FY 2009,23,Moslem Suni,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Iraq,FY 2009,23,Protestant,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Liberia,FY 2009,7,Moslem,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Sierra Leone,FY 2009,2,Moslem,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Somalia,FY 2009,1,Moslem,1,216
+From: 09 Apr 2009,To: 09 Apr 2009,Ukraine,FY 2009,15,Baptist,8,216
+From: 09 Apr 2009,To: 09 Apr 2009,Ukraine,FY 2009,15,Jewish,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Ukraine,FY 2009,15,Seventh Day Adventist,5,216
+From: 09 Apr 2009,To: 09 Apr 2009,Uzbekistan,FY 2009,3,Jewish,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Uzbekistan,FY 2009,3,Moslem Suni,1,216
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Apr 2009,To: 09 Apr 2009,Bahai,FY 2009,10,Iran,10,216
+From: 09 Apr 2009,To: 09 Apr 2009,Baptist,FY 2009,8,Ukraine,8,216
+From: 09 Apr 2009,To: 09 Apr 2009,Buddhist,FY 2009,11,Bhutan,8,216
+From: 09 Apr 2009,To: 09 Apr 2009,Buddhist,FY 2009,11,Burma,3,216
+From: 09 Apr 2009,To: 09 Apr 2009,Catholic,FY 2009,10,Burma,10,216
+From: 09 Apr 2009,To: 09 Apr 2009,Christian,FY 2009,66,Bhutan,3,216
+From: 09 Apr 2009,To: 09 Apr 2009,Christian,FY 2009,66,Burma,63,216
+From: 09 Apr 2009,To: 09 Apr 2009,Hindu,FY 2009,52,Bhutan,52,216
+From: 09 Apr 2009,To: 09 Apr 2009,Jewish,FY 2009,4,Ukraine,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Jewish,FY 2009,4,Uzbekistan,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Kirat,FY 2009,7,Bhutan,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem,FY 2009,14,Iraq,4,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem,FY 2009,14,Liberia,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem,FY 2009,14,Sierra Leone,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem,FY 2009,14,Somalia,1,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem Shiite,FY 2009,10,Iraq,10,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem Suni,FY 2009,8,Iraq,7,216
+From: 09 Apr 2009,To: 09 Apr 2009,Moslem Suni,FY 2009,8,Uzbekistan,1,216
+From: 09 Apr 2009,To: 09 Apr 2009,Protestant,FY 2009,2,Iraq,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Sabeans-Mandean,FY 2009,2,Iran,2,216
+From: 09 Apr 2009,To: 09 Apr 2009,Seventh Day Adventist,FY 2009,5,Ukraine,5,216
+From: 09 Apr 2009,To: 09 Apr 2009,Zoroastrian,FY 2009,7,Iran,7,216
+

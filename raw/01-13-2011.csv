@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Jan 2011,To: 13 Jan 2011,Bhutan,FY 2011,100,Buddhist,12,324
+From: 13 Jan 2011,To: 13 Jan 2011,Bhutan,FY 2011,100,Hindu,86,324
+From: 13 Jan 2011,To: 13 Jan 2011,Bhutan,FY 2011,100,Kirat,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Burma,FY 2011,25,Animist,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Burma,FY 2011,25,Buddhist,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Burma,FY 2011,25,Catholic,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,Burma,FY 2011,25,Christian,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Burma,FY 2011,25,Moslem,14,324
+From: 13 Jan 2011,To: 13 Jan 2011,Cuba,FY 2011,68,Catholic,32,324
+From: 13 Jan 2011,To: 13 Jan 2011,Cuba,FY 2011,68,Jehovah Witness,12,324
+From: 13 Jan 2011,To: 13 Jan 2011,Cuba,FY 2011,68,No Religion,24,324
+From: 13 Jan 2011,To: 13 Jan 2011,Dem. Rep. Congo,FY 2011,10,Jehovah Witness,10,324
+From: 13 Jan 2011,To: 13 Jan 2011,Eritrea,FY 2011,2,Orthodox,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iran,FY 2011,19,Bahai,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iran,FY 2011,19,Christian,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iran,FY 2011,19,Moslem Shiite,9,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iran,FY 2011,19,Moslem Suni,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iraq,FY 2011,53,Catholic,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iraq,FY 2011,53,Christian,6,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iraq,FY 2011,53,Moslem,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iraq,FY 2011,53,Moslem Shiite,4,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iraq,FY 2011,53,Moslem Suni,28,324
+From: 13 Jan 2011,To: 13 Jan 2011,Iraq,FY 2011,53,Sabeans-Mandean,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,"Korea, North",FY 2011,1,Christian,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Kuwait,FY 2011,3,Moslem Suni,3,324
+From: 13 Jan 2011,To: 13 Jan 2011,Liberia,FY 2011,1,Moslem,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Russia,FY 2011,4,Baptist,4,324
+From: 13 Jan 2011,To: 13 Jan 2011,Somalia,FY 2011,36,Moslem,36,324
+From: 13 Jan 2011,To: 13 Jan 2011,Sri Lanka (Ceylon),FY 2011,1,Buddhist,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Syria,FY 2011,1,Moslem Suni,1,324
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Jan 2011,To: 13 Jan 2011,Animist,FY 2011,1,Burma,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Bahai,FY 2011,7,Iran,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,Baptist,FY 2011,4,Russia,4,324
+From: 13 Jan 2011,To: 13 Jan 2011,Buddhist,FY 2011,15,Bhutan,12,324
+From: 13 Jan 2011,To: 13 Jan 2011,Buddhist,FY 2011,15,Burma,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Buddhist,FY 2011,15,Sri Lanka (Ceylon),1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Catholic,FY 2011,40,Burma,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,Catholic,FY 2011,40,Cuba,32,324
+From: 13 Jan 2011,To: 13 Jan 2011,Catholic,FY 2011,40,Iraq,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Christian,FY 2011,9,Burma,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Christian,FY 2011,9,Iran,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Christian,FY 2011,9,Iraq,6,324
+From: 13 Jan 2011,To: 13 Jan 2011,Christian,FY 2011,9,"Korea, North",1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Hindu,FY 2011,86,Bhutan,86,324
+From: 13 Jan 2011,To: 13 Jan 2011,Jehovah Witness,FY 2011,22,Cuba,12,324
+From: 13 Jan 2011,To: 13 Jan 2011,Jehovah Witness,FY 2011,22,Dem. Rep. Congo,10,324
+From: 13 Jan 2011,To: 13 Jan 2011,Kirat,FY 2011,2,Bhutan,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem,FY 2011,58,Burma,14,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem,FY 2011,58,Iraq,7,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem,FY 2011,58,Liberia,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem,FY 2011,58,Somalia,36,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem Shiite,FY 2011,13,Iran,9,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem Shiite,FY 2011,13,Iraq,4,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem Suni,FY 2011,34,Iran,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem Suni,FY 2011,34,Iraq,28,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem Suni,FY 2011,34,Kuwait,3,324
+From: 13 Jan 2011,To: 13 Jan 2011,Moslem Suni,FY 2011,34,Syria,1,324
+From: 13 Jan 2011,To: 13 Jan 2011,No Religion,FY 2011,24,Cuba,24,324
+From: 13 Jan 2011,To: 13 Jan 2011,Orthodox,FY 2011,2,Eritrea,2,324
+From: 13 Jan 2011,To: 13 Jan 2011,Sabeans-Mandean,FY 2011,7,Iraq,7,324
+

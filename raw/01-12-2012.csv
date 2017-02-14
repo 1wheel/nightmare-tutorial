@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Jan 2012,To: 12 Jan 2012,Bhutan,FY 2012,105,Buddhist,24,348
+From: 12 Jan 2012,To: 12 Jan 2012,Bhutan,FY 2012,105,Christian,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Bhutan,FY 2012,105,Hindu,55,348
+From: 12 Jan 2012,To: 12 Jan 2012,Bhutan,FY 2012,105,Kirat,20,348
+From: 12 Jan 2012,To: 12 Jan 2012,Burma,FY 2012,82,Baptist,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Burma,FY 2012,82,Buddhist,36,348
+From: 12 Jan 2012,To: 12 Jan 2012,Burma,FY 2012,82,Catholic,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Burma,FY 2012,82,Christian,34,348
+From: 12 Jan 2012,To: 12 Jan 2012,Burma,FY 2012,82,Seventh Day Adventist,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Cuba,FY 2012,41,Catholic,19,348
+From: 12 Jan 2012,To: 12 Jan 2012,Cuba,FY 2012,41,Evangelical Christian,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Cuba,FY 2012,41,Jehovah Witness,13,348
+From: 12 Jan 2012,To: 12 Jan 2012,Cuba,FY 2012,41,No Religion,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Cuba,FY 2012,41,Protestant,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Ethiopia,FY 2012,3,Protestant,3,348
+From: 12 Jan 2012,To: 12 Jan 2012,Georgia,FY 2012,4,Pentecostalist,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iran,FY 2012,26,Atheist,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iran,FY 2012,26,Bahai,8,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iran,FY 2012,26,Christian,13,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iran,FY 2012,26,Moslem Shiite,3,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iran,FY 2012,26,No Religion,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iraq,FY 2012,50,Catholic,27,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iraq,FY 2012,50,Christian,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iraq,FY 2012,50,Evangelical Christian,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iraq,FY 2012,50,Moslem Shiite,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iraq,FY 2012,50,Moslem Suni,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Iraq,FY 2012,50,Orthodox,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Liberia,FY 2012,2,Christian,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Nepal,FY 2012,2,Hindu,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Pakistan,FY 2012,1,Ahmadiyya,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Sudan,FY 2012,6,Moslem,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Ukraine,FY 2012,18,Baptist,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Ukraine,FY 2012,18,Jewish,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Ukraine,FY 2012,18,Pentecostalist,10,348
+From: 12 Jan 2012,To: 12 Jan 2012,Vietnam,FY 2012,8,Catholic,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Vietnam,FY 2012,8,No Religion,4,348
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Jan 2012,To: 12 Jan 2012,Ahmadiyya,FY 2012,1,Pakistan,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Atheist,FY 2012,1,Iran,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Bahai,FY 2012,8,Iran,8,348
+From: 12 Jan 2012,To: 12 Jan 2012,Baptist,FY 2012,12,Burma,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Baptist,FY 2012,12,Ukraine,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Buddhist,FY 2012,60,Bhutan,24,348
+From: 12 Jan 2012,To: 12 Jan 2012,Buddhist,FY 2012,60,Burma,36,348
+From: 12 Jan 2012,To: 12 Jan 2012,Catholic,FY 2012,54,Burma,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Catholic,FY 2012,54,Cuba,19,348
+From: 12 Jan 2012,To: 12 Jan 2012,Catholic,FY 2012,54,Iraq,27,348
+From: 12 Jan 2012,To: 12 Jan 2012,Catholic,FY 2012,54,Vietnam,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Christian,FY 2012,61,Bhutan,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Christian,FY 2012,61,Burma,34,348
+From: 12 Jan 2012,To: 12 Jan 2012,Christian,FY 2012,61,Iran,13,348
+From: 12 Jan 2012,To: 12 Jan 2012,Christian,FY 2012,61,Iraq,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Christian,FY 2012,61,Liberia,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Evangelical Christian,FY 2012,5,Cuba,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Evangelical Christian,FY 2012,5,Iraq,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Hindu,FY 2012,57,Bhutan,55,348
+From: 12 Jan 2012,To: 12 Jan 2012,Hindu,FY 2012,57,Nepal,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Jehovah Witness,FY 2012,13,Cuba,13,348
+From: 12 Jan 2012,To: 12 Jan 2012,Jewish,FY 2012,2,Ukraine,2,348
+From: 12 Jan 2012,To: 12 Jan 2012,Kirat,FY 2012,20,Bhutan,20,348
+From: 12 Jan 2012,To: 12 Jan 2012,Moslem,FY 2012,6,Sudan,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Moslem Shiite,FY 2012,9,Iran,3,348
+From: 12 Jan 2012,To: 12 Jan 2012,Moslem Shiite,FY 2012,9,Iraq,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,Moslem Suni,FY 2012,6,Iraq,6,348
+From: 12 Jan 2012,To: 12 Jan 2012,No Religion,FY 2012,9,Cuba,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,No Religion,FY 2012,9,Iran,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,No Religion,FY 2012,9,Vietnam,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Orthodox,FY 2012,4,Iraq,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Pentecostalist,FY 2012,14,Georgia,4,348
+From: 12 Jan 2012,To: 12 Jan 2012,Pentecostalist,FY 2012,14,Ukraine,10,348
+From: 12 Jan 2012,To: 12 Jan 2012,Protestant,FY 2012,4,Cuba,1,348
+From: 12 Jan 2012,To: 12 Jan 2012,Protestant,FY 2012,4,Ethiopia,3,348
+From: 12 Jan 2012,To: 12 Jan 2012,Seventh Day Adventist,FY 2012,2,Burma,2,348
+

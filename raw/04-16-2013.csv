@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Apr 2013,To: 16 Apr 2013,Bhutan,FY 2013,44,Buddhist,11,365
+From: 16 Apr 2013,To: 16 Apr 2013,Bhutan,FY 2013,44,Hindu,17,365
+From: 16 Apr 2013,To: 16 Apr 2013,Bhutan,FY 2013,44,Kirat,16,365
+From: 16 Apr 2013,To: 16 Apr 2013,Burma,FY 2013,56,Baptist,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Burma,FY 2013,56,Buddhist,12,365
+From: 16 Apr 2013,To: 16 Apr 2013,Burma,FY 2013,56,Catholic,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Burma,FY 2013,56,Christian,40,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,Baptist,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,Catholic,11,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,Evangelical Christian,5,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,Jehovah Witness,16,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,Methodist,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,No Religion,17,365
+From: 16 Apr 2013,To: 16 Apr 2013,Cuba,FY 2013,63,Pentecostalist,10,365
+From: 16 Apr 2013,To: 16 Apr 2013,Dem. Rep. Congo,FY 2013,14,Moslem,8,365
+From: 16 Apr 2013,To: 16 Apr 2013,Dem. Rep. Congo,FY 2013,14,Seventh Day Adventist,6,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iran,FY 2013,8,Bahai,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iran,FY 2013,8,Christian,3,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iran,FY 2013,8,Jewish,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iran,FY 2013,8,Moslem Shiite,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iran,FY 2013,8,Zoroastrian,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iraq,FY 2013,151,Catholic,5,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iraq,FY 2013,151,Christian,40,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iraq,FY 2013,151,Moslem,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iraq,FY 2013,151,Moslem Shiite,51,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iraq,FY 2013,151,Moslem Suni,53,365
+From: 16 Apr 2013,To: 16 Apr 2013,Iraq,FY 2013,151,Yazidi,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Somalia,FY 2013,28,Moslem,9,365
+From: 16 Apr 2013,To: 16 Apr 2013,Somalia,FY 2013,28,Moslem Suni,19,365
+From: 16 Apr 2013,To: 16 Apr 2013,Sudan,FY 2013,1,Moslem,1,365
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Apr 2013,To: 16 Apr 2013,Bahai,FY 2013,1,Iran,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Baptist,FY 2013,4,Burma,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Baptist,FY 2013,4,Cuba,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Buddhist,FY 2013,23,Bhutan,11,365
+From: 16 Apr 2013,To: 16 Apr 2013,Buddhist,FY 2013,23,Burma,12,365
+From: 16 Apr 2013,To: 16 Apr 2013,Catholic,FY 2013,18,Burma,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Catholic,FY 2013,18,Cuba,11,365
+From: 16 Apr 2013,To: 16 Apr 2013,Catholic,FY 2013,18,Iraq,5,365
+From: 16 Apr 2013,To: 16 Apr 2013,Christian,FY 2013,83,Burma,40,365
+From: 16 Apr 2013,To: 16 Apr 2013,Christian,FY 2013,83,Iran,3,365
+From: 16 Apr 2013,To: 16 Apr 2013,Christian,FY 2013,83,Iraq,40,365
+From: 16 Apr 2013,To: 16 Apr 2013,Evangelical Christian,FY 2013,5,Cuba,5,365
+From: 16 Apr 2013,To: 16 Apr 2013,Hindu,FY 2013,17,Bhutan,17,365
+From: 16 Apr 2013,To: 16 Apr 2013,Jehovah Witness,FY 2013,16,Cuba,16,365
+From: 16 Apr 2013,To: 16 Apr 2013,Jewish,FY 2013,1,Iran,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Kirat,FY 2013,16,Bhutan,16,365
+From: 16 Apr 2013,To: 16 Apr 2013,Methodist,FY 2013,2,Cuba,2,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem,FY 2013,19,Dem. Rep. Congo,8,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem,FY 2013,19,Iraq,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem,FY 2013,19,Somalia,9,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem,FY 2013,19,Sudan,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem Shiite,FY 2013,52,Iran,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem Shiite,FY 2013,52,Iraq,51,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem Suni,FY 2013,72,Iraq,53,365
+From: 16 Apr 2013,To: 16 Apr 2013,Moslem Suni,FY 2013,72,Somalia,19,365
+From: 16 Apr 2013,To: 16 Apr 2013,No Religion,FY 2013,17,Cuba,17,365
+From: 16 Apr 2013,To: 16 Apr 2013,Pentecostalist,FY 2013,10,Cuba,10,365
+From: 16 Apr 2013,To: 16 Apr 2013,Seventh Day Adventist,FY 2013,6,Dem. Rep. Congo,6,365
+From: 16 Apr 2013,To: 16 Apr 2013,Yazidi,FY 2013,1,Iraq,1,365
+From: 16 Apr 2013,To: 16 Apr 2013,Zoroastrian,FY 2013,2,Iran,2,365
+

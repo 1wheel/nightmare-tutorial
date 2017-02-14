@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jun 2004,To: 01 Jun 2004,Afghanistan,FY 2004,18,Moslem Shiite,1,224
+From: 01 Jun 2004,To: 01 Jun 2004,Afghanistan,FY 2004,18,Moslem Suni,17,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Baptist,1,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Catholic,4,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Christian,40,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Lutheran,5,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Methodist,5,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Moslem,7,224
+From: 01 Jun 2004,To: 01 Jun 2004,Liberia,FY 2004,69,Pentecostalist,7,224
+From: 01 Jun 2004,To: 01 Jun 2004,Rwanda,FY 2004,1,Catholic,1,224
+From: 01 Jun 2004,To: 01 Jun 2004,Somalia,FY 2004,105,Moslem,105,224
+From: 01 Jun 2004,To: 01 Jun 2004,Ukraine,FY 2004,31,Baptist,3,224
+From: 01 Jun 2004,To: 01 Jun 2004,Ukraine,FY 2004,31,Jewish,3,224
+From: 01 Jun 2004,To: 01 Jun 2004,Ukraine,FY 2004,31,Pentecostalist,25,224
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jun 2004,To: 01 Jun 2004,Baptist,FY 2004,4,Liberia,1,224
+From: 01 Jun 2004,To: 01 Jun 2004,Baptist,FY 2004,4,Ukraine,3,224
+From: 01 Jun 2004,To: 01 Jun 2004,Catholic,FY 2004,5,Liberia,4,224
+From: 01 Jun 2004,To: 01 Jun 2004,Catholic,FY 2004,5,Rwanda,1,224
+From: 01 Jun 2004,To: 01 Jun 2004,Christian,FY 2004,40,Liberia,40,224
+From: 01 Jun 2004,To: 01 Jun 2004,Jewish,FY 2004,3,Ukraine,3,224
+From: 01 Jun 2004,To: 01 Jun 2004,Lutheran,FY 2004,5,Liberia,5,224
+From: 01 Jun 2004,To: 01 Jun 2004,Methodist,FY 2004,5,Liberia,5,224
+From: 01 Jun 2004,To: 01 Jun 2004,Moslem,FY 2004,112,Liberia,7,224
+From: 01 Jun 2004,To: 01 Jun 2004,Moslem,FY 2004,112,Somalia,105,224
+From: 01 Jun 2004,To: 01 Jun 2004,Moslem Shiite,FY 2004,1,Afghanistan,1,224
+From: 01 Jun 2004,To: 01 Jun 2004,Moslem Suni,FY 2004,17,Afghanistan,17,224
+From: 01 Jun 2004,To: 01 Jun 2004,Pentecostalist,FY 2004,32,Liberia,7,224
+From: 01 Jun 2004,To: 01 Jun 2004,Pentecostalist,FY 2004,32,Ukraine,25,224
+

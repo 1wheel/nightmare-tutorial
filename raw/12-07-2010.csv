@@ -1,0 +1,77 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Dec 2010,To: 07 Dec 2010,Afghanistan,FY 2011,3,Moslem Shiite,3,466
+From: 07 Dec 2010,To: 07 Dec 2010,Bhutan,FY 2011,157,Buddhist,36,466
+From: 07 Dec 2010,To: 07 Dec 2010,Bhutan,FY 2011,157,Christian,11,466
+From: 07 Dec 2010,To: 07 Dec 2010,Bhutan,FY 2011,157,Hindu,100,466
+From: 07 Dec 2010,To: 07 Dec 2010,Bhutan,FY 2011,157,Kirat,10,466
+From: 07 Dec 2010,To: 07 Dec 2010,Burma,FY 2011,81,Animist,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Burma,FY 2011,81,Buddhist,11,466
+From: 07 Dec 2010,To: 07 Dec 2010,Burma,FY 2011,81,Catholic,4,466
+From: 07 Dec 2010,To: 07 Dec 2010,Burma,FY 2011,81,Christian,60,466
+From: 07 Dec 2010,To: 07 Dec 2010,Burma,FY 2011,81,Unknown,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,China,FY 2011,1,No Religion,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Cuba,FY 2011,49,Baptist,4,466
+From: 07 Dec 2010,To: 07 Dec 2010,Cuba,FY 2011,49,Catholic,16,466
+From: 07 Dec 2010,To: 07 Dec 2010,Cuba,FY 2011,49,Jehovah Witness,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Cuba,FY 2011,49,No Religion,24,466
+From: 07 Dec 2010,To: 07 Dec 2010,Ethiopia,FY 2011,1,Christian,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,India,FY 2011,1,Moslem,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iran,FY 2011,50,Bahai,16,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iran,FY 2011,50,Christian,22,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iran,FY 2011,50,Jewish,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iran,FY 2011,50,Moslem Shiite,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iran,FY 2011,50,Zoroastrian,6,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iraq,FY 2011,42,Catholic,2,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iraq,FY 2011,42,Christian,14,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iraq,FY 2011,42,Moslem,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iraq,FY 2011,42,Moslem Suni,16,466
+From: 07 Dec 2010,To: 07 Dec 2010,Iraq,FY 2011,42,Sabeans-Mandean,9,466
+From: 07 Dec 2010,To: 07 Dec 2010,"Korea, North",FY 2011,1,No Religion,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Liberia,FY 2011,2,Christian,2,466
+From: 07 Dec 2010,To: 07 Dec 2010,Somalia,FY 2011,58,Moslem,58,466
+From: 07 Dec 2010,To: 07 Dec 2010,Sudan,FY 2011,13,Christian,12,466
+From: 07 Dec 2010,To: 07 Dec 2010,Sudan,FY 2011,13,Moslem,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Uzbekistan,FY 2011,7,Atheist,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Uzbekistan,FY 2011,7,Moslem,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Uzbekistan,FY 2011,7,Unknown,1,466
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Dec 2010,To: 07 Dec 2010,Animist,FY 2011,5,Burma,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Atheist,FY 2011,1,Uzbekistan,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Bahai,FY 2011,16,Iran,16,466
+From: 07 Dec 2010,To: 07 Dec 2010,Baptist,FY 2011,4,Cuba,4,466
+From: 07 Dec 2010,To: 07 Dec 2010,Buddhist,FY 2011,47,Bhutan,36,466
+From: 07 Dec 2010,To: 07 Dec 2010,Buddhist,FY 2011,47,Burma,11,466
+From: 07 Dec 2010,To: 07 Dec 2010,Catholic,FY 2011,22,Burma,4,466
+From: 07 Dec 2010,To: 07 Dec 2010,Catholic,FY 2011,22,Cuba,16,466
+From: 07 Dec 2010,To: 07 Dec 2010,Catholic,FY 2011,22,Iraq,2,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Bhutan,11,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Burma,60,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Ethiopia,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Iran,22,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Iraq,14,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Liberia,2,466
+From: 07 Dec 2010,To: 07 Dec 2010,Christian,FY 2011,122,Sudan,12,466
+From: 07 Dec 2010,To: 07 Dec 2010,Hindu,FY 2011,100,Bhutan,100,466
+From: 07 Dec 2010,To: 07 Dec 2010,Jehovah Witness,FY 2011,5,Cuba,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Jewish,FY 2011,5,Iran,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Kirat,FY 2011,10,Bhutan,10,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem,FY 2011,66,India,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem,FY 2011,66,Iraq,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem,FY 2011,66,Somalia,58,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem,FY 2011,66,Sudan,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem,FY 2011,66,Uzbekistan,5,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem Shiite,FY 2011,4,Afghanistan,3,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem Shiite,FY 2011,4,Iran,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Moslem Suni,FY 2011,16,Iraq,16,466
+From: 07 Dec 2010,To: 07 Dec 2010,No Religion,FY 2011,26,China,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,No Religion,FY 2011,26,Cuba,24,466
+From: 07 Dec 2010,To: 07 Dec 2010,No Religion,FY 2011,26,"Korea, North",1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Sabeans-Mandean,FY 2011,9,Iraq,9,466
+From: 07 Dec 2010,To: 07 Dec 2010,Unknown,FY 2011,2,Burma,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Unknown,FY 2011,2,Uzbekistan,1,466
+From: 07 Dec 2010,To: 07 Dec 2010,Zoroastrian,FY 2011,6,Iran,6,466
+

@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Feb 2016,To: 04 Feb 2016,Afghanistan,FY 2016,42,Moslem Shiite,17,348
+From: 04 Feb 2016,To: 04 Feb 2016,Afghanistan,FY 2016,42,Moslem Suni,25,348
+From: 04 Feb 2016,To: 04 Feb 2016,Bhutan,FY 2016,31,Buddhist,9,348
+From: 04 Feb 2016,To: 04 Feb 2016,Bhutan,FY 2016,31,Christian,10,348
+From: 04 Feb 2016,To: 04 Feb 2016,Bhutan,FY 2016,31,Hindu,12,348
+From: 04 Feb 2016,To: 04 Feb 2016,Burma,FY 2016,75,Baptist,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Burma,FY 2016,75,Buddhist,21,348
+From: 04 Feb 2016,To: 04 Feb 2016,Burma,FY 2016,75,Catholic,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Burma,FY 2016,75,Christian,25,348
+From: 04 Feb 2016,To: 04 Feb 2016,Burma,FY 2016,75,Moslem,15,348
+From: 04 Feb 2016,To: 04 Feb 2016,Dem. Rep. Congo,FY 2016,25,Christian,13,348
+From: 04 Feb 2016,To: 04 Feb 2016,Dem. Rep. Congo,FY 2016,25,Moslem,8,348
+From: 04 Feb 2016,To: 04 Feb 2016,Dem. Rep. Congo,FY 2016,25,Protestant,4,348
+From: 04 Feb 2016,To: 04 Feb 2016,Eritrea,FY 2016,5,Orthodox,4,348
+From: 04 Feb 2016,To: 04 Feb 2016,Eritrea,FY 2016,5,Pentecostalist,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Ethiopia,FY 2016,1,Christian,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iran,FY 2016,18,Atheist,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iran,FY 2016,18,Bahai,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iran,FY 2016,18,No Religion,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iran,FY 2016,18,Protestant,2,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iran,FY 2016,18,Sabeans-Mandean,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iraq,FY 2016,21,Catholic,6,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iraq,FY 2016,21,Moslem Shiite,5,348
+From: 04 Feb 2016,To: 04 Feb 2016,Iraq,FY 2016,21,Moslem Suni,10,348
+From: 04 Feb 2016,To: 04 Feb 2016,Pakistan,FY 2016,7,Moslem Shiite,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Palestine,FY 2016,8,Moslem,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Palestine,FY 2016,8,Moslem Suni,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Somalia,FY 2016,71,Moslem,71,348
+From: 04 Feb 2016,To: 04 Feb 2016,Sudan,FY 2016,2,Moslem,2,348
+From: 04 Feb 2016,To: 04 Feb 2016,Syria,FY 2016,8,Moslem Suni,8,348
+From: 04 Feb 2016,To: 04 Feb 2016,Ukraine,FY 2016,34,Baptist,13,348
+From: 04 Feb 2016,To: 04 Feb 2016,Ukraine,FY 2016,34,Pentecostalist,21,348
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Feb 2016,To: 04 Feb 2016,Atheist,FY 2016,1,Iran,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Bahai,FY 2016,7,Iran,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Baptist,FY 2016,20,Burma,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Baptist,FY 2016,20,Ukraine,13,348
+From: 04 Feb 2016,To: 04 Feb 2016,Buddhist,FY 2016,30,Bhutan,9,348
+From: 04 Feb 2016,To: 04 Feb 2016,Buddhist,FY 2016,30,Burma,21,348
+From: 04 Feb 2016,To: 04 Feb 2016,Catholic,FY 2016,13,Burma,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Catholic,FY 2016,13,Iraq,6,348
+From: 04 Feb 2016,To: 04 Feb 2016,Christian,FY 2016,49,Bhutan,10,348
+From: 04 Feb 2016,To: 04 Feb 2016,Christian,FY 2016,49,Burma,25,348
+From: 04 Feb 2016,To: 04 Feb 2016,Christian,FY 2016,49,Dem. Rep. Congo,13,348
+From: 04 Feb 2016,To: 04 Feb 2016,Christian,FY 2016,49,Ethiopia,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Hindu,FY 2016,12,Bhutan,12,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem,FY 2016,103,Burma,15,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem,FY 2016,103,Dem. Rep. Congo,8,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem,FY 2016,103,Palestine,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem,FY 2016,103,Somalia,71,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem,FY 2016,103,Sudan,2,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Shiite,FY 2016,29,Afghanistan,17,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Shiite,FY 2016,29,Iraq,5,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Shiite,FY 2016,29,Pakistan,7,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Suni,FY 2016,44,Afghanistan,25,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Suni,FY 2016,44,Iraq,10,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Suni,FY 2016,44,Palestine,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Moslem Suni,FY 2016,44,Syria,8,348
+From: 04 Feb 2016,To: 04 Feb 2016,No Religion,FY 2016,1,Iran,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Orthodox,FY 2016,4,Eritrea,4,348
+From: 04 Feb 2016,To: 04 Feb 2016,Pentecostalist,FY 2016,22,Eritrea,1,348
+From: 04 Feb 2016,To: 04 Feb 2016,Pentecostalist,FY 2016,22,Ukraine,21,348
+From: 04 Feb 2016,To: 04 Feb 2016,Protestant,FY 2016,6,Dem. Rep. Congo,4,348
+From: 04 Feb 2016,To: 04 Feb 2016,Protestant,FY 2016,6,Iran,2,348
+From: 04 Feb 2016,To: 04 Feb 2016,Sabeans-Mandean,FY 2016,7,Iran,7,348
+

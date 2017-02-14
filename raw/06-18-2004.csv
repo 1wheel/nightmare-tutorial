@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 Jun 2004,To: 18 Jun 2004,Cuba,FY 2004,35,Baptist,4,152
+From: 18 Jun 2004,To: 18 Jun 2004,Cuba,FY 2004,35,Catholic,7,152
+From: 18 Jun 2004,To: 18 Jun 2004,Cuba,FY 2004,35,Evangelical Christian,7,152
+From: 18 Jun 2004,To: 18 Jun 2004,Cuba,FY 2004,35,Jehovah Witness,5,152
+From: 18 Jun 2004,To: 18 Jun 2004,Cuba,FY 2004,35,No Religion,10,152
+From: 18 Jun 2004,To: 18 Jun 2004,Cuba,FY 2004,35,Pentecostalist,2,152
+From: 18 Jun 2004,To: 18 Jun 2004,Ethiopia,FY 2004,11,Moslem,4,152
+From: 18 Jun 2004,To: 18 Jun 2004,Ethiopia,FY 2004,11,Orthodox,4,152
+From: 18 Jun 2004,To: 18 Jun 2004,Ethiopia,FY 2004,11,Other Religion,3,152
+From: 18 Jun 2004,To: 18 Jun 2004,Iran,FY 2004,33,Bahai,30,152
+From: 18 Jun 2004,To: 18 Jun 2004,Iran,FY 2004,33,No Religion,3,152
+From: 18 Jun 2004,To: 18 Jun 2004,Latvia,FY 2004,13,Pentecostalist,13,152
+From: 18 Jun 2004,To: 18 Jun 2004,Somalia,FY 2004,60,Moslem,60,152
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 Jun 2004,To: 18 Jun 2004,Bahai,FY 2004,30,Iran,30,152
+From: 18 Jun 2004,To: 18 Jun 2004,Baptist,FY 2004,4,Cuba,4,152
+From: 18 Jun 2004,To: 18 Jun 2004,Catholic,FY 2004,7,Cuba,7,152
+From: 18 Jun 2004,To: 18 Jun 2004,Evangelical Christian,FY 2004,7,Cuba,7,152
+From: 18 Jun 2004,To: 18 Jun 2004,Jehovah Witness,FY 2004,5,Cuba,5,152
+From: 18 Jun 2004,To: 18 Jun 2004,Moslem,FY 2004,64,Ethiopia,4,152
+From: 18 Jun 2004,To: 18 Jun 2004,Moslem,FY 2004,64,Somalia,60,152
+From: 18 Jun 2004,To: 18 Jun 2004,No Religion,FY 2004,13,Cuba,10,152
+From: 18 Jun 2004,To: 18 Jun 2004,No Religion,FY 2004,13,Iran,3,152
+From: 18 Jun 2004,To: 18 Jun 2004,Orthodox,FY 2004,4,Ethiopia,4,152
+From: 18 Jun 2004,To: 18 Jun 2004,Other Religion,FY 2004,3,Ethiopia,3,152
+From: 18 Jun 2004,To: 18 Jun 2004,Pentecostalist,FY 2004,15,Cuba,2,152
+From: 18 Jun 2004,To: 18 Jun 2004,Pentecostalist,FY 2004,15,Latvia,13,152
+

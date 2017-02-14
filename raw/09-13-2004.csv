@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Sep 2004,To: 13 Sep 2004,Afghanistan,FY 2004,11,Moslem,5,535
+From: 13 Sep 2004,To: 13 Sep 2004,Afghanistan,FY 2004,11,Moslem Suni,6,535
+From: 13 Sep 2004,To: 13 Sep 2004,Bosnia and Herzegovina,FY 2004,3,Moslem,1,535
+From: 13 Sep 2004,To: 13 Sep 2004,Bosnia and Herzegovina,FY 2004,3,Orthodox,2,535
+From: 13 Sep 2004,To: 13 Sep 2004,Burma,FY 2004,3,Baptist,3,535
+From: 13 Sep 2004,To: 13 Sep 2004,Ethiopia,FY 2004,7,Christian,7,535
+From: 13 Sep 2004,To: 13 Sep 2004,Haiti,FY 2004,8,Catholic,8,535
+From: 13 Sep 2004,To: 13 Sep 2004,Iran,FY 2004,17,Bahai,5,535
+From: 13 Sep 2004,To: 13 Sep 2004,Iran,FY 2004,17,Jewish,8,535
+From: 13 Sep 2004,To: 13 Sep 2004,Iran,FY 2004,17,Zoroastrian,4,535
+From: 13 Sep 2004,To: 13 Sep 2004,Laos,FY 2004,217,Ancestral Worship,203,535
+From: 13 Sep 2004,To: 13 Sep 2004,Laos,FY 2004,217,Animist,2,535
+From: 13 Sep 2004,To: 13 Sep 2004,Laos,FY 2004,217,Christian,12,535
+From: 13 Sep 2004,To: 13 Sep 2004,Liberia,FY 2004,36,Catholic,1,535
+From: 13 Sep 2004,To: 13 Sep 2004,Liberia,FY 2004,36,Christian,28,535
+From: 13 Sep 2004,To: 13 Sep 2004,Liberia,FY 2004,36,Protestant,7,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moldova,FY 2004,47,Baptist,21,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moldova,FY 2004,47,Jewish,3,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moldova,FY 2004,47,Pentecostalist,23,535
+From: 13 Sep 2004,To: 13 Sep 2004,Sierra Leone,FY 2004,69,Catholic,20,535
+From: 13 Sep 2004,To: 13 Sep 2004,Sierra Leone,FY 2004,69,Christian,16,535
+From: 13 Sep 2004,To: 13 Sep 2004,Sierra Leone,FY 2004,69,Methodist,6,535
+From: 13 Sep 2004,To: 13 Sep 2004,Sierra Leone,FY 2004,69,Moslem,24,535
+From: 13 Sep 2004,To: 13 Sep 2004,Sierra Leone,FY 2004,69,Pentecostalist,3,535
+From: 13 Sep 2004,To: 13 Sep 2004,Somalia,FY 2004,110,Moslem,110,535
+From: 13 Sep 2004,To: 13 Sep 2004,Uzbekistan,FY 2004,7,Jewish,7,535
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Sep 2004,To: 13 Sep 2004,Ancestral Worship,FY 2004,203,Laos,203,535
+From: 13 Sep 2004,To: 13 Sep 2004,Animist,FY 2004,2,Laos,2,535
+From: 13 Sep 2004,To: 13 Sep 2004,Bahai,FY 2004,5,Iran,5,535
+From: 13 Sep 2004,To: 13 Sep 2004,Baptist,FY 2004,24,Burma,3,535
+From: 13 Sep 2004,To: 13 Sep 2004,Baptist,FY 2004,24,Moldova,21,535
+From: 13 Sep 2004,To: 13 Sep 2004,Catholic,FY 2004,29,Haiti,8,535
+From: 13 Sep 2004,To: 13 Sep 2004,Catholic,FY 2004,29,Liberia,1,535
+From: 13 Sep 2004,To: 13 Sep 2004,Catholic,FY 2004,29,Sierra Leone,20,535
+From: 13 Sep 2004,To: 13 Sep 2004,Christian,FY 2004,63,Ethiopia,7,535
+From: 13 Sep 2004,To: 13 Sep 2004,Christian,FY 2004,63,Laos,12,535
+From: 13 Sep 2004,To: 13 Sep 2004,Christian,FY 2004,63,Liberia,28,535
+From: 13 Sep 2004,To: 13 Sep 2004,Christian,FY 2004,63,Sierra Leone,16,535
+From: 13 Sep 2004,To: 13 Sep 2004,Jewish,FY 2004,18,Iran,8,535
+From: 13 Sep 2004,To: 13 Sep 2004,Jewish,FY 2004,18,Moldova,3,535
+From: 13 Sep 2004,To: 13 Sep 2004,Jewish,FY 2004,18,Uzbekistan,7,535
+From: 13 Sep 2004,To: 13 Sep 2004,Methodist,FY 2004,6,Sierra Leone,6,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moslem,FY 2004,140,Afghanistan,5,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moslem,FY 2004,140,Bosnia and Herzegovina,1,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moslem,FY 2004,140,Sierra Leone,24,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moslem,FY 2004,140,Somalia,110,535
+From: 13 Sep 2004,To: 13 Sep 2004,Moslem Suni,FY 2004,6,Afghanistan,6,535
+From: 13 Sep 2004,To: 13 Sep 2004,Orthodox,FY 2004,2,Bosnia and Herzegovina,2,535
+From: 13 Sep 2004,To: 13 Sep 2004,Pentecostalist,FY 2004,26,Moldova,23,535
+From: 13 Sep 2004,To: 13 Sep 2004,Pentecostalist,FY 2004,26,Sierra Leone,3,535
+From: 13 Sep 2004,To: 13 Sep 2004,Protestant,FY 2004,7,Liberia,7,535
+From: 13 Sep 2004,To: 13 Sep 2004,Zoroastrian,FY 2004,4,Iran,4,535
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Jul 2010,To: 20 Jul 2010,Bhutan,FY 2010,62,Buddhist,15,297
+From: 20 Jul 2010,To: 20 Jul 2010,Bhutan,FY 2010,62,Hindu,41,297
+From: 20 Jul 2010,To: 20 Jul 2010,Bhutan,FY 2010,62,Kirat,6,297
+From: 20 Jul 2010,To: 20 Jul 2010,Burma,FY 2010,92,Baptist,7,297
+From: 20 Jul 2010,To: 20 Jul 2010,Burma,FY 2010,92,Buddhist,17,297
+From: 20 Jul 2010,To: 20 Jul 2010,Burma,FY 2010,92,Catholic,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Burma,FY 2010,92,Christian,64,297
+From: 20 Jul 2010,To: 20 Jul 2010,Burma,FY 2010,92,Moslem,3,297
+From: 20 Jul 2010,To: 20 Jul 2010,Dem. Rep. Congo,FY 2010,8,Pentecostalist,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Dem. Rep. Congo,FY 2010,8,Seventh Day Adventist,7,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Catholic,4,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Christian,5,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Moslem,10,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Orthodox,21,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Pentecostalist,3,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Protestant,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Eritrea,FY 2010,45,Seventh Day Adventist,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Ethiopia,FY 2010,6,Orthodox,6,297
+From: 20 Jul 2010,To: 20 Jul 2010,Iraq,FY 2010,62,Catholic,2,297
+From: 20 Jul 2010,To: 20 Jul 2010,Iraq,FY 2010,62,Christian,6,297
+From: 20 Jul 2010,To: 20 Jul 2010,Iraq,FY 2010,62,Moslem Shiite,21,297
+From: 20 Jul 2010,To: 20 Jul 2010,Iraq,FY 2010,62,Moslem Suni,33,297
+From: 20 Jul 2010,To: 20 Jul 2010,Rwanda,FY 2010,1,Seventh Day Adventist,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Somalia,FY 2010,21,Moslem,21,297
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Jul 2010,To: 20 Jul 2010,Baptist,FY 2010,7,Burma,7,297
+From: 20 Jul 2010,To: 20 Jul 2010,Buddhist,FY 2010,32,Bhutan,15,297
+From: 20 Jul 2010,To: 20 Jul 2010,Buddhist,FY 2010,32,Burma,17,297
+From: 20 Jul 2010,To: 20 Jul 2010,Catholic,FY 2010,7,Burma,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Catholic,FY 2010,7,Eritrea,4,297
+From: 20 Jul 2010,To: 20 Jul 2010,Catholic,FY 2010,7,Iraq,2,297
+From: 20 Jul 2010,To: 20 Jul 2010,Christian,FY 2010,75,Burma,64,297
+From: 20 Jul 2010,To: 20 Jul 2010,Christian,FY 2010,75,Eritrea,5,297
+From: 20 Jul 2010,To: 20 Jul 2010,Christian,FY 2010,75,Iraq,6,297
+From: 20 Jul 2010,To: 20 Jul 2010,Hindu,FY 2010,41,Bhutan,41,297
+From: 20 Jul 2010,To: 20 Jul 2010,Kirat,FY 2010,6,Bhutan,6,297
+From: 20 Jul 2010,To: 20 Jul 2010,Moslem,FY 2010,34,Burma,3,297
+From: 20 Jul 2010,To: 20 Jul 2010,Moslem,FY 2010,34,Eritrea,10,297
+From: 20 Jul 2010,To: 20 Jul 2010,Moslem,FY 2010,34,Somalia,21,297
+From: 20 Jul 2010,To: 20 Jul 2010,Moslem Shiite,FY 2010,21,Iraq,21,297
+From: 20 Jul 2010,To: 20 Jul 2010,Moslem Suni,FY 2010,33,Iraq,33,297
+From: 20 Jul 2010,To: 20 Jul 2010,Orthodox,FY 2010,27,Eritrea,21,297
+From: 20 Jul 2010,To: 20 Jul 2010,Orthodox,FY 2010,27,Ethiopia,6,297
+From: 20 Jul 2010,To: 20 Jul 2010,Pentecostalist,FY 2010,4,Dem. Rep. Congo,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Pentecostalist,FY 2010,4,Eritrea,3,297
+From: 20 Jul 2010,To: 20 Jul 2010,Protestant,FY 2010,1,Eritrea,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Seventh Day Adventist,FY 2010,9,Dem. Rep. Congo,7,297
+From: 20 Jul 2010,To: 20 Jul 2010,Seventh Day Adventist,FY 2010,9,Eritrea,1,297
+From: 20 Jul 2010,To: 20 Jul 2010,Seventh Day Adventist,FY 2010,9,Rwanda,1,297
+

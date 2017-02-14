@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Nov 2007,To: 19 Nov 2007,Ethiopia,FY 2008,3,Moslem,3,96
+From: 19 Nov 2007,To: 19 Nov 2007,Iran,FY 2008,35,Bahai,4,96
+From: 19 Nov 2007,To: 19 Nov 2007,Iran,FY 2008,35,Christian,28,96
+From: 19 Nov 2007,To: 19 Nov 2007,Iran,FY 2008,35,Jewish,3,96
+From: 19 Nov 2007,To: 19 Nov 2007,Iraq,FY 2008,33,Catholic,19,96
+From: 19 Nov 2007,To: 19 Nov 2007,Iraq,FY 2008,33,Christian,13,96
+From: 19 Nov 2007,To: 19 Nov 2007,Iraq,FY 2008,33,Moslem,1,96
+From: 19 Nov 2007,To: 19 Nov 2007,Kyrgyzstan,FY 2008,1,Pentecostalist,1,96
+From: 19 Nov 2007,To: 19 Nov 2007,Liberia,FY 2008,2,Christian,2,96
+From: 19 Nov 2007,To: 19 Nov 2007,Russia,FY 2008,6,Pentecostalist,4,96
+From: 19 Nov 2007,To: 19 Nov 2007,Russia,FY 2008,6,Seventh Day Adventist,2,96
+From: 19 Nov 2007,To: 19 Nov 2007,Somalia,FY 2008,7,Moslem,7,96
+From: 19 Nov 2007,To: 19 Nov 2007,Sudan,FY 2008,8,Catholic,8,96
+From: 19 Nov 2007,To: 19 Nov 2007,Uzbekistan,FY 2008,1,Moslem Suni,1,96
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Nov 2007,To: 19 Nov 2007,Bahai,FY 2008,4,Iran,4,96
+From: 19 Nov 2007,To: 19 Nov 2007,Catholic,FY 2008,27,Iraq,19,96
+From: 19 Nov 2007,To: 19 Nov 2007,Catholic,FY 2008,27,Sudan,8,96
+From: 19 Nov 2007,To: 19 Nov 2007,Christian,FY 2008,43,Iran,28,96
+From: 19 Nov 2007,To: 19 Nov 2007,Christian,FY 2008,43,Iraq,13,96
+From: 19 Nov 2007,To: 19 Nov 2007,Christian,FY 2008,43,Liberia,2,96
+From: 19 Nov 2007,To: 19 Nov 2007,Jewish,FY 2008,3,Iran,3,96
+From: 19 Nov 2007,To: 19 Nov 2007,Moslem,FY 2008,11,Ethiopia,3,96
+From: 19 Nov 2007,To: 19 Nov 2007,Moslem,FY 2008,11,Iraq,1,96
+From: 19 Nov 2007,To: 19 Nov 2007,Moslem,FY 2008,11,Somalia,7,96
+From: 19 Nov 2007,To: 19 Nov 2007,Moslem Suni,FY 2008,1,Uzbekistan,1,96
+From: 19 Nov 2007,To: 19 Nov 2007,Pentecostalist,FY 2008,5,Kyrgyzstan,1,96
+From: 19 Nov 2007,To: 19 Nov 2007,Pentecostalist,FY 2008,5,Russia,4,96
+From: 19 Nov 2007,To: 19 Nov 2007,Seventh Day Adventist,FY 2008,2,Russia,2,96
+

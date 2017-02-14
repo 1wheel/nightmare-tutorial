@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Aug 2009,To: 10 Aug 2009,Bhutan,FY 2009,103,Buddhist,18,373
+From: 10 Aug 2009,To: 10 Aug 2009,Bhutan,FY 2009,103,Christian,6,373
+From: 10 Aug 2009,To: 10 Aug 2009,Bhutan,FY 2009,103,Hindu,79,373
+From: 10 Aug 2009,To: 10 Aug 2009,Burma,FY 2009,31,Buddhist,3,373
+From: 10 Aug 2009,To: 10 Aug 2009,Burma,FY 2009,31,Christian,28,373
+From: 10 Aug 2009,To: 10 Aug 2009,Ethiopia,FY 2009,1,Christian,1,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iran,FY 2009,39,Bahai,3,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iran,FY 2009,39,Christian,33,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iran,FY 2009,39,Zoroastrian,3,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iraq,FY 2009,160,Catholic,19,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iraq,FY 2009,160,Christian,26,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iraq,FY 2009,160,Moslem Shiite,45,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iraq,FY 2009,160,Moslem Suni,48,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iraq,FY 2009,160,Orthodox,14,373
+From: 10 Aug 2009,To: 10 Aug 2009,Iraq,FY 2009,160,Sabeans-Mandean,8,373
+From: 10 Aug 2009,To: 10 Aug 2009,Somalia,FY 2009,39,Moslem,38,373
+From: 10 Aug 2009,To: 10 Aug 2009,Somalia,FY 2009,39,Moslem Suni,1,373
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Aug 2009,To: 10 Aug 2009,Bahai,FY 2009,3,Iran,3,373
+From: 10 Aug 2009,To: 10 Aug 2009,Buddhist,FY 2009,21,Bhutan,18,373
+From: 10 Aug 2009,To: 10 Aug 2009,Buddhist,FY 2009,21,Burma,3,373
+From: 10 Aug 2009,To: 10 Aug 2009,Catholic,FY 2009,19,Iraq,19,373
+From: 10 Aug 2009,To: 10 Aug 2009,Christian,FY 2009,94,Bhutan,6,373
+From: 10 Aug 2009,To: 10 Aug 2009,Christian,FY 2009,94,Burma,28,373
+From: 10 Aug 2009,To: 10 Aug 2009,Christian,FY 2009,94,Ethiopia,1,373
+From: 10 Aug 2009,To: 10 Aug 2009,Christian,FY 2009,94,Iran,33,373
+From: 10 Aug 2009,To: 10 Aug 2009,Christian,FY 2009,94,Iraq,26,373
+From: 10 Aug 2009,To: 10 Aug 2009,Hindu,FY 2009,79,Bhutan,79,373
+From: 10 Aug 2009,To: 10 Aug 2009,Moslem,FY 2009,38,Somalia,38,373
+From: 10 Aug 2009,To: 10 Aug 2009,Moslem Shiite,FY 2009,45,Iraq,45,373
+From: 10 Aug 2009,To: 10 Aug 2009,Moslem Suni,FY 2009,49,Iraq,48,373
+From: 10 Aug 2009,To: 10 Aug 2009,Moslem Suni,FY 2009,49,Somalia,1,373
+From: 10 Aug 2009,To: 10 Aug 2009,Orthodox,FY 2009,14,Iraq,14,373
+From: 10 Aug 2009,To: 10 Aug 2009,Sabeans-Mandean,FY 2009,8,Iraq,8,373
+From: 10 Aug 2009,To: 10 Aug 2009,Zoroastrian,FY 2009,3,Iran,3,373
+

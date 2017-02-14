@@ -1,0 +1,23 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Apr 2008,To: 14 Apr 2008,Iraq,FY 2008,85,Catholic,6,91
+From: 14 Apr 2008,To: 14 Apr 2008,Iraq,FY 2008,85,Christian,22,91
+From: 14 Apr 2008,To: 14 Apr 2008,Iraq,FY 2008,85,Moslem Shiite,29,91
+From: 14 Apr 2008,To: 14 Apr 2008,Iraq,FY 2008,85,Moslem Suni,21,91
+From: 14 Apr 2008,To: 14 Apr 2008,Iraq,FY 2008,85,Sabeans-Mandean,7,91
+From: 14 Apr 2008,To: 14 Apr 2008,"Korea, North",FY 2008,3,Christian,3,91
+From: 14 Apr 2008,To: 14 Apr 2008,Lebanon,FY 2008,1,Moslem,1,91
+From: 14 Apr 2008,To: 14 Apr 2008,Somalia,FY 2008,2,Moslem,2,91
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Apr 2008,To: 14 Apr 2008,Catholic,FY 2008,6,Iraq,6,91
+From: 14 Apr 2008,To: 14 Apr 2008,Christian,FY 2008,25,Iraq,22,91
+From: 14 Apr 2008,To: 14 Apr 2008,Christian,FY 2008,25,"Korea, North",3,91
+From: 14 Apr 2008,To: 14 Apr 2008,Moslem,FY 2008,3,Lebanon,1,91
+From: 14 Apr 2008,To: 14 Apr 2008,Moslem,FY 2008,3,Somalia,2,91
+From: 14 Apr 2008,To: 14 Apr 2008,Moslem Shiite,FY 2008,29,Iraq,29,91
+From: 14 Apr 2008,To: 14 Apr 2008,Moslem Suni,FY 2008,21,Iraq,21,91
+From: 14 Apr 2008,To: 14 Apr 2008,Sabeans-Mandean,FY 2008,7,Iraq,7,91
+

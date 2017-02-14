@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Aug 2014,To: 11 Aug 2014,Dem. Rep. Congo,FY 2014,25,Baptist,8,168
+From: 11 Aug 2014,To: 11 Aug 2014,Dem. Rep. Congo,FY 2014,25,Christian,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Dem. Rep. Congo,FY 2014,25,Pentecostalist,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Dem. Rep. Congo,FY 2014,25,Seventh Day Adventist,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Eritrea,FY 2014,2,Christian,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Eritrea,FY 2014,2,Pentecostalist,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iran,FY 2014,1,Protestant,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Catholic,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Christian,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Moslem,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Moslem Shiite,12,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Moslem Suni,57,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Orthodox,15,168
+From: 11 Aug 2014,To: 11 Aug 2014,Iraq,FY 2014,110,Yazidi,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Somalia,FY 2014,11,Moslem,11,168
+From: 11 Aug 2014,To: 11 Aug 2014,Sudan,FY 2014,1,Moslem,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Syria,FY 2014,2,No Religion,2,168
+From: 11 Aug 2014,To: 11 Aug 2014,Turkmenistan,FY 2014,1,Baptist,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Ukraine,FY 2014,15,Baptist,10,168
+From: 11 Aug 2014,To: 11 Aug 2014,Ukraine,FY 2014,15,Pentecostalist,5,168
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Aug 2014,To: 11 Aug 2014,Baptist,FY 2014,19,Dem. Rep. Congo,8,168
+From: 11 Aug 2014,To: 11 Aug 2014,Baptist,FY 2014,19,Turkmenistan,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Baptist,FY 2014,19,Ukraine,10,168
+From: 11 Aug 2014,To: 11 Aug 2014,Catholic,FY 2014,5,Iraq,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Christian,FY 2014,13,Dem. Rep. Congo,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Christian,FY 2014,13,Eritrea,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Christian,FY 2014,13,Iraq,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Moslem,FY 2014,19,Iraq,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Moslem,FY 2014,19,Somalia,11,168
+From: 11 Aug 2014,To: 11 Aug 2014,Moslem,FY 2014,19,Sudan,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Moslem Shiite,FY 2014,12,Iraq,12,168
+From: 11 Aug 2014,To: 11 Aug 2014,Moslem Suni,FY 2014,57,Iraq,57,168
+From: 11 Aug 2014,To: 11 Aug 2014,No Religion,FY 2014,2,Syria,2,168
+From: 11 Aug 2014,To: 11 Aug 2014,Orthodox,FY 2014,15,Iraq,15,168
+From: 11 Aug 2014,To: 11 Aug 2014,Pentecostalist,FY 2014,13,Dem. Rep. Congo,7,168
+From: 11 Aug 2014,To: 11 Aug 2014,Pentecostalist,FY 2014,13,Eritrea,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Pentecostalist,FY 2014,13,Ukraine,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Protestant,FY 2014,1,Iran,1,168
+From: 11 Aug 2014,To: 11 Aug 2014,Seventh Day Adventist,FY 2014,5,Dem. Rep. Congo,5,168
+From: 11 Aug 2014,To: 11 Aug 2014,Yazidi,FY 2014,7,Iraq,7,168
+

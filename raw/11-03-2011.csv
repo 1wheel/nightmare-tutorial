@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Nov 2011,To: 03 Nov 2011,Bhutan,FY 2012,105,Buddhist,24,235
+From: 03 Nov 2011,To: 03 Nov 2011,Bhutan,FY 2012,105,Christian,16,235
+From: 03 Nov 2011,To: 03 Nov 2011,Bhutan,FY 2012,105,Hindu,50,235
+From: 03 Nov 2011,To: 03 Nov 2011,Bhutan,FY 2012,105,Kirat,15,235
+From: 03 Nov 2011,To: 03 Nov 2011,Central African Republic,FY 2012,5,Catholic,1,235
+From: 03 Nov 2011,To: 03 Nov 2011,Central African Republic,FY 2012,5,Protestant,4,235
+From: 03 Nov 2011,To: 03 Nov 2011,Cuba,FY 2012,22,Catholic,15,235
+From: 03 Nov 2011,To: 03 Nov 2011,Cuba,FY 2012,22,No Religion,7,235
+From: 03 Nov 2011,To: 03 Nov 2011,Ethiopia,FY 2012,1,Moslem,1,235
+From: 03 Nov 2011,To: 03 Nov 2011,Iran,FY 2012,15,Bahai,6,235
+From: 03 Nov 2011,To: 03 Nov 2011,Iran,FY 2012,15,Christian,4,235
+From: 03 Nov 2011,To: 03 Nov 2011,Iran,FY 2012,15,Moslem Suni,3,235
+From: 03 Nov 2011,To: 03 Nov 2011,Iran,FY 2012,15,No Religion,2,235
+From: 03 Nov 2011,To: 03 Nov 2011,Iraq,FY 2012,10,Catholic,3,235
+From: 03 Nov 2011,To: 03 Nov 2011,Iraq,FY 2012,10,Moslem Suni,7,235
+From: 03 Nov 2011,To: 03 Nov 2011,Pakistan,FY 2012,9,Moslem Shiite,9,235
+From: 03 Nov 2011,To: 03 Nov 2011,Palestine,FY 2012,6,Moslem Suni,6,235
+From: 03 Nov 2011,To: 03 Nov 2011,Somalia,FY 2012,60,Moslem,60,235
+From: 03 Nov 2011,To: 03 Nov 2011,Togo,FY 2012,2,Moslem,2,235
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Nov 2011,To: 03 Nov 2011,Bahai,FY 2012,6,Iran,6,235
+From: 03 Nov 2011,To: 03 Nov 2011,Buddhist,FY 2012,24,Bhutan,24,235
+From: 03 Nov 2011,To: 03 Nov 2011,Catholic,FY 2012,19,Central African Republic,1,235
+From: 03 Nov 2011,To: 03 Nov 2011,Catholic,FY 2012,19,Cuba,15,235
+From: 03 Nov 2011,To: 03 Nov 2011,Catholic,FY 2012,19,Iraq,3,235
+From: 03 Nov 2011,To: 03 Nov 2011,Christian,FY 2012,20,Bhutan,16,235
+From: 03 Nov 2011,To: 03 Nov 2011,Christian,FY 2012,20,Iran,4,235
+From: 03 Nov 2011,To: 03 Nov 2011,Hindu,FY 2012,50,Bhutan,50,235
+From: 03 Nov 2011,To: 03 Nov 2011,Kirat,FY 2012,15,Bhutan,15,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem,FY 2012,63,Ethiopia,1,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem,FY 2012,63,Somalia,60,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem,FY 2012,63,Togo,2,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem Shiite,FY 2012,9,Pakistan,9,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem Suni,FY 2012,16,Iran,3,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem Suni,FY 2012,16,Iraq,7,235
+From: 03 Nov 2011,To: 03 Nov 2011,Moslem Suni,FY 2012,16,Palestine,6,235
+From: 03 Nov 2011,To: 03 Nov 2011,No Religion,FY 2012,9,Cuba,7,235
+From: 03 Nov 2011,To: 03 Nov 2011,No Religion,FY 2012,9,Iran,2,235
+From: 03 Nov 2011,To: 03 Nov 2011,Protestant,FY 2012,4,Central African Republic,4,235
+

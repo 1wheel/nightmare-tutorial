@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Aug 2004,To: 04 Aug 2004,Afghanistan,FY 2004,24,Moslem Shiite,12,388
+From: 04 Aug 2004,To: 04 Aug 2004,Afghanistan,FY 2004,24,Moslem Suni,12,388
+From: 04 Aug 2004,To: 04 Aug 2004,Azerbaijan,FY 2004,1,Unknown,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Cuba,FY 2004,33,Baptist,3,388
+From: 04 Aug 2004,To: 04 Aug 2004,Cuba,FY 2004,33,Catholic,16,388
+From: 04 Aug 2004,To: 04 Aug 2004,Cuba,FY 2004,33,Jehovah Witness,7,388
+From: 04 Aug 2004,To: 04 Aug 2004,Cuba,FY 2004,33,No Religion,7,388
+From: 04 Aug 2004,To: 04 Aug 2004,Ethiopia,FY 2004,16,Christian,7,388
+From: 04 Aug 2004,To: 04 Aug 2004,Ethiopia,FY 2004,16,Moslem,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Ethiopia,FY 2004,16,Orthodox,5,388
+From: 04 Aug 2004,To: 04 Aug 2004,Liberia,FY 2004,18,Baptist,10,388
+From: 04 Aug 2004,To: 04 Aug 2004,Liberia,FY 2004,18,Christian,8,388
+From: 04 Aug 2004,To: 04 Aug 2004,Russia,FY 2004,14,Baptist,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Russia,FY 2004,14,Jewish,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Russia,FY 2004,14,Pentecostalist,9,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sierra Leone,FY 2004,15,Catholic,3,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sierra Leone,FY 2004,15,Christian,9,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sierra Leone,FY 2004,15,Moslem,2,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sierra Leone,FY 2004,15,Pentecostalist,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Somalia,FY 2004,206,Christian,9,388
+From: 04 Aug 2004,To: 04 Aug 2004,Somalia,FY 2004,206,Moslem,197,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sudan,FY 2004,36,Catholic,22,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sudan,FY 2004,36,Christian,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sudan,FY 2004,36,Moslem,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sudan,FY 2004,36,Moslem Suni,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Sudan,FY 2004,36,Protestant,8,388
+From: 04 Aug 2004,To: 04 Aug 2004,Vietnam,FY 2004,25,Buddhist,2,388
+From: 04 Aug 2004,To: 04 Aug 2004,Vietnam,FY 2004,25,Cao Dai,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Vietnam,FY 2004,25,No Religion,15,388
+From: 04 Aug 2004,To: 04 Aug 2004,Vietnam,FY 2004,25,Unknown,4,388
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Aug 2004,To: 04 Aug 2004,Baptist,FY 2004,14,Cuba,3,388
+From: 04 Aug 2004,To: 04 Aug 2004,Baptist,FY 2004,14,Liberia,10,388
+From: 04 Aug 2004,To: 04 Aug 2004,Baptist,FY 2004,14,Russia,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Buddhist,FY 2004,2,Vietnam,2,388
+From: 04 Aug 2004,To: 04 Aug 2004,Cao Dai,FY 2004,4,Vietnam,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Catholic,FY 2004,41,Cuba,16,388
+From: 04 Aug 2004,To: 04 Aug 2004,Catholic,FY 2004,41,Sierra Leone,3,388
+From: 04 Aug 2004,To: 04 Aug 2004,Catholic,FY 2004,41,Sudan,22,388
+From: 04 Aug 2004,To: 04 Aug 2004,Christian,FY 2004,34,Ethiopia,7,388
+From: 04 Aug 2004,To: 04 Aug 2004,Christian,FY 2004,34,Liberia,8,388
+From: 04 Aug 2004,To: 04 Aug 2004,Christian,FY 2004,34,Sierra Leone,9,388
+From: 04 Aug 2004,To: 04 Aug 2004,Christian,FY 2004,34,Somalia,9,388
+From: 04 Aug 2004,To: 04 Aug 2004,Christian,FY 2004,34,Sudan,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Jehovah Witness,FY 2004,7,Cuba,7,388
+From: 04 Aug 2004,To: 04 Aug 2004,Jewish,FY 2004,4,Russia,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem,FY 2004,207,Ethiopia,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem,FY 2004,207,Sierra Leone,2,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem,FY 2004,207,Somalia,197,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem,FY 2004,207,Sudan,4,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem Shiite,FY 2004,12,Afghanistan,12,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem Suni,FY 2004,13,Afghanistan,12,388
+From: 04 Aug 2004,To: 04 Aug 2004,Moslem Suni,FY 2004,13,Sudan,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,No Religion,FY 2004,22,Cuba,7,388
+From: 04 Aug 2004,To: 04 Aug 2004,No Religion,FY 2004,22,Vietnam,15,388
+From: 04 Aug 2004,To: 04 Aug 2004,Orthodox,FY 2004,5,Ethiopia,5,388
+From: 04 Aug 2004,To: 04 Aug 2004,Pentecostalist,FY 2004,10,Russia,9,388
+From: 04 Aug 2004,To: 04 Aug 2004,Pentecostalist,FY 2004,10,Sierra Leone,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Protestant,FY 2004,8,Sudan,8,388
+From: 04 Aug 2004,To: 04 Aug 2004,Unknown,FY 2004,5,Azerbaijan,1,388
+From: 04 Aug 2004,To: 04 Aug 2004,Unknown,FY 2004,5,Vietnam,4,388
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Feb 2004,To: 12 Feb 2004,Afghanistan,FY 2004,15,Christian,8,133
+From: 12 Feb 2004,To: 12 Feb 2004,Afghanistan,FY 2004,15,Moslem Suni,7,133
+From: 12 Feb 2004,To: 12 Feb 2004,Azerbaijan,FY 2004,1,Unknown,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Bosnia and Herzegovina,FY 2004,13,Orthodox,13,133
+From: 12 Feb 2004,To: 12 Feb 2004,Congo,FY 2004,1,Catholic,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Croatia,FY 2004,3,Orthodox,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Iran,FY 2004,13,Bahai,4,133
+From: 12 Feb 2004,To: 12 Feb 2004,Iran,FY 2004,13,Jewish,5,133
+From: 12 Feb 2004,To: 12 Feb 2004,Iran,FY 2004,13,Sabeans-Mandean,4,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Baptist,10,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Catholic,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Christian,25,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Jehovah Witness,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Lutheran,5,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Moslem,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,No Religion,2,133
+From: 12 Feb 2004,To: 12 Feb 2004,Liberia,FY 2004,52,Pentecostalist,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Russia,FY 2004,27,Baptist,2,133
+From: 12 Feb 2004,To: 12 Feb 2004,Russia,FY 2004,27,Jewish,7,133
+From: 12 Feb 2004,To: 12 Feb 2004,Russia,FY 2004,27,Moslem,9,133
+From: 12 Feb 2004,To: 12 Feb 2004,Russia,FY 2004,27,Pentecostalist,8,133
+From: 12 Feb 2004,To: 12 Feb 2004,Russia,FY 2004,27,Unknown,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Ukraine,FY 2004,8,Baptist,5,133
+From: 12 Feb 2004,To: 12 Feb 2004,Ukraine,FY 2004,8,Evangelical Christian,3,133
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Feb 2004,To: 12 Feb 2004,Bahai,FY 2004,4,Iran,4,133
+From: 12 Feb 2004,To: 12 Feb 2004,Baptist,FY 2004,17,Liberia,10,133
+From: 12 Feb 2004,To: 12 Feb 2004,Baptist,FY 2004,17,Russia,2,133
+From: 12 Feb 2004,To: 12 Feb 2004,Baptist,FY 2004,17,Ukraine,5,133
+From: 12 Feb 2004,To: 12 Feb 2004,Catholic,FY 2004,4,Congo,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Catholic,FY 2004,4,Liberia,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Christian,FY 2004,33,Afghanistan,8,133
+From: 12 Feb 2004,To: 12 Feb 2004,Christian,FY 2004,33,Liberia,25,133
+From: 12 Feb 2004,To: 12 Feb 2004,Evangelical Christian,FY 2004,3,Ukraine,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Jehovah Witness,FY 2004,1,Liberia,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Jewish,FY 2004,12,Iran,5,133
+From: 12 Feb 2004,To: 12 Feb 2004,Jewish,FY 2004,12,Russia,7,133
+From: 12 Feb 2004,To: 12 Feb 2004,Lutheran,FY 2004,5,Liberia,5,133
+From: 12 Feb 2004,To: 12 Feb 2004,Moslem,FY 2004,12,Liberia,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Moslem,FY 2004,12,Russia,9,133
+From: 12 Feb 2004,To: 12 Feb 2004,Moslem Suni,FY 2004,7,Afghanistan,7,133
+From: 12 Feb 2004,To: 12 Feb 2004,No Religion,FY 2004,2,Liberia,2,133
+From: 12 Feb 2004,To: 12 Feb 2004,Orthodox,FY 2004,16,Bosnia and Herzegovina,13,133
+From: 12 Feb 2004,To: 12 Feb 2004,Orthodox,FY 2004,16,Croatia,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Pentecostalist,FY 2004,11,Liberia,3,133
+From: 12 Feb 2004,To: 12 Feb 2004,Pentecostalist,FY 2004,11,Russia,8,133
+From: 12 Feb 2004,To: 12 Feb 2004,Sabeans-Mandean,FY 2004,4,Iran,4,133
+From: 12 Feb 2004,To: 12 Feb 2004,Unknown,FY 2004,2,Azerbaijan,1,133
+From: 12 Feb 2004,To: 12 Feb 2004,Unknown,FY 2004,2,Russia,1,133
+

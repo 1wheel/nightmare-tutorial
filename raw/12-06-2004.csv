@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Dec 2004,To: 06 Dec 2004,Iran,FY 2005,18,Bahai,6,209
+From: 06 Dec 2004,To: 06 Dec 2004,Iran,FY 2005,18,Christian,4,209
+From: 06 Dec 2004,To: 06 Dec 2004,Iran,FY 2005,18,Jewish,8,209
+From: 06 Dec 2004,To: 06 Dec 2004,Liberia,FY 2005,30,Christian,26,209
+From: 06 Dec 2004,To: 06 Dec 2004,Liberia,FY 2005,30,Lutheran,2,209
+From: 06 Dec 2004,To: 06 Dec 2004,Liberia,FY 2005,30,Methodist,2,209
+From: 06 Dec 2004,To: 06 Dec 2004,Moldova,FY 2005,35,Baptist,16,209
+From: 06 Dec 2004,To: 06 Dec 2004,Moldova,FY 2005,35,Pentecostalist,19,209
+From: 06 Dec 2004,To: 06 Dec 2004,Rwanda,FY 2005,5,Catholic,5,209
+From: 06 Dec 2004,To: 06 Dec 2004,Sierra Leone,FY 2005,30,Christian,13,209
+From: 06 Dec 2004,To: 06 Dec 2004,Sierra Leone,FY 2005,30,Jehovah Witness,4,209
+From: 06 Dec 2004,To: 06 Dec 2004,Sierra Leone,FY 2005,30,Methodist,2,209
+From: 06 Dec 2004,To: 06 Dec 2004,Sierra Leone,FY 2005,30,Moslem,11,209
+From: 06 Dec 2004,To: 06 Dec 2004,Somalia,FY 2005,59,Moslem,59,209
+From: 06 Dec 2004,To: 06 Dec 2004,Sudan,FY 2005,2,Catholic,1,209
+From: 06 Dec 2004,To: 06 Dec 2004,Sudan,FY 2005,2,Christian,1,209
+From: 06 Dec 2004,To: 06 Dec 2004,Ukraine,FY 2005,30,Baptist,1,209
+From: 06 Dec 2004,To: 06 Dec 2004,Ukraine,FY 2005,30,Pentecostalist,29,209
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Dec 2004,To: 06 Dec 2004,Bahai,FY 2005,6,Iran,6,209
+From: 06 Dec 2004,To: 06 Dec 2004,Baptist,FY 2005,17,Moldova,16,209
+From: 06 Dec 2004,To: 06 Dec 2004,Baptist,FY 2005,17,Ukraine,1,209
+From: 06 Dec 2004,To: 06 Dec 2004,Catholic,FY 2005,6,Rwanda,5,209
+From: 06 Dec 2004,To: 06 Dec 2004,Catholic,FY 2005,6,Sudan,1,209
+From: 06 Dec 2004,To: 06 Dec 2004,Christian,FY 2005,44,Iran,4,209
+From: 06 Dec 2004,To: 06 Dec 2004,Christian,FY 2005,44,Liberia,26,209
+From: 06 Dec 2004,To: 06 Dec 2004,Christian,FY 2005,44,Sierra Leone,13,209
+From: 06 Dec 2004,To: 06 Dec 2004,Christian,FY 2005,44,Sudan,1,209
+From: 06 Dec 2004,To: 06 Dec 2004,Jehovah Witness,FY 2005,4,Sierra Leone,4,209
+From: 06 Dec 2004,To: 06 Dec 2004,Jewish,FY 2005,8,Iran,8,209
+From: 06 Dec 2004,To: 06 Dec 2004,Lutheran,FY 2005,2,Liberia,2,209
+From: 06 Dec 2004,To: 06 Dec 2004,Methodist,FY 2005,4,Liberia,2,209
+From: 06 Dec 2004,To: 06 Dec 2004,Methodist,FY 2005,4,Sierra Leone,2,209
+From: 06 Dec 2004,To: 06 Dec 2004,Moslem,FY 2005,70,Sierra Leone,11,209
+From: 06 Dec 2004,To: 06 Dec 2004,Moslem,FY 2005,70,Somalia,59,209
+From: 06 Dec 2004,To: 06 Dec 2004,Pentecostalist,FY 2005,48,Moldova,19,209
+From: 06 Dec 2004,To: 06 Dec 2004,Pentecostalist,FY 2005,48,Ukraine,29,209
+

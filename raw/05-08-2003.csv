@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 May 2003,To: 08 May 2003,Afghanistan,FY 2003,10,Moslem Suni,9,180
+From: 08 May 2003,To: 08 May 2003,Afghanistan,FY 2003,10,Unknown,1,180
+From: 08 May 2003,To: 08 May 2003,Ethiopia,FY 2003,31,Christian,24,180
+From: 08 May 2003,To: 08 May 2003,Ethiopia,FY 2003,31,Orthodox,7,180
+From: 08 May 2003,To: 08 May 2003,Indonesia,FY 2003,1,Moslem,1,180
+From: 08 May 2003,To: 08 May 2003,Iran,FY 2003,5,Bahai,1,180
+From: 08 May 2003,To: 08 May 2003,Iran,FY 2003,5,Moslem,4,180
+From: 08 May 2003,To: 08 May 2003,Iraq,FY 2003,17,Chaldean,1,180
+From: 08 May 2003,To: 08 May 2003,Iraq,FY 2003,17,Moslem,11,180
+From: 08 May 2003,To: 08 May 2003,Iraq,FY 2003,17,Moslem Shiite,5,180
+From: 08 May 2003,To: 08 May 2003,Pakistan,FY 2003,1,Moslem,1,180
+From: 08 May 2003,To: 08 May 2003,Russia,FY 2003,18,Baptist,13,180
+From: 08 May 2003,To: 08 May 2003,Russia,FY 2003,18,Jewish,2,180
+From: 08 May 2003,To: 08 May 2003,Russia,FY 2003,18,No Religion,1,180
+From: 08 May 2003,To: 08 May 2003,Russia,FY 2003,18,Pentecostalist,2,180
+From: 08 May 2003,To: 08 May 2003,Serbia,FY 2003,25,No Religion,3,180
+From: 08 May 2003,To: 08 May 2003,Serbia,FY 2003,25,Orthodox,22,180
+From: 08 May 2003,To: 08 May 2003,Sierra Leone,FY 2003,1,Moslem,1,180
+From: 08 May 2003,To: 08 May 2003,Somalia,FY 2003,40,Moslem,40,180
+From: 08 May 2003,To: 08 May 2003,Ukraine,FY 2003,27,Jewish,10,180
+From: 08 May 2003,To: 08 May 2003,Ukraine,FY 2003,27,Pentecostalist,17,180
+From: 08 May 2003,To: 08 May 2003,Vietnam,FY 2003,4,Unknown,4,180
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 May 2003,To: 08 May 2003,Bahai,FY 2003,1,Iran,1,180
+From: 08 May 2003,To: 08 May 2003,Baptist,FY 2003,13,Russia,13,180
+From: 08 May 2003,To: 08 May 2003,Chaldean,FY 2003,1,Iraq,1,180
+From: 08 May 2003,To: 08 May 2003,Christian,FY 2003,24,Ethiopia,24,180
+From: 08 May 2003,To: 08 May 2003,Jewish,FY 2003,12,Russia,2,180
+From: 08 May 2003,To: 08 May 2003,Jewish,FY 2003,12,Ukraine,10,180
+From: 08 May 2003,To: 08 May 2003,Moslem,FY 2003,58,Indonesia,1,180
+From: 08 May 2003,To: 08 May 2003,Moslem,FY 2003,58,Iran,4,180
+From: 08 May 2003,To: 08 May 2003,Moslem,FY 2003,58,Iraq,11,180
+From: 08 May 2003,To: 08 May 2003,Moslem,FY 2003,58,Pakistan,1,180
+From: 08 May 2003,To: 08 May 2003,Moslem,FY 2003,58,Sierra Leone,1,180
+From: 08 May 2003,To: 08 May 2003,Moslem,FY 2003,58,Somalia,40,180
+From: 08 May 2003,To: 08 May 2003,Moslem Shiite,FY 2003,5,Iraq,5,180
+From: 08 May 2003,To: 08 May 2003,Moslem Suni,FY 2003,9,Afghanistan,9,180
+From: 08 May 2003,To: 08 May 2003,No Religion,FY 2003,4,Russia,1,180
+From: 08 May 2003,To: 08 May 2003,No Religion,FY 2003,4,Serbia,3,180
+From: 08 May 2003,To: 08 May 2003,Orthodox,FY 2003,29,Ethiopia,7,180
+From: 08 May 2003,To: 08 May 2003,Orthodox,FY 2003,29,Serbia,22,180
+From: 08 May 2003,To: 08 May 2003,Pentecostalist,FY 2003,19,Russia,2,180
+From: 08 May 2003,To: 08 May 2003,Pentecostalist,FY 2003,19,Ukraine,17,180
+From: 08 May 2003,To: 08 May 2003,Unknown,FY 2003,5,Afghanistan,1,180
+From: 08 May 2003,To: 08 May 2003,Unknown,FY 2003,5,Vietnam,4,180
+

@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Jul 2003,To: 03 Jul 2003,Ethiopia,FY 2003,53,Christian,26,69
+From: 03 Jul 2003,To: 03 Jul 2003,Ethiopia,FY 2003,53,Moslem,12,69
+From: 03 Jul 2003,To: 03 Jul 2003,Ethiopia,FY 2003,53,Orthodox,14,69
+From: 03 Jul 2003,To: 03 Jul 2003,Ethiopia,FY 2003,53,Protestant,1,69
+From: 03 Jul 2003,To: 03 Jul 2003,Somalia,FY 2003,16,Moslem,16,69
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Jul 2003,To: 03 Jul 2003,Christian,FY 2003,26,Ethiopia,26,69
+From: 03 Jul 2003,To: 03 Jul 2003,Moslem,FY 2003,28,Ethiopia,12,69
+From: 03 Jul 2003,To: 03 Jul 2003,Moslem,FY 2003,28,Somalia,16,69
+From: 03 Jul 2003,To: 03 Jul 2003,Orthodox,FY 2003,14,Ethiopia,14,69
+From: 03 Jul 2003,To: 03 Jul 2003,Protestant,FY 2003,1,Ethiopia,1,69
+

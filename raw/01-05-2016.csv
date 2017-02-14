@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jan 2016,To: 05 Jan 2016,Burma,FY 2016,39,Baptist,8,68
+From: 05 Jan 2016,To: 05 Jan 2016,Burma,FY 2016,39,Buddhist,5,68
+From: 05 Jan 2016,To: 05 Jan 2016,Burma,FY 2016,39,Christian,20,68
+From: 05 Jan 2016,To: 05 Jan 2016,Burma,FY 2016,39,Moslem,6,68
+From: 05 Jan 2016,To: 05 Jan 2016,Syria,FY 2016,4,Moslem Suni,4,68
+From: 05 Jan 2016,To: 05 Jan 2016,Ukraine,FY 2016,25,Baptist,17,68
+From: 05 Jan 2016,To: 05 Jan 2016,Ukraine,FY 2016,25,Seventh Day Adventist,8,68
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jan 2016,To: 05 Jan 2016,Baptist,FY 2016,25,Burma,8,68
+From: 05 Jan 2016,To: 05 Jan 2016,Baptist,FY 2016,25,Ukraine,17,68
+From: 05 Jan 2016,To: 05 Jan 2016,Buddhist,FY 2016,5,Burma,5,68
+From: 05 Jan 2016,To: 05 Jan 2016,Christian,FY 2016,20,Burma,20,68
+From: 05 Jan 2016,To: 05 Jan 2016,Moslem,FY 2016,6,Burma,6,68
+From: 05 Jan 2016,To: 05 Jan 2016,Moslem Suni,FY 2016,4,Syria,4,68
+From: 05 Jan 2016,To: 05 Jan 2016,Seventh Day Adventist,FY 2016,8,Ukraine,8,68
+

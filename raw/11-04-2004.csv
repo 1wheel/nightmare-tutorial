@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Nov 2004,To: 04 Nov 2004,Burundi,FY 2005,25,Catholic,14,288
+From: 04 Nov 2004,To: 04 Nov 2004,Burundi,FY 2005,25,Christian,11,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,Baptist,4,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,Cao Dai,1,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,Catholic,19,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,Jehovah Witness,5,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,No Religion,36,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,Pentecostalist,1,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cuba,FY 2005,68,Seventh Day Adventist,2,288
+From: 04 Nov 2004,To: 04 Nov 2004,Dem. Rep. Congo,FY 2005,5,Moslem,5,288
+From: 04 Nov 2004,To: 04 Nov 2004,Ethiopia,FY 2005,8,Christian,6,288
+From: 04 Nov 2004,To: 04 Nov 2004,Ethiopia,FY 2005,8,Moslem,2,288
+From: 04 Nov 2004,To: 04 Nov 2004,Laos,FY 2005,116,Ancestral Worship,116,288
+From: 04 Nov 2004,To: 04 Nov 2004,Somalia,FY 2005,60,Moslem,60,288
+From: 04 Nov 2004,To: 04 Nov 2004,Sudan,FY 2005,6,Christian,6,288
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Nov 2004,To: 04 Nov 2004,Ancestral Worship,FY 2005,116,Laos,116,288
+From: 04 Nov 2004,To: 04 Nov 2004,Baptist,FY 2005,4,Cuba,4,288
+From: 04 Nov 2004,To: 04 Nov 2004,Cao Dai,FY 2005,1,Cuba,1,288
+From: 04 Nov 2004,To: 04 Nov 2004,Catholic,FY 2005,33,Burundi,14,288
+From: 04 Nov 2004,To: 04 Nov 2004,Catholic,FY 2005,33,Cuba,19,288
+From: 04 Nov 2004,To: 04 Nov 2004,Christian,FY 2005,23,Burundi,11,288
+From: 04 Nov 2004,To: 04 Nov 2004,Christian,FY 2005,23,Ethiopia,6,288
+From: 04 Nov 2004,To: 04 Nov 2004,Christian,FY 2005,23,Sudan,6,288
+From: 04 Nov 2004,To: 04 Nov 2004,Jehovah Witness,FY 2005,5,Cuba,5,288
+From: 04 Nov 2004,To: 04 Nov 2004,Moslem,FY 2005,67,Dem. Rep. Congo,5,288
+From: 04 Nov 2004,To: 04 Nov 2004,Moslem,FY 2005,67,Ethiopia,2,288
+From: 04 Nov 2004,To: 04 Nov 2004,Moslem,FY 2005,67,Somalia,60,288
+From: 04 Nov 2004,To: 04 Nov 2004,No Religion,FY 2005,36,Cuba,36,288
+From: 04 Nov 2004,To: 04 Nov 2004,Pentecostalist,FY 2005,1,Cuba,1,288
+From: 04 Nov 2004,To: 04 Nov 2004,Seventh Day Adventist,FY 2005,2,Cuba,2,288
+

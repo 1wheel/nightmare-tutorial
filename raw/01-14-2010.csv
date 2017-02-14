@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jan 2010,To: 14 Jan 2010,Bhutan,FY 2010,61,Buddhist,16,422
+From: 14 Jan 2010,To: 14 Jan 2010,Bhutan,FY 2010,61,Christian,3,422
+From: 14 Jan 2010,To: 14 Jan 2010,Bhutan,FY 2010,61,Hindu,42,422
+From: 14 Jan 2010,To: 14 Jan 2010,Burma,FY 2010,108,Animist,27,422
+From: 14 Jan 2010,To: 14 Jan 2010,Burma,FY 2010,108,Baptist,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Burma,FY 2010,108,Buddhist,8,422
+From: 14 Jan 2010,To: 14 Jan 2010,Burma,FY 2010,108,Catholic,21,422
+From: 14 Jan 2010,To: 14 Jan 2010,Burma,FY 2010,108,Christian,40,422
+From: 14 Jan 2010,To: 14 Jan 2010,Burma,FY 2010,108,Moslem,8,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Baptist,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Catholic,12,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Evangelical Christian,10,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Jehovah Witness,22,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Methodist,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,No Religion,13,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Pentecostalist,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Cuba,FY 2010,68,Seventh Day Adventist,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iran,FY 2010,20,Bahai,9,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iran,FY 2010,20,Christian,5,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iran,FY 2010,20,No Religion,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iran,FY 2010,20,Zoroastrian,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iraq,FY 2010,114,Catholic,10,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iraq,FY 2010,114,Christian,40,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iraq,FY 2010,114,Moslem,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iraq,FY 2010,114,Moslem Shiite,32,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iraq,FY 2010,114,Moslem Suni,23,422
+From: 14 Jan 2010,To: 14 Jan 2010,Iraq,FY 2010,114,Orthodox,8,422
+From: 14 Jan 2010,To: 14 Jan 2010,Palestine,FY 2010,28,Moslem Suni,28,422
+From: 14 Jan 2010,To: 14 Jan 2010,Sudan,FY 2010,4,Christian,3,422
+From: 14 Jan 2010,To: 14 Jan 2010,Sudan,FY 2010,4,Moslem Suni,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,Ukraine,FY 2010,19,Baptist,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Ukraine,FY 2010,19,Jewish,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Ukraine,FY 2010,19,Pentecostalist,14,422
+From: 14 Jan 2010,To: 14 Jan 2010,Ukraine,FY 2010,19,Seventh Day Adventist,1,422
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jan 2010,To: 14 Jan 2010,Animist,FY 2010,27,Burma,27,422
+From: 14 Jan 2010,To: 14 Jan 2010,Bahai,FY 2010,9,Iran,9,422
+From: 14 Jan 2010,To: 14 Jan 2010,Baptist,FY 2010,8,Burma,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Baptist,FY 2010,8,Cuba,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Baptist,FY 2010,8,Ukraine,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Buddhist,FY 2010,24,Bhutan,16,422
+From: 14 Jan 2010,To: 14 Jan 2010,Buddhist,FY 2010,24,Burma,8,422
+From: 14 Jan 2010,To: 14 Jan 2010,Catholic,FY 2010,43,Burma,21,422
+From: 14 Jan 2010,To: 14 Jan 2010,Catholic,FY 2010,43,Cuba,12,422
+From: 14 Jan 2010,To: 14 Jan 2010,Catholic,FY 2010,43,Iraq,10,422
+From: 14 Jan 2010,To: 14 Jan 2010,Christian,FY 2010,91,Bhutan,3,422
+From: 14 Jan 2010,To: 14 Jan 2010,Christian,FY 2010,91,Burma,40,422
+From: 14 Jan 2010,To: 14 Jan 2010,Christian,FY 2010,91,Iran,5,422
+From: 14 Jan 2010,To: 14 Jan 2010,Christian,FY 2010,91,Iraq,40,422
+From: 14 Jan 2010,To: 14 Jan 2010,Christian,FY 2010,91,Sudan,3,422
+From: 14 Jan 2010,To: 14 Jan 2010,Evangelical Christian,FY 2010,10,Cuba,10,422
+From: 14 Jan 2010,To: 14 Jan 2010,Hindu,FY 2010,42,Bhutan,42,422
+From: 14 Jan 2010,To: 14 Jan 2010,Jehovah Witness,FY 2010,22,Cuba,22,422
+From: 14 Jan 2010,To: 14 Jan 2010,Jewish,FY 2010,2,Ukraine,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Methodist,FY 2010,1,Cuba,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,Moslem,FY 2010,9,Burma,8,422
+From: 14 Jan 2010,To: 14 Jan 2010,Moslem,FY 2010,9,Iraq,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,Moslem Shiite,FY 2010,32,Iraq,32,422
+From: 14 Jan 2010,To: 14 Jan 2010,Moslem Suni,FY 2010,52,Iraq,23,422
+From: 14 Jan 2010,To: 14 Jan 2010,Moslem Suni,FY 2010,52,Palestine,28,422
+From: 14 Jan 2010,To: 14 Jan 2010,Moslem Suni,FY 2010,52,Sudan,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,No Religion,FY 2010,15,Cuba,13,422
+From: 14 Jan 2010,To: 14 Jan 2010,No Religion,FY 2010,15,Iran,2,422
+From: 14 Jan 2010,To: 14 Jan 2010,Orthodox,FY 2010,8,Iraq,8,422
+From: 14 Jan 2010,To: 14 Jan 2010,Pentecostalist,FY 2010,18,Cuba,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Pentecostalist,FY 2010,18,Ukraine,14,422
+From: 14 Jan 2010,To: 14 Jan 2010,Seventh Day Adventist,FY 2010,5,Cuba,4,422
+From: 14 Jan 2010,To: 14 Jan 2010,Seventh Day Adventist,FY 2010,5,Ukraine,1,422
+From: 14 Jan 2010,To: 14 Jan 2010,Zoroastrian,FY 2010,4,Iran,4,422
+

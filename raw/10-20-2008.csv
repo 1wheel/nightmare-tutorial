@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Oct 2008,To: 20 Oct 2008,Afghanistan,FY 2009,9,Moslem Suni,9,127
+From: 20 Oct 2008,To: 20 Oct 2008,Burma,FY 2009,59,Buddhist,14,127
+From: 20 Oct 2008,To: 20 Oct 2008,Burma,FY 2009,59,Catholic,5,127
+From: 20 Oct 2008,To: 20 Oct 2008,Burma,FY 2009,59,Christian,33,127
+From: 20 Oct 2008,To: 20 Oct 2008,Burma,FY 2009,59,Moslem,7,127
+From: 20 Oct 2008,To: 20 Oct 2008,Congo,FY 2009,1,Catholic,1,127
+From: 20 Oct 2008,To: 20 Oct 2008,Iraq,FY 2009,31,Christian,4,127
+From: 20 Oct 2008,To: 20 Oct 2008,Iraq,FY 2009,31,Moslem,2,127
+From: 20 Oct 2008,To: 20 Oct 2008,Iraq,FY 2009,31,Moslem Shiite,4,127
+From: 20 Oct 2008,To: 20 Oct 2008,Iraq,FY 2009,31,Moslem Suni,20,127
+From: 20 Oct 2008,To: 20 Oct 2008,Iraq,FY 2009,31,Orthodox,1,127
+From: 20 Oct 2008,To: 20 Oct 2008,Laos,FY 2009,6,Ancestral Worship,6,127
+From: 20 Oct 2008,To: 20 Oct 2008,Russia,FY 2009,21,Baptist,7,127
+From: 20 Oct 2008,To: 20 Oct 2008,Russia,FY 2009,21,Jehovah Witness,2,127
+From: 20 Oct 2008,To: 20 Oct 2008,Russia,FY 2009,21,Pentecostalist,11,127
+From: 20 Oct 2008,To: 20 Oct 2008,Russia,FY 2009,21,Seventh Day Adventist,1,127
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Oct 2008,To: 20 Oct 2008,Ancestral Worship,FY 2009,6,Laos,6,127
+From: 20 Oct 2008,To: 20 Oct 2008,Baptist,FY 2009,7,Russia,7,127
+From: 20 Oct 2008,To: 20 Oct 2008,Buddhist,FY 2009,14,Burma,14,127
+From: 20 Oct 2008,To: 20 Oct 2008,Catholic,FY 2009,6,Burma,5,127
+From: 20 Oct 2008,To: 20 Oct 2008,Catholic,FY 2009,6,Congo,1,127
+From: 20 Oct 2008,To: 20 Oct 2008,Christian,FY 2009,37,Burma,33,127
+From: 20 Oct 2008,To: 20 Oct 2008,Christian,FY 2009,37,Iraq,4,127
+From: 20 Oct 2008,To: 20 Oct 2008,Jehovah Witness,FY 2009,2,Russia,2,127
+From: 20 Oct 2008,To: 20 Oct 2008,Moslem,FY 2009,9,Burma,7,127
+From: 20 Oct 2008,To: 20 Oct 2008,Moslem,FY 2009,9,Iraq,2,127
+From: 20 Oct 2008,To: 20 Oct 2008,Moslem Shiite,FY 2009,4,Iraq,4,127
+From: 20 Oct 2008,To: 20 Oct 2008,Moslem Suni,FY 2009,29,Afghanistan,9,127
+From: 20 Oct 2008,To: 20 Oct 2008,Moslem Suni,FY 2009,29,Iraq,20,127
+From: 20 Oct 2008,To: 20 Oct 2008,Orthodox,FY 2009,1,Iraq,1,127
+From: 20 Oct 2008,To: 20 Oct 2008,Pentecostalist,FY 2009,11,Russia,11,127
+From: 20 Oct 2008,To: 20 Oct 2008,Seventh Day Adventist,FY 2009,1,Russia,1,127
+

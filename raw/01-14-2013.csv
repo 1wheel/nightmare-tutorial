@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jan 2013,To: 14 Jan 2013,Afghanistan,FY 2013,2,Moslem Shiite,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Afghanistan,FY 2013,2,Moslem Suni,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Bhutan,FY 2013,33,Buddhist,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Bhutan,FY 2013,33,Christian,5,90
+From: 14 Jan 2013,To: 14 Jan 2013,Bhutan,FY 2013,33,Hindu,27,90
+From: 14 Jan 2013,To: 14 Jan 2013,Burma,FY 2013,1,Christian,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Dem. Rep. Congo,FY 2013,2,Catholic,2,90
+From: 14 Jan 2013,To: 14 Jan 2013,Eritrea,FY 2013,1,Orthodox,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Ethiopia,FY 2013,1,Seventh Day Adventist,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Catholic,3,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Christian,9,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Kaaka'i,4,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Moslem,9,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Moslem Shiite,4,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Moslem Suni,13,90
+From: 14 Jan 2013,To: 14 Jan 2013,Iraq,FY 2013,43,Other Religion,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Somalia,FY 2013,6,Moslem,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Somalia,FY 2013,6,Moslem Suni,5,90
+From: 14 Jan 2013,To: 14 Jan 2013,Sudan,FY 2013,1,Moslem Suni,1,90
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jan 2013,To: 14 Jan 2013,Buddhist,FY 2013,1,Bhutan,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Catholic,FY 2013,5,Dem. Rep. Congo,2,90
+From: 14 Jan 2013,To: 14 Jan 2013,Catholic,FY 2013,5,Iraq,3,90
+From: 14 Jan 2013,To: 14 Jan 2013,Christian,FY 2013,15,Bhutan,5,90
+From: 14 Jan 2013,To: 14 Jan 2013,Christian,FY 2013,15,Burma,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Christian,FY 2013,15,Iraq,9,90
+From: 14 Jan 2013,To: 14 Jan 2013,Hindu,FY 2013,27,Bhutan,27,90
+From: 14 Jan 2013,To: 14 Jan 2013,Kaaka'i,FY 2013,4,Iraq,4,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem,FY 2013,10,Iraq,9,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem,FY 2013,10,Somalia,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem Shiite,FY 2013,5,Afghanistan,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem Shiite,FY 2013,5,Iraq,4,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem Suni,FY 2013,20,Afghanistan,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem Suni,FY 2013,20,Iraq,13,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem Suni,FY 2013,20,Somalia,5,90
+From: 14 Jan 2013,To: 14 Jan 2013,Moslem Suni,FY 2013,20,Sudan,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Orthodox,FY 2013,1,Eritrea,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Other Religion,FY 2013,1,Iraq,1,90
+From: 14 Jan 2013,To: 14 Jan 2013,Seventh Day Adventist,FY 2013,1,Ethiopia,1,90
+

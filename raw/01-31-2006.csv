@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 Jan 2006,To: 31 Jan 2006,Afghanistan,FY 2006,12,Moslem Suni,12,226
+From: 31 Jan 2006,To: 31 Jan 2006,Cuba,FY 2006,22,Catholic,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Cuba,FY 2006,22,Evangelical Christian,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Cuba,FY 2006,22,Jehovah Witness,13,226
+From: 31 Jan 2006,To: 31 Jan 2006,Cuba,FY 2006,22,No Religion,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Ethiopia,FY 2006,3,Christian,2,226
+From: 31 Jan 2006,To: 31 Jan 2006,Ethiopia,FY 2006,3,Orthodox,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Iraq,FY 2006,1,Moslem,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Liberia,FY 2006,34,Baptist,2,226
+From: 31 Jan 2006,To: 31 Jan 2006,Liberia,FY 2006,34,Catholic,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Liberia,FY 2006,34,Christian,23,226
+From: 31 Jan 2006,To: 31 Jan 2006,Liberia,FY 2006,34,Jehovah Witness,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Liberia,FY 2006,34,Methodist,5,226
+From: 31 Jan 2006,To: 31 Jan 2006,Russia,FY 2006,16,Baptist,5,226
+From: 31 Jan 2006,To: 31 Jan 2006,Russia,FY 2006,16,Jehovah Witness,6,226
+From: 31 Jan 2006,To: 31 Jan 2006,Russia,FY 2006,16,Jewish,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Russia,FY 2006,16,Uniate,4,226
+From: 31 Jan 2006,To: 31 Jan 2006,Somalia,FY 2006,69,Moslem,69,226
+From: 31 Jan 2006,To: 31 Jan 2006,Sudan,FY 2006,68,Baptist,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Sudan,FY 2006,68,Catholic,17,226
+From: 31 Jan 2006,To: 31 Jan 2006,Sudan,FY 2006,68,Christian,45,226
+From: 31 Jan 2006,To: 31 Jan 2006,Sudan,FY 2006,68,Moslem,5,226
+From: 31 Jan 2006,To: 31 Jan 2006,Ukraine,FY 2006,1,Uniate,1,226
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 Jan 2006,To: 31 Jan 2006,Baptist,FY 2006,8,Liberia,2,226
+From: 31 Jan 2006,To: 31 Jan 2006,Baptist,FY 2006,8,Russia,5,226
+From: 31 Jan 2006,To: 31 Jan 2006,Baptist,FY 2006,8,Sudan,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Catholic,FY 2006,23,Cuba,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Catholic,FY 2006,23,Liberia,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Catholic,FY 2006,23,Sudan,17,226
+From: 31 Jan 2006,To: 31 Jan 2006,Christian,FY 2006,70,Ethiopia,2,226
+From: 31 Jan 2006,To: 31 Jan 2006,Christian,FY 2006,70,Liberia,23,226
+From: 31 Jan 2006,To: 31 Jan 2006,Christian,FY 2006,70,Sudan,45,226
+From: 31 Jan 2006,To: 31 Jan 2006,Evangelical Christian,FY 2006,3,Cuba,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Jehovah Witness,FY 2006,20,Cuba,13,226
+From: 31 Jan 2006,To: 31 Jan 2006,Jehovah Witness,FY 2006,20,Liberia,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Jehovah Witness,FY 2006,20,Russia,6,226
+From: 31 Jan 2006,To: 31 Jan 2006,Jewish,FY 2006,1,Russia,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Methodist,FY 2006,5,Liberia,5,226
+From: 31 Jan 2006,To: 31 Jan 2006,Moslem,FY 2006,75,Iraq,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Moslem,FY 2006,75,Somalia,69,226
+From: 31 Jan 2006,To: 31 Jan 2006,Moslem,FY 2006,75,Sudan,5,226
+From: 31 Jan 2006,To: 31 Jan 2006,Moslem Suni,FY 2006,12,Afghanistan,12,226
+From: 31 Jan 2006,To: 31 Jan 2006,No Religion,FY 2006,3,Cuba,3,226
+From: 31 Jan 2006,To: 31 Jan 2006,Orthodox,FY 2006,1,Ethiopia,1,226
+From: 31 Jan 2006,To: 31 Jan 2006,Uniate,FY 2006,5,Russia,4,226
+From: 31 Jan 2006,To: 31 Jan 2006,Uniate,FY 2006,5,Ukraine,1,226
+

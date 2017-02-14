@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jun 2005,To: 21 Jun 2005,Afghanistan,FY 2005,5,Moslem,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Afghanistan,FY 2005,5,Moslem Shiite,4,274
+From: 21 Jun 2005,To: 21 Jun 2005,Azerbaijan,FY 2005,3,Moslem Shiite,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Azerbaijan,FY 2005,3,Orthodox,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Burma,FY 2005,20,Buddhist,17,274
+From: 21 Jun 2005,To: 21 Jun 2005,Burma,FY 2005,20,Moslem,3,274
+From: 21 Jun 2005,To: 21 Jun 2005,Burundi,FY 2005,7,Catholic,6,274
+From: 21 Jun 2005,To: 21 Jun 2005,Burundi,FY 2005,7,Pentecostalist,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Cuba,FY 2005,70,Catholic,25,274
+From: 21 Jun 2005,To: 21 Jun 2005,Cuba,FY 2005,70,Jehovah Witness,21,274
+From: 21 Jun 2005,To: 21 Jun 2005,Cuba,FY 2005,70,No Religion,24,274
+From: 21 Jun 2005,To: 21 Jun 2005,Ethiopia,FY 2005,4,Moslem,4,274
+From: 21 Jun 2005,To: 21 Jun 2005,Indonesia,FY 2005,1,Moslem Suni,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Iran,FY 2005,5,Sabeans-Mandean,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Iran,FY 2005,5,Zoroastrian,4,274
+From: 21 Jun 2005,To: 21 Jun 2005,Iraq,FY 2005,16,Christian,8,274
+From: 21 Jun 2005,To: 21 Jun 2005,Iraq,FY 2005,16,Moslem,8,274
+From: 21 Jun 2005,To: 21 Jun 2005,Laos,FY 2005,64,Ancestral Worship,64,274
+From: 21 Jun 2005,To: 21 Jun 2005,Latvia,FY 2005,2,Jewish,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Liberia,FY 2005,3,Christian,3,274
+From: 21 Jun 2005,To: 21 Jun 2005,Lithuania,FY 2005,7,No Religion,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Lithuania,FY 2005,7,Pentecostalist,5,274
+From: 21 Jun 2005,To: 21 Jun 2005,Somalia,FY 2005,40,Moslem,31,274
+From: 21 Jun 2005,To: 21 Jun 2005,Somalia,FY 2005,40,Moslem Suni,9,274
+From: 21 Jun 2005,To: 21 Jun 2005,Ukraine,FY 2005,27,Baptist,13,274
+From: 21 Jun 2005,To: 21 Jun 2005,Ukraine,FY 2005,27,Christian,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Ukraine,FY 2005,27,Jewish,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Ukraine,FY 2005,27,Pentecostalist,10,274
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jun 2005,To: 21 Jun 2005,Ancestral Worship,FY 2005,64,Laos,64,274
+From: 21 Jun 2005,To: 21 Jun 2005,Baptist,FY 2005,13,Ukraine,13,274
+From: 21 Jun 2005,To: 21 Jun 2005,Buddhist,FY 2005,17,Burma,17,274
+From: 21 Jun 2005,To: 21 Jun 2005,Catholic,FY 2005,31,Burundi,6,274
+From: 21 Jun 2005,To: 21 Jun 2005,Catholic,FY 2005,31,Cuba,25,274
+From: 21 Jun 2005,To: 21 Jun 2005,Christian,FY 2005,13,Iraq,8,274
+From: 21 Jun 2005,To: 21 Jun 2005,Christian,FY 2005,13,Liberia,3,274
+From: 21 Jun 2005,To: 21 Jun 2005,Christian,FY 2005,13,Ukraine,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Jehovah Witness,FY 2005,21,Cuba,21,274
+From: 21 Jun 2005,To: 21 Jun 2005,Jewish,FY 2005,4,Latvia,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Jewish,FY 2005,4,Ukraine,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem,FY 2005,47,Afghanistan,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem,FY 2005,47,Burma,3,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem,FY 2005,47,Ethiopia,4,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem,FY 2005,47,Iraq,8,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem,FY 2005,47,Somalia,31,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem Shiite,FY 2005,6,Afghanistan,4,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem Shiite,FY 2005,6,Azerbaijan,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem Suni,FY 2005,10,Indonesia,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Moslem Suni,FY 2005,10,Somalia,9,274
+From: 21 Jun 2005,To: 21 Jun 2005,No Religion,FY 2005,26,Cuba,24,274
+From: 21 Jun 2005,To: 21 Jun 2005,No Religion,FY 2005,26,Lithuania,2,274
+From: 21 Jun 2005,To: 21 Jun 2005,Orthodox,FY 2005,1,Azerbaijan,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Pentecostalist,FY 2005,16,Burundi,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Pentecostalist,FY 2005,16,Lithuania,5,274
+From: 21 Jun 2005,To: 21 Jun 2005,Pentecostalist,FY 2005,16,Ukraine,10,274
+From: 21 Jun 2005,To: 21 Jun 2005,Sabeans-Mandean,FY 2005,1,Iran,1,274
+From: 21 Jun 2005,To: 21 Jun 2005,Zoroastrian,FY 2005,4,Iran,4,274
+

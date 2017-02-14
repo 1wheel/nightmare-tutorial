@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 Apr 2006,To: 11 Apr 2006,Azerbaijan,FY 2006,1,Moslem,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Catholic,11,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Christian,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Evangelical Christian,3,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Jehovah Witness,10,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Methodist,2,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,No Religion,34,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Pentecostalist,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Cuba,FY 2006,68,Seventh Day Adventist,6,100
+From: 11 Apr 2006,To: 11 Apr 2006,Ivory Coast,FY 2006,2,Animist,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Ivory Coast,FY 2006,2,Christian,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Liberia,FY 2006,3,Christian,3,100
+From: 11 Apr 2006,To: 11 Apr 2006,Russia,FY 2006,26,Baptist,11,100
+From: 11 Apr 2006,To: 11 Apr 2006,Russia,FY 2006,26,Jewish,11,100
+From: 11 Apr 2006,To: 11 Apr 2006,Russia,FY 2006,26,Pentecostalist,3,100
+From: 11 Apr 2006,To: 11 Apr 2006,Russia,FY 2006,26,Unknown,1,100
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 Apr 2006,To: 11 Apr 2006,Animist,FY 2006,1,Ivory Coast,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Baptist,FY 2006,11,Russia,11,100
+From: 11 Apr 2006,To: 11 Apr 2006,Catholic,FY 2006,11,Cuba,11,100
+From: 11 Apr 2006,To: 11 Apr 2006,Christian,FY 2006,5,Cuba,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Christian,FY 2006,5,Ivory Coast,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Christian,FY 2006,5,Liberia,3,100
+From: 11 Apr 2006,To: 11 Apr 2006,Evangelical Christian,FY 2006,3,Cuba,3,100
+From: 11 Apr 2006,To: 11 Apr 2006,Jehovah Witness,FY 2006,10,Cuba,10,100
+From: 11 Apr 2006,To: 11 Apr 2006,Jewish,FY 2006,11,Russia,11,100
+From: 11 Apr 2006,To: 11 Apr 2006,Methodist,FY 2006,2,Cuba,2,100
+From: 11 Apr 2006,To: 11 Apr 2006,Moslem,FY 2006,1,Azerbaijan,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,No Religion,FY 2006,34,Cuba,34,100
+From: 11 Apr 2006,To: 11 Apr 2006,Pentecostalist,FY 2006,4,Cuba,1,100
+From: 11 Apr 2006,To: 11 Apr 2006,Pentecostalist,FY 2006,4,Russia,3,100
+From: 11 Apr 2006,To: 11 Apr 2006,Seventh Day Adventist,FY 2006,6,Cuba,6,100
+From: 11 Apr 2006,To: 11 Apr 2006,Unknown,FY 2006,1,Russia,1,100
+

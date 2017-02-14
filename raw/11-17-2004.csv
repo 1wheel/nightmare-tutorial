@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Nov 2004,To: 17 Nov 2004,Ethiopia,FY 2005,3,Moslem,2,291
+From: 17 Nov 2004,To: 17 Nov 2004,Ethiopia,FY 2005,3,Protestant,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Iran,FY 2005,8,Bahai,7,291
+From: 17 Nov 2004,To: 17 Nov 2004,Iran,FY 2005,8,Moslem,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Laos,FY 2005,125,Ancestral Worship,109,291
+From: 17 Nov 2004,To: 17 Nov 2004,Laos,FY 2005,125,Christian,16,291
+From: 17 Nov 2004,To: 17 Nov 2004,Liberia,FY 2005,14,Baptist,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Liberia,FY 2005,14,Christian,8,291
+From: 17 Nov 2004,To: 17 Nov 2004,Liberia,FY 2005,14,Protestant,5,291
+From: 17 Nov 2004,To: 17 Nov 2004,Sierra Leone,FY 2005,39,Christian,10,291
+From: 17 Nov 2004,To: 17 Nov 2004,Sierra Leone,FY 2005,39,Moslem,28,291
+From: 17 Nov 2004,To: 17 Nov 2004,Sierra Leone,FY 2005,39,Protestant,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Somalia,FY 2005,101,Moslem,101,291
+From: 17 Nov 2004,To: 17 Nov 2004,Sudan,FY 2005,1,Catholic,1,291
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Nov 2004,To: 17 Nov 2004,Ancestral Worship,FY 2005,109,Laos,109,291
+From: 17 Nov 2004,To: 17 Nov 2004,Bahai,FY 2005,7,Iran,7,291
+From: 17 Nov 2004,To: 17 Nov 2004,Baptist,FY 2005,1,Liberia,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Catholic,FY 2005,1,Sudan,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Christian,FY 2005,34,Laos,16,291
+From: 17 Nov 2004,To: 17 Nov 2004,Christian,FY 2005,34,Liberia,8,291
+From: 17 Nov 2004,To: 17 Nov 2004,Christian,FY 2005,34,Sierra Leone,10,291
+From: 17 Nov 2004,To: 17 Nov 2004,Moslem,FY 2005,132,Ethiopia,2,291
+From: 17 Nov 2004,To: 17 Nov 2004,Moslem,FY 2005,132,Iran,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Moslem,FY 2005,132,Sierra Leone,28,291
+From: 17 Nov 2004,To: 17 Nov 2004,Moslem,FY 2005,132,Somalia,101,291
+From: 17 Nov 2004,To: 17 Nov 2004,Protestant,FY 2005,7,Ethiopia,1,291
+From: 17 Nov 2004,To: 17 Nov 2004,Protestant,FY 2005,7,Liberia,5,291
+From: 17 Nov 2004,To: 17 Nov 2004,Protestant,FY 2005,7,Sierra Leone,1,291
+

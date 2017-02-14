@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 May 2015,To: 18 May 2015,Afghanistan,FY 2015,2,Moslem Shiite,2,83
+From: 18 May 2015,To: 18 May 2015,Burma,FY 2015,6,Christian,6,83
+From: 18 May 2015,To: 18 May 2015,Eritrea,FY 2015,7,Orthodox,7,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Bahai,3,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Christian,16,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Moslem,1,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Moslem Suni,1,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Pentecostalist,1,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Protestant,6,83
+From: 18 May 2015,To: 18 May 2015,Iran,FY 2015,31,Zoroastrian,3,83
+From: 18 May 2015,To: 18 May 2015,Iraq,FY 2015,11,Catholic,5,83
+From: 18 May 2015,To: 18 May 2015,Iraq,FY 2015,11,Moslem Shiite,1,83
+From: 18 May 2015,To: 18 May 2015,Iraq,FY 2015,11,Moslem Suni,5,83
+From: 18 May 2015,To: 18 May 2015,Mali,FY 2015,2,Jehovah Witness,2,83
+From: 18 May 2015,To: 18 May 2015,Pakistan,FY 2015,9,Ahmadiyya,9,83
+From: 18 May 2015,To: 18 May 2015,Somalia,FY 2015,15,Moslem,3,83
+From: 18 May 2015,To: 18 May 2015,Somalia,FY 2015,15,Moslem Suni,12,83
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 May 2015,To: 18 May 2015,Ahmadiyya,FY 2015,9,Pakistan,9,83
+From: 18 May 2015,To: 18 May 2015,Bahai,FY 2015,3,Iran,3,83
+From: 18 May 2015,To: 18 May 2015,Catholic,FY 2015,5,Iraq,5,83
+From: 18 May 2015,To: 18 May 2015,Christian,FY 2015,22,Burma,6,83
+From: 18 May 2015,To: 18 May 2015,Christian,FY 2015,22,Iran,16,83
+From: 18 May 2015,To: 18 May 2015,Jehovah Witness,FY 2015,2,Mali,2,83
+From: 18 May 2015,To: 18 May 2015,Moslem,FY 2015,4,Iran,1,83
+From: 18 May 2015,To: 18 May 2015,Moslem,FY 2015,4,Somalia,3,83
+From: 18 May 2015,To: 18 May 2015,Moslem Shiite,FY 2015,3,Afghanistan,2,83
+From: 18 May 2015,To: 18 May 2015,Moslem Shiite,FY 2015,3,Iraq,1,83
+From: 18 May 2015,To: 18 May 2015,Moslem Suni,FY 2015,18,Iran,1,83
+From: 18 May 2015,To: 18 May 2015,Moslem Suni,FY 2015,18,Iraq,5,83
+From: 18 May 2015,To: 18 May 2015,Moslem Suni,FY 2015,18,Somalia,12,83
+From: 18 May 2015,To: 18 May 2015,Orthodox,FY 2015,7,Eritrea,7,83
+From: 18 May 2015,To: 18 May 2015,Pentecostalist,FY 2015,1,Iran,1,83
+From: 18 May 2015,To: 18 May 2015,Protestant,FY 2015,6,Iran,6,83
+From: 18 May 2015,To: 18 May 2015,Zoroastrian,FY 2015,3,Iran,3,83
+

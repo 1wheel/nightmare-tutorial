@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Sep 2010,To: 14 Sep 2010,Bhutan,FY 2010,125,Buddhist,27,348
+From: 14 Sep 2010,To: 14 Sep 2010,Bhutan,FY 2010,125,Christian,11,348
+From: 14 Sep 2010,To: 14 Sep 2010,Bhutan,FY 2010,125,Hindu,87,348
+From: 14 Sep 2010,To: 14 Sep 2010,Burma,FY 2010,35,Baptist,2,348
+From: 14 Sep 2010,To: 14 Sep 2010,Burma,FY 2010,35,Christian,33,348
+From: 14 Sep 2010,To: 14 Sep 2010,Burundi,FY 2010,1,Moslem,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Cuba,FY 2010,69,Catholic,26,348
+From: 14 Sep 2010,To: 14 Sep 2010,Cuba,FY 2010,69,Evangelical Christian,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Cuba,FY 2010,69,Jehovah Witness,24,348
+From: 14 Sep 2010,To: 14 Sep 2010,Cuba,FY 2010,69,No Religion,18,348
+From: 14 Sep 2010,To: 14 Sep 2010,Dem. Rep. Congo,FY 2010,3,Christian,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Dem. Rep. Congo,FY 2010,3,Protestant,2,348
+From: 14 Sep 2010,To: 14 Sep 2010,Eritrea,FY 2010,38,Catholic,8,348
+From: 14 Sep 2010,To: 14 Sep 2010,Eritrea,FY 2010,38,Jehovah Witness,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Eritrea,FY 2010,38,Moslem,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Eritrea,FY 2010,38,Orthodox,21,348
+From: 14 Sep 2010,To: 14 Sep 2010,Eritrea,FY 2010,38,Pentecostalist,7,348
+From: 14 Sep 2010,To: 14 Sep 2010,Ethiopia,FY 2010,37,Christian,10,348
+From: 14 Sep 2010,To: 14 Sep 2010,Ethiopia,FY 2010,37,Moslem,17,348
+From: 14 Sep 2010,To: 14 Sep 2010,Ethiopia,FY 2010,37,Orthodox,5,348
+From: 14 Sep 2010,To: 14 Sep 2010,Ethiopia,FY 2010,37,Pentecostalist,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Ethiopia,FY 2010,37,Protestant,4,348
+From: 14 Sep 2010,To: 14 Sep 2010,Laos,FY 2010,9,Catholic,9,348
+From: 14 Sep 2010,To: 14 Sep 2010,Somalia,FY 2010,28,Moslem,28,348
+From: 14 Sep 2010,To: 14 Sep 2010,Syria,FY 2010,3,Moslem,3,348
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Sep 2010,To: 14 Sep 2010,Baptist,FY 2010,2,Burma,2,348
+From: 14 Sep 2010,To: 14 Sep 2010,Buddhist,FY 2010,27,Bhutan,27,348
+From: 14 Sep 2010,To: 14 Sep 2010,Catholic,FY 2010,43,Cuba,26,348
+From: 14 Sep 2010,To: 14 Sep 2010,Catholic,FY 2010,43,Eritrea,8,348
+From: 14 Sep 2010,To: 14 Sep 2010,Catholic,FY 2010,43,Laos,9,348
+From: 14 Sep 2010,To: 14 Sep 2010,Christian,FY 2010,55,Bhutan,11,348
+From: 14 Sep 2010,To: 14 Sep 2010,Christian,FY 2010,55,Burma,33,348
+From: 14 Sep 2010,To: 14 Sep 2010,Christian,FY 2010,55,Dem. Rep. Congo,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Christian,FY 2010,55,Ethiopia,10,348
+From: 14 Sep 2010,To: 14 Sep 2010,Evangelical Christian,FY 2010,1,Cuba,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Hindu,FY 2010,87,Bhutan,87,348
+From: 14 Sep 2010,To: 14 Sep 2010,Jehovah Witness,FY 2010,25,Cuba,24,348
+From: 14 Sep 2010,To: 14 Sep 2010,Jehovah Witness,FY 2010,25,Eritrea,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Moslem,FY 2010,50,Burundi,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Moslem,FY 2010,50,Eritrea,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Moslem,FY 2010,50,Ethiopia,17,348
+From: 14 Sep 2010,To: 14 Sep 2010,Moslem,FY 2010,50,Somalia,28,348
+From: 14 Sep 2010,To: 14 Sep 2010,Moslem,FY 2010,50,Syria,3,348
+From: 14 Sep 2010,To: 14 Sep 2010,No Religion,FY 2010,18,Cuba,18,348
+From: 14 Sep 2010,To: 14 Sep 2010,Orthodox,FY 2010,26,Eritrea,21,348
+From: 14 Sep 2010,To: 14 Sep 2010,Orthodox,FY 2010,26,Ethiopia,5,348
+From: 14 Sep 2010,To: 14 Sep 2010,Pentecostalist,FY 2010,8,Eritrea,7,348
+From: 14 Sep 2010,To: 14 Sep 2010,Pentecostalist,FY 2010,8,Ethiopia,1,348
+From: 14 Sep 2010,To: 14 Sep 2010,Protestant,FY 2010,6,Dem. Rep. Congo,2,348
+From: 14 Sep 2010,To: 14 Sep 2010,Protestant,FY 2010,6,Ethiopia,4,348
+

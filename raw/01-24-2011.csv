@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 24 Jan 2011,To: 24 Jan 2011,Afghanistan,FY 2011,1,Moslem,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Burma,FY 2011,88,Baptist,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Burma,FY 2011,88,Buddhist,23,259
+From: 24 Jan 2011,To: 24 Jan 2011,Burma,FY 2011,88,Christian,64,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Catholic,8,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Christian,51,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Moslem,2,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Moslem Shiite,50,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Moslem Suni,43,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Orthodox,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Protestant,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Iraq,FY 2011,164,Sabeans-Mandean,8,259
+From: 24 Jan 2011,To: 24 Jan 2011,Somalia,FY 2011,1,Moslem Suni,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Sri Lanka (Ceylon),FY 2011,2,Christian,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Sri Lanka (Ceylon),FY 2011,2,Hindu,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Vietnam,FY 2011,3,Catholic,3,259
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 24 Jan 2011,To: 24 Jan 2011,Baptist,FY 2011,1,Burma,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Buddhist,FY 2011,23,Burma,23,259
+From: 24 Jan 2011,To: 24 Jan 2011,Catholic,FY 2011,11,Iraq,8,259
+From: 24 Jan 2011,To: 24 Jan 2011,Catholic,FY 2011,11,Vietnam,3,259
+From: 24 Jan 2011,To: 24 Jan 2011,Christian,FY 2011,116,Burma,64,259
+From: 24 Jan 2011,To: 24 Jan 2011,Christian,FY 2011,116,Iraq,51,259
+From: 24 Jan 2011,To: 24 Jan 2011,Christian,FY 2011,116,Sri Lanka (Ceylon),1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Hindu,FY 2011,1,Sri Lanka (Ceylon),1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Moslem,FY 2011,3,Afghanistan,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Moslem,FY 2011,3,Iraq,2,259
+From: 24 Jan 2011,To: 24 Jan 2011,Moslem Shiite,FY 2011,50,Iraq,50,259
+From: 24 Jan 2011,To: 24 Jan 2011,Moslem Suni,FY 2011,44,Iraq,43,259
+From: 24 Jan 2011,To: 24 Jan 2011,Moslem Suni,FY 2011,44,Somalia,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Orthodox,FY 2011,1,Iraq,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Protestant,FY 2011,1,Iraq,1,259
+From: 24 Jan 2011,To: 24 Jan 2011,Sabeans-Mandean,FY 2011,8,Iraq,8,259
+

@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Mar 2009,To: 19 Mar 2009,Bhutan,FY 2009,35,Buddhist,17,363
+From: 19 Mar 2009,To: 19 Mar 2009,Bhutan,FY 2009,35,Hindu,15,363
+From: 19 Mar 2009,To: 19 Mar 2009,Bhutan,FY 2009,35,Kirat,3,363
+From: 19 Mar 2009,To: 19 Mar 2009,Burma,FY 2009,123,Buddhist,17,363
+From: 19 Mar 2009,To: 19 Mar 2009,Burma,FY 2009,123,Christian,100,363
+From: 19 Mar 2009,To: 19 Mar 2009,Burma,FY 2009,123,Hindu,1,363
+From: 19 Mar 2009,To: 19 Mar 2009,Burma,FY 2009,123,Moslem,5,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iran,FY 2009,74,Bahai,9,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iran,FY 2009,74,Christian,57,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iran,FY 2009,74,Jewish,5,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iran,FY 2009,74,Sabeans-Mandean,2,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iran,FY 2009,74,Zoroastrian,1,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iraq,FY 2009,64,Catholic,10,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iraq,FY 2009,64,Christian,15,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iraq,FY 2009,64,Moslem Shiite,7,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iraq,FY 2009,64,Moslem Suni,30,363
+From: 19 Mar 2009,To: 19 Mar 2009,Iraq,FY 2009,64,Orthodox,2,363
+From: 19 Mar 2009,To: 19 Mar 2009,"Korea, North",FY 2009,1,Unknown,1,363
+From: 19 Mar 2009,To: 19 Mar 2009,Somalia,FY 2009,40,Moslem,40,363
+From: 19 Mar 2009,To: 19 Mar 2009,Sudan,FY 2009,20,Moslem,18,363
+From: 19 Mar 2009,To: 19 Mar 2009,Sudan,FY 2009,20,Moslem Suni,2,363
+From: 19 Mar 2009,To: 19 Mar 2009,Ukraine,FY 2009,6,Pentecostalist,6,363
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Mar 2009,To: 19 Mar 2009,Bahai,FY 2009,9,Iran,9,363
+From: 19 Mar 2009,To: 19 Mar 2009,Buddhist,FY 2009,34,Bhutan,17,363
+From: 19 Mar 2009,To: 19 Mar 2009,Buddhist,FY 2009,34,Burma,17,363
+From: 19 Mar 2009,To: 19 Mar 2009,Catholic,FY 2009,10,Iraq,10,363
+From: 19 Mar 2009,To: 19 Mar 2009,Christian,FY 2009,172,Burma,100,363
+From: 19 Mar 2009,To: 19 Mar 2009,Christian,FY 2009,172,Iran,57,363
+From: 19 Mar 2009,To: 19 Mar 2009,Christian,FY 2009,172,Iraq,15,363
+From: 19 Mar 2009,To: 19 Mar 2009,Hindu,FY 2009,16,Bhutan,15,363
+From: 19 Mar 2009,To: 19 Mar 2009,Hindu,FY 2009,16,Burma,1,363
+From: 19 Mar 2009,To: 19 Mar 2009,Jewish,FY 2009,5,Iran,5,363
+From: 19 Mar 2009,To: 19 Mar 2009,Kirat,FY 2009,3,Bhutan,3,363
+From: 19 Mar 2009,To: 19 Mar 2009,Moslem,FY 2009,63,Burma,5,363
+From: 19 Mar 2009,To: 19 Mar 2009,Moslem,FY 2009,63,Somalia,40,363
+From: 19 Mar 2009,To: 19 Mar 2009,Moslem,FY 2009,63,Sudan,18,363
+From: 19 Mar 2009,To: 19 Mar 2009,Moslem Shiite,FY 2009,7,Iraq,7,363
+From: 19 Mar 2009,To: 19 Mar 2009,Moslem Suni,FY 2009,32,Iraq,30,363
+From: 19 Mar 2009,To: 19 Mar 2009,Moslem Suni,FY 2009,32,Sudan,2,363
+From: 19 Mar 2009,To: 19 Mar 2009,Orthodox,FY 2009,2,Iraq,2,363
+From: 19 Mar 2009,To: 19 Mar 2009,Pentecostalist,FY 2009,6,Ukraine,6,363
+From: 19 Mar 2009,To: 19 Mar 2009,Sabeans-Mandean,FY 2009,2,Iran,2,363
+From: 19 Mar 2009,To: 19 Mar 2009,Unknown,FY 2009,1,"Korea, North",1,363
+From: 19 Mar 2009,To: 19 Mar 2009,Zoroastrian,FY 2009,1,Iran,1,363
+

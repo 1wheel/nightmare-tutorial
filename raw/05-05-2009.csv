@@ -1,0 +1,61 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 May 2009,To: 05 May 2009,Bhutan,FY 2009,118,Buddhist,11,466
+From: 05 May 2009,To: 05 May 2009,Bhutan,FY 2009,118,Christian,5,466
+From: 05 May 2009,To: 05 May 2009,Bhutan,FY 2009,118,Hindu,102,466
+From: 05 May 2009,To: 05 May 2009,Burma,FY 2009,65,Animist,22,466
+From: 05 May 2009,To: 05 May 2009,Burma,FY 2009,65,Buddhist,4,466
+From: 05 May 2009,To: 05 May 2009,Burma,FY 2009,65,Catholic,23,466
+From: 05 May 2009,To: 05 May 2009,Burma,FY 2009,65,Christian,16,466
+From: 05 May 2009,To: 05 May 2009,Cameroon,FY 2009,1,Unknown,1,466
+From: 05 May 2009,To: 05 May 2009,Eritrea,FY 2009,1,Pentecostalist,1,466
+From: 05 May 2009,To: 05 May 2009,Iran,FY 2009,63,Bahai,11,466
+From: 05 May 2009,To: 05 May 2009,Iran,FY 2009,63,Christian,44,466
+From: 05 May 2009,To: 05 May 2009,Iran,FY 2009,63,Jewish,5,466
+From: 05 May 2009,To: 05 May 2009,Iran,FY 2009,63,Sabeans-Mandean,1,466
+From: 05 May 2009,To: 05 May 2009,Iran,FY 2009,63,Zoroastrian,2,466
+From: 05 May 2009,To: 05 May 2009,Iraq,FY 2009,132,Catholic,11,466
+From: 05 May 2009,To: 05 May 2009,Iraq,FY 2009,132,Christian,29,466
+From: 05 May 2009,To: 05 May 2009,Iraq,FY 2009,132,Moslem,3,466
+From: 05 May 2009,To: 05 May 2009,Iraq,FY 2009,132,Moslem Shiite,55,466
+From: 05 May 2009,To: 05 May 2009,Iraq,FY 2009,132,Moslem Suni,27,466
+From: 05 May 2009,To: 05 May 2009,Iraq,FY 2009,132,Orthodox,7,466
+From: 05 May 2009,To: 05 May 2009,Nepal,FY 2009,2,Hindu,2,466
+From: 05 May 2009,To: 05 May 2009,Sierra Leone,FY 2009,2,Christian,2,466
+From: 05 May 2009,To: 05 May 2009,Somalia,FY 2009,72,Moslem,68,466
+From: 05 May 2009,To: 05 May 2009,Somalia,FY 2009,72,Moslem Suni,4,466
+From: 05 May 2009,To: 05 May 2009,Vietnam,FY 2009,10,Christian,2,466
+From: 05 May 2009,To: 05 May 2009,Vietnam,FY 2009,10,Other Religion,4,466
+From: 05 May 2009,To: 05 May 2009,Vietnam,FY 2009,10,Protestant,4,466
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 May 2009,To: 05 May 2009,Animist,FY 2009,22,Burma,22,466
+From: 05 May 2009,To: 05 May 2009,Bahai,FY 2009,11,Iran,11,466
+From: 05 May 2009,To: 05 May 2009,Buddhist,FY 2009,15,Bhutan,11,466
+From: 05 May 2009,To: 05 May 2009,Buddhist,FY 2009,15,Burma,4,466
+From: 05 May 2009,To: 05 May 2009,Catholic,FY 2009,34,Burma,23,466
+From: 05 May 2009,To: 05 May 2009,Catholic,FY 2009,34,Iraq,11,466
+From: 05 May 2009,To: 05 May 2009,Christian,FY 2009,98,Bhutan,5,466
+From: 05 May 2009,To: 05 May 2009,Christian,FY 2009,98,Burma,16,466
+From: 05 May 2009,To: 05 May 2009,Christian,FY 2009,98,Iran,44,466
+From: 05 May 2009,To: 05 May 2009,Christian,FY 2009,98,Iraq,29,466
+From: 05 May 2009,To: 05 May 2009,Christian,FY 2009,98,Sierra Leone,2,466
+From: 05 May 2009,To: 05 May 2009,Christian,FY 2009,98,Vietnam,2,466
+From: 05 May 2009,To: 05 May 2009,Hindu,FY 2009,104,Bhutan,102,466
+From: 05 May 2009,To: 05 May 2009,Hindu,FY 2009,104,Nepal,2,466
+From: 05 May 2009,To: 05 May 2009,Jewish,FY 2009,5,Iran,5,466
+From: 05 May 2009,To: 05 May 2009,Moslem,FY 2009,71,Iraq,3,466
+From: 05 May 2009,To: 05 May 2009,Moslem,FY 2009,71,Somalia,68,466
+From: 05 May 2009,To: 05 May 2009,Moslem Shiite,FY 2009,55,Iraq,55,466
+From: 05 May 2009,To: 05 May 2009,Moslem Suni,FY 2009,31,Iraq,27,466
+From: 05 May 2009,To: 05 May 2009,Moslem Suni,FY 2009,31,Somalia,4,466
+From: 05 May 2009,To: 05 May 2009,Orthodox,FY 2009,7,Iraq,7,466
+From: 05 May 2009,To: 05 May 2009,Other Religion,FY 2009,4,Vietnam,4,466
+From: 05 May 2009,To: 05 May 2009,Pentecostalist,FY 2009,1,Eritrea,1,466
+From: 05 May 2009,To: 05 May 2009,Protestant,FY 2009,4,Vietnam,4,466
+From: 05 May 2009,To: 05 May 2009,Sabeans-Mandean,FY 2009,1,Iran,1,466
+From: 05 May 2009,To: 05 May 2009,Unknown,FY 2009,1,Cameroon,1,466
+From: 05 May 2009,To: 05 May 2009,Zoroastrian,FY 2009,2,Iran,2,466
+

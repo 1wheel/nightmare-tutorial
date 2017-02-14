@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Apr 2011,To: 21 Apr 2011,Bhutan,FY 2011,70,Buddhist,13,124
+From: 21 Apr 2011,To: 21 Apr 2011,Bhutan,FY 2011,70,Christian,10,124
+From: 21 Apr 2011,To: 21 Apr 2011,Bhutan,FY 2011,70,Hindu,47,124
+From: 21 Apr 2011,To: 21 Apr 2011,Burma,FY 2011,5,Christian,5,124
+From: 21 Apr 2011,To: 21 Apr 2011,Eritrea,FY 2011,8,Orthodox,4,124
+From: 21 Apr 2011,To: 21 Apr 2011,Eritrea,FY 2011,8,Protestant,4,124
+From: 21 Apr 2011,To: 21 Apr 2011,Iraq,FY 2011,8,Moslem Shiite,6,124
+From: 21 Apr 2011,To: 21 Apr 2011,Iraq,FY 2011,8,Moslem Suni,2,124
+From: 21 Apr 2011,To: 21 Apr 2011,Malaysia,FY 2011,3,Unknown,3,124
+From: 21 Apr 2011,To: 21 Apr 2011,Palestine,FY 2011,8,Moslem Suni,8,124
+From: 21 Apr 2011,To: 21 Apr 2011,Somalia,FY 2011,16,Moslem,15,124
+From: 21 Apr 2011,To: 21 Apr 2011,Somalia,FY 2011,16,Moslem Suni,1,124
+From: 21 Apr 2011,To: 21 Apr 2011,Ukraine,FY 2011,6,Baptist,6,124
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Apr 2011,To: 21 Apr 2011,Baptist,FY 2011,6,Ukraine,6,124
+From: 21 Apr 2011,To: 21 Apr 2011,Buddhist,FY 2011,13,Bhutan,13,124
+From: 21 Apr 2011,To: 21 Apr 2011,Christian,FY 2011,15,Bhutan,10,124
+From: 21 Apr 2011,To: 21 Apr 2011,Christian,FY 2011,15,Burma,5,124
+From: 21 Apr 2011,To: 21 Apr 2011,Hindu,FY 2011,47,Bhutan,47,124
+From: 21 Apr 2011,To: 21 Apr 2011,Moslem,FY 2011,15,Somalia,15,124
+From: 21 Apr 2011,To: 21 Apr 2011,Moslem Shiite,FY 2011,6,Iraq,6,124
+From: 21 Apr 2011,To: 21 Apr 2011,Moslem Suni,FY 2011,11,Iraq,2,124
+From: 21 Apr 2011,To: 21 Apr 2011,Moslem Suni,FY 2011,11,Palestine,8,124
+From: 21 Apr 2011,To: 21 Apr 2011,Moslem Suni,FY 2011,11,Somalia,1,124
+From: 21 Apr 2011,To: 21 Apr 2011,Orthodox,FY 2011,4,Eritrea,4,124
+From: 21 Apr 2011,To: 21 Apr 2011,Protestant,FY 2011,4,Eritrea,4,124
+From: 21 Apr 2011,To: 21 Apr 2011,Unknown,FY 2011,3,Malaysia,3,124
+

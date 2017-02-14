@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Sep 2007,To: 26 Sep 2007,Burma,FY 2007,337,Buddhist,31,735
+From: 26 Sep 2007,To: 26 Sep 2007,Burma,FY 2007,337,Christian,253,735
+From: 26 Sep 2007,To: 26 Sep 2007,Burma,FY 2007,337,Moslem,53,735
+From: 26 Sep 2007,To: 26 Sep 2007,Burundi,FY 2007,99,Catholic,28,735
+From: 26 Sep 2007,To: 26 Sep 2007,Burundi,FY 2007,99,Christian,7,735
+From: 26 Sep 2007,To: 26 Sep 2007,Burundi,FY 2007,99,Methodist,24,735
+From: 26 Sep 2007,To: 26 Sep 2007,Burundi,FY 2007,99,Pentecostalist,40,735
+From: 26 Sep 2007,To: 26 Sep 2007,Dem. Rep. Congo,FY 2007,14,Christian,5,735
+From: 26 Sep 2007,To: 26 Sep 2007,Dem. Rep. Congo,FY 2007,14,Moslem,4,735
+From: 26 Sep 2007,To: 26 Sep 2007,Dem. Rep. Congo,FY 2007,14,Pentecostalist,5,735
+From: 26 Sep 2007,To: 26 Sep 2007,Eritrea,FY 2007,1,Orthodox,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Ethiopia,FY 2007,3,Christian,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Ethiopia,FY 2007,3,Moslem,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iran,FY 2007,11,Christian,10,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iran,FY 2007,11,Zoroastrian,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iraq,FY 2007,58,Catholic,14,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iraq,FY 2007,58,Christian,19,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iraq,FY 2007,58,Moslem Shiite,7,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iraq,FY 2007,58,Moslem Suni,14,735
+From: 26 Sep 2007,To: 26 Sep 2007,Iraq,FY 2007,58,Sabeans-Mandean,4,735
+From: 26 Sep 2007,To: 26 Sep 2007,Laos,FY 2007,7,Ancestral Worship,7,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moldova,FY 2007,22,Baptist,9,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moldova,FY 2007,22,Jehovah Witness,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moldova,FY 2007,22,Pentecostalist,10,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moldova,FY 2007,22,Seventh Day Adventist,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Somalia,FY 2007,120,Moslem,119,735
+From: 26 Sep 2007,To: 26 Sep 2007,Somalia,FY 2007,120,Protestant,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Sudan,FY 2007,6,Catholic,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Sudan,FY 2007,6,Protestant,3,735
+From: 26 Sep 2007,To: 26 Sep 2007,Sudan,FY 2007,6,Unknown,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Uganda,FY 2007,5,Protestant,5,735
+From: 26 Sep 2007,To: 26 Sep 2007,Vietnam,FY 2007,52,Ancestral Worship,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Vietnam,FY 2007,52,Buddhist,9,735
+From: 26 Sep 2007,To: 26 Sep 2007,Vietnam,FY 2007,52,Catholic,21,735
+From: 26 Sep 2007,To: 26 Sep 2007,Vietnam,FY 2007,52,No Religion,16,735
+From: 26 Sep 2007,To: 26 Sep 2007,Vietnam,FY 2007,52,Protestant,4,735
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Sep 2007,To: 26 Sep 2007,Ancestral Worship,FY 2007,9,Laos,7,735
+From: 26 Sep 2007,To: 26 Sep 2007,Ancestral Worship,FY 2007,9,Vietnam,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Baptist,FY 2007,9,Moldova,9,735
+From: 26 Sep 2007,To: 26 Sep 2007,Buddhist,FY 2007,40,Burma,31,735
+From: 26 Sep 2007,To: 26 Sep 2007,Buddhist,FY 2007,40,Vietnam,9,735
+From: 26 Sep 2007,To: 26 Sep 2007,Catholic,FY 2007,65,Burundi,28,735
+From: 26 Sep 2007,To: 26 Sep 2007,Catholic,FY 2007,65,Iraq,14,735
+From: 26 Sep 2007,To: 26 Sep 2007,Catholic,FY 2007,65,Sudan,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Catholic,FY 2007,65,Vietnam,21,735
+From: 26 Sep 2007,To: 26 Sep 2007,Christian,FY 2007,295,Burma,253,735
+From: 26 Sep 2007,To: 26 Sep 2007,Christian,FY 2007,295,Burundi,7,735
+From: 26 Sep 2007,To: 26 Sep 2007,Christian,FY 2007,295,Dem. Rep. Congo,5,735
+From: 26 Sep 2007,To: 26 Sep 2007,Christian,FY 2007,295,Ethiopia,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Christian,FY 2007,295,Iran,10,735
+From: 26 Sep 2007,To: 26 Sep 2007,Christian,FY 2007,295,Iraq,19,735
+From: 26 Sep 2007,To: 26 Sep 2007,Jehovah Witness,FY 2007,2,Moldova,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Methodist,FY 2007,24,Burundi,24,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moslem,FY 2007,178,Burma,53,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moslem,FY 2007,178,Dem. Rep. Congo,4,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moslem,FY 2007,178,Ethiopia,2,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moslem,FY 2007,178,Somalia,119,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moslem Shiite,FY 2007,7,Iraq,7,735
+From: 26 Sep 2007,To: 26 Sep 2007,Moslem Suni,FY 2007,14,Iraq,14,735
+From: 26 Sep 2007,To: 26 Sep 2007,No Religion,FY 2007,16,Vietnam,16,735
+From: 26 Sep 2007,To: 26 Sep 2007,Orthodox,FY 2007,1,Eritrea,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Pentecostalist,FY 2007,55,Burundi,40,735
+From: 26 Sep 2007,To: 26 Sep 2007,Pentecostalist,FY 2007,55,Dem. Rep. Congo,5,735
+From: 26 Sep 2007,To: 26 Sep 2007,Pentecostalist,FY 2007,55,Moldova,10,735
+From: 26 Sep 2007,To: 26 Sep 2007,Protestant,FY 2007,13,Somalia,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Protestant,FY 2007,13,Sudan,3,735
+From: 26 Sep 2007,To: 26 Sep 2007,Protestant,FY 2007,13,Uganda,5,735
+From: 26 Sep 2007,To: 26 Sep 2007,Protestant,FY 2007,13,Vietnam,4,735
+From: 26 Sep 2007,To: 26 Sep 2007,Sabeans-Mandean,FY 2007,4,Iraq,4,735
+From: 26 Sep 2007,To: 26 Sep 2007,Seventh Day Adventist,FY 2007,1,Moldova,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Unknown,FY 2007,1,Sudan,1,735
+From: 26 Sep 2007,To: 26 Sep 2007,Zoroastrian,FY 2007,1,Iran,1,735
+

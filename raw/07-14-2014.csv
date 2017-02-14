@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jul 2014,To: 14 Jul 2014,Afghanistan,FY 2014,3,Moslem Shiite,3,242
+From: 14 Jul 2014,To: 14 Jul 2014,Bhutan,FY 2014,27,Buddhist,6,242
+From: 14 Jul 2014,To: 14 Jul 2014,Bhutan,FY 2014,27,Christian,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Bhutan,FY 2014,27,Hindu,15,242
+From: 14 Jul 2014,To: 14 Jul 2014,Bhutan,FY 2014,27,Kirat,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Burma,FY 2014,56,Animist,6,242
+From: 14 Jul 2014,To: 14 Jul 2014,Burma,FY 2014,56,Baptist,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Burma,FY 2014,56,Buddhist,23,242
+From: 14 Jul 2014,To: 14 Jul 2014,Burma,FY 2014,56,Christian,21,242
+From: 14 Jul 2014,To: 14 Jul 2014,Burma,FY 2014,56,Moslem,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,China,FY 2014,2,Buddhist,2,242
+From: 14 Jul 2014,To: 14 Jul 2014,Ethiopia,FY 2014,2,Christian,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Ethiopia,FY 2014,2,Orthodox,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iran,FY 2014,6,Bahai,4,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iran,FY 2014,6,No Religion,2,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iraq,FY 2014,91,Catholic,10,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iraq,FY 2014,91,Moslem Shiite,17,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iraq,FY 2014,91,Moslem Suni,55,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iraq,FY 2014,91,Orthodox,4,242
+From: 14 Jul 2014,To: 14 Jul 2014,Iraq,FY 2014,91,Sabeans-Mandean,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Pakistan,FY 2014,3,Christian,3,242
+From: 14 Jul 2014,To: 14 Jul 2014,Somalia,FY 2014,32,Moslem,24,242
+From: 14 Jul 2014,To: 14 Jul 2014,Somalia,FY 2014,32,Moslem Suni,8,242
+From: 14 Jul 2014,To: 14 Jul 2014,Sudan,FY 2014,6,Moslem,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Sudan,FY 2014,6,Moslem Suni,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Ukraine,FY 2014,14,Atheist,3,242
+From: 14 Jul 2014,To: 14 Jul 2014,Ukraine,FY 2014,14,Baptist,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Ukraine,FY 2014,14,Jewish,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Ukraine,FY 2014,14,Pentecostalist,5,242
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jul 2014,To: 14 Jul 2014,Animist,FY 2014,6,Burma,6,242
+From: 14 Jul 2014,To: 14 Jul 2014,Atheist,FY 2014,3,Ukraine,3,242
+From: 14 Jul 2014,To: 14 Jul 2014,Bahai,FY 2014,4,Iran,4,242
+From: 14 Jul 2014,To: 14 Jul 2014,Baptist,FY 2014,6,Burma,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Baptist,FY 2014,6,Ukraine,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Buddhist,FY 2014,31,Bhutan,6,242
+From: 14 Jul 2014,To: 14 Jul 2014,Buddhist,FY 2014,31,Burma,23,242
+From: 14 Jul 2014,To: 14 Jul 2014,Buddhist,FY 2014,31,China,2,242
+From: 14 Jul 2014,To: 14 Jul 2014,Catholic,FY 2014,10,Iraq,10,242
+From: 14 Jul 2014,To: 14 Jul 2014,Christian,FY 2014,30,Bhutan,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Christian,FY 2014,30,Burma,21,242
+From: 14 Jul 2014,To: 14 Jul 2014,Christian,FY 2014,30,Ethiopia,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Christian,FY 2014,30,Pakistan,3,242
+From: 14 Jul 2014,To: 14 Jul 2014,Hindu,FY 2014,15,Bhutan,15,242
+From: 14 Jul 2014,To: 14 Jul 2014,Jewish,FY 2014,1,Ukraine,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Kirat,FY 2014,1,Bhutan,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem,FY 2014,30,Burma,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem,FY 2014,30,Somalia,24,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem,FY 2014,30,Sudan,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem Shiite,FY 2014,20,Afghanistan,3,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem Shiite,FY 2014,20,Iraq,17,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem Suni,FY 2014,68,Iraq,55,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem Suni,FY 2014,68,Somalia,8,242
+From: 14 Jul 2014,To: 14 Jul 2014,Moslem Suni,FY 2014,68,Sudan,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,No Religion,FY 2014,2,Iran,2,242
+From: 14 Jul 2014,To: 14 Jul 2014,Orthodox,FY 2014,5,Ethiopia,1,242
+From: 14 Jul 2014,To: 14 Jul 2014,Orthodox,FY 2014,5,Iraq,4,242
+From: 14 Jul 2014,To: 14 Jul 2014,Pentecostalist,FY 2014,5,Ukraine,5,242
+From: 14 Jul 2014,To: 14 Jul 2014,Sabeans-Mandean,FY 2014,5,Iraq,5,242
+

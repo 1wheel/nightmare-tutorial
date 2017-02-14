@@ -1,0 +1,17 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Oct 2015,To: 09 Oct 2015,Iraq,FY 2016,1,Moslem,1,36
+From: 09 Oct 2015,To: 09 Oct 2015,Ukraine,FY 2016,35,Baptist,12,36
+From: 09 Oct 2015,To: 09 Oct 2015,Ukraine,FY 2016,35,Evangelical Christian,8,36
+From: 09 Oct 2015,To: 09 Oct 2015,Ukraine,FY 2016,35,Pentecostalist,12,36
+From: 09 Oct 2015,To: 09 Oct 2015,Ukraine,FY 2016,35,Seventh Day Adventist,3,36
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Oct 2015,To: 09 Oct 2015,Baptist,FY 2016,12,Ukraine,12,36
+From: 09 Oct 2015,To: 09 Oct 2015,Evangelical Christian,FY 2016,8,Ukraine,8,36
+From: 09 Oct 2015,To: 09 Oct 2015,Moslem,FY 2016,1,Iraq,1,36
+From: 09 Oct 2015,To: 09 Oct 2015,Pentecostalist,FY 2016,12,Ukraine,12,36
+From: 09 Oct 2015,To: 09 Oct 2015,Seventh Day Adventist,FY 2016,3,Ukraine,3,36
+

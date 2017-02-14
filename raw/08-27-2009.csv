@@ -1,0 +1,95 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Aug 2009,To: 27 Aug 2009,Bhutan,FY 2009,87,Buddhist,12,471
+From: 27 Aug 2009,To: 27 Aug 2009,Bhutan,FY 2009,87,Christian,8,471
+From: 27 Aug 2009,To: 27 Aug 2009,Bhutan,FY 2009,87,Hindu,61,471
+From: 27 Aug 2009,To: 27 Aug 2009,Bhutan,FY 2009,87,Kirat,6,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burma,FY 2009,127,Animist,30,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burma,FY 2009,127,Baptist,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burma,FY 2009,127,Buddhist,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burma,FY 2009,127,Catholic,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burma,FY 2009,127,Christian,79,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burma,FY 2009,127,Moslem,7,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burundi,FY 2009,5,Catholic,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burundi,FY 2009,5,Christian,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Burundi,FY 2009,5,Protestant,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Colombia,FY 2009,12,Catholic,8,471
+From: 27 Aug 2009,To: 27 Aug 2009,Colombia,FY 2009,12,Unknown,4,471
+From: 27 Aug 2009,To: 27 Aug 2009,Dem. Rep. Congo,FY 2009,2,Pentecostalist,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Eritrea,FY 2009,65,Catholic,21,471
+From: 27 Aug 2009,To: 27 Aug 2009,Eritrea,FY 2009,65,Christian,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Eritrea,FY 2009,65,Moslem,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Eritrea,FY 2009,65,Orthodox,20,471
+From: 27 Aug 2009,To: 27 Aug 2009,Eritrea,FY 2009,65,Protestant,17,471
+From: 27 Aug 2009,To: 27 Aug 2009,Ethiopia,FY 2009,1,Orthodox,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iran,FY 2009,22,Bahai,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iran,FY 2009,22,Christian,9,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iran,FY 2009,22,Jewish,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iran,FY 2009,22,Zoroastrian,10,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,Catholic,12,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,Christian,16,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,Moslem Shiite,30,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,Moslem Suni,35,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,No Religion,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,Orthodox,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Iraq,FY 2009,103,Sabeans-Mandean,4,471
+From: 27 Aug 2009,To: 27 Aug 2009,Liberia,FY 2009,4,Christian,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Liberia,FY 2009,4,Moslem,3,471
+From: 27 Aug 2009,To: 27 Aug 2009,Pakistan,FY 2009,3,Other Religion,3,471
+From: 27 Aug 2009,To: 27 Aug 2009,Palestine,FY 2009,2,Moslem Suni,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Sierra Leone,FY 2009,2,Christian,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Sierra Leone,FY 2009,2,Moslem,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Somalia,FY 2009,23,Moslem,23,471
+From: 27 Aug 2009,To: 27 Aug 2009,Ukraine,FY 2009,7,Baptist,4,471
+From: 27 Aug 2009,To: 27 Aug 2009,Ukraine,FY 2009,7,Pentecostalist,3,471
+From: 27 Aug 2009,To: 27 Aug 2009,Uzbekistan,FY 2009,6,Jewish,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Uzbekistan,FY 2009,6,Seventh Day Adventist,5,471
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Aug 2009,To: 27 Aug 2009,Animist,FY 2009,30,Burma,30,471
+From: 27 Aug 2009,To: 27 Aug 2009,Bahai,FY 2009,1,Iran,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Baptist,FY 2009,5,Burma,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Baptist,FY 2009,5,Ukraine,4,471
+From: 27 Aug 2009,To: 27 Aug 2009,Buddhist,FY 2009,17,Bhutan,12,471
+From: 27 Aug 2009,To: 27 Aug 2009,Buddhist,FY 2009,17,Burma,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Catholic,FY 2009,47,Burma,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Catholic,FY 2009,47,Burundi,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Catholic,FY 2009,47,Colombia,8,471
+From: 27 Aug 2009,To: 27 Aug 2009,Catholic,FY 2009,47,Eritrea,21,471
+From: 27 Aug 2009,To: 27 Aug 2009,Catholic,FY 2009,47,Iraq,12,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Bhutan,8,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Burma,79,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Burundi,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Eritrea,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Iran,9,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Iraq,16,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Liberia,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Christian,FY 2009,118,Sierra Leone,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Hindu,FY 2009,61,Bhutan,61,471
+From: 27 Aug 2009,To: 27 Aug 2009,Jewish,FY 2009,3,Iran,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Jewish,FY 2009,3,Uzbekistan,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Kirat,FY 2009,6,Bhutan,6,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem,FY 2009,39,Burma,7,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem,FY 2009,39,Eritrea,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem,FY 2009,39,Liberia,3,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem,FY 2009,39,Sierra Leone,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem,FY 2009,39,Somalia,23,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem Shiite,FY 2009,30,Iraq,30,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem Suni,FY 2009,37,Iraq,35,471
+From: 27 Aug 2009,To: 27 Aug 2009,Moslem Suni,FY 2009,37,Palestine,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,No Religion,FY 2009,1,Iraq,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Orthodox,FY 2009,26,Eritrea,20,471
+From: 27 Aug 2009,To: 27 Aug 2009,Orthodox,FY 2009,26,Ethiopia,1,471
+From: 27 Aug 2009,To: 27 Aug 2009,Orthodox,FY 2009,26,Iraq,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Other Religion,FY 2009,3,Pakistan,3,471
+From: 27 Aug 2009,To: 27 Aug 2009,Pentecostalist,FY 2009,5,Dem. Rep. Congo,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Pentecostalist,FY 2009,5,Ukraine,3,471
+From: 27 Aug 2009,To: 27 Aug 2009,Protestant,FY 2009,19,Burundi,2,471
+From: 27 Aug 2009,To: 27 Aug 2009,Protestant,FY 2009,19,Eritrea,17,471
+From: 27 Aug 2009,To: 27 Aug 2009,Sabeans-Mandean,FY 2009,4,Iraq,4,471
+From: 27 Aug 2009,To: 27 Aug 2009,Seventh Day Adventist,FY 2009,5,Uzbekistan,5,471
+From: 27 Aug 2009,To: 27 Aug 2009,Unknown,FY 2009,4,Colombia,4,471
+From: 27 Aug 2009,To: 27 Aug 2009,Zoroastrian,FY 2009,10,Iran,10,471
+

@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Feb 2006,To: 14 Feb 2006,Afghanistan,FY 2006,1,Moslem,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Armenia,FY 2006,5,Pentecostalist,5,221
+From: 14 Feb 2006,To: 14 Feb 2006,Cuba,FY 2006,65,Catholic,26,221
+From: 14 Feb 2006,To: 14 Feb 2006,Cuba,FY 2006,65,Christian,8,221
+From: 14 Feb 2006,To: 14 Feb 2006,Cuba,FY 2006,65,Evangelical Christian,7,221
+From: 14 Feb 2006,To: 14 Feb 2006,Cuba,FY 2006,65,Jehovah Witness,10,221
+From: 14 Feb 2006,To: 14 Feb 2006,Cuba,FY 2006,65,No Religion,14,221
+From: 14 Feb 2006,To: 14 Feb 2006,Dem. Rep. Congo,FY 2006,16,Catholic,7,221
+From: 14 Feb 2006,To: 14 Feb 2006,Dem. Rep. Congo,FY 2006,16,Methodist,8,221
+From: 14 Feb 2006,To: 14 Feb 2006,Dem. Rep. Congo,FY 2006,16,Protestant,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Ethiopia,FY 2006,15,Christian,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Ethiopia,FY 2006,15,Moslem,14,221
+From: 14 Feb 2006,To: 14 Feb 2006,Iraq,FY 2006,1,Moslem Shiite,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Liberia,FY 2006,3,Moslem,3,221
+From: 14 Feb 2006,To: 14 Feb 2006,Russia,FY 2006,16,Baptist,6,221
+From: 14 Feb 2006,To: 14 Feb 2006,Russia,FY 2006,16,Jewish,4,221
+From: 14 Feb 2006,To: 14 Feb 2006,Russia,FY 2006,16,Pentecostalist,6,221
+From: 14 Feb 2006,To: 14 Feb 2006,Sierra Leone,FY 2006,6,Christian,2,221
+From: 14 Feb 2006,To: 14 Feb 2006,Sierra Leone,FY 2006,6,Moslem,4,221
+From: 14 Feb 2006,To: 14 Feb 2006,Somalia,FY 2006,58,Moslem,58,221
+From: 14 Feb 2006,To: 14 Feb 2006,Vietnam,FY 2006,35,Baptist,2,221
+From: 14 Feb 2006,To: 14 Feb 2006,Vietnam,FY 2006,35,Buddhist,25,221
+From: 14 Feb 2006,To: 14 Feb 2006,Vietnam,FY 2006,35,Catholic,5,221
+From: 14 Feb 2006,To: 14 Feb 2006,Vietnam,FY 2006,35,Christian,2,221
+From: 14 Feb 2006,To: 14 Feb 2006,Vietnam,FY 2006,35,Protestant,1,221
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Feb 2006,To: 14 Feb 2006,Baptist,FY 2006,8,Russia,6,221
+From: 14 Feb 2006,To: 14 Feb 2006,Baptist,FY 2006,8,Vietnam,2,221
+From: 14 Feb 2006,To: 14 Feb 2006,Buddhist,FY 2006,25,Vietnam,25,221
+From: 14 Feb 2006,To: 14 Feb 2006,Catholic,FY 2006,38,Cuba,26,221
+From: 14 Feb 2006,To: 14 Feb 2006,Catholic,FY 2006,38,Dem. Rep. Congo,7,221
+From: 14 Feb 2006,To: 14 Feb 2006,Catholic,FY 2006,38,Vietnam,5,221
+From: 14 Feb 2006,To: 14 Feb 2006,Christian,FY 2006,13,Cuba,8,221
+From: 14 Feb 2006,To: 14 Feb 2006,Christian,FY 2006,13,Ethiopia,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Christian,FY 2006,13,Sierra Leone,2,221
+From: 14 Feb 2006,To: 14 Feb 2006,Christian,FY 2006,13,Vietnam,2,221
+From: 14 Feb 2006,To: 14 Feb 2006,Evangelical Christian,FY 2006,7,Cuba,7,221
+From: 14 Feb 2006,To: 14 Feb 2006,Jehovah Witness,FY 2006,10,Cuba,10,221
+From: 14 Feb 2006,To: 14 Feb 2006,Jewish,FY 2006,4,Russia,4,221
+From: 14 Feb 2006,To: 14 Feb 2006,Methodist,FY 2006,8,Dem. Rep. Congo,8,221
+From: 14 Feb 2006,To: 14 Feb 2006,Moslem,FY 2006,80,Afghanistan,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Moslem,FY 2006,80,Ethiopia,14,221
+From: 14 Feb 2006,To: 14 Feb 2006,Moslem,FY 2006,80,Liberia,3,221
+From: 14 Feb 2006,To: 14 Feb 2006,Moslem,FY 2006,80,Sierra Leone,4,221
+From: 14 Feb 2006,To: 14 Feb 2006,Moslem,FY 2006,80,Somalia,58,221
+From: 14 Feb 2006,To: 14 Feb 2006,Moslem Shiite,FY 2006,1,Iraq,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,No Religion,FY 2006,14,Cuba,14,221
+From: 14 Feb 2006,To: 14 Feb 2006,Pentecostalist,FY 2006,11,Armenia,5,221
+From: 14 Feb 2006,To: 14 Feb 2006,Pentecostalist,FY 2006,11,Russia,6,221
+From: 14 Feb 2006,To: 14 Feb 2006,Protestant,FY 2006,2,Dem. Rep. Congo,1,221
+From: 14 Feb 2006,To: 14 Feb 2006,Protestant,FY 2006,2,Vietnam,1,221
+

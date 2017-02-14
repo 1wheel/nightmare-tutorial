@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Mar 2005,To: 30 Mar 2005,Azerbaijan,FY 2005,6,Jewish,6,171
+From: 30 Mar 2005,To: 30 Mar 2005,Burma,FY 2005,34,Buddhist,24,171
+From: 30 Mar 2005,To: 30 Mar 2005,Burma,FY 2005,34,Moslem,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Burma,FY 2005,34,Protestant,9,171
+From: 30 Mar 2005,To: 30 Mar 2005,Dem. Rep. Congo,FY 2005,4,Catholic,3,171
+From: 30 Mar 2005,To: 30 Mar 2005,Dem. Rep. Congo,FY 2005,4,Christian,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Estonia,FY 2005,4,Seventh Day Adventist,4,171
+From: 30 Mar 2005,To: 30 Mar 2005,Iran,FY 2005,21,Bahai,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Iran,FY 2005,21,Christian,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Iran,FY 2005,21,Jewish,13,171
+From: 30 Mar 2005,To: 30 Mar 2005,Iran,FY 2005,21,Sabeans-Mandean,4,171
+From: 30 Mar 2005,To: 30 Mar 2005,Iran,FY 2005,21,Zoroastrian,2,171
+From: 30 Mar 2005,To: 30 Mar 2005,Russia,FY 2005,35,Moslem,35,171
+From: 30 Mar 2005,To: 30 Mar 2005,Sierra Leone,FY 2005,1,Moslem,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Somalia,FY 2005,19,Moslem,19,171
+From: 30 Mar 2005,To: 30 Mar 2005,Vietnam,FY 2005,47,Catholic,10,171
+From: 30 Mar 2005,To: 30 Mar 2005,Vietnam,FY 2005,47,Protestant,37,171
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Mar 2005,To: 30 Mar 2005,Bahai,FY 2005,1,Iran,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Buddhist,FY 2005,24,Burma,24,171
+From: 30 Mar 2005,To: 30 Mar 2005,Catholic,FY 2005,13,Dem. Rep. Congo,3,171
+From: 30 Mar 2005,To: 30 Mar 2005,Catholic,FY 2005,13,Vietnam,10,171
+From: 30 Mar 2005,To: 30 Mar 2005,Christian,FY 2005,2,Dem. Rep. Congo,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Christian,FY 2005,2,Iran,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Jewish,FY 2005,19,Azerbaijan,6,171
+From: 30 Mar 2005,To: 30 Mar 2005,Jewish,FY 2005,19,Iran,13,171
+From: 30 Mar 2005,To: 30 Mar 2005,Moslem,FY 2005,56,Burma,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Moslem,FY 2005,56,Russia,35,171
+From: 30 Mar 2005,To: 30 Mar 2005,Moslem,FY 2005,56,Sierra Leone,1,171
+From: 30 Mar 2005,To: 30 Mar 2005,Moslem,FY 2005,56,Somalia,19,171
+From: 30 Mar 2005,To: 30 Mar 2005,Protestant,FY 2005,46,Burma,9,171
+From: 30 Mar 2005,To: 30 Mar 2005,Protestant,FY 2005,46,Vietnam,37,171
+From: 30 Mar 2005,To: 30 Mar 2005,Sabeans-Mandean,FY 2005,4,Iran,4,171
+From: 30 Mar 2005,To: 30 Mar 2005,Seventh Day Adventist,FY 2005,4,Estonia,4,171
+From: 30 Mar 2005,To: 30 Mar 2005,Zoroastrian,FY 2005,2,Iran,2,171
+

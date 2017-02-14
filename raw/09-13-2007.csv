@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Sep 2007,To: 13 Sep 2007,Afghanistan,FY 2007,29,Moslem,4,823
+From: 13 Sep 2007,To: 13 Sep 2007,Afghanistan,FY 2007,29,Moslem Suni,25,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burma,FY 2007,470,Baptist,3,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burma,FY 2007,470,Buddhist,89,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burma,FY 2007,470,Catholic,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burma,FY 2007,470,Christian,273,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burma,FY 2007,470,Moslem,104,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burundi,FY 2007,35,Catholic,24,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burundi,FY 2007,35,Jehovah Witness,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burundi,FY 2007,35,Methodist,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Burundi,FY 2007,35,Pentecostalist,9,823
+From: 13 Sep 2007,To: 13 Sep 2007,Cuba,FY 2007,71,Catholic,18,823
+From: 13 Sep 2007,To: 13 Sep 2007,Cuba,FY 2007,71,Jehovah Witness,20,823
+From: 13 Sep 2007,To: 13 Sep 2007,Cuba,FY 2007,71,No Religion,32,823
+From: 13 Sep 2007,To: 13 Sep 2007,Cuba,FY 2007,71,Pentecostalist,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Dem. Rep. Congo,FY 2007,13,Christian,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Dem. Rep. Congo,FY 2007,13,Jehovah Witness,9,823
+From: 13 Sep 2007,To: 13 Sep 2007,Dem. Rep. Congo,FY 2007,13,Moslem,3,823
+From: 13 Sep 2007,To: 13 Sep 2007,Ethiopia,FY 2007,9,Moslem,9,823
+From: 13 Sep 2007,To: 13 Sep 2007,Ghana,FY 2007,2,Christian,2,823
+From: 13 Sep 2007,To: 13 Sep 2007,Iran,FY 2007,32,Christian,28,823
+From: 13 Sep 2007,To: 13 Sep 2007,Iran,FY 2007,32,Sabeans-Mandean,3,823
+From: 13 Sep 2007,To: 13 Sep 2007,Iran,FY 2007,32,Zoroastrian,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Liberia,FY 2007,36,Baptist,2,823
+From: 13 Sep 2007,To: 13 Sep 2007,Liberia,FY 2007,36,Christian,7,823
+From: 13 Sep 2007,To: 13 Sep 2007,Liberia,FY 2007,36,Lutheran,12,823
+From: 13 Sep 2007,To: 13 Sep 2007,Liberia,FY 2007,36,Methodist,2,823
+From: 13 Sep 2007,To: 13 Sep 2007,Liberia,FY 2007,36,Pentecostalist,13,823
+From: 13 Sep 2007,To: 13 Sep 2007,Mauritania,FY 2007,1,Moslem,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Somalia,FY 2007,124,Moslem,124,823
+From: 13 Sep 2007,To: 13 Sep 2007,Sudan,FY 2007,1,Christian,1,823
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Sep 2007,To: 13 Sep 2007,Baptist,FY 2007,5,Burma,3,823
+From: 13 Sep 2007,To: 13 Sep 2007,Baptist,FY 2007,5,Liberia,2,823
+From: 13 Sep 2007,To: 13 Sep 2007,Buddhist,FY 2007,89,Burma,89,823
+From: 13 Sep 2007,To: 13 Sep 2007,Catholic,FY 2007,43,Burma,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Catholic,FY 2007,43,Burundi,24,823
+From: 13 Sep 2007,To: 13 Sep 2007,Catholic,FY 2007,43,Cuba,18,823
+From: 13 Sep 2007,To: 13 Sep 2007,Christian,FY 2007,312,Burma,273,823
+From: 13 Sep 2007,To: 13 Sep 2007,Christian,FY 2007,312,Dem. Rep. Congo,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Christian,FY 2007,312,Ghana,2,823
+From: 13 Sep 2007,To: 13 Sep 2007,Christian,FY 2007,312,Iran,28,823
+From: 13 Sep 2007,To: 13 Sep 2007,Christian,FY 2007,312,Liberia,7,823
+From: 13 Sep 2007,To: 13 Sep 2007,Christian,FY 2007,312,Sudan,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Jehovah Witness,FY 2007,30,Burundi,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Jehovah Witness,FY 2007,30,Cuba,20,823
+From: 13 Sep 2007,To: 13 Sep 2007,Jehovah Witness,FY 2007,30,Dem. Rep. Congo,9,823
+From: 13 Sep 2007,To: 13 Sep 2007,Lutheran,FY 2007,12,Liberia,12,823
+From: 13 Sep 2007,To: 13 Sep 2007,Methodist,FY 2007,3,Burundi,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Methodist,FY 2007,3,Liberia,2,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem,FY 2007,245,Afghanistan,4,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem,FY 2007,245,Burma,104,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem,FY 2007,245,Dem. Rep. Congo,3,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem,FY 2007,245,Ethiopia,9,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem,FY 2007,245,Mauritania,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem,FY 2007,245,Somalia,124,823
+From: 13 Sep 2007,To: 13 Sep 2007,Moslem Suni,FY 2007,25,Afghanistan,25,823
+From: 13 Sep 2007,To: 13 Sep 2007,No Religion,FY 2007,32,Cuba,32,823
+From: 13 Sep 2007,To: 13 Sep 2007,Pentecostalist,FY 2007,23,Burundi,9,823
+From: 13 Sep 2007,To: 13 Sep 2007,Pentecostalist,FY 2007,23,Cuba,1,823
+From: 13 Sep 2007,To: 13 Sep 2007,Pentecostalist,FY 2007,23,Liberia,13,823
+From: 13 Sep 2007,To: 13 Sep 2007,Sabeans-Mandean,FY 2007,3,Iran,3,823
+From: 13 Sep 2007,To: 13 Sep 2007,Zoroastrian,FY 2007,1,Iran,1,823
+

@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Dec 2013,To: 16 Dec 2013,Bhutan,FY 2014,58,Buddhist,27,331
+From: 16 Dec 2013,To: 16 Dec 2013,Bhutan,FY 2014,58,Hindu,24,331
+From: 16 Dec 2013,To: 16 Dec 2013,Bhutan,FY 2014,58,Kirat,7,331
+From: 16 Dec 2013,To: 16 Dec 2013,Colombia,FY 2014,1,Catholic,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Congo,FY 2014,1,Christian,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Dem. Rep. Congo,FY 2014,3,Protestant,3,331
+From: 16 Dec 2013,To: 16 Dec 2013,Eritrea,FY 2014,28,Catholic,2,331
+From: 16 Dec 2013,To: 16 Dec 2013,Eritrea,FY 2014,28,Christian,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Eritrea,FY 2014,28,Jehovah Witness,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Eritrea,FY 2014,28,Moslem,5,331
+From: 16 Dec 2013,To: 16 Dec 2013,Eritrea,FY 2014,28,Orthodox,19,331
+From: 16 Dec 2013,To: 16 Dec 2013,Ethiopia,FY 2014,1,Moslem,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iran,FY 2014,7,Bahai,6,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iran,FY 2014,7,Moslem Shiite,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iraq,FY 2014,178,Catholic,7,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iraq,FY 2014,178,Christian,47,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iraq,FY 2014,178,Moslem Shiite,55,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iraq,FY 2014,178,Moslem Suni,61,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iraq,FY 2014,178,Orthodox,4,331
+From: 16 Dec 2013,To: 16 Dec 2013,Iraq,FY 2014,178,Sabeans-Mandean,4,331
+From: 16 Dec 2013,To: 16 Dec 2013,Somalia,FY 2014,35,Moslem,35,331
+From: 16 Dec 2013,To: 16 Dec 2013,Sudan,FY 2014,19,Catholic,5,331
+From: 16 Dec 2013,To: 16 Dec 2013,Sudan,FY 2014,19,Moslem,10,331
+From: 16 Dec 2013,To: 16 Dec 2013,Sudan,FY 2014,19,Moslem Suni,4,331
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Dec 2013,To: 16 Dec 2013,Bahai,FY 2014,6,Iran,6,331
+From: 16 Dec 2013,To: 16 Dec 2013,Buddhist,FY 2014,27,Bhutan,27,331
+From: 16 Dec 2013,To: 16 Dec 2013,Catholic,FY 2014,15,Colombia,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Catholic,FY 2014,15,Eritrea,2,331
+From: 16 Dec 2013,To: 16 Dec 2013,Catholic,FY 2014,15,Iraq,7,331
+From: 16 Dec 2013,To: 16 Dec 2013,Catholic,FY 2014,15,Sudan,5,331
+From: 16 Dec 2013,To: 16 Dec 2013,Christian,FY 2014,49,Congo,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Christian,FY 2014,49,Eritrea,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Christian,FY 2014,49,Iraq,47,331
+From: 16 Dec 2013,To: 16 Dec 2013,Hindu,FY 2014,24,Bhutan,24,331
+From: 16 Dec 2013,To: 16 Dec 2013,Jehovah Witness,FY 2014,1,Eritrea,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Kirat,FY 2014,7,Bhutan,7,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem,FY 2014,51,Eritrea,5,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem,FY 2014,51,Ethiopia,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem,FY 2014,51,Somalia,35,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem,FY 2014,51,Sudan,10,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem Shiite,FY 2014,56,Iran,1,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem Shiite,FY 2014,56,Iraq,55,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem Suni,FY 2014,65,Iraq,61,331
+From: 16 Dec 2013,To: 16 Dec 2013,Moslem Suni,FY 2014,65,Sudan,4,331
+From: 16 Dec 2013,To: 16 Dec 2013,Orthodox,FY 2014,23,Eritrea,19,331
+From: 16 Dec 2013,To: 16 Dec 2013,Orthodox,FY 2014,23,Iraq,4,331
+From: 16 Dec 2013,To: 16 Dec 2013,Protestant,FY 2014,3,Dem. Rep. Congo,3,331
+From: 16 Dec 2013,To: 16 Dec 2013,Sabeans-Mandean,FY 2014,4,Iraq,4,331
+

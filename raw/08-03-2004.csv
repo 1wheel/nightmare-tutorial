@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 03 Aug 2004,To: 03 Aug 2004,Dem. Rep. Congo,FY 2004,1,Catholic,1,241
+From: 03 Aug 2004,To: 03 Aug 2004,Ethiopia,FY 2004,14,Christian,10,241
+From: 03 Aug 2004,To: 03 Aug 2004,Ethiopia,FY 2004,14,Moslem,4,241
+From: 03 Aug 2004,To: 03 Aug 2004,Laos,FY 2004,47,Ancestral Worship,47,241
+From: 03 Aug 2004,To: 03 Aug 2004,Somalia,FY 2004,110,Christian,9,241
+From: 03 Aug 2004,To: 03 Aug 2004,Somalia,FY 2004,110,Moslem,101,241
+From: 03 Aug 2004,To: 03 Aug 2004,Sudan,FY 2004,43,Catholic,10,241
+From: 03 Aug 2004,To: 03 Aug 2004,Sudan,FY 2004,43,Christian,7,241
+From: 03 Aug 2004,To: 03 Aug 2004,Sudan,FY 2004,43,Moslem,21,241
+From: 03 Aug 2004,To: 03 Aug 2004,Sudan,FY 2004,43,Moslem Suni,1,241
+From: 03 Aug 2004,To: 03 Aug 2004,Sudan,FY 2004,43,Protestant,4,241
+From: 03 Aug 2004,To: 03 Aug 2004,Ukraine,FY 2004,26,Baptist,12,241
+From: 03 Aug 2004,To: 03 Aug 2004,Ukraine,FY 2004,26,Jewish,5,241
+From: 03 Aug 2004,To: 03 Aug 2004,Ukraine,FY 2004,26,Pentecostalist,9,241
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 03 Aug 2004,To: 03 Aug 2004,Ancestral Worship,FY 2004,47,Laos,47,241
+From: 03 Aug 2004,To: 03 Aug 2004,Baptist,FY 2004,12,Ukraine,12,241
+From: 03 Aug 2004,To: 03 Aug 2004,Catholic,FY 2004,11,Dem. Rep. Congo,1,241
+From: 03 Aug 2004,To: 03 Aug 2004,Catholic,FY 2004,11,Sudan,10,241
+From: 03 Aug 2004,To: 03 Aug 2004,Christian,FY 2004,26,Ethiopia,10,241
+From: 03 Aug 2004,To: 03 Aug 2004,Christian,FY 2004,26,Somalia,9,241
+From: 03 Aug 2004,To: 03 Aug 2004,Christian,FY 2004,26,Sudan,7,241
+From: 03 Aug 2004,To: 03 Aug 2004,Jewish,FY 2004,5,Ukraine,5,241
+From: 03 Aug 2004,To: 03 Aug 2004,Moslem,FY 2004,126,Ethiopia,4,241
+From: 03 Aug 2004,To: 03 Aug 2004,Moslem,FY 2004,126,Somalia,101,241
+From: 03 Aug 2004,To: 03 Aug 2004,Moslem,FY 2004,126,Sudan,21,241
+From: 03 Aug 2004,To: 03 Aug 2004,Moslem Suni,FY 2004,1,Sudan,1,241
+From: 03 Aug 2004,To: 03 Aug 2004,Pentecostalist,FY 2004,9,Ukraine,9,241
+From: 03 Aug 2004,To: 03 Aug 2004,Protestant,FY 2004,4,Sudan,4,241
+

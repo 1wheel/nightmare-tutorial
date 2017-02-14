@@ -1,0 +1,71 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Mar 2008,To: 26 Mar 2008,Afghanistan,FY 2008,15,Moslem Suni,15,539
+From: 26 Mar 2008,To: 26 Mar 2008,Burma,FY 2008,180,Buddhist,55,539
+From: 26 Mar 2008,To: 26 Mar 2008,Burma,FY 2008,180,Christian,87,539
+From: 26 Mar 2008,To: 26 Mar 2008,Burma,FY 2008,180,Moslem,38,539
+From: 26 Mar 2008,To: 26 Mar 2008,Cuba,FY 2008,70,Catholic,36,539
+From: 26 Mar 2008,To: 26 Mar 2008,Cuba,FY 2008,70,Jehovah Witness,11,539
+From: 26 Mar 2008,To: 26 Mar 2008,Cuba,FY 2008,70,No Religion,17,539
+From: 26 Mar 2008,To: 26 Mar 2008,Cuba,FY 2008,70,Pentecostalist,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Cuba,FY 2008,70,Seventh Day Adventist,2,539
+From: 26 Mar 2008,To: 26 Mar 2008,Cuba,FY 2008,70,Unknown,3,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iran,FY 2008,70,Christian,69,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iran,FY 2008,70,Zoroastrian,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iraq,FY 2008,121,Catholic,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iraq,FY 2008,121,Christian,40,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iraq,FY 2008,121,Moslem Shiite,25,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iraq,FY 2008,121,Moslem Suni,48,539
+From: 26 Mar 2008,To: 26 Mar 2008,Iraq,FY 2008,121,Sabeans-Mandean,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Laos,FY 2008,7,Ancestral Worship,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Russia,FY 2008,34,Baptist,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Russia,FY 2008,34,Jewish,11,539
+From: 26 Mar 2008,To: 26 Mar 2008,Russia,FY 2008,34,Moslem,10,539
+From: 26 Mar 2008,To: 26 Mar 2008,Russia,FY 2008,34,No Religion,2,539
+From: 26 Mar 2008,To: 26 Mar 2008,Russia,FY 2008,34,Pentecostalist,3,539
+From: 26 Mar 2008,To: 26 Mar 2008,Russia,FY 2008,34,Seventh Day Adventist,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Sierra Leone,FY 2008,1,Moslem,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Somalia,FY 2008,7,Moslem,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Sudan,FY 2008,4,Catholic,4,539
+From: 26 Mar 2008,To: 26 Mar 2008,Vietnam,FY 2008,30,Buddhist,6,539
+From: 26 Mar 2008,To: 26 Mar 2008,Vietnam,FY 2008,30,Catholic,9,539
+From: 26 Mar 2008,To: 26 Mar 2008,Vietnam,FY 2008,30,No Religion,4,539
+From: 26 Mar 2008,To: 26 Mar 2008,Vietnam,FY 2008,30,Protestant,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Vietnam,FY 2008,30,Unknown,4,539
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Mar 2008,To: 26 Mar 2008,Ancestral Worship,FY 2008,7,Laos,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Baptist,FY 2008,7,Russia,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Buddhist,FY 2008,61,Burma,55,539
+From: 26 Mar 2008,To: 26 Mar 2008,Buddhist,FY 2008,61,Vietnam,6,539
+From: 26 Mar 2008,To: 26 Mar 2008,Catholic,FY 2008,50,Cuba,36,539
+From: 26 Mar 2008,To: 26 Mar 2008,Catholic,FY 2008,50,Iraq,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Catholic,FY 2008,50,Sudan,4,539
+From: 26 Mar 2008,To: 26 Mar 2008,Catholic,FY 2008,50,Vietnam,9,539
+From: 26 Mar 2008,To: 26 Mar 2008,Christian,FY 2008,196,Burma,87,539
+From: 26 Mar 2008,To: 26 Mar 2008,Christian,FY 2008,196,Iran,69,539
+From: 26 Mar 2008,To: 26 Mar 2008,Christian,FY 2008,196,Iraq,40,539
+From: 26 Mar 2008,To: 26 Mar 2008,Jehovah Witness,FY 2008,11,Cuba,11,539
+From: 26 Mar 2008,To: 26 Mar 2008,Jewish,FY 2008,11,Russia,11,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem,FY 2008,56,Burma,38,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem,FY 2008,56,Russia,10,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem,FY 2008,56,Sierra Leone,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem,FY 2008,56,Somalia,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem Shiite,FY 2008,25,Iraq,25,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem Suni,FY 2008,63,Afghanistan,15,539
+From: 26 Mar 2008,To: 26 Mar 2008,Moslem Suni,FY 2008,63,Iraq,48,539
+From: 26 Mar 2008,To: 26 Mar 2008,No Religion,FY 2008,23,Cuba,17,539
+From: 26 Mar 2008,To: 26 Mar 2008,No Religion,FY 2008,23,Russia,2,539
+From: 26 Mar 2008,To: 26 Mar 2008,No Religion,FY 2008,23,Vietnam,4,539
+From: 26 Mar 2008,To: 26 Mar 2008,Pentecostalist,FY 2008,4,Cuba,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Pentecostalist,FY 2008,4,Russia,3,539
+From: 26 Mar 2008,To: 26 Mar 2008,Protestant,FY 2008,7,Vietnam,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Sabeans-Mandean,FY 2008,7,Iraq,7,539
+From: 26 Mar 2008,To: 26 Mar 2008,Seventh Day Adventist,FY 2008,3,Cuba,2,539
+From: 26 Mar 2008,To: 26 Mar 2008,Seventh Day Adventist,FY 2008,3,Russia,1,539
+From: 26 Mar 2008,To: 26 Mar 2008,Unknown,FY 2008,7,Cuba,3,539
+From: 26 Mar 2008,To: 26 Mar 2008,Unknown,FY 2008,7,Vietnam,4,539
+From: 26 Mar 2008,To: 26 Mar 2008,Zoroastrian,FY 2008,1,Iran,1,539
+

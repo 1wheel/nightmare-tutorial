@@ -1,0 +1,75 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Nov 2006,To: 29 Nov 2006,Azerbaijan,FY 2007,3,Jewish,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Burma,FY 2007,47,Buddhist,5,266
+From: 29 Nov 2006,To: 29 Nov 2006,Burma,FY 2007,47,Christian,42,266
+From: 29 Nov 2006,To: 29 Nov 2006,Colombia,FY 2007,3,Catholic,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Congo,FY 2007,28,Catholic,8,266
+From: 29 Nov 2006,To: 29 Nov 2006,Congo,FY 2007,28,Pentecostalist,14,266
+From: 29 Nov 2006,To: 29 Nov 2006,Congo,FY 2007,28,Protestant,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Dem. Rep. Congo,FY 2007,5,Catholic,5,266
+From: 29 Nov 2006,To: 29 Nov 2006,Equatorial Guinea,FY 2007,13,Catholic,12,266
+From: 29 Nov 2006,To: 29 Nov 2006,Equatorial Guinea,FY 2007,13,Pentecostalist,1,266
+From: 29 Nov 2006,To: 29 Nov 2006,Georgia,FY 2007,2,Jewish,2,266
+From: 29 Nov 2006,To: 29 Nov 2006,Iran,FY 2007,54,Bahai,2,266
+From: 29 Nov 2006,To: 29 Nov 2006,Iran,FY 2007,54,Christian,41,266
+From: 29 Nov 2006,To: 29 Nov 2006,Iran,FY 2007,54,Jewish,2,266
+From: 29 Nov 2006,To: 29 Nov 2006,Iran,FY 2007,54,Sabeans-Mandean,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Iran,FY 2007,54,Zoroastrian,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Iraq,FY 2007,9,Moslem Shiite,9,266
+From: 29 Nov 2006,To: 29 Nov 2006,Laos,FY 2007,16,Ancestral Worship,16,266
+From: 29 Nov 2006,To: 29 Nov 2006,Liberia,FY 2007,2,Christian,1,266
+From: 29 Nov 2006,To: 29 Nov 2006,Liberia,FY 2007,2,Protestant,1,266
+From: 29 Nov 2006,To: 29 Nov 2006,Moldova,FY 2007,28,Baptist,13,266
+From: 29 Nov 2006,To: 29 Nov 2006,Moldova,FY 2007,28,Pentecostalist,9,266
+From: 29 Nov 2006,To: 29 Nov 2006,Moldova,FY 2007,28,Seventh Day Adventist,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Pakistan,FY 2007,4,Moslem,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Sudan,FY 2007,7,Catholic,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Sudan,FY 2007,7,Christian,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Togo,FY 2007,5,Catholic,5,266
+From: 29 Nov 2006,To: 29 Nov 2006,Ukraine,FY 2007,14,Baptist,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Ukraine,FY 2007,14,Pentecostalist,8,266
+From: 29 Nov 2006,To: 29 Nov 2006,Vietnam,FY 2007,26,Ancestral Worship,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Vietnam,FY 2007,26,Buddhist,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Vietnam,FY 2007,26,Catholic,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Vietnam,FY 2007,26,No Religion,8,266
+From: 29 Nov 2006,To: 29 Nov 2006,Vietnam,FY 2007,26,Protestant,7,266
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Nov 2006,To: 29 Nov 2006,Ancestral Worship,FY 2007,20,Laos,16,266
+From: 29 Nov 2006,To: 29 Nov 2006,Ancestral Worship,FY 2007,20,Vietnam,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Bahai,FY 2007,2,Iran,2,266
+From: 29 Nov 2006,To: 29 Nov 2006,Baptist,FY 2007,19,Moldova,13,266
+From: 29 Nov 2006,To: 29 Nov 2006,Baptist,FY 2007,19,Ukraine,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Buddhist,FY 2007,9,Burma,5,266
+From: 29 Nov 2006,To: 29 Nov 2006,Buddhist,FY 2007,9,Vietnam,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Colombia,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Congo,8,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Dem. Rep. Congo,5,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Equatorial Guinea,12,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Sudan,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Togo,5,266
+From: 29 Nov 2006,To: 29 Nov 2006,Catholic,FY 2007,39,Vietnam,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Christian,FY 2007,88,Burma,42,266
+From: 29 Nov 2006,To: 29 Nov 2006,Christian,FY 2007,88,Iran,41,266
+From: 29 Nov 2006,To: 29 Nov 2006,Christian,FY 2007,88,Liberia,1,266
+From: 29 Nov 2006,To: 29 Nov 2006,Christian,FY 2007,88,Sudan,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Jewish,FY 2007,7,Azerbaijan,3,266
+From: 29 Nov 2006,To: 29 Nov 2006,Jewish,FY 2007,7,Georgia,2,266
+From: 29 Nov 2006,To: 29 Nov 2006,Jewish,FY 2007,7,Iran,2,266
+From: 29 Nov 2006,To: 29 Nov 2006,Moslem,FY 2007,4,Pakistan,4,266
+From: 29 Nov 2006,To: 29 Nov 2006,Moslem Shiite,FY 2007,9,Iraq,9,266
+From: 29 Nov 2006,To: 29 Nov 2006,No Religion,FY 2007,8,Vietnam,8,266
+From: 29 Nov 2006,To: 29 Nov 2006,Pentecostalist,FY 2007,32,Congo,14,266
+From: 29 Nov 2006,To: 29 Nov 2006,Pentecostalist,FY 2007,32,Equatorial Guinea,1,266
+From: 29 Nov 2006,To: 29 Nov 2006,Pentecostalist,FY 2007,32,Moldova,9,266
+From: 29 Nov 2006,To: 29 Nov 2006,Pentecostalist,FY 2007,32,Ukraine,8,266
+From: 29 Nov 2006,To: 29 Nov 2006,Protestant,FY 2007,14,Congo,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Protestant,FY 2007,14,Liberia,1,266
+From: 29 Nov 2006,To: 29 Nov 2006,Protestant,FY 2007,14,Vietnam,7,266
+From: 29 Nov 2006,To: 29 Nov 2006,Sabeans-Mandean,FY 2007,6,Iran,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Seventh Day Adventist,FY 2007,6,Moldova,6,266
+From: 29 Nov 2006,To: 29 Nov 2006,Zoroastrian,FY 2007,3,Iran,3,266
+

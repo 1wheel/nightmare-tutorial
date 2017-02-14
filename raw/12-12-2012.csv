@@ -1,0 +1,95 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 12 Dec 2012,To: 12 Dec 2012,Afghanistan,FY 2013,21,Moslem Shiite,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Afghanistan,FY 2013,21,Moslem Suni,16,690
+From: 12 Dec 2012,To: 12 Dec 2012,Bhutan,FY 2013,106,Buddhist,47,690
+From: 12 Dec 2012,To: 12 Dec 2012,Bhutan,FY 2013,106,Christian,19,690
+From: 12 Dec 2012,To: 12 Dec 2012,Bhutan,FY 2013,106,Hindu,31,690
+From: 12 Dec 2012,To: 12 Dec 2012,Bhutan,FY 2013,106,Kirat,9,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Animist,13,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Baptist,9,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Buddhist,55,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Catholic,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Christian,123,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Moslem,24,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burma,FY 2013,228,Pentecostalist,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Burundi,FY 2013,5,Moslem,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,China,FY 2013,2,Other Religion,2,690
+From: 12 Dec 2012,To: 12 Dec 2012,Congo,FY 2013,27,Catholic,7,690
+From: 12 Dec 2012,To: 12 Dec 2012,Congo,FY 2013,27,Christian,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Congo,FY 2013,27,Evangelical Christian,6,690
+From: 12 Dec 2012,To: 12 Dec 2012,Congo,FY 2013,27,Protestant,11,690
+From: 12 Dec 2012,To: 12 Dec 2012,Dem. Rep. Congo,FY 2013,35,Catholic,20,690
+From: 12 Dec 2012,To: 12 Dec 2012,Dem. Rep. Congo,FY 2013,35,Pentecostalist,7,690
+From: 12 Dec 2012,To: 12 Dec 2012,Dem. Rep. Congo,FY 2013,35,Protestant,7,690
+From: 12 Dec 2012,To: 12 Dec 2012,Dem. Rep. Congo,FY 2013,35,Seventh Day Adventist,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Eritrea,FY 2013,20,Catholic,6,690
+From: 12 Dec 2012,To: 12 Dec 2012,Eritrea,FY 2013,20,Christian,2,690
+From: 12 Dec 2012,To: 12 Dec 2012,Eritrea,FY 2013,20,Moslem,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Eritrea,FY 2013,20,Moslem Suni,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Eritrea,FY 2013,20,Orthodox,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Ethiopia,FY 2013,11,Moslem,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Ethiopia,FY 2013,11,Protestant,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iran,FY 2013,11,Bahai,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iran,FY 2013,11,Christian,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iran,FY 2013,11,Zoroastrian,2,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iraq,FY 2013,72,Catholic,6,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iraq,FY 2013,72,Chaldean,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iraq,FY 2013,72,Moslem Shiite,10,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iraq,FY 2013,72,Moslem Suni,43,690
+From: 12 Dec 2012,To: 12 Dec 2012,Iraq,FY 2013,72,Orthodox,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Russia,FY 2013,6,Jewish,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Russia,FY 2013,6,No Religion,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Somalia,FY 2013,127,Moslem,127,690
+From: 12 Dec 2012,To: 12 Dec 2012,Sudan,FY 2013,18,Christian,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Sudan,FY 2013,18,Moslem,17,690
+From: 12 Dec 2012,To: 12 Dec 2012,Vietnam,FY 2013,1,Catholic,1,690
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 12 Dec 2012,To: 12 Dec 2012,Animist,FY 2013,13,Burma,13,690
+From: 12 Dec 2012,To: 12 Dec 2012,Bahai,FY 2013,8,Iran,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Baptist,FY 2013,9,Burma,9,690
+From: 12 Dec 2012,To: 12 Dec 2012,Buddhist,FY 2013,102,Bhutan,47,690
+From: 12 Dec 2012,To: 12 Dec 2012,Buddhist,FY 2013,102,Burma,55,690
+From: 12 Dec 2012,To: 12 Dec 2012,Catholic,FY 2013,43,Burma,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Catholic,FY 2013,43,Congo,7,690
+From: 12 Dec 2012,To: 12 Dec 2012,Catholic,FY 2013,43,Dem. Rep. Congo,20,690
+From: 12 Dec 2012,To: 12 Dec 2012,Catholic,FY 2013,43,Eritrea,6,690
+From: 12 Dec 2012,To: 12 Dec 2012,Catholic,FY 2013,43,Iraq,6,690
+From: 12 Dec 2012,To: 12 Dec 2012,Catholic,FY 2013,43,Vietnam,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Chaldean,FY 2013,5,Iraq,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Christian,FY 2013,149,Bhutan,19,690
+From: 12 Dec 2012,To: 12 Dec 2012,Christian,FY 2013,149,Burma,123,690
+From: 12 Dec 2012,To: 12 Dec 2012,Christian,FY 2013,149,Congo,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Christian,FY 2013,149,Eritrea,2,690
+From: 12 Dec 2012,To: 12 Dec 2012,Christian,FY 2013,149,Iran,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Christian,FY 2013,149,Sudan,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Evangelical Christian,FY 2013,6,Congo,6,690
+From: 12 Dec 2012,To: 12 Dec 2012,Hindu,FY 2013,31,Bhutan,31,690
+From: 12 Dec 2012,To: 12 Dec 2012,Jewish,FY 2013,5,Russia,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Kirat,FY 2013,9,Bhutan,9,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem,FY 2013,184,Burma,24,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem,FY 2013,184,Burundi,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem,FY 2013,184,Eritrea,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem,FY 2013,184,Ethiopia,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem,FY 2013,184,Somalia,127,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem,FY 2013,184,Sudan,17,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem Shiite,FY 2013,15,Afghanistan,5,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem Shiite,FY 2013,15,Iraq,10,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem Suni,FY 2013,60,Afghanistan,16,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem Suni,FY 2013,60,Eritrea,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Moslem Suni,FY 2013,60,Iraq,43,690
+From: 12 Dec 2012,To: 12 Dec 2012,No Religion,FY 2013,1,Russia,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Orthodox,FY 2013,11,Eritrea,3,690
+From: 12 Dec 2012,To: 12 Dec 2012,Orthodox,FY 2013,11,Iraq,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Other Religion,FY 2013,2,China,2,690
+From: 12 Dec 2012,To: 12 Dec 2012,Pentecostalist,FY 2013,8,Burma,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Pentecostalist,FY 2013,8,Dem. Rep. Congo,7,690
+From: 12 Dec 2012,To: 12 Dec 2012,Protestant,FY 2013,26,Congo,11,690
+From: 12 Dec 2012,To: 12 Dec 2012,Protestant,FY 2013,26,Dem. Rep. Congo,7,690
+From: 12 Dec 2012,To: 12 Dec 2012,Protestant,FY 2013,26,Ethiopia,8,690
+From: 12 Dec 2012,To: 12 Dec 2012,Seventh Day Adventist,FY 2013,1,Dem. Rep. Congo,1,690
+From: 12 Dec 2012,To: 12 Dec 2012,Zoroastrian,FY 2013,2,Iran,2,690
+

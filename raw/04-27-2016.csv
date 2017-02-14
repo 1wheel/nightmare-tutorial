@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Apr 2016,To: 27 Apr 2016,Afghanistan,FY 2016,34,Baptist,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Afghanistan,FY 2016,34,Moslem Shiite,29,534
+From: 27 Apr 2016,To: 27 Apr 2016,Afghanistan,FY 2016,34,Moslem Suni,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Belarus,FY 2016,7,Evangelical Christian,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Belarus,FY 2016,7,Jewish,2,534
+From: 27 Apr 2016,To: 27 Apr 2016,Belarus,FY 2016,7,Pentecostalist,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Bhutan,FY 2016,43,Buddhist,13,534
+From: 27 Apr 2016,To: 27 Apr 2016,Bhutan,FY 2016,43,Christian,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Bhutan,FY 2016,43,Hindu,9,534
+From: 27 Apr 2016,To: 27 Apr 2016,Bhutan,FY 2016,43,Kirat,16,534
+From: 27 Apr 2016,To: 27 Apr 2016,Burma,FY 2016,67,Buddhist,7,534
+From: 27 Apr 2016,To: 27 Apr 2016,Burma,FY 2016,67,Christian,18,534
+From: 27 Apr 2016,To: 27 Apr 2016,Burma,FY 2016,67,Moslem,42,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Catholic,19,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Christian,26,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Jehovah Witness,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Methodist,13,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Pentecostalist,18,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Protestant,13,534
+From: 27 Apr 2016,To: 27 Apr 2016,Dem. Rep. Congo,FY 2016,99,Seventh Day Adventist,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,El Salvador,FY 2016,8,Catholic,8,534
+From: 27 Apr 2016,To: 27 Apr 2016,Eritrea,FY 2016,22,Catholic,3,534
+From: 27 Apr 2016,To: 27 Apr 2016,Eritrea,FY 2016,22,Moslem Suni,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Eritrea,FY 2016,22,Orthodox,14,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iran,FY 2016,29,Christian,21,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iran,FY 2016,29,Moslem Shiite,3,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iran,FY 2016,29,Moslem Suni,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iran,FY 2016,29,Protestant,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iraq,FY 2016,96,Catholic,2,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iraq,FY 2016,96,Moslem,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iraq,FY 2016,96,Moslem Shiite,58,534
+From: 27 Apr 2016,To: 27 Apr 2016,Iraq,FY 2016,96,Moslem Suni,32,534
+From: 27 Apr 2016,To: 27 Apr 2016,Ivory Coast,FY 2016,1,Christian,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Pakistan,FY 2016,1,Moslem Shiite,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Somalia,FY 2016,78,Moslem,69,534
+From: 27 Apr 2016,To: 27 Apr 2016,Somalia,FY 2016,78,Moslem Suni,9,534
+From: 27 Apr 2016,To: 27 Apr 2016,Sudan,FY 2016,3,Moslem,3,534
+From: 27 Apr 2016,To: 27 Apr 2016,Syria,FY 2016,46,Moslem,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Syria,FY 2016,46,Moslem Suni,41,534
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Apr 2016,To: 27 Apr 2016,Baptist,FY 2016,1,Afghanistan,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Buddhist,FY 2016,20,Bhutan,13,534
+From: 27 Apr 2016,To: 27 Apr 2016,Buddhist,FY 2016,20,Burma,7,534
+From: 27 Apr 2016,To: 27 Apr 2016,Catholic,FY 2016,32,Dem. Rep. Congo,19,534
+From: 27 Apr 2016,To: 27 Apr 2016,Catholic,FY 2016,32,El Salvador,8,534
+From: 27 Apr 2016,To: 27 Apr 2016,Catholic,FY 2016,32,Eritrea,3,534
+From: 27 Apr 2016,To: 27 Apr 2016,Catholic,FY 2016,32,Iraq,2,534
+From: 27 Apr 2016,To: 27 Apr 2016,Christian,FY 2016,71,Bhutan,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Christian,FY 2016,71,Burma,18,534
+From: 27 Apr 2016,To: 27 Apr 2016,Christian,FY 2016,71,Dem. Rep. Congo,26,534
+From: 27 Apr 2016,To: 27 Apr 2016,Christian,FY 2016,71,Iran,21,534
+From: 27 Apr 2016,To: 27 Apr 2016,Christian,FY 2016,71,Ivory Coast,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Evangelical Christian,FY 2016,1,Belarus,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Hindu,FY 2016,9,Bhutan,9,534
+From: 27 Apr 2016,To: 27 Apr 2016,Jehovah Witness,FY 2016,5,Dem. Rep. Congo,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Jewish,FY 2016,2,Belarus,2,534
+From: 27 Apr 2016,To: 27 Apr 2016,Kirat,FY 2016,16,Bhutan,16,534
+From: 27 Apr 2016,To: 27 Apr 2016,Methodist,FY 2016,13,Dem. Rep. Congo,13,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem,FY 2016,123,Burma,42,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem,FY 2016,123,Iraq,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem,FY 2016,123,Somalia,69,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem,FY 2016,123,Sudan,3,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem,FY 2016,123,Syria,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Shiite,FY 2016,91,Afghanistan,29,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Shiite,FY 2016,91,Iran,3,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Shiite,FY 2016,91,Iraq,58,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Shiite,FY 2016,91,Pakistan,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Suni,FY 2016,92,Afghanistan,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Suni,FY 2016,92,Eritrea,5,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Suni,FY 2016,92,Iran,1,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Suni,FY 2016,92,Iraq,32,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Suni,FY 2016,92,Somalia,9,534
+From: 27 Apr 2016,To: 27 Apr 2016,Moslem Suni,FY 2016,92,Syria,41,534
+From: 27 Apr 2016,To: 27 Apr 2016,Orthodox,FY 2016,14,Eritrea,14,534
+From: 27 Apr 2016,To: 27 Apr 2016,Pentecostalist,FY 2016,22,Belarus,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Pentecostalist,FY 2016,22,Dem. Rep. Congo,18,534
+From: 27 Apr 2016,To: 27 Apr 2016,Protestant,FY 2016,17,Dem. Rep. Congo,13,534
+From: 27 Apr 2016,To: 27 Apr 2016,Protestant,FY 2016,17,Iran,4,534
+From: 27 Apr 2016,To: 27 Apr 2016,Seventh Day Adventist,FY 2016,5,Dem. Rep. Congo,5,534
+

@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Aug 2007,To: 09 Aug 2007,Burma,FY 2007,189,Baptist,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burma,FY 2007,189,Buddhist,19,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burma,FY 2007,189,Christian,116,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burma,FY 2007,189,Moslem,53,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burundi,FY 2007,69,Baptist,6,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burundi,FY 2007,69,Catholic,14,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burundi,FY 2007,69,Pentecostalist,36,483
+From: 09 Aug 2007,To: 09 Aug 2007,Burundi,FY 2007,69,Seventh Day Adventist,13,483
+From: 09 Aug 2007,To: 09 Aug 2007,Cuba,FY 2007,64,Catholic,37,483
+From: 09 Aug 2007,To: 09 Aug 2007,Cuba,FY 2007,64,Christian,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Cuba,FY 2007,64,Evangelical Christian,7,483
+From: 09 Aug 2007,To: 09 Aug 2007,Cuba,FY 2007,64,Jehovah Witness,10,483
+From: 09 Aug 2007,To: 09 Aug 2007,Cuba,FY 2007,64,No Religion,9,483
+From: 09 Aug 2007,To: 09 Aug 2007,Eritrea,FY 2007,34,Catholic,26,483
+From: 09 Aug 2007,To: 09 Aug 2007,Eritrea,FY 2007,34,Christian,3,483
+From: 09 Aug 2007,To: 09 Aug 2007,Eritrea,FY 2007,34,Moslem,2,483
+From: 09 Aug 2007,To: 09 Aug 2007,Eritrea,FY 2007,34,Orthodox,3,483
+From: 09 Aug 2007,To: 09 Aug 2007,Iran,FY 2007,53,Christian,46,483
+From: 09 Aug 2007,To: 09 Aug 2007,Iran,FY 2007,53,Jewish,6,483
+From: 09 Aug 2007,To: 09 Aug 2007,Iran,FY 2007,53,Zoroastrian,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Liberia,FY 2007,4,Christian,4,483
+From: 09 Aug 2007,To: 09 Aug 2007,Russia,FY 2007,4,Baptist,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Russia,FY 2007,4,Orthodox,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Russia,FY 2007,4,Pentecostalist,2,483
+From: 09 Aug 2007,To: 09 Aug 2007,Somalia,FY 2007,65,Moslem,65,483
+From: 09 Aug 2007,To: 09 Aug 2007,Sudan,FY 2007,1,Catholic,1,483
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Aug 2007,To: 09 Aug 2007,Baptist,FY 2007,8,Burma,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Baptist,FY 2007,8,Burundi,6,483
+From: 09 Aug 2007,To: 09 Aug 2007,Baptist,FY 2007,8,Russia,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Buddhist,FY 2007,19,Burma,19,483
+From: 09 Aug 2007,To: 09 Aug 2007,Catholic,FY 2007,78,Burundi,14,483
+From: 09 Aug 2007,To: 09 Aug 2007,Catholic,FY 2007,78,Cuba,37,483
+From: 09 Aug 2007,To: 09 Aug 2007,Catholic,FY 2007,78,Eritrea,26,483
+From: 09 Aug 2007,To: 09 Aug 2007,Catholic,FY 2007,78,Sudan,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Christian,FY 2007,170,Burma,116,483
+From: 09 Aug 2007,To: 09 Aug 2007,Christian,FY 2007,170,Cuba,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Christian,FY 2007,170,Eritrea,3,483
+From: 09 Aug 2007,To: 09 Aug 2007,Christian,FY 2007,170,Iran,46,483
+From: 09 Aug 2007,To: 09 Aug 2007,Christian,FY 2007,170,Liberia,4,483
+From: 09 Aug 2007,To: 09 Aug 2007,Evangelical Christian,FY 2007,7,Cuba,7,483
+From: 09 Aug 2007,To: 09 Aug 2007,Jehovah Witness,FY 2007,10,Cuba,10,483
+From: 09 Aug 2007,To: 09 Aug 2007,Jewish,FY 2007,6,Iran,6,483
+From: 09 Aug 2007,To: 09 Aug 2007,Moslem,FY 2007,120,Burma,53,483
+From: 09 Aug 2007,To: 09 Aug 2007,Moslem,FY 2007,120,Eritrea,2,483
+From: 09 Aug 2007,To: 09 Aug 2007,Moslem,FY 2007,120,Somalia,65,483
+From: 09 Aug 2007,To: 09 Aug 2007,No Religion,FY 2007,9,Cuba,9,483
+From: 09 Aug 2007,To: 09 Aug 2007,Orthodox,FY 2007,4,Eritrea,3,483
+From: 09 Aug 2007,To: 09 Aug 2007,Orthodox,FY 2007,4,Russia,1,483
+From: 09 Aug 2007,To: 09 Aug 2007,Pentecostalist,FY 2007,38,Burundi,36,483
+From: 09 Aug 2007,To: 09 Aug 2007,Pentecostalist,FY 2007,38,Russia,2,483
+From: 09 Aug 2007,To: 09 Aug 2007,Seventh Day Adventist,FY 2007,13,Burundi,13,483
+From: 09 Aug 2007,To: 09 Aug 2007,Zoroastrian,FY 2007,1,Iran,1,483
+

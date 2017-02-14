@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Nov 2007,To: 28 Nov 2007,Afghanistan,FY 2008,3,Moslem Ismaici,3,187
+From: 28 Nov 2007,To: 28 Nov 2007,Burma,FY 2008,25,Buddhist,7,187
+From: 28 Nov 2007,To: 28 Nov 2007,Burma,FY 2008,25,Christian,18,187
+From: 28 Nov 2007,To: 28 Nov 2007,Colombia,FY 2008,22,Catholic,8,187
+From: 28 Nov 2007,To: 28 Nov 2007,Colombia,FY 2008,22,Unknown,14,187
+From: 28 Nov 2007,To: 28 Nov 2007,Congo,FY 2008,13,Catholic,1,187
+From: 28 Nov 2007,To: 28 Nov 2007,Congo,FY 2008,13,Protestant,12,187
+From: 28 Nov 2007,To: 28 Nov 2007,Dem. Rep. Congo,FY 2008,16,Christian,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Dem. Rep. Congo,FY 2008,16,Protestant,12,187
+From: 28 Nov 2007,To: 28 Nov 2007,Ethiopia,FY 2008,5,Moslem,5,187
+From: 28 Nov 2007,To: 28 Nov 2007,Gambia,FY 2008,1,Moslem,1,187
+From: 28 Nov 2007,To: 28 Nov 2007,Iran,FY 2008,36,Christian,23,187
+From: 28 Nov 2007,To: 28 Nov 2007,Iran,FY 2008,36,Jewish,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Iran,FY 2008,36,Protestant,1,187
+From: 28 Nov 2007,To: 28 Nov 2007,Iran,FY 2008,36,Sabeans-Mandean,8,187
+From: 28 Nov 2007,To: 28 Nov 2007,Iraq,FY 2008,2,Catholic,2,187
+From: 28 Nov 2007,To: 28 Nov 2007,Moldova,FY 2008,26,Baptist,26,187
+From: 28 Nov 2007,To: 28 Nov 2007,Pakistan,FY 2008,4,Moslem,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Somalia,FY 2008,22,Moslem,22,187
+From: 28 Nov 2007,To: 28 Nov 2007,Uzbekistan,FY 2008,12,Jewish,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Uzbekistan,FY 2008,12,Seventh Day Adventist,8,187
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Nov 2007,To: 28 Nov 2007,Baptist,FY 2008,26,Moldova,26,187
+From: 28 Nov 2007,To: 28 Nov 2007,Buddhist,FY 2008,7,Burma,7,187
+From: 28 Nov 2007,To: 28 Nov 2007,Catholic,FY 2008,11,Colombia,8,187
+From: 28 Nov 2007,To: 28 Nov 2007,Catholic,FY 2008,11,Congo,1,187
+From: 28 Nov 2007,To: 28 Nov 2007,Catholic,FY 2008,11,Iraq,2,187
+From: 28 Nov 2007,To: 28 Nov 2007,Christian,FY 2008,45,Burma,18,187
+From: 28 Nov 2007,To: 28 Nov 2007,Christian,FY 2008,45,Dem. Rep. Congo,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Christian,FY 2008,45,Iran,23,187
+From: 28 Nov 2007,To: 28 Nov 2007,Jewish,FY 2008,8,Iran,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Jewish,FY 2008,8,Uzbekistan,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Moslem,FY 2008,32,Ethiopia,5,187
+From: 28 Nov 2007,To: 28 Nov 2007,Moslem,FY 2008,32,Gambia,1,187
+From: 28 Nov 2007,To: 28 Nov 2007,Moslem,FY 2008,32,Pakistan,4,187
+From: 28 Nov 2007,To: 28 Nov 2007,Moslem,FY 2008,32,Somalia,22,187
+From: 28 Nov 2007,To: 28 Nov 2007,Moslem Ismaici,FY 2008,3,Afghanistan,3,187
+From: 28 Nov 2007,To: 28 Nov 2007,Protestant,FY 2008,25,Congo,12,187
+From: 28 Nov 2007,To: 28 Nov 2007,Protestant,FY 2008,25,Dem. Rep. Congo,12,187
+From: 28 Nov 2007,To: 28 Nov 2007,Protestant,FY 2008,25,Iran,1,187
+From: 28 Nov 2007,To: 28 Nov 2007,Sabeans-Mandean,FY 2008,8,Iran,8,187
+From: 28 Nov 2007,To: 28 Nov 2007,Seventh Day Adventist,FY 2008,8,Uzbekistan,8,187
+From: 28 Nov 2007,To: 28 Nov 2007,Unknown,FY 2008,14,Colombia,14,187
+

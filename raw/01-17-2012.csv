@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Jan 2012,To: 17 Jan 2012,Afghanistan,FY 2012,18,Moslem Shiite,11,251
+From: 17 Jan 2012,To: 17 Jan 2012,Afghanistan,FY 2012,18,Moslem Suni,7,251
+From: 17 Jan 2012,To: 17 Jan 2012,Bhutan,FY 2012,66,Buddhist,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Bhutan,FY 2012,66,Christian,12,251
+From: 17 Jan 2012,To: 17 Jan 2012,Bhutan,FY 2012,66,Hindu,52,251
+From: 17 Jan 2012,To: 17 Jan 2012,Burma,FY 2012,62,Buddhist,30,251
+From: 17 Jan 2012,To: 17 Jan 2012,Burma,FY 2012,62,Christian,32,251
+From: 17 Jan 2012,To: 17 Jan 2012,China,FY 2012,1,Moslem,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Congo,FY 2012,1,Catholic,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Cuba,FY 2012,4,Catholic,4,251
+From: 17 Jan 2012,To: 17 Jan 2012,Dem. Rep. Congo,FY 2012,1,Pentecostalist,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Eritrea,FY 2012,12,Jehovah Witness,4,251
+From: 17 Jan 2012,To: 17 Jan 2012,Eritrea,FY 2012,12,Orthodox,8,251
+From: 17 Jan 2012,To: 17 Jan 2012,Ethiopia,FY 2012,1,Moslem,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iran,FY 2012,26,Bahai,11,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iran,FY 2012,26,Christian,7,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iran,FY 2012,26,Protestant,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iran,FY 2012,26,Sabeans-Mandean,4,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iran,FY 2012,26,Zoroastrian,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iraq,FY 2012,41,Catholic,17,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iraq,FY 2012,41,Christian,3,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iraq,FY 2012,41,Moslem,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iraq,FY 2012,41,Moslem Shiite,15,251
+From: 17 Jan 2012,To: 17 Jan 2012,Iraq,FY 2012,41,Moslem Suni,5,251
+From: 17 Jan 2012,To: 17 Jan 2012,Palestine,FY 2012,3,Moslem Suni,3,251
+From: 17 Jan 2012,To: 17 Jan 2012,Russia,FY 2012,2,Jewish,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Somalia,FY 2012,13,Moslem,12,251
+From: 17 Jan 2012,To: 17 Jan 2012,Somalia,FY 2012,13,Moslem Suni,1,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Jan 2012,To: 17 Jan 2012,Bahai,FY 2012,11,Iran,11,251
+From: 17 Jan 2012,To: 17 Jan 2012,Buddhist,FY 2012,32,Bhutan,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Buddhist,FY 2012,32,Burma,30,251
+From: 17 Jan 2012,To: 17 Jan 2012,Catholic,FY 2012,22,Congo,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Catholic,FY 2012,22,Cuba,4,251
+From: 17 Jan 2012,To: 17 Jan 2012,Catholic,FY 2012,22,Iraq,17,251
+From: 17 Jan 2012,To: 17 Jan 2012,Christian,FY 2012,54,Bhutan,12,251
+From: 17 Jan 2012,To: 17 Jan 2012,Christian,FY 2012,54,Burma,32,251
+From: 17 Jan 2012,To: 17 Jan 2012,Christian,FY 2012,54,Iran,7,251
+From: 17 Jan 2012,To: 17 Jan 2012,Christian,FY 2012,54,Iraq,3,251
+From: 17 Jan 2012,To: 17 Jan 2012,Hindu,FY 2012,52,Bhutan,52,251
+From: 17 Jan 2012,To: 17 Jan 2012,Jehovah Witness,FY 2012,4,Eritrea,4,251
+From: 17 Jan 2012,To: 17 Jan 2012,Jewish,FY 2012,2,Russia,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem,FY 2012,15,China,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem,FY 2012,15,Ethiopia,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem,FY 2012,15,Iraq,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem,FY 2012,15,Somalia,12,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem Shiite,FY 2012,26,Afghanistan,11,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem Shiite,FY 2012,26,Iraq,15,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem Suni,FY 2012,16,Afghanistan,7,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem Suni,FY 2012,16,Iraq,5,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem Suni,FY 2012,16,Palestine,3,251
+From: 17 Jan 2012,To: 17 Jan 2012,Moslem Suni,FY 2012,16,Somalia,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Orthodox,FY 2012,8,Eritrea,8,251
+From: 17 Jan 2012,To: 17 Jan 2012,Pentecostalist,FY 2012,1,Dem. Rep. Congo,1,251
+From: 17 Jan 2012,To: 17 Jan 2012,Protestant,FY 2012,2,Iran,2,251
+From: 17 Jan 2012,To: 17 Jan 2012,Sabeans-Mandean,FY 2012,4,Iran,4,251
+From: 17 Jan 2012,To: 17 Jan 2012,Zoroastrian,FY 2012,2,Iran,2,251
+

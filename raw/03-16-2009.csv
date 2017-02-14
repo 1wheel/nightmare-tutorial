@@ -1,0 +1,51 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Mar 2009,To: 16 Mar 2009,Afghanistan,FY 2009,10,Moslem Suni,10,281
+From: 16 Mar 2009,To: 16 Mar 2009,Azerbaijan,FY 2009,3,Jewish,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Bhutan,FY 2009,69,Buddhist,5,281
+From: 16 Mar 2009,To: 16 Mar 2009,Bhutan,FY 2009,69,Christian,4,281
+From: 16 Mar 2009,To: 16 Mar 2009,Bhutan,FY 2009,69,Hindu,60,281
+From: 16 Mar 2009,To: 16 Mar 2009,Burma,FY 2009,35,Christian,35,281
+From: 16 Mar 2009,To: 16 Mar 2009,Congo,FY 2009,9,Christian,7,281
+From: 16 Mar 2009,To: 16 Mar 2009,Congo,FY 2009,9,Unknown,2,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Catholic,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Chaldean,8,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Christian,37,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Moslem,4,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Moslem Shiite,25,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Moslem Suni,43,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Orthodox,1,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Sabeans-Mandean,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Iraq,FY 2009,129,Yazidi,5,281
+From: 16 Mar 2009,To: 16 Mar 2009,Moldova,FY 2009,11,Baptist,5,281
+From: 16 Mar 2009,To: 16 Mar 2009,Moldova,FY 2009,11,Pentecostalist,6,281
+From: 16 Mar 2009,To: 16 Mar 2009,Russia,FY 2009,15,Jewish,1,281
+From: 16 Mar 2009,To: 16 Mar 2009,Russia,FY 2009,15,Pentecostalist,11,281
+From: 16 Mar 2009,To: 16 Mar 2009,Russia,FY 2009,15,Seventh Day Adventist,3,281
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Mar 2009,To: 16 Mar 2009,Baptist,FY 2009,5,Moldova,5,281
+From: 16 Mar 2009,To: 16 Mar 2009,Buddhist,FY 2009,5,Bhutan,5,281
+From: 16 Mar 2009,To: 16 Mar 2009,Catholic,FY 2009,3,Iraq,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Chaldean,FY 2009,8,Iraq,8,281
+From: 16 Mar 2009,To: 16 Mar 2009,Christian,FY 2009,83,Bhutan,4,281
+From: 16 Mar 2009,To: 16 Mar 2009,Christian,FY 2009,83,Burma,35,281
+From: 16 Mar 2009,To: 16 Mar 2009,Christian,FY 2009,83,Congo,7,281
+From: 16 Mar 2009,To: 16 Mar 2009,Christian,FY 2009,83,Iraq,37,281
+From: 16 Mar 2009,To: 16 Mar 2009,Hindu,FY 2009,60,Bhutan,60,281
+From: 16 Mar 2009,To: 16 Mar 2009,Jewish,FY 2009,4,Azerbaijan,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Jewish,FY 2009,4,Russia,1,281
+From: 16 Mar 2009,To: 16 Mar 2009,Moslem,FY 2009,4,Iraq,4,281
+From: 16 Mar 2009,To: 16 Mar 2009,Moslem Shiite,FY 2009,25,Iraq,25,281
+From: 16 Mar 2009,To: 16 Mar 2009,Moslem Suni,FY 2009,53,Afghanistan,10,281
+From: 16 Mar 2009,To: 16 Mar 2009,Moslem Suni,FY 2009,53,Iraq,43,281
+From: 16 Mar 2009,To: 16 Mar 2009,Orthodox,FY 2009,1,Iraq,1,281
+From: 16 Mar 2009,To: 16 Mar 2009,Pentecostalist,FY 2009,17,Moldova,6,281
+From: 16 Mar 2009,To: 16 Mar 2009,Pentecostalist,FY 2009,17,Russia,11,281
+From: 16 Mar 2009,To: 16 Mar 2009,Sabeans-Mandean,FY 2009,3,Iraq,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Seventh Day Adventist,FY 2009,3,Russia,3,281
+From: 16 Mar 2009,To: 16 Mar 2009,Unknown,FY 2009,2,Congo,2,281
+From: 16 Mar 2009,To: 16 Mar 2009,Yazidi,FY 2009,5,Iraq,5,281
+

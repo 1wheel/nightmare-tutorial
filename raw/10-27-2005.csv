@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Oct 2005,To: 27 Oct 2005,Azerbaijan,FY 2006,7,Jewish,7,187
+From: 27 Oct 2005,To: 27 Oct 2005,Burma,FY 2006,8,Buddhist,3,187
+From: 27 Oct 2005,To: 27 Oct 2005,Burma,FY 2006,8,Moslem,3,187
+From: 27 Oct 2005,To: 27 Oct 2005,Burma,FY 2006,8,Protestant,2,187
+From: 27 Oct 2005,To: 27 Oct 2005,Laos,FY 2006,23,Ancestral Worship,22,187
+From: 27 Oct 2005,To: 27 Oct 2005,Laos,FY 2006,23,Christian,1,187
+From: 27 Oct 2005,To: 27 Oct 2005,Russia,FY 2006,22,Baptist,12,187
+From: 27 Oct 2005,To: 27 Oct 2005,Russia,FY 2006,22,Jehovah Witness,1,187
+From: 27 Oct 2005,To: 27 Oct 2005,Russia,FY 2006,22,Jewish,2,187
+From: 27 Oct 2005,To: 27 Oct 2005,Russia,FY 2006,22,Pentecostalist,6,187
+From: 27 Oct 2005,To: 27 Oct 2005,Russia,FY 2006,22,Seventh Day Adventist,1,187
+From: 27 Oct 2005,To: 27 Oct 2005,Somalia,FY 2006,97,Moslem,97,187
+From: 27 Oct 2005,To: 27 Oct 2005,Ukraine,FY 2006,30,Baptist,12,187
+From: 27 Oct 2005,To: 27 Oct 2005,Ukraine,FY 2006,30,Jewish,7,187
+From: 27 Oct 2005,To: 27 Oct 2005,Ukraine,FY 2006,30,Pentecostalist,11,187
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Oct 2005,To: 27 Oct 2005,Ancestral Worship,FY 2006,22,Laos,22,187
+From: 27 Oct 2005,To: 27 Oct 2005,Baptist,FY 2006,24,Russia,12,187
+From: 27 Oct 2005,To: 27 Oct 2005,Baptist,FY 2006,24,Ukraine,12,187
+From: 27 Oct 2005,To: 27 Oct 2005,Buddhist,FY 2006,3,Burma,3,187
+From: 27 Oct 2005,To: 27 Oct 2005,Christian,FY 2006,1,Laos,1,187
+From: 27 Oct 2005,To: 27 Oct 2005,Jehovah Witness,FY 2006,1,Russia,1,187
+From: 27 Oct 2005,To: 27 Oct 2005,Jewish,FY 2006,16,Azerbaijan,7,187
+From: 27 Oct 2005,To: 27 Oct 2005,Jewish,FY 2006,16,Russia,2,187
+From: 27 Oct 2005,To: 27 Oct 2005,Jewish,FY 2006,16,Ukraine,7,187
+From: 27 Oct 2005,To: 27 Oct 2005,Moslem,FY 2006,100,Burma,3,187
+From: 27 Oct 2005,To: 27 Oct 2005,Moslem,FY 2006,100,Somalia,97,187
+From: 27 Oct 2005,To: 27 Oct 2005,Pentecostalist,FY 2006,17,Russia,6,187
+From: 27 Oct 2005,To: 27 Oct 2005,Pentecostalist,FY 2006,17,Ukraine,11,187
+From: 27 Oct 2005,To: 27 Oct 2005,Protestant,FY 2006,2,Burma,2,187
+From: 27 Oct 2005,To: 27 Oct 2005,Seventh Day Adventist,FY 2006,1,Russia,1,187
+

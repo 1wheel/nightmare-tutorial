@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 Jul 2005,To: 26 Jul 2005,Iraq,FY 2005,1,Moslem,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Laos,FY 2005,69,Ancestral Worship,69,226
+From: 26 Jul 2005,To: 26 Jul 2005,Liberia,FY 2005,36,Catholic,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Liberia,FY 2005,36,Christian,15,226
+From: 26 Jul 2005,To: 26 Jul 2005,Liberia,FY 2005,36,Moslem,20,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moldova,FY 2005,34,Baptist,15,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moldova,FY 2005,34,Christian,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moldova,FY 2005,34,Pentecostalist,18,226
+From: 26 Jul 2005,To: 26 Jul 2005,Russia,FY 2005,26,Moslem,26,226
+From: 26 Jul 2005,To: 26 Jul 2005,Somalia,FY 2005,34,Moslem,34,226
+From: 26 Jul 2005,To: 26 Jul 2005,Vietnam,FY 2005,26,Christian,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Vietnam,FY 2005,26,Protestant,25,226
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 Jul 2005,To: 26 Jul 2005,Ancestral Worship,FY 2005,69,Laos,69,226
+From: 26 Jul 2005,To: 26 Jul 2005,Baptist,FY 2005,15,Moldova,15,226
+From: 26 Jul 2005,To: 26 Jul 2005,Catholic,FY 2005,1,Liberia,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Christian,FY 2005,17,Liberia,15,226
+From: 26 Jul 2005,To: 26 Jul 2005,Christian,FY 2005,17,Moldova,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Christian,FY 2005,17,Vietnam,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moslem,FY 2005,81,Iraq,1,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moslem,FY 2005,81,Liberia,20,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moslem,FY 2005,81,Russia,26,226
+From: 26 Jul 2005,To: 26 Jul 2005,Moslem,FY 2005,81,Somalia,34,226
+From: 26 Jul 2005,To: 26 Jul 2005,Pentecostalist,FY 2005,18,Moldova,18,226
+From: 26 Jul 2005,To: 26 Jul 2005,Protestant,FY 2005,25,Vietnam,25,226
+

@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Oct 2008,To: 23 Oct 2008,Afghanistan,FY 2009,9,Moslem Suni,9,443
+From: 23 Oct 2008,To: 23 Oct 2008,Albania,FY 2009,1,Moslem,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Bhutan,FY 2009,100,Buddhist,9,443
+From: 23 Oct 2008,To: 23 Oct 2008,Bhutan,FY 2009,100,Christian,14,443
+From: 23 Oct 2008,To: 23 Oct 2008,Bhutan,FY 2009,100,Hindu,77,443
+From: 23 Oct 2008,To: 23 Oct 2008,Burma,FY 2009,75,Christian,75,443
+From: 23 Oct 2008,To: 23 Oct 2008,Burundi,FY 2009,30,Catholic,20,443
+From: 23 Oct 2008,To: 23 Oct 2008,Burundi,FY 2009,30,Methodist,4,443
+From: 23 Oct 2008,To: 23 Oct 2008,Burundi,FY 2009,30,Pentecostalist,6,443
+From: 23 Oct 2008,To: 23 Oct 2008,Colombia,FY 2009,1,Catholic,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Cuba,FY 2009,34,Catholic,14,443
+From: 23 Oct 2008,To: 23 Oct 2008,Cuba,FY 2009,34,Jehovah Witness,3,443
+From: 23 Oct 2008,To: 23 Oct 2008,Cuba,FY 2009,34,Methodist,4,443
+From: 23 Oct 2008,To: 23 Oct 2008,Cuba,FY 2009,34,No Religion,11,443
+From: 23 Oct 2008,To: 23 Oct 2008,Cuba,FY 2009,34,Seventh Day Adventist,2,443
+From: 23 Oct 2008,To: 23 Oct 2008,Dem. Rep. Congo,FY 2009,6,Catholic,5,443
+From: 23 Oct 2008,To: 23 Oct 2008,Dem. Rep. Congo,FY 2009,6,Protestant,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Eritrea,FY 2009,1,Jehovah Witness,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Ethiopia,FY 2009,4,Moslem,3,443
+From: 23 Oct 2008,To: 23 Oct 2008,Ethiopia,FY 2009,4,Orthodox,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iran,FY 2009,69,Christian,62,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iran,FY 2009,69,Jewish,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iran,FY 2009,69,Zoroastrian,6,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iraq,FY 2009,80,Catholic,19,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iraq,FY 2009,80,Christian,30,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iraq,FY 2009,80,Moslem Shiite,4,443
+From: 23 Oct 2008,To: 23 Oct 2008,Iraq,FY 2009,80,Moslem Suni,27,443
+From: 23 Oct 2008,To: 23 Oct 2008,Rwanda,FY 2009,1,Catholic,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Ukraine,FY 2009,19,Baptist,17,443
+From: 23 Oct 2008,To: 23 Oct 2008,Ukraine,FY 2009,19,Seventh Day Adventist,2,443
+From: 23 Oct 2008,To: 23 Oct 2008,Uzbekistan,FY 2009,13,Evangelical Christian,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Uzbekistan,FY 2009,13,Jewish,3,443
+From: 23 Oct 2008,To: 23 Oct 2008,Uzbekistan,FY 2009,13,Seventh Day Adventist,9,443
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Oct 2008,To: 23 Oct 2008,Baptist,FY 2009,17,Ukraine,17,443
+From: 23 Oct 2008,To: 23 Oct 2008,Buddhist,FY 2009,9,Bhutan,9,443
+From: 23 Oct 2008,To: 23 Oct 2008,Catholic,FY 2009,60,Burundi,20,443
+From: 23 Oct 2008,To: 23 Oct 2008,Catholic,FY 2009,60,Colombia,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Catholic,FY 2009,60,Cuba,14,443
+From: 23 Oct 2008,To: 23 Oct 2008,Catholic,FY 2009,60,Dem. Rep. Congo,5,443
+From: 23 Oct 2008,To: 23 Oct 2008,Catholic,FY 2009,60,Iraq,19,443
+From: 23 Oct 2008,To: 23 Oct 2008,Catholic,FY 2009,60,Rwanda,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Christian,FY 2009,181,Bhutan,14,443
+From: 23 Oct 2008,To: 23 Oct 2008,Christian,FY 2009,181,Burma,75,443
+From: 23 Oct 2008,To: 23 Oct 2008,Christian,FY 2009,181,Iran,62,443
+From: 23 Oct 2008,To: 23 Oct 2008,Christian,FY 2009,181,Iraq,30,443
+From: 23 Oct 2008,To: 23 Oct 2008,Evangelical Christian,FY 2009,1,Uzbekistan,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Hindu,FY 2009,77,Bhutan,77,443
+From: 23 Oct 2008,To: 23 Oct 2008,Jehovah Witness,FY 2009,4,Cuba,3,443
+From: 23 Oct 2008,To: 23 Oct 2008,Jehovah Witness,FY 2009,4,Eritrea,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Jewish,FY 2009,4,Iran,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Jewish,FY 2009,4,Uzbekistan,3,443
+From: 23 Oct 2008,To: 23 Oct 2008,Methodist,FY 2009,8,Burundi,4,443
+From: 23 Oct 2008,To: 23 Oct 2008,Methodist,FY 2009,8,Cuba,4,443
+From: 23 Oct 2008,To: 23 Oct 2008,Moslem,FY 2009,4,Albania,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Moslem,FY 2009,4,Ethiopia,3,443
+From: 23 Oct 2008,To: 23 Oct 2008,Moslem Shiite,FY 2009,4,Iraq,4,443
+From: 23 Oct 2008,To: 23 Oct 2008,Moslem Suni,FY 2009,36,Afghanistan,9,443
+From: 23 Oct 2008,To: 23 Oct 2008,Moslem Suni,FY 2009,36,Iraq,27,443
+From: 23 Oct 2008,To: 23 Oct 2008,No Religion,FY 2009,11,Cuba,11,443
+From: 23 Oct 2008,To: 23 Oct 2008,Orthodox,FY 2009,1,Ethiopia,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Pentecostalist,FY 2009,6,Burundi,6,443
+From: 23 Oct 2008,To: 23 Oct 2008,Protestant,FY 2009,1,Dem. Rep. Congo,1,443
+From: 23 Oct 2008,To: 23 Oct 2008,Seventh Day Adventist,FY 2009,13,Cuba,2,443
+From: 23 Oct 2008,To: 23 Oct 2008,Seventh Day Adventist,FY 2009,13,Ukraine,2,443
+From: 23 Oct 2008,To: 23 Oct 2008,Seventh Day Adventist,FY 2009,13,Uzbekistan,9,443
+From: 23 Oct 2008,To: 23 Oct 2008,Zoroastrian,FY 2009,6,Iran,6,443
+

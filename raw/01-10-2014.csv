@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jan 2014,To: 10 Jan 2014,Burma,FY 2014,37,Baptist,11,106
+From: 10 Jan 2014,To: 10 Jan 2014,Burma,FY 2014,37,Buddhist,7,106
+From: 10 Jan 2014,To: 10 Jan 2014,Burma,FY 2014,37,Christian,19,106
+From: 10 Jan 2014,To: 10 Jan 2014,Iraq,FY 2014,69,Catholic,12,106
+From: 10 Jan 2014,To: 10 Jan 2014,Iraq,FY 2014,69,Christian,4,106
+From: 10 Jan 2014,To: 10 Jan 2014,Iraq,FY 2014,69,Moslem Shiite,40,106
+From: 10 Jan 2014,To: 10 Jan 2014,Iraq,FY 2014,69,Moslem Suni,13,106
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jan 2014,To: 10 Jan 2014,Baptist,FY 2014,11,Burma,11,106
+From: 10 Jan 2014,To: 10 Jan 2014,Buddhist,FY 2014,7,Burma,7,106
+From: 10 Jan 2014,To: 10 Jan 2014,Catholic,FY 2014,12,Iraq,12,106
+From: 10 Jan 2014,To: 10 Jan 2014,Christian,FY 2014,23,Burma,19,106
+From: 10 Jan 2014,To: 10 Jan 2014,Christian,FY 2014,23,Iraq,4,106
+From: 10 Jan 2014,To: 10 Jan 2014,Moslem Shiite,FY 2014,40,Iraq,40,106
+From: 10 Jan 2014,To: 10 Jan 2014,Moslem Suni,FY 2014,13,Iraq,13,106
+

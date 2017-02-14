@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Jun 2009,To: 02 Jun 2009,Bhutan,FY 2009,101,Buddhist,5,471
+From: 02 Jun 2009,To: 02 Jun 2009,Bhutan,FY 2009,101,Christian,13,471
+From: 02 Jun 2009,To: 02 Jun 2009,Bhutan,FY 2009,101,Hindu,81,471
+From: 02 Jun 2009,To: 02 Jun 2009,Bhutan,FY 2009,101,Kirat,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Burma,FY 2009,190,Animist,48,471
+From: 02 Jun 2009,To: 02 Jun 2009,Burma,FY 2009,190,Baptist,1,471
+From: 02 Jun 2009,To: 02 Jun 2009,Burma,FY 2009,190,Buddhist,18,471
+From: 02 Jun 2009,To: 02 Jun 2009,Burma,FY 2009,190,Catholic,43,471
+From: 02 Jun 2009,To: 02 Jun 2009,Burma,FY 2009,190,Christian,64,471
+From: 02 Jun 2009,To: 02 Jun 2009,Burma,FY 2009,190,Moslem,16,471
+From: 02 Jun 2009,To: 02 Jun 2009,Cuba,FY 2009,68,Catholic,31,471
+From: 02 Jun 2009,To: 02 Jun 2009,Cuba,FY 2009,68,Evangelical Christian,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Cuba,FY 2009,68,Jehovah Witness,19,471
+From: 02 Jun 2009,To: 02 Jun 2009,Cuba,FY 2009,68,No Religion,16,471
+From: 02 Jun 2009,To: 02 Jun 2009,Eritrea,FY 2009,1,Orthodox,1,471
+From: 02 Jun 2009,To: 02 Jun 2009,Ethiopia,FY 2009,2,Orthodox,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Iraq,FY 2009,41,Catholic,7,471
+From: 02 Jun 2009,To: 02 Jun 2009,Iraq,FY 2009,41,Christian,8,471
+From: 02 Jun 2009,To: 02 Jun 2009,Iraq,FY 2009,41,Moslem Shiite,17,471
+From: 02 Jun 2009,To: 02 Jun 2009,Iraq,FY 2009,41,Moslem Suni,7,471
+From: 02 Jun 2009,To: 02 Jun 2009,Iraq,FY 2009,41,Orthodox,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Liberia,FY 2009,2,Christian,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Somalia,FY 2009,65,Moslem,65,471
+From: 02 Jun 2009,To: 02 Jun 2009,Vietnam,FY 2009,1,Buddhist,1,471
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Jun 2009,To: 02 Jun 2009,Animist,FY 2009,48,Burma,48,471
+From: 02 Jun 2009,To: 02 Jun 2009,Baptist,FY 2009,1,Burma,1,471
+From: 02 Jun 2009,To: 02 Jun 2009,Buddhist,FY 2009,24,Bhutan,5,471
+From: 02 Jun 2009,To: 02 Jun 2009,Buddhist,FY 2009,24,Burma,18,471
+From: 02 Jun 2009,To: 02 Jun 2009,Buddhist,FY 2009,24,Vietnam,1,471
+From: 02 Jun 2009,To: 02 Jun 2009,Catholic,FY 2009,81,Burma,43,471
+From: 02 Jun 2009,To: 02 Jun 2009,Catholic,FY 2009,81,Cuba,31,471
+From: 02 Jun 2009,To: 02 Jun 2009,Catholic,FY 2009,81,Iraq,7,471
+From: 02 Jun 2009,To: 02 Jun 2009,Christian,FY 2009,87,Bhutan,13,471
+From: 02 Jun 2009,To: 02 Jun 2009,Christian,FY 2009,87,Burma,64,471
+From: 02 Jun 2009,To: 02 Jun 2009,Christian,FY 2009,87,Iraq,8,471
+From: 02 Jun 2009,To: 02 Jun 2009,Christian,FY 2009,87,Liberia,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Evangelical Christian,FY 2009,2,Cuba,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Hindu,FY 2009,81,Bhutan,81,471
+From: 02 Jun 2009,To: 02 Jun 2009,Jehovah Witness,FY 2009,19,Cuba,19,471
+From: 02 Jun 2009,To: 02 Jun 2009,Kirat,FY 2009,2,Bhutan,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Moslem,FY 2009,81,Burma,16,471
+From: 02 Jun 2009,To: 02 Jun 2009,Moslem,FY 2009,81,Somalia,65,471
+From: 02 Jun 2009,To: 02 Jun 2009,Moslem Shiite,FY 2009,17,Iraq,17,471
+From: 02 Jun 2009,To: 02 Jun 2009,Moslem Suni,FY 2009,7,Iraq,7,471
+From: 02 Jun 2009,To: 02 Jun 2009,No Religion,FY 2009,16,Cuba,16,471
+From: 02 Jun 2009,To: 02 Jun 2009,Orthodox,FY 2009,5,Eritrea,1,471
+From: 02 Jun 2009,To: 02 Jun 2009,Orthodox,FY 2009,5,Ethiopia,2,471
+From: 02 Jun 2009,To: 02 Jun 2009,Orthodox,FY 2009,5,Iraq,2,471
+

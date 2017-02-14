@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 20 Oct 2004,To: 20 Oct 2004,Colombia,FY 2005,4,Catholic,4,225
+From: 20 Oct 2004,To: 20 Oct 2004,Iran,FY 2005,20,Bahai,1,225
+From: 20 Oct 2004,To: 20 Oct 2004,Iran,FY 2005,20,Christian,3,225
+From: 20 Oct 2004,To: 20 Oct 2004,Iran,FY 2005,20,Jewish,16,225
+From: 20 Oct 2004,To: 20 Oct 2004,Laos,FY 2005,70,Ancestral Worship,68,225
+From: 20 Oct 2004,To: 20 Oct 2004,Laos,FY 2005,70,Christian,2,225
+From: 20 Oct 2004,To: 20 Oct 2004,Liberia,FY 2005,9,Christian,5,225
+From: 20 Oct 2004,To: 20 Oct 2004,Liberia,FY 2005,9,Pentecostalist,4,225
+From: 20 Oct 2004,To: 20 Oct 2004,Rwanda,FY 2005,5,Christian,5,225
+From: 20 Oct 2004,To: 20 Oct 2004,Sierra Leone,FY 2005,21,Catholic,2,225
+From: 20 Oct 2004,To: 20 Oct 2004,Sierra Leone,FY 2005,21,Christian,3,225
+From: 20 Oct 2004,To: 20 Oct 2004,Sierra Leone,FY 2005,21,Moslem,16,225
+From: 20 Oct 2004,To: 20 Oct 2004,Somalia,FY 2005,90,Moslem,90,225
+From: 20 Oct 2004,To: 20 Oct 2004,Sudan,FY 2005,6,Christian,6,225
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 20 Oct 2004,To: 20 Oct 2004,Ancestral Worship,FY 2005,68,Laos,68,225
+From: 20 Oct 2004,To: 20 Oct 2004,Bahai,FY 2005,1,Iran,1,225
+From: 20 Oct 2004,To: 20 Oct 2004,Catholic,FY 2005,6,Colombia,4,225
+From: 20 Oct 2004,To: 20 Oct 2004,Catholic,FY 2005,6,Sierra Leone,2,225
+From: 20 Oct 2004,To: 20 Oct 2004,Christian,FY 2005,24,Iran,3,225
+From: 20 Oct 2004,To: 20 Oct 2004,Christian,FY 2005,24,Laos,2,225
+From: 20 Oct 2004,To: 20 Oct 2004,Christian,FY 2005,24,Liberia,5,225
+From: 20 Oct 2004,To: 20 Oct 2004,Christian,FY 2005,24,Rwanda,5,225
+From: 20 Oct 2004,To: 20 Oct 2004,Christian,FY 2005,24,Sierra Leone,3,225
+From: 20 Oct 2004,To: 20 Oct 2004,Christian,FY 2005,24,Sudan,6,225
+From: 20 Oct 2004,To: 20 Oct 2004,Jewish,FY 2005,16,Iran,16,225
+From: 20 Oct 2004,To: 20 Oct 2004,Moslem,FY 2005,106,Sierra Leone,16,225
+From: 20 Oct 2004,To: 20 Oct 2004,Moslem,FY 2005,106,Somalia,90,225
+From: 20 Oct 2004,To: 20 Oct 2004,Pentecostalist,FY 2005,4,Liberia,4,225
+

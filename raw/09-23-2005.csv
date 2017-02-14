@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 23 Sep 2005,To: 23 Sep 2005,Congo,FY 2005,1,Christian,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Cuba,FY 2005,51,Catholic,26,389
+From: 23 Sep 2005,To: 23 Sep 2005,Cuba,FY 2005,51,Jehovah Witness,14,389
+From: 23 Sep 2005,To: 23 Sep 2005,Cuba,FY 2005,51,No Religion,7,389
+From: 23 Sep 2005,To: 23 Sep 2005,Cuba,FY 2005,51,Pentecostalist,4,389
+From: 23 Sep 2005,To: 23 Sep 2005,Laos,FY 2005,28,Ancestral Worship,28,389
+From: 23 Sep 2005,To: 23 Sep 2005,Liberia,FY 2005,83,Catholic,2,389
+From: 23 Sep 2005,To: 23 Sep 2005,Liberia,FY 2005,83,Christian,43,389
+From: 23 Sep 2005,To: 23 Sep 2005,Liberia,FY 2005,83,Moslem,38,389
+From: 23 Sep 2005,To: 23 Sep 2005,Russia,FY 2005,100,Moslem,100,389
+From: 23 Sep 2005,To: 23 Sep 2005,Rwanda,FY 2005,5,Christian,5,389
+From: 23 Sep 2005,To: 23 Sep 2005,Sierra Leone,FY 2005,1,Christian,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Somalia,FY 2005,34,Moslem,34,389
+From: 23 Sep 2005,To: 23 Sep 2005,Sudan,FY 2005,1,Catholic,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Ukraine,FY 2005,30,Baptist,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Ukraine,FY 2005,30,Christian,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Ukraine,FY 2005,30,Jewish,6,389
+From: 23 Sep 2005,To: 23 Sep 2005,Ukraine,FY 2005,30,Pentecostalist,22,389
+From: 23 Sep 2005,To: 23 Sep 2005,Vietnam,FY 2005,55,Ancestral Worship,4,389
+From: 23 Sep 2005,To: 23 Sep 2005,Vietnam,FY 2005,55,Buddhist,29,389
+From: 23 Sep 2005,To: 23 Sep 2005,Vietnam,FY 2005,55,Catholic,9,389
+From: 23 Sep 2005,To: 23 Sep 2005,Vietnam,FY 2005,55,No Religion,6,389
+From: 23 Sep 2005,To: 23 Sep 2005,Vietnam,FY 2005,55,Protestant,7,389
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 23 Sep 2005,To: 23 Sep 2005,Ancestral Worship,FY 2005,32,Laos,28,389
+From: 23 Sep 2005,To: 23 Sep 2005,Ancestral Worship,FY 2005,32,Vietnam,4,389
+From: 23 Sep 2005,To: 23 Sep 2005,Baptist,FY 2005,1,Ukraine,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Buddhist,FY 2005,29,Vietnam,29,389
+From: 23 Sep 2005,To: 23 Sep 2005,Catholic,FY 2005,38,Cuba,26,389
+From: 23 Sep 2005,To: 23 Sep 2005,Catholic,FY 2005,38,Liberia,2,389
+From: 23 Sep 2005,To: 23 Sep 2005,Catholic,FY 2005,38,Sudan,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Catholic,FY 2005,38,Vietnam,9,389
+From: 23 Sep 2005,To: 23 Sep 2005,Christian,FY 2005,51,Congo,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Christian,FY 2005,51,Liberia,43,389
+From: 23 Sep 2005,To: 23 Sep 2005,Christian,FY 2005,51,Rwanda,5,389
+From: 23 Sep 2005,To: 23 Sep 2005,Christian,FY 2005,51,Sierra Leone,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Christian,FY 2005,51,Ukraine,1,389
+From: 23 Sep 2005,To: 23 Sep 2005,Jehovah Witness,FY 2005,14,Cuba,14,389
+From: 23 Sep 2005,To: 23 Sep 2005,Jewish,FY 2005,6,Ukraine,6,389
+From: 23 Sep 2005,To: 23 Sep 2005,Moslem,FY 2005,172,Liberia,38,389
+From: 23 Sep 2005,To: 23 Sep 2005,Moslem,FY 2005,172,Russia,100,389
+From: 23 Sep 2005,To: 23 Sep 2005,Moslem,FY 2005,172,Somalia,34,389
+From: 23 Sep 2005,To: 23 Sep 2005,No Religion,FY 2005,13,Cuba,7,389
+From: 23 Sep 2005,To: 23 Sep 2005,No Religion,FY 2005,13,Vietnam,6,389
+From: 23 Sep 2005,To: 23 Sep 2005,Pentecostalist,FY 2005,26,Cuba,4,389
+From: 23 Sep 2005,To: 23 Sep 2005,Pentecostalist,FY 2005,26,Ukraine,22,389
+From: 23 Sep 2005,To: 23 Sep 2005,Protestant,FY 2005,7,Vietnam,7,389
+

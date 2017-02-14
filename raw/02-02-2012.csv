@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Feb 2012,To: 02 Feb 2012,Afghanistan,FY 2012,2,Moslem Shiite,2,277
+From: 02 Feb 2012,To: 02 Feb 2012,Bhutan,FY 2012,99,Buddhist,17,277
+From: 02 Feb 2012,To: 02 Feb 2012,Bhutan,FY 2012,99,Christian,14,277
+From: 02 Feb 2012,To: 02 Feb 2012,Bhutan,FY 2012,99,Hindu,51,277
+From: 02 Feb 2012,To: 02 Feb 2012,Bhutan,FY 2012,99,Kirat,17,277
+From: 02 Feb 2012,To: 02 Feb 2012,Burma,FY 2012,35,Baptist,4,277
+From: 02 Feb 2012,To: 02 Feb 2012,Burma,FY 2012,35,Buddhist,12,277
+From: 02 Feb 2012,To: 02 Feb 2012,Burma,FY 2012,35,Christian,11,277
+From: 02 Feb 2012,To: 02 Feb 2012,Burma,FY 2012,35,Moslem,8,277
+From: 02 Feb 2012,To: 02 Feb 2012,Cuba,FY 2012,42,Catholic,12,277
+From: 02 Feb 2012,To: 02 Feb 2012,Cuba,FY 2012,42,Jehovah Witness,3,277
+From: 02 Feb 2012,To: 02 Feb 2012,Cuba,FY 2012,42,No Religion,24,277
+From: 02 Feb 2012,To: 02 Feb 2012,Cuba,FY 2012,42,Pentecostalist,3,277
+From: 02 Feb 2012,To: 02 Feb 2012,Dem. Rep. Congo,FY 2012,9,Pentecostalist,9,277
+From: 02 Feb 2012,To: 02 Feb 2012,Eritrea,FY 2012,1,Christian,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iran,FY 2012,3,Christian,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iran,FY 2012,3,Moslem Shiite,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iran,FY 2012,3,Zoroastrian,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iraq,FY 2012,31,Catholic,5,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iraq,FY 2012,31,Moslem,6,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iraq,FY 2012,31,Moslem Shiite,12,277
+From: 02 Feb 2012,To: 02 Feb 2012,Iraq,FY 2012,31,Moslem Suni,8,277
+From: 02 Feb 2012,To: 02 Feb 2012,Somalia,FY 2012,38,Moslem,38,277
+From: 02 Feb 2012,To: 02 Feb 2012,Sudan,FY 2012,15,Moslem,9,277
+From: 02 Feb 2012,To: 02 Feb 2012,Sudan,FY 2012,15,Moslem Suni,6,277
+From: 02 Feb 2012,To: 02 Feb 2012,Ukraine,FY 2012,2,Pentecostalist,2,277
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Feb 2012,To: 02 Feb 2012,Baptist,FY 2012,4,Burma,4,277
+From: 02 Feb 2012,To: 02 Feb 2012,Buddhist,FY 2012,29,Bhutan,17,277
+From: 02 Feb 2012,To: 02 Feb 2012,Buddhist,FY 2012,29,Burma,12,277
+From: 02 Feb 2012,To: 02 Feb 2012,Catholic,FY 2012,17,Cuba,12,277
+From: 02 Feb 2012,To: 02 Feb 2012,Catholic,FY 2012,17,Iraq,5,277
+From: 02 Feb 2012,To: 02 Feb 2012,Christian,FY 2012,27,Bhutan,14,277
+From: 02 Feb 2012,To: 02 Feb 2012,Christian,FY 2012,27,Burma,11,277
+From: 02 Feb 2012,To: 02 Feb 2012,Christian,FY 2012,27,Eritrea,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Christian,FY 2012,27,Iran,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Hindu,FY 2012,51,Bhutan,51,277
+From: 02 Feb 2012,To: 02 Feb 2012,Jehovah Witness,FY 2012,3,Cuba,3,277
+From: 02 Feb 2012,To: 02 Feb 2012,Kirat,FY 2012,17,Bhutan,17,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem,FY 2012,61,Burma,8,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem,FY 2012,61,Iraq,6,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem,FY 2012,61,Somalia,38,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem,FY 2012,61,Sudan,9,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem Shiite,FY 2012,15,Afghanistan,2,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem Shiite,FY 2012,15,Iran,1,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem Shiite,FY 2012,15,Iraq,12,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem Suni,FY 2012,14,Iraq,8,277
+From: 02 Feb 2012,To: 02 Feb 2012,Moslem Suni,FY 2012,14,Sudan,6,277
+From: 02 Feb 2012,To: 02 Feb 2012,No Religion,FY 2012,24,Cuba,24,277
+From: 02 Feb 2012,To: 02 Feb 2012,Pentecostalist,FY 2012,14,Cuba,3,277
+From: 02 Feb 2012,To: 02 Feb 2012,Pentecostalist,FY 2012,14,Dem. Rep. Congo,9,277
+From: 02 Feb 2012,To: 02 Feb 2012,Pentecostalist,FY 2012,14,Ukraine,2,277
+From: 02 Feb 2012,To: 02 Feb 2012,Zoroastrian,FY 2012,1,Iran,1,277
+

@@ -1,0 +1,35 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Oct 2007,To: 16 Oct 2007,Burma,FY 2008,5,Christian,5,102
+From: 16 Oct 2007,To: 16 Oct 2007,China,FY 2008,1,Other Religion,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Iran,FY 2008,33,Christian,33,102
+From: 16 Oct 2007,To: 16 Oct 2007,Iraq,FY 2008,28,Catholic,2,102
+From: 16 Oct 2007,To: 16 Oct 2007,Iraq,FY 2008,28,Christian,3,102
+From: 16 Oct 2007,To: 16 Oct 2007,Iraq,FY 2008,28,Moslem,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Iraq,FY 2008,28,Moslem Suni,21,102
+From: 16 Oct 2007,To: 16 Oct 2007,Iraq,FY 2008,28,Sabeans-Mandean,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Liberia,FY 2008,35,Baptist,2,102
+From: 16 Oct 2007,To: 16 Oct 2007,Liberia,FY 2008,35,Catholic,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Liberia,FY 2008,35,Christian,16,102
+From: 16 Oct 2007,To: 16 Oct 2007,Liberia,FY 2008,35,Lutheran,7,102
+From: 16 Oct 2007,To: 16 Oct 2007,Liberia,FY 2008,35,Moslem,3,102
+From: 16 Oct 2007,To: 16 Oct 2007,Liberia,FY 2008,35,Pentecostalist,6,102
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Oct 2007,To: 16 Oct 2007,Baptist,FY 2008,2,Liberia,2,102
+From: 16 Oct 2007,To: 16 Oct 2007,Catholic,FY 2008,3,Iraq,2,102
+From: 16 Oct 2007,To: 16 Oct 2007,Catholic,FY 2008,3,Liberia,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Christian,FY 2008,57,Burma,5,102
+From: 16 Oct 2007,To: 16 Oct 2007,Christian,FY 2008,57,Iran,33,102
+From: 16 Oct 2007,To: 16 Oct 2007,Christian,FY 2008,57,Iraq,3,102
+From: 16 Oct 2007,To: 16 Oct 2007,Christian,FY 2008,57,Liberia,16,102
+From: 16 Oct 2007,To: 16 Oct 2007,Lutheran,FY 2008,7,Liberia,7,102
+From: 16 Oct 2007,To: 16 Oct 2007,Moslem,FY 2008,4,Iraq,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Moslem,FY 2008,4,Liberia,3,102
+From: 16 Oct 2007,To: 16 Oct 2007,Moslem Suni,FY 2008,21,Iraq,21,102
+From: 16 Oct 2007,To: 16 Oct 2007,Other Religion,FY 2008,1,China,1,102
+From: 16 Oct 2007,To: 16 Oct 2007,Pentecostalist,FY 2008,6,Liberia,6,102
+From: 16 Oct 2007,To: 16 Oct 2007,Sabeans-Mandean,FY 2008,1,Iraq,1,102
+

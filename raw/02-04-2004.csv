@@ -1,0 +1,85 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Feb 2004,To: 04 Feb 2004,Burma,FY 2004,2,Baptist,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,China,FY 2004,1,No Religion,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Congo,FY 2004,12,Catholic,6,270
+From: 04 Feb 2004,To: 04 Feb 2004,Congo,FY 2004,12,Christian,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Congo,FY 2004,12,Evangelical Christian,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Congo,FY 2004,12,Other Religion,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Cuba,FY 2004,35,Catholic,8,270
+From: 04 Feb 2004,To: 04 Feb 2004,Cuba,FY 2004,35,Christian,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Cuba,FY 2004,35,Jehovah Witness,11,270
+From: 04 Feb 2004,To: 04 Feb 2004,Cuba,FY 2004,35,No Religion,9,270
+From: 04 Feb 2004,To: 04 Feb 2004,Cuba,FY 2004,35,Pentecostalist,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Dem. Rep. Congo,FY 2004,17,Christian,10,270
+From: 04 Feb 2004,To: 04 Feb 2004,Dem. Rep. Congo,FY 2004,17,Protestant,7,270
+From: 04 Feb 2004,To: 04 Feb 2004,Eritrea,FY 2004,1,Jehovah Witness,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Ethiopia,FY 2004,28,Christian,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Ethiopia,FY 2004,28,Moslem,15,270
+From: 04 Feb 2004,To: 04 Feb 2004,Ethiopia,FY 2004,28,Orthodox,9,270
+From: 04 Feb 2004,To: 04 Feb 2004,Ethiopia,FY 2004,28,Pentecostalist,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Indonesia,FY 2004,2,Moslem,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Iran,FY 2004,17,Christian,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Iran,FY 2004,17,Jewish,12,270
+From: 04 Feb 2004,To: 04 Feb 2004,Iran,FY 2004,17,Zoroastrian,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,Baptist,7,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,Catholic,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,Christian,24,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,Lutheran,9,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,Methodist,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,No Religion,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Liberia,FY 2004,52,Pentecostalist,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Somalia,FY 2004,27,Moslem,27,270
+From: 04 Feb 2004,To: 04 Feb 2004,Sudan,FY 2004,24,Catholic,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Sudan,FY 2004,24,Christian,12,270
+From: 04 Feb 2004,To: 04 Feb 2004,Sudan,FY 2004,24,Moslem,10,270
+From: 04 Feb 2004,To: 04 Feb 2004,Ukraine,FY 2004,27,Baptist,7,270
+From: 04 Feb 2004,To: 04 Feb 2004,Ukraine,FY 2004,27,Pentecostalist,20,270
+From: 04 Feb 2004,To: 04 Feb 2004,Vietnam,FY 2004,25,Buddhist,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Vietnam,FY 2004,25,No Religion,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Vietnam,FY 2004,25,Protestant,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Vietnam,FY 2004,25,Unknown,14,270
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Feb 2004,To: 04 Feb 2004,Baptist,FY 2004,16,Burma,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Baptist,FY 2004,16,Liberia,7,270
+From: 04 Feb 2004,To: 04 Feb 2004,Baptist,FY 2004,16,Ukraine,7,270
+From: 04 Feb 2004,To: 04 Feb 2004,Buddhist,FY 2004,4,Vietnam,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Catholic,FY 2004,20,Congo,6,270
+From: 04 Feb 2004,To: 04 Feb 2004,Catholic,FY 2004,20,Cuba,8,270
+From: 04 Feb 2004,To: 04 Feb 2004,Catholic,FY 2004,20,Liberia,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Catholic,FY 2004,20,Sudan,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Congo,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Cuba,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Dem. Rep. Congo,10,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Ethiopia,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Iran,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Liberia,24,270
+From: 04 Feb 2004,To: 04 Feb 2004,Christian,FY 2004,58,Sudan,12,270
+From: 04 Feb 2004,To: 04 Feb 2004,Evangelical Christian,FY 2004,1,Congo,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Jehovah Witness,FY 2004,12,Cuba,11,270
+From: 04 Feb 2004,To: 04 Feb 2004,Jehovah Witness,FY 2004,12,Eritrea,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Jewish,FY 2004,12,Iran,12,270
+From: 04 Feb 2004,To: 04 Feb 2004,Lutheran,FY 2004,9,Liberia,9,270
+From: 04 Feb 2004,To: 04 Feb 2004,Methodist,FY 2004,2,Liberia,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Moslem,FY 2004,54,Ethiopia,15,270
+From: 04 Feb 2004,To: 04 Feb 2004,Moslem,FY 2004,54,Indonesia,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Moslem,FY 2004,54,Somalia,27,270
+From: 04 Feb 2004,To: 04 Feb 2004,Moslem,FY 2004,54,Sudan,10,270
+From: 04 Feb 2004,To: 04 Feb 2004,No Religion,FY 2004,17,China,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,No Religion,FY 2004,17,Cuba,9,270
+From: 04 Feb 2004,To: 04 Feb 2004,No Religion,FY 2004,17,Liberia,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,No Religion,FY 2004,17,Vietnam,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Orthodox,FY 2004,9,Ethiopia,9,270
+From: 04 Feb 2004,To: 04 Feb 2004,Other Religion,FY 2004,2,Congo,2,270
+From: 04 Feb 2004,To: 04 Feb 2004,Pentecostalist,FY 2004,28,Cuba,4,270
+From: 04 Feb 2004,To: 04 Feb 2004,Pentecostalist,FY 2004,28,Ethiopia,1,270
+From: 04 Feb 2004,To: 04 Feb 2004,Pentecostalist,FY 2004,28,Liberia,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Pentecostalist,FY 2004,28,Ukraine,20,270
+From: 04 Feb 2004,To: 04 Feb 2004,Protestant,FY 2004,10,Dem. Rep. Congo,7,270
+From: 04 Feb 2004,To: 04 Feb 2004,Protestant,FY 2004,10,Vietnam,3,270
+From: 04 Feb 2004,To: 04 Feb 2004,Unknown,FY 2004,14,Vietnam,14,270
+From: 04 Feb 2004,To: 04 Feb 2004,Zoroastrian,FY 2004,2,Iran,2,270
+

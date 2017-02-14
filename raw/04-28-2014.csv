@@ -1,0 +1,33 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Apr 2014,To: 28 Apr 2014,Burma,FY 2014,37,Baptist,5,149
+From: 28 Apr 2014,To: 28 Apr 2014,Burma,FY 2014,37,Buddhist,4,149
+From: 28 Apr 2014,To: 28 Apr 2014,Burma,FY 2014,37,Christian,23,149
+From: 28 Apr 2014,To: 28 Apr 2014,Burma,FY 2014,37,Moslem,5,149
+From: 28 Apr 2014,To: 28 Apr 2014,Ethiopia,FY 2014,5,Lutheran,5,149
+From: 28 Apr 2014,To: 28 Apr 2014,Iraq,FY 2014,69,Catholic,8,149
+From: 28 Apr 2014,To: 28 Apr 2014,Iraq,FY 2014,69,Moslem,2,149
+From: 28 Apr 2014,To: 28 Apr 2014,Iraq,FY 2014,69,Moslem Shiite,20,149
+From: 28 Apr 2014,To: 28 Apr 2014,Iraq,FY 2014,69,Moslem Suni,33,149
+From: 28 Apr 2014,To: 28 Apr 2014,Iraq,FY 2014,69,Orthodox,6,149
+From: 28 Apr 2014,To: 28 Apr 2014,Somalia,FY 2014,32,Moslem,32,149
+From: 28 Apr 2014,To: 28 Apr 2014,Sri Lanka (Ceylon),FY 2014,4,Hindu,4,149
+From: 28 Apr 2014,To: 28 Apr 2014,Sudan,FY 2014,2,Moslem,2,149
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Apr 2014,To: 28 Apr 2014,Baptist,FY 2014,5,Burma,5,149
+From: 28 Apr 2014,To: 28 Apr 2014,Buddhist,FY 2014,4,Burma,4,149
+From: 28 Apr 2014,To: 28 Apr 2014,Catholic,FY 2014,8,Iraq,8,149
+From: 28 Apr 2014,To: 28 Apr 2014,Christian,FY 2014,23,Burma,23,149
+From: 28 Apr 2014,To: 28 Apr 2014,Hindu,FY 2014,4,Sri Lanka (Ceylon),4,149
+From: 28 Apr 2014,To: 28 Apr 2014,Lutheran,FY 2014,5,Ethiopia,5,149
+From: 28 Apr 2014,To: 28 Apr 2014,Moslem,FY 2014,41,Burma,5,149
+From: 28 Apr 2014,To: 28 Apr 2014,Moslem,FY 2014,41,Iraq,2,149
+From: 28 Apr 2014,To: 28 Apr 2014,Moslem,FY 2014,41,Somalia,32,149
+From: 28 Apr 2014,To: 28 Apr 2014,Moslem,FY 2014,41,Sudan,2,149
+From: 28 Apr 2014,To: 28 Apr 2014,Moslem Shiite,FY 2014,20,Iraq,20,149
+From: 28 Apr 2014,To: 28 Apr 2014,Moslem Suni,FY 2014,33,Iraq,33,149
+From: 28 Apr 2014,To: 28 Apr 2014,Orthodox,FY 2014,6,Iraq,6,149
+

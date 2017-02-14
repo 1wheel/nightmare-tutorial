@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Sep 2010,To: 27 Sep 2010,Bhutan,FY 2010,35,Buddhist,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Bhutan,FY 2010,35,Christian,6,204
+From: 27 Sep 2010,To: 27 Sep 2010,Bhutan,FY 2010,35,Hindu,24,204
+From: 27 Sep 2010,To: 27 Sep 2010,Burma,FY 2010,47,Baptist,2,204
+From: 27 Sep 2010,To: 27 Sep 2010,Burma,FY 2010,47,Buddhist,3,204
+From: 27 Sep 2010,To: 27 Sep 2010,Burma,FY 2010,47,Christian,42,204
+From: 27 Sep 2010,To: 27 Sep 2010,Cuba,FY 2010,3,Catholic,3,204
+From: 27 Sep 2010,To: 27 Sep 2010,Dem. Rep. Congo,FY 2010,30,Catholic,15,204
+From: 27 Sep 2010,To: 27 Sep 2010,Dem. Rep. Congo,FY 2010,30,Methodist,9,204
+From: 27 Sep 2010,To: 27 Sep 2010,Dem. Rep. Congo,FY 2010,30,Pentecostalist,1,204
+From: 27 Sep 2010,To: 27 Sep 2010,Dem. Rep. Congo,FY 2010,30,Seventh Day Adventist,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iran,FY 2010,18,Bahai,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iran,FY 2010,18,Christian,7,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iran,FY 2010,18,Kaaka'i,2,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iran,FY 2010,18,Zoroastrian,4,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iraq,FY 2010,54,Catholic,8,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iraq,FY 2010,54,Christian,8,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iraq,FY 2010,54,Moslem Shiite,20,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iraq,FY 2010,54,Moslem Suni,12,204
+From: 27 Sep 2010,To: 27 Sep 2010,Iraq,FY 2010,54,Orthodox,6,204
+From: 27 Sep 2010,To: 27 Sep 2010,Liberia,FY 2010,3,Christian,3,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moldova,FY 2010,13,Baptist,2,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moldova,FY 2010,13,Orthodox,1,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moldova,FY 2010,13,Pentecostalist,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moldova,FY 2010,13,Seventh Day Adventist,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Somalia,FY 2010,1,Moslem,1,204
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Sep 2010,To: 27 Sep 2010,Bahai,FY 2010,5,Iran,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Baptist,FY 2010,4,Burma,2,204
+From: 27 Sep 2010,To: 27 Sep 2010,Baptist,FY 2010,4,Moldova,2,204
+From: 27 Sep 2010,To: 27 Sep 2010,Buddhist,FY 2010,8,Bhutan,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Buddhist,FY 2010,8,Burma,3,204
+From: 27 Sep 2010,To: 27 Sep 2010,Catholic,FY 2010,26,Cuba,3,204
+From: 27 Sep 2010,To: 27 Sep 2010,Catholic,FY 2010,26,Dem. Rep. Congo,15,204
+From: 27 Sep 2010,To: 27 Sep 2010,Catholic,FY 2010,26,Iraq,8,204
+From: 27 Sep 2010,To: 27 Sep 2010,Christian,FY 2010,66,Bhutan,6,204
+From: 27 Sep 2010,To: 27 Sep 2010,Christian,FY 2010,66,Burma,42,204
+From: 27 Sep 2010,To: 27 Sep 2010,Christian,FY 2010,66,Iran,7,204
+From: 27 Sep 2010,To: 27 Sep 2010,Christian,FY 2010,66,Iraq,8,204
+From: 27 Sep 2010,To: 27 Sep 2010,Christian,FY 2010,66,Liberia,3,204
+From: 27 Sep 2010,To: 27 Sep 2010,Hindu,FY 2010,24,Bhutan,24,204
+From: 27 Sep 2010,To: 27 Sep 2010,Kaaka'i,FY 2010,2,Iran,2,204
+From: 27 Sep 2010,To: 27 Sep 2010,Methodist,FY 2010,9,Dem. Rep. Congo,9,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moslem,FY 2010,1,Somalia,1,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moslem Shiite,FY 2010,20,Iraq,20,204
+From: 27 Sep 2010,To: 27 Sep 2010,Moslem Suni,FY 2010,12,Iraq,12,204
+From: 27 Sep 2010,To: 27 Sep 2010,Orthodox,FY 2010,7,Iraq,6,204
+From: 27 Sep 2010,To: 27 Sep 2010,Orthodox,FY 2010,7,Moldova,1,204
+From: 27 Sep 2010,To: 27 Sep 2010,Pentecostalist,FY 2010,6,Dem. Rep. Congo,1,204
+From: 27 Sep 2010,To: 27 Sep 2010,Pentecostalist,FY 2010,6,Moldova,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Seventh Day Adventist,FY 2010,10,Dem. Rep. Congo,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Seventh Day Adventist,FY 2010,10,Moldova,5,204
+From: 27 Sep 2010,To: 27 Sep 2010,Zoroastrian,FY 2010,4,Iran,4,204
+

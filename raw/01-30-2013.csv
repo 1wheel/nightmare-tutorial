@@ -1,0 +1,73 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Jan 2013,To: 30 Jan 2013,Afghanistan,FY 2013,3,Moslem Shiite,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Afghanistan,FY 2013,3,Moslem Suni,2,395
+From: 30 Jan 2013,To: 30 Jan 2013,Bhutan,FY 2013,28,Buddhist,8,395
+From: 30 Jan 2013,To: 30 Jan 2013,Bhutan,FY 2013,28,Hindu,15,395
+From: 30 Jan 2013,To: 30 Jan 2013,Bhutan,FY 2013,28,Kirat,5,395
+From: 30 Jan 2013,To: 30 Jan 2013,Burma,FY 2013,125,Animist,10,395
+From: 30 Jan 2013,To: 30 Jan 2013,Burma,FY 2013,125,Baptist,7,395
+From: 30 Jan 2013,To: 30 Jan 2013,Burma,FY 2013,125,Buddhist,29,395
+From: 30 Jan 2013,To: 30 Jan 2013,Burma,FY 2013,125,Christian,76,395
+From: 30 Jan 2013,To: 30 Jan 2013,Burma,FY 2013,125,Moslem,3,395
+From: 30 Jan 2013,To: 30 Jan 2013,Burundi,FY 2013,1,Protestant,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Dem. Rep. Congo,FY 2013,1,Pentecostalist,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Eritrea,FY 2013,1,Christian,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Ethiopia,FY 2013,37,Christian,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Ethiopia,FY 2013,37,Moslem,36,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iran,FY 2013,35,Bahai,3,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iran,FY 2013,35,Christian,26,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iran,FY 2013,35,Jewish,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iran,FY 2013,35,Moslem Shiite,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iran,FY 2013,35,Zoroastrian,4,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iraq,FY 2013,69,Catholic,2,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iraq,FY 2013,69,Christian,12,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iraq,FY 2013,69,Moslem Shiite,21,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iraq,FY 2013,69,Moslem Suni,30,395
+From: 30 Jan 2013,To: 30 Jan 2013,Iraq,FY 2013,69,Orthodox,4,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moldova,FY 2013,7,Baptist,7,395
+From: 30 Jan 2013,To: 30 Jan 2013,Republic of South Sudan,FY 2013,1,Christian,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Russia,FY 2013,1,Moslem,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Somalia,FY 2013,73,Moslem,58,395
+From: 30 Jan 2013,To: 30 Jan 2013,Somalia,FY 2013,73,Moslem Suni,15,395
+From: 30 Jan 2013,To: 30 Jan 2013,Sri Lanka (Ceylon),FY 2013,1,Christian,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Sudan,FY 2013,11,Moslem,11,395
+From: 30 Jan 2013,To: 30 Jan 2013,Uzbekistan,FY 2013,1,Jewish,1,395
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Jan 2013,To: 30 Jan 2013,Animist,FY 2013,10,Burma,10,395
+From: 30 Jan 2013,To: 30 Jan 2013,Bahai,FY 2013,3,Iran,3,395
+From: 30 Jan 2013,To: 30 Jan 2013,Baptist,FY 2013,14,Burma,7,395
+From: 30 Jan 2013,To: 30 Jan 2013,Baptist,FY 2013,14,Moldova,7,395
+From: 30 Jan 2013,To: 30 Jan 2013,Buddhist,FY 2013,37,Bhutan,8,395
+From: 30 Jan 2013,To: 30 Jan 2013,Buddhist,FY 2013,37,Burma,29,395
+From: 30 Jan 2013,To: 30 Jan 2013,Catholic,FY 2013,2,Iraq,2,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Burma,76,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Eritrea,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Ethiopia,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Iran,26,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Iraq,12,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Republic of South Sudan,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Christian,FY 2013,118,Sri Lanka (Ceylon),1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Hindu,FY 2013,15,Bhutan,15,395
+From: 30 Jan 2013,To: 30 Jan 2013,Jewish,FY 2013,2,Iran,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Jewish,FY 2013,2,Uzbekistan,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Kirat,FY 2013,5,Bhutan,5,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem,FY 2013,109,Burma,3,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem,FY 2013,109,Ethiopia,36,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem,FY 2013,109,Russia,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem,FY 2013,109,Somalia,58,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem,FY 2013,109,Sudan,11,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem Shiite,FY 2013,23,Afghanistan,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem Shiite,FY 2013,23,Iran,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem Shiite,FY 2013,23,Iraq,21,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem Suni,FY 2013,47,Afghanistan,2,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem Suni,FY 2013,47,Iraq,30,395
+From: 30 Jan 2013,To: 30 Jan 2013,Moslem Suni,FY 2013,47,Somalia,15,395
+From: 30 Jan 2013,To: 30 Jan 2013,Orthodox,FY 2013,4,Iraq,4,395
+From: 30 Jan 2013,To: 30 Jan 2013,Pentecostalist,FY 2013,1,Dem. Rep. Congo,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Protestant,FY 2013,1,Burundi,1,395
+From: 30 Jan 2013,To: 30 Jan 2013,Zoroastrian,FY 2013,4,Iran,4,395
+

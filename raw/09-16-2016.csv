@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Sep 2016,To: 16 Sep 2016,Dem. Rep. Congo,FY 2016,25,Catholic,4,288
+From: 16 Sep 2016,To: 16 Sep 2016,Dem. Rep. Congo,FY 2016,25,Jehovah Witness,7,288
+From: 16 Sep 2016,To: 16 Sep 2016,Dem. Rep. Congo,FY 2016,25,Protestant,14,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iran,FY 2016,22,Bahai,5,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iran,FY 2016,22,Moslem Shiite,5,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iran,FY 2016,22,Moslem Suni,3,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iran,FY 2016,22,Protestant,9,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iraq,FY 2016,157,Atheist,1,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iraq,FY 2016,157,Catholic,13,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iraq,FY 2016,157,Christian,8,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iraq,FY 2016,157,Moslem Shiite,37,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iraq,FY 2016,157,Moslem Suni,81,288
+From: 16 Sep 2016,To: 16 Sep 2016,Iraq,FY 2016,157,Orthodox,17,288
+From: 16 Sep 2016,To: 16 Sep 2016,Somalia,FY 2016,5,Moslem,3,288
+From: 16 Sep 2016,To: 16 Sep 2016,Somalia,FY 2016,5,Moslem Suni,2,288
+From: 16 Sep 2016,To: 16 Sep 2016,Sudan,FY 2016,9,Moslem,9,288
+From: 16 Sep 2016,To: 16 Sep 2016,Syria,FY 2016,70,Moslem Suni,70,288
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Sep 2016,To: 16 Sep 2016,Atheist,FY 2016,1,Iraq,1,288
+From: 16 Sep 2016,To: 16 Sep 2016,Bahai,FY 2016,5,Iran,5,288
+From: 16 Sep 2016,To: 16 Sep 2016,Catholic,FY 2016,17,Dem. Rep. Congo,4,288
+From: 16 Sep 2016,To: 16 Sep 2016,Catholic,FY 2016,17,Iraq,13,288
+From: 16 Sep 2016,To: 16 Sep 2016,Christian,FY 2016,8,Iraq,8,288
+From: 16 Sep 2016,To: 16 Sep 2016,Jehovah Witness,FY 2016,7,Dem. Rep. Congo,7,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem,FY 2016,12,Somalia,3,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem,FY 2016,12,Sudan,9,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem Shiite,FY 2016,42,Iran,5,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem Shiite,FY 2016,42,Iraq,37,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem Suni,FY 2016,156,Iran,3,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem Suni,FY 2016,156,Iraq,81,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem Suni,FY 2016,156,Somalia,2,288
+From: 16 Sep 2016,To: 16 Sep 2016,Moslem Suni,FY 2016,156,Syria,70,288
+From: 16 Sep 2016,To: 16 Sep 2016,Orthodox,FY 2016,17,Iraq,17,288
+From: 16 Sep 2016,To: 16 Sep 2016,Protestant,FY 2016,23,Dem. Rep. Congo,14,288
+From: 16 Sep 2016,To: 16 Sep 2016,Protestant,FY 2016,23,Iran,9,288
+

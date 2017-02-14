@@ -1,0 +1,67 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 Apr 2009,To: 30 Apr 2009,Bhutan,FY 2009,107,Buddhist,21,330
+From: 30 Apr 2009,To: 30 Apr 2009,Bhutan,FY 2009,107,Christian,8,330
+From: 30 Apr 2009,To: 30 Apr 2009,Bhutan,FY 2009,107,Hindu,77,330
+From: 30 Apr 2009,To: 30 Apr 2009,Bhutan,FY 2009,107,Kirat,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Burma,FY 2009,137,Animist,30,330
+From: 30 Apr 2009,To: 30 Apr 2009,Burma,FY 2009,137,Buddhist,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Burma,FY 2009,137,Catholic,22,330
+From: 30 Apr 2009,To: 30 Apr 2009,Burma,FY 2009,137,Christian,82,330
+From: 30 Apr 2009,To: 30 Apr 2009,Burundi,FY 2009,3,Moslem,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Cuba,FY 2009,4,Jehovah Witness,4,330
+From: 30 Apr 2009,To: 30 Apr 2009,Dem. Rep. Congo,FY 2009,1,Christian,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Eritrea,FY 2009,12,Jehovah Witness,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Eritrea,FY 2009,12,Orthodox,7,330
+From: 30 Apr 2009,To: 30 Apr 2009,Eritrea,FY 2009,12,Protestant,4,330
+From: 30 Apr 2009,To: 30 Apr 2009,Ethiopia,FY 2009,4,Moslem,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Ethiopia,FY 2009,4,Orthodox,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iran,FY 2009,10,Bahai,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iran,FY 2009,10,Christian,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iran,FY 2009,10,Moslem,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iran,FY 2009,10,Moslem Shiite,4,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iran,FY 2009,10,No Religion,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iraq,FY 2009,46,Catholic,11,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iraq,FY 2009,46,Christian,10,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iraq,FY 2009,46,Moslem Shiite,11,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iraq,FY 2009,46,Moslem Suni,9,330
+From: 30 Apr 2009,To: 30 Apr 2009,Iraq,FY 2009,46,Orthodox,5,330
+From: 30 Apr 2009,To: 30 Apr 2009,"Korea, North",FY 2009,3,Other Religion,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,"Korea, North",FY 2009,3,Unknown,2,330
+From: 30 Apr 2009,To: 30 Apr 2009,Palestine,FY 2009,1,Moslem,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Somalia,FY 2009,2,Moslem,2,330
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 Apr 2009,To: 30 Apr 2009,Animist,FY 2009,30,Burma,30,330
+From: 30 Apr 2009,To: 30 Apr 2009,Bahai,FY 2009,3,Iran,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Buddhist,FY 2009,24,Bhutan,21,330
+From: 30 Apr 2009,To: 30 Apr 2009,Buddhist,FY 2009,24,Burma,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Catholic,FY 2009,33,Burma,22,330
+From: 30 Apr 2009,To: 30 Apr 2009,Catholic,FY 2009,33,Iraq,11,330
+From: 30 Apr 2009,To: 30 Apr 2009,Christian,FY 2009,102,Bhutan,8,330
+From: 30 Apr 2009,To: 30 Apr 2009,Christian,FY 2009,102,Burma,82,330
+From: 30 Apr 2009,To: 30 Apr 2009,Christian,FY 2009,102,Dem. Rep. Congo,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Christian,FY 2009,102,Iran,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Christian,FY 2009,102,Iraq,10,330
+From: 30 Apr 2009,To: 30 Apr 2009,Hindu,FY 2009,77,Bhutan,77,330
+From: 30 Apr 2009,To: 30 Apr 2009,Jehovah Witness,FY 2009,5,Cuba,4,330
+From: 30 Apr 2009,To: 30 Apr 2009,Jehovah Witness,FY 2009,5,Eritrea,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Kirat,FY 2009,1,Bhutan,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem,FY 2009,8,Burundi,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem,FY 2009,8,Ethiopia,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem,FY 2009,8,Iran,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem,FY 2009,8,Palestine,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem,FY 2009,8,Somalia,2,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem Shiite,FY 2009,15,Iran,4,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem Shiite,FY 2009,15,Iraq,11,330
+From: 30 Apr 2009,To: 30 Apr 2009,Moslem Suni,FY 2009,9,Iraq,9,330
+From: 30 Apr 2009,To: 30 Apr 2009,No Religion,FY 2009,1,Iran,1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Orthodox,FY 2009,15,Eritrea,7,330
+From: 30 Apr 2009,To: 30 Apr 2009,Orthodox,FY 2009,15,Ethiopia,3,330
+From: 30 Apr 2009,To: 30 Apr 2009,Orthodox,FY 2009,15,Iraq,5,330
+From: 30 Apr 2009,To: 30 Apr 2009,Other Religion,FY 2009,1,"Korea, North",1,330
+From: 30 Apr 2009,To: 30 Apr 2009,Protestant,FY 2009,4,Eritrea,4,330
+From: 30 Apr 2009,To: 30 Apr 2009,Unknown,FY 2009,2,"Korea, North",2,330
+

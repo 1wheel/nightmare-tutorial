@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Jan 2012,To: 10 Jan 2012,Bhutan,FY 2012,101,Buddhist,32,150
+From: 10 Jan 2012,To: 10 Jan 2012,Bhutan,FY 2012,101,Christian,14,150
+From: 10 Jan 2012,To: 10 Jan 2012,Bhutan,FY 2012,101,Hindu,43,150
+From: 10 Jan 2012,To: 10 Jan 2012,Bhutan,FY 2012,101,Kirat,12,150
+From: 10 Jan 2012,To: 10 Jan 2012,Eritrea,FY 2012,17,Catholic,2,150
+From: 10 Jan 2012,To: 10 Jan 2012,Eritrea,FY 2012,17,Moslem Suni,3,150
+From: 10 Jan 2012,To: 10 Jan 2012,Eritrea,FY 2012,17,Orthodox,12,150
+From: 10 Jan 2012,To: 10 Jan 2012,Iraq,FY 2012,1,Chaldean,1,150
+From: 10 Jan 2012,To: 10 Jan 2012,Somalia,FY 2012,31,Moslem,31,150
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Jan 2012,To: 10 Jan 2012,Buddhist,FY 2012,32,Bhutan,32,150
+From: 10 Jan 2012,To: 10 Jan 2012,Catholic,FY 2012,2,Eritrea,2,150
+From: 10 Jan 2012,To: 10 Jan 2012,Chaldean,FY 2012,1,Iraq,1,150
+From: 10 Jan 2012,To: 10 Jan 2012,Christian,FY 2012,14,Bhutan,14,150
+From: 10 Jan 2012,To: 10 Jan 2012,Hindu,FY 2012,43,Bhutan,43,150
+From: 10 Jan 2012,To: 10 Jan 2012,Kirat,FY 2012,12,Bhutan,12,150
+From: 10 Jan 2012,To: 10 Jan 2012,Moslem,FY 2012,31,Somalia,31,150
+From: 10 Jan 2012,To: 10 Jan 2012,Moslem Suni,FY 2012,3,Eritrea,3,150
+From: 10 Jan 2012,To: 10 Jan 2012,Orthodox,FY 2012,12,Eritrea,12,150
+

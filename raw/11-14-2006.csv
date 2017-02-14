@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Nov 2006,To: 14 Nov 2006,Burma,FY 2007,72,Catholic,7,249
+From: 14 Nov 2006,To: 14 Nov 2006,Burma,FY 2007,72,Christian,65,249
+From: 14 Nov 2006,To: 14 Nov 2006,Cuba,FY 2007,70,Baptist,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Cuba,FY 2007,70,Catholic,33,249
+From: 14 Nov 2006,To: 14 Nov 2006,Cuba,FY 2007,70,Jehovah Witness,5,249
+From: 14 Nov 2006,To: 14 Nov 2006,Cuba,FY 2007,70,No Religion,28,249
+From: 14 Nov 2006,To: 14 Nov 2006,Cuba,FY 2007,70,Pentecostalist,3,249
+From: 14 Nov 2006,To: 14 Nov 2006,Iran,FY 2007,30,Christian,15,249
+From: 14 Nov 2006,To: 14 Nov 2006,Iran,FY 2007,30,Sabeans-Mandean,14,249
+From: 14 Nov 2006,To: 14 Nov 2006,Iran,FY 2007,30,Zoroastrian,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Liberia,FY 2007,12,Christian,12,249
+From: 14 Nov 2006,To: 14 Nov 2006,Somalia,FY 2007,1,Unknown,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Sudan,FY 2007,30,Catholic,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Sudan,FY 2007,30,Christian,25,249
+From: 14 Nov 2006,To: 14 Nov 2006,Sudan,FY 2007,30,Moslem,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Sudan,FY 2007,30,Protestant,3,249
+From: 14 Nov 2006,To: 14 Nov 2006,Ukraine,FY 2007,34,Baptist,8,249
+From: 14 Nov 2006,To: 14 Nov 2006,Ukraine,FY 2007,34,Pentecostalist,24,249
+From: 14 Nov 2006,To: 14 Nov 2006,Ukraine,FY 2007,34,Seventh Day Adventist,2,249
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Nov 2006,To: 14 Nov 2006,Baptist,FY 2007,9,Cuba,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Baptist,FY 2007,9,Ukraine,8,249
+From: 14 Nov 2006,To: 14 Nov 2006,Catholic,FY 2007,41,Burma,7,249
+From: 14 Nov 2006,To: 14 Nov 2006,Catholic,FY 2007,41,Cuba,33,249
+From: 14 Nov 2006,To: 14 Nov 2006,Catholic,FY 2007,41,Sudan,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Christian,FY 2007,117,Burma,65,249
+From: 14 Nov 2006,To: 14 Nov 2006,Christian,FY 2007,117,Iran,15,249
+From: 14 Nov 2006,To: 14 Nov 2006,Christian,FY 2007,117,Liberia,12,249
+From: 14 Nov 2006,To: 14 Nov 2006,Christian,FY 2007,117,Sudan,25,249
+From: 14 Nov 2006,To: 14 Nov 2006,Jehovah Witness,FY 2007,5,Cuba,5,249
+From: 14 Nov 2006,To: 14 Nov 2006,Moslem,FY 2007,1,Sudan,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,No Religion,FY 2007,28,Cuba,28,249
+From: 14 Nov 2006,To: 14 Nov 2006,Pentecostalist,FY 2007,27,Cuba,3,249
+From: 14 Nov 2006,To: 14 Nov 2006,Pentecostalist,FY 2007,27,Ukraine,24,249
+From: 14 Nov 2006,To: 14 Nov 2006,Protestant,FY 2007,3,Sudan,3,249
+From: 14 Nov 2006,To: 14 Nov 2006,Sabeans-Mandean,FY 2007,14,Iran,14,249
+From: 14 Nov 2006,To: 14 Nov 2006,Seventh Day Adventist,FY 2007,2,Ukraine,2,249
+From: 14 Nov 2006,To: 14 Nov 2006,Unknown,FY 2007,1,Somalia,1,249
+From: 14 Nov 2006,To: 14 Nov 2006,Zoroastrian,FY 2007,1,Iran,1,249
+

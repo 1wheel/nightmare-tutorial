@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 17 Oct 2006,To: 17 Oct 2006,Burma,FY 2007,32,Christian,32,119
+From: 17 Oct 2006,To: 17 Oct 2006,Eritrea,FY 2007,1,Orthodox,1,119
+From: 17 Oct 2006,To: 17 Oct 2006,Russia,FY 2007,29,Moslem,27,119
+From: 17 Oct 2006,To: 17 Oct 2006,Russia,FY 2007,29,Moslem Suni,2,119
+From: 17 Oct 2006,To: 17 Oct 2006,Somalia,FY 2007,28,Moslem,28,119
+From: 17 Oct 2006,To: 17 Oct 2006,Sudan,FY 2007,29,Catholic,4,119
+From: 17 Oct 2006,To: 17 Oct 2006,Sudan,FY 2007,29,Christian,20,119
+From: 17 Oct 2006,To: 17 Oct 2006,Sudan,FY 2007,29,Moslem,3,119
+From: 17 Oct 2006,To: 17 Oct 2006,Sudan,FY 2007,29,Protestant,2,119
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 17 Oct 2006,To: 17 Oct 2006,Catholic,FY 2007,4,Sudan,4,119
+From: 17 Oct 2006,To: 17 Oct 2006,Christian,FY 2007,52,Burma,32,119
+From: 17 Oct 2006,To: 17 Oct 2006,Christian,FY 2007,52,Sudan,20,119
+From: 17 Oct 2006,To: 17 Oct 2006,Moslem,FY 2007,58,Russia,27,119
+From: 17 Oct 2006,To: 17 Oct 2006,Moslem,FY 2007,58,Somalia,28,119
+From: 17 Oct 2006,To: 17 Oct 2006,Moslem,FY 2007,58,Sudan,3,119
+From: 17 Oct 2006,To: 17 Oct 2006,Moslem Suni,FY 2007,2,Russia,2,119
+From: 17 Oct 2006,To: 17 Oct 2006,Orthodox,FY 2007,1,Eritrea,1,119
+From: 17 Oct 2006,To: 17 Oct 2006,Protestant,FY 2007,2,Sudan,2,119
+

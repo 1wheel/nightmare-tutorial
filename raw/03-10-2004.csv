@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Mar 2004,To: 10 Mar 2004,Congo,FY 2004,3,Catholic,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Congo,FY 2004,3,Protestant,1,171
+From: 10 Mar 2004,To: 10 Mar 2004,Cuba,FY 2004,27,Catholic,6,171
+From: 10 Mar 2004,To: 10 Mar 2004,Cuba,FY 2004,27,Jehovah Witness,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Cuba,FY 2004,27,Methodist,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Cuba,FY 2004,27,No Religion,8,171
+From: 10 Mar 2004,To: 10 Mar 2004,Cuba,FY 2004,27,Pentecostalist,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Ethiopia,FY 2004,36,Christian,8,171
+From: 10 Mar 2004,To: 10 Mar 2004,Ethiopia,FY 2004,36,Moslem,19,171
+From: 10 Mar 2004,To: 10 Mar 2004,Ethiopia,FY 2004,36,Orthodox,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Iran,FY 2004,13,Christian,13,171
+From: 10 Mar 2004,To: 10 Mar 2004,Liberia,FY 2004,31,Baptist,3,171
+From: 10 Mar 2004,To: 10 Mar 2004,Liberia,FY 2004,31,Catholic,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Liberia,FY 2004,31,Christian,21,171
+From: 10 Mar 2004,To: 10 Mar 2004,Liberia,FY 2004,31,Pentecostalist,5,171
+From: 10 Mar 2004,To: 10 Mar 2004,Somalia,FY 2004,22,Moslem,22,171
+From: 10 Mar 2004,To: 10 Mar 2004,Sudan,FY 2004,11,Catholic,1,171
+From: 10 Mar 2004,To: 10 Mar 2004,Sudan,FY 2004,11,Christian,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Sudan,FY 2004,11,Protestant,1,171
+From: 10 Mar 2004,To: 10 Mar 2004,Vietnam,FY 2004,28,Buddhist,7,171
+From: 10 Mar 2004,To: 10 Mar 2004,Vietnam,FY 2004,28,Catholic,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Vietnam,FY 2004,28,No Religion,8,171
+From: 10 Mar 2004,To: 10 Mar 2004,Vietnam,FY 2004,28,Protestant,4,171
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Mar 2004,To: 10 Mar 2004,Baptist,FY 2004,3,Liberia,3,171
+From: 10 Mar 2004,To: 10 Mar 2004,Buddhist,FY 2004,7,Vietnam,7,171
+From: 10 Mar 2004,To: 10 Mar 2004,Catholic,FY 2004,20,Congo,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Catholic,FY 2004,20,Cuba,6,171
+From: 10 Mar 2004,To: 10 Mar 2004,Catholic,FY 2004,20,Liberia,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Catholic,FY 2004,20,Sudan,1,171
+From: 10 Mar 2004,To: 10 Mar 2004,Catholic,FY 2004,20,Vietnam,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Christian,FY 2004,51,Ethiopia,8,171
+From: 10 Mar 2004,To: 10 Mar 2004,Christian,FY 2004,51,Iran,13,171
+From: 10 Mar 2004,To: 10 Mar 2004,Christian,FY 2004,51,Liberia,21,171
+From: 10 Mar 2004,To: 10 Mar 2004,Christian,FY 2004,51,Sudan,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Jehovah Witness,FY 2004,9,Cuba,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Methodist,FY 2004,2,Cuba,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Moslem,FY 2004,41,Ethiopia,19,171
+From: 10 Mar 2004,To: 10 Mar 2004,Moslem,FY 2004,41,Somalia,22,171
+From: 10 Mar 2004,To: 10 Mar 2004,No Religion,FY 2004,16,Cuba,8,171
+From: 10 Mar 2004,To: 10 Mar 2004,No Religion,FY 2004,16,Vietnam,8,171
+From: 10 Mar 2004,To: 10 Mar 2004,Orthodox,FY 2004,9,Ethiopia,9,171
+From: 10 Mar 2004,To: 10 Mar 2004,Pentecostalist,FY 2004,7,Cuba,2,171
+From: 10 Mar 2004,To: 10 Mar 2004,Pentecostalist,FY 2004,7,Liberia,5,171
+From: 10 Mar 2004,To: 10 Mar 2004,Protestant,FY 2004,6,Congo,1,171
+From: 10 Mar 2004,To: 10 Mar 2004,Protestant,FY 2004,6,Sudan,1,171
+From: 10 Mar 2004,To: 10 Mar 2004,Protestant,FY 2004,6,Vietnam,4,171
+

@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Dec 2006,To: 05 Dec 2006,Iran,FY 2007,30,Bahai,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Iran,FY 2007,30,Christian,20,245
+From: 05 Dec 2006,To: 05 Dec 2006,Iran,FY 2007,30,Sabeans-Mandean,9,245
+From: 05 Dec 2006,To: 05 Dec 2006,Iraq,FY 2007,5,Moslem,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Iraq,FY 2007,5,Moslem Shiite,4,245
+From: 05 Dec 2006,To: 05 Dec 2006,Liberia,FY 2007,28,Baptist,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Liberia,FY 2007,28,Catholic,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Liberia,FY 2007,28,Christian,8,245
+From: 05 Dec 2006,To: 05 Dec 2006,Liberia,FY 2007,28,Lutheran,7,245
+From: 05 Dec 2006,To: 05 Dec 2006,Liberia,FY 2007,28,Methodist,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Liberia,FY 2007,28,Pentecostalist,10,245
+From: 05 Dec 2006,To: 05 Dec 2006,Somalia,FY 2007,117,Moslem,117,245
+From: 05 Dec 2006,To: 05 Dec 2006,Sudan,FY 2007,35,Catholic,8,245
+From: 05 Dec 2006,To: 05 Dec 2006,Sudan,FY 2007,35,Christian,21,245
+From: 05 Dec 2006,To: 05 Dec 2006,Sudan,FY 2007,35,Moslem,2,245
+From: 05 Dec 2006,To: 05 Dec 2006,Sudan,FY 2007,35,Protestant,2,245
+From: 05 Dec 2006,To: 05 Dec 2006,Sudan,FY 2007,35,Seventh Day Adventist,2,245
+From: 05 Dec 2006,To: 05 Dec 2006,Ukraine,FY 2007,30,Baptist,3,245
+From: 05 Dec 2006,To: 05 Dec 2006,Ukraine,FY 2007,30,Pentecostalist,24,245
+From: 05 Dec 2006,To: 05 Dec 2006,Ukraine,FY 2007,30,Uniate,3,245
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Dec 2006,To: 05 Dec 2006,Bahai,FY 2007,1,Iran,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Baptist,FY 2007,4,Liberia,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Baptist,FY 2007,4,Ukraine,3,245
+From: 05 Dec 2006,To: 05 Dec 2006,Catholic,FY 2007,9,Liberia,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Catholic,FY 2007,9,Sudan,8,245
+From: 05 Dec 2006,To: 05 Dec 2006,Christian,FY 2007,49,Iran,20,245
+From: 05 Dec 2006,To: 05 Dec 2006,Christian,FY 2007,49,Liberia,8,245
+From: 05 Dec 2006,To: 05 Dec 2006,Christian,FY 2007,49,Sudan,21,245
+From: 05 Dec 2006,To: 05 Dec 2006,Lutheran,FY 2007,7,Liberia,7,245
+From: 05 Dec 2006,To: 05 Dec 2006,Methodist,FY 2007,1,Liberia,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Moslem,FY 2007,120,Iraq,1,245
+From: 05 Dec 2006,To: 05 Dec 2006,Moslem,FY 2007,120,Somalia,117,245
+From: 05 Dec 2006,To: 05 Dec 2006,Moslem,FY 2007,120,Sudan,2,245
+From: 05 Dec 2006,To: 05 Dec 2006,Moslem Shiite,FY 2007,4,Iraq,4,245
+From: 05 Dec 2006,To: 05 Dec 2006,Pentecostalist,FY 2007,34,Liberia,10,245
+From: 05 Dec 2006,To: 05 Dec 2006,Pentecostalist,FY 2007,34,Ukraine,24,245
+From: 05 Dec 2006,To: 05 Dec 2006,Protestant,FY 2007,2,Sudan,2,245
+From: 05 Dec 2006,To: 05 Dec 2006,Sabeans-Mandean,FY 2007,9,Iran,9,245
+From: 05 Dec 2006,To: 05 Dec 2006,Seventh Day Adventist,FY 2007,2,Sudan,2,245
+From: 05 Dec 2006,To: 05 Dec 2006,Uniate,FY 2007,3,Ukraine,3,245
+

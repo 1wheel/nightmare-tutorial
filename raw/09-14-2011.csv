@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Sep 2011,To: 14 Sep 2011,Afghanistan,FY 2011,8,Moslem Shiite,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Afghanistan,FY 2011,8,Moslem Suni,7,353
+From: 14 Sep 2011,To: 14 Sep 2011,Bhutan,FY 2011,134,Buddhist,29,353
+From: 14 Sep 2011,To: 14 Sep 2011,Bhutan,FY 2011,134,Christian,23,353
+From: 14 Sep 2011,To: 14 Sep 2011,Bhutan,FY 2011,134,Hindu,68,353
+From: 14 Sep 2011,To: 14 Sep 2011,Bhutan,FY 2011,134,Kirat,14,353
+From: 14 Sep 2011,To: 14 Sep 2011,Burma,FY 2011,82,Baptist,5,353
+From: 14 Sep 2011,To: 14 Sep 2011,Burma,FY 2011,82,Buddhist,11,353
+From: 14 Sep 2011,To: 14 Sep 2011,Burma,FY 2011,82,Catholic,7,353
+From: 14 Sep 2011,To: 14 Sep 2011,Burma,FY 2011,82,Christian,43,353
+From: 14 Sep 2011,To: 14 Sep 2011,Burma,FY 2011,82,Moslem,16,353
+From: 14 Sep 2011,To: 14 Sep 2011,Eritrea,FY 2011,11,Catholic,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Eritrea,FY 2011,11,Moslem,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Eritrea,FY 2011,11,Orthodox,9,353
+From: 14 Sep 2011,To: 14 Sep 2011,Gabon,FY 2011,1,Christian,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iran,FY 2011,19,Christian,12,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iran,FY 2011,19,Jewish,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iran,FY 2011,19,Sabeans-Mandean,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iran,FY 2011,19,Zoroastrian,5,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iraq,FY 2011,50,Catholic,3,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iraq,FY 2011,50,Christian,11,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iraq,FY 2011,50,Moslem Shiite,23,353
+From: 14 Sep 2011,To: 14 Sep 2011,Iraq,FY 2011,50,Moslem Suni,13,353
+From: 14 Sep 2011,To: 14 Sep 2011,Russia,FY 2011,10,Baptist,4,353
+From: 14 Sep 2011,To: 14 Sep 2011,Russia,FY 2011,10,Pentecostalist,6,353
+From: 14 Sep 2011,To: 14 Sep 2011,Rwanda,FY 2011,1,Jehovah Witness,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Somalia,FY 2011,30,Moslem,29,353
+From: 14 Sep 2011,To: 14 Sep 2011,Somalia,FY 2011,30,Moslem Suni,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Sudan,FY 2011,7,Christian,7,353
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Sep 2011,To: 14 Sep 2011,Baptist,FY 2011,9,Burma,5,353
+From: 14 Sep 2011,To: 14 Sep 2011,Baptist,FY 2011,9,Russia,4,353
+From: 14 Sep 2011,To: 14 Sep 2011,Buddhist,FY 2011,40,Bhutan,29,353
+From: 14 Sep 2011,To: 14 Sep 2011,Buddhist,FY 2011,40,Burma,11,353
+From: 14 Sep 2011,To: 14 Sep 2011,Catholic,FY 2011,11,Burma,7,353
+From: 14 Sep 2011,To: 14 Sep 2011,Catholic,FY 2011,11,Eritrea,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Catholic,FY 2011,11,Iraq,3,353
+From: 14 Sep 2011,To: 14 Sep 2011,Christian,FY 2011,97,Bhutan,23,353
+From: 14 Sep 2011,To: 14 Sep 2011,Christian,FY 2011,97,Burma,43,353
+From: 14 Sep 2011,To: 14 Sep 2011,Christian,FY 2011,97,Gabon,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Christian,FY 2011,97,Iran,12,353
+From: 14 Sep 2011,To: 14 Sep 2011,Christian,FY 2011,97,Iraq,11,353
+From: 14 Sep 2011,To: 14 Sep 2011,Christian,FY 2011,97,Sudan,7,353
+From: 14 Sep 2011,To: 14 Sep 2011,Hindu,FY 2011,68,Bhutan,68,353
+From: 14 Sep 2011,To: 14 Sep 2011,Jehovah Witness,FY 2011,1,Rwanda,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Jewish,FY 2011,1,Iran,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Kirat,FY 2011,14,Bhutan,14,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem,FY 2011,46,Burma,16,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem,FY 2011,46,Eritrea,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem,FY 2011,46,Somalia,29,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem Shiite,FY 2011,24,Afghanistan,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem Shiite,FY 2011,24,Iraq,23,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem Suni,FY 2011,21,Afghanistan,7,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem Suni,FY 2011,21,Iraq,13,353
+From: 14 Sep 2011,To: 14 Sep 2011,Moslem Suni,FY 2011,21,Somalia,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Orthodox,FY 2011,9,Eritrea,9,353
+From: 14 Sep 2011,To: 14 Sep 2011,Pentecostalist,FY 2011,6,Russia,6,353
+From: 14 Sep 2011,To: 14 Sep 2011,Sabeans-Mandean,FY 2011,1,Iran,1,353
+From: 14 Sep 2011,To: 14 Sep 2011,Zoroastrian,FY 2011,5,Iran,5,353
+

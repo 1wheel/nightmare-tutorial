@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Jul 2008,To: 14 Jul 2008,Azerbaijan,FY 2008,1,Jewish,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Belarus,FY 2008,7,Jewish,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Belarus,FY 2008,7,Pentecostalist,6,256
+From: 14 Jul 2008,To: 14 Jul 2008,Bhutan,FY 2008,74,Christian,4,256
+From: 14 Jul 2008,To: 14 Jul 2008,Bhutan,FY 2008,74,Hindu,65,256
+From: 14 Jul 2008,To: 14 Jul 2008,Bhutan,FY 2008,74,Kirat,5,256
+From: 14 Jul 2008,To: 14 Jul 2008,Burma,FY 2008,35,Buddhist,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Burma,FY 2008,35,Christian,34,256
+From: 14 Jul 2008,To: 14 Jul 2008,Eritrea,FY 2008,1,Jehovah Witness,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Georgia,FY 2008,5,Pentecostalist,5,256
+From: 14 Jul 2008,To: 14 Jul 2008,Iraq,FY 2008,115,Chaldean,12,256
+From: 14 Jul 2008,To: 14 Jul 2008,Iraq,FY 2008,115,Christian,38,256
+From: 14 Jul 2008,To: 14 Jul 2008,Iraq,FY 2008,115,Moslem Shiite,26,256
+From: 14 Jul 2008,To: 14 Jul 2008,Iraq,FY 2008,115,Moslem Suni,35,256
+From: 14 Jul 2008,To: 14 Jul 2008,Iraq,FY 2008,115,Sabeans-Mandean,4,256
+From: 14 Jul 2008,To: 14 Jul 2008,Russia,FY 2008,7,Pentecostalist,7,256
+From: 14 Jul 2008,To: 14 Jul 2008,Somalia,FY 2008,7,Moslem,7,256
+From: 14 Jul 2008,To: 14 Jul 2008,Sudan,FY 2008,4,Moslem,4,256
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Jul 2008,To: 14 Jul 2008,Buddhist,FY 2008,1,Burma,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Chaldean,FY 2008,12,Iraq,12,256
+From: 14 Jul 2008,To: 14 Jul 2008,Christian,FY 2008,76,Bhutan,4,256
+From: 14 Jul 2008,To: 14 Jul 2008,Christian,FY 2008,76,Burma,34,256
+From: 14 Jul 2008,To: 14 Jul 2008,Christian,FY 2008,76,Iraq,38,256
+From: 14 Jul 2008,To: 14 Jul 2008,Hindu,FY 2008,65,Bhutan,65,256
+From: 14 Jul 2008,To: 14 Jul 2008,Jehovah Witness,FY 2008,1,Eritrea,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Jewish,FY 2008,2,Azerbaijan,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Jewish,FY 2008,2,Belarus,1,256
+From: 14 Jul 2008,To: 14 Jul 2008,Kirat,FY 2008,5,Bhutan,5,256
+From: 14 Jul 2008,To: 14 Jul 2008,Moslem,FY 2008,11,Somalia,7,256
+From: 14 Jul 2008,To: 14 Jul 2008,Moslem,FY 2008,11,Sudan,4,256
+From: 14 Jul 2008,To: 14 Jul 2008,Moslem Shiite,FY 2008,26,Iraq,26,256
+From: 14 Jul 2008,To: 14 Jul 2008,Moslem Suni,FY 2008,35,Iraq,35,256
+From: 14 Jul 2008,To: 14 Jul 2008,Pentecostalist,FY 2008,18,Belarus,6,256
+From: 14 Jul 2008,To: 14 Jul 2008,Pentecostalist,FY 2008,18,Georgia,5,256
+From: 14 Jul 2008,To: 14 Jul 2008,Pentecostalist,FY 2008,18,Russia,7,256
+From: 14 Jul 2008,To: 14 Jul 2008,Sabeans-Mandean,FY 2008,4,Iraq,4,256
+

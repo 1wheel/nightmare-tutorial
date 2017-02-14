@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Dec 2008,To: 01 Dec 2008,Afghanistan,FY 2009,2,Moslem Suni,2,292
+From: 01 Dec 2008,To: 01 Dec 2008,Bhutan,FY 2009,37,Buddhist,9,292
+From: 01 Dec 2008,To: 01 Dec 2008,Bhutan,FY 2009,37,Hindu,28,292
+From: 01 Dec 2008,To: 01 Dec 2008,Burma,FY 2009,8,Christian,8,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iran,FY 2009,31,Bahai,31,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Catholic,34,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Chaldean,2,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Christian,48,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Moslem Shiite,36,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Moslem Suni,61,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Orthodox,4,292
+From: 01 Dec 2008,To: 01 Dec 2008,Iraq,FY 2009,203,Sabeans-Mandean,18,292
+From: 01 Dec 2008,To: 01 Dec 2008,Russia,FY 2009,4,Baptist,4,292
+From: 01 Dec 2008,To: 01 Dec 2008,Somalia,FY 2009,1,Moslem Suni,1,292
+From: 01 Dec 2008,To: 01 Dec 2008,Sudan,FY 2009,1,Moslem Suni,1,292
+From: 01 Dec 2008,To: 01 Dec 2008,Ukraine,FY 2009,5,Baptist,1,292
+From: 01 Dec 2008,To: 01 Dec 2008,Ukraine,FY 2009,5,Jehovah Witness,4,292
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Dec 2008,To: 01 Dec 2008,Bahai,FY 2009,31,Iran,31,292
+From: 01 Dec 2008,To: 01 Dec 2008,Baptist,FY 2009,5,Russia,4,292
+From: 01 Dec 2008,To: 01 Dec 2008,Baptist,FY 2009,5,Ukraine,1,292
+From: 01 Dec 2008,To: 01 Dec 2008,Buddhist,FY 2009,9,Bhutan,9,292
+From: 01 Dec 2008,To: 01 Dec 2008,Catholic,FY 2009,34,Iraq,34,292
+From: 01 Dec 2008,To: 01 Dec 2008,Chaldean,FY 2009,2,Iraq,2,292
+From: 01 Dec 2008,To: 01 Dec 2008,Christian,FY 2009,56,Burma,8,292
+From: 01 Dec 2008,To: 01 Dec 2008,Christian,FY 2009,56,Iraq,48,292
+From: 01 Dec 2008,To: 01 Dec 2008,Hindu,FY 2009,28,Bhutan,28,292
+From: 01 Dec 2008,To: 01 Dec 2008,Jehovah Witness,FY 2009,4,Ukraine,4,292
+From: 01 Dec 2008,To: 01 Dec 2008,Moslem Shiite,FY 2009,36,Iraq,36,292
+From: 01 Dec 2008,To: 01 Dec 2008,Moslem Suni,FY 2009,65,Afghanistan,2,292
+From: 01 Dec 2008,To: 01 Dec 2008,Moslem Suni,FY 2009,65,Iraq,61,292
+From: 01 Dec 2008,To: 01 Dec 2008,Moslem Suni,FY 2009,65,Somalia,1,292
+From: 01 Dec 2008,To: 01 Dec 2008,Moslem Suni,FY 2009,65,Sudan,1,292
+From: 01 Dec 2008,To: 01 Dec 2008,Orthodox,FY 2009,4,Iraq,4,292
+From: 01 Dec 2008,To: 01 Dec 2008,Sabeans-Mandean,FY 2009,18,Iraq,18,292
+

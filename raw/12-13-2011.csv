@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Dec 2011,To: 13 Dec 2011,Bhutan,FY 2012,99,Buddhist,41,392
+From: 13 Dec 2011,To: 13 Dec 2011,Bhutan,FY 2012,99,Christian,5,392
+From: 13 Dec 2011,To: 13 Dec 2011,Bhutan,FY 2012,99,Hindu,46,392
+From: 13 Dec 2011,To: 13 Dec 2011,Bhutan,FY 2012,99,Kirat,7,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burma,FY 2012,156,Baptist,6,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burma,FY 2012,156,Buddhist,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burma,FY 2012,156,Catholic,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burma,FY 2012,156,Christian,142,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burma,FY 2012,156,Moslem,5,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burma,FY 2012,156,Seventh Day Adventist,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Burundi,FY 2012,1,Moslem,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Central African Republic,FY 2012,2,Protestant,2,392
+From: 13 Dec 2011,To: 13 Dec 2011,Cuba,FY 2012,11,Catholic,4,392
+From: 13 Dec 2011,To: 13 Dec 2011,Cuba,FY 2012,11,Jehovah Witness,4,392
+From: 13 Dec 2011,To: 13 Dec 2011,Cuba,FY 2012,11,No Religion,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Dem. Rep. Congo,FY 2012,19,Catholic,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Dem. Rep. Congo,FY 2012,19,Jehovah Witness,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Dem. Rep. Congo,FY 2012,19,Moslem,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Dem. Rep. Congo,FY 2012,19,Pentecostalist,10,392
+From: 13 Dec 2011,To: 13 Dec 2011,Eritrea,FY 2012,15,Catholic,2,392
+From: 13 Dec 2011,To: 13 Dec 2011,Eritrea,FY 2012,15,Christian,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Eritrea,FY 2012,15,Moslem,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Eritrea,FY 2012,15,Orthodox,8,392
+From: 13 Dec 2011,To: 13 Dec 2011,Eritrea,FY 2012,15,Protestant,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Ethiopia,FY 2012,9,Christian,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Ethiopia,FY 2012,9,Moslem,5,392
+From: 13 Dec 2011,To: 13 Dec 2011,Ethiopia,FY 2012,9,Orthodox,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Iran,FY 2012,20,Bahai,7,392
+From: 13 Dec 2011,To: 13 Dec 2011,Iran,FY 2012,20,Christian,6,392
+From: 13 Dec 2011,To: 13 Dec 2011,Iran,FY 2012,20,Zoroastrian,7,392
+From: 13 Dec 2011,To: 13 Dec 2011,Iraq,FY 2012,17,Catholic,10,392
+From: 13 Dec 2011,To: 13 Dec 2011,Iraq,FY 2012,17,Moslem,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Iraq,FY 2012,17,Moslem Suni,4,392
+From: 13 Dec 2011,To: 13 Dec 2011,Pakistan,FY 2012,9,Ahmadiyya,9,392
+From: 13 Dec 2011,To: 13 Dec 2011,Somalia,FY 2012,27,Moslem,26,392
+From: 13 Dec 2011,To: 13 Dec 2011,Somalia,FY 2012,27,Moslem Suni,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Ukraine,FY 2012,6,Uniate,6,392
+From: 13 Dec 2011,To: 13 Dec 2011,Zimbabwe,FY 2012,1,Catholic,1,392
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Dec 2011,To: 13 Dec 2011,Ahmadiyya,FY 2012,9,Pakistan,9,392
+From: 13 Dec 2011,To: 13 Dec 2011,Bahai,FY 2012,7,Iran,7,392
+From: 13 Dec 2011,To: 13 Dec 2011,Baptist,FY 2012,6,Burma,6,392
+From: 13 Dec 2011,To: 13 Dec 2011,Buddhist,FY 2012,42,Bhutan,41,392
+From: 13 Dec 2011,To: 13 Dec 2011,Buddhist,FY 2012,42,Burma,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Catholic,FY 2012,21,Burma,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Catholic,FY 2012,21,Cuba,4,392
+From: 13 Dec 2011,To: 13 Dec 2011,Catholic,FY 2012,21,Dem. Rep. Congo,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Catholic,FY 2012,21,Eritrea,2,392
+From: 13 Dec 2011,To: 13 Dec 2011,Catholic,FY 2012,21,Iraq,10,392
+From: 13 Dec 2011,To: 13 Dec 2011,Catholic,FY 2012,21,Zimbabwe,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Christian,FY 2012,155,Bhutan,5,392
+From: 13 Dec 2011,To: 13 Dec 2011,Christian,FY 2012,155,Burma,142,392
+From: 13 Dec 2011,To: 13 Dec 2011,Christian,FY 2012,155,Eritrea,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Christian,FY 2012,155,Ethiopia,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Christian,FY 2012,155,Iran,6,392
+From: 13 Dec 2011,To: 13 Dec 2011,Hindu,FY 2012,46,Bhutan,46,392
+From: 13 Dec 2011,To: 13 Dec 2011,Jehovah Witness,FY 2012,7,Cuba,4,392
+From: 13 Dec 2011,To: 13 Dec 2011,Jehovah Witness,FY 2012,7,Dem. Rep. Congo,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Kirat,FY 2012,7,Bhutan,7,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Burma,5,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Burundi,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Dem. Rep. Congo,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Eritrea,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Ethiopia,5,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Iraq,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem,FY 2012,46,Somalia,26,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem Suni,FY 2012,5,Iraq,4,392
+From: 13 Dec 2011,To: 13 Dec 2011,Moslem Suni,FY 2012,5,Somalia,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,No Religion,FY 2012,3,Cuba,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Orthodox,FY 2012,11,Eritrea,8,392
+From: 13 Dec 2011,To: 13 Dec 2011,Orthodox,FY 2012,11,Ethiopia,3,392
+From: 13 Dec 2011,To: 13 Dec 2011,Pentecostalist,FY 2012,10,Dem. Rep. Congo,10,392
+From: 13 Dec 2011,To: 13 Dec 2011,Protestant,FY 2012,3,Central African Republic,2,392
+From: 13 Dec 2011,To: 13 Dec 2011,Protestant,FY 2012,3,Eritrea,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Seventh Day Adventist,FY 2012,1,Burma,1,392
+From: 13 Dec 2011,To: 13 Dec 2011,Uniate,FY 2012,6,Ukraine,6,392
+From: 13 Dec 2011,To: 13 Dec 2011,Zoroastrian,FY 2012,7,Iran,7,392
+

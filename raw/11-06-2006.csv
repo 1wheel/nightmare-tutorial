@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 06 Nov 2006,To: 06 Nov 2006,Afghanistan,FY 2007,6,Moslem Suni,6,234
+From: 06 Nov 2006,To: 06 Nov 2006,Ethiopia,FY 2007,10,Moslem,10,234
+From: 06 Nov 2006,To: 06 Nov 2006,Iran,FY 2007,100,Bahai,35,234
+From: 06 Nov 2006,To: 06 Nov 2006,Iran,FY 2007,100,Christian,50,234
+From: 06 Nov 2006,To: 06 Nov 2006,Iran,FY 2007,100,Sabeans-Mandean,8,234
+From: 06 Nov 2006,To: 06 Nov 2006,Iran,FY 2007,100,Zoroastrian,7,234
+From: 06 Nov 2006,To: 06 Nov 2006,Liberia,FY 2007,7,Catholic,7,234
+From: 06 Nov 2006,To: 06 Nov 2006,Russia,FY 2007,31,Moslem,31,234
+From: 06 Nov 2006,To: 06 Nov 2006,Somalia,FY 2007,47,Moslem,47,234
+From: 06 Nov 2006,To: 06 Nov 2006,Sudan,FY 2007,13,Catholic,5,234
+From: 06 Nov 2006,To: 06 Nov 2006,Sudan,FY 2007,13,Evangelical Christian,3,234
+From: 06 Nov 2006,To: 06 Nov 2006,Sudan,FY 2007,13,Moslem,5,234
+From: 06 Nov 2006,To: 06 Nov 2006,Uzbekistan,FY 2007,20,Baptist,3,234
+From: 06 Nov 2006,To: 06 Nov 2006,Uzbekistan,FY 2007,20,Jewish,10,234
+From: 06 Nov 2006,To: 06 Nov 2006,Uzbekistan,FY 2007,20,Moslem,2,234
+From: 06 Nov 2006,To: 06 Nov 2006,Uzbekistan,FY 2007,20,Seventh Day Adventist,5,234
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 06 Nov 2006,To: 06 Nov 2006,Bahai,FY 2007,35,Iran,35,234
+From: 06 Nov 2006,To: 06 Nov 2006,Baptist,FY 2007,3,Uzbekistan,3,234
+From: 06 Nov 2006,To: 06 Nov 2006,Catholic,FY 2007,12,Liberia,7,234
+From: 06 Nov 2006,To: 06 Nov 2006,Catholic,FY 2007,12,Sudan,5,234
+From: 06 Nov 2006,To: 06 Nov 2006,Christian,FY 2007,50,Iran,50,234
+From: 06 Nov 2006,To: 06 Nov 2006,Evangelical Christian,FY 2007,3,Sudan,3,234
+From: 06 Nov 2006,To: 06 Nov 2006,Jewish,FY 2007,10,Uzbekistan,10,234
+From: 06 Nov 2006,To: 06 Nov 2006,Moslem,FY 2007,95,Ethiopia,10,234
+From: 06 Nov 2006,To: 06 Nov 2006,Moslem,FY 2007,95,Russia,31,234
+From: 06 Nov 2006,To: 06 Nov 2006,Moslem,FY 2007,95,Somalia,47,234
+From: 06 Nov 2006,To: 06 Nov 2006,Moslem,FY 2007,95,Sudan,5,234
+From: 06 Nov 2006,To: 06 Nov 2006,Moslem,FY 2007,95,Uzbekistan,2,234
+From: 06 Nov 2006,To: 06 Nov 2006,Moslem Suni,FY 2007,6,Afghanistan,6,234
+From: 06 Nov 2006,To: 06 Nov 2006,Sabeans-Mandean,FY 2007,8,Iran,8,234
+From: 06 Nov 2006,To: 06 Nov 2006,Seventh Day Adventist,FY 2007,5,Uzbekistan,5,234
+From: 06 Nov 2006,To: 06 Nov 2006,Zoroastrian,FY 2007,7,Iran,7,234
+

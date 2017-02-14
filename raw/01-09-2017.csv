@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 09 Jan 2017,To: 09 Jan 2017,Burma,FY 2017,4,Christian,4,60
+From: 09 Jan 2017,To: 09 Jan 2017,Iran,FY 2017,14,Christian,7,60
+From: 09 Jan 2017,To: 09 Jan 2017,Iran,FY 2017,14,Sabeans-Mandean,7,60
+From: 09 Jan 2017,To: 09 Jan 2017,Iraq,FY 2017,42,Christian,1,60
+From: 09 Jan 2017,To: 09 Jan 2017,Iraq,FY 2017,42,Moslem,2,60
+From: 09 Jan 2017,To: 09 Jan 2017,Iraq,FY 2017,42,Moslem Shiite,33,60
+From: 09 Jan 2017,To: 09 Jan 2017,Iraq,FY 2017,42,Moslem Suni,6,60
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 09 Jan 2017,To: 09 Jan 2017,Christian,FY 2017,12,Burma,4,60
+From: 09 Jan 2017,To: 09 Jan 2017,Christian,FY 2017,12,Iran,7,60
+From: 09 Jan 2017,To: 09 Jan 2017,Christian,FY 2017,12,Iraq,1,60
+From: 09 Jan 2017,To: 09 Jan 2017,Moslem,FY 2017,2,Iraq,2,60
+From: 09 Jan 2017,To: 09 Jan 2017,Moslem Shiite,FY 2017,33,Iraq,33,60
+From: 09 Jan 2017,To: 09 Jan 2017,Moslem Suni,FY 2017,6,Iraq,6,60
+From: 09 Jan 2017,To: 09 Jan 2017,Sabeans-Mandean,FY 2017,7,Iran,7,60
+

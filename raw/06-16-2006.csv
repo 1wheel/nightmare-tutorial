@@ -1,0 +1,19 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Jun 2006,To: 16 Jun 2006,Dem. Rep. Congo,FY 2006,1,Catholic,1,59
+From: 16 Jun 2006,To: 16 Jun 2006,Iran,FY 2006,34,Bahai,34,59
+From: 16 Jun 2006,To: 16 Jun 2006,Somalia,FY 2006,4,Moslem,4,59
+From: 16 Jun 2006,To: 16 Jun 2006,Sudan,FY 2006,1,Christian,1,59
+From: 16 Jun 2006,To: 16 Jun 2006,Ukraine,FY 2006,19,Jewish,2,59
+From: 16 Jun 2006,To: 16 Jun 2006,Ukraine,FY 2006,19,Pentecostalist,17,59
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Jun 2006,To: 16 Jun 2006,Bahai,FY 2006,34,Iran,34,59
+From: 16 Jun 2006,To: 16 Jun 2006,Catholic,FY 2006,1,Dem. Rep. Congo,1,59
+From: 16 Jun 2006,To: 16 Jun 2006,Christian,FY 2006,1,Sudan,1,59
+From: 16 Jun 2006,To: 16 Jun 2006,Jewish,FY 2006,2,Ukraine,2,59
+From: 16 Jun 2006,To: 16 Jun 2006,Moslem,FY 2006,4,Somalia,4,59
+From: 16 Jun 2006,To: 16 Jun 2006,Pentecostalist,FY 2006,17,Ukraine,17,59
+

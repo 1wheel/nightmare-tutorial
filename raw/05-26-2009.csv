@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 26 May 2009,To: 26 May 2009,Bhutan,FY 2009,61,Hindu,57,717
+From: 26 May 2009,To: 26 May 2009,Bhutan,FY 2009,61,Kirat,4,717
+From: 26 May 2009,To: 26 May 2009,Burma,FY 2009,199,Animist,42,717
+From: 26 May 2009,To: 26 May 2009,Burma,FY 2009,199,Baptist,5,717
+From: 26 May 2009,To: 26 May 2009,Burma,FY 2009,199,Buddhist,25,717
+From: 26 May 2009,To: 26 May 2009,Burma,FY 2009,199,Catholic,17,717
+From: 26 May 2009,To: 26 May 2009,Burma,FY 2009,199,Christian,99,717
+From: 26 May 2009,To: 26 May 2009,Burma,FY 2009,199,Moslem,11,717
+From: 26 May 2009,To: 26 May 2009,Dem. Rep. Congo,FY 2009,6,Christian,4,717
+From: 26 May 2009,To: 26 May 2009,Dem. Rep. Congo,FY 2009,6,Pentecostalist,2,717
+From: 26 May 2009,To: 26 May 2009,Iran,FY 2009,71,Bahai,3,717
+From: 26 May 2009,To: 26 May 2009,Iran,FY 2009,71,Christian,58,717
+From: 26 May 2009,To: 26 May 2009,Iran,FY 2009,71,Sabeans-Mandean,3,717
+From: 26 May 2009,To: 26 May 2009,Iran,FY 2009,71,Zoroastrian,7,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Catholic,56,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Chaldean,1,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Christian,99,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Moslem Shiite,63,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Moslem Suni,87,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Orthodox,13,717
+From: 26 May 2009,To: 26 May 2009,Iraq,FY 2009,328,Sabeans-Mandean,9,717
+From: 26 May 2009,To: 26 May 2009,Russia,FY 2009,4,Moslem Suni,4,717
+From: 26 May 2009,To: 26 May 2009,Somalia,FY 2009,31,Moslem,22,717
+From: 26 May 2009,To: 26 May 2009,Somalia,FY 2009,31,Moslem Suni,9,717
+From: 26 May 2009,To: 26 May 2009,Sudan,FY 2009,1,Moslem Suni,1,717
+From: 26 May 2009,To: 26 May 2009,Syria,FY 2009,6,Moslem,6,717
+From: 26 May 2009,To: 26 May 2009,Uzbekistan,FY 2009,10,Moslem,9,717
+From: 26 May 2009,To: 26 May 2009,Uzbekistan,FY 2009,10,Moslem Suni,1,717
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 26 May 2009,To: 26 May 2009,Animist,FY 2009,42,Burma,42,717
+From: 26 May 2009,To: 26 May 2009,Bahai,FY 2009,3,Iran,3,717
+From: 26 May 2009,To: 26 May 2009,Baptist,FY 2009,5,Burma,5,717
+From: 26 May 2009,To: 26 May 2009,Buddhist,FY 2009,25,Burma,25,717
+From: 26 May 2009,To: 26 May 2009,Catholic,FY 2009,73,Burma,17,717
+From: 26 May 2009,To: 26 May 2009,Catholic,FY 2009,73,Iraq,56,717
+From: 26 May 2009,To: 26 May 2009,Chaldean,FY 2009,1,Iraq,1,717
+From: 26 May 2009,To: 26 May 2009,Christian,FY 2009,260,Burma,99,717
+From: 26 May 2009,To: 26 May 2009,Christian,FY 2009,260,Dem. Rep. Congo,4,717
+From: 26 May 2009,To: 26 May 2009,Christian,FY 2009,260,Iran,58,717
+From: 26 May 2009,To: 26 May 2009,Christian,FY 2009,260,Iraq,99,717
+From: 26 May 2009,To: 26 May 2009,Hindu,FY 2009,57,Bhutan,57,717
+From: 26 May 2009,To: 26 May 2009,Kirat,FY 2009,4,Bhutan,4,717
+From: 26 May 2009,To: 26 May 2009,Moslem,FY 2009,48,Burma,11,717
+From: 26 May 2009,To: 26 May 2009,Moslem,FY 2009,48,Somalia,22,717
+From: 26 May 2009,To: 26 May 2009,Moslem,FY 2009,48,Syria,6,717
+From: 26 May 2009,To: 26 May 2009,Moslem,FY 2009,48,Uzbekistan,9,717
+From: 26 May 2009,To: 26 May 2009,Moslem Shiite,FY 2009,63,Iraq,63,717
+From: 26 May 2009,To: 26 May 2009,Moslem Suni,FY 2009,102,Iraq,87,717
+From: 26 May 2009,To: 26 May 2009,Moslem Suni,FY 2009,102,Russia,4,717
+From: 26 May 2009,To: 26 May 2009,Moslem Suni,FY 2009,102,Somalia,9,717
+From: 26 May 2009,To: 26 May 2009,Moslem Suni,FY 2009,102,Sudan,1,717
+From: 26 May 2009,To: 26 May 2009,Moslem Suni,FY 2009,102,Uzbekistan,1,717
+From: 26 May 2009,To: 26 May 2009,Orthodox,FY 2009,13,Iraq,13,717
+From: 26 May 2009,To: 26 May 2009,Pentecostalist,FY 2009,2,Dem. Rep. Congo,2,717
+From: 26 May 2009,To: 26 May 2009,Sabeans-Mandean,FY 2009,12,Iran,3,717
+From: 26 May 2009,To: 26 May 2009,Sabeans-Mandean,FY 2009,12,Iraq,9,717
+From: 26 May 2009,To: 26 May 2009,Zoroastrian,FY 2009,7,Iran,7,717
+

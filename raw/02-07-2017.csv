@@ -1,0 +1,45 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Feb 2017,To: 07 Feb 2017,Eritrea,FY 2017,3,Moslem,3,199
+From: 07 Feb 2017,To: 07 Feb 2017,Ethiopia,FY 2017,1,Moslem,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Iraq,FY 2017,45,Chaldean,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Iraq,FY 2017,45,Christian,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Iraq,FY 2017,45,Moslem,3,199
+From: 07 Feb 2017,To: 07 Feb 2017,Iraq,FY 2017,45,Moslem Shiite,19,199
+From: 07 Feb 2017,To: 07 Feb 2017,Iraq,FY 2017,45,Moslem Suni,20,199
+From: 07 Feb 2017,To: 07 Feb 2017,Iraq,FY 2017,45,Sabeans-Mandean,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Somalia,FY 2017,12,Moslem,12,199
+From: 07 Feb 2017,To: 07 Feb 2017,Sudan,FY 2017,8,Christian,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Sudan,FY 2017,8,Moslem,6,199
+From: 07 Feb 2017,To: 07 Feb 2017,Sudan,FY 2017,8,Moslem Suni,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Syria,FY 2017,86,Moslem,4,199
+From: 07 Feb 2017,To: 07 Feb 2017,Syria,FY 2017,86,Moslem Suni,82,199
+From: 07 Feb 2017,To: 07 Feb 2017,Ukraine,FY 2017,40,Baptist,2,199
+From: 07 Feb 2017,To: 07 Feb 2017,Ukraine,FY 2017,40,Evangelical Christian,3,199
+From: 07 Feb 2017,To: 07 Feb 2017,Ukraine,FY 2017,40,Pentecostalist,29,199
+From: 07 Feb 2017,To: 07 Feb 2017,Ukraine,FY 2017,40,Uniate,6,199
+From: 07 Feb 2017,To: 07 Feb 2017,Vietnam,FY 2017,4,No Religion,4,199
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Feb 2017,To: 07 Feb 2017,Baptist,FY 2017,2,Ukraine,2,199
+From: 07 Feb 2017,To: 07 Feb 2017,Chaldean,FY 2017,1,Iraq,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Christian,FY 2017,2,Iraq,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Christian,FY 2017,2,Sudan,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Evangelical Christian,FY 2017,3,Ukraine,3,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem,FY 2017,29,Eritrea,3,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem,FY 2017,29,Ethiopia,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem,FY 2017,29,Iraq,3,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem,FY 2017,29,Somalia,12,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem,FY 2017,29,Sudan,6,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem,FY 2017,29,Syria,4,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem Shiite,FY 2017,19,Iraq,19,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem Suni,FY 2017,103,Iraq,20,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem Suni,FY 2017,103,Sudan,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Moslem Suni,FY 2017,103,Syria,82,199
+From: 07 Feb 2017,To: 07 Feb 2017,No Religion,FY 2017,4,Vietnam,4,199
+From: 07 Feb 2017,To: 07 Feb 2017,Pentecostalist,FY 2017,29,Ukraine,29,199
+From: 07 Feb 2017,To: 07 Feb 2017,Sabeans-Mandean,FY 2017,1,Iraq,1,199
+From: 07 Feb 2017,To: 07 Feb 2017,Uniate,FY 2017,6,Ukraine,6,199
+

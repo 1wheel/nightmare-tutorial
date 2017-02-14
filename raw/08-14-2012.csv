@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Aug 2012,To: 14 Aug 2012,Bhutan,FY 2012,182,Buddhist,79,498
+From: 14 Aug 2012,To: 14 Aug 2012,Bhutan,FY 2012,182,Christian,26,498
+From: 14 Aug 2012,To: 14 Aug 2012,Bhutan,FY 2012,182,Hindu,65,498
+From: 14 Aug 2012,To: 14 Aug 2012,Bhutan,FY 2012,182,Kirat,12,498
+From: 14 Aug 2012,To: 14 Aug 2012,Burma,FY 2012,107,Baptist,17,498
+From: 14 Aug 2012,To: 14 Aug 2012,Burma,FY 2012,107,Buddhist,6,498
+From: 14 Aug 2012,To: 14 Aug 2012,Burma,FY 2012,107,Catholic,4,498
+From: 14 Aug 2012,To: 14 Aug 2012,Burma,FY 2012,107,Christian,76,498
+From: 14 Aug 2012,To: 14 Aug 2012,Burma,FY 2012,107,Moslem,4,498
+From: 14 Aug 2012,To: 14 Aug 2012,China,FY 2012,5,Moslem,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Congo,FY 2012,1,Catholic,1,498
+From: 14 Aug 2012,To: 14 Aug 2012,Iraq,FY 2012,173,Catholic,57,498
+From: 14 Aug 2012,To: 14 Aug 2012,Iraq,FY 2012,173,Christian,23,498
+From: 14 Aug 2012,To: 14 Aug 2012,Iraq,FY 2012,173,Moslem Shiite,41,498
+From: 14 Aug 2012,To: 14 Aug 2012,Iraq,FY 2012,173,Moslem Suni,44,498
+From: 14 Aug 2012,To: 14 Aug 2012,Iraq,FY 2012,173,Orthodox,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Iraq,FY 2012,173,Sabeans-Mandean,3,498
+From: 14 Aug 2012,To: 14 Aug 2012,Kyrgyzstan,FY 2012,9,Pentecostalist,8,498
+From: 14 Aug 2012,To: 14 Aug 2012,Kyrgyzstan,FY 2012,9,Seventh Day Adventist,1,498
+From: 14 Aug 2012,To: 14 Aug 2012,Palestine,FY 2012,5,Moslem Suni,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Somalia,FY 2012,10,Moslem,10,498
+From: 14 Aug 2012,To: 14 Aug 2012,Sudan,FY 2012,1,Moslem,1,498
+From: 14 Aug 2012,To: 14 Aug 2012,Uzbekistan,FY 2012,5,Moslem,5,498
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Aug 2012,To: 14 Aug 2012,Baptist,FY 2012,17,Burma,17,498
+From: 14 Aug 2012,To: 14 Aug 2012,Buddhist,FY 2012,85,Bhutan,79,498
+From: 14 Aug 2012,To: 14 Aug 2012,Buddhist,FY 2012,85,Burma,6,498
+From: 14 Aug 2012,To: 14 Aug 2012,Catholic,FY 2012,62,Burma,4,498
+From: 14 Aug 2012,To: 14 Aug 2012,Catholic,FY 2012,62,Congo,1,498
+From: 14 Aug 2012,To: 14 Aug 2012,Catholic,FY 2012,62,Iraq,57,498
+From: 14 Aug 2012,To: 14 Aug 2012,Christian,FY 2012,125,Bhutan,26,498
+From: 14 Aug 2012,To: 14 Aug 2012,Christian,FY 2012,125,Burma,76,498
+From: 14 Aug 2012,To: 14 Aug 2012,Christian,FY 2012,125,Iraq,23,498
+From: 14 Aug 2012,To: 14 Aug 2012,Hindu,FY 2012,65,Bhutan,65,498
+From: 14 Aug 2012,To: 14 Aug 2012,Kirat,FY 2012,12,Bhutan,12,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem,FY 2012,25,Burma,4,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem,FY 2012,25,China,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem,FY 2012,25,Somalia,10,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem,FY 2012,25,Sudan,1,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem,FY 2012,25,Uzbekistan,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem Shiite,FY 2012,41,Iraq,41,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem Suni,FY 2012,49,Iraq,44,498
+From: 14 Aug 2012,To: 14 Aug 2012,Moslem Suni,FY 2012,49,Palestine,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Orthodox,FY 2012,5,Iraq,5,498
+From: 14 Aug 2012,To: 14 Aug 2012,Pentecostalist,FY 2012,8,Kyrgyzstan,8,498
+From: 14 Aug 2012,To: 14 Aug 2012,Sabeans-Mandean,FY 2012,3,Iraq,3,498
+From: 14 Aug 2012,To: 14 Aug 2012,Seventh Day Adventist,FY 2012,1,Kyrgyzstan,1,498
+

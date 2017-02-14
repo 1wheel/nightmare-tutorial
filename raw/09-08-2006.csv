@@ -1,0 +1,25 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Sep 2006,To: 08 Sep 2006,Afghanistan,FY 2006,1,Moslem,1,100
+From: 08 Sep 2006,To: 08 Sep 2006,Burma,FY 2006,27,Christian,27,100
+From: 08 Sep 2006,To: 08 Sep 2006,Iran,FY 2006,39,Bahai,35,100
+From: 08 Sep 2006,To: 08 Sep 2006,Iran,FY 2006,39,Sabeans-Mandean,4,100
+From: 08 Sep 2006,To: 08 Sep 2006,Vietnam,FY 2006,33,Ancestral Worship,13,100
+From: 08 Sep 2006,To: 08 Sep 2006,Vietnam,FY 2006,33,Buddhist,8,100
+From: 08 Sep 2006,To: 08 Sep 2006,Vietnam,FY 2006,33,Cao Dai,3,100
+From: 08 Sep 2006,To: 08 Sep 2006,Vietnam,FY 2006,33,Catholic,7,100
+From: 08 Sep 2006,To: 08 Sep 2006,Vietnam,FY 2006,33,Hoa Hao,2,100
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Sep 2006,To: 08 Sep 2006,Ancestral Worship,FY 2006,13,Vietnam,13,100
+From: 08 Sep 2006,To: 08 Sep 2006,Bahai,FY 2006,35,Iran,35,100
+From: 08 Sep 2006,To: 08 Sep 2006,Buddhist,FY 2006,8,Vietnam,8,100
+From: 08 Sep 2006,To: 08 Sep 2006,Cao Dai,FY 2006,3,Vietnam,3,100
+From: 08 Sep 2006,To: 08 Sep 2006,Catholic,FY 2006,7,Vietnam,7,100
+From: 08 Sep 2006,To: 08 Sep 2006,Christian,FY 2006,27,Burma,27,100
+From: 08 Sep 2006,To: 08 Sep 2006,Hoa Hao,FY 2006,2,Vietnam,2,100
+From: 08 Sep 2006,To: 08 Sep 2006,Moslem,FY 2006,1,Afghanistan,1,100
+From: 08 Sep 2006,To: 08 Sep 2006,Sabeans-Mandean,FY 2006,4,Iran,4,100
+

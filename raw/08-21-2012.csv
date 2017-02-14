@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Aug 2012,To: 21 Aug 2012,Burma,FY 2012,62,Buddhist,27,132
+From: 21 Aug 2012,To: 21 Aug 2012,Burma,FY 2012,62,Christian,34,132
+From: 21 Aug 2012,To: 21 Aug 2012,Burma,FY 2012,62,Other Religion,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Dem. Rep. Congo,FY 2012,8,Protestant,8,132
+From: 21 Aug 2012,To: 21 Aug 2012,Eritrea,FY 2012,6,Orthodox,6,132
+From: 21 Aug 2012,To: 21 Aug 2012,Ethiopia,FY 2012,9,Christian,6,132
+From: 21 Aug 2012,To: 21 Aug 2012,Ethiopia,FY 2012,9,Orthodox,2,132
+From: 21 Aug 2012,To: 21 Aug 2012,Ethiopia,FY 2012,9,Protestant,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Iraq,FY 2012,1,Moslem Suni,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Pakistan,FY 2012,3,Ahmadiyya,3,132
+From: 21 Aug 2012,To: 21 Aug 2012,Somalia,FY 2012,23,Moslem,17,132
+From: 21 Aug 2012,To: 21 Aug 2012,Somalia,FY 2012,23,Protestant,6,132
+From: 21 Aug 2012,To: 21 Aug 2012,Sri Lanka (Ceylon),FY 2012,4,Hindu,4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Ukraine,FY 2012,4,Uniate,4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Uzbekistan,FY 2012,8,Moslem,4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Uzbekistan,FY 2012,8,Moslem Suni,4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Vietnam,FY 2012,4,Buddhist,3,132
+From: 21 Aug 2012,To: 21 Aug 2012,Vietnam,FY 2012,4,Catholic,1,132
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Aug 2012,To: 21 Aug 2012,Ahmadiyya,FY 2012,3,Pakistan,3,132
+From: 21 Aug 2012,To: 21 Aug 2012,Buddhist,FY 2012,30,Burma,27,132
+From: 21 Aug 2012,To: 21 Aug 2012,Buddhist,FY 2012,30,Vietnam,3,132
+From: 21 Aug 2012,To: 21 Aug 2012,Catholic,FY 2012,1,Vietnam,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Christian,FY 2012,40,Burma,34,132
+From: 21 Aug 2012,To: 21 Aug 2012,Christian,FY 2012,40,Ethiopia,6,132
+From: 21 Aug 2012,To: 21 Aug 2012,Hindu,FY 2012,4,Sri Lanka (Ceylon),4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Moslem,FY 2012,21,Somalia,17,132
+From: 21 Aug 2012,To: 21 Aug 2012,Moslem,FY 2012,21,Uzbekistan,4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Moslem Suni,FY 2012,5,Iraq,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Moslem Suni,FY 2012,5,Uzbekistan,4,132
+From: 21 Aug 2012,To: 21 Aug 2012,Orthodox,FY 2012,8,Eritrea,6,132
+From: 21 Aug 2012,To: 21 Aug 2012,Orthodox,FY 2012,8,Ethiopia,2,132
+From: 21 Aug 2012,To: 21 Aug 2012,Other Religion,FY 2012,1,Burma,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Protestant,FY 2012,15,Dem. Rep. Congo,8,132
+From: 21 Aug 2012,To: 21 Aug 2012,Protestant,FY 2012,15,Ethiopia,1,132
+From: 21 Aug 2012,To: 21 Aug 2012,Protestant,FY 2012,15,Somalia,6,132
+From: 21 Aug 2012,To: 21 Aug 2012,Uniate,FY 2012,4,Ukraine,4,132
+

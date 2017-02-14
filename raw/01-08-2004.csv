@@ -1,0 +1,27 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 08 Jan 2004,To: 08 Jan 2004,Iran,FY 2004,9,Christian,2,42
+From: 08 Jan 2004,To: 08 Jan 2004,Iran,FY 2004,9,Jewish,6,42
+From: 08 Jan 2004,To: 08 Jan 2004,Iran,FY 2004,9,Zoroastrian,1,42
+From: 08 Jan 2004,To: 08 Jan 2004,Russia,FY 2004,29,Baptist,4,42
+From: 08 Jan 2004,To: 08 Jan 2004,Russia,FY 2004,29,Jewish,13,42
+From: 08 Jan 2004,To: 08 Jan 2004,Russia,FY 2004,29,Pentecostalist,11,42
+From: 08 Jan 2004,To: 08 Jan 2004,Russia,FY 2004,29,Unknown,1,42
+From: 08 Jan 2004,To: 08 Jan 2004,Sierra Leone,FY 2004,4,Christian,1,42
+From: 08 Jan 2004,To: 08 Jan 2004,Sierra Leone,FY 2004,4,Moslem,2,42
+From: 08 Jan 2004,To: 08 Jan 2004,Sierra Leone,FY 2004,4,Unknown,1,42
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 08 Jan 2004,To: 08 Jan 2004,Baptist,FY 2004,4,Russia,4,42
+From: 08 Jan 2004,To: 08 Jan 2004,Christian,FY 2004,3,Iran,2,42
+From: 08 Jan 2004,To: 08 Jan 2004,Christian,FY 2004,3,Sierra Leone,1,42
+From: 08 Jan 2004,To: 08 Jan 2004,Jewish,FY 2004,19,Iran,6,42
+From: 08 Jan 2004,To: 08 Jan 2004,Jewish,FY 2004,19,Russia,13,42
+From: 08 Jan 2004,To: 08 Jan 2004,Moslem,FY 2004,2,Sierra Leone,2,42
+From: 08 Jan 2004,To: 08 Jan 2004,Pentecostalist,FY 2004,11,Russia,11,42
+From: 08 Jan 2004,To: 08 Jan 2004,Unknown,FY 2004,2,Russia,1,42
+From: 08 Jan 2004,To: 08 Jan 2004,Unknown,FY 2004,2,Sierra Leone,1,42
+From: 08 Jan 2004,To: 08 Jan 2004,Zoroastrian,FY 2004,1,Iran,1,42
+
