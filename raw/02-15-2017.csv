@@ -1,0 +1,69 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 15 Feb 2017,To: 15 Feb 2017,Afghanistan,FY 2017,8,Moslem,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Afghanistan,FY 2017,8,Moslem Shiite,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Burma,FY 2017,60,Buddhist,6,330
+From: 15 Feb 2017,To: 15 Feb 2017,Burma,FY 2017,60,Catholic,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Burma,FY 2017,60,Christian,36,330
+From: 15 Feb 2017,To: 15 Feb 2017,Burma,FY 2017,60,Moslem,15,330
+From: 15 Feb 2017,To: 15 Feb 2017,Central African Republic,FY 2017,12,Christian,6,330
+From: 15 Feb 2017,To: 15 Feb 2017,Central African Republic,FY 2017,12,Protestant,6,330
+From: 15 Feb 2017,To: 15 Feb 2017,Dem. Rep. Congo,FY 2017,42,Moslem,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Dem. Rep. Congo,FY 2017,42,Pentecostalist,9,330
+From: 15 Feb 2017,To: 15 Feb 2017,Dem. Rep. Congo,FY 2017,42,Protestant,29,330
+From: 15 Feb 2017,To: 15 Feb 2017,Eritrea,FY 2017,7,Christian,2,330
+From: 15 Feb 2017,To: 15 Feb 2017,Eritrea,FY 2017,7,Orthodox,2,330
+From: 15 Feb 2017,To: 15 Feb 2017,Eritrea,FY 2017,7,Pentecostalist,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Iraq,FY 2017,39,Catholic,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Iraq,FY 2017,39,Moslem,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Iraq,FY 2017,39,Moslem Shiite,20,330
+From: 15 Feb 2017,To: 15 Feb 2017,Iraq,FY 2017,39,Moslem Suni,14,330
+From: 15 Feb 2017,To: 15 Feb 2017,Iraq,FY 2017,39,Orthodox,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Pakistan,FY 2017,8,Ahmadiyya,7,330
+From: 15 Feb 2017,To: 15 Feb 2017,Pakistan,FY 2017,8,Moslem,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Somalia,FY 2017,52,Moslem,52,330
+From: 15 Feb 2017,To: 15 Feb 2017,Sudan,FY 2017,21,Christian,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Sudan,FY 2017,21,Moslem,20,330
+From: 15 Feb 2017,To: 15 Feb 2017,Syria,FY 2017,37,Moslem Suni,37,330
+From: 15 Feb 2017,To: 15 Feb 2017,Ukraine,FY 2017,40,Baptist,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Ukraine,FY 2017,40,Evangelical Christian,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Ukraine,FY 2017,40,Jewish,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Ukraine,FY 2017,40,Pentecostalist,28,330
+From: 15 Feb 2017,To: 15 Feb 2017,Ukraine,FY 2017,40,Seventh Day Adventist,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Vietnam,FY 2017,4,Buddhist,4,330
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 15 Feb 2017,To: 15 Feb 2017,Ahmadiyya,FY 2017,7,Pakistan,7,330
+From: 15 Feb 2017,To: 15 Feb 2017,Baptist,FY 2017,4,Ukraine,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Buddhist,FY 2017,10,Burma,6,330
+From: 15 Feb 2017,To: 15 Feb 2017,Buddhist,FY 2017,10,Vietnam,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Catholic,FY 2017,4,Burma,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Catholic,FY 2017,4,Iraq,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Christian,FY 2017,45,Burma,36,330
+From: 15 Feb 2017,To: 15 Feb 2017,Christian,FY 2017,45,Central African Republic,6,330
+From: 15 Feb 2017,To: 15 Feb 2017,Christian,FY 2017,45,Eritrea,2,330
+From: 15 Feb 2017,To: 15 Feb 2017,Christian,FY 2017,45,Sudan,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Evangelical Christian,FY 2017,4,Ukraine,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Jewish,FY 2017,1,Ukraine,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Afghanistan,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Burma,15,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Dem. Rep. Congo,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Iraq,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Pakistan,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Somalia,52,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem,FY 2017,99,Sudan,20,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem Shiite,FY 2017,24,Afghanistan,4,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem Shiite,FY 2017,24,Iraq,20,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem Suni,FY 2017,51,Iraq,14,330
+From: 15 Feb 2017,To: 15 Feb 2017,Moslem Suni,FY 2017,51,Syria,37,330
+From: 15 Feb 2017,To: 15 Feb 2017,Orthodox,FY 2017,3,Eritrea,2,330
+From: 15 Feb 2017,To: 15 Feb 2017,Orthodox,FY 2017,3,Iraq,1,330
+From: 15 Feb 2017,To: 15 Feb 2017,Pentecostalist,FY 2017,40,Dem. Rep. Congo,9,330
+From: 15 Feb 2017,To: 15 Feb 2017,Pentecostalist,FY 2017,40,Eritrea,3,330
+From: 15 Feb 2017,To: 15 Feb 2017,Pentecostalist,FY 2017,40,Ukraine,28,330
+From: 15 Feb 2017,To: 15 Feb 2017,Protestant,FY 2017,35,Central African Republic,6,330
+From: 15 Feb 2017,To: 15 Feb 2017,Protestant,FY 2017,35,Dem. Rep. Congo,29,330
+From: 15 Feb 2017,To: 15 Feb 2017,Seventh Day Adventist,FY 2017,3,Ukraine,3,330
+

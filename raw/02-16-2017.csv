@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 16 Feb 2017,To: 16 Feb 2017,Afghanistan,FY 2017,34,Moslem Shiite,17,289
+From: 16 Feb 2017,To: 16 Feb 2017,Afghanistan,FY 2017,34,Moslem Suni,17,289
+From: 16 Feb 2017,To: 16 Feb 2017,Belarus,FY 2017,1,Pentecostalist,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Bhutan,FY 2017,7,Hindu,7,289
+From: 16 Feb 2017,To: 16 Feb 2017,Burma,FY 2017,87,Buddhist,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Burma,FY 2017,87,Christian,44,289
+From: 16 Feb 2017,To: 16 Feb 2017,Burma,FY 2017,87,Moslem,42,289
+From: 16 Feb 2017,To: 16 Feb 2017,Dem. Rep. Congo,FY 2017,12,Christian,4,289
+From: 16 Feb 2017,To: 16 Feb 2017,Dem. Rep. Congo,FY 2017,12,Pentecostalist,3,289
+From: 16 Feb 2017,To: 16 Feb 2017,Dem. Rep. Congo,FY 2017,12,Protestant,5,289
+From: 16 Feb 2017,To: 16 Feb 2017,Eritrea,FY 2017,8,Christian,3,289
+From: 16 Feb 2017,To: 16 Feb 2017,Eritrea,FY 2017,8,Moslem,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Eritrea,FY 2017,8,Orthodox,4,289
+From: 16 Feb 2017,To: 16 Feb 2017,Ethiopia,FY 2017,1,Moslem,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Iran,FY 2017,47,Bahai,2,289
+From: 16 Feb 2017,To: 16 Feb 2017,Iran,FY 2017,47,Christian,35,289
+From: 16 Feb 2017,To: 16 Feb 2017,Iran,FY 2017,47,Sabeans-Mandean,7,289
+From: 16 Feb 2017,To: 16 Feb 2017,Iran,FY 2017,47,Zoroastrian,3,289
+From: 16 Feb 2017,To: 16 Feb 2017,Iraq,FY 2017,9,Moslem Shiite,9,289
+From: 16 Feb 2017,To: 16 Feb 2017,Nepal,FY 2017,1,Hindu,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Pakistan,FY 2017,4,Ahmadiyya,4,289
+From: 16 Feb 2017,To: 16 Feb 2017,Somalia,FY 2017,34,Moslem,34,289
+From: 16 Feb 2017,To: 16 Feb 2017,Syria,FY 2017,43,Moslem,12,289
+From: 16 Feb 2017,To: 16 Feb 2017,Syria,FY 2017,43,Moslem Suni,31,289
+From: 16 Feb 2017,To: 16 Feb 2017,Vietnam,FY 2017,1,Buddhist,1,289
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 16 Feb 2017,To: 16 Feb 2017,Ahmadiyya,FY 2017,4,Pakistan,4,289
+From: 16 Feb 2017,To: 16 Feb 2017,Bahai,FY 2017,2,Iran,2,289
+From: 16 Feb 2017,To: 16 Feb 2017,Buddhist,FY 2017,2,Burma,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Buddhist,FY 2017,2,Vietnam,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Christian,FY 2017,86,Burma,44,289
+From: 16 Feb 2017,To: 16 Feb 2017,Christian,FY 2017,86,Dem. Rep. Congo,4,289
+From: 16 Feb 2017,To: 16 Feb 2017,Christian,FY 2017,86,Eritrea,3,289
+From: 16 Feb 2017,To: 16 Feb 2017,Christian,FY 2017,86,Iran,35,289
+From: 16 Feb 2017,To: 16 Feb 2017,Hindu,FY 2017,8,Bhutan,7,289
+From: 16 Feb 2017,To: 16 Feb 2017,Hindu,FY 2017,8,Nepal,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem,FY 2017,90,Burma,42,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem,FY 2017,90,Eritrea,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem,FY 2017,90,Ethiopia,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem,FY 2017,90,Somalia,34,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem,FY 2017,90,Syria,12,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem Shiite,FY 2017,26,Afghanistan,17,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem Shiite,FY 2017,26,Iraq,9,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem Suni,FY 2017,48,Afghanistan,17,289
+From: 16 Feb 2017,To: 16 Feb 2017,Moslem Suni,FY 2017,48,Syria,31,289
+From: 16 Feb 2017,To: 16 Feb 2017,Orthodox,FY 2017,4,Eritrea,4,289
+From: 16 Feb 2017,To: 16 Feb 2017,Pentecostalist,FY 2017,4,Belarus,1,289
+From: 16 Feb 2017,To: 16 Feb 2017,Pentecostalist,FY 2017,4,Dem. Rep. Congo,3,289
+From: 16 Feb 2017,To: 16 Feb 2017,Protestant,FY 2017,5,Dem. Rep. Congo,5,289
+From: 16 Feb 2017,To: 16 Feb 2017,Sabeans-Mandean,FY 2017,7,Iran,7,289
+From: 16 Feb 2017,To: 16 Feb 2017,Zoroastrian,FY 2017,3,Iran,3,289
+
