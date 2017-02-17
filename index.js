@@ -6,16 +6,15 @@ const fs = require('fs')
 const glob = require('glob')
 
 
-//delete recent dates
-d3.timeDay.range(new Date(2017, 1, 1), new Date(), 1)
+//delete recent dates (current day gets updated throughout day)
+d3.timeDay.range(new Date(2017, 1, 16), new Date(), 1)
   .map(d3.timeFormat('%m/%d/%Y'))
   .forEach(function(d){
-    // fs.unlinkSync(__dirname + '/raw/' + d.replace(/\//g, '-') + '.csv')
+    fs.unlinkSync(__dirname + '/raw/' + d.replace(/\//g, '-') + '.csv')
 })
 
 var prevDownloaded = glob.sync(__dirname + '/raw/*.csv')
   .map(d => d.split('raw/')[1].replace('.csv', '').replace(/-/g, '/'))
-  // .forEach(zzzz)
 
 const dates = d3.timeDay.range(new Date(2002, 0, 1), new Date(), 1)
   .map(d3.timeFormat('%m/%d/%Y'))
@@ -25,7 +24,7 @@ const dates = d3.timeDay.range(new Date(2002, 0, 1), new Date(), 1)
 const START = 'http://ireports.wrapsnet.org/Interactive-Reporting/EnumType/Report?ItemPath=/rpt_WebArrivalsReports/MX%20-%20Arrivals%20by%20Nationality%20and%20Religion';
 
 const getAddress = async date => {
-  console.log(`Now checking ${date}`);
+  console.log(`scraping ${date}`);
   const nightmare = new Nightmare({ show: false });
 
   try {
@@ -52,8 +51,6 @@ const getAddress = async date => {
         xhr.overrideMimeType("text/plain; charset=x-user-defined");
         xhr.send();
         return xhr.responseText;
-
-        // $find('dnn_ctr513_View_ReportViewer1').exportReport('CSV')
       })
       .end()
 
@@ -63,41 +60,10 @@ const getAddress = async date => {
     console.error(e);
   }
 
-  // // On the next page, type the title number into the appropriate box; click submit
-  // try {
-  //   // await nightmare
-  //   //   .wait('input[name="titleNo"]')
-  //   //   .type('input[name="dnn$ctr513$View$ReportViewer1$ctl04$ctl07$txtValue"]', id)
-  //   //   .click('input[value="Search »"]');
-  // } catch(e) {
-  //   console.error(e);
-  // }
-
-  // try {
-  //   const result = await nightmare
-  //     .wait('.w80p')
-  //     .evaluate(() => {
-  //       return [...document.querySelectorAll('.w80p')].map(el => el.innerText);
-  //     })
-  //     .end();
-
-  //     return { date, address: result[0], lease: result[1] };
-  // } catch(e) {
-  //   console.error(e);
-  //   return undefined;
-  // }
 };
-
-// getAddress(numbers[0]).then(a => console.dir(a));
 
 const series = dates.reduce(async (queue, number) => {
   const dataArray = await queue;
   dataArray.push(await getAddress(number));
   return dataArray;
 }, Promise.resolve([]));
-
-// series.then(data => {
-//   const csvData = csvFormat(data.filter(i => i));
-//   writeFileSync('./output.csv', csvData, { encoding: 'utf8' })
-// })
-// .catch(e => console.error(e));
