@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 May 2017,To: 02 May 2017,Afghanistan,FY 2017,1,Moslem,1,216
+From: 02 May 2017,To: 02 May 2017,Bhutan,FY 2017,26,Buddhist,15,216
+From: 02 May 2017,To: 02 May 2017,Bhutan,FY 2017,26,Christian,1,216
+From: 02 May 2017,To: 02 May 2017,Bhutan,FY 2017,26,Hindu,10,216
+From: 02 May 2017,To: 02 May 2017,Burma,FY 2017,57,Animist,2,216
+From: 02 May 2017,To: 02 May 2017,Burma,FY 2017,57,Buddhist,2,216
+From: 02 May 2017,To: 02 May 2017,Burma,FY 2017,57,Christian,47,216
+From: 02 May 2017,To: 02 May 2017,Burma,FY 2017,57,Moslem,6,216
+From: 02 May 2017,To: 02 May 2017,Central African Republic,FY 2017,9,Catholic,1,216
+From: 02 May 2017,To: 02 May 2017,Central African Republic,FY 2017,9,Moslem,8,216
+From: 02 May 2017,To: 02 May 2017,Dem. Rep. Congo,FY 2017,91,Catholic,17,216
+From: 02 May 2017,To: 02 May 2017,Dem. Rep. Congo,FY 2017,91,Christian,1,216
+From: 02 May 2017,To: 02 May 2017,Dem. Rep. Congo,FY 2017,91,Methodist,3,216
+From: 02 May 2017,To: 02 May 2017,Dem. Rep. Congo,FY 2017,91,Pentecostalist,10,216
+From: 02 May 2017,To: 02 May 2017,Dem. Rep. Congo,FY 2017,91,Protestant,21,216
+From: 02 May 2017,To: 02 May 2017,Dem. Rep. Congo,FY 2017,91,Seventh Day Adventist,39,216
+From: 02 May 2017,To: 02 May 2017,Eritrea,FY 2017,1,Moslem Suni,1,216
+From: 02 May 2017,To: 02 May 2017,Iraq,FY 2017,16,Moslem Shiite,10,216
+From: 02 May 2017,To: 02 May 2017,Iraq,FY 2017,16,Moslem Suni,6,216
+From: 02 May 2017,To: 02 May 2017,Ivory Coast,FY 2017,2,Christian,2,216
+From: 02 May 2017,To: 02 May 2017,Kazakhstan,FY 2017,4,Baptist,4,216
+From: 02 May 2017,To: 02 May 2017,Senegal,FY 2017,1,Moslem,1,216
+From: 02 May 2017,To: 02 May 2017,Syria,FY 2017,8,Moslem Suni,8,216
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 May 2017,To: 02 May 2017,Animist,FY 2017,2,Burma,2,216
+From: 02 May 2017,To: 02 May 2017,Baptist,FY 2017,4,Kazakhstan,4,216
+From: 02 May 2017,To: 02 May 2017,Buddhist,FY 2017,17,Bhutan,15,216
+From: 02 May 2017,To: 02 May 2017,Buddhist,FY 2017,17,Burma,2,216
+From: 02 May 2017,To: 02 May 2017,Catholic,FY 2017,18,Central African Republic,1,216
+From: 02 May 2017,To: 02 May 2017,Catholic,FY 2017,18,Dem. Rep. Congo,17,216
+From: 02 May 2017,To: 02 May 2017,Christian,FY 2017,51,Bhutan,1,216
+From: 02 May 2017,To: 02 May 2017,Christian,FY 2017,51,Burma,47,216
+From: 02 May 2017,To: 02 May 2017,Christian,FY 2017,51,Dem. Rep. Congo,1,216
+From: 02 May 2017,To: 02 May 2017,Christian,FY 2017,51,Ivory Coast,2,216
+From: 02 May 2017,To: 02 May 2017,Hindu,FY 2017,10,Bhutan,10,216
+From: 02 May 2017,To: 02 May 2017,Methodist,FY 2017,3,Dem. Rep. Congo,3,216
+From: 02 May 2017,To: 02 May 2017,Moslem,FY 2017,16,Afghanistan,1,216
+From: 02 May 2017,To: 02 May 2017,Moslem,FY 2017,16,Burma,6,216
+From: 02 May 2017,To: 02 May 2017,Moslem,FY 2017,16,Central African Republic,8,216
+From: 02 May 2017,To: 02 May 2017,Moslem,FY 2017,16,Senegal,1,216
+From: 02 May 2017,To: 02 May 2017,Moslem Shiite,FY 2017,10,Iraq,10,216
+From: 02 May 2017,To: 02 May 2017,Moslem Suni,FY 2017,15,Eritrea,1,216
+From: 02 May 2017,To: 02 May 2017,Moslem Suni,FY 2017,15,Iraq,6,216
+From: 02 May 2017,To: 02 May 2017,Moslem Suni,FY 2017,15,Syria,8,216
+From: 02 May 2017,To: 02 May 2017,Pentecostalist,FY 2017,10,Dem. Rep. Congo,10,216
+From: 02 May 2017,To: 02 May 2017,Protestant,FY 2017,21,Dem. Rep. Congo,21,216
+From: 02 May 2017,To: 02 May 2017,Seventh Day Adventist,FY 2017,39,Dem. Rep. Congo,39,216
+

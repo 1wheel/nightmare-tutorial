@@ -1,0 +1,79 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 May 2017,To: 10 May 2017,Afghanistan,FY 2017,10,Moslem Shiite,10,278
+From: 10 May 2017,To: 10 May 2017,Bhutan,FY 2017,12,Buddhist,2,278
+From: 10 May 2017,To: 10 May 2017,Bhutan,FY 2017,12,Kirat,10,278
+From: 10 May 2017,To: 10 May 2017,Burma,FY 2017,44,Buddhist,4,278
+From: 10 May 2017,To: 10 May 2017,Burma,FY 2017,44,Catholic,5,278
+From: 10 May 2017,To: 10 May 2017,Burma,FY 2017,44,Christian,27,278
+From: 10 May 2017,To: 10 May 2017,Burma,FY 2017,44,Moslem,8,278
+From: 10 May 2017,To: 10 May 2017,Colombia,FY 2017,11,Catholic,4,278
+From: 10 May 2017,To: 10 May 2017,Colombia,FY 2017,11,Christian,1,278
+From: 10 May 2017,To: 10 May 2017,Colombia,FY 2017,11,Evangelical Christian,1,278
+From: 10 May 2017,To: 10 May 2017,Colombia,FY 2017,11,No Religion,5,278
+From: 10 May 2017,To: 10 May 2017,Dem. Rep. Congo,FY 2017,80,Baptist,6,278
+From: 10 May 2017,To: 10 May 2017,Dem. Rep. Congo,FY 2017,80,Catholic,4,278
+From: 10 May 2017,To: 10 May 2017,Dem. Rep. Congo,FY 2017,80,Christian,2,278
+From: 10 May 2017,To: 10 May 2017,Dem. Rep. Congo,FY 2017,80,Pentecostalist,39,278
+From: 10 May 2017,To: 10 May 2017,Dem. Rep. Congo,FY 2017,80,Protestant,23,278
+From: 10 May 2017,To: 10 May 2017,Dem. Rep. Congo,FY 2017,80,Seventh Day Adventist,6,278
+From: 10 May 2017,To: 10 May 2017,El Salvador,FY 2017,22,Catholic,14,278
+From: 10 May 2017,To: 10 May 2017,El Salvador,FY 2017,22,Christian,4,278
+From: 10 May 2017,To: 10 May 2017,El Salvador,FY 2017,22,Evangelical Christian,4,278
+From: 10 May 2017,To: 10 May 2017,Eritrea,FY 2017,24,Catholic,5,278
+From: 10 May 2017,To: 10 May 2017,Eritrea,FY 2017,24,Moslem,16,278
+From: 10 May 2017,To: 10 May 2017,Eritrea,FY 2017,24,Moslem Suni,2,278
+From: 10 May 2017,To: 10 May 2017,Eritrea,FY 2017,24,Pentecostalist,1,278
+From: 10 May 2017,To: 10 May 2017,Iran,FY 2017,7,Christian,7,278
+From: 10 May 2017,To: 10 May 2017,Iraq,FY 2017,21,Moslem Shiite,15,278
+From: 10 May 2017,To: 10 May 2017,Iraq,FY 2017,21,Moslem Suni,6,278
+From: 10 May 2017,To: 10 May 2017,Somalia,FY 2017,1,Moslem,1,278
+From: 10 May 2017,To: 10 May 2017,Sudan,FY 2017,8,Christian,2,278
+From: 10 May 2017,To: 10 May 2017,Sudan,FY 2017,8,Moslem,6,278
+From: 10 May 2017,To: 10 May 2017,Syria,FY 2017,1,Moslem Suni,1,278
+From: 10 May 2017,To: 10 May 2017,Ukraine,FY 2017,36,Baptist,9,278
+From: 10 May 2017,To: 10 May 2017,Ukraine,FY 2017,36,Jewish,3,278
+From: 10 May 2017,To: 10 May 2017,Ukraine,FY 2017,36,Pentecostalist,15,278
+From: 10 May 2017,To: 10 May 2017,Ukraine,FY 2017,36,Uniate,9,278
+From: 10 May 2017,To: 10 May 2017,Zimbabwe,FY 2017,1,Pentecostalist,1,278
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 May 2017,To: 10 May 2017,Baptist,FY 2017,15,Dem. Rep. Congo,6,278
+From: 10 May 2017,To: 10 May 2017,Baptist,FY 2017,15,Ukraine,9,278
+From: 10 May 2017,To: 10 May 2017,Buddhist,FY 2017,6,Bhutan,2,278
+From: 10 May 2017,To: 10 May 2017,Buddhist,FY 2017,6,Burma,4,278
+From: 10 May 2017,To: 10 May 2017,Catholic,FY 2017,32,Burma,5,278
+From: 10 May 2017,To: 10 May 2017,Catholic,FY 2017,32,Colombia,4,278
+From: 10 May 2017,To: 10 May 2017,Catholic,FY 2017,32,Dem. Rep. Congo,4,278
+From: 10 May 2017,To: 10 May 2017,Catholic,FY 2017,32,El Salvador,14,278
+From: 10 May 2017,To: 10 May 2017,Catholic,FY 2017,32,Eritrea,5,278
+From: 10 May 2017,To: 10 May 2017,Christian,FY 2017,43,Burma,27,278
+From: 10 May 2017,To: 10 May 2017,Christian,FY 2017,43,Colombia,1,278
+From: 10 May 2017,To: 10 May 2017,Christian,FY 2017,43,Dem. Rep. Congo,2,278
+From: 10 May 2017,To: 10 May 2017,Christian,FY 2017,43,El Salvador,4,278
+From: 10 May 2017,To: 10 May 2017,Christian,FY 2017,43,Iran,7,278
+From: 10 May 2017,To: 10 May 2017,Christian,FY 2017,43,Sudan,2,278
+From: 10 May 2017,To: 10 May 2017,Evangelical Christian,FY 2017,5,Colombia,1,278
+From: 10 May 2017,To: 10 May 2017,Evangelical Christian,FY 2017,5,El Salvador,4,278
+From: 10 May 2017,To: 10 May 2017,Jewish,FY 2017,3,Ukraine,3,278
+From: 10 May 2017,To: 10 May 2017,Kirat,FY 2017,10,Bhutan,10,278
+From: 10 May 2017,To: 10 May 2017,Moslem,FY 2017,31,Burma,8,278
+From: 10 May 2017,To: 10 May 2017,Moslem,FY 2017,31,Eritrea,16,278
+From: 10 May 2017,To: 10 May 2017,Moslem,FY 2017,31,Somalia,1,278
+From: 10 May 2017,To: 10 May 2017,Moslem,FY 2017,31,Sudan,6,278
+From: 10 May 2017,To: 10 May 2017,Moslem Shiite,FY 2017,25,Afghanistan,10,278
+From: 10 May 2017,To: 10 May 2017,Moslem Shiite,FY 2017,25,Iraq,15,278
+From: 10 May 2017,To: 10 May 2017,Moslem Suni,FY 2017,9,Eritrea,2,278
+From: 10 May 2017,To: 10 May 2017,Moslem Suni,FY 2017,9,Iraq,6,278
+From: 10 May 2017,To: 10 May 2017,Moslem Suni,FY 2017,9,Syria,1,278
+From: 10 May 2017,To: 10 May 2017,No Religion,FY 2017,5,Colombia,5,278
+From: 10 May 2017,To: 10 May 2017,Pentecostalist,FY 2017,56,Dem. Rep. Congo,39,278
+From: 10 May 2017,To: 10 May 2017,Pentecostalist,FY 2017,56,Eritrea,1,278
+From: 10 May 2017,To: 10 May 2017,Pentecostalist,FY 2017,56,Ukraine,15,278
+From: 10 May 2017,To: 10 May 2017,Pentecostalist,FY 2017,56,Zimbabwe,1,278
+From: 10 May 2017,To: 10 May 2017,Protestant,FY 2017,23,Dem. Rep. Congo,23,278
+From: 10 May 2017,To: 10 May 2017,Seventh Day Adventist,FY 2017,6,Dem. Rep. Congo,6,278
+From: 10 May 2017,To: 10 May 2017,Uniate,FY 2017,9,Ukraine,9,278
+

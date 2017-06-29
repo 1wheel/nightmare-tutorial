@@ -1,0 +1,63 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Apr 2017,To: 27 Apr 2017,Afghanistan,FY 2017,6,Moslem Shiite,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Afghanistan,FY 2017,6,Moslem Suni,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Afghanistan,FY 2017,6,No Religion,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Bhutan,FY 2017,8,Hindu,5,152
+From: 27 Apr 2017,To: 27 Apr 2017,Bhutan,FY 2017,8,Kirat,3,152
+From: 27 Apr 2017,To: 27 Apr 2017,Burma,FY 2017,56,Buddhist,10,152
+From: 27 Apr 2017,To: 27 Apr 2017,Burma,FY 2017,56,Catholic,6,152
+From: 27 Apr 2017,To: 27 Apr 2017,Burma,FY 2017,56,Christian,36,152
+From: 27 Apr 2017,To: 27 Apr 2017,Burma,FY 2017,56,Moslem,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Burma,FY 2017,56,Other Religion,3,152
+From: 27 Apr 2017,To: 27 Apr 2017,Dem. Rep. Congo,FY 2017,18,Catholic,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Dem. Rep. Congo,FY 2017,18,Methodist,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Dem. Rep. Congo,FY 2017,18,Pentecostalist,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Dem. Rep. Congo,FY 2017,18,Protestant,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Dem. Rep. Congo,FY 2017,18,Seventh Day Adventist,10,152
+From: 27 Apr 2017,To: 27 Apr 2017,Eritrea,FY 2017,1,Christian,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Iran,FY 2017,25,Bahai,7,152
+From: 27 Apr 2017,To: 27 Apr 2017,Iran,FY 2017,25,Christian,15,152
+From: 27 Apr 2017,To: 27 Apr 2017,Iran,FY 2017,25,Protestant,3,152
+From: 27 Apr 2017,To: 27 Apr 2017,Iraq,FY 2017,14,Catholic,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Iraq,FY 2017,14,Moslem Suni,12,152
+From: 27 Apr 2017,To: 27 Apr 2017,Ivory Coast,FY 2017,4,Christian,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Pakistan,FY 2017,6,Ahmadiyya,6,152
+From: 27 Apr 2017,To: 27 Apr 2017,Rwanda,FY 2017,2,Christian,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Sudan,FY 2017,6,Christian,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Sudan,FY 2017,6,Moslem,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Syria,FY 2017,5,Christian,5,152
+From: 27 Apr 2017,To: 27 Apr 2017,Uganda,FY 2017,1,Catholic,1,152
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Apr 2017,To: 27 Apr 2017,Ahmadiyya,FY 2017,6,Pakistan,6,152
+From: 27 Apr 2017,To: 27 Apr 2017,Bahai,FY 2017,7,Iran,7,152
+From: 27 Apr 2017,To: 27 Apr 2017,Buddhist,FY 2017,10,Burma,10,152
+From: 27 Apr 2017,To: 27 Apr 2017,Catholic,FY 2017,10,Burma,6,152
+From: 27 Apr 2017,To: 27 Apr 2017,Catholic,FY 2017,10,Dem. Rep. Congo,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Catholic,FY 2017,10,Iraq,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Catholic,FY 2017,10,Uganda,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Burma,36,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Eritrea,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Iran,15,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Ivory Coast,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Rwanda,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Sudan,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Christian,FY 2017,67,Syria,5,152
+From: 27 Apr 2017,To: 27 Apr 2017,Hindu,FY 2017,5,Bhutan,5,152
+From: 27 Apr 2017,To: 27 Apr 2017,Kirat,FY 2017,3,Bhutan,3,152
+From: 27 Apr 2017,To: 27 Apr 2017,Methodist,FY 2017,1,Dem. Rep. Congo,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Moslem,FY 2017,3,Burma,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Moslem,FY 2017,3,Sudan,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Moslem Shiite,FY 2017,4,Afghanistan,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Moslem Suni,FY 2017,13,Afghanistan,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Moslem Suni,FY 2017,13,Iraq,12,152
+From: 27 Apr 2017,To: 27 Apr 2017,No Religion,FY 2017,1,Afghanistan,1,152
+From: 27 Apr 2017,To: 27 Apr 2017,Other Religion,FY 2017,3,Burma,3,152
+From: 27 Apr 2017,To: 27 Apr 2017,Pentecostalist,FY 2017,4,Dem. Rep. Congo,4,152
+From: 27 Apr 2017,To: 27 Apr 2017,Protestant,FY 2017,5,Dem. Rep. Congo,2,152
+From: 27 Apr 2017,To: 27 Apr 2017,Protestant,FY 2017,5,Iran,3,152
+From: 27 Apr 2017,To: 27 Apr 2017,Seventh Day Adventist,FY 2017,10,Dem. Rep. Congo,10,152
+

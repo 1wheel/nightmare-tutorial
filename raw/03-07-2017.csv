@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Mar 2017,To: 07 Mar 2017,Afghanistan,FY 2017,4,Moslem,4,78
+From: 07 Mar 2017,To: 07 Mar 2017,Bhutan,FY 2017,4,Buddhist,4,78
+From: 07 Mar 2017,To: 07 Mar 2017,Dem. Rep. Congo,FY 2017,2,Pentecostalist,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Dem. Rep. Congo,FY 2017,2,Protestant,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,El Salvador,FY 2017,19,Catholic,10,78
+From: 07 Mar 2017,To: 07 Mar 2017,El Salvador,FY 2017,19,Christian,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,El Salvador,FY 2017,19,Evangelical Christian,5,78
+From: 07 Mar 2017,To: 07 Mar 2017,El Salvador,FY 2017,19,No Religion,3,78
+From: 07 Mar 2017,To: 07 Mar 2017,Eritrea,FY 2017,2,Catholic,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Eritrea,FY 2017,2,Pentecostalist,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Ethiopia,FY 2017,1,Christian,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Iran,FY 2017,15,Christian,11,78
+From: 07 Mar 2017,To: 07 Mar 2017,Iran,FY 2017,15,Zoroastrian,4,78
+From: 07 Mar 2017,To: 07 Mar 2017,Iraq,FY 2017,7,Moslem,2,78
+From: 07 Mar 2017,To: 07 Mar 2017,Iraq,FY 2017,7,Moslem Suni,5,78
+From: 07 Mar 2017,To: 07 Mar 2017,Pakistan,FY 2017,1,Ahmadiyya,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Somalia,FY 2017,9,Moslem,9,78
+From: 07 Mar 2017,To: 07 Mar 2017,Sudan,FY 2017,1,Moslem,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Uganda,FY 2017,1,Moslem,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Ukraine,FY 2017,10,Pentecostalist,10,78
+From: 07 Mar 2017,To: 07 Mar 2017,Yemen,FY 2017,2,Moslem,2,78
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Mar 2017,To: 07 Mar 2017,Ahmadiyya,FY 2017,1,Pakistan,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Buddhist,FY 2017,4,Bhutan,4,78
+From: 07 Mar 2017,To: 07 Mar 2017,Catholic,FY 2017,11,El Salvador,10,78
+From: 07 Mar 2017,To: 07 Mar 2017,Catholic,FY 2017,11,Eritrea,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Christian,FY 2017,13,El Salvador,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Christian,FY 2017,13,Ethiopia,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Christian,FY 2017,13,Iran,11,78
+From: 07 Mar 2017,To: 07 Mar 2017,Evangelical Christian,FY 2017,5,El Salvador,5,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem,FY 2017,19,Afghanistan,4,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem,FY 2017,19,Iraq,2,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem,FY 2017,19,Somalia,9,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem,FY 2017,19,Sudan,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem,FY 2017,19,Uganda,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem,FY 2017,19,Yemen,2,78
+From: 07 Mar 2017,To: 07 Mar 2017,Moslem Suni,FY 2017,5,Iraq,5,78
+From: 07 Mar 2017,To: 07 Mar 2017,No Religion,FY 2017,3,El Salvador,3,78
+From: 07 Mar 2017,To: 07 Mar 2017,Pentecostalist,FY 2017,12,Dem. Rep. Congo,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Pentecostalist,FY 2017,12,Eritrea,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Pentecostalist,FY 2017,12,Ukraine,10,78
+From: 07 Mar 2017,To: 07 Mar 2017,Protestant,FY 2017,1,Dem. Rep. Congo,1,78
+From: 07 Mar 2017,To: 07 Mar 2017,Zoroastrian,FY 2017,4,Iran,4,78
+

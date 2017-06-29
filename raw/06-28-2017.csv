@@ -1,0 +1,41 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Jun 2017,To: 28 Jun 2017,Burma,FY 2017,12,Baptist,6,89
+From: 28 Jun 2017,To: 28 Jun 2017,Burma,FY 2017,12,Buddhist,4,89
+From: 28 Jun 2017,To: 28 Jun 2017,Burma,FY 2017,12,Moslem,2,89
+From: 28 Jun 2017,To: 28 Jun 2017,Dem. Rep. Congo,FY 2017,21,Catholic,11,89
+From: 28 Jun 2017,To: 28 Jun 2017,Dem. Rep. Congo,FY 2017,21,Christian,4,89
+From: 28 Jun 2017,To: 28 Jun 2017,Dem. Rep. Congo,FY 2017,21,Protestant,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Dem. Rep. Congo,FY 2017,21,Seventh Day Adventist,5,89
+From: 28 Jun 2017,To: 28 Jun 2017,Iraq,FY 2017,4,Moslem Shiite,4,89
+From: 28 Jun 2017,To: 28 Jun 2017,Somalia,FY 2017,10,Moslem,10,89
+From: 28 Jun 2017,To: 28 Jun 2017,Syria,FY 2017,7,Moslem Suni,7,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,Atheist,2,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,Baptist,5,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,Jewish,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,No Religion,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,Orthodox,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,Pentecostalist,20,89
+From: 28 Jun 2017,To: 28 Jun 2017,Ukraine,FY 2017,35,Uniate,5,89
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Jun 2017,To: 28 Jun 2017,Atheist,FY 2017,2,Ukraine,2,89
+From: 28 Jun 2017,To: 28 Jun 2017,Baptist,FY 2017,11,Burma,6,89
+From: 28 Jun 2017,To: 28 Jun 2017,Baptist,FY 2017,11,Ukraine,5,89
+From: 28 Jun 2017,To: 28 Jun 2017,Buddhist,FY 2017,4,Burma,4,89
+From: 28 Jun 2017,To: 28 Jun 2017,Catholic,FY 2017,11,Dem. Rep. Congo,11,89
+From: 28 Jun 2017,To: 28 Jun 2017,Christian,FY 2017,4,Dem. Rep. Congo,4,89
+From: 28 Jun 2017,To: 28 Jun 2017,Jewish,FY 2017,1,Ukraine,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Moslem,FY 2017,12,Burma,2,89
+From: 28 Jun 2017,To: 28 Jun 2017,Moslem,FY 2017,12,Somalia,10,89
+From: 28 Jun 2017,To: 28 Jun 2017,Moslem Shiite,FY 2017,4,Iraq,4,89
+From: 28 Jun 2017,To: 28 Jun 2017,Moslem Suni,FY 2017,7,Syria,7,89
+From: 28 Jun 2017,To: 28 Jun 2017,No Religion,FY 2017,1,Ukraine,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Orthodox,FY 2017,1,Ukraine,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Pentecostalist,FY 2017,20,Ukraine,20,89
+From: 28 Jun 2017,To: 28 Jun 2017,Protestant,FY 2017,1,Dem. Rep. Congo,1,89
+From: 28 Jun 2017,To: 28 Jun 2017,Seventh Day Adventist,FY 2017,5,Dem. Rep. Congo,5,89
+From: 28 Jun 2017,To: 28 Jun 2017,Uniate,FY 2017,5,Ukraine,5,89
+

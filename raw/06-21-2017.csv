@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 21 Jun 2017,To: 21 Jun 2017,Afghanistan,FY 2017,7,Moslem Shiite,7,158
+From: 21 Jun 2017,To: 21 Jun 2017,Burma,FY 2017,13,Buddhist,5,158
+From: 21 Jun 2017,To: 21 Jun 2017,Burma,FY 2017,13,Christian,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,Burma,FY 2017,13,Moslem,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,Colombia,FY 2017,15,Catholic,5,158
+From: 21 Jun 2017,To: 21 Jun 2017,Colombia,FY 2017,15,Christian,7,158
+From: 21 Jun 2017,To: 21 Jun 2017,Colombia,FY 2017,15,Evangelical Christian,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Colombia,FY 2017,15,No Religion,2,158
+From: 21 Jun 2017,To: 21 Jun 2017,Dem. Rep. Congo,FY 2017,20,Moslem,5,158
+From: 21 Jun 2017,To: 21 Jun 2017,Dem. Rep. Congo,FY 2017,20,Pentecostalist,10,158
+From: 21 Jun 2017,To: 21 Jun 2017,Dem. Rep. Congo,FY 2017,20,Protestant,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Dem. Rep. Congo,FY 2017,20,Seventh Day Adventist,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,El Salvador,FY 2017,1,Catholic,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Ethiopia,FY 2017,6,Moslem,6,158
+From: 21 Jun 2017,To: 21 Jun 2017,Iran,FY 2017,2,Protestant,2,158
+From: 21 Jun 2017,To: 21 Jun 2017,Iraq,FY 2017,17,Catholic,11,158
+From: 21 Jun 2017,To: 21 Jun 2017,Iraq,FY 2017,17,Moslem Suni,6,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moldova,FY 2017,19,Baptist,19,158
+From: 21 Jun 2017,To: 21 Jun 2017,Pakistan,FY 2017,4,Ahmadiyya,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,Palestine,FY 2017,10,Moslem,9,158
+From: 21 Jun 2017,To: 21 Jun 2017,Palestine,FY 2017,10,Moslem Suni,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Somalia,FY 2017,13,Moslem,13,158
+From: 21 Jun 2017,To: 21 Jun 2017,Sudan,FY 2017,15,Moslem,7,158
+From: 21 Jun 2017,To: 21 Jun 2017,Sudan,FY 2017,15,Moslem Suni,8,158
+From: 21 Jun 2017,To: 21 Jun 2017,Syria,FY 2017,16,Moslem Suni,16,158
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 21 Jun 2017,To: 21 Jun 2017,Ahmadiyya,FY 2017,4,Pakistan,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,Baptist,FY 2017,19,Moldova,19,158
+From: 21 Jun 2017,To: 21 Jun 2017,Buddhist,FY 2017,5,Burma,5,158
+From: 21 Jun 2017,To: 21 Jun 2017,Catholic,FY 2017,17,Colombia,5,158
+From: 21 Jun 2017,To: 21 Jun 2017,Catholic,FY 2017,17,El Salvador,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Catholic,FY 2017,17,Iraq,11,158
+From: 21 Jun 2017,To: 21 Jun 2017,Christian,FY 2017,11,Burma,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,Christian,FY 2017,11,Colombia,7,158
+From: 21 Jun 2017,To: 21 Jun 2017,Evangelical Christian,FY 2017,1,Colombia,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem,FY 2017,44,Burma,4,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem,FY 2017,44,Dem. Rep. Congo,5,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem,FY 2017,44,Ethiopia,6,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem,FY 2017,44,Palestine,9,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem,FY 2017,44,Somalia,13,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem,FY 2017,44,Sudan,7,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem Shiite,FY 2017,7,Afghanistan,7,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem Suni,FY 2017,31,Iraq,6,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem Suni,FY 2017,31,Palestine,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem Suni,FY 2017,31,Sudan,8,158
+From: 21 Jun 2017,To: 21 Jun 2017,Moslem Suni,FY 2017,31,Syria,16,158
+From: 21 Jun 2017,To: 21 Jun 2017,No Religion,FY 2017,2,Colombia,2,158
+From: 21 Jun 2017,To: 21 Jun 2017,Pentecostalist,FY 2017,10,Dem. Rep. Congo,10,158
+From: 21 Jun 2017,To: 21 Jun 2017,Protestant,FY 2017,3,Dem. Rep. Congo,1,158
+From: 21 Jun 2017,To: 21 Jun 2017,Protestant,FY 2017,3,Iran,2,158
+From: 21 Jun 2017,To: 21 Jun 2017,Seventh Day Adventist,FY 2017,4,Dem. Rep. Congo,4,158
+

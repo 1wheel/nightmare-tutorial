@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 29 Mar 2017,To: 29 Mar 2017,Afghanistan,FY 2017,1,Moslem Suni,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Bhutan,FY 2017,7,Buddhist,4,96
+From: 29 Mar 2017,To: 29 Mar 2017,Bhutan,FY 2017,7,Hindu,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Bhutan,FY 2017,7,Kirat,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Burma,FY 2017,24,Christian,20,96
+From: 29 Mar 2017,To: 29 Mar 2017,Burma,FY 2017,24,Moslem,4,96
+From: 29 Mar 2017,To: 29 Mar 2017,Dem. Rep. Congo,FY 2017,12,Catholic,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Dem. Rep. Congo,FY 2017,12,Christian,3,96
+From: 29 Mar 2017,To: 29 Mar 2017,Dem. Rep. Congo,FY 2017,12,Jehovah Witness,8,96
+From: 29 Mar 2017,To: 29 Mar 2017,Eritrea,FY 2017,6,Christian,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Eritrea,FY 2017,6,Orthodox,3,96
+From: 29 Mar 2017,To: 29 Mar 2017,Eritrea,FY 2017,6,Protestant,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Ethiopia,FY 2017,6,Christian,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Ethiopia,FY 2017,6,Moslem,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Ethiopia,FY 2017,6,Orthodox,3,96
+From: 29 Mar 2017,To: 29 Mar 2017,Iraq,FY 2017,16,Catholic,6,96
+From: 29 Mar 2017,To: 29 Mar 2017,Iraq,FY 2017,16,Moslem Suni,5,96
+From: 29 Mar 2017,To: 29 Mar 2017,Iraq,FY 2017,16,Yezidi,5,96
+From: 29 Mar 2017,To: 29 Mar 2017,Palestine,FY 2017,6,Moslem,6,96
+From: 29 Mar 2017,To: 29 Mar 2017,Republic of South Sudan,FY 2017,2,Christian,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Rwanda,FY 2017,2,Catholic,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Rwanda,FY 2017,2,Christian,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Somalia,FY 2017,12,Moslem,12,96
+From: 29 Mar 2017,To: 29 Mar 2017,Syria,FY 2017,2,Moslem Suni,2,96
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 29 Mar 2017,To: 29 Mar 2017,Buddhist,FY 2017,4,Bhutan,4,96
+From: 29 Mar 2017,To: 29 Mar 2017,Catholic,FY 2017,8,Dem. Rep. Congo,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Catholic,FY 2017,8,Iraq,6,96
+From: 29 Mar 2017,To: 29 Mar 2017,Catholic,FY 2017,8,Rwanda,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Christian,FY 2017,29,Burma,20,96
+From: 29 Mar 2017,To: 29 Mar 2017,Christian,FY 2017,29,Dem. Rep. Congo,3,96
+From: 29 Mar 2017,To: 29 Mar 2017,Christian,FY 2017,29,Eritrea,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Christian,FY 2017,29,Ethiopia,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Christian,FY 2017,29,Republic of South Sudan,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Christian,FY 2017,29,Rwanda,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Hindu,FY 2017,1,Bhutan,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Jehovah Witness,FY 2017,8,Dem. Rep. Congo,8,96
+From: 29 Mar 2017,To: 29 Mar 2017,Kirat,FY 2017,2,Bhutan,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem,FY 2017,23,Burma,4,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem,FY 2017,23,Ethiopia,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem,FY 2017,23,Palestine,6,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem,FY 2017,23,Somalia,12,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem Suni,FY 2017,8,Afghanistan,1,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem Suni,FY 2017,8,Iraq,5,96
+From: 29 Mar 2017,To: 29 Mar 2017,Moslem Suni,FY 2017,8,Syria,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Orthodox,FY 2017,6,Eritrea,3,96
+From: 29 Mar 2017,To: 29 Mar 2017,Orthodox,FY 2017,6,Ethiopia,3,96
+From: 29 Mar 2017,To: 29 Mar 2017,Protestant,FY 2017,2,Eritrea,2,96
+From: 29 Mar 2017,To: 29 Mar 2017,Yezidi,FY 2017,5,Iraq,5,96
+

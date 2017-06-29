@@ -1,0 +1,55 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 25 May 2017,To: 25 May 2017,Bhutan,FY 2017,65,Buddhist,15,202
+From: 25 May 2017,To: 25 May 2017,Bhutan,FY 2017,65,Christian,11,202
+From: 25 May 2017,To: 25 May 2017,Bhutan,FY 2017,65,Hindu,32,202
+From: 25 May 2017,To: 25 May 2017,Bhutan,FY 2017,65,Kirat,7,202
+From: 25 May 2017,To: 25 May 2017,Burma,FY 2017,22,Christian,12,202
+From: 25 May 2017,To: 25 May 2017,Burma,FY 2017,22,Moslem,10,202
+From: 25 May 2017,To: 25 May 2017,Cuba,FY 2017,11,No Religion,11,202
+From: 25 May 2017,To: 25 May 2017,Dem. Rep. Congo,FY 2017,16,Catholic,1,202
+From: 25 May 2017,To: 25 May 2017,Dem. Rep. Congo,FY 2017,16,Christian,3,202
+From: 25 May 2017,To: 25 May 2017,Dem. Rep. Congo,FY 2017,16,Seventh Day Adventist,12,202
+From: 25 May 2017,To: 25 May 2017,Eritrea,FY 2017,1,Moslem,1,202
+From: 25 May 2017,To: 25 May 2017,Iran,FY 2017,1,No Religion,1,202
+From: 25 May 2017,To: 25 May 2017,Iraq,FY 2017,3,Moslem Shiite,3,202
+From: 25 May 2017,To: 25 May 2017,Mali,FY 2017,2,Moslem,2,202
+From: 25 May 2017,To: 25 May 2017,Somalia,FY 2017,27,Moslem,26,202
+From: 25 May 2017,To: 25 May 2017,Somalia,FY 2017,27,Moslem Suni,1,202
+From: 25 May 2017,To: 25 May 2017,Sudan,FY 2017,9,Christian,4,202
+From: 25 May 2017,To: 25 May 2017,Sudan,FY 2017,9,Moslem,1,202
+From: 25 May 2017,To: 25 May 2017,Sudan,FY 2017,9,Moslem Suni,4,202
+From: 25 May 2017,To: 25 May 2017,Syria,FY 2017,7,Moslem Suni,7,202
+From: 25 May 2017,To: 25 May 2017,Uganda,FY 2017,1,Moslem,1,202
+From: 25 May 2017,To: 25 May 2017,Ukraine,FY 2017,37,Baptist,23,202
+From: 25 May 2017,To: 25 May 2017,Ukraine,FY 2017,37,Pentecostalist,10,202
+From: 25 May 2017,To: 25 May 2017,Ukraine,FY 2017,37,Uniate,4,202
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 25 May 2017,To: 25 May 2017,Baptist,FY 2017,23,Ukraine,23,202
+From: 25 May 2017,To: 25 May 2017,Buddhist,FY 2017,15,Bhutan,15,202
+From: 25 May 2017,To: 25 May 2017,Catholic,FY 2017,1,Dem. Rep. Congo,1,202
+From: 25 May 2017,To: 25 May 2017,Christian,FY 2017,30,Bhutan,11,202
+From: 25 May 2017,To: 25 May 2017,Christian,FY 2017,30,Burma,12,202
+From: 25 May 2017,To: 25 May 2017,Christian,FY 2017,30,Dem. Rep. Congo,3,202
+From: 25 May 2017,To: 25 May 2017,Christian,FY 2017,30,Sudan,4,202
+From: 25 May 2017,To: 25 May 2017,Hindu,FY 2017,32,Bhutan,32,202
+From: 25 May 2017,To: 25 May 2017,Kirat,FY 2017,7,Bhutan,7,202
+From: 25 May 2017,To: 25 May 2017,Moslem,FY 2017,41,Burma,10,202
+From: 25 May 2017,To: 25 May 2017,Moslem,FY 2017,41,Eritrea,1,202
+From: 25 May 2017,To: 25 May 2017,Moslem,FY 2017,41,Mali,2,202
+From: 25 May 2017,To: 25 May 2017,Moslem,FY 2017,41,Somalia,26,202
+From: 25 May 2017,To: 25 May 2017,Moslem,FY 2017,41,Sudan,1,202
+From: 25 May 2017,To: 25 May 2017,Moslem,FY 2017,41,Uganda,1,202
+From: 25 May 2017,To: 25 May 2017,Moslem Shiite,FY 2017,3,Iraq,3,202
+From: 25 May 2017,To: 25 May 2017,Moslem Suni,FY 2017,12,Somalia,1,202
+From: 25 May 2017,To: 25 May 2017,Moslem Suni,FY 2017,12,Sudan,4,202
+From: 25 May 2017,To: 25 May 2017,Moslem Suni,FY 2017,12,Syria,7,202
+From: 25 May 2017,To: 25 May 2017,No Religion,FY 2017,12,Cuba,11,202
+From: 25 May 2017,To: 25 May 2017,No Religion,FY 2017,12,Iran,1,202
+From: 25 May 2017,To: 25 May 2017,Pentecostalist,FY 2017,10,Ukraine,10,202
+From: 25 May 2017,To: 25 May 2017,Seventh Day Adventist,FY 2017,12,Dem. Rep. Congo,12,202
+From: 25 May 2017,To: 25 May 2017,Uniate,FY 2017,4,Ukraine,4,202
+

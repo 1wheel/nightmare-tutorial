@@ -1,0 +1,31 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Mar 2017,To: 01 Mar 2017,Burma,FY 2017,51,Animist,7,138
+From: 01 Mar 2017,To: 01 Mar 2017,Burma,FY 2017,51,Buddhist,12,138
+From: 01 Mar 2017,To: 01 Mar 2017,Burma,FY 2017,51,Christian,28,138
+From: 01 Mar 2017,To: 01 Mar 2017,Burma,FY 2017,51,Moslem,4,138
+From: 01 Mar 2017,To: 01 Mar 2017,Dem. Rep. Congo,FY 2017,13,Moslem,7,138
+From: 01 Mar 2017,To: 01 Mar 2017,Dem. Rep. Congo,FY 2017,13,Protestant,6,138
+From: 01 Mar 2017,To: 01 Mar 2017,Iran,FY 2017,4,Christian,4,138
+From: 01 Mar 2017,To: 01 Mar 2017,Pakistan,FY 2017,7,Ahmadiyya,7,138
+From: 01 Mar 2017,To: 01 Mar 2017,Rwanda,FY 2017,2,Christian,2,138
+From: 01 Mar 2017,To: 01 Mar 2017,Somalia,FY 2017,46,Moslem,46,138
+From: 01 Mar 2017,To: 01 Mar 2017,Sudan,FY 2017,14,Moslem,14,138
+From: 01 Mar 2017,To: 01 Mar 2017,Tunisia,FY 2017,1,Moslem,1,138
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Mar 2017,To: 01 Mar 2017,Ahmadiyya,FY 2017,7,Pakistan,7,138
+From: 01 Mar 2017,To: 01 Mar 2017,Animist,FY 2017,7,Burma,7,138
+From: 01 Mar 2017,To: 01 Mar 2017,Buddhist,FY 2017,12,Burma,12,138
+From: 01 Mar 2017,To: 01 Mar 2017,Christian,FY 2017,34,Burma,28,138
+From: 01 Mar 2017,To: 01 Mar 2017,Christian,FY 2017,34,Iran,4,138
+From: 01 Mar 2017,To: 01 Mar 2017,Christian,FY 2017,34,Rwanda,2,138
+From: 01 Mar 2017,To: 01 Mar 2017,Moslem,FY 2017,72,Burma,4,138
+From: 01 Mar 2017,To: 01 Mar 2017,Moslem,FY 2017,72,Dem. Rep. Congo,7,138
+From: 01 Mar 2017,To: 01 Mar 2017,Moslem,FY 2017,72,Somalia,46,138
+From: 01 Mar 2017,To: 01 Mar 2017,Moslem,FY 2017,72,Sudan,14,138
+From: 01 Mar 2017,To: 01 Mar 2017,Moslem,FY 2017,72,Tunisia,1,138
+From: 01 Mar 2017,To: 01 Mar 2017,Protestant,FY 2017,6,Dem. Rep. Congo,6,138
+

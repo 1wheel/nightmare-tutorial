@@ -1,0 +1,21 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 27 Jun 2017,To: 27 Jun 2017,Burundi,FY 2017,1,Pentecostalist,1,64
+From: 27 Jun 2017,To: 27 Jun 2017,Dem. Rep. Congo,FY 2017,59,Catholic,2,64
+From: 27 Jun 2017,To: 27 Jun 2017,Dem. Rep. Congo,FY 2017,59,Christian,33,64
+From: 27 Jun 2017,To: 27 Jun 2017,Dem. Rep. Congo,FY 2017,59,Moslem,4,64
+From: 27 Jun 2017,To: 27 Jun 2017,Dem. Rep. Congo,FY 2017,59,Pentecostalist,20,64
+From: 27 Jun 2017,To: 27 Jun 2017,Ethiopia,FY 2017,1,Christian,1,64
+From: 27 Jun 2017,To: 27 Jun 2017,Somalia,FY 2017,3,Moslem,3,64
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 27 Jun 2017,To: 27 Jun 2017,Catholic,FY 2017,2,Dem. Rep. Congo,2,64
+From: 27 Jun 2017,To: 27 Jun 2017,Christian,FY 2017,34,Dem. Rep. Congo,33,64
+From: 27 Jun 2017,To: 27 Jun 2017,Christian,FY 2017,34,Ethiopia,1,64
+From: 27 Jun 2017,To: 27 Jun 2017,Moslem,FY 2017,7,Dem. Rep. Congo,4,64
+From: 27 Jun 2017,To: 27 Jun 2017,Moslem,FY 2017,7,Somalia,3,64
+From: 27 Jun 2017,To: 27 Jun 2017,Pentecostalist,FY 2017,21,Burundi,1,64
+From: 27 Jun 2017,To: 27 Jun 2017,Pentecostalist,FY 2017,21,Dem. Rep. Congo,20,64
+

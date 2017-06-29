@@ -1,0 +1,37 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 14 Mar 2017,To: 14 Mar 2017,Burma,FY 2017,28,Christian,24,105
+From: 14 Mar 2017,To: 14 Mar 2017,Burma,FY 2017,28,Moslem,4,105
+From: 14 Mar 2017,To: 14 Mar 2017,Cameroon,FY 2017,2,Catholic,2,105
+From: 14 Mar 2017,To: 14 Mar 2017,Congo,FY 2017,2,Christian,2,105
+From: 14 Mar 2017,To: 14 Mar 2017,Dem. Rep. Congo,FY 2017,23,Catholic,6,105
+From: 14 Mar 2017,To: 14 Mar 2017,Dem. Rep. Congo,FY 2017,23,Christian,8,105
+From: 14 Mar 2017,To: 14 Mar 2017,Dem. Rep. Congo,FY 2017,23,Pentecostalist,6,105
+From: 14 Mar 2017,To: 14 Mar 2017,Dem. Rep. Congo,FY 2017,23,Protestant,3,105
+From: 14 Mar 2017,To: 14 Mar 2017,El Salvador,FY 2017,5,Catholic,5,105
+From: 14 Mar 2017,To: 14 Mar 2017,Eritrea,FY 2017,1,Orthodox,1,105
+From: 14 Mar 2017,To: 14 Mar 2017,Iran,FY 2017,2,Christian,2,105
+From: 14 Mar 2017,To: 14 Mar 2017,Senegal,FY 2017,1,Moslem,1,105
+From: 14 Mar 2017,To: 14 Mar 2017,Syria,FY 2017,24,Moslem Suni,24,105
+From: 14 Mar 2017,To: 14 Mar 2017,Ukraine,FY 2017,17,Baptist,4,105
+From: 14 Mar 2017,To: 14 Mar 2017,Ukraine,FY 2017,17,Jehovah Witness,13,105
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 14 Mar 2017,To: 14 Mar 2017,Baptist,FY 2017,4,Ukraine,4,105
+From: 14 Mar 2017,To: 14 Mar 2017,Catholic,FY 2017,13,Cameroon,2,105
+From: 14 Mar 2017,To: 14 Mar 2017,Catholic,FY 2017,13,Dem. Rep. Congo,6,105
+From: 14 Mar 2017,To: 14 Mar 2017,Catholic,FY 2017,13,El Salvador,5,105
+From: 14 Mar 2017,To: 14 Mar 2017,Christian,FY 2017,36,Burma,24,105
+From: 14 Mar 2017,To: 14 Mar 2017,Christian,FY 2017,36,Congo,2,105
+From: 14 Mar 2017,To: 14 Mar 2017,Christian,FY 2017,36,Dem. Rep. Congo,8,105
+From: 14 Mar 2017,To: 14 Mar 2017,Christian,FY 2017,36,Iran,2,105
+From: 14 Mar 2017,To: 14 Mar 2017,Jehovah Witness,FY 2017,13,Ukraine,13,105
+From: 14 Mar 2017,To: 14 Mar 2017,Moslem,FY 2017,5,Burma,4,105
+From: 14 Mar 2017,To: 14 Mar 2017,Moslem,FY 2017,5,Senegal,1,105
+From: 14 Mar 2017,To: 14 Mar 2017,Moslem Suni,FY 2017,24,Syria,24,105
+From: 14 Mar 2017,To: 14 Mar 2017,Orthodox,FY 2017,1,Eritrea,1,105
+From: 14 Mar 2017,To: 14 Mar 2017,Pentecostalist,FY 2017,6,Dem. Rep. Congo,6,105
+From: 14 Mar 2017,To: 14 Mar 2017,Protestant,FY 2017,3,Dem. Rep. Congo,3,105
+

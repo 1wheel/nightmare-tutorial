@@ -1,0 +1,49 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 31 May 2017,To: 31 May 2017,Afghanistan,FY 2017,30,Moslem Shiite,18,141
+From: 31 May 2017,To: 31 May 2017,Afghanistan,FY 2017,30,Moslem Suni,12,141
+From: 31 May 2017,To: 31 May 2017,Bhutan,FY 2017,5,Buddhist,2,141
+From: 31 May 2017,To: 31 May 2017,Bhutan,FY 2017,5,Kirat,3,141
+From: 31 May 2017,To: 31 May 2017,Burma,FY 2017,4,Buddhist,3,141
+From: 31 May 2017,To: 31 May 2017,Burma,FY 2017,4,Christian,1,141
+From: 31 May 2017,To: 31 May 2017,Dem. Rep. Congo,FY 2017,21,Catholic,12,141
+From: 31 May 2017,To: 31 May 2017,Dem. Rep. Congo,FY 2017,21,Christian,9,141
+From: 31 May 2017,To: 31 May 2017,El Salvador,FY 2017,7,Catholic,5,141
+From: 31 May 2017,To: 31 May 2017,El Salvador,FY 2017,7,Evangelical Christian,2,141
+From: 31 May 2017,To: 31 May 2017,Eritrea,FY 2017,20,Moslem,9,141
+From: 31 May 2017,To: 31 May 2017,Eritrea,FY 2017,20,Orthodox,11,141
+From: 31 May 2017,To: 31 May 2017,Ethiopia,FY 2017,1,Moslem,1,141
+From: 31 May 2017,To: 31 May 2017,Iran,FY 2017,23,Christian,19,141
+From: 31 May 2017,To: 31 May 2017,Iran,FY 2017,23,Moslem Shiite,2,141
+From: 31 May 2017,To: 31 May 2017,Iran,FY 2017,23,Protestant,2,141
+From: 31 May 2017,To: 31 May 2017,Iraq,FY 2017,7,Christian,7,141
+From: 31 May 2017,To: 31 May 2017,Pakistan,FY 2017,9,Ahmadiyya,9,141
+From: 31 May 2017,To: 31 May 2017,Somalia,FY 2017,10,Moslem,10,141
+From: 31 May 2017,To: 31 May 2017,Sudan,FY 2017,4,Moslem,3,141
+From: 31 May 2017,To: 31 May 2017,Sudan,FY 2017,4,Moslem Suni,1,141
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 31 May 2017,To: 31 May 2017,Ahmadiyya,FY 2017,9,Pakistan,9,141
+From: 31 May 2017,To: 31 May 2017,Buddhist,FY 2017,5,Bhutan,2,141
+From: 31 May 2017,To: 31 May 2017,Buddhist,FY 2017,5,Burma,3,141
+From: 31 May 2017,To: 31 May 2017,Catholic,FY 2017,17,Dem. Rep. Congo,12,141
+From: 31 May 2017,To: 31 May 2017,Catholic,FY 2017,17,El Salvador,5,141
+From: 31 May 2017,To: 31 May 2017,Christian,FY 2017,36,Burma,1,141
+From: 31 May 2017,To: 31 May 2017,Christian,FY 2017,36,Dem. Rep. Congo,9,141
+From: 31 May 2017,To: 31 May 2017,Christian,FY 2017,36,Iran,19,141
+From: 31 May 2017,To: 31 May 2017,Christian,FY 2017,36,Iraq,7,141
+From: 31 May 2017,To: 31 May 2017,Evangelical Christian,FY 2017,2,El Salvador,2,141
+From: 31 May 2017,To: 31 May 2017,Kirat,FY 2017,3,Bhutan,3,141
+From: 31 May 2017,To: 31 May 2017,Moslem,FY 2017,23,Eritrea,9,141
+From: 31 May 2017,To: 31 May 2017,Moslem,FY 2017,23,Ethiopia,1,141
+From: 31 May 2017,To: 31 May 2017,Moslem,FY 2017,23,Somalia,10,141
+From: 31 May 2017,To: 31 May 2017,Moslem,FY 2017,23,Sudan,3,141
+From: 31 May 2017,To: 31 May 2017,Moslem Shiite,FY 2017,20,Afghanistan,18,141
+From: 31 May 2017,To: 31 May 2017,Moslem Shiite,FY 2017,20,Iran,2,141
+From: 31 May 2017,To: 31 May 2017,Moslem Suni,FY 2017,13,Afghanistan,12,141
+From: 31 May 2017,To: 31 May 2017,Moslem Suni,FY 2017,13,Sudan,1,141
+From: 31 May 2017,To: 31 May 2017,Orthodox,FY 2017,11,Eritrea,11,141
+From: 31 May 2017,To: 31 May 2017,Protestant,FY 2017,2,Iran,2,141
+

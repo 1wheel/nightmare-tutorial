@@ -1,0 +1,93 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 19 Apr 2017,To: 19 Apr 2017,Afghanistan,FY 2017,6,Moslem Shiite,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Afghanistan,FY 2017,6,Moslem Suni,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Bhutan,FY 2017,22,Buddhist,9,251
+From: 19 Apr 2017,To: 19 Apr 2017,Bhutan,FY 2017,22,Christian,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Bhutan,FY 2017,22,Hindu,10,251
+From: 19 Apr 2017,To: 19 Apr 2017,Burma,FY 2017,51,Buddhist,16,251
+From: 19 Apr 2017,To: 19 Apr 2017,Burma,FY 2017,51,Christian,30,251
+From: 19 Apr 2017,To: 19 Apr 2017,Burma,FY 2017,51,Moslem,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Colombia,FY 2017,5,Catholic,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Colombia,FY 2017,5,Christian,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Colombia,FY 2017,5,Pentecostalist,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Dem. Rep. Congo,FY 2017,41,Catholic,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Dem. Rep. Congo,FY 2017,41,Christian,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Dem. Rep. Congo,FY 2017,41,Pentecostalist,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Dem. Rep. Congo,FY 2017,41,Protestant,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Dem. Rep. Congo,FY 2017,41,Seventh Day Adventist,31,251
+From: 19 Apr 2017,To: 19 Apr 2017,El Salvador,FY 2017,9,Catholic,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,El Salvador,FY 2017,9,Evangelical Christian,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,El Salvador,FY 2017,9,No Religion,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Eritrea,FY 2017,18,Catholic,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Eritrea,FY 2017,18,Moslem Suni,4,251
+From: 19 Apr 2017,To: 19 Apr 2017,Eritrea,FY 2017,18,Orthodox,9,251
+From: 19 Apr 2017,To: 19 Apr 2017,Guatemala,FY 2017,3,Catholic,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iran,FY 2017,21,Bahai,4,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iran,FY 2017,21,Christian,11,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iran,FY 2017,21,Moslem Shiite,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iran,FY 2017,21,Protestant,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iran,FY 2017,21,Zoroastrian,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iraq,FY 2017,28,Catholic,4,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iraq,FY 2017,28,Christian,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iraq,FY 2017,28,Kaaka'i,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iraq,FY 2017,28,Moslem Shiite,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iraq,FY 2017,28,Moslem Suni,11,251
+From: 19 Apr 2017,To: 19 Apr 2017,Iraq,FY 2017,28,Yezidi,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Nepal,FY 2017,3,Christian,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Nepal,FY 2017,3,Hindu,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Pakistan,FY 2017,6,Ahmadiyya,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Pakistan,FY 2017,6,Moslem Shiite,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Somalia,FY 2017,25,Moslem,20,251
+From: 19 Apr 2017,To: 19 Apr 2017,Somalia,FY 2017,25,Moslem Suni,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Syria,FY 2017,6,Moslem,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,Ukraine,FY 2017,7,Evangelical Christian,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Ukraine,FY 2017,7,Pentecostalist,6,251
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 19 Apr 2017,To: 19 Apr 2017,Ahmadiyya,FY 2017,5,Pakistan,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Bahai,FY 2017,4,Iran,4,251
+From: 19 Apr 2017,To: 19 Apr 2017,Buddhist,FY 2017,25,Bhutan,9,251
+From: 19 Apr 2017,To: 19 Apr 2017,Buddhist,FY 2017,25,Burma,16,251
+From: 19 Apr 2017,To: 19 Apr 2017,Catholic,FY 2017,24,Colombia,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Catholic,FY 2017,24,Dem. Rep. Congo,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Catholic,FY 2017,24,El Salvador,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,Catholic,FY 2017,24,Eritrea,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Catholic,FY 2017,24,Guatemala,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Catholic,FY 2017,24,Iraq,4,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Bhutan,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Burma,30,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Colombia,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Dem. Rep. Congo,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Iran,11,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Iraq,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,Christian,FY 2017,56,Nepal,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Evangelical Christian,FY 2017,3,El Salvador,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Evangelical Christian,FY 2017,3,Ukraine,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Hindu,FY 2017,12,Bhutan,10,251
+From: 19 Apr 2017,To: 19 Apr 2017,Hindu,FY 2017,12,Nepal,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Kaaka'i,FY 2017,3,Iraq,3,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem,FY 2017,31,Burma,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem,FY 2017,31,Somalia,20,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem,FY 2017,31,Syria,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Shiite,FY 2017,6,Afghanistan,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Shiite,FY 2017,6,Iran,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Shiite,FY 2017,6,Iraq,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Shiite,FY 2017,6,Pakistan,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Suni,FY 2017,25,Afghanistan,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Suni,FY 2017,25,Eritrea,4,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Suni,FY 2017,25,Iraq,11,251
+From: 19 Apr 2017,To: 19 Apr 2017,Moslem Suni,FY 2017,25,Somalia,5,251
+From: 19 Apr 2017,To: 19 Apr 2017,No Religion,FY 2017,1,El Salvador,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Orthodox,FY 2017,9,Eritrea,9,251
+From: 19 Apr 2017,To: 19 Apr 2017,Pentecostalist,FY 2017,9,Colombia,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Pentecostalist,FY 2017,9,Dem. Rep. Congo,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Pentecostalist,FY 2017,9,Ukraine,6,251
+From: 19 Apr 2017,To: 19 Apr 2017,Protestant,FY 2017,2,Dem. Rep. Congo,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Protestant,FY 2017,2,Iran,1,251
+From: 19 Apr 2017,To: 19 Apr 2017,Seventh Day Adventist,FY 2017,31,Dem. Rep. Congo,31,251
+From: 19 Apr 2017,To: 19 Apr 2017,Yezidi,FY 2017,2,Iraq,2,251
+From: 19 Apr 2017,To: 19 Apr 2017,Zoroastrian,FY 2017,3,Iran,3,251
+

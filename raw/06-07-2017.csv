@@ -1,0 +1,87 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 07 Jun 2017,To: 07 Jun 2017,Afghanistan,FY 2017,2,Moslem Shiite,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Afghanistan,FY 2017,2,Protestant,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Bhutan,FY 2017,41,Buddhist,13,370
+From: 07 Jun 2017,To: 07 Jun 2017,Bhutan,FY 2017,41,Christian,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Bhutan,FY 2017,41,Hindu,10,370
+From: 07 Jun 2017,To: 07 Jun 2017,Bhutan,FY 2017,41,Kirat,12,370
+From: 07 Jun 2017,To: 07 Jun 2017,Burkina Faso (UVolta),FY 2017,1,Catholic,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Burma,FY 2017,68,Buddhist,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Burma,FY 2017,68,Christian,39,370
+From: 07 Jun 2017,To: 07 Jun 2017,Burma,FY 2017,68,Moslem,28,370
+From: 07 Jun 2017,To: 07 Jun 2017,Central African Republic,FY 2017,1,Protestant,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Dem. Rep. Congo,FY 2017,24,Catholic,7,370
+From: 07 Jun 2017,To: 07 Jun 2017,Dem. Rep. Congo,FY 2017,24,Christian,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Dem. Rep. Congo,FY 2017,24,Methodist,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Dem. Rep. Congo,FY 2017,24,Pentecostalist,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Dem. Rep. Congo,FY 2017,24,Protestant,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Dem. Rep. Congo,FY 2017,24,Seventh Day Adventist,4,370
+From: 07 Jun 2017,To: 07 Jun 2017,El Salvador,FY 2017,9,Catholic,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,El Salvador,FY 2017,9,Christian,5,370
+From: 07 Jun 2017,To: 07 Jun 2017,El Salvador,FY 2017,9,No Religion,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Eritrea,FY 2017,97,Catholic,20,370
+From: 07 Jun 2017,To: 07 Jun 2017,Eritrea,FY 2017,97,Moslem,9,370
+From: 07 Jun 2017,To: 07 Jun 2017,Eritrea,FY 2017,97,Orthodox,63,370
+From: 07 Jun 2017,To: 07 Jun 2017,Eritrea,FY 2017,97,Pentecostalist,2,370
+From: 07 Jun 2017,To: 07 Jun 2017,Eritrea,FY 2017,97,Protestant,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Guatemala,FY 2017,2,Catholic,2,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iran,FY 2017,29,Christian,25,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iran,FY 2017,29,Protestant,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iran,FY 2017,29,Sabeans-Mandean,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iraq,FY 2017,28,Christian,2,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iraq,FY 2017,28,Moslem Shiite,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iraq,FY 2017,28,Moslem Suni,11,370
+From: 07 Jun 2017,To: 07 Jun 2017,Iraq,FY 2017,28,Yezidi,12,370
+From: 07 Jun 2017,To: 07 Jun 2017,Palestine,FY 2017,5,Moslem Suni,5,370
+From: 07 Jun 2017,To: 07 Jun 2017,Somalia,FY 2017,6,Moslem,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Sudan,FY 2017,6,Moslem,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Syria,FY 2017,16,Moslem,5,370
+From: 07 Jun 2017,To: 07 Jun 2017,Syria,FY 2017,16,Moslem Suni,11,370
+From: 07 Jun 2017,To: 07 Jun 2017,Ukraine,FY 2017,35,Baptist,8,370
+From: 07 Jun 2017,To: 07 Jun 2017,Ukraine,FY 2017,35,Pentecostalist,27,370
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 07 Jun 2017,To: 07 Jun 2017,Baptist,FY 2017,8,Ukraine,8,370
+From: 07 Jun 2017,To: 07 Jun 2017,Buddhist,FY 2017,14,Bhutan,13,370
+From: 07 Jun 2017,To: 07 Jun 2017,Buddhist,FY 2017,14,Burma,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Catholic,FY 2017,33,Burkina Faso (UVolta),1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Catholic,FY 2017,33,Dem. Rep. Congo,7,370
+From: 07 Jun 2017,To: 07 Jun 2017,Catholic,FY 2017,33,El Salvador,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Catholic,FY 2017,33,Eritrea,20,370
+From: 07 Jun 2017,To: 07 Jun 2017,Catholic,FY 2017,33,Guatemala,2,370
+From: 07 Jun 2017,To: 07 Jun 2017,Christian,FY 2017,80,Bhutan,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Christian,FY 2017,80,Burma,39,370
+From: 07 Jun 2017,To: 07 Jun 2017,Christian,FY 2017,80,Dem. Rep. Congo,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Christian,FY 2017,80,El Salvador,5,370
+From: 07 Jun 2017,To: 07 Jun 2017,Christian,FY 2017,80,Iran,25,370
+From: 07 Jun 2017,To: 07 Jun 2017,Christian,FY 2017,80,Iraq,2,370
+From: 07 Jun 2017,To: 07 Jun 2017,Hindu,FY 2017,10,Bhutan,10,370
+From: 07 Jun 2017,To: 07 Jun 2017,Kirat,FY 2017,12,Bhutan,12,370
+From: 07 Jun 2017,To: 07 Jun 2017,Methodist,FY 2017,3,Dem. Rep. Congo,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem,FY 2017,54,Burma,28,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem,FY 2017,54,Eritrea,9,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem,FY 2017,54,Somalia,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem,FY 2017,54,Sudan,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem,FY 2017,54,Syria,5,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem Shiite,FY 2017,4,Afghanistan,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem Shiite,FY 2017,4,Iraq,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem Suni,FY 2017,27,Iraq,11,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem Suni,FY 2017,27,Palestine,5,370
+From: 07 Jun 2017,To: 07 Jun 2017,Moslem Suni,FY 2017,27,Syria,11,370
+From: 07 Jun 2017,To: 07 Jun 2017,No Religion,FY 2017,1,El Salvador,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Orthodox,FY 2017,63,Eritrea,63,370
+From: 07 Jun 2017,To: 07 Jun 2017,Pentecostalist,FY 2017,30,Dem. Rep. Congo,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Pentecostalist,FY 2017,30,Eritrea,2,370
+From: 07 Jun 2017,To: 07 Jun 2017,Pentecostalist,FY 2017,30,Ukraine,27,370
+From: 07 Jun 2017,To: 07 Jun 2017,Protestant,FY 2017,12,Afghanistan,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Protestant,FY 2017,12,Central African Republic,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Protestant,FY 2017,12,Dem. Rep. Congo,6,370
+From: 07 Jun 2017,To: 07 Jun 2017,Protestant,FY 2017,12,Eritrea,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Protestant,FY 2017,12,Iran,1,370
+From: 07 Jun 2017,To: 07 Jun 2017,Sabeans-Mandean,FY 2017,3,Iran,3,370
+From: 07 Jun 2017,To: 07 Jun 2017,Seventh Day Adventist,FY 2017,4,Dem. Rep. Congo,4,370
+From: 07 Jun 2017,To: 07 Jun 2017,Yezidi,FY 2017,12,Iraq,12,370
+

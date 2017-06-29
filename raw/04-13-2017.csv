@@ -1,0 +1,43 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 13 Apr 2017,To: 13 Apr 2017,Afghanistan,FY 2017,11,Moslem,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Afghanistan,FY 2017,11,Moslem Shiite,6,69
+From: 13 Apr 2017,To: 13 Apr 2017,Afghanistan,FY 2017,11,Moslem Suni,4,69
+From: 13 Apr 2017,To: 13 Apr 2017,Bhutan,FY 2017,8,Buddhist,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Bhutan,FY 2017,8,Hindu,4,69
+From: 13 Apr 2017,To: 13 Apr 2017,Bhutan,FY 2017,8,Kirat,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Burma,FY 2017,9,Buddhist,3,69
+From: 13 Apr 2017,To: 13 Apr 2017,Burma,FY 2017,9,Moslem,6,69
+From: 13 Apr 2017,To: 13 Apr 2017,Dem. Rep. Congo,FY 2017,7,Pentecostalist,7,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iran,FY 2017,9,Christian,5,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iran,FY 2017,9,Jewish,3,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iran,FY 2017,9,Zoroastrian,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iraq,FY 2017,6,Catholic,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iraq,FY 2017,6,Christian,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iraq,FY 2017,6,Moslem Suni,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Iraq,FY 2017,6,Orthodox,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Syria,FY 2017,19,Moslem,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Syria,FY 2017,19,Moslem Suni,18,69
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 13 Apr 2017,To: 13 Apr 2017,Buddhist,FY 2017,5,Bhutan,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Buddhist,FY 2017,5,Burma,3,69
+From: 13 Apr 2017,To: 13 Apr 2017,Catholic,FY 2017,1,Iraq,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Christian,FY 2017,6,Iran,5,69
+From: 13 Apr 2017,To: 13 Apr 2017,Christian,FY 2017,6,Iraq,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Hindu,FY 2017,4,Bhutan,4,69
+From: 13 Apr 2017,To: 13 Apr 2017,Jewish,FY 2017,3,Iran,3,69
+From: 13 Apr 2017,To: 13 Apr 2017,Kirat,FY 2017,2,Bhutan,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem,FY 2017,8,Afghanistan,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem,FY 2017,8,Burma,6,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem,FY 2017,8,Syria,1,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem Shiite,FY 2017,6,Afghanistan,6,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem Suni,FY 2017,24,Afghanistan,4,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem Suni,FY 2017,24,Iraq,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Moslem Suni,FY 2017,24,Syria,18,69
+From: 13 Apr 2017,To: 13 Apr 2017,Orthodox,FY 2017,2,Iraq,2,69
+From: 13 Apr 2017,To: 13 Apr 2017,Pentecostalist,FY 2017,7,Dem. Rep. Congo,7,69
+From: 13 Apr 2017,To: 13 Apr 2017,Zoroastrian,FY 2017,1,Iran,1,69
+

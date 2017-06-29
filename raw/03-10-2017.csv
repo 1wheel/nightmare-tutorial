@@ -1,0 +1,39 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 10 Mar 2017,To: 10 Mar 2017,Cuba,FY 2017,1,Catholic,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Dem. Rep. Congo,FY 2017,8,Catholic,6,58
+From: 10 Mar 2017,To: 10 Mar 2017,Dem. Rep. Congo,FY 2017,8,Pentecostalist,2,58
+From: 10 Mar 2017,To: 10 Mar 2017,Ethiopia,FY 2017,5,Moslem,3,58
+From: 10 Mar 2017,To: 10 Mar 2017,Ethiopia,FY 2017,5,Orthodox,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Ethiopia,FY 2017,5,Protestant,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Iraq,FY 2017,16,Catholic,5,58
+From: 10 Mar 2017,To: 10 Mar 2017,Iraq,FY 2017,16,Christian,4,58
+From: 10 Mar 2017,To: 10 Mar 2017,Iraq,FY 2017,16,Moslem Shiite,3,58
+From: 10 Mar 2017,To: 10 Mar 2017,Iraq,FY 2017,16,Moslem Suni,2,58
+From: 10 Mar 2017,To: 10 Mar 2017,Iraq,FY 2017,16,Yezidi,2,58
+From: 10 Mar 2017,To: 10 Mar 2017,Kenya,FY 2017,1,Moslem,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Republic of South Sudan,FY 2017,1,Christian,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Somalia,FY 2017,17,Moslem,17,58
+From: 10 Mar 2017,To: 10 Mar 2017,Syria,FY 2017,6,Moslem Suni,6,58
+From: 10 Mar 2017,To: 10 Mar 2017,Vietnam,FY 2017,3,Buddhist,3,58
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 10 Mar 2017,To: 10 Mar 2017,Buddhist,FY 2017,3,Vietnam,3,58
+From: 10 Mar 2017,To: 10 Mar 2017,Catholic,FY 2017,12,Cuba,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Catholic,FY 2017,12,Dem. Rep. Congo,6,58
+From: 10 Mar 2017,To: 10 Mar 2017,Catholic,FY 2017,12,Iraq,5,58
+From: 10 Mar 2017,To: 10 Mar 2017,Christian,FY 2017,5,Iraq,4,58
+From: 10 Mar 2017,To: 10 Mar 2017,Christian,FY 2017,5,Republic of South Sudan,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Moslem,FY 2017,21,Ethiopia,3,58
+From: 10 Mar 2017,To: 10 Mar 2017,Moslem,FY 2017,21,Kenya,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Moslem,FY 2017,21,Somalia,17,58
+From: 10 Mar 2017,To: 10 Mar 2017,Moslem Shiite,FY 2017,3,Iraq,3,58
+From: 10 Mar 2017,To: 10 Mar 2017,Moslem Suni,FY 2017,8,Iraq,2,58
+From: 10 Mar 2017,To: 10 Mar 2017,Moslem Suni,FY 2017,8,Syria,6,58
+From: 10 Mar 2017,To: 10 Mar 2017,Orthodox,FY 2017,1,Ethiopia,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Pentecostalist,FY 2017,2,Dem. Rep. Congo,2,58
+From: 10 Mar 2017,To: 10 Mar 2017,Protestant,FY 2017,1,Ethiopia,1,58
+From: 10 Mar 2017,To: 10 Mar 2017,Yezidi,FY 2017,2,Iraq,2,58
+

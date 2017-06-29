@@ -1,0 +1,91 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 11 May 2017,To: 11 May 2017,Afghanistan,FY 2017,17,Moslem Shiite,17,362
+From: 11 May 2017,To: 11 May 2017,Bhutan,FY 2017,20,Buddhist,6,362
+From: 11 May 2017,To: 11 May 2017,Bhutan,FY 2017,20,Christian,6,362
+From: 11 May 2017,To: 11 May 2017,Bhutan,FY 2017,20,Hindu,8,362
+From: 11 May 2017,To: 11 May 2017,Burma,FY 2017,11,Christian,7,362
+From: 11 May 2017,To: 11 May 2017,Burma,FY 2017,11,Moslem,4,362
+From: 11 May 2017,To: 11 May 2017,Cameroon,FY 2017,1,Christian,1,362
+From: 11 May 2017,To: 11 May 2017,Dem. Rep. Congo,FY 2017,99,Catholic,18,362
+From: 11 May 2017,To: 11 May 2017,Dem. Rep. Congo,FY 2017,99,Christian,5,362
+From: 11 May 2017,To: 11 May 2017,Dem. Rep. Congo,FY 2017,99,Jehovah Witness,3,362
+From: 11 May 2017,To: 11 May 2017,Dem. Rep. Congo,FY 2017,99,Pentecostalist,25,362
+From: 11 May 2017,To: 11 May 2017,Dem. Rep. Congo,FY 2017,99,Protestant,16,362
+From: 11 May 2017,To: 11 May 2017,Dem. Rep. Congo,FY 2017,99,Seventh Day Adventist,32,362
+From: 11 May 2017,To: 11 May 2017,El Salvador,FY 2017,6,Catholic,3,362
+From: 11 May 2017,To: 11 May 2017,El Salvador,FY 2017,6,Evangelical Christian,2,362
+From: 11 May 2017,To: 11 May 2017,El Salvador,FY 2017,6,Other Religion,1,362
+From: 11 May 2017,To: 11 May 2017,Eritrea,FY 2017,14,Catholic,1,362
+From: 11 May 2017,To: 11 May 2017,Eritrea,FY 2017,14,Christian,1,362
+From: 11 May 2017,To: 11 May 2017,Eritrea,FY 2017,14,Moslem,4,362
+From: 11 May 2017,To: 11 May 2017,Eritrea,FY 2017,14,Orthodox,8,362
+From: 11 May 2017,To: 11 May 2017,Ethiopia,FY 2017,15,Moslem,11,362
+From: 11 May 2017,To: 11 May 2017,Ethiopia,FY 2017,15,Protestant,4,362
+From: 11 May 2017,To: 11 May 2017,Honduras,FY 2017,1,Christian,1,362
+From: 11 May 2017,To: 11 May 2017,Iran,FY 2017,6,Other Religion,2,362
+From: 11 May 2017,To: 11 May 2017,Iran,FY 2017,6,Pentecostalist,3,362
+From: 11 May 2017,To: 11 May 2017,Iran,FY 2017,6,Sabeans-Mandean,1,362
+From: 11 May 2017,To: 11 May 2017,Iraq,FY 2017,10,Moslem,1,362
+From: 11 May 2017,To: 11 May 2017,Iraq,FY 2017,10,Orthodox,4,362
+From: 11 May 2017,To: 11 May 2017,Iraq,FY 2017,10,Sabeans-Mandean,5,362
+From: 11 May 2017,To: 11 May 2017,Republic of South Sudan,FY 2017,19,Catholic,13,362
+From: 11 May 2017,To: 11 May 2017,Republic of South Sudan,FY 2017,19,Christian,2,362
+From: 11 May 2017,To: 11 May 2017,Republic of South Sudan,FY 2017,19,Moslem,4,362
+From: 11 May 2017,To: 11 May 2017,Russia,FY 2017,4,Baptist,4,362
+From: 11 May 2017,To: 11 May 2017,Somalia,FY 2017,43,Moslem,43,362
+From: 11 May 2017,To: 11 May 2017,Sudan,FY 2017,43,Christian,8,362
+From: 11 May 2017,To: 11 May 2017,Sudan,FY 2017,43,Moslem,35,362
+From: 11 May 2017,To: 11 May 2017,Syria,FY 2017,9,Moslem Suni,9,362
+From: 11 May 2017,To: 11 May 2017,Uganda,FY 2017,1,Christian,1,362
+From: 11 May 2017,To: 11 May 2017,Ukraine,FY 2017,40,Atheist,1,362
+From: 11 May 2017,To: 11 May 2017,Ukraine,FY 2017,40,Baptist,2,362
+From: 11 May 2017,To: 11 May 2017,Ukraine,FY 2017,40,Pentecostalist,37,362
+From: 11 May 2017,To: 11 May 2017,Yemen,FY 2017,3,Moslem,3,362
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 11 May 2017,To: 11 May 2017,Atheist,FY 2017,1,Ukraine,1,362
+From: 11 May 2017,To: 11 May 2017,Baptist,FY 2017,6,Russia,4,362
+From: 11 May 2017,To: 11 May 2017,Baptist,FY 2017,6,Ukraine,2,362
+From: 11 May 2017,To: 11 May 2017,Buddhist,FY 2017,6,Bhutan,6,362
+From: 11 May 2017,To: 11 May 2017,Catholic,FY 2017,35,Dem. Rep. Congo,18,362
+From: 11 May 2017,To: 11 May 2017,Catholic,FY 2017,35,El Salvador,3,362
+From: 11 May 2017,To: 11 May 2017,Catholic,FY 2017,35,Eritrea,1,362
+From: 11 May 2017,To: 11 May 2017,Catholic,FY 2017,35,Republic of South Sudan,13,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Bhutan,6,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Burma,7,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Cameroon,1,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Dem. Rep. Congo,5,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Eritrea,1,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Honduras,1,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Republic of South Sudan,2,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Sudan,8,362
+From: 11 May 2017,To: 11 May 2017,Christian,FY 2017,32,Uganda,1,362
+From: 11 May 2017,To: 11 May 2017,Evangelical Christian,FY 2017,2,El Salvador,2,362
+From: 11 May 2017,To: 11 May 2017,Hindu,FY 2017,8,Bhutan,8,362
+From: 11 May 2017,To: 11 May 2017,Jehovah Witness,FY 2017,3,Dem. Rep. Congo,3,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Burma,4,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Eritrea,4,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Ethiopia,11,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Iraq,1,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Republic of South Sudan,4,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Somalia,43,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Sudan,35,362
+From: 11 May 2017,To: 11 May 2017,Moslem,FY 2017,105,Yemen,3,362
+From: 11 May 2017,To: 11 May 2017,Moslem Shiite,FY 2017,17,Afghanistan,17,362
+From: 11 May 2017,To: 11 May 2017,Moslem Suni,FY 2017,9,Syria,9,362
+From: 11 May 2017,To: 11 May 2017,Orthodox,FY 2017,12,Eritrea,8,362
+From: 11 May 2017,To: 11 May 2017,Orthodox,FY 2017,12,Iraq,4,362
+From: 11 May 2017,To: 11 May 2017,Other Religion,FY 2017,3,El Salvador,1,362
+From: 11 May 2017,To: 11 May 2017,Other Religion,FY 2017,3,Iran,2,362
+From: 11 May 2017,To: 11 May 2017,Pentecostalist,FY 2017,65,Dem. Rep. Congo,25,362
+From: 11 May 2017,To: 11 May 2017,Pentecostalist,FY 2017,65,Iran,3,362
+From: 11 May 2017,To: 11 May 2017,Pentecostalist,FY 2017,65,Ukraine,37,362
+From: 11 May 2017,To: 11 May 2017,Protestant,FY 2017,20,Dem. Rep. Congo,16,362
+From: 11 May 2017,To: 11 May 2017,Protestant,FY 2017,20,Ethiopia,4,362
+From: 11 May 2017,To: 11 May 2017,Sabeans-Mandean,FY 2017,6,Iran,1,362
+From: 11 May 2017,To: 11 May 2017,Sabeans-Mandean,FY 2017,6,Iraq,5,362
+From: 11 May 2017,To: 11 May 2017,Seventh Day Adventist,FY 2017,32,Dem. Rep. Congo,32,362
+

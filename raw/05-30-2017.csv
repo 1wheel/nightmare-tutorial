@@ -1,0 +1,91 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 30 May 2017,To: 30 May 2017,Afghanistan,FY 2017,12,Moslem Shiite,12,513
+From: 30 May 2017,To: 30 May 2017,Bhutan,FY 2017,20,Buddhist,9,513
+From: 30 May 2017,To: 30 May 2017,Bhutan,FY 2017,20,Christian,1,513
+From: 30 May 2017,To: 30 May 2017,Bhutan,FY 2017,20,Hindu,8,513
+From: 30 May 2017,To: 30 May 2017,Bhutan,FY 2017,20,Kirat,2,513
+From: 30 May 2017,To: 30 May 2017,Burma,FY 2017,129,Animist,4,513
+From: 30 May 2017,To: 30 May 2017,Burma,FY 2017,129,Buddhist,12,513
+From: 30 May 2017,To: 30 May 2017,Burma,FY 2017,129,Christian,89,513
+From: 30 May 2017,To: 30 May 2017,Burma,FY 2017,129,Moslem,24,513
+From: 30 May 2017,To: 30 May 2017,Dem. Rep. Congo,FY 2017,83,Catholic,24,513
+From: 30 May 2017,To: 30 May 2017,Dem. Rep. Congo,FY 2017,83,Christian,24,513
+From: 30 May 2017,To: 30 May 2017,Dem. Rep. Congo,FY 2017,83,Moslem,8,513
+From: 30 May 2017,To: 30 May 2017,Dem. Rep. Congo,FY 2017,83,Pentecostalist,5,513
+From: 30 May 2017,To: 30 May 2017,Dem. Rep. Congo,FY 2017,83,Protestant,8,513
+From: 30 May 2017,To: 30 May 2017,Dem. Rep. Congo,FY 2017,83,Seventh Day Adventist,14,513
+From: 30 May 2017,To: 30 May 2017,El Salvador,FY 2017,13,Catholic,5,513
+From: 30 May 2017,To: 30 May 2017,El Salvador,FY 2017,13,Christian,5,513
+From: 30 May 2017,To: 30 May 2017,El Salvador,FY 2017,13,Evangelical Christian,2,513
+From: 30 May 2017,To: 30 May 2017,El Salvador,FY 2017,13,No Religion,1,513
+From: 30 May 2017,To: 30 May 2017,Eritrea,FY 2017,33,Catholic,9,513
+From: 30 May 2017,To: 30 May 2017,Eritrea,FY 2017,33,Moslem,1,513
+From: 30 May 2017,To: 30 May 2017,Eritrea,FY 2017,33,Orthodox,22,513
+From: 30 May 2017,To: 30 May 2017,Eritrea,FY 2017,33,Protestant,1,513
+From: 30 May 2017,To: 30 May 2017,Ethiopia,FY 2017,1,Lutheran,1,513
+From: 30 May 2017,To: 30 May 2017,Honduras,FY 2017,2,Evangelical Christian,2,513
+From: 30 May 2017,To: 30 May 2017,Iran,FY 2017,5,Pentecostalist,1,513
+From: 30 May 2017,To: 30 May 2017,Iran,FY 2017,5,Protestant,3,513
+From: 30 May 2017,To: 30 May 2017,Iran,FY 2017,5,Zoroastrian,1,513
+From: 30 May 2017,To: 30 May 2017,Iraq,FY 2017,20,Moslem Shiite,4,513
+From: 30 May 2017,To: 30 May 2017,Iraq,FY 2017,20,Moslem Suni,16,513
+From: 30 May 2017,To: 30 May 2017,Moldova,FY 2017,17,Baptist,9,513
+From: 30 May 2017,To: 30 May 2017,Moldova,FY 2017,17,Jehovah Witness,8,513
+From: 30 May 2017,To: 30 May 2017,Pakistan,FY 2017,5,Ahmadiyya,5,513
+From: 30 May 2017,To: 30 May 2017,Somalia,FY 2017,81,Moslem,81,513
+From: 30 May 2017,To: 30 May 2017,Sudan,FY 2017,14,Christian,3,513
+From: 30 May 2017,To: 30 May 2017,Sudan,FY 2017,14,Moslem,11,513
+From: 30 May 2017,To: 30 May 2017,Syria,FY 2017,7,Moslem Suni,7,513
+From: 30 May 2017,To: 30 May 2017,Uganda,FY 2017,1,Moslem,1,513
+From: 30 May 2017,To: 30 May 2017,Ukraine,FY 2017,70,Baptist,27,513
+From: 30 May 2017,To: 30 May 2017,Ukraine,FY 2017,70,Jewish,2,513
+From: 30 May 2017,To: 30 May 2017,Ukraine,FY 2017,70,Pentecostalist,39,513
+From: 30 May 2017,To: 30 May 2017,Ukraine,FY 2017,70,Seventh Day Adventist,2,513
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 30 May 2017,To: 30 May 2017,Ahmadiyya,FY 2017,5,Pakistan,5,513
+From: 30 May 2017,To: 30 May 2017,Animist,FY 2017,4,Burma,4,513
+From: 30 May 2017,To: 30 May 2017,Baptist,FY 2017,36,Moldova,9,513
+From: 30 May 2017,To: 30 May 2017,Baptist,FY 2017,36,Ukraine,27,513
+From: 30 May 2017,To: 30 May 2017,Buddhist,FY 2017,21,Bhutan,9,513
+From: 30 May 2017,To: 30 May 2017,Buddhist,FY 2017,21,Burma,12,513
+From: 30 May 2017,To: 30 May 2017,Catholic,FY 2017,38,Dem. Rep. Congo,24,513
+From: 30 May 2017,To: 30 May 2017,Catholic,FY 2017,38,El Salvador,5,513
+From: 30 May 2017,To: 30 May 2017,Catholic,FY 2017,38,Eritrea,9,513
+From: 30 May 2017,To: 30 May 2017,Christian,FY 2017,122,Bhutan,1,513
+From: 30 May 2017,To: 30 May 2017,Christian,FY 2017,122,Burma,89,513
+From: 30 May 2017,To: 30 May 2017,Christian,FY 2017,122,Dem. Rep. Congo,24,513
+From: 30 May 2017,To: 30 May 2017,Christian,FY 2017,122,El Salvador,5,513
+From: 30 May 2017,To: 30 May 2017,Christian,FY 2017,122,Sudan,3,513
+From: 30 May 2017,To: 30 May 2017,Evangelical Christian,FY 2017,4,El Salvador,2,513
+From: 30 May 2017,To: 30 May 2017,Evangelical Christian,FY 2017,4,Honduras,2,513
+From: 30 May 2017,To: 30 May 2017,Hindu,FY 2017,8,Bhutan,8,513
+From: 30 May 2017,To: 30 May 2017,Jehovah Witness,FY 2017,8,Moldova,8,513
+From: 30 May 2017,To: 30 May 2017,Jewish,FY 2017,2,Ukraine,2,513
+From: 30 May 2017,To: 30 May 2017,Kirat,FY 2017,2,Bhutan,2,513
+From: 30 May 2017,To: 30 May 2017,Lutheran,FY 2017,1,Ethiopia,1,513
+From: 30 May 2017,To: 30 May 2017,Moslem,FY 2017,126,Burma,24,513
+From: 30 May 2017,To: 30 May 2017,Moslem,FY 2017,126,Dem. Rep. Congo,8,513
+From: 30 May 2017,To: 30 May 2017,Moslem,FY 2017,126,Eritrea,1,513
+From: 30 May 2017,To: 30 May 2017,Moslem,FY 2017,126,Somalia,81,513
+From: 30 May 2017,To: 30 May 2017,Moslem,FY 2017,126,Sudan,11,513
+From: 30 May 2017,To: 30 May 2017,Moslem,FY 2017,126,Uganda,1,513
+From: 30 May 2017,To: 30 May 2017,Moslem Shiite,FY 2017,16,Afghanistan,12,513
+From: 30 May 2017,To: 30 May 2017,Moslem Shiite,FY 2017,16,Iraq,4,513
+From: 30 May 2017,To: 30 May 2017,Moslem Suni,FY 2017,23,Iraq,16,513
+From: 30 May 2017,To: 30 May 2017,Moslem Suni,FY 2017,23,Syria,7,513
+From: 30 May 2017,To: 30 May 2017,No Religion,FY 2017,1,El Salvador,1,513
+From: 30 May 2017,To: 30 May 2017,Orthodox,FY 2017,22,Eritrea,22,513
+From: 30 May 2017,To: 30 May 2017,Pentecostalist,FY 2017,45,Dem. Rep. Congo,5,513
+From: 30 May 2017,To: 30 May 2017,Pentecostalist,FY 2017,45,Iran,1,513
+From: 30 May 2017,To: 30 May 2017,Pentecostalist,FY 2017,45,Ukraine,39,513
+From: 30 May 2017,To: 30 May 2017,Protestant,FY 2017,12,Dem. Rep. Congo,8,513
+From: 30 May 2017,To: 30 May 2017,Protestant,FY 2017,12,Eritrea,1,513
+From: 30 May 2017,To: 30 May 2017,Protestant,FY 2017,12,Iran,3,513
+From: 30 May 2017,To: 30 May 2017,Seventh Day Adventist,FY 2017,16,Dem. Rep. Congo,14,513
+From: 30 May 2017,To: 30 May 2017,Seventh Day Adventist,FY 2017,16,Ukraine,2,513
+From: 30 May 2017,To: 30 May 2017,Zoroastrian,FY 2017,1,Iran,1,513
+

@@ -1,0 +1,65 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 04 Apr 2017,To: 04 Apr 2017,Bhutan,FY 2017,9,Buddhist,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Bhutan,FY 2017,9,Kirat,5,204
+From: 04 Apr 2017,To: 04 Apr 2017,Cameroon,FY 2017,2,Atheist,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Cameroon,FY 2017,2,Protestant,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,China,FY 2017,4,Other Religion,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Dem. Rep. Congo,FY 2017,45,Baptist,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Dem. Rep. Congo,FY 2017,45,Catholic,22,204
+From: 04 Apr 2017,To: 04 Apr 2017,Dem. Rep. Congo,FY 2017,45,Moslem,2,204
+From: 04 Apr 2017,To: 04 Apr 2017,Dem. Rep. Congo,FY 2017,45,Pentecostalist,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,Dem. Rep. Congo,FY 2017,45,Protestant,6,204
+From: 04 Apr 2017,To: 04 Apr 2017,Dem. Rep. Congo,FY 2017,45,Seventh Day Adventist,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,El Salvador,FY 2017,26,Catholic,14,204
+From: 04 Apr 2017,To: 04 Apr 2017,El Salvador,FY 2017,26,Evangelical Christian,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,El Salvador,FY 2017,26,No Religion,3,204
+From: 04 Apr 2017,To: 04 Apr 2017,El Salvador,FY 2017,26,Protestant,2,204
+From: 04 Apr 2017,To: 04 Apr 2017,Eritrea,FY 2017,10,Orthodox,10,204
+From: 04 Apr 2017,To: 04 Apr 2017,Iran,FY 2017,18,Christian,16,204
+From: 04 Apr 2017,To: 04 Apr 2017,Iran,FY 2017,18,Zoroastrian,2,204
+From: 04 Apr 2017,To: 04 Apr 2017,Iraq,FY 2017,10,Moslem Shiite,6,204
+From: 04 Apr 2017,To: 04 Apr 2017,Iraq,FY 2017,10,Moslem Suni,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Rwanda,FY 2017,1,Pentecostalist,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Somalia,FY 2017,12,Moslem,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,Somalia,FY 2017,12,Moslem Suni,5,204
+From: 04 Apr 2017,To: 04 Apr 2017,Syria,FY 2017,27,Moslem,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Syria,FY 2017,27,Moslem Suni,23,204
+From: 04 Apr 2017,To: 04 Apr 2017,Ukraine,FY 2017,40,Baptist,17,204
+From: 04 Apr 2017,To: 04 Apr 2017,Ukraine,FY 2017,40,Evangelical Christian,5,204
+From: 04 Apr 2017,To: 04 Apr 2017,Ukraine,FY 2017,40,Pentecostalist,10,204
+From: 04 Apr 2017,To: 04 Apr 2017,Ukraine,FY 2017,40,Seventh Day Adventist,8,204
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 04 Apr 2017,To: 04 Apr 2017,Atheist,FY 2017,1,Cameroon,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Baptist,FY 2017,18,Dem. Rep. Congo,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Baptist,FY 2017,18,Ukraine,17,204
+From: 04 Apr 2017,To: 04 Apr 2017,Buddhist,FY 2017,4,Bhutan,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Catholic,FY 2017,36,Dem. Rep. Congo,22,204
+From: 04 Apr 2017,To: 04 Apr 2017,Catholic,FY 2017,36,El Salvador,14,204
+From: 04 Apr 2017,To: 04 Apr 2017,Christian,FY 2017,16,Iran,16,204
+From: 04 Apr 2017,To: 04 Apr 2017,Evangelical Christian,FY 2017,12,El Salvador,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,Evangelical Christian,FY 2017,12,Ukraine,5,204
+From: 04 Apr 2017,To: 04 Apr 2017,Kirat,FY 2017,5,Bhutan,5,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem,FY 2017,13,Dem. Rep. Congo,2,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem,FY 2017,13,Somalia,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem,FY 2017,13,Syria,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem Shiite,FY 2017,6,Iraq,6,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem Suni,FY 2017,32,Iraq,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem Suni,FY 2017,32,Somalia,5,204
+From: 04 Apr 2017,To: 04 Apr 2017,Moslem Suni,FY 2017,32,Syria,23,204
+From: 04 Apr 2017,To: 04 Apr 2017,No Religion,FY 2017,3,El Salvador,3,204
+From: 04 Apr 2017,To: 04 Apr 2017,Orthodox,FY 2017,10,Eritrea,10,204
+From: 04 Apr 2017,To: 04 Apr 2017,Other Religion,FY 2017,4,China,4,204
+From: 04 Apr 2017,To: 04 Apr 2017,Pentecostalist,FY 2017,18,Dem. Rep. Congo,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,Pentecostalist,FY 2017,18,Rwanda,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Pentecostalist,FY 2017,18,Ukraine,10,204
+From: 04 Apr 2017,To: 04 Apr 2017,Protestant,FY 2017,9,Cameroon,1,204
+From: 04 Apr 2017,To: 04 Apr 2017,Protestant,FY 2017,9,Dem. Rep. Congo,6,204
+From: 04 Apr 2017,To: 04 Apr 2017,Protestant,FY 2017,9,El Salvador,2,204
+From: 04 Apr 2017,To: 04 Apr 2017,Seventh Day Adventist,FY 2017,15,Dem. Rep. Congo,7,204
+From: 04 Apr 2017,To: 04 Apr 2017,Seventh Day Adventist,FY 2017,15,Ukraine,8,204
+From: 04 Apr 2017,To: 04 Apr 2017,Zoroastrian,FY 2017,2,Iran,2,204
+

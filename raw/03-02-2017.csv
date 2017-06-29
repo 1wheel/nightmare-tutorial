@@ -1,0 +1,47 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 02 Mar 2017,To: 02 Mar 2017,Afghanistan,FY 2017,11,Moslem Shiite,11,153
+From: 02 Mar 2017,To: 02 Mar 2017,Burma,FY 2017,46,Buddhist,12,153
+From: 02 Mar 2017,To: 02 Mar 2017,Burma,FY 2017,46,Christian,26,153
+From: 02 Mar 2017,To: 02 Mar 2017,Burma,FY 2017,46,Moslem,8,153
+From: 02 Mar 2017,To: 02 Mar 2017,Dem. Rep. Congo,FY 2017,37,Catholic,1,153
+From: 02 Mar 2017,To: 02 Mar 2017,Dem. Rep. Congo,FY 2017,37,Christian,3,153
+From: 02 Mar 2017,To: 02 Mar 2017,Dem. Rep. Congo,FY 2017,37,Moslem,2,153
+From: 02 Mar 2017,To: 02 Mar 2017,Dem. Rep. Congo,FY 2017,37,Pentecostalist,10,153
+From: 02 Mar 2017,To: 02 Mar 2017,Dem. Rep. Congo,FY 2017,37,Protestant,8,153
+From: 02 Mar 2017,To: 02 Mar 2017,Dem. Rep. Congo,FY 2017,37,Seventh Day Adventist,13,153
+From: 02 Mar 2017,To: 02 Mar 2017,Eritrea,FY 2017,7,Orthodox,7,153
+From: 02 Mar 2017,To: 02 Mar 2017,Ethiopia,FY 2017,4,Moslem,4,153
+From: 02 Mar 2017,To: 02 Mar 2017,Iran,FY 2017,3,Christian,3,153
+From: 02 Mar 2017,To: 02 Mar 2017,Iraq,FY 2017,2,Moslem,2,153
+From: 02 Mar 2017,To: 02 Mar 2017,Pakistan,FY 2017,9,Christian,4,153
+From: 02 Mar 2017,To: 02 Mar 2017,Pakistan,FY 2017,9,Moslem,5,153
+From: 02 Mar 2017,To: 02 Mar 2017,Somalia,FY 2017,31,Moslem,30,153
+From: 02 Mar 2017,To: 02 Mar 2017,Somalia,FY 2017,31,Moslem Suni,1,153
+From: 02 Mar 2017,To: 02 Mar 2017,Uganda,FY 2017,1,Catholic,1,153
+From: 02 Mar 2017,To: 02 Mar 2017,Vietnam,FY 2017,2,Catholic,2,153
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 02 Mar 2017,To: 02 Mar 2017,Buddhist,FY 2017,12,Burma,12,153
+From: 02 Mar 2017,To: 02 Mar 2017,Catholic,FY 2017,4,Dem. Rep. Congo,1,153
+From: 02 Mar 2017,To: 02 Mar 2017,Catholic,FY 2017,4,Uganda,1,153
+From: 02 Mar 2017,To: 02 Mar 2017,Catholic,FY 2017,4,Vietnam,2,153
+From: 02 Mar 2017,To: 02 Mar 2017,Christian,FY 2017,36,Burma,26,153
+From: 02 Mar 2017,To: 02 Mar 2017,Christian,FY 2017,36,Dem. Rep. Congo,3,153
+From: 02 Mar 2017,To: 02 Mar 2017,Christian,FY 2017,36,Iran,3,153
+From: 02 Mar 2017,To: 02 Mar 2017,Christian,FY 2017,36,Pakistan,4,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem,FY 2017,51,Burma,8,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem,FY 2017,51,Dem. Rep. Congo,2,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem,FY 2017,51,Ethiopia,4,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem,FY 2017,51,Iraq,2,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem,FY 2017,51,Pakistan,5,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem,FY 2017,51,Somalia,30,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem Shiite,FY 2017,11,Afghanistan,11,153
+From: 02 Mar 2017,To: 02 Mar 2017,Moslem Suni,FY 2017,1,Somalia,1,153
+From: 02 Mar 2017,To: 02 Mar 2017,Orthodox,FY 2017,7,Eritrea,7,153
+From: 02 Mar 2017,To: 02 Mar 2017,Pentecostalist,FY 2017,10,Dem. Rep. Congo,10,153
+From: 02 Mar 2017,To: 02 Mar 2017,Protestant,FY 2017,8,Dem. Rep. Congo,8,153
+From: 02 Mar 2017,To: 02 Mar 2017,Seventh Day Adventist,FY 2017,13,Dem. Rep. Congo,13,153
+

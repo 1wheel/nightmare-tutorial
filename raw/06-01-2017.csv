@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 01 Jun 2017,To: 01 Jun 2017,Afghanistan,FY 2017,32,Moslem Ismaici,4,209
+From: 01 Jun 2017,To: 01 Jun 2017,Afghanistan,FY 2017,32,Moslem Shiite,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Afghanistan,FY 2017,32,Moslem Suni,15,209
+From: 01 Jun 2017,To: 01 Jun 2017,Bhutan,FY 2017,64,Buddhist,18,209
+From: 01 Jun 2017,To: 01 Jun 2017,Bhutan,FY 2017,64,Christian,12,209
+From: 01 Jun 2017,To: 01 Jun 2017,Bhutan,FY 2017,64,Hindu,29,209
+From: 01 Jun 2017,To: 01 Jun 2017,Bhutan,FY 2017,64,Kirat,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Dem. Rep. Congo,FY 2017,24,Baptist,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Dem. Rep. Congo,FY 2017,24,Catholic,2,209
+From: 01 Jun 2017,To: 01 Jun 2017,Dem. Rep. Congo,FY 2017,24,Christian,4,209
+From: 01 Jun 2017,To: 01 Jun 2017,Dem. Rep. Congo,FY 2017,24,Seventh Day Adventist,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,El Salvador,FY 2017,18,Catholic,9,209
+From: 01 Jun 2017,To: 01 Jun 2017,El Salvador,FY 2017,18,Christian,2,209
+From: 01 Jun 2017,To: 01 Jun 2017,El Salvador,FY 2017,18,Evangelical Christian,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,El Salvador,FY 2017,18,No Religion,2,209
+From: 01 Jun 2017,To: 01 Jun 2017,Iran,FY 2017,29,Christian,15,209
+From: 01 Jun 2017,To: 01 Jun 2017,Iran,FY 2017,29,No Religion,1,209
+From: 01 Jun 2017,To: 01 Jun 2017,Iran,FY 2017,29,Protestant,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Iran,FY 2017,29,Zoroastrian,8,209
+From: 01 Jun 2017,To: 01 Jun 2017,Iraq,FY 2017,18,Moslem Shiite,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Iraq,FY 2017,18,Moslem Suni,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Pakistan,FY 2017,6,Ahmadiyya,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Pakistan,FY 2017,6,Christian,1,209
+From: 01 Jun 2017,To: 01 Jun 2017,Rwanda,FY 2017,1,Protestant,1,209
+From: 01 Jun 2017,To: 01 Jun 2017,Somalia,FY 2017,13,Moslem,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Syria,FY 2017,4,Moslem Suni,4,209
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 01 Jun 2017,To: 01 Jun 2017,Ahmadiyya,FY 2017,5,Pakistan,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Baptist,FY 2017,5,Dem. Rep. Congo,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Buddhist,FY 2017,18,Bhutan,18,209
+From: 01 Jun 2017,To: 01 Jun 2017,Catholic,FY 2017,11,Dem. Rep. Congo,2,209
+From: 01 Jun 2017,To: 01 Jun 2017,Catholic,FY 2017,11,El Salvador,9,209
+From: 01 Jun 2017,To: 01 Jun 2017,Christian,FY 2017,34,Bhutan,12,209
+From: 01 Jun 2017,To: 01 Jun 2017,Christian,FY 2017,34,Dem. Rep. Congo,4,209
+From: 01 Jun 2017,To: 01 Jun 2017,Christian,FY 2017,34,El Salvador,2,209
+From: 01 Jun 2017,To: 01 Jun 2017,Christian,FY 2017,34,Iran,15,209
+From: 01 Jun 2017,To: 01 Jun 2017,Christian,FY 2017,34,Pakistan,1,209
+From: 01 Jun 2017,To: 01 Jun 2017,Evangelical Christian,FY 2017,5,El Salvador,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Hindu,FY 2017,29,Bhutan,29,209
+From: 01 Jun 2017,To: 01 Jun 2017,Kirat,FY 2017,5,Bhutan,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem,FY 2017,13,Somalia,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem Ismaici,FY 2017,4,Afghanistan,4,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem Shiite,FY 2017,18,Afghanistan,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem Shiite,FY 2017,18,Iraq,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem Suni,FY 2017,32,Afghanistan,15,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem Suni,FY 2017,32,Iraq,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Moslem Suni,FY 2017,32,Syria,4,209
+From: 01 Jun 2017,To: 01 Jun 2017,No Religion,FY 2017,3,El Salvador,2,209
+From: 01 Jun 2017,To: 01 Jun 2017,No Religion,FY 2017,3,Iran,1,209
+From: 01 Jun 2017,To: 01 Jun 2017,Protestant,FY 2017,6,Iran,5,209
+From: 01 Jun 2017,To: 01 Jun 2017,Protestant,FY 2017,6,Rwanda,1,209
+From: 01 Jun 2017,To: 01 Jun 2017,Seventh Day Adventist,FY 2017,13,Dem. Rep. Congo,13,209
+From: 01 Jun 2017,To: 01 Jun 2017,Zoroastrian,FY 2017,8,Iran,8,209
+

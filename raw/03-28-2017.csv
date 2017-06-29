@@ -1,0 +1,59 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 28 Mar 2017,To: 28 Mar 2017,Cuba,FY 2017,3,Jehovah Witness,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Cuba,FY 2017,3,No Religion,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Dem. Rep. Congo,FY 2017,5,Pentecostalist,5,209
+From: 28 Mar 2017,To: 28 Mar 2017,El Salvador,FY 2017,14,Catholic,8,209
+From: 28 Mar 2017,To: 28 Mar 2017,El Salvador,FY 2017,14,Christian,3,209
+From: 28 Mar 2017,To: 28 Mar 2017,El Salvador,FY 2017,14,No Religion,3,209
+From: 28 Mar 2017,To: 28 Mar 2017,Eritrea,FY 2017,1,Moslem,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Ethiopia,FY 2017,2,Moslem,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Guatemala,FY 2017,3,Christian,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Guatemala,FY 2017,3,Evangelical Christian,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Honduras,FY 2017,4,Evangelical Christian,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Honduras,FY 2017,4,No Religion,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Iran,FY 2017,19,Christian,18,209
+From: 28 Mar 2017,To: 28 Mar 2017,Iran,FY 2017,19,Zoroastrian,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Iraq,FY 2017,9,Moslem Suni,9,209
+From: 28 Mar 2017,To: 28 Mar 2017,Pakistan,FY 2017,5,Ahmadiyya,5,209
+From: 28 Mar 2017,To: 28 Mar 2017,Somalia,FY 2017,44,Moslem,44,209
+From: 28 Mar 2017,To: 28 Mar 2017,Sudan,FY 2017,13,Moslem,7,209
+From: 28 Mar 2017,To: 28 Mar 2017,Sudan,FY 2017,13,Moslem Suni,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Sudan,FY 2017,13,Protestant,4,209
+From: 28 Mar 2017,To: 28 Mar 2017,Syria,FY 2017,51,Christian,3,209
+From: 28 Mar 2017,To: 28 Mar 2017,Syria,FY 2017,51,Moslem Suni,48,209
+From: 28 Mar 2017,To: 28 Mar 2017,Ukraine,FY 2017,36,Baptist,18,209
+From: 28 Mar 2017,To: 28 Mar 2017,Ukraine,FY 2017,36,Evangelical Christian,4,209
+From: 28 Mar 2017,To: 28 Mar 2017,Ukraine,FY 2017,36,Pentecostalist,12,209
+From: 28 Mar 2017,To: 28 Mar 2017,Ukraine,FY 2017,36,Seventh Day Adventist,2,209
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 28 Mar 2017,To: 28 Mar 2017,Ahmadiyya,FY 2017,5,Pakistan,5,209
+From: 28 Mar 2017,To: 28 Mar 2017,Baptist,FY 2017,18,Ukraine,18,209
+From: 28 Mar 2017,To: 28 Mar 2017,Catholic,FY 2017,8,El Salvador,8,209
+From: 28 Mar 2017,To: 28 Mar 2017,Christian,FY 2017,25,El Salvador,3,209
+From: 28 Mar 2017,To: 28 Mar 2017,Christian,FY 2017,25,Guatemala,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Christian,FY 2017,25,Iran,18,209
+From: 28 Mar 2017,To: 28 Mar 2017,Christian,FY 2017,25,Syria,3,209
+From: 28 Mar 2017,To: 28 Mar 2017,Evangelical Christian,FY 2017,8,Guatemala,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Evangelical Christian,FY 2017,8,Honduras,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Evangelical Christian,FY 2017,8,Ukraine,4,209
+From: 28 Mar 2017,To: 28 Mar 2017,Jehovah Witness,FY 2017,1,Cuba,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem,FY 2017,54,Eritrea,1,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem,FY 2017,54,Ethiopia,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem,FY 2017,54,Somalia,44,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem,FY 2017,54,Sudan,7,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem Suni,FY 2017,59,Iraq,9,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem Suni,FY 2017,59,Sudan,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Moslem Suni,FY 2017,59,Syria,48,209
+From: 28 Mar 2017,To: 28 Mar 2017,No Religion,FY 2017,7,Cuba,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,No Religion,FY 2017,7,El Salvador,3,209
+From: 28 Mar 2017,To: 28 Mar 2017,No Religion,FY 2017,7,Honduras,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Pentecostalist,FY 2017,17,Dem. Rep. Congo,5,209
+From: 28 Mar 2017,To: 28 Mar 2017,Pentecostalist,FY 2017,17,Ukraine,12,209
+From: 28 Mar 2017,To: 28 Mar 2017,Protestant,FY 2017,4,Sudan,4,209
+From: 28 Mar 2017,To: 28 Mar 2017,Seventh Day Adventist,FY 2017,2,Ukraine,2,209
+From: 28 Mar 2017,To: 28 Mar 2017,Zoroastrian,FY 2017,1,Iran,1,209
+

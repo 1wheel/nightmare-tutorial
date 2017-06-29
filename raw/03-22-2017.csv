@@ -1,0 +1,53 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 22 Mar 2017,To: 22 Mar 2017,Burma,FY 2017,14,Buddhist,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Burma,FY 2017,14,Christian,9,113
+From: 22 Mar 2017,To: 22 Mar 2017,Burma,FY 2017,14,Moslem,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Burma,FY 2017,14,No Religion,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Dem. Rep. Congo,FY 2017,15,Christian,3,113
+From: 22 Mar 2017,To: 22 Mar 2017,Dem. Rep. Congo,FY 2017,15,Jehovah Witness,11,113
+From: 22 Mar 2017,To: 22 Mar 2017,Dem. Rep. Congo,FY 2017,15,Pentecostalist,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,El Salvador,FY 2017,17,Catholic,10,113
+From: 22 Mar 2017,To: 22 Mar 2017,El Salvador,FY 2017,17,Christian,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,El Salvador,FY 2017,17,Evangelical Christian,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,El Salvador,FY 2017,17,No Religion,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,El Salvador,FY 2017,17,Seventh Day Adventist,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Ethiopia,FY 2017,5,Moslem,5,113
+From: 22 Mar 2017,To: 22 Mar 2017,Iran,FY 2017,1,Bahai,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Iraq,FY 2017,3,Moslem Shiite,3,113
+From: 22 Mar 2017,To: 22 Mar 2017,Nepal,FY 2017,1,Hindu,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Oman,FY 2017,1,Moslem,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Russia,FY 2017,4,Baptist,3,113
+From: 22 Mar 2017,To: 22 Mar 2017,Russia,FY 2017,4,Pentecostalist,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Somalia,FY 2017,12,Moslem,8,113
+From: 22 Mar 2017,To: 22 Mar 2017,Somalia,FY 2017,12,Moslem Suni,4,113
+From: 22 Mar 2017,To: 22 Mar 2017,Sudan,FY 2017,8,Moslem,8,113
+From: 22 Mar 2017,To: 22 Mar 2017,Syria,FY 2017,32,Moslem Suni,32,113
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 22 Mar 2017,To: 22 Mar 2017,Bahai,FY 2017,1,Iran,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Baptist,FY 2017,3,Russia,3,113
+From: 22 Mar 2017,To: 22 Mar 2017,Buddhist,FY 2017,2,Burma,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Catholic,FY 2017,10,El Salvador,10,113
+From: 22 Mar 2017,To: 22 Mar 2017,Christian,FY 2017,14,Burma,9,113
+From: 22 Mar 2017,To: 22 Mar 2017,Christian,FY 2017,14,Dem. Rep. Congo,3,113
+From: 22 Mar 2017,To: 22 Mar 2017,Christian,FY 2017,14,El Salvador,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Evangelical Christian,FY 2017,2,El Salvador,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Hindu,FY 2017,1,Nepal,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Jehovah Witness,FY 2017,11,Dem. Rep. Congo,11,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem,FY 2017,24,Burma,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem,FY 2017,24,Ethiopia,5,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem,FY 2017,24,Oman,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem,FY 2017,24,Somalia,8,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem,FY 2017,24,Sudan,8,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem Shiite,FY 2017,3,Iraq,3,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem Suni,FY 2017,36,Somalia,4,113
+From: 22 Mar 2017,To: 22 Mar 2017,Moslem Suni,FY 2017,36,Syria,32,113
+From: 22 Mar 2017,To: 22 Mar 2017,No Religion,FY 2017,3,Burma,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,No Religion,FY 2017,3,El Salvador,2,113
+From: 22 Mar 2017,To: 22 Mar 2017,Pentecostalist,FY 2017,2,Dem. Rep. Congo,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Pentecostalist,FY 2017,2,Russia,1,113
+From: 22 Mar 2017,To: 22 Mar 2017,Seventh Day Adventist,FY 2017,1,El Salvador,1,113
+

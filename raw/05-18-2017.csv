@@ -1,0 +1,57 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 18 May 2017,To: 18 May 2017,Afghanistan,FY 2017,3,Moslem Shiite,3,115
+From: 18 May 2017,To: 18 May 2017,Bhutan,FY 2017,25,Buddhist,7,115
+From: 18 May 2017,To: 18 May 2017,Bhutan,FY 2017,25,Christian,8,115
+From: 18 May 2017,To: 18 May 2017,Bhutan,FY 2017,25,Hindu,10,115
+From: 18 May 2017,To: 18 May 2017,Burma,FY 2017,30,Buddhist,6,115
+From: 18 May 2017,To: 18 May 2017,Burma,FY 2017,30,Christian,17,115
+From: 18 May 2017,To: 18 May 2017,Burma,FY 2017,30,Moslem,7,115
+From: 18 May 2017,To: 18 May 2017,Central African Republic,FY 2017,1,Baptist,1,115
+From: 18 May 2017,To: 18 May 2017,Dem. Rep. Congo,FY 2017,8,Christian,1,115
+From: 18 May 2017,To: 18 May 2017,Dem. Rep. Congo,FY 2017,8,Pentecostalist,7,115
+From: 18 May 2017,To: 18 May 2017,El Salvador,FY 2017,1,Catholic,1,115
+From: 18 May 2017,To: 18 May 2017,Eritrea,FY 2017,4,Christian,1,115
+From: 18 May 2017,To: 18 May 2017,Eritrea,FY 2017,4,Moslem,2,115
+From: 18 May 2017,To: 18 May 2017,Eritrea,FY 2017,4,Orthodox,1,115
+From: 18 May 2017,To: 18 May 2017,Ethiopia,FY 2017,5,Moslem,1,115
+From: 18 May 2017,To: 18 May 2017,Ethiopia,FY 2017,5,Pentecostalist,4,115
+From: 18 May 2017,To: 18 May 2017,Mali,FY 2017,2,Atheist,1,115
+From: 18 May 2017,To: 18 May 2017,Mali,FY 2017,2,Moslem,1,115
+From: 18 May 2017,To: 18 May 2017,Nepal,FY 2017,9,Christian,2,115
+From: 18 May 2017,To: 18 May 2017,Nepal,FY 2017,9,Hindu,6,115
+From: 18 May 2017,To: 18 May 2017,Nepal,FY 2017,9,Kirat,1,115
+From: 18 May 2017,To: 18 May 2017,Nigeria,FY 2017,1,Christian,1,115
+From: 18 May 2017,To: 18 May 2017,Senegal,FY 2017,1,Moslem,1,115
+From: 18 May 2017,To: 18 May 2017,Somalia,FY 2017,16,Moslem,16,115
+From: 18 May 2017,To: 18 May 2017,Syria,FY 2017,9,Moslem Suni,9,115
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 18 May 2017,To: 18 May 2017,Atheist,FY 2017,1,Mali,1,115
+From: 18 May 2017,To: 18 May 2017,Baptist,FY 2017,1,Central African Republic,1,115
+From: 18 May 2017,To: 18 May 2017,Buddhist,FY 2017,13,Bhutan,7,115
+From: 18 May 2017,To: 18 May 2017,Buddhist,FY 2017,13,Burma,6,115
+From: 18 May 2017,To: 18 May 2017,Catholic,FY 2017,1,El Salvador,1,115
+From: 18 May 2017,To: 18 May 2017,Christian,FY 2017,30,Bhutan,8,115
+From: 18 May 2017,To: 18 May 2017,Christian,FY 2017,30,Burma,17,115
+From: 18 May 2017,To: 18 May 2017,Christian,FY 2017,30,Dem. Rep. Congo,1,115
+From: 18 May 2017,To: 18 May 2017,Christian,FY 2017,30,Eritrea,1,115
+From: 18 May 2017,To: 18 May 2017,Christian,FY 2017,30,Nepal,2,115
+From: 18 May 2017,To: 18 May 2017,Christian,FY 2017,30,Nigeria,1,115
+From: 18 May 2017,To: 18 May 2017,Hindu,FY 2017,16,Bhutan,10,115
+From: 18 May 2017,To: 18 May 2017,Hindu,FY 2017,16,Nepal,6,115
+From: 18 May 2017,To: 18 May 2017,Kirat,FY 2017,1,Nepal,1,115
+From: 18 May 2017,To: 18 May 2017,Moslem,FY 2017,28,Burma,7,115
+From: 18 May 2017,To: 18 May 2017,Moslem,FY 2017,28,Eritrea,2,115
+From: 18 May 2017,To: 18 May 2017,Moslem,FY 2017,28,Ethiopia,1,115
+From: 18 May 2017,To: 18 May 2017,Moslem,FY 2017,28,Mali,1,115
+From: 18 May 2017,To: 18 May 2017,Moslem,FY 2017,28,Senegal,1,115
+From: 18 May 2017,To: 18 May 2017,Moslem,FY 2017,28,Somalia,16,115
+From: 18 May 2017,To: 18 May 2017,Moslem Shiite,FY 2017,3,Afghanistan,3,115
+From: 18 May 2017,To: 18 May 2017,Moslem Suni,FY 2017,9,Syria,9,115
+From: 18 May 2017,To: 18 May 2017,Orthodox,FY 2017,1,Eritrea,1,115
+From: 18 May 2017,To: 18 May 2017,Pentecostalist,FY 2017,11,Dem. Rep. Congo,7,115
+From: 18 May 2017,To: 18 May 2017,Pentecostalist,FY 2017,11,Ethiopia,4,115
+

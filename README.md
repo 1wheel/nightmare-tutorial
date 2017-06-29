@@ -1,14 +1,7 @@
 Get the lastest node:
 
 ```
-npm install -g n
-n latest
-```
-
-Run with `async` enabled:
-
-```
-node --harmony index.js
+npm install -g n && n latest
 ```
 
 Move project directory and reparse:
