@@ -1,0 +1,83 @@
+textbox9,textbox11,Textbox34
+Nationality(s): All Nationalities,Religion(s): All Religions,Data prior to 2002 was migrated into WRAPS from a legacy system therefore we are providing post-2002 data.
+
+Textbox126,Textbox127,nat_definition3,region_name_2,textbox36,relig_definition1,Cases,Cases2
+From: 05 Jul 2017,To: 05 Jul 2017,Afghanistan,FY 2017,10,Moslem Shiite,5,266
+From: 05 Jul 2017,To: 05 Jul 2017,Afghanistan,FY 2017,10,Moslem Suni,5,266
+From: 05 Jul 2017,To: 05 Jul 2017,Belarus,FY 2017,2,Jewish,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Burma,FY 2017,19,Baptist,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Burma,FY 2017,19,Christian,13,266
+From: 05 Jul 2017,To: 05 Jul 2017,Burma,FY 2017,19,Moslem,5,266
+From: 05 Jul 2017,To: 05 Jul 2017,Burundi,FY 2017,8,Catholic,8,266
+From: 05 Jul 2017,To: 05 Jul 2017,Cuba,FY 2017,3,No Religion,3,266
+From: 05 Jul 2017,To: 05 Jul 2017,Dem. Rep. Congo,FY 2017,56,Catholic,18,266
+From: 05 Jul 2017,To: 05 Jul 2017,Dem. Rep. Congo,FY 2017,56,Christian,3,266
+From: 05 Jul 2017,To: 05 Jul 2017,Dem. Rep. Congo,FY 2017,56,Methodist,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Dem. Rep. Congo,FY 2017,56,Pentecostalist,20,266
+From: 05 Jul 2017,To: 05 Jul 2017,Dem. Rep. Congo,FY 2017,56,Seventh Day Adventist,11,266
+From: 05 Jul 2017,To: 05 Jul 2017,El Salvador,FY 2017,18,Catholic,13,266
+From: 05 Jul 2017,To: 05 Jul 2017,El Salvador,FY 2017,18,Christian,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,El Salvador,FY 2017,18,No Religion,3,266
+From: 05 Jul 2017,To: 05 Jul 2017,Eritrea,FY 2017,7,Orthodox,6,266
+From: 05 Jul 2017,To: 05 Jul 2017,Eritrea,FY 2017,7,Protestant,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ethiopia,FY 2017,11,Moslem,9,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ethiopia,FY 2017,11,Orthodox,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Iran,FY 2017,2,Christian,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Iran,FY 2017,2,No Religion,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Iraq,FY 2017,13,Catholic,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Iraq,FY 2017,13,Chaldean,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Iraq,FY 2017,13,Moslem Suni,10,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ivory Coast,FY 2017,2,Christian,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Republic of South Sudan,FY 2017,4,Protestant,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Somalia,FY 2017,56,Moslem,52,266
+From: 05 Jul 2017,To: 05 Jul 2017,Somalia,FY 2017,56,Moslem Suni,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Sudan,FY 2017,11,Christian,10,266
+From: 05 Jul 2017,To: 05 Jul 2017,Sudan,FY 2017,11,Protestant,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Syria,FY 2017,8,Moslem Suni,7,266
+From: 05 Jul 2017,To: 05 Jul 2017,Syria,FY 2017,8,No Religion,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Uganda,FY 2017,1,Moslem,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ukraine,FY 2017,35,Baptist,7,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ukraine,FY 2017,35,Christian,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ukraine,FY 2017,35,Pentecostalist,22,266
+From: 05 Jul 2017,To: 05 Jul 2017,Ukraine,FY 2017,35,Seventh Day Adventist,2,266
+
+Textbox134,Textbox135,nat_definition4,region_name_3,textbox37,relig_definition2,Cases3,Cases4
+From: 05 Jul 2017,To: 05 Jul 2017,Baptist,FY 2017,8,Burma,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Baptist,FY 2017,8,Ukraine,7,266
+From: 05 Jul 2017,To: 05 Jul 2017,Catholic,FY 2017,41,Burundi,8,266
+From: 05 Jul 2017,To: 05 Jul 2017,Catholic,FY 2017,41,Dem. Rep. Congo,18,266
+From: 05 Jul 2017,To: 05 Jul 2017,Catholic,FY 2017,41,El Salvador,13,266
+From: 05 Jul 2017,To: 05 Jul 2017,Catholic,FY 2017,41,Iraq,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Chaldean,FY 2017,1,Iraq,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,Burma,13,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,Dem. Rep. Congo,3,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,El Salvador,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,Iran,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,Ivory Coast,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,Sudan,10,266
+From: 05 Jul 2017,To: 05 Jul 2017,Christian,FY 2017,35,Ukraine,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Jewish,FY 2017,2,Belarus,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Methodist,FY 2017,4,Dem. Rep. Congo,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem,FY 2017,67,Burma,5,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem,FY 2017,67,Ethiopia,9,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem,FY 2017,67,Somalia,52,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem,FY 2017,67,Uganda,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem Shiite,FY 2017,5,Afghanistan,5,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem Suni,FY 2017,26,Afghanistan,5,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem Suni,FY 2017,26,Iraq,10,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem Suni,FY 2017,26,Somalia,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Moslem Suni,FY 2017,26,Syria,7,266
+From: 05 Jul 2017,To: 05 Jul 2017,No Religion,FY 2017,8,Cuba,3,266
+From: 05 Jul 2017,To: 05 Jul 2017,No Religion,FY 2017,8,El Salvador,3,266
+From: 05 Jul 2017,To: 05 Jul 2017,No Religion,FY 2017,8,Iran,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,No Religion,FY 2017,8,Syria,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Orthodox,FY 2017,8,Eritrea,6,266
+From: 05 Jul 2017,To: 05 Jul 2017,Orthodox,FY 2017,8,Ethiopia,2,266
+From: 05 Jul 2017,To: 05 Jul 2017,Pentecostalist,FY 2017,42,Dem. Rep. Congo,20,266
+From: 05 Jul 2017,To: 05 Jul 2017,Pentecostalist,FY 2017,42,Ukraine,22,266
+From: 05 Jul 2017,To: 05 Jul 2017,Protestant,FY 2017,6,Eritrea,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Protestant,FY 2017,6,Republic of South Sudan,4,266
+From: 05 Jul 2017,To: 05 Jul 2017,Protestant,FY 2017,6,Sudan,1,266
+From: 05 Jul 2017,To: 05 Jul 2017,Seventh Day Adventist,FY 2017,13,Dem. Rep. Congo,11,266
+From: 05 Jul 2017,To: 05 Jul 2017,Seventh Day Adventist,FY 2017,13,Ukraine,2,266
+

@@ -7,7 +7,7 @@ const glob = require('glob')
 
 
 //delete recent dates (current day gets updated throughout day)
-d3.timeDay.range(new Date(2017, 5, 16), new Date(), 1)
+d3.timeDay.range(new Date(2017, 5, 25), new Date(), 1)
   .map(d3.timeFormat('%m/%d/%Y'))
   .forEach(function(d){
     var path = __dirname + '/raw/' + d.replace(/\//g, '-') + '.csv'
